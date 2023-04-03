@@ -1,0 +1,113 @@
+The appeal arises in another case which involves the meaning of credit, the amount of credit and the charge for credit in the Consumer Credit Act 1974 (the Act).
+The case for the appellant borrowers is that the respondent lender failed correctly to state the amount of credit in the loan agreement.
+If that case is accepted, it follows that the loan agreement is wholly unenforceable under the Act.
+This point was not taken before District Judge Gilham, who made a suspended order for possession on terms that the borrowers made the payments as and when due and paid off what were substantial arrears by monthly instalments.
+The borrowers appealed to the Circuit Judge and were permitted to take the point that the agreement was unenforceable.
+They succeeded before His Honour Judge Halbert on 27 April 2009, with the result that he ordered the discharge of the charge registered on the property.
+However, the Court of Appeal allowed the lenders appeal on 12 November 2009.
+This appeal by the borrowers is brought with the permission of the Supreme Court.
+The agreement
+The borrowers are Mr and Mrs Walker.
+They completed an application form for a loan from the lender, Southern Pacific Personal Loans Limited (SPPL).
+The respondent is the successor in title to SPPL.
+The parties signed a credit agreement which it is common ground is regulated by the Act.
+On the front the agreement contains a number of boxes under the heading FINANCIAL MATTERS, some NOTES in smaller but legible print, some warnings in capital letters and the parties signatures.
+The borrowers signed it on 26 March 2005 and SPPL signed it on 20 April 2005.
+On the reverse there appear 46 LENDING CONDITIONS and some definitions.
+The boxes are set out in this way: FINANCIAL MATTERS: A Loan B Payment Protection Insurance (Optional) C Amount of Credit (A+B) Single Joint 17500 Current Margin Rate at: Above LIBOR We may change the interest rate (see below) Single & Joint & Single Life Joint Life 0 17500 The rate of interest payable is\: Repayment term: 9 % 13.98 % 180 months 244.46 D Broker Administration Fee 875 Monthly payment: We may change the Monthly Payment under the Terms and Conditions E Total Amount Financed (C+D) 18375 The APR applicable to the credit as shown in both A&B is 16 %
+The NOTES make it clear that all the terms, including the LENDING CONDITIONS, form part of the agreement, and also include this: Payments You must repay the Amount of Credit together with any amounts financed under this Agreement with interest by making the Monthly Payments.
+Clause 15 of the LENDING CONDITIONS provides: We will charge interest on the money you owe us (which includes the Loan, interest and Expenses) at the Interest Rate.
+The issue
+The issue in this appeal is whether the Amount of Credit is incorrectly stated in box C.
+The borrowers case is that the true amount of credit was not 17,500 as stated in box C but 18,375, which is the amount stated in box E, where it is described as Total Amount Financed.
+It is common ground that the amount of 875, which is described in box D as the Broker Administration Fee was advanced to the borrowers and that interest was payable on it at the same rate as on the sum of 17,500.
+Thus the Total Amount Financed is shown as 17,500 plus 875, namely 18,375, and interest is shown to be payable at 13.98 per cent per annum on that total figure.
+It is submitted on behalf of the borrowers that it follows from the fact that the total amount of the loan was 18,375 that the Amount of Credit was 18,375.
+It is said that, applying the principle of truth in lending, it is wrong to describe the Amount of Credit as only 17,500 because SPPL lent the borrowers the total sum of 18,375 and charged interest on that total.
+So expressed, that submission seems to us to have some attraction.
+However, it was rejected by the Court of Appeal in an admirably succinct judgment given by Mummery LJ, with whom Sullivan LJ and Owen J agreed.
+The issue is whether the Court of Appeal was correct.
+All depends upon the true construction of section 9 of the Act.
+The Act and the Regulations
+By section 8(2) of the Act, as amended as at the relevant time, a consumer credit agreement is a personal credit agreement by which the creditor provides the debtor with credit not exceeding 25,000.
+Sections 9 and 20 of the Act provide, so far as relevant, as follows: 9 Meaning of Credit (1) In this Act credit includes a cash loan, and any other form of financial accommodation. (4) For the purposes of this Act, an item entering into the total charge for credit shall not be treated as credit even though time is allowed for its payment. 20 Total charge for credit (1) The Secretary of State shall make provisions containing such regulations as appear to him to be appropriate for determining the true cost to the debtor of the credit provided or to be provided under an actual or prospective consumer credit agreement (the total charge for credit), and regulations so made shall prescribe (a) what items are to be treated as entering into the total charge for credit, and how their amount is to be ascertained; the method of calculating the rate of the total charge for credit. (b) By section 189, unless the context otherwise requires, credit is to be construed in accordance with section 9.
+The relevant regulations under the Act were the Consumer Credit (Total Charge for Credit) Regulations 1980 (the TCC Regulations) and the Consumer Credit (Agreements) Regulations 1983 (the Agreements Regulations).
+We will refer to them together as the Regulations.
+They have been amended over time, both before and after the agreement.
+For present purposes both the Act and the Regulations in the form in which they were in April 2005 apply.
+The TCC Regulations were made under section 20 of the Act.
+Regulation 4 of them is entitled Items included in total charge for credit and provides, so far as relevant: Except as provided by regulation 5 below, the amounts of the following charges are included in the total charge for credit in relation to an agreement: (a) the total of the interest on the credit which may be provided under the agreement; (b) other charges at any time payable under the transaction by or on behalf of the debtor or a relative of his whether to the creditor or any other person.
+Section 60 of the Act requires the Secretary of State to make regulations as to the form and content of documents embodying regulated agreements.
+He made the Agreements Regulations under that section.
+Section 61(1)(a) of the Act provides that, among other things, a regulated agreement is not properly executed unless a document containing all the prescribed terms is signed by the debtor.
+The Act and the Regulations distinguish between prescribed terms and required terms.
+In the case of an agreement predating 6 April 2007 such as the agreement which is the subject of this appeal, by section 127(3) of the Act a failure properly to include a prescribed term in the agreement renders the agreement wholly unenforceable, whereas a failure properly to include a required term merely means that the agreement is enforceable only by court order under section 65(1) of the Act.
+In the case of the agreement in this case, the prescribed terms were: a term stating the amount of credit (Agreements Regulations reg 6(1) and Sch 6, para 2), a term stating the rate of any interest on the credit to be provided under the agreement (ibid Sch 6, para 4) and a term stating how the debtor is to discharge his obligations under the agreement to make the repayments (ibid Sch 6, para 5).
+In the instant case it is common ground that, if the agreement contains a term correctly stating the amount of the credit, it complies with Schedule 6, para 2 of the Agreements Regulations and is enforceable, whereas if it does not, it is irredeemably unenforceable.
+Discussion
+But for the provisions of section 9 of the Act, there would be a strong case for saying that, since the total amount advanced was 18,350, that was the amount of credit and, since that sum was not stated in the agreement to be the amount of the credit, it follows that it does not contain a prescribed term and is unenforceable.
+The problem is that section 9(4) provides that an item entering into the total charge for credit shall not be treated as credit.
+It follows that if an item is part of the total charge for credit, it cannot form part of the amount of credit, even if it would otherwise be regarded as credit.
+That conclusion, which, in our judgment, follows from the plain meaning of subsection (4), is supported by the authorities: see in particular Wilson v First County Trust Ltd [2001] QB 407, Watchtower Investments Ltd v Payne [2001] EWCA Civ 1159, [2001] GCCR 3055 and Wilson v Robertsons (London) Ltd [2005] EWHC 1425 (Ch), [2006] 1 WLR 1248.
+In each of those cases it was stressed that the first step is to assess the total charge for credit because, as Mummery LJ put it at para 15 of his judgment in this case, those items financed by the creditor which form part of the charge for credit must be identified and stripped out before the amount of credit can be determined.
+He took that phrase from para 35 of the judgment of Laddie J in the Robertsons (London) case, where the judge quoted from para 24.144 of the then edition of Professor Goodes work Consumer Credit Law and Practice.
+In Wilson v First County it was held that the agreement was unenforceable because the amount of credit was not correctly stated in it.
+The lender had agreed a loan of 5,000, to which was added a document fee of 250, which itself bore interest.
+The agreement stated that the amount of the loan was 5,250.
+So indeed in one sense it was.
+However, the Court of Appeal held that the amount of the credit was 5,000 and was incorrectly stated as 5,250.
+The reason was that the document fee was part of the charge for credit, that is the cost of the credit, and that, under section 9(4) of the Act, it could not be treated as, and thus form part of, the amount of the credit.
+As Mummery LJ observed at para 16, the Act does not define charge for credit.
+At para 52 of his judgment in the Watchtower case Peter Gibson LJ noted that it is not always easy to draw the line between an item forming part of the total charge for credit and an item forming part of the credit itself.
+He concluded that, in order to identify the total charge for credit, the purpose of the courts consideration is to arrive at what in reality is the true cost to the debtor of the credit provided.
+See also the judgment of Clarke LJ in that case at para 63, where it is noted that section 20 of the Act (quoted above) points the way.
+The question is thus what was the true cost to the borrowers of the credit provided under the agreement.
+There are two items which have been the subject of debate.
+The first is the Broker Administration Fee and the second is the interest on that fee.
+As to the fee, there cannot, in our judgment, be any doubt that it was part of the total cost of the credit.
+It was a fee paid to intermediary brokers and, as such, was a cost to the borrowers of borrowing the 17,500 from SPPL.
+That is plainly so, even though it was itself borrowed from SPPL.
+Once it is accepted that it was part of the total charge for credit, it follows that it must be stripped out of the amount of credit and, by section 9(4) of the Act shall not be treated as credit.
+It is analogous to the document fee in the Wilson v First County case.
+If it had been expressed as part of the amount of credit, like the document fee, so that amount of credit was expressed as 18,375, the agreement would have been unenforceable for the same reason as the Court of Appeal held the agreement, which stated the amount of credit as 5,250, to be unenforceable in that case.
+There seems little doubt that the form in which the agreement was drafted in the instant case owed much to the decision and reasoning of the Court of Appeal in the Wilson v First County case.
+The question remains whether that conclusion is affected by the fact that SPPL was lending the fee at the same rate of interest as that on the sum of 17,500, or indeed at any rate of interest.
+The answer must be no. Section 9(4) does not prohibit the charging of interest.
+If the fee itself was part of the total charge for credit, it seems to us to follow that interest on that fee was also part of the total charge for credit and not therefore to be treated as credit.
+As the court sees it, both the fee and interest on the fee are other charges within regulation 4(b) of the TCC Regulations quoted above and are thus included in the total charge for credit.
+Even if, for some reason, the interest were not so included in the charge for credit, we do not see how the interest could itself be credit.
+The borrowers argument involves saying that, whereas in the case of, say, a loan of 1,000 repayable with interest and a document fee of 50 repayable without interest, the amount of credit is 1,000, nevertheless in the case of such a loan but with a document fee of 50 repayable with interest, the amount of credit is 1,050.
+That seems to us to be nonsensical.
+Either the credit is 1,050 in both cases or in neither.
+For the reasons we have given we conclude that the answer in both cases is 1,000.
+The borrowers submission is that so to conclude is to infringe the principle of truth in lending.
+The argument is essentially that the true position here is that the total amount lent was 18,375 and that to describe the amount of the credit as 17,500 was therefore misleading and wrong.
+It is true that the total amount financed was 18,375 and that, in ordinary parlance, that was indeed the total amount of the loan or the total amount of the credit.
+So to conclude would, however, be to disregard the provisions of the Act, especially section 9(4).
+As the court sees it, the borrowers case involves construing section 9(4) as if it read: For the purposes of this Act, an item entering into the total charge for credit shall not be treated as credit even though time is allowed for payment (unless interest is charged, in which case it shall be treated as credit).
+There is in our judgment no warrant for the addition of the words in italics.
+We agree with the conclusions of Mummery LJ at paras 34 and 35: in particular that the borrowers submissions treat interest as a necessary feature or indicator of credit, which it is not, and that it was not the function of section 9 to prohibit anything but rather to supply a special statutory meaning to the core concept of credit in the Act and to distinguish it from the charge for, or cost of, credit.
+For the reasons we have given, which are based both on the language of the statute and the authorities cited above, we hold that, although it too was advanced to the borrowers and repayable with interest, the fee of 875 was part of the total cost of, or charge for, credit and therefore cannot be treated as part of the credit.
+Once that is appreciated, it can be seen that there is no infringement of the principle of truth in lending.
+The agreement is in clear terms.
+In the box on the front it draws a distinction between Amount of Credit, which in this case is the amount of the Loan namely 17,500 and the Total Amount Financed, namely the Amount of the Credit plus the Broker Administration Fee of 875, which makes 18,375.
+Moreover the boxes, together with the provision quoted at para 4 above, make it clear that the rate of interest of 13.98 per cent is payable on the whole of the Total Amount Financed and that the Monthly Payment was 244.46.
+There was no basis for confusion as to what sum was to be paid each month or as to what made up the Amount of Credit and what was the Broker Administration Fee.
+Nor was there any basis for confusion as to the calculation of the APR shown in the bottom right hand box of 16 per cent.
+As the description states, it was applicable to the credit shown in both A&B, namely the Amount of Credit of 17,500, but taking into account the interest chargeable on both that sum and the 875 Broker Administration Fee.
+It is not suggested that the APR was incorrectly calculated.
+For these reasons, which are essentially the same as those more concisely set out by Mummery LJ in the Court of Appeal, we dismiss the appeal.
+We merely note by way of postscript that, if the fee had been included in the amount of credit, so that the Amount of Credit was stated as 18,375, the borrowers would no doubt have said that the loan was unenforceable on the ground that the fee was part of the cost of the credit and should not therefore have been treated as part of the credit.
+Such an argument would have succeeded on the basis of the decision and reasoning in Wilson v First County.
+As we see it, in order to succeed in this appeal, the borrowers would have to persuade the court that Wilson v First County was wrongly decided.
+However, in our opinion it was not.
+Finally, some reliance was placed upon the last sentence of para 19 of Sir Andrew Morritt V Cs judgment in Wilson v First County, which was in these terms: It is apparent from these two considerations that section 9(4) must be applied without too narrow an interpretation of the word item.
+If a charge for credit is correctly recognised in accordance with the detailed regulations to which I have referred then any cash loan or other financial accommodation made or afforded by the creditor to the debtor for the purpose of discharging the liability for that charge should not be treated as part of that credit to which the total charge for credit relates.
+It may be, though it is unnecessary to any decision in this case, that the loan made to pay the charge is itself a separate credit which should be made the subject of a regulated agreement to which the Act applies, whether as a linked transaction within section 19 or otherwise.
+We can see that there might be cases in which, on analysis of the facts, it might be held that the loan to pay a charge was a separate credit which should be made the subject of a regulated agreement but it is not easy to envisage such a case.
+In any event there is no question that this is such a case.
+Here the Broker Administration Fee was simply part of the cost of the credit and thus not to be treated as part of the credit.
+It is perhaps important to note for the future that section 127(3) of the Act was repealed by sections 15, 70 and Schedule 4 of the Consumer Credit Act 2006 and does not apply to agreements made after 5 April 2007.
+Further, when the Consumer Credit (Agreements) Regulations 2010 come into force, they will require documentation of the total amount of credit, which is defined as the credit limit or the total sums made available under a consumer credit agreement.
+CONCLUSION
+The appeal is dismissed, essentially for the reasons given by the Court of Appeal.

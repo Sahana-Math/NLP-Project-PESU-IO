@@ -1,0 +1,813 @@
+It is now well established that an employment contract is subject to an implied term that the employer and employee may not, without reasonable and proper cause, conduct themselves in a manner likely to destroy or seriously damage the relationship of confidence and trust between them: Mahmud v Bank of Credit and Commerce International SA [1998] AC 20.
+In Johnson v Unisys Ltd [2001] UKHL 13; [2003] 1 AC 518, the claimant sought to rely on an alleged breach of this implied term, not as a foundation for a statutory claim for unfair dismissal or as a foundation for a claim for damages unrelated to dismissal, but as a foundation for a claim at common law for damages for the manner of his dismissal.
+But the House of Lords refused to extend the implied term to allow an employee to recover damages for loss arising from the manner of his dismissal because (per all members of the House except Lord Steyn) such a development of the law would be contrary to the intention of Parliament that there should be such a remedy, but that it should be limited by the statutory code regarding unfair dismissal now to be found in the Employment Rights Act 1996 (the 1996 Act).
+Some regarded the decision in Johnson as contentious: see, for example, Deakin and Morris Labour Law, 5th ed (2009), at para 5 45.
+At para 36 of Mr Bothams written case, Mr Reynold QC invited the court to depart from Johnson, but this suggestion was not developed in the written case or in oral argument.
+Indeed, it was reaffirmed by the majority of the House of Lords in Eastwood and another v Magnox Electric plc and McCabe v Cornwall County Council and another [2004] UKHL 35; [2005] 1 AC 503 (Eastwoods case).
+Loss arising from the unfair manner of a dismissal is not therefore recoverable as damages for breach of the implied term of trust and confidence: it falls within what has been called the Johnson exclusion area.
+The principal questions that arise in these two appeals are (i) whether the reasoning in Johnson applies so as to preclude recovery of damages for loss arising from the unfair manner of a dismissal in breach of an express term of an employment contract; and if so (ii) whether the claims made by Mr Edwards or Mr Botham fall within the Johnson exclusion area.
+It is submitted on behalf of Mr Edwards and Mr Botham that the first question should be answered in the negative and that their claims for damages should be assessed in accordance with orthodox common law principles.
+In Mr Edwards case, the Court of Appeal (Ward, Lloyd and Moore Bick LJJ) accepted this submission and in Mr Bothams case, Slade J did not.
+By a consent order dated 31 August 2010, the Court of Appeal (Pill LJ) reversed the decision of Slade J.
+The case of Mr Edwards
+The Chesterfield Royal Hospital NHS Foundation Trust (the Trust) was established on 1 January 2005 as an NHS Foundation Trust and acquired the rights and liabilities of its predecessor, the Chesterfield and North Derbyshire Royal Hospital NHS Trust.
+Mr Edwards had been employed by the Trusts predecessor as a consultant trauma and orthopaedic surgeon pursuant to a contract which incorporated the terms of its letter to Mr Edwards dated 2 June 1998.
+Para 2 of the letter referred to the Trust terms and conditions of employment copies of which could be seen at the Medical Personnel Office.
+Para 8 stated that the employment was subject to three months notice on either side.
+Para 13 stated that in matters of professional misconduct, Mr Edwards would be subject to a separate procedure which had been negotiated and agreed by the Local Negotiating Committee.
+By letter dated 22 December 2005, disciplinary proceedings were instituted against Mr Edwards arising from allegations that he had undertaken an inappropriate internal examination of a female patient and had then denied that the examination had taken place.
+It is his case that the applicable procedure at that time was that set out in Disciplinary procedures for Hospital and Community Medical and Dental Staff (HC(90)9).
+Annex B to HC(90)9 sets out in detail the procedures which authorities should use when handling serious disciplinary charges, for example, where the outcome of disciplinary action could be the dismissal of the medical or dental practitioner concerned (para 1).
+A disciplinary hearing was held on 9 February 2006.
+On 10 February, the disciplinary panel decided that Mr Edwards should be summarily dismissed from his employment on grounds of gross personal and professional misconduct.
+This decision was confirmed by a letter dated 16 February which set out in detail the panels findings and the reasons for its decision.
+Mr Edwards appeal against this decision was dismissed on 24 April 2006.
+On 12 May 2006, Mr Edwards started unfair dismissal proceedings before the Sheffield Employment Tribunal.
+The matters on which he relied as giving rise to the alleged unfairness of his dismissal included that the disciplinary panel had been inappropriately constituted.
+His case was that his contract of employment entitled him to have a panel including a clinician of the same medical discipline as himself and a legally qualified chairman.
+The disciplinary hearing of 9 February was chaired by the Trusts medical director who was not legally qualified and the panel did not include an orthopaedic or trauma surgeon.
+Mr Edwards had always maintained that, if the panel had been properly constituted, it would not have made incorrect findings and he would not have been dismissed.
+Prior to the pre hearing review before the tribunal, Mr Edwards withdrew his claim for unfair dismissal and it was dismissed by order of the tribunal on 17 August 2006.
+The Trust referred the complaints against Mr Edwards to the General Medical Council (GMC).
+The GMCs Investigation Committee decided not to refer the matter to a Fitness to Practise Panel and the complaint was closed.
+In the result, Mr Edwards was not subjected to any practising restrictions by the GMC arising out of the subject matter of the Trusts disciplinary investigation.
+By a claim issued on 15 August 2008, Mr Edwards issued proceedings in the High Court against the Trust in which he claimed damages for breach of his employment contract and its wrongful termination.
+By his particulars of claim, he alleges that the termination of his contract was wrongful and in breach of contract in a number of procedural respects.
+It is not necessary to refer to them all.
+They include the plea that the panel had not been properly constituted.
+Other allegations are that he was denied a fair hearing with legal representation before a properly constituted and unbiased panel; the Trust caused or permitted the Investigator of the allegations to become a witness and the effective prosecutor to become an adjudicator; and he was denied the right to cross examine the key witnesses who were called to give evidence against him.
+His case is that, if the panel had included a clinician of the same discipline as himself, it would not have reached the erroneous conclusions it did and the Claimants contract would not have been wrongfully terminated.
+The preliminary schedule of loss alleged that, but for his dismissal, Mr Edwards would have continued to work in his role as a consultant orthopaedic surgeon with the Trust until his retirement in 2022 and that he had suffered loss of earnings (including future earnings) in excess of 3.8 million.
+By an application notice issued on 17 February 2009, the Trust applied to the court for an order that Mr Edwards claim for damages for loss in respect of a period in excess of his three months contractual notice period be struck out under CPR 24.4.
+District Judge Jones acceded to the application.
+Mr Edwards appealed.
+Nicol J [2009] EWHC 2011 (QB) allowed the appeal, but only to the extent of holding that, subject to liability for breach of contract being established, in addition to compensation for the three months period of his contractual notice, Mr Edwards was also entitled to compensation for the additional period that it would have taken to conduct the disciplinary procedure if it were conducted and completed with reasonable expedition (the so called Gunton extension).
+In allowing this additional compensation, the judge was applying the Court of Appeal decision in Gunton v Richmond upon Thames London Borough Council [1981] Ch 448.
+Mr Edwards appealed to the Court of Appeal.
+The lead judgment was given by Moore Bick LJ.
+It was recorded at para 44 of his judgment that Mr Edwards was now advancing two discrete claims of breach of contract, namely (i) a claim of wrongful dismissal (termination of the contract without notice) and (ii) a claim that the Trust had failed to carry out the proper disciplinary procedure.
+The failure to carry out the proper disciplinary procedure was alleged to have resulted in the findings of misconduct which damaged his reputation.
+It was said that, even if Mr Edwards had continued in his employment with the Trust after the disciplinary process had concluded, he would still have suffered difficulty in obtaining (a) private work (b) expert witness work and (c) employment in a different NHS hospital in the event that he chose to leave Chesterfield Hospital.
+The focus of the hearings before the Court of Appeal and the Supreme Court was on the claim for damages for loss of reputation resulting from the panels findings.
+The Court of Appeal held that this second claim did not fall within the Johnson exclusion area and that Mr Edwards was in principle entitled to recover whatever damages he could prove he had suffered as a result of the Trusts failure to carry out the proper disciplinary procedure and that he was not limited in respect of that cause of action to compensation for the three months period or the three months period plus the Gunton extension.
+Mr Sutton QC submitted to us that Mr Edwards should not be permitted to advance the second claim because it had not been pleaded in the particulars of claim.
+There is some force in the submission that it had not been pleaded.
+But the pleading point was not taken before the Court of Appeal.
+The validity of the second claim was the subject of detailed submissions in the Court of Appeal.
+It is too late for objection to be taken now.
+At each stage of these proceedings, it has been accepted by the Trust that the court should proceed on the assumption that Mr Edwards will succeed in establishing all the allegations he makes in the particulars of claim.
+The case of Mr Botham
+Mr Botham was employed by the Ministry of Defence (MOD) as a youth community worker from 1988 until 30 September 2003.
+His employment was terminable on three months notice.
+He was suspended from work on 10 December 2002 and on 4 June 2003 charged with gross misconduct: it was alleged that he had behaved inappropriately in relation to two teenage girls.
+Following disciplinary proceedings, on 30 September 2003 he was summarily dismissed for gross misconduct.
+Because his dismissal was for gross misconduct in relation to young people, he was placed on the list of persons deemed unsuitable to work with children kept by the Department of Education and Skills pursuant to the Protection of Children Act 1999 (POCA).
+Mr Botham brought a claim for unfair dismissal and wrongful dismissal in the Southampton Employment Tribunal.
+By its liability judgment dated 17 May 2007, the tribunal found that he had been unfairly dismissed and that his summary dismissal was in breach of contract.
+The conclusion of unfair dismissal was based on a number of findings including that the MOD had committed breaches of the express and implied terms of the contract of employment.
+The express terms were set out in the Discipline Code contained in the MODs Personnel Manual and contained various requirements in relation to the disciplinary procedures that were to be followed.
+After a remedies hearing on 19 October 2007, in its judgment dated 7 November 2007 the tribunal awarded Mr Botham damages for wrongful dismissal in the sum of approximately 7,000 based on loss of salary and benefits for the three months notice period; a basic award for unfair dismissal of 1,989 (after a 55% reduction for contributory fault); and a compensatory award for unfair dismissal of 53,500 (after a 55% reduction for contributory fault and the operation of the statutory cap).
+Mr Bothams name had been removed from the unsuitable person POCA register on 27 July 2007.
+The MODs appeal against liability was dismissed by the Employment Appeal Tribunal on 6 October 2008.
+On 21 April 2009, Mr Botham issued proceedings in the High Court seeking damages for breach of the express terms of his contract of employment.
+In his particulars of claim he relies on a number of findings that were made by the tribunal in its liability judgment that, in conducting the disciplinary process, the MOD failed to comply with several provisions of the Discipline Code.
+The alleged breaches are (i) failing to establish the relevant facts before proceeding with the disciplinary action; (ii) failing sufficiently or at all to define the charge, set out the facts to support the charge and to provide and list any documentary evidence; (iii) recommending dismissal without a proper investigation of the facts; and (iv) causing or permitting the Deciding Officer to make reference to other unsubstantiated allegations or suspicions of other offences.
+His case is that by reason of these breaches of contract, he was dismissed from his employment, suffered a loss of reputation, was placed on the POCA register and was precluded from further employment in his chosen field.
+His claim for damages includes a claim for loss of future earnings.
+His claim was dismissed by Slade J [2010] EWHC 646 (QB).
+She noted at para 57 of her judgment that all the breaches of contract relied on by Mr Botham were alleged to have resulted in Mr Bothams dismissal and the damages claimed were consequential on the dismissal.
+Accordingly, the claim fell within the Johnson exclusion area and the damages were not recoverable.
+Mr Botham appealed to the Court of Appeal.
+In view of the decision of the Court of Appeal in the case of Mr Edwards, on 1 September 2010 and by consent, Pill LJ allowed Mr Bothams appeal and granted the MOD permission to appeal to the Supreme Court.
+Does the reasoning in Johnson preclude recovery of damages for loss arising from the unfair manner of a dismissal in breach of an express term of an employment contract?
+It is necessary to start with some background.
+The statutory right to claim compensation for unfair dismissal was first introduced by the Industrial Relations Act 1971 (the 1971 Act).
+It is clear from the report of the Royal Commission on Trade Unions and Employers Associations 1965 1968 (Cmnd 3623) (the Donovan report) that the 1971 Act was intended to enhance the protection of employees.
+The Donovan report stated at para 522: An employee has protection at common law against wrongful dismissal, but this protection is strictly limited; it means that if an employee is dismissed without due notice he can claim the payment of wages he would have earned for the period of notice.
+Beyond this, the employee has no legal claim at common law, whatever hardship he suffers as a result of his dismissal.
+Even if the way in which he is dismissed constitutes an imputation on his honesty and his ability to get another job is correspondingly reduced he cannotexcept through an action for defamationobtain any redress (see the decision of the House of Lords in [Addis v Gramophone Co Ltd [1909] AC 488]).
+As the Donovan report stated, the relevant common law position was that stated in Addis.
+There has been much debate as to whether the headnote to the law report of the decision in Addis accurately reflects the decision of the majority of the House of Lords: see, for example, per Lord Steyn in Mahmud at pp 50 51 and again in Johnson at paras 1 to 5 and 15 and 16.
+The headnote is in these terms: Where a servant is wrongfully dismissed from his employment the damages for dismissal cannot include compensation for the manner of the dismissal, for his injured feelings, or for the loss he may sustain from the fact that the dismissal of itself makes it more
+difficult for him to obtain fresh employment
+But as Lord Nicholls said at para 2 in Eastwoods case, by the time of the Donovan report, it was settled law that an employee was not entitled to recover damages in respect of the manner of his dismissal.
+The protection at common law was strictly limited.
+The employer was entitled to bring the contract of employment to an end without cause.
+The Donovan report recommended that the law should be changed and that statute should establish machinery to safeguard employees against unfair dismissal.
+Parliament gave effect to this recommendation in the 1971 Act.
+The relevant provisions are now contained in Part X of the 1996 Act.
+An employee has the right not to be unfairly dismissed.
+The remedies for unfair dismissal are set out in Chapter II of Part X. A complaint may be made to an employment tribunal.
+If the tribunal upholds the complaint, it may make an order for reinstatement or re engagement or an award of compensation for unfair dismissal.
+But Parliament placed significant limitations on the ability of an employee to complain of unfair dismissal and on the remedies available where unfair dismissal is proved.
+The most striking of these are: (i) complaints of unfair dismissal must be brought within a period of three months and time will only be extended where timely presentation of the claim is not reasonably practicable (section 111); (ii) subject to exceptions for automatically unfair dismissals, the normal rule is that, in order to qualify to bring an unfair dismissal claim, an employee must have been continuously employed for not less than one year ending with the effective date of termination; (iii) there is a statutory cap on the level of the compensatory award which can be made by an employment tribunal (for dismissals on or after 1 February 2011 the cap is 68,400); and (iv) the employment tribunal has the power to reduce an employees compensation for unfair dismissal if it is satisfied that he has contributed to his dismissal by conduct which can be characterised as culpable or blameworthy (Nelson v British Broadcasting Corporation (No 2) [1980] ICR 110, 121 per Brandon LJ).
+It can be seen, therefore, that Parliament decided to give a remedy that was strikingly less generous than that which the common law would give for a breach of contract in the ordinary way.
+As Lord Nicholls said in Eastwoods case at paras 12 and 13, Parliament has addressed the highly sensitive and controversial issue of what compensation should be paid to employees who are dismissed unfairly.
+In fixing the limits on the amount of compensatory awards, Parliament has expressed its view on how the interests of employers and employees, and the social and economic interests of the country as a whole, are best balanced in cases of unfair dismissal.
+In Johnson, the employee claimed common law damages for breach of the implied term of trust and confidence.
+He alleged that, because of the manner in which he had been dismissed, he had suffered a mental breakdown and was unable work.
+His claim was struck out as disclosing no reasonable cause of action.
+The ratio of Johnson is that the implied term of trust and confidence cannot be extended to allow an employee to recover damages for loss arising from the manner of his dismissal.
+Lord Nicholls (para 2) was unwilling to create a new common law right covering the same ground as the statutory right not to be unfairly dismissed since it would fly in the face of the limits Parliament has already prescribed on matters such as the classes of employees who have the benefit of the statutory right, the amount of compensation payable and the short time limits for making claims.
+He added that it would also defeat the intention of Parliament that claims of this nature should be decided by specialist tribunals, not the ordinary courts of law.
+Lord Hoffmann also regarded the statutory background as determinative of the question whether the new common law right should be created.
+He concluded (para 58) that for the judiciary to construct a general common law remedy for unfair circumstances attending dismissal would be to go contrary to the evident intention of Parliament that there should be such a remedy but that it should be limited in application and extent.
+Lord Millett was of the same opinion.
+At para 80, he said that the creation of the statutory right made the development of the common law for which the employee contended both unnecessary and undesirable.
+He made the same points as those made by Lord Nicholls and Lord Hoffmann and added: even more importantly, the coexistence of two systems, overlapping but varying in matters of detail and heard by different tribunals, would be a recipe for chaos.
+All coherence in our employment laws would be lost.
+Lord Bingham agreed with Lord Hoffmann and Lord Millett and dismissed the appeal for the reasons they gave.
+Only Lord Hoffmann in Johnson considered the question of what the position would be if the manner of the dismissal was in breach of express terms of the contract of employment.
+He said: 60.
+There is one further point.
+During the argument there was some discussion of whether the provisions for disciplinary hearings were express terms of Mr Johnson's contract and what the consequences would be if they were.
+No such express terms were pleaded and Mr Faulks, who appeared for Mr Johnson, was not enthusiastic about doing so.
+Nevertheless, it may be useful to examine the matter in a little more detail. 61.
+Section 1(1) of the 1996 Act provides that upon commencing employment, an employee shall be provided with a written statement of particulars of employment.
+This includes, but is not limited to, the terms and conditions of employment concerning various matters, including the length of notice which the employee is obliged to give and entitled to receive to terminate his contract of employment (section 1(4)(e)).
+Section 3(1) then provides that a statement under section 1 shall include a note. specifying any disciplinary rules applicable to the employee or referring the employee to the provisions of a document specifying such rules which is reasonably accessible to the employee. 62.
+Consistently with these provisions, Mr Johnson was written a letter of engagement which stated his salary and summarised the terms and conditions of his employment, including the notice period.
+Apart from the statement that in the event of gross misconduct, the company could terminate his employment without notice, it made no reference to disciplinary matters.
+It was however accompanied by the employee handbook, which the letter of engagement said outlines all the terms and conditions of employment.
+This was divided into various sections, the first being headed Employment terms and conditions.
+These made no reference to the disciplinary procedure, which appeared in a subsequent section under the heading Other procedures.
+There one could find the various stages of the disciplinary procedure: formal verbal warning, written warning, final written warning, culminating in dismissal, as well as the separate procedure for summary dismissal in cases of serious misconduct. 63.
+So did the disciplinary procedures constitute express terms of the contract of employment? Perhaps for some purposes they did.
+But the employee handbook has to be construed against the relevant background and the background which fairly looms over the disciplinary procedure is Part X of the 1996 Act.
+The whole disciplinary procedure is designed to ensure that an employee is not unfairly dismissed.
+So the question is whether the provisions about disciplinary procedure which (to use a neutral phrase) applied to Mr Johnson's employment were intended to operate within the scope of the law of unfair dismissal or whether they were intended also to be actionable at common law, giving rise to claims for damages in the ordinary courts. 64.
+Section 199(1) of the Trade Union and Labour Relations (Consolidation) Act 1992 gives Acas power to issue Codes of Practice containing such practical guidance as it thinks fit for the purpose of promoting the improvement of industrial relations.
+By section 207, a failure to comply with any provision of a Code is not in itself actionable but in any proceedings before an industrial tribunal any provision of the Code which appearsrelevant to any question arising in the proceedings shall be taken into account in determining that question.
+In 1977 Acas issued a Code of Practice entitled Disciplinary Practice and Procedures in Employment.
+It explained why it was important to have disciplinary rules and procedures which were in writing and readily available to management and employees.
+It said in paragraph 4: The importance of disciplinary rules and procedures has also been recognised by the law relating to dismissals, since the grounds for dismissal and the way in which the dismissal has been handled can be challenged before an industrial tribunal. 65.
+In paragraph 10 it listed what disciplinary procedures should include.
+The Unisys procedures have clearly been framed with regard to the Code of Practice. 66.
+My Lords, given this background to the disciplinary procedures, I find it impossible to believe that Parliament, when it provided in section 3(1) of the 1996 Act that the statement of particulars of employment was to contain a note of any applicable disciplinary rules, or the parties themselves, intended that the inclusion of those rules should give rise to a common law action in damages which would create the means of circumventing the restrictions and limits which Parliament had imposed on compensation for unfair dismissal.
+The whole of the reasoning which led me to the conclusion that the courts should not imply a term which has this result also in my opinion supports the view that the disciplinary procedures do not do so either.
+It is I suppose possible that they may have contractual effect in determining whether the employer can dismiss summarily in the sense of not having to give four weeks' notice or payment in lieu.
+But I do not think that they can have been intended to qualify the employer's common law power to dismiss without cause on giving such notice, or to create contractual duties which are independently actionable.
+Parliament has legislated on the subject of the disciplinary procedures applicable to contracts of employment on a number of occasions and in different ways.
+I shall start with sections 1 and 3(1) of the 1996 Act.
+Section 1 obliges an employer to provide the employee with a written statement of particulars of employment.
+Section 3(1) provides: (1) A statement under section 1 shall include a note (a) specifying any disciplinary rules applicable to the employee or referring the employee to the provisions of a document specifying such rules which is reasonably accessible to the employee, (aa) specifying any procedure applicable to the taking of disciplinary decisions relating to the employee, or to a decision to dismiss the employee, or referring the employee to the provisions of a document specifying such a procedure which is reasonably accessible to the employee.
+Section 3(1)(aa) was introduced on 1 October 2004 by section 35(2) of the Employment Act 2002 (the 2002 Act).
+As is stated in Deakin and Morris (loc cit) at para 4.24: even if, in principle, contract and [the] statement [required by section 1] are conceptually discrete, in practice one or both of the parties may regard the statement as being equivalent to a contract in both form and effect.
+Where the statement favours the employee, it represents strong prima facie evidence of the contract terms and the written particulars place a heavy burden on the employer to show that the actual terms of contract are different from those which he has set out in the statutory statement: per Browne Wilkinson J in System Floors (UK) Ltd v Daniel [1982] ICR 54, 58.
+In so far as the statement specifies the disciplinary rules, it favours the employee because these rules are designed to ensure that the employee is not unfairly dismissed.
+The effect of sections 1 and 3(1), therefore, is that Parliament has decided, at least in most cases, that contractual force should be given to applicable rules and procedures.
+But Parliament has gone further than merely providing that if an employer has applicable disciplinary rules and procedures, they will normally have contractual effect.
+It has recognised that a breach of disciplinary rules and procedures in the course of a dismissal process is relevant to the question whether the dismissal is unfair.
+It has from time to time adopted different statutory mechanisms to encourage or enforce compliance with appropriate disciplinary procedures in order to protect employees from dismissals which are procedurally unfair.
+Thus, in 1977, ACAS issued a Code of Practice entitled Disciplinary Practice and Procedures in Employment.
+Para 4 explained the importance of disciplinary rules and procedures which were in writing and readily available to management and employees: see para 64 of Lord Hoffmanns speech in Johnson.
+The 1977 Code was revised in 1997.
+Section 207 of the Trade Union and Labour Relations (Consolidation) Act 1992 (the 1992 Act) provides that any provision of a Code of Practice which appears to be relevant to any question arising in unfair dismissal proceedings shall be taken into account in determining that question.
+This is the point that was discussed by Lord Hoffmann at paras 64 and 65 of his speech.
+The 2002 Act introduced statutory dispute resolution procedures: see section 29 and Schedule 2.
+The dismissal and disciplinary procedures prescribed by Schedule 2 were similar to the ACAS procedures.
+Section 30 provided: (1) Every contract of employment shall have effect to require the employer and employee to comply, in relation to any matter to which a statutory procedure applies, with the requirements of the procedure. (2) Subsection (1) shall have effect notwithstanding any agreement to the contrary, but does not affect so much of an agreement to follow a particular procedure as requires the employer or employee to comply with a requirement which is additional to, and not inconsistent with, the requirements of the statutory procedure.
+Section 31 provided that if, in the case inter alia of unfair dismissal proceedings, it appeared to the employment tribunal that a claim to which the proceedings related concerned a matter to which one of the statutory procedures applied, and the statutory procedure was not completed before the proceedings began by reason of a failure of the employer or employee to comply with the requirements of the procedure, then the tribunal was required to increase or reduce any award in accordance with the provisions of section 31(2) or (3) (as the case may be).
+Section 34 introduced a new section 98A into the 1996 Act.
+It provided: (1) An employee who is dismissed shall be regarded for the purposes of this Part as unfairly dismissed if (a) one of the procedures set out in Part 1 of Schedule 2 to the Employment Act 2002 (dismissal and disciplinary procedures) applies in relation to the dismissal, (b) the procedure has not been completed, and (c) the non completion of the procedure is wholly or mainly attributable to failure by the employer to comply with its requirements.
+Pursuant to the powers conferred by section 31(6), the Secretary of State made the Employment Act 2002 (Dispute Resolution) Regulations 2004 (SI 2004/752).
+These were detailed regulations inter alia about the application of the statutory procedures and what constituted compliance with a requirement of a statutory procedure.
+These procedures proved to be unduly complicated.
+It was concluded by the Government that they carried an unnecessarily high administrative burden for both employers and employees and have had unintended negative consequences which outweigh their benefits: Better Dispute Resolution: A Review of Employment Dispute Resolution in Great Britain (the Gibbons Review) DTI, March 2007, p 8.
+The Government therefore decided to return to reliance on an ACAS Code of Practice, but provided for tribunals to have a discretion to adjust awards by up to 25% in the event of non compliance with the Code.
+Accordingly, sections 29 33 and 34(2) and Schedule 2 of the 2002 Act were repealed by the Employment Act 2008 (the 2008 Act) and the 2004 Regulations lapsed upon the repeal.
+Section 3 of the 2008 Act introduced a new section 207A into the 1992 Act.
+It provides that, if in the case inter alia of unfair dismissal proceedings it appears to an employment tribunal that the claim concerns a matter to which a relevant Code of Practice applies and the employer or employee has unreasonably failed to comply with the Code in relation to that matter, then the tribunal may, if it considers it just and equitable to do so, increase or reduce any award it makes to the employee by no more than 25%.
+A relevant Code of Practice means a Code of Practice which relates exclusively or primarily to procedure for the resolution of disputes.
+Relevant Codes of Practice have been issued by ACAS from time to time.
+Thus, for example, the 2003 Code states that it: provides practical guidance to employers, workers and their representatives on The statutory requirements relating to disciplinary and grievance issues; What constitutes reasonable behaviour when dealing with disciplinary and grievance issues; Producing and using disciplinary and grievance procedures.
+The April 2009 Code states that it sets out the basic requirements of fairness that will be applicable in most cases; it is intended to provide the standard of reasonable behaviour in most instances.
+To summarise, under section 207 of the 1992 Act, any non compliance with the ACAS Code of Practice relevant to a question arising in unfair dismissal proceedings was to be taken into account in determining that question.
+Under the 2002 Act, Parliament adopted the direct approach of introducing mandatory dispute resolution procedures and, if a statutory procedure had not been completed for reasons attributable to the employer, providing for the employee to be regarded as unfairly dismissed and for an adjustment of awards in unfair dismissal proceedings.
+Under the 2008 Act, Parliament reverted to the earlier model (but with modifications) of providing that an unreasonable failure to comply with a relevant Code of Practice may be reflected in the amount of an award of compensation for unfair dismissal.
+The important point is that in each case, Parliament linked a failure to comply with disciplinary or dismissal procedures with the outcome of unfair dismissal proceedings.
+To adopt the language of Lord Hoffmann at para 63 of Johnson, the provisions about disciplinary procedure were intended to operate within the scope of the law of unfair dismissal.
+It follows that, if provisions about disciplinary procedure are incorporated as express terms into an employment contract, they are not ordinary contractual terms agreed by parties to a contract in the usual way.
+At para 38 of his judgment, Moore Bick LJ said whether the parties intend the provisions relating to disciplinary procedures to sound in damages depends on the true construction of the contract.
+As a general proposition, this is obviously true.
+But in the present context, it ignores the statutory link between the provisions about disciplinary procedures and the law of unfair dismissal.
+The question remains whether, if provisions about disciplinary procedure are incorporated into a contract of employment, they are intended to be actionable at common law giving rise to claims for damages in the ordinary courts.
+Parliament intended such provisions to apply to contracts of employment inter alia in order to protect employees from unfair dismissal and to enhance their right not to be unfairly dismissed.
+It has specified the consequences of a failure to comply with such provisions in unfair dismissal proceedings.
+It could not have intended that the inclusion of these provisions in a contract would also give rise to a common law claim for damages for all the reasons given by the House of Lords in Johnson for not extending the implied term of trust and confidence to a claim for damages for unfair manner of dismissal.
+It is necessarily to be inferred from this statutory background that, unless they otherwise expressly agree, the parties to an employment contract do not intend that a failure to comply with contractually binding disciplinary procedures will give rise to a common law claim for damages.
+In these circumstances, I agree entirely with para 66 of Lord Hoffmanns speech.
+The unfair dismissal legislation precludes a claim for damages for breach of contract in relation to the manner of a dismissal, whether the claim is formulated as a claim for breach of an implied term or as a claim for breach of an express term which regulates disciplinary procedures leading to a dismissal.
+Parliament has made certain policy choices as to the circumstances in which and the conditions subject to which an employee may be compensated for unfair dismissal.
+A dismissal may be unfair because it is substantively unfair to dismiss the employee in the circumstances of the case and/or because the manner in which the dismissal was effected was unfair.
+The manner may be unfair because it was done in a humiliating manner or because the procedure adopted was unfair inter alia because the agreed disciplinary procedure which led to the dismissal was not followed.
+It may be unfair because defamatory findings were made which damage the employees reputation and which, following a dismissal, make it difficult for the employee to find further employment.
+Any such complaint was intended by Parliament to be adjudicated on by the specialist employment tribunal subject to the various constraints to which I have referred.
+Parliament did not intend that an employee could choose to pursue his complaint of unfair dismissal in the ordinary courts, free from the limitations carefully crafted by Parliament for the exercise of this statutory jurisdiction.
+Lord Phillips agrees that (at any rate in the absence of express agreement) damages are not recoverable for breach of an express term of an employment contract as to the manner of dismissal.
+He reaches this conclusion by applying and extending the Addis principle (ie as a matter of common law), presumably, for reasons of principle or policy.
+But the statutory dimension and the link between contractual disciplinary procedures and the statutory law of unfair dismissal cannot be ignored.
+I think that Lord Phillips implicitly recognises this.
+This is because he concludes that to permit a claim for damages for failure to comply with a disciplinary code leading to dismissal would undermine the decisions in Johnson and Eastwood.
+I agree.
+But those decisions are based on the intention of Parliament derived from the unfair dismissal legislation.
+I need to deal with the suggestion that was made during the argument (accepted by Lady Hale and Lords Kerr and Wilson) that claims such as those made by Mr Edwards and Mr Botham would have been available as common law claims for breach of contract before the enactment of the 1971 Act and that neither that statute nor its successors should be interpreted as having taken away existing rights enjoyed by employees.
+The answer to this argument is that the right to claim damages in respect of the manner of a dismissal did not exist before the 1971 Act: see paras 20 and 21 above.
+I accept that there has been debate as to what Addis decided.
+It is not necessary to enter into this debate.
+It is, however, clear that the Donovan report which inspired the 1971 Act stated that the law was as summarised in the headnote to the law report to Addis and Lord Nicholls expressed the same view at para 2 in Eastwoods case.
+In any event, at the very least it was not clear whether an employee could claim damages for the unfair manner in which he was dismissed.
+No example was cited to us of any case decided before the 1971 Act in which an employee was awarded damages for breach of contract for the unfair manner in which he had been dismissed.
+In these circumstances, I cannot accept that an application of the reasoning in Johnson should be rejected because it involves saying that the 1971 Act took away an employees existing rights and that this could not have been intended by Parliament.
+That is not to say that an employer who starts a disciplinary process in breach of the express terms of the contract of employment is not acting in breach of contract.
+He plainly is.
+If that happens, it is open to the employee to seek an injunction to stop the process and/or to seek an appropriate declaration.
+Miss ORourke QC submitted that, if in such a situation there is a breach of contract sufficient to support the grant of an injunction but (for whatever reason) the employee does not obtain an injunction, it is anomalous if the normal common law remedy of damages is in principle not available to him.
+The short answer to this submission is that an injunction to prevent a threatened unfair dismissal does not cut across the statutory scheme for compensation for unfair dismissal.
+None of the objections based on the co existence of inconsistent parallel common law and statutory rights applies.
+The grant of injunctive or declaratory relief for an actual or threatened breach of contract would not jeopardise the coherence of our employment laws and would not be a recipe for chaos in the way that, as presaged by Lord Millett in Johnson, the recognition of parallel and inconsistent rights to seek compensation for unfair dismissal in the tribunal and damages in the courts would be.
+Miss ORourke relies on the Court of Appeal decision in Saeed v Royal Wolverhampton Hospitals NHS Trust [2001] ICR 903 and in particular the House of Lords decision in Skidmore v Dartford and Gravesham NHS Trust [2003] UKHL 27; [2003] ICR 721 and on the Court of Appeal decision in Gunton [1981] Ch 448 in support of the conclusion reached by the Court of Appeal in the present case.
+In Saeed at para 12, Hale LJ said that if an employee thinks that the employer has chosen the wrong disciplinary procedure, then he can try to have it changed in advance or seek damages after the event.
+This was not a dismissal case and in any event it pre dates Johnson.
+Understandably, it does not engage with the reasoning in Johnson and therefore it does not shed light on the issue that arises on these appeals.
+Skidmore is an unfair dismissal case.
+It was held that the employer had adopted the wrong disciplinary procedures and the employees unfair dismissal claim was remitted to an employment tribunal.
+At para 15, Lord Steyn said that it was for the employer to decide which disciplinary route should be followed, but that the decision should be in accordance with the contract.
+If a non conforming decision was taken and acted upon, there is a breach of contract resulting in the usual remedies.
+Lord Steyn expressed his agreement with what Hale LJ had said in Saeed.
+But these observations were obiter dicta.
+The question of what remedy would be available to the employee if a non conforming decision was taken was not in issue in that case.
+No doubt that is why Johnson was not cited to the House and not mentioned by Lord Steyn and why he did not grapple with the relationship between the statutory code which regulates unfair dismissal claims and common law claims for damages for breach of contract.
+Although great respect should always be paid to any observations of Lord Steyn, I do not think that it would be right to place weight on these dicta.
+Gunton was a wrongful dismissal case.
+The claimant was employed under a contract of service terminable on one months notice.
+Regulations prescribing a procedure for the dismissal of an employee on disciplinary grounds were incorporated into his contract.
+The employer gave one months notice of termination, but without first having followed the prescribed disciplinary procedure in all respects.
+It was held by the Court of Appeal by a majority that the employee could not lawfully be dismissed on a disciplinary ground until the procedure had been properly carried out and that his dismissal was accordingly wrongful.
+The measure of damages for wrongful dismissal was loss of wages up to the date on which the contract could properly have been determined by the employer (on an application of the least onerous principle: see McGregor on Damages, 18th ed (2010), at para 8 094.) It was held that the period by reference to which damages were to be assessed was a reasonable period for carrying out the disciplinary process plus one month: see per Buckley LJ at p 470 and per Brightman LJ at p 474.
+Miss ORourke submits that the case of Gunton is an example of damages being awarded for breach of a disciplinary process leading to a dismissal.
+In my view, this submission is based on a misreading of the case.
+It was a conventional wrongful dismissal case involving the breach of a term relating to a notice of termination.
+It was held that it was not open to the employer to give one months notice without first undertaking the disciplinary process properly.
+As Brightman LJ put it at p 474, the failure to undertake the process properly meant that the notice was invalid and a nullity.
+It was not a claim for damages for breach of the disciplinary process.
+It was a claim for wrongful dismissal for purporting to terminate the contract on the basis of an invalid notice.
+In my view, there is nothing in this case which is inconsistent with the Johnson principle.
+I would, therefore, hold that the reasoning in Johnson is a bar to a claim for damages for breach of an express term of an employment contract as to the manner of a dismissal.
+The demarcation boundary
+But that is not an end to the enquiry because the question remains in any given case whether the claim falls within the Johnson exclusion area or not.
+The issue of where the boundary is to be found was considered in Eastwood [2005] 1 AC 503.
+Lord Nicholls gave valuable guidance at paras 27 to 33: 27.
+Identifying the boundary of the Johnson exclusion area, as it has been called, is comparatively straightforward.
+The statutory code provides remedies for infringement of the statutory right not to be dismissed unfairly.
+An employee's remedy for unfair dismissal, whether actual or constructive, is the remedy provided by statute.
+If before his dismissal, whether actual or constructive, an employee has acquired a cause of action at law, for breach of contract or otherwise, that cause of action remains unimpaired by his subsequent unfair dismissal and the statutory rights flowing therefrom.
+By definition, in law such a cause of action exists independently of the dismissal. 28.
+In the ordinary course, suspension apart, an employer's failure to act fairly in the steps leading to dismissal does not of itself cause the employee financial loss.
+The loss arises when the employee is dismissed and it arises by reason of his dismissal.
+Then the resultant claim for loss falls squarely within the Johnson exclusion area. 29.
+Exceptionally this is not so.
+Exceptionally, financial loss may flow directly from the employer's failure to act fairly when taking steps leading to dismissal.
+Financial loss flowing from suspension is an instance.
+Another instance is cases such as those now before the House, when an employee suffers financial loss from psychiatric or other illness caused by his pre dismissal unfair treatment.
+In such cases the employee has a common law cause of action which precedes, and is independent of, his subsequent dismissal.
+In respect of his subsequent dismissal he may of course present a claim to an employment tribunal.
+If he brings proceedings both in court and before a tribunal he cannot recover any overlapping heads of loss twice over. 30.
+If identifying the boundary between the common law rights and remedies and the statutory rights and remedies is comparatively straightforward, the same cannot be said of the practical consequences of this unusual boundary.
+Particularly in cases concerning financial loss flowing from psychiatric illnesses, some of the practical consequences are far from straightforward or desirable.
+The first and most obvious drawback is that in such cases the division of remedial jurisdiction between the court and an employment tribunal will lead to duplication of proceedings.
+In practice there will be cases where the employment tribunal and the court each traverse much of the same ground in deciding the factual issues before them, with attendant waste of resources and costs. 31.
+Second, the existence of this boundary line means that in some cases a continuing course of conduct, typically a disciplinary process followed by dismissal, may have to be chopped artificially into separate pieces.
+In cases of constructive dismissal a distinction will have to be drawn between loss flowing from antecedent breaches of the trust and confidence term and loss flowing from the employee's acceptance of these breaches as a repudiation of the contract.
+The loss flowing from the impugned conduct taking place before actual or constructive dismissal lies outside the Johnson exclusion area, the loss flowing from the dismissal itself is within that area.
+In some cases this legalistic distinction may give rise to difficult questions of causation in cases such as those now before the House, where financial loss is claimed as the consequence of psychiatric illness said to have been brought on by the employer's conduct before the employee was dismissed.
+Judges and tribunals, faced perhaps with conflicting medical evidence, may have to decide whether the fact of dismissal was really the last straw which proved too much for the employee, or whether the onset of the illness occurred even before he was dismissed. 32.
+The existence of this boundary line produces other strange results.
+An employer may be better off dismissing an employee than suspending him.
+A statutory claim for unfair dismissal would be subject to the statutory cap, a common law claim for unfair suspension would not.
+The decision of the Court of Appeal in Gogay v Hertfordshire County Council [2000] IRLR 703 is an example of the latter.
+Likewise, the decision in Johnson v Unisys Ltd [2003] 1 AC 518 means that an employee who is psychologically vulnerable is owed no duty of care in respect of his dismissal although, depending on the circumstances, he may be owed a duty of care in respect of his suspension. 33.
+It goes without saying that an interrelation between the common law and statute having these awkward and unfortunate consequences is not satisfactory.
+The difficulties arise principally because of the cap on the amount of compensatory awards for unfair dismissal.
+Although the cap was raised substantially in 1998, at times tribunals are still precluded from awarding full compensation for a dismissed employee's financial loss.
+So, understandably, employees and their legal advisers are seeking to side step the statutory limit by identifying elements in the events preceding dismissal, but leading up to dismissal, which can be used as pegs on which to hang a common law claim for breach of an employer's implied contractual obligation to act fairly.
+This situation merits urgent attention by the Government and the legislature.
+The question in each case is, therefore, whether or not the loss founding the cause of action flows directly from the employers failure to act fairly when taking steps leading to dismissal and precedes and is independent of the dismissal process (Lord Nicholls at para 29).
+In other words, the court must decide whether earlier events do or do not form part of the dismissal process (Lord Steyn at para 39).
+This is a fact specific question.
+As Lord Nicholls observed at paras 15 and 30 to 33, drawing the boundary line in this way leads to unsatisfactory and anomalous results.
+One of these is that an employer may be better off dismissing an employee than suspending him.
+But this is the inevitable consequence of the interrelation between the common law and statute.
+The unfair dismissal legislation occupies the unfair dismissal territory to the exclusion of the common law, but it does not impinge on any cause of action which is independent of a dismissal (such as a common law claim for damages for suspension in breach of contract).
+It is instructive to see how the House of Lords approached this question in the Eastwood case itself.
+The case of Eastwood v Magnox concerned two employees (Mr Eastwood and Mr Williams) both of whom pursued claims for unfair dismissal before the tribunal which were compromised.
+They both then started proceedings in the county court claiming that they had suffered personal injuries in the form of psychiatric illnesses caused by a deliberate course of conduct by certain individuals using the machinery of the dismissal process.
+On the assumed facts, the House of Lords held that these claims were independent of the dismissal process and did not fall within the Johnson exclusion area.
+The claimants had acquired a cause of action for breach of contract before their dismissal.
+On the other hand, as we have seen (para 24 above) in Johnson itself, the claim was for damages for the mental breakdown that the claimant alleged that he had suffered as a result of the manner and the fact of his dismissal: that claim did fall within the Johnson exclusion area.
+The third case considered by the House of Lords in the Eastwood case was that of Mr McCabe.
+Mr McCabe lodged a complaint of unfair dismissal with a tribunal on the grounds that his dismissal was in breach of the relevant disciplinary procedures.
+He was awarded compensation and then started proceedings in the High Court against the employer claiming damages inter alia for breach of contract.
+The primary complaint in his statement of claim as originally served was that by reason of the councils failure to investigate the allegations properly and to conduct the disciplinary hearings properly and his dismissal he had sustained psychiatric illness.
+But later (and in response to the decision in Johnson), he sought to amend his statement of claim by limiting the focus of his complaint to the period before his dismissal, that is to the period of his suspension and to the employers failure to carry out a proper investigation of the allegations against him.
+On the assumed facts on which the amended claim was based, the House of Lords held that Mr McCabes cause of action had accrued before his dismissal and was independent of it.
+Do the present cases fall outside the Johnson exclusion area?
+Mr Edwards
+It is accepted by Miss ORourke that Mr Edwards claim for unfair dismissal falls within the Johnson exclusion area.
+But she submits that his claim for damages for loss of reputation consequent on the findings of misconduct made by the disciplinary panel does not.
+She contends that these findings resulted from the fact that (in breach of the contractual disciplinary procedures) the disciplinary panel was not properly constituted and acted in a manner which was procedurally unfair.
+This breach, she submits, occurred independently of the dismissal.
+The undisputed facts are that Mr Edwards disciplinary hearing was held on 9 February 2006.
+He was notified of his summary dismissal on the following day.
+The decision was confirmed in a long letter from the chairman of the disciplinary panel dated 16 February which set out in detail the allegations and the panels findings.
+The complaint is that the panels erroneous conclusions flowed from these findings.
+The findings and conclusions were first published in the letter which was sent six days after the decision to dismiss had been communicated to Mr Edwards and were contained in the letter which confirmed his dismissal.
+In my view, it is impossible to divorce the findings on which Mr Edwards seeks to found his claim for damages for loss of reputation from the dismissal when they were the very reasons for the dismissal itself.
+In these circumstances, Mr Edwards claim for damages for loss of reputation is not one of those exceptional cases to which Lord Nicholls referred in Eastwood where an employers failure to act fairly in the steps leading to a dismissal causes the employee financial loss.
+This claim does not arise from anything that was said or done before the dismissal.
+It is not independent of the dismissal.
+It arises from what was said by the Trust as part of the dismissal process.
+It follows that I cannot accept the distinction made by Lord Kerr and Lord Wilson between the findings or reasons for the dismissal and the dismissal itself.
+I agree with what Lord Mance says about that.
+Mr Botham
+The case pleaded at para 20 of the particulars of claim is that as a result of the MODs breaches of contract, Mr Botham foreseeably, was dismissed from employment, and was caused (wrongly) to suffer loss and damage to his reputation and to be precluded from further employment in his chosen field and to be placed on the register of persons deemed unsuitable to work with children.
+The damages claimed include loss of earnings and other benefits from the date of dismissal.
+The statement of facts and issues agreed for the purposes of the appeal state that Mr Botham was placed on the register as a consequence of the dismissal for gross misconduct (para 5) and the relief sought by him includes damages on the grounds that his dismissal and his inclusion on the POCA precluded him from further employment as a youth community worker (para 15(3)).
+In my view, this case is a fortiori that of Mr Edwards.
+In Mr Edwards case, it is alleged that the damages for loss of reputation were caused by the erroneous findings made by the panel, rather than the dismissal.
+Mr Botham goes further and says that the damages he claims for loss of reputation were caused by the dismissal itself.
+For the reasons already given, it falls within the Johnson exclusion area.
+That was the view of Slade J and I agree with it.
+The consent order made by the Court of Appeal on 31 August 2010 should therefore be set aside.
+Conclusion on the main issue in relation to Mr Edwards and Mr Botham
+It follows that I would allow the appeals by the Trust and the MoD.
+In both cases, the employment was terminated by dismissal.
+Had they both been suspended, the position would have been completely different.
+As it is, their claims are for damages arising from what was said in the course of the dismissal process and must be rejected for the reasons that I have given.
+As I have said (para 10 above), Nicol J held that, subject to liability for breach of contract being established, the maximum amount of damages recoverable by Mr Edwards for wrongful dismissal was compensation for the three months notice period and the Gunton extension period.
+There was some discussion before us as to whether Gunton was correctly decided.
+The point was described as difficult by Staughton LJ in Boyo v Lambeth London Borough Council [1994] ICR 727 at 747H 748A.
+But in view of my conclusion on the main issue, this point does not arise and I do not find it necessary to express a view on whether Gunton was correctly decided.
+Claims by Mr Botham for costs as damages
+Cost of legal representation in the disciplinary proceedings
+Mr Botham had the benefit of legal assistance in the disciplinary proceedings.
+It is common ground that, in view of the nature of the charge against him, it was reasonable and foreseeable that he would obtain such assistance.
+Mr Reynold QC submits that, since the charge was preferred in circumstances which constituted a breach of the express terms of the contract of employment, Mr Botham is entitled to his legal costs on ordinary principles as loss flowing from the breach.
+I reject this submission largely for the reasons given by Ms Outhwaite QC and the judge.
+At para 6 of its remedies judgment, the Employment Tribunal made a finding that Mr Bothams culpable conduct was the sole reason for the disciplinary procedure.
+It follows that the cost of legal assistance during the disciplinary process was caused by Mr Bothams culpable conduct in triggering the disciplinary process and did not arise out of a breach of contract by the MOD.
+Furthermore, Parliament designed the Tribunal system so that there was no need for legal representation and, therefore, litigation costs are not normally recoverable.
+It would be odd if an employee was entitled to recover costs for legal representation for the disciplinary proceedings before his employer, but could not recover costs for legal representation before the Employment Tribunal itself.
+Litigation costs before the Employment Tribunal and the Employment Appeal
+Tribunal
+Mr Reynold submits that, but for the breaches of contract, the costs of legal representation before the Employment Tribunal and the Employment Appeal Tribunal would not have been incurred.
+Mr Botham is, therefore, entitled to recover these costs as damages for breach of contract on normal common law principles.
+I would also reject this submission again largely for the reasons given by Ms Outhwaite and the judge.
+The unfair dismissal claim arose necessarily out of the dismissal and, for the reasons given earlier, fell within the Johnson exclusion area.
+Legal costs were incurred because Mr Botham had been dismissed.
+A claim in respect of these costs falls within the Johnson exclusion area and is not recoverable as damages for breach of contract for the same reasons as damages are not recoverable for loss of earnings and benefit.
+Every unfair dismissal claim involves at the very least an alleged breach of the implied term of trust and confidence, and probably involves an alleged breach of express contractual terms as well.
+If the court were to award damages for legal representation in dismissal proceedings, such claims would arise following all unfair dismissal claims.
+This would defeat Parliaments statutory regime which was intended to provide a fast, cost free resolution to dismissals which are alleged to be unfair by a specialist tribunal.
+All such claims would result in satellite litigation to recover litigation costs.
+Nor would there be any reason to confine such satellite litigation to successful claims for unfair dismissal.
+Mr Botham chose to bring a claim for unfair dismissal before the Employment Tribunal.
+Having elected to bring a claim in a forum where no costs are usually awarded, he should bear the cost consequences of having done so.
+There are strong policy reasons for awarding costs only in exceptional circumstances.
+The statutory regime should not be circumvented so as to allow a damages action for costs.
+Conversely, the MOD had no choice of forum.
+It responded to the claim after the forum had been chosen by Mr Botham.
+If the MOD had successfully defended the unfair dismissal claim, it too would not have been able to recover its costs.
+Overall conclusion
+For the reasons that I have given, I would allow the appeal of the Trust in the case of Mr Edwards and of the MOD in the case of Mr Botham.
+LORD PHILLIPS
+When initially I saw in draft the judgment of Lord Dyson, my reaction was that it was so plainly right in the result that my inclination was simply to add my agreement to it.
+The judgments of Lady Hale and Lord Kerr have, however, caused me to give further consideration to this difficult area of the law.
+While I have not changed my mind as to the result, the route by which I have reached it is not on all fours with that of Lord Dyson.
+For that reason I am adding my judgment to those of Lord Dyson and Lord Mance.
+Each of the claimants was dismissed from his employment after a disciplinary hearing.
+Each disciplinary hearing should have complied with a disciplinary code that had contractual force.
+Each hearing failed to comply with the code.
+Each claimant alleges that as a consequence of this the relevant tribunal wrongly made findings of misconduct that have inhibited him from obtaining alternative employment and thus caused him financial loss.
+Each claimant has sought to recover this loss in an action in the High Court for breach of contract.
+I shall describe each of these claims as a stigma claim.
+Mr Edwards has combined his stigma claim with what is now a separate claim for wrongful dismissal.
+He has brought no proceedings other than these two claims.
+Mr Botham initially commenced proceedings in the Southampton Employment Tribunal, pursuant to legislation that I shall describe compendiously as unfair dismissal legislation.
+He successfully claimed compensation for both wrongful dismissal and unfair dismissal.
+His damages for the former were limited to three months salary and benefits, in respect of the period of notice of which he was deprived.
+His compensation for the latter was reduced to reflect a finding of 55% contributory fault and the effect of the statutory cap.
+Mr Botham then commenced his stigma claim in the High Court.
+Neither claim succeeded at first instance.
+Each was held to be precluded because it fell within the so called Johnson exclusion area.
+Mr Edwards appealed successfully to the Court of Appeal, after which Mr Botham made a similar appeal, which was allowed by consent.
+Two questions arise. (1) Are the stigma claims outside the Johnson exclusion area because they are discrete from and independent of the claims for wrongful dismissal? (2) Are the stigma claims outside the Johnson exclusion area because they are claims for breaches of express, and not implied, contractual terms? The majority answers both questions in the negative.
+Lady Hale answers the second question in the affirmative, and holds that the judgments of the Court of Appeal were correct for this reason.
+Lord Kerr and Lord Wilson consider that the first question is critical.
+So far as Mr Edwards is concerned, his stigma claim is sound because it is discrete and independent of the claim for wrongful dismissal.
+Mr Bothams claim is, however, for loss consequential on his dismissal.
+In these circumstances his claim is invalid.
+Lord Dyson holds that each stigma claim arises out of the manner of the claimants wrongful dismissal.
+I agree with him.
+If that conclusion is correct it is, I believe, common ground that each claim must fail if Lord Hoffmanns obiter dicta in Johnson were correct.
+Lord Dyson has set out at para 1 of his judgment the implied term upon which the claim in Johnson was founded (the trust and confidence implied term).
+The majority in Johnson, Lord Steyn dissenting on the point, held that this implied term had no application to the manner of dismissal of an employee by his employer.
+This was because Parliament had made alternative provision for this situation by the unfair dismissal legislation.
+Lord Hoffmann alone expressed the view that, even if the manner of dismissal involved the failure to comply with a disciplinary code that had contractual effect, no claim at common law could be based upon that failure.
+The vital question in the present case is whether Lord Hoffmann was correct.
+That question might well have been raised in Eastwood.
+There also the trust and confidence implied term was invoked to found common law claims by employees who had been dismissed after disciplinary hearings that had been improperly conducted.
+Each of the employees claimed that the hearings had caused them psychiatric damage prior to dismissal.
+The employers sought to rely on the Johnson exclusion.
+No one suggested that the claims could be founded on breaches of express contractual obligations in relation to the disciplinary hearings.
+Instead, the claims were held to be viable on the basis that they fell outside the Johnson exclusion area in as much as their causes of action preceded and were independent of their subsequent dismissals.
+Lord Steyn devoted a lengthy concurring speech to the suggestion that there might be good reason to reconsider Johnson.
+He did not suggest that it could simply be finessed by bringing a claim for failure to comply with the relevant disciplinary codes.
+In Johnson at para 66, when dealing with the intention of Parliament when passing section 3(1) of the 1996 Act, Lord Hoffmann observed that the disciplinary procedures could not have been intended to qualify the employers common law power to dismiss without cause on giving such notice, or to create contractual duties which are independently actionable.
+The intention of which he spoke was both that of Parliament and that of the parties themselves.
+This is echoed by a passage in the judgment of Lord Dyson, when applying Lord Hoffmanns reasoning in the present case.
+Lord Dyson sets out at para 26 of his judgment the critical passage from the speech of Lord Hoffmann in Johnson.
+He then expands on the Parliamentary history of the requirement that disciplinary procedures should be incorporated in contracts of employment.
+He demonstrates that Parliament also provided that failure to comply with those procedures should have specific consequences in unfair dismissal proceedings.
+Lord Dyson at para 38 observes that disciplinary procedures incorporated into an employment contract are not ordinary contractual terms.
+At para 39 he concludes that it is necessarily to be inferred from the statutory background that, unless the parties otherwise expressly agree, the parties to an employment contract do not intend that a failure to comply with contractually binding disciplinary procedures will give rise to a common law claim for damages.
+Thus, on Lord Dysons analysis, no claim to damages can be founded on breach of a disciplinary code that is incorporated into the contract because it is to be inferred that the parties have so agreed.
+This echoes Lord Hoffmanns reference to the intention of the parties themselves.
+Courts often refer to the intention of Parliament.
+When they do so the intention is usually implied or imputed.
+The courts ascribe to Parliament an intention that the relevant legislation will bear a meaning that is rational and coherent.
+The intention is thus somewhat artificial.
+It is even more artificial in the present context to impute to every party to a contract of employment the same intention that Lord Hoffmann and Lord Dyson have ascribed to Parliament in relation to the effect of disciplinary codes.
+While this may be a legitimate approach to making sense of this area of the law, I believe that there is a more satisfactory route that leads to the conclusion that Lord Dyson has reached in this case.
+This case is about remoteness of damage.
+That is what Addis was about.
+In Addis the plaintiff was employed to manage a business in Calcutta on terms that entitled him to 6 months notice.
+He was given 6 months notice, but immediately replaced, with the result that he returned to England.
+His claim for breach of contract succeeded before judge and jury.
+The jury awarded him 600 for wrongful dismissal.
+In the House of Lords the principal issue was as to the measure of damage to which he was entitled.
+There were a number of problems.
+First it was not clear whether the breach of contract lay in constructively dismissing the plaintiff without notice, or in refusing to let him act as manager during the notice period.
+Significantly, Lord Loreburn LC held at p 490 that it made no difference.
+The damages were the same on either footing.
+The second problem was that it was not clear on what bases the jury had awarded 600 damages.
+Lord Atkinson at pp 494 and 496 and Lord Collins at pp 497, 498 and 501 considered the case on the footing that the jury might have purported to award exemplary damages.
+The majority of their Lordships considered, however, that the case raised the issue of principle of whether it was open to the jury to award damages for the consequences of the dismissal in so far as these extended beyond direct financial loss.
+They considered whether damages could be awarded in respect of injury to feelings or the fact that the dismissal of itself made it more difficult to obtain fresh employment see Lord Loreburn at p 491, Lord Atkinson at p 493, Lord Collins at p 497 and Lord Shaw of Dumferline at p 504.
+It is particularly material in the present context that they considered whether wrongful dismissal could give rise to a claim for stigma damages.
+The majority held that it could not.
+The reason for this was that such a head of loss, together with any claim for distress or injury to feelings, was properly the subject of a claim in tort rather than in contract see Lord James of Hereford at p 492, Lord Atkinson at p 496, Lord Gorell at p 502 and Lord Shaw at pp 503 and 504.
+Thus Addis was not a case about the scope of the contractual duty of an employer, but a case about the measure of damage recoverable for breach of the employers contractual duty.
+As Lord Dyson points out at para 19, the 1971 Act was passed on the basis that the law had not changed since Addis.
+That was the first of a series of statutes, set out by Lord Dyson, that put in place a complex scheme that provided a specifically limited remedy for employees for unfair dismissal that took account of the circumstances of the dismissal, including procedural unfairness and, in particular, any failure to comply with the procedural code that the legislation required to be incorporated in the contract.
+In the meantime the common law relating to contracts of employment developed in a manner favourable to employees, both by the development of implied obligations on the part of the employer and by recognising heads of damage that could be recovered both in tort and in contract that had not been recognised at the time of Addis.
+One such obligation arose under the trust and confidence implied term.
+In Mahmud the House of Lords held that this implied term could give rise to stigma damages.
+Stigma damage constituted a novel head of damage for breach of a contract of employment.
+The stigma damages recognised in Mahmud were not caused by wrongful dismissal.
+Stigma damages cannot be awarded for wrongful dismissal without reversing Addis.
+In Addis at p 500 Lord Collins summarised, with approval, an observation of Lord Coleridge CJ in Maw v Jones (1890) 25 QBD 107 as follows: dismissal with an imputation might well be thought by a jury to hurt the plaintiffs prospects of finding another situation, and on that ground alone might give a legal claim to consequential damages within the ordinary rule.
+The majority held, however, that stigma damages could not be recovered as a head of damage flowing from wrongful dismissal.
+Johnson was decided on the premise that Addis remained good law see Lord Millett at para 68 although he did go on at para 70 to raise the question of whether Mahmud might have changed the position.
+Addis was not challenged in Eastwood.
+Addis has not been challenged in the present case.
+Until Addis is reversed it remains the law that stigma damages cannot be recovered for wrongful dismissal.
+The stigma effect can, however, be taken into account in a claim under statute for unfair dismissal.
+If the courts in developing the common law principles of measure of damage can exclude a claim for stigma damages for breach of contract that consists of wrongful dismissal, it is equally open to them to exclude such a head of claim for breach of contract that consists of a failure to comply with a disciplinary code.
+The question in this case is whether this Court should do so.
+If this Court follows the reasoning of the House of Lords in Johnson and in Eastwood this question must be answered in the affirmative.
+The chain of causation linking a failure to follow a disciplinary procedure with stigma is more tenuous than the chain of causation linking wrongful dismissal with stigma.
+If the law does not permit recovery of stigma damages in the latter case, it makes no sense to permit it in the former.
+More generally, to permit such a claim based on a failure to comply with a disciplinary code leading to dismissal undermines the decisions of the House of Lords in Johnson and Eastwood.
+The same is not true of Gunton, if that case was rightly decided, for that case applied the same restrictive approach to measure of damage as Addis.
+On my reading of Lady Hales judgment, I am inclined to suspect that her quarrel is not simply with Lord Hoffmanns obiter dicta, it is with Addis, with Johnson and with Eastwood.
+If so, she stands shoulder to shoulder with Lord Steyn.
+They may both be right.
+It may be that this area of the law merits fundamental review.
+That is not, however, the battleground on which this Court was invited to tread.
+The issue before this Court is narrower.
+It is whether the reasoning in the latter two cases can be subverted by applying to a claim for breach of a disciplinary code a head of damage that the law does not presently permit to be advanced in a claim for wrongful dismissal.
+I agree with Lord Dyson and Lord Mance that the answer to that question is no.
+Accordingly, I would allow each of these appeals.
+LORD MANCE
+I agree with Lord Dysons reasoning and conclusions.
+Mr Bothams case, as pleaded in paragraph 20 of his particulars of claim and as Slade J said in paragraphs 17 18, 25, 29 and 66 of her judgment, is that the Armys breach of contractual terms relating to the implementation of the disciplinary procedure laid down in the Army Discipline Code led to his wrongful dismissal, which in turn led to his alleged loss (save the costs of disciplinary proceedings).
+Lord Dyson concludes, and I agree, that such a claim is unsustainable in the light of the decision in Johnson v Unisys Ltd [2003] 1 AC 518, the dicta of Lord Hoffmann in that case at para 66, and the further considerations relating to the common law and statutory position mentioned by Lord Dyson at paras 19 to 48.
+The law would be incoherent otherwise.
+Lord Phillips prefers an analysis according to which the present case is governed by a principle of remoteness which he derives from Addis v Gramaphone Co Ltd [1909] AC 488.
+That case establishes that an employee cannot recover damages for injured feelings, mental distress or damage to his reputation, arising out of the manner of his dismissal: Johnson v Unisys Ltd, para 44, per Lord Hoffmann.
+But it is questionable whether this is a principle of remoteness, as opposed to causation: see eg Mahmud v Bank of Credit and Commerce International SA [1998] AC 20, 51D E, per Lord Steyn and Johnson v Unisys Ltd, paras 39 and 44, citing McLachlin J s dictum in Wallace v United Grain Growers Ltd (1997) 152 DLR (4th) 1, 39 that A wrong arises only if the employer breaches the contract by failing to give the dismissed employee reasonable notice of termination in support of a conclusion that the only loss caused by a wrongful dismissal flows from a failure to give proper notice or make payment in lieu.
+Put another way, a dismissal is wrongful where there is such a failure (and, of course, no basis for summary dismissal).
+Other circumstances (such as the reasons for the failure, the employers state of mind or the impact on the employee) are simply irrelevant to the breach or the loss recoverable for it.
+The respondent employees case on the present appeals is that the disciplinary procedures which they say were prescribed were, in contrast, by their nature intended to give then contractual protection against unfair dismissal, meaning dismissal for unfair reasons or in an unfair manner.
+On this basis, they submit, there is no reason to treat as irrecoverable any financial loss caused to them by stigma resulting from improper disciplinary procedures leading to unfair findings.
+I see the argument, but its acceptance would, as Lord Phillips points out, undermine the decisions of the House of Lords in both Johnson and Eastwood v Magnox Electric plc [2004] UKHL 35; [2005] 1 AC 503.
+These decisions were in turn based upon a consideration of the legal position resulting from Parliaments introduction of a statutory scheme relating to and providing carefully delimited remedies for unfair dismissal.
+Just as the employees argument depends upon the rationale for the prescribed disciplinary procedures, namely to avoid unfair dismissal, so the answer to it depends upon the existence of a statutory scheme providing remedies for unfair dismissal.
+Employers and employees when contracting, in particular when introducing prescribed disciplinary procedures, must be taken to have in mind the statutory scheme relating to unfair dismissal, and to contemplate that scheme as providing the relevant remedies in the event of unfair dismissal.
+It does not seem to me artificial to ascribe such an intention to them, any more than it did to Lord Hoffmann in Johnson, paras 63 and 66.
+They cannot have intended that procedures put in place to avoid the need to invoke the statutory scheme should in fact circumvent and make irrelevant the careful limitations of that scheme.
+Parties could by express agreement attach a different significance to the prescribed disciplinary procedures.
+But, in the absence of express contrary agreement, the Johnson exclusion area must be taken to cover both loss arising from dismissal and financial loss arising from failures in the steps leading to such dismissal, unless the loss claimed can be regarded as occurring quite independently of the dismissal, as the psychiatric loss claimed by the claimants in Eastwood could be.
+There are further potential objections to Mr Bothams proposed case.
+It depends upon the propositions (a) that one alleged breach of contract or duty can be said to have caused the commission of another breach of contract or duty by the same person or entity, and (b) that where recovery for the latter breach is limited, a claim may, by relying on the former breach as causing the latter breach, avoid the limit.
+Both propositions are in my view open to question.
+First, so far as the failure to take proper disciplinary steps can be separated from the dismissal, then it constituted not a reason for dismissing, but a reason for not dismissing.
+The dismissal was a fresh decision, which the employer ought not to have taken and without which there would have been no loss.
+But, second, assuming the first point in Mr Bothams favour, any loss that he suffered flowed from the wrongful or unfair dismissal, and was recoverable either as compensation for breach of contract or for unfair dismissal, subject in either case to the relevant limits.
+If the wrongful or unfair dismissal is to be attributed causatively to the prior failure to take proper disciplinary steps, I find it difficult to see why or how the damages recoverable for the prior failure should or could exceed the compensation recoverable for the later dismissal.
+However, these points were not fully developed in argument, and I express no further view on them.
+Reference was made in argument to the decision in King v University Court of the University of St Andrews [2002] IRLR 252, where the University had employed the claimant on terms that it was entitled . for good cause shown to terminate the appointment of the employee by giving three months notice in writing.
+The claimant claimed on two bases, first, a breach of the alleged express term not to terminate his employment except on good cause shown, and, secondly, a breach of an alleged implied term of trust and confidence consisting in an alleged failure to act fairly and reasonably in investigating whether good cause was shown.
+The issue before Lady Smith concerned the second basis of claim.
+She distinguished Johnson on the basis that the University was only entitled to terminate the claimants appointment by three months notice for good cause shown, and she held that this involved the implication that there should, before any dismissal, be a prior hearing and investigation, fairly conducted in accordance with a mutual duty of trust and confidence.
+Whether any and if so what damages could be recovered on that basis, in circumstances where the claimant had been dismissed (and the only damages pleaded were alleged to follow from the dismissal) was not discussed.
+In any event, the decision, at first instance on a preliminary issue, concerned a contract very different to the present, in particular a contract containing express term which was treated as involving an obligation not to dismiss save for good cause shown.
+The decision does not assist on the issues now before the Supreme Court.
+Mr Edwardss written case identifies the issue as being whether a person who suffers damage as a result of findings of personal or professional misconduct leading to dismissal and loss of professional status that were made against him in disciplinary proceedings conducted in breach of contract, but which would not otherwise have been made, can recover damages at large (para 30); and the question for the Supreme Court as being whether damages flowing from a breach of an express term of an employment contract, anterior to and separate from dismissal, are in any way restricted; and, if so, on what basis (para 31).
+In para 67 it accepts that there will be a burden on Mr Edwards to prove that if the procedure had been followed, no dismissal would have resulted, but suggests that, even if this could not be shown, he might still recover limited damages of an unspecified nature.
+In para 95 it also asserts that the disciplinary findings would still have caused him recoverable damages, by way of restricted future working opportunities, even if they had not been followed by his dismissal by the Trust.
+These ways of putting the case depart from or expand upon the pleaded particulars of claim, as I read them.
+While I agree that that should not itself be an absolute bar to their pursuit, I would myself have wished to have a draft amended pleading, before any decision to permit their pursuit.
+As, however, I have come to the conclusion that they cannot succeed, this is unnecessary.
+The fact is that Mr Edwards was dismissed on the basis of and contemporaneously with the disciplinary findings about which he seeks to complain.
+In so far as his claim consists of loss allegedly suffered by dismissal, it falls directly within the exclusion area which was recognised in Johnson v Unisys Ltd [2001] UKHL 13; [2003] 1 AC 518 and which I have referred to in paragraphs 90 to 94 above.
+But, in my opinion, it is quite unrealistic in this context to seek to differentiate any of the loss he has allegedly suffered from his dismissal.
+Any breach of disciplinary procedure did not cause of itself identifiably separate loss or illness, as was alleged in Eastwood v Magnox Electric Ltd. [2004] UKHC 35, [2005] 1 AC 503, where (a) Mr Williams claimed that he had suffered stress related illness caused by a long campaign of deliberate harassment independently of his subsequent dismissal, and (b) Mr McCabes claim was for psychiatric injury caused by events occurring before any dismissal.
+Where the findings reached in the disciplinary proceedings and the dismissal are, as in the present case, a part of a single process, the remedy for any unjustified stigma lies, short of circumstances establishing a claim for defamation, in the restoration of reputation which may in the ordinary course be expected to result from a successful claim for wrongful or unfair dismissal.
+Since writing this judgment, I have read Lord Kerrs judgment, with which Lord Wilson agrees, by which they would allow the Ministry of Defences appeal in the case of Mr Botham, but dismiss the Trusts appeal in the case of Mr Edwards, as well as Lady Hales judgment, by which she would dismiss both appeals.
+Essentially, Lord Kerr would permit Mr Edwards to recover damages for any reputational damage from the adverse findings accompanying his dismissal that he can show would have flowed from such findings even if they had not been accompanied by dismissal.
+On this approach, although the alleged breach in failing to follow the correct investigatory process could not give rise to damages for dismissal (other than damages in lieu of notice), it could give rise to damages in respect of financial loss caused by the reasons given for the dismissal.
+I am unable to agree with this suggested distinction.
+The reasons given were part and parcel of the dismissal.
+The reasons would be very relevant to a claim for unfair dismissal, as Lord Dyson explains in para 40.
+But they fall to be dealt with in that context, rather than by a claim for damages (at least in the absence of actionable defamation).
+The contrary approach advocated by Lord Kerr would outflank both the rule in Addis set out by Lord Dyson in para 20 and the Johnson exclusion as explained in Johnson itself and in Eastwood, as well in paras 90 to 94 above.
+Bearing in mind the modern prevalence of disciplinary procedures (required under section 3(1) of the Employment Rights Act 1996 to be noted in any employees written statement of particulars of employment), it could also make commonplace what Lord Nicholls identified in para 29 in Eastwood as exceptional.
+Further, on Lord Kerrs approach, damages could not and would not be awarded by reference to what actually happened.
+The dismissal would have to be discounted.
+Damages would be awarded on a hypothesis of adverse findings issued independently of any dismissal that is, either without any disciplinary measure at all or in conjunction with some different measure such as suspension.
+This would involve an enquiry which was both speculative and unreal.
+Quite apart from the difficulty of an assumption that the same findings would have been made without dismissal, how would one sensibly assess whether any and what loss would have been suffered from the findings if there had been no dismissal? The exercise would also involve, to an even greater degree, distinctions regarding causation and consequences of the sort that Lord Hoffmann found problematic in Johnson at paras 48 and 54.
+As Lord Nicholls made clear in Eastwood at para 32, the applicability of the Johnson exclusion and so the recoverability of loss may depend upon whether an employer dismisses the employee, as opposed (for example) to simply suspending him.
+The fact of dismissal can make all the difference.
+Here, whatever the correct disciplinary process may or should have been, it required the employer to explain the reasons if dismissal was the outcome.
+When applying the Johnson exclusion, the dismissal and the reasons accompanying it cannot be distinguished in the manner proposed.
+If there was a failure in the disciplinary process, it led to both, and, if the law is to be coherent, both must fall within the Johnson exclusion.
+Lady Hales approach would treat damages as recoverable at large for any breach of any contractually provided disciplinary procedure, irrespective of whether dismissal followed or led to the loss claimed.
+For reasons indicated in paras 90 to 94 above, I do not agree with that approach.
+The case of an employee with an express contractual right not to be dismissed save for cause is not before us, and gives rise to different issues to those which are.
+Damages for wrongful dismissal in breach of such a contract would on the face of it be measured on the basis that the contract would have continued unless and until the employee left, retired or gave cause for dismissal (in relation to the prospects of all of which an assessment would have to be made), but questions would no doubt also arise as to whether the employee had accepted or had to accept the dismissal and/or had to mitigate or had mitigated his or her loss.
+In view of my conclusion on the main issues, it is unnecessary to express any view about the decision of the Court of Appeal in Gunton v Richmond on Thames London Borough Council [1981] Ch 448, or in particular the so called Gunton extension, whereby the damages awarded for wrongful dismissal in that case were calculated by adding the one months contractual notice period to a notional period which a proper disciplinary process would have taken.
+The Trust did not appeal against Nicol Js decision to award Mr Edwards damages in accordance with the Gunton extension.
+Before the Supreme Court the Trust simply put a question mark in principle against the correctness of the extension.
+Mr Edwards and Mr Bothams Cases sought to distinguish Gunton on its facts as well as to draw some support, for a proposition that damages can be recoverable at large, from the recovery under the Gunton extension of damages calculated by reference to the notional period of a proper disciplinary process.
+I do not think that Gunton lends any real weight to that contention.
+Indeed, the claimant in Gunton was by amendment seeking damages continuing until his normal retirement age (subject only to the contingencies of redundancy or dismissal under a proper disciplinary process).
+These he was not awarded.
+The reasoning upon which the Gunton extension was based appears to operate independently of what would or might have been the outcome of a proper disciplinary process.
+It is not binding upon us.
+The extension may be difficult to reconcile with Lord Hoffmanns view in Johnson, para 66, that any contractual disciplinary procedures cannot have been intended to qualify the employers common law power to dismiss without cause on giving such [ie due contractual] notice.
+But, assuming it to be correct, it neither compels nor leads to any different conclusion to that which I have reached on the central issues whether Mr Edwards and Mr Botham can recover damages at large for the breaches of disciplinary procedures which they allege.
+I therefore agree with Lord Dyson that both the appeal of the Trust in the case of Mr Edwards and the appeal of the Ministry of Defence in the case of Mr Botham be allowed.
+LADY HALE
+In my view the Court of Appeal reached the right conclusions for the right reasons and both appeals should be dismissed.
+As the majority take a different view, I shall be brief.
+But I should perhaps declare an interest, as the only member of this court to have spent a substantial proportion of her working life as an employee rather than as a self employed barrister or tenured office holder.
+There is no reason at all to suppose that, in enacting the Industrial Relations Act 1971, Parliament intended to cut down upon or reduce the remedies available to employees whose employers acted in breach of their contracts of employment.
+Quite the reverse.
+Parliament intended to create a new statutory remedy for unfair dismissal which would supplement whatever rights the employee already had under his contract of employment.
+Parliament did that because most employees had very few rights under their contracts of employment.
+In particular, although many employees had a reasonable expectation that they would stay in their jobs unless and until there was a good reason to dispense with their services, most of them had no legal right to do so.
+The 1971 Act gave them the right not to be dismissed without what appeared at the time to be a good reason, determined after a fair process.
+They were to be compensated, within modest limits, not principally for their hurt feelings but for the loss of their job.
+That the main target of the new jurisdiction is the loss of the job is borne out by the later inclusion of the remedy of reinstatement.
+The common law would not normally give damages for the loss of a job.
+Then, as now, the great majority of contracts of employment gave both the employer and the employee the right to terminate their relationship on giving the prescribed period of notice.
+So if the employer terminated the relationship summarily, without giving the required period of notice, he would be liable to compensate the employee for that which he would have received had his contract been kept and no more: Addis v Gramophone Company Ltd [1909] AC 488, per Lord Atkinson at p 496.
+In other words, he would get his pay during the period of notice which he should have had and any contractual commission or bonus which he would have earned during that period.
+The majority of the House of Lords in Addis decided that the wrongfully dismissed employee was not entitled to any extra damages, either for the injury to his feelings caused by the way in which he had been dismissed or for the fact that his dismissal might make it more difficult for him to get another job.
+Lord Collins disagreed: he thought that damages for wrongful dismissal might include compensation for the difficulty caused in getting another job.
+But he was in a minority of one.
+The majority view was that the employee was entitled to the normal measure of damages in contract, to be placed in the position in which he would have been had his contract been properly performed, and any consequential loss within the contemplation of the parties, but no more.
+In short, there was no right to be compensated for the longer term consequences of the loss of a job.
+But let us suppose a contract of employment where the employer is only entitled to dismiss the employee for good cause.
+Rightly or wrongly, most University teachers employed under the contracts of employment which were current in the 1960s believed that they could only be dismissed for cause.
+If judges, instead of being office holders, were employed under contracts of employment, they could only be dismissed for cause.
+Under such a contract, if the employer dismisses the employee without good cause, the employee is entitled to be compensated for the consequences of the loss of the job.
+Obviously, the calculation of damages will have to take account of contingencies such as the possibility of good cause arising in the future.
+This is the application of the ordinary principles of the law of contract.
+However, a great many contracts of employment, perhaps now the vast majority, fall between these two extremes.
+They couple the right of either party to terminate it on giving a certain period of notice with a provision that, if the employer wishes to terminate it on disciplinary grounds, he must follow a prescribed procedure.
+Such contracts could be analysed in a number of ways.
+First, the contract could mean that the employee can be dismissed on notice for non disciplinary grounds, such as incapacity or redundancy or indeed for any other reason the employer might have for wanting to dismiss him; but that, if the employer wants to dismiss him on disciplinary grounds, he can only do so by following the required procedure.
+Failure to follow this procedure correctly would lead to damages for loss of the job.
+That was the result reached by the trial judge in Gunton v Richmond upon Thames London Borough Council [1981] Ch 448.
+Second, the contract could mean that if the employer wants to dismiss the employee on disciplinary grounds, he can only do so after following the prescribed procedure, but that having followed the prescribed procedure and irrespective of the result, he remains entitled to dismiss the employee by giving the usual period of notice.
+Thus the employee is entitled only to damages for the period during which the correct disciplinary process would have been taking place, plus the contractual notice period on top of that (presumably on the assumption that whatever findings the disciplinary process might have reached would not have justified a summary dismissal).
+That is the result reached by the Court of Appeal in Gunton (the difference of opinion in the Court of Appeal was as to the effect of a repudiatory breach of contract by the employer whether it automatically brought the contract to an end or whether it only did so if accepted by the employee, an important point which does not arise in this case but does arise in another which may shortly come before this Court).
+A third analysis is that the contract could mean that the employer always remains free to dismiss on giving the required period of notice, with or without following the contractual disciplinary process, so the employee is only ever entitled to the Addis measure of damages.
+The two cases before us both fall into that ambiguous category.
+There is a contractual notice period but also a contractual disciplinary process which (we must assume in Mr Edwards case) was not complied with.
+But in neither case are we concerned with damages for loss of the job as such.
+Mr Botham made a successful claim for unfair dismissal to the employment tribunal.
+Mr Edwards withdrew his.
+Both are concerned with the adverse consequences of the factual findings of a disciplinary process conducted in breach of contract.
+In Mr Edwards case, those findings are said to have made it impossible for him to obtain another post as an NHS consultant and to have adversely affected his earnings in private practice.
+In Mr Bothams case, those findings meant that the resulting dismissal had to be reported to the Department of Education and Skills, so that for a while he was placed on the register of people deemed unsuitable to work with children (the POCA list).
+These are losses which flow from the breach of contractually agreed disciplinary processes.
+Why should they not be recoverable in the ordinary way? Lord Phillips says that it is a matter of remoteness.
+These are not losses which fall within the reasonable contemplation of the parties when they make the contract.
+I have difficulty with that.
+Why include disciplinary processes within the employment contract if you do not expect that they will influence the employers decision? The losses flowing from the breach of a contractually agreed disciplinary process are much more directly related to the breach of contract than are the losses flowing from the dismissal as such, especially where the employer was entitled to dismiss whenever he wanted provided that he gave the contractual notice.
+There were no such contractually agreed processes in Addis, so the cases are readily distinguishable.
+But for the others in the majority, it is said that such damages would fall within the so called exclusion area created by the House of Lords decision in Johnson v Unisys Ltd [2001] UKHL 13, [2003] 1 AC 518, as further examined and explained in the House of Lords decision in Eastwood v Magnox Electric plc [2004] UKHL 35, [2005] 1 AC 503.
+Both of those cases concerned alleged breaches of the term, now implied into all contracts of employment, that neither party will, without good cause, conduct themselves in a manner calculated to destroy or seriously damage their relationship of mutual trust and confidence.
+Arnold J is generally credited as the first to recognise the existence of this implied term in Courtaulds Northern Textiles Ltd v Andrew [1979] IRLR 84.
+If the employer acted in breach of the term, the employee was entitled to treat himself as constructively dismissed and thus to take advantage of the remedies for unfair dismissal which Parliament had now provided.
+Lord Nicholls explained in Eastwood v Magnox, at p 325, that this development of the common law was prompted by the 1971 Act, to enable employees to regard themselves as dismissed if their employers had conducted themselves in a way which no employee could be expected to tolerate.
+In Johnson v Unisys Ltd, the majority of the House of Lords decided that the implied term of trust and confidence did not give the employee a right of action for damages at common law resulting from the manner in which he had been dismissed.
+The House was persuaded that Parliament had provided the limited remedy of unfair dismissal to cover that ground and it would be wrong to develop the common law to circumvent the limits which Parliament had laid down.
+In Eastwood v Magnox Electric, on the other hand, the House recognised that if the employee could establish a cause of action for breach of the implied term independently of the dismissal, then that was not excluded by the statutory regime.
+However, as Lord Nicholls explained, at para 30, If identifying the boundary between the common law rights and remedies and the statutory rights and remedies is comparatively straightforward, the same cannot be said of the practical consequences of this unusual boundary.
+He went on to illustrate the difficulties and anomalies, not least that an employer might have to pay full compensation to an employee who was suspended in breach of the implied term but only the statutorily limited compensation to an employee who was dismissed: see Gogay v Hertfordshire County Council [2000] IRLR 703.
+This case is ample demonstration of the wisdom of Lord Nicholls words.
+The majority have held that the Johnson exclusion area covers the breach of express as well as implied terms in an employment contract and that the particular losses claimed here fall within the exclusion area.
+Lord Kerr and Lord Wilson also hold that the exclusion area extends to breach of express terms as well as the implied term; but they hold that it only extends to damage resulting from the dismissal itself, and not to damage resulting from the findings of the wrongful disciplinary process rather than the dismissal.
+This enables them to distinguish between Mr Edwards and Mr Botham.
+Mr Edwards is claiming for the adverse consequences of the findings made against him rather than for his dismissal as such.
+Mr Botham is claiming for the adverse consequences of being placed on the POCA list, which could only happen because of his dismissal.
+It is understandable to wish to distinguish between the two, as Mr Bothams claim is designed to circumvent the tribunals finding of contributory fault.
+It seems to me, however, that it has long been recognised that the law of contract is defective in not recognising the concept of contributory fault in certain circumstances: see, for example, the Law Commissions Report on Contributory Negligence as a Defence in Contract (1993, Law Com No 219).
+The solution to problems like that is principled and comprehensive law reform.
+We have seen how the Johnson exclusion area has been productive of anomalies and difficulties.
+There is no reason at all to extend it any further than the ratio of that case.
+As the Court of Appeal held in this case, it should be limited to the consequences of dismissal in breach of the implied term of trust and confidence.
+The House of Lords was persuaded that the common law implied term, developed for a different purpose, should not be extended to cover the territory which Parliament had occupied.
+In fact, the territory which Parliament had occupied was the lack of a remedy for loss of a job to which the employee had no contractual right beyond the contractual notice period.
+Parliament occupied that territory by requiring employers to act fairly when they dismissed their employees.
+But there was and is nothing in the legislation to take away the existing contractual rights of employees.
+There was and is nothing to suggest that Parliament intended to limit the entitlement of those few employees who did and do have a contractual right to the job, the right not to be dismissed without cause.
+It is for that reason that I am afraid that I cannot agree that the key distinction is between the consequences of dismissal and the consequences of other breaches.
+The key distinction must be between cases which must rely on the implied term to complain about the dismissal and cases which can rely on an express term.
+I am uncertain as to how the majority would regard the case of an employee with the contractual right only to be dismissed for cause.
+Like Lord Kerr, I am puzzled as to how it can be possible for an employee with a contractual right to a particular disciplinary process to enforce that right in advance by injunction but not possible for him to claim damages for its breach after the event.
+And I am also puzzled why it should make a difference if the right to claim damages is expressly spelled out in the contract.
+I would have dismissed both appeals.
+LORD KERR (WITH WHOM LORD WILSON AGREES)
+The Report of the Royal Commission on Trade Unions and Employers Associations 1965 1968 (the Donovan Report) was commissioned because of the perceived inadequacy of the law relating to dismissal of employees.
+This much, at least, is uncontroversial in this case.
+But how did it set about making recommendations to deal with those inadequacies? Did it recommend, and more particularly, did its offspring, the Industrial Relations Act 1971, provide, a comprehensive and exclusive scheme for the compensation of those who had been improperly dismissed from employment? Or was the 1971 Act a statute simply designed to provide wrongly dismissed employees with greater rights than the then only available claim in respect of their dismissal viz for wages that they would have earned during the notice period, while leaving intact any other contractual rights that might have been available to them?
+An insight into the essential purpose of the Donovan report can be obtained from a number of its passages, albeit that they do not speak directly to the issue that has been starkly expressed above.
+Paragraph 522 of the report (quoted by Lord Dyson at para 19 of his judgment) sets the scene.
+Beyond a claim for wrongful dismissal (with the limited redress that afforded) an employee had no rights whatever in relation to the circumstances in which he was dismissed.
+The only action that he could take about the manner of his dismissal, where that involved an imputation on his honesty, was for defamation.
+This was a situation which the Donovan report considered could no longer be tolerated.
+Those who were unfairly dismissed, because of the potentially massive impact that such an event had on their lives, needed to have something more to compensate them beyond the few weeks or even months wages that they would have earned during a notice period.
+The scene thus set is emphatically in the realm of dismissal from employment and the impact that dismissal has on the future fate of the dismissed employee.
+That theme emerges strongly from para 526 of the report: In practice there is usually no comparison between the consequences for an employer if an employee terminates the contract of employment and those which will ensue for an employee if he is dismissed.
+In reality people build much of their lives around their jobs.
+Their incomes and prospects for the future are inevitably founded in the expectation that their jobs will continue.
+For workers in many situations dismissal is a disaster.
+For some workers it may make inevitable the breaking up of a community and the uprooting of homes and families.
+Of course, at the time that this was written, contractual provisions in relation to disciplinary procedures, if not unheard of, were certainly not the staple of most contracts of employment.
+It is not surprising, therefore, that there was no reference to the consequences of a failure on the part of employers to adhere to such provisions, whether in relation to the termination of employment or as regards the disadvantages that an employee might suffer in terms of future employability, even if he was not dismissed.
+Significantly, there is no suggestion in the report that its authors contemplated a complete charter for all claims arising from dismissal from employment.
+On the contrary, the statement in para 529 that it [is] urgently necessary for workers to be given better protection against unfair dismissal strongly suggests that the primary purpose of the proposals for a change in the law was to enlarge the remedies available to employees rather than to confine the remedies to a single unitary system.
+Indeed, at para 551 the report states ideally, the remedy available to an employee who is found to have been unfairly dismissed is reinstatement in his old job.
+The committee actually considered whether the remedy for unfair dismissal should be confined to reinstatement.
+That stance would sit oddly with the notion that the legislation was designed to be a charter that would bring the curtain down on all manner of claims by employees following their dismissal.
+Now it is true that at para 553 it is stated: The labour tribunal should normally be concerned to compensate the employee for the damage he has suffered in the loss of his employment and legitimate expectations for the future in that employment, in injured feelings and reputation and in the prejudicing of further employment opportunities. (emphasis supplied).
+But, although at first sight this might be thought to indicate that actions for reputational damage should be subsumed into the unfair dismissal claim, I do not consider that this was the reports intention.
+Obviously, the fact that one has been dismissed from employment, whatever the circumstances of the dismissal, can carry a disadvantage in terms of future employability.
+It is right that this should be reflected in the recoverable compensation where the dismissal is unfair.
+But that circumstance does not alone warrant the conclusion that breach of a term of the contract which leads to a finding that there has been misconduct on the part of the employee and which leads in turn to dismissal cannot have contractual consequences beyond the enhancement of a claim for unfair dismissal.
+As a matter of elementary contract law, a term which binds an employer to a particular form of disciplinary hearing, if breached, will give rise to a claim on the part of the employee for the consequences of the breach.
+Indeed, the employers in these cases concede that such a term would found an application for an injunction to restrain its breach.
+But it is argued that when one comes to a remedy following the breach (as opposed to in anticipation of it) a claim for damages is not viable because of the effect of the 1971 Act and succeeding statutory provisions.
+It is conceivable that legislation can have the effect of removing or nullifying a contractual right and it will be necessary to examine the basis on which it is said that this has occurred in the present context.
+It is important, however, to start with the clear understanding, that, absent any such legislative intervention, there can be no question of terms in an agreement in relation to the conduct of disciplinary hearings being different from other contractual terms.
+This is so, in my view, whether they have become incorporated into the contract as a result of statutory requirement or are the product of independent agreement between the parties to the contract.
+Nothing in the 1971 Act suggests that Parliament intended to restrict an employees rights under his contract of employment.
+If, at the time of the enactment of that legislation, an employees contract of employment included a term that his employer would conduct disciplinary proceedings against him according to a particular set of rules and if, in breach of that term, the employer failed to adhere to those rules, any loss suffered by the employee in consequence would surely be compensatable on a breach of contract claim.
+As Hale LJ said in Saeed v Royal Wolverhampton Hospitals NHS Trust [2001] ICR 903 at para 12: The employer who is contemplating disciplinary action against an employee has to decide which procedure should be followed.
+If the employee thinks that the employer has made the wrong choice, he can try to have it changed in advance or seek damages after the event.
+The court will have to perform its usual task of construing the contract and applying it to the facts of the case.
+I did not understand either of the employers in these appeals to challenge the correctness of that statement of the law although it is, of course, right, as Lord Dyson has pointed out in para 44, that Saeed was decided before Johnson (Johnson v Unisys Ltd [2003] 1 AC 518).
+It will be necessary to say something presently about the effect that the later decision may have had on the reasoning in the earlier case but, for present purposes, Saeed is important authority for the proposition that breach of a contractual term in relation to the conduct of a disciplinary hearing could be relied on by an employee in a claim for damages.
+Lord Dyson has observed that Saeed was not a dismissal case but that does not affect the essential point.
+There is nothing unusual about breach of such a term giving rise to a claim for damages.
+The importance of Saeed to the present appeals lies in its recognition that the contractual right to a particular form of disciplinary proceeding is no different from other contractual rights.
+Ms Outhwaite QC suggested that a claim based on such a contractual right, if pursued after dismissal, would involve the creation of a new cause of action.
+I do not accept that.
+It is a perfectly conventional claim in contract involving the breach of an agreed term giving rise to loss on the part of the employee.
+If one accepts that there is a claim in contract if there is no termination of employment, an impossibly anomalous situation arises if the claim cannot be pursued when the employment is terminated.
+Suppose that someone who was the subject of disciplinary proceedings had an offer of extremely remunerative employment and that this was withdrawn as the result of adverse findings in the disciplinary proceedings but those findings did not result in his dismissal, would he be entitled to seek damages for the loss of his prospective new employment? Why not? If he has a contractual right to a properly constituted tribunal and can show that such a tribunal would not have made the findings that were instrumental in the offer of employment being withdrawn, can he not say that the failure to constitute a proper tribunal was a breach of a duty owed to him under contract? And if he can show that, as a direct consequence of that breach, he suffered a loss, can he not maintain an action for compensation for breach of contract? This does not represent a novel action or a novel development of the common law.
+It is merely the application of settled principles of contract law to a particular set of circumstances.
+Moreover, if an employee can maintain such an action if he is not dismissed, why should he not be able to maintain it if he is dismissed? The loss of the chance of more remunerative employment does not, in the mooted example, flow from the dismissal; it is the direct consequence of the adverse findings.
+There is no logical reason to draw a distinction between the situation where he has not been dismissed and that where he has been.
+The employers in these appeals attempt to confront this anomaly by saying that an injunction can be obtained and the employees legal rights should be confined to that.
+But what is the legal or juridical basis for that assertion? As a matter of first principle, an injunction is available on the basis that a legal wrong is anticipated.
+If that legal wrong materialises, why should it not be actionable at the suit of the person who could have obtained the injunction?
+This point, albeit in a somewhat different context, was expressed by Lord Nicholls in Eastwood and another v Magnox Electric plc and McCabe v Cornwall County Council and another [2005] 1 AC 503.
+In that case one of the claimants, having obtained the statutory maximum compensation for unfair dismissal, sought damages for psychiatric injury caused by the defendant employers suspension of him and its failure to inform him of allegations made against him or to carry out a proper investigation of those allegations.
+This was said to represent a breach of the necessary relationship between employer and employee of trust and confidence and breach of the employers duty to provide a safe system of work.
+At para 27 Lord Nicholls said: If before his dismissal, whether actual or constructive, an employee has acquired a cause of action at law, for breach of contract or otherwise, that cause of action remains unimpaired by his subsequent unfair dismissal and the statutory rights flowing therefrom.
+In the present appeals, on Mr Edwards case, he had a contractual right to have his disciplinary hearing conducted by a tribunal constituted as stipulated in Disciplinary procedures for Hospital and Community Medical and Dental Staff (HC(90)9).
+At what point did this right (which for the purposes of the appeal, we must assume existed) give rise to a cause of action? Mr Edwards claims that there was a breach of the contractual right as soon as the wrongly constituted panel was convened.
+Did the cause of action arise then? Or did it first materialise when the decision to dismiss him was taken? It might be argued that Mr Edwards suffered no loss until he was summarily dismissed but this seems to me to take too narrow a view of the position.
+The Trust accepts that, if the facts as he asserts them are established, Mr Edwards could have applied for an injunction to prevent the tribunal from considering his case.
+That (rightly made) concession must proceed on the premise that, on those facts, he already had a cause of action at that stage.
+On Lord Nicholls analysis in Eastwood, therefore, if Mr Edwards can establish his case on the pleaded factual assertions, he had a cause of action at law before his dismissal which should remain unimpaired by his subsequent dismissal.
+Mr Bothams case is somewhat different.
+In the agreed Statement of Facts and Issues in his case it is stated that [a]s a consequence of the dismissal for gross misconduct, Mr Botham was reported to the Department of Education and Skills and was placed on the register of persons deemed unsuitable to work with children (emphasis supplied).
+The reputational damage suffered by Mr Botham is therefore directly linked to his dismissal rather than any defect in the procedures which led to it.
+The employers in both cases argue, however, that both involve claims for damages arising from the unfair manner of their dismissal and that the reasoning in the Johnson and Eastwood cases preclude such claims.
+It is therefore necessary to look more closely at both decisions.
+As Lord Dyson has pointed out (in paras 19 21), the background to the 1971 Act and the Donovan report was that at common law an employee was not entitled to recover damages in respect of the manner of his dismissal.
+Moreover, an employee could only recover damages if he was actually dismissed.
+If he had chosen to leave employment because of mistreatment by his employer, he could not maintain an action for wrongful dismissal.
+In mitigation of the harshness of this rule, the courts developed the concept of the implied term of mutual trust and confidence which, shortly stated, stipulates that an employment contract is subject to the implied term that the parties to it may not conduct themselves in a manner likely to destroy the confidence and trust that is essential to the relationship of employer and employee: Mahmud v Bank of Credit and Commerce International SA [1998] AC 20.
+It was the concept of the implied term of mutual trust and confidence which predominated in Johnson.
+The claimant sought to rely on such a term to promote a claim at common law relating to the manner of his dismissal.
+He alleged that because of the way in which he had been dismissed, he had suffered a mental breakdown and was unable to work.
+His claim was therefore inextricably, indeed uniquely, linked to the manner of his dismissal.
+And the manner of his dismissal was in turn said to be unlawful because it was in breach of the implied term of mutual trust and confidence.
+The issues which the House of Lords had to squarely face, therefore, were (i) whether the implied term of mutual trust and confidence could be used as a foundation for a claim that focused exclusively on the manner in which the employee was dismissed; and (ii) whether a common law action claiming damages could be maintained on that basis, notwithstanding that Parliament had legislated to provide a comprehensive code for compensation of unfair dismissal claims.
+In dismissing the employees appeal, Lord Nicholls said in para 2 that a common law right embracing the manner in which an employee is dismissed cannot satisfactorily coexist with the statutory right not to be unfairly dismissed.
+At para 47 Lord Hoffmann suggested that it would be jurisprudentially possible to imply a term which would give a remedy in Mr Johnsons case but he doubted the wisdom of doing so.
+This was not the basis on which he dismissed the appeal, however.
+His reasons for doing so are contained in para 54: The remedy adopted by Parliament was not to build upon the common law by creating a statutory implied term that the power of dismissal should be exercised fairly or in good faith, leaving the courts to give a remedy on general principles of contractual damages.
+Instead, it set up an entirely new system outside the ordinary courts, with tribunals staffed by a majority of lay members, applying new statutory concepts and offering statutory remedies.
+Many of the new rules, such as the exclusion of certain classes of employees and the limit on the amount of the compensatory award, were not based upon any principle which it would have been open to the courts to apply.
+They were based upon policy and represented an attempt to balance fairness to employees against the general economic interests of the community.
+At para 79 Lord Millett suggested that, if the 1971 Act and subsequent legislation in this field had not been enacted, the courts might well have developed the law by imposing a more general obligation upon an employer to treat his employee fairly even in the manner of his dismissal.
+He explained why this had not been necessary in para 80: the creation of the statutory right has made any such development of the common law both unnecessary and undesirable.
+In the great majority of cases the new common law right would merely replicate the statutory right; and it is obviously unnecessary to imply a term into a contract to give one of the contracting parties a remedy which he already has without it.
+In other cases, where the common law would be giving a remedy in excess of the statutory limits or to excluded categories of employees, it would be inconsistent with the declared policy of Parliament.
+In all cases it would allow claims to be entertained by the ordinary courts when it was the policy of Parliament that they should be heard by specialist tribunals with members drawn from both sides of industry.
+And, even more importantly, the coexistence of two systems, overlapping but varying in matters of detail and heard by different tribunals, would be a recipe for chaos.
+All coherence in our employment laws would be lost.
+Lord Dyson has suggested that the ratio of Johnson is that the implied term of trust and confidence cannot be extended to allow an employee to recover damages for loss arising from the manner of his dismissal (para 24).
+Moore Bick LJ in the Court of Appeal in Edwards case cast it in slightly different terms.
+At para 23 of his judgment he said: the ratio is that the common law does not imply into a contract of employment a term that the employer will not act unfairly towards the employee in relation to his dismissal and that the courts are not at liberty to develop the common law implied term of trust and confidence in order to give rise to such an obligation.
+I would prefer to express the ratio in terms that more clearly recognise the two separate aspects of the decision.
+In the first place, the House of Lords rejected the notion that the implied term of mutual trust and confidence had any role in determining the nature of the employers obligations at the time of the dismissal of the employee.
+Secondly, it concluded that compensation for loss flowing from the manner in which an employee is dismissed must be sought within the statutory scheme devised by Parliament in the 1971 Act and continued in successor enactments.
+It seems to me that it is the latter of these two which is the more relevant to the issues that arise on this appeal.
+Importantly, I do not construe anything in the opinions in Johnson as casting doubt on the correctness of Hale LJs statement in Saeed that choice of the wrong form of disciplinary action can give rise to a claim for damages.
+Indeed, para 44 of Lord Hoffmanns speech would appear to contemplate precisely that type of action.
+He was there discussing the effect of Addis v Gramophone Co Ltd [1909] AC 488 (in which it had been held that if the way in which an employee was dismissed constituted an imputation on his honesty he could not except through an action in defamation obtain any redress).
+On that subject, Lord Hoffmann said this: if wrongful dismissal is the only cause of action, nothing can be recovered for mental distress or damage to reputation.
+On the other hand, if such damage is loss flowing from a breach of another implied term of the contract, Addiss case does not stand in the way. (emphasis supplied)
+A claim for breach of contract arising from the employers selection of the wrong form of disciplinary proceeding need not be a claim for unfair or wrongful dismissal.
+The choice of the wrong procedure might lead to dismissal but if the employer is contractually bound to follow a particular route, his failure to do so will give rise to a cause of action which can be entirely independent of any claim in respect of termination of employment.
+The two aspects of the Johnson decision are reflected in the opinions of the House of Lords in the later cases of Eastwood and McCabe.
+Perhaps significantly, at para 8 of his opinion, Lord Nicholls characterised the claim in Johnson as one which relied on breach of the trust and confidence implied term, not as a foundation for a statutory claim for unfair dismissal or as a foundation for a claim for damages unrelated to dismissal, but as a foundation for a claim at common law for unfair dismissal.
+It is clear from this and other statements made by Lord Nicholls that reliance on the implied term in a claim for damages unrelated to dismissal would be viable.
+It was because Mr Johnson's claim was founded on the fact that he had been dismissed, and the trust and confidence implied term could not be applied to dismissal itself that it was bound to fail see para 10 of Eastwood.
+In the most important part of his speech in Eastwood (at least, so far as the present appeals are concerned) in paras 27 29, Lord Nicholls discussed what he described as the boundary line drawn by the Johnson decision.
+I have already quoted from para 27 (at para 135 above).
+It is now necessary to set this passage out in full: The boundary line 27 Identifying the boundary of the Johnson exclusion area, as it has been called, is comparatively straightforward.
+The statutory code provides remedies for infringement of the statutory right not to be dismissed unfairly.
+An employees remedy for unfair dismissal, whether actual or constructive, is the remedy provided by statute.
+If before his dismissal, whether actual or constructive, an employee has acquired a cause of action at law, for breach of contract or otherwise, that cause of action remains unimpaired by his subsequent unfair dismissal and the statutory rights flowing therefrom.
+By definition, in law such a cause of action exists independently of the dismissal. 28 In the ordinary course, suspension apart, an employers failure to act fairly in the steps leading to dismissal does not of itself cause the employee financial loss.
+The loss arises when the employee is dismissed and it arises by reason of his dismissal.
+Then the resultant claim for loss falls squarely within the Johnson exclusion area. 29 Exceptionally this is not so.
+Exceptionally, financial loss may flow directly from the employers failure to act fairly when taking steps leading to dismissal.
+Financial loss flowing from suspension is an instance.
+Another instance is cases such as those now before the House, when an employee suffers financial loss from psychiatric or other illness caused by his pre dismissal unfair treatment.
+In such cases the employee has a common law cause of action which precedes, and is independent of, his subsequent dismissal.
+In respect of his subsequent dismissal he may of course present a claim to an employment tribunal.
+If he brings proceedings both in court and before a tribunal he cannot recover any overlapping heads of loss twice over.
+A number of important principles can be distilled from these paragraphs: i) If a cause of action is in existence before dismissal, it is not extinguished by subsequent dismissal.
+As I understand Lord Nicholls opinion, that statement holds true even if the dismissal is consequent on the state of affairs that gave rise to the cause of action; ii) If financial loss occurs (as it normally will in a dismissal situation) from the dismissal itself, such loss is not recoverable other than by a claim for unfair dismissal.
+Although Lord Nicholls does not address the question directly (since he did not need to do so), it seems to me to be consistent with his opinion that, to be thus excluded, the financial loss must flow solely from dismissal; iii) Where financial loss flows directly from an employers failure to act fairly (or by his failure to abide by the terms of the contract of employment) even though that failure relates to steps taken which lead to dismissal, it is recoverable at the suit of the employee other than by an unfair dismissal claim.
+Of course, Lord Nicholls was careful to point out that if an employee brings proceedings in court and before the tribunal, he cannot recover overlapping heads of loss twice over but he did not suggest that separate claims arising from the same set of circumstances could not be brought.
+The same set of circumstances can give rise to an unfair dismissal claim and a claim for breach of contract.
+Mr Edwards experience perfectly exemplifies this.
+On his case, the adverse findings made by the wrongly constituted tribunal led to his dismissal but they also caused the reputational damage which, he says, causes his ongoing financial loss.
+It is a fundamental error, his counsel argues, to conclude that, because the findings led to the dismissal, the financial loss caused by the findings must be subsumed in his unfair dismissal claim.
+On that argument I believe that Miss ORourke is entirely right.
+Lord Dyson has said in para 39 of his judgment that Parliament could not have intended that the incorporation of provisions in relation to disciplinary procedures into contracts of employment would give rise to a common law claim for damages.
+It is not clear why this should be so.
+Contractual terms, whether they are the product of incorporation or independent agreement, should have contractual force.
+And if it is the case that breach of a contractual term, whether or not it has been incorporated by statute, can give rise to a cause of action which is quite separate and distinct from an unfair dismissal claim, why should it be assumed that Parliament intended to take away the right to such a cause of action? Lord Dyson says that this is to be necessarily inferred from the statutory background but this, with respect, is a circular argument, depending as it does on the proposition that Parliament intended that the legislation relating to unfair dismissal should provide a comprehensive charter for all claims made by an employee following dismissal.
+In a further passage in para 39 Lord Dyson states that unless the contracting parties expressly agree they are to be taken as not having intended that a failure to comply with contractually binding disciplinary procedures will give rise to a common law claim for damages.
+Thus, if they do agree that terms of the contract should have normal contractual force and record that agreement, a common law claim for damages is feasible but if they fail to expressly state that they intend that a contractually binding term should have conventional contractual force, then it is to be treated as unenforceable by the normal route of a claim for damages.
+This seems a curious result and I am unable to understand on what basis it can be reached unless for some unstated public policy reason.
+And if it is the case that the proposition is underpinned by a public policy consideration, it seems highly curious that it can be displaced by the express agreement of the parties.
+In Mr Edwards case Lord Dyson has said that it is impossible to divorce the findings on which he seeks to found his claim for reputational damage from the dismissal when the findings which allegedly caused the reputational damage also constituted the reasons for the dismissal (para 55).
+In my respectful view, this conflates two quite distinct and readily separable sets of consequences.
+The findings, on Mr Edwards case, were the reasons that he was dismissed.
+But, quite independently of the dismissal, those findings, according to Mr Edwards, also did enormous damage to his reputation.
+Lord Dyson appears to accept (in para 59) that if Mr Edwards had not been dismissed but had merely been suspended, and had been able to establish the facts needed to sustain his claim for reputational damage, he would have had a perfectly viable claim for breach of contract.
+In such a scenario, the reputational damage claim would not have depended on the fact of suspension; it would have had a quite separate existence.
+I cannot accept that it does not have an equally separate existence from the fact of dismissal.
+As I have said, however, (at para 137 above) Mr Bothams case is different.
+It is accepted that the reputational damage which he is alleged to have suffered was inextricably linked to the fact of his dismissal.
+His cause of action in respect of that reputational damage did not exist before he was dismissed, therefore.
+Such financial loss as he may have suffered as a consequence is the result of his dismissal.
+I consider, therefore, that compensation for damage to his reputation could only have been sought as part of his unfair dismissal claim.
+For these reasons, I would dismiss the appeal in Mr Edwards case but allow the appeal in the case of Mr Botham.

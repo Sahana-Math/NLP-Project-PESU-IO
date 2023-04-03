@@ -1,0 +1,519 @@
+These appeals concern the impact of a cap on housing benefit (HB), in cases of deemed under occupation of social sector housing, on those with disabilities and on women living in sanctuary scheme accommodation.
+The cap was imposed by Regulation B13 of the Housing Benefit Regulations 2006 (SI 2006/213) (Reg B13).
+Reg B13 was introduced with effect from 1 April 2013, by way of amendment of the 2006 Regulations by the Housing Benefit (Amendment) Regulations 2012 (SI 2012/3040), as further amended by the Housing Benefit (Amendment) Regulations 2013 (SI 2013/665).
+It was a politically controversial matter, described as either a bedroom tax or removal of the spare room subsidy according to political viewpoint.
+Its merits are not a matter for the court, nor is there any challenge to the legality of the cap as it applies in general.
+The issues before the court are narrower.
+The appeals are from two judgments of the Court of Appeal, differently constituted, in judicial review proceedings.
+The claimants either have disabilities, or live with dependent family members who have disabilities, or live in what are known as sanctuary scheme homes (accommodation specially adapted to provide protection for women at severe risk of domestic violence).
+They are all tenants of registered social landlords and they all receive or received HB.
+They challenge the validity of Reg B13, as it applies to them, on equality grounds.
+More specifically, they contend that there has been a violation of their rights under article 14 of the European Convention on Human Rights (ECHR), taken with article 8 and/or article 1 of the First Protocol (A1P1) and in As case that there has been a breach by the Secretary of State of the Public Sector Equality Duty (PSED) under the Equality Act 2010.
+They are supported in their challenges by the Equality and Human Rights Commission (EHRC), which was given permission to intervene.
+In the first set of proceedings, issued by MA and others, some of the claims (including MAs claim) were resolved.
+When the case reached the Court of Appeal the claims remaining in issue were those of Jacqueline Carmichael, Richard Rourke, Mervyn Drage, JD and James Daly.
+Their claims were rejected by the Divisional Court (Laws LJ and Cranston J) [2013] EWHC 2213 (QB); [2013] PTSR 1521, and the Court of Appeal (Lord Dyson MR, Longmore and Ryder LJJ) [2014] EWCA Civ 13; [2014] PTSR 584.
+The other appeal arises from proceedings brought separately by A and the Rutherford family.
+Their claims were dismissed at first instance by different judges, but their appeals were heard together, and both succeeded in the Court of Appeal (Lord Thomas of Cwmgiedd CJ and Tomlinson and Vos LJJ) [2016] EWCA Civ 29.
+A, who is in a sanctuary scheme, succeeded under article 14 on the ground of sex discrimination, but failed in her claim under the Equality Act.
+The Rutherfords succeeded under article 14 on the ground of disability discrimination.
+The Secretary of State is the respondent in the MA case and is the appellant in relation to A and the Rutherfords. (In the case of A, there is a cross appeal against the rejection of her Equality Act claim.) The key facts relating to the individual claimants are summarised in appendix 1 to this judgment.
+Housing benefit and Regulation B13
+HB is a means tested benefit provided under section 130 of the Social Security Contributions and Benefits Act 1992 and subordinate regulations. (It is due to be replaced eventually by Universal Credit, which is in the process of being rolled out across parts of the United Kingdom.) Its purpose is to help claimants with their rental costs.
+There is a prescribed mechanism for determining in each case the appropriate maximum housing benefit (AMHB).
+Section 130A of the 1992 Act, as inserted by section 30(2) of the Welfare Reform Act 2007 and amended by section 69(3) of the Welfare Reform Act 2012, allows regulations to provide for the amount of the claimants rental liability to be taken into account in calculating the AMHB to be less than the actual liability.
+The AMHB is calculated by reference to the eligible rent.
+Reg B13 provides for adjustment of the eligible rent and AMHB in the area of social sector housing.
+The relevant parts are as follows: (1) The maximum rent (social sector) is determined in accordance with paras (2) to (4). (2) The relevant authority must determine a limited rent by (a) determining the amount that the claimants eligible rent would be in accordance with regulation 12B(2) (b) where the number of bedrooms in the dwelling exceeds the number of bedrooms to which the claimant is entitled in accordance with paras (5) to (7), reducing that amount by the appropriate percentage set out in para (3); (3) The appropriate percentage is (a) 14% where the number of bedrooms in the dwelling exceeds by one the number of bedrooms to which the claimant is entitled; and (b) 25% where the number of bedrooms in the dwelling exceeds by two or more the number of bedrooms to which the claimant is entitled. (4) Where it appears to the relevant authority that in the particular circumstances of any case the limited rent is greater than it is reasonable to meet by way of housing benefit, the maximum rent (social sector) shall be such lesser sum as appears to that authority to be an appropriate rent in that particular case. (5) The claimant is entitled to one bedroom for each of the following categories of person whom the relevant authority is satisfied occupies the claimants dwelling as their home (and each person shall come within the first category only which is applicable) (a) Act); (b) (ba) a child who cannot share a bedroom; (c) (d) (e) two children of the same sex; two children who are less than ten years old; a child a couple (within the meaning of Part 7 of the a person who is not a child; (6) The claimant is entitled to one additional bedroom in any case where (9) a relevant person is a person who requires (a) overnight care; or (b) a relevant person is a qualifying parent or carer.
+In this regulation relevant person means the claimant; (a) the claimants partner; (b) a person (P) other than the claimant or the (c) claimants partner who is jointly liable with the claimant or the claimants partner (or both) to make payments in respect of the dwelling occupied as the claimants home; (d) Ps partner.
+A person who requires overnight care is defined in Reg 2(1) in terms which have the effect of not including any child.
+HB is payable at a reduced rate to claimants with an income above the applicable amount: Social Security Contributions and Benefits Act 1992, section 130(1).
+Regulations determine the applicable amount and what income is to be taken into account.
+The applicable amount is set at a level which is intended to cover a claimants basic living needs other than rent.
+Discretionary Housing Payments
+There is also a statutory scheme for enabling Discretionary Housing Payments (DHPs) to be made to persons who are entitled to HB and/or council tax benefit: Child Support, Pensions and Social Security Act 2000, section 69.
+As the title indicates, such payments are discretionary.
+The scheme is funded by central government and administered by local authorities.
+By the terms of the Discretionary Financial Assistance Regulations (SI 2001/1167), made under section 69 of the 2000 Act, an award may be made for such period as the authority considers appropriate in the particular circumstances of the case, and the authority is required to give reasons for its decision.
+There is no statutory right of appeal, but such decisions are in principle subject to judicial review.
+The practice is for the Department of Work and Pensions to make an annual DHP grant to local authorities in respect of their anticipated expenditure.
+Equality rights
+Two sets of equality rights are in issue: a) under article 14 of the ECHR, taken together with article 8 and/or A1P1, and b) under the Equality Act 2010.
+Article 14 provides: The enjoyment of the rights and freedoms set forth in this Convention shall be secured without discrimination on any ground such as sex, race, colour, language, religion, political or other opinion, national or social origin, association with a national minority, property, birth or other status.
+The claimants other than A contend that Reg B13 operates so as to cause unlawful disability discrimination.
+It is common ground that disability falls within other status.
+A contends that Reg B13 operates so as to cause unlawful sex discrimination.
+Article 8 protects private and family life.
+A1P1 protects rights in respect of property and possessions, and it is common ground that HB falls within its scope.
+Section 149 of the Equality Act is headed Public Sector Equality Duty.
+It provides in part: (1) A public authority must, in the exercise of its functions, have due regard to the need to eliminate discrimination ; (a) (b) advance equality of opportunity between persons who share a relevant protected characteristic and persons who do not share it; (c) (3) Having due regard to the need to advance equality of opportunity between persons who share a relevant protected characteristic and persons who do not share it involves having due regard, in particular, to the need to remove or minimise disadvantages suffered by persons (a) who share a relevant protected characteristic that are connected to that characteristic; (b) take steps to meet the needs of persons who share a relevant protected characteristic that are different from the needs of persons who do not share it;
+Disability and sex are among the protected characteristics set out in section 149(7) of the Equality Act.
+Evolution of Regulation B13
+The evolution of Reg B13 is described in detail in the judgments given in the case of MA and others by the Divisional Court (paras 20 to 33) and the Court of Appeal (paras 15 to 36).
+Paragraphs 20 to 33 of the judgment of Laws LJ in the Divisional Court are reproduced at appendix 2 to this judgment.
+In summary, as part of its policy for curbing public expenditure the government aimed to ensure that social sector tenants of working age who were occupying premises with more bedrooms than they required should, wherever possible, move into smaller accommodation.
+It was recognised at an early stage that a policy based purely on numbers of rooms and occupants would cause problems for some with disabilities, and there was a debate within government and Parliament about how such problems should be addressed.
+The government initially decided that, rather than creating general exceptions for persons with disabilities (or certain categories of persons with disabilities), their needs should be met as necessary through a scheme of discretionary housing payments based on individual assessments.
+Regulation B13 as first introduced by SI 2012/3040 did not include para 6 (The claimant is entitled to one additional bedroom in any case where (a) the claimant or the claimants partner is (or each of them is) a person who requires overnight care; or (b) the claimant or the claimants partner is (or each of them is) a qualifying parent or carer.) This para was added by SI 2013/665.
+The EHRC correctly pointed out in its written case, para 8, that there has been a change in the structure of the under occupation criteria now contained in Reg B13.
+When under occupation criteria were first introduced, the provision for determining the number of bedrooms required by a household depended entirely on the number of occupants, their ages and sexes, and whether any of them were a couple.
+Para 6 contains provision for some disability related need.
+The result is a composite provision, structured on the basis of a non disabled norm but with provision for certain classes of disability related need.
+Parts of Reg B13 in its current form owe their origin to the decision of the Court of Appeal in Burnip v Birmingham City Council [2012] EWCA Civ 629; [2013] PTSR 117.
+This arose from a provision in Reg 13D(3) of the Housing Benefit Regulations 2006 (introduced by regulation 7 of the Housing Benefit (Local Housing Allowance and Information Sharing) Amendment Regulations 2007 (SI 2007/2868) and amended by regulation 2(6) of the Housing Benefit (Amendment) Regulations 2010 (SI 2010/2835) which came into force on 1 April 2011), in similar terms to Reg B13(5).
+The court heard appeals in three cases.
+In Burnip and a second case the claimants were adults with disabilities who required the presence of a carer throughout the night.
+By the time that the matter reached the Court of Appeal, there had been a legislative amendment which met those cases (by allowing an additional bedroom where the claimant or claimants partner required overnight care).
+The third case, Gorry v Wiltshire County Council, concerned a family including two children of the same sex who suffered from severe disabilities which made it inappropriate for them to share a bedroom.
+The court held that in each case there had been discrimination under article 14, because Reg B13 had a disparate adverse impact on persons with disabilities, and that the discrimination had not been justified.
+The court recognised that DHPs had a valuable role to play but it did not consider that they provided an adequate response to the problem in the types of case with which the court was concerned.
+The reasons for the courts decision that the discrimination was not justified were given by Henderson J, with whom Maurice Kay LJ (para 23) and Hooper LJ (para 25) agreed.
+Henderson J emphasised (para 64) that he was not suggesting a general exception from the normal bedroom test for disabled people of all kinds.
+The exception, he said, was sought only for a very limited category of claimants, namely those whose disability was so severe that an extra bedroom was needed for a carer to sleep in, or in cases like that of Mr Gorry where separate bedrooms were needed for children who, in the absence of disability, could reasonably be expected to share a room.
+He observed that such cases were by their nature likely to be relatively few in number, easy to recognise, not open to abuse and unlikely to undergo change or need regular monitoring.
+He added that the fact that Parliament had now legislated for cases like that of Mr Burnip could be viewed as recognition by Parliament of the justice of such claims.
+Ten months later, Reg B13 was amended to insert para (5)(ba), which covered Mr Gorrys case.
+In reaching this conclusion the court applied the test whether the Secretary of
+Judgments under review
+In the MA proceedings the Court of Appeal accepted that Reg B13 had a discriminatory effect on some people with disabilities, but it held that the discrimination was justified, primarily because the Secretary of State was entitled to take the view that it was not practicable to exempt an imprecise class of persons to whom the bedroom criteria would not apply because they needed extra bedroom space by reason of disability.
+The DHP scheme had the benefit of flexibility and was also appropriate because the nature of a persons disability and disability related needs may change over time.
+States policy was manifestly without reasonable foundation.
+The court rejected the argument that the case of Mrs Carmichael, who needed to sleep in a separate room from her husband on account of her disability, was materially indistinguishable from the Gorry situation of children who were unable to sleep in the same room, which had now been catered for by the new provision contained in Reg B13(5)(ba).
+The court held that the Secretary of State was entitled to provide greater protection for a child than an adult because the best interests of a child are a primary consideration, citing R (JS) v Secretary of State for Work and Pensions (Child Poverty Action Group intervening) [2013] EWHC 3350, paras 42 to 46 (Elias LJ).
+The court also rejected the allegation of a breach of the PSED.
+It emphasised (para 83) that the principal question in relation to the PSED is not whether the decision (or outcome) is justifiable, but whether, in the process leading to the making of the decision, the decision maker had due regard to the relevant considerations, citing the review of the case law by McCombe LJ in R (Bracking) v Secretary of State for Work and Pensions [2013] EWCA Civ 1345, [2014] EqLR 60, para 26.
+It upheld the finding of the Divisional Court that the effects of the HB cap were properly considered.
+In the proceedings relating to A and the Rutherford family, the Court of Appeal held that the situation of the Rutherford family, who included a child with disabilities requiring an overnight carer on certain days of the week, was indistinguishable from that of an adult with disabilities requiring an overnight carer, to which the decision in Burnip and Reg B13(6) applied.
+As explained at para 7, a child who requires overnight care does not come within the statutory definition of a person who requires overnight care.
+The court held that the reasoning in Burnip applied also in the case of A, a female victim of domestic violence living in accommodation adapted under a sanctuary scheme, because the category of persons in such schemes was limited to a relatively small number of victims (albeit growing), who were easy to identify, not liable to abuse the scheme, unlikely to undergo change and not in need of regular monitoring.
+The court therefore held that there had been a breach of article 14 in both cases.
+As to the PSED, the court held that the Secretary of State had properly considered the questions of disability based discrimination and gender based discrimination.
+Did the courts apply the right test?
+The primary contention of the claimants in MA is that the Divisional Court and the Court of Appeal applied the wrong test in asking themselves whether the discriminatory treatment about which the claimants complained was manifestly without reasonable foundation.
+In a case involving disability discrimination, weighty reasons for justification were required.
+It was wrong, they submitted, to see the case as one involving a matter of general economic or social policy, to which the manifestly without reasonable foundation test was appropriate.
+No objection was being raised to the general policy of Reg B13.
+The objection was to the application of the policy in a way which unjustifiably discriminated against a group of people with disabilities.
+The Divisional Court and the Court of Appeal based their approach on the judgment of Lady Hale, with which the other members of the court agreed, in Humphreys v Revenue and Customs Comrs [2012] 1 WLR 1545.
+It is necessary to set out the relevant passage at some length: 15.
+The proper approach to justification in cases involving discrimination in state benefits is to be found in the Grand Chambers decision in Stec v United Kingdom (2006) 43 EHRR 1017.
+The benefits in question were additional benefits for people who had to stop work because of injury at work or occupational disease.
+They were entitled to an earnings related benefit known as reduced earnings allowance.
+But on reaching the state pension age, they either continued to receive reduced earnings allowance at a frozen rate or received instead a retirement allowance which reflected their reduced pension entitlement rather than reduced earnings.
+Women suffered this reduction in benefits earlier than men because they reached state pension age at 60 whereas men reached it at 65. 16.
+The court repeated the well known general principle that A difference of treatment is, however, discriminatory if it has no objective and reasonable justification; in other words, if it does not pursue a legitimate aim or if there is not a reasonable relationship of proportionality between the means employed and the aim sought to be realised. (para 51) However, it explained the margin of appreciation enjoyed by the contracting states in this context, at para 52: The scope of this margin will vary according to the circumstances, the subject matter and the background.
+As a general rule, very weighty reasons would have to be put forward before the court could regard a difference in treatment based exclusively on the ground of sex as compatible with the Convention.
+On the other hand, a wide margin is usually allowed to the state under the Convention when it comes to general measures of economic or social strategy.
+Because of their direct knowledge of their society and its needs, the national authorities are in principle better placed than the international judge to appreciate what is in the public interest on social or economic grounds, and the court will generally respect the legislatures policy choice unless it is manifestly without reasonable foundation. 17.
+The phrase manifestly without reasonable foundation dates back to James v United Kingdom (1986) 8 EHRR 123, para 46, which concerned the compatibility of leasehold enfranchisement with article 1 of the First Protocol.
+In the Stec case 43 EHRR 1017, the court clearly applied this test to the states decisions as to when and how to correct the inequality in the state pension ages, which had originally been introduced to correct the disadvantaged position of women.
+Similarly, the decision to link eligibility for reduced earnings allowance to the pension system was reasonably and objectively justified, given that this benefit is intended to compensate for reduced earning capacity during a persons working life: para 66.
+The Grand Chamber applied the Stec test again to social security benefits in Carson v United Kingdom (2010) 51 EHRR 369, para 61, albeit in the context of discrimination on grounds of country of residence and age rather than sex. 18.
+The same test was applied by Lord Neuberger of Abbotsbury (with whom Lord Hope of Craighead, Lord Walker of Gestingthorpe and Lord Rodger of Earlsferry agreed) in R (RJM) v Secretary of State for Work and Pensions [2009] AC 311, which concerned the denial of income support disability premium to rough sleepers.
+Having quoted para 52 of the Stec case 43 EHRR 1017 he observed, at para 56, that this was an area where the court should be very slow to substitute its view for that of the executive, especially as the discrimination is not on one of the express, or primary grounds.
+He went on to say that it was not possible to characterise the views taken by the executive as unreasonable.
+He concluded, at para 57: The fact that there are grounds for criticising, or disagreeing with, these views does not mean that they must be rejected.
+Equally, the fact that the line may have been drawn imperfectly does not mean that the policy cannot be justified.
+Of course, there will come a point where the justification for a policy is so weak, or the line has been drawn in such an arbitrary position, that, even with the broad margin of appreciation accorded to the state, the court will conclude that the policy is unjustifiable. 19.
+Their Lordships all stressed that this was not a case of discrimination on one of the core or listed grounds and that this might make a difference.
+In R (Carson) v Secretary of State for Work and Pensions [2006] 1 AC 173, both Lord Hoffmann and Lord Walker drew a distinction between discrimination on grounds such as race and sex (sometimes referred to as suspect) and discrimination on grounds such as place of residence and age, with which that case was concerned.
+But that was before the Grand Chambers decision in the Stec case 43 EHRR 1017.
+It seems clear from Stec, however, that the normally strict test for justification of sex discrimination in the enjoyment of the Convention rights gives way to the manifestly without reasonable foundation test in the context of state benefits.
+The same principles were applied to the sex discrimination involved in denying widows pensions to men in Runkee v United Kingdom [2007] 2 FCR 178, para 36.
+If they apply to the direct sex discrimination involved in the Stec and Runkee cases, they must, as the Court of Appeal observed, at para 50, apply a fortiori to the indirect sex discrimination with which we are concerned.
+Lady Hale added (para 22) that the fact the test is less stringent than the weighty reasons normally required to justify sex discrimination did not mean that the justifications put forward should escape careful scrutiny.
+On analysis the discrimination may be found to lack a reasonable basis.
+What Lady Hale said in the context of sex discrimination applies equally to disability discrimination, as Lord Dyson MR rightly held in the present case (para 59).
+Lord Dyson also emphasised that the fact that the court should apply the manifestly without reasonable foundation test, and should exercise considerable caution before interfering with the scheme approved by Parliament, did not lessen the need for careful scrutiny of the reasons advanced by the Secretary of State in justification of the scheme (para 60).
+In the present case counsel for the claimants pointed out that in Humphreys the unsuccessful appellant did not argue for anything other than the test established in the Stec and RJM cases (para 20).
+It is therefore necessary to ask whether there is good reason to depart from what Lady Hale said in that case.
+The fundamental reason for applying the manifestly without reasonable foundation test in cases about inequality in welfare systems was given by the Grand Chamber in Stec (para 52).
+Choices about welfare systems involve policy decisions on economic and social matters which are pre eminently matters for national authorities.
+The claimants seek to counter that point by arguing that this case involves no challenge to a decision of that kind.
+They have no quarrel with the policy of Reg B13.
+Their complaint is at a lower level and involves no question of economic or social judgment.
+Their complaint is simply that the manner of implementation of the policy discriminates against a vulnerable group, and that it is right to require weighty reasons to justify the discrimination rather than the broader policy itself.
+Rejecting that argument, Lord Dyson MR said (paras 54 to 55) that although the precise detail and scope of the Regulations may not be matters of high policy in themselves, they formed an integral part of a high policy decision and could not be dismissed as technical detail; that the law in this area would suffer from undesirable uncertainty if the test were to vary according to whether the challenge were to high level policy or lower level policy; and that there was no hint of such a distinction in the European or domestic case law.
+It was argued before this court that the rationale for the approach in Humphreys does not apply in the present case.
+In Humphreys the challenge was to a rule of the Child Tax Credit Regulations 2002 (SI 2002/2007) that there should be a single payment of child tax credit (CTC) for any child, and that it should be made to the parent with the main responsibility for the child.
+The revenue accepted that the scheme was indirectly discriminatory against men, but the court found that there was objective justification.
+The purpose of CTC was to help with meeting the needs of the household with primary responsibility for the childs care.
+A choice had to be made whether, and if so how, the CTC should be split where parents had separated.
+The fact that men were less likely to receive CTC than women was not related to their gender in such a way as to show a lack of equal respect.
+It reflected the fact that men were more likely to be non resident parents, and therefore less likely to need the CTC.
+The decision that there should be a single payment of CTC in respect of any child was a necessary part of achieving the governments economic and social policy.
+By contrast, it was said that Reg B13 bears unequally on those with disabilities because of their need in many cases for larger accommodation and it is not necessary for it to do so.
+I will come on to consider the group of people who have a particular medical need for an additional bedroom, but the argument which I am presently considering goes too far.
+The claimants objections to Reg B13 relate to their social as well as medical needs.
+The broad question which faced the Secretary of State in relation to Reg B13 and its potential impact on those with disabilities was whether to try to deal comprehensively with all problems of those who have any kind of disability (including social needs not dissimilar to those of other groups) within the precise rules of the regulation, or whether to accommodate them by a linked system of discretionary benefits.
+This is in my view a clear example of a question of economic and social policy, integral to the structure of the welfare benefit scheme, and it would not be appropriate to depart from the courts normal approach.
+Otherwise, it would be too easy for a skilled lawyer to circumvent the general rule by couching the discrimination complaint in terms of an attack on matters of detail.
+I accept that examples can be found of state benefit cases where European courts have spoken of a need for weighty reasons to justify discrimination.
+The decision of the Grand Chamber in Andrejeva v Latvia (2009) 51 EHRR 28 is one such example.
+Latvian state pension rules discriminated against the applicant on grounds of her nationality.
+The Strasbourg court said that while a wide margin of appreciation is usually allowed to the state under the Convention when it comes to measures of economic or social strategy, in a case where nationality was the sole criterion for differential treatment very weighty reasons would have to be put forward to justify it.
+In that case there was, on the face of it, no reasonable foundation for such discrimination, and in those circumstances it was for the state to produce a good reason to justify it.
+In the language of Lady Hale in Humphreys, on careful scrutiny the discrimination had no reasonable justification.
+Other examples cited in argument included Zeman v Austria (Application No 23960/02, 29 June 2006); Luczak v Poland (Application No 77782/01, 27 November 2007), Markin v Russia (2002) 56 EHRR 8 and Vrountou v Cyprus (App No 33631/06, 13 October 2015).
+None of them contain a statement of general principle inconsistent with Humphreys.
+I would affirm what was said in Humphreys in the passage cited above.
+It follows that in this case the courts have applied the correct test.
+The next question is whether they misapplied it.
+Has the test been misapplied?
+As a fall back to their argument that the wrong test has been applied, the claimants in MA contend that the courts below failed to give the Reg B13 scheme sufficiently careful scrutiny and that, as a matter of principle, the availability of DHPs could not justify a reduction in the HB to which persons suffering from disabilities would be entitled but for Reg B13.
+The impact of Reg B13 on those with disabilities was considered by the government and Parliament in depth.
+This is apparent from Laws LJs resume of the evolution of the policy (appendix 2).
+The reasons for the decision not to apply a general exemption from Reg B13 for those suffering from disabilities, but instead to make good the shortfall in cases where it would be inappropriate to expect someone with a disability to move house (or make good the shortfall by other means such as taking a lodger), were also explained in witness statements by Beverley Walsh, a senior civil servant in the Department of Work and Pensions.
+The essential point she made was that the impact of Reg B13 on those with disabilities was not uniform, but depended to a large degree on the nature and extent of their disabilities, as well as on their personal and social circumstances (such as whether they relied heavily on a local support network and whether suitable alternative accommodation was available, particularly if their present accommodation had been adapted to meet their individual needs).
+Some with disabilities would be significantly affected by the cap based on bedroom criteria; others would be no more affected than someone without disability.
+In MA the Divisional Court and the Court of Appeal concluded after careful scrutiny that the Secretary of States decision to structure the scheme as he did was reasonable.
+In general terms I agree.
+There was certainly a reasonable foundation for the Secretary of States decision not to create a blanket exception for anyone suffering from a disability within the meaning of the Equality Act (which covers anyone who has a physical or mental impairment that has a more than minimal long term effect on the ability to do normal daily activities) and to regard a DHP scheme as more appropriate than an exhaustive set of bright line rules to cover every contingency.
+However, that is not the end of the matter, for there are some people who suffer from disabilities such that they have a transparent medical need for an additional bedroom.
+Burnip and Gorry were in that category.
+Even before the decision in those cases there had been an amendment of the Regulations to include one additional bedroom in any case where the claimant or the claimants partner is a person who requires overnight care (or in any case where both of them are).
+Burnip was such a case.
+Gorry was a case where children required separate bedrooms for disability reasons.
+In those cases, which were rightly identified by the Court of Appeal as ones where the individuals medical condition was easy to recognise and gave rise to the need for a separate bedroom, there was no reasonable cause to apply the same cap on HB as if the bedrooms were truly under occupied. (Henderson J said that such cases were likely to be few, but I do not see that as a significant factor in itself.)
+That brings me to the cases of Jacqueline Carmichael and the Rutherford family.
+They are counterparts to Gorry and Burnip respectively.
+Mrs Carmichael cannot share a bedroom with her husband because of her disabilities.
+Her position is directly comparable to that of the Gorry children, who could not share a bedroom because of their disabilities.
+But Mrs Carmichael is caught by Reg B13 because para (5)(ba), which was introduced to meet the Gorry situation is confined to a child who cannot share a bedroom.
+The Rutherfords need a regular overnight carer for their grandson who has severe disabilities.
+Their position is comparable to that of Mr Burnip, who needed an overnight carer.
+But the Rutherfords are caught by Reg B13 because para (6)(a), which covers the Burnip situation, does not extend to a child who requires overnight care.
+There is no reasonable justification for these differences.
+The Court of Appeal in MA was persuaded (para 79) that there was an objective reasonable justification for treating Mrs Carmichael less favourably than a child in like circumstances, because the best interests of children are a primary consideration.
+I can see that there may be some respects in which differential treatment of children and adults regarding the occupation of bedrooms may have a sensible explanation.
+Expecting children to share a bedroom is not the same as expecting adults to do so.
+But I cannot, with respect, see a sensible reason for distinguishing between adult partners who cannot share a bedroom because of disability and children who cannot do so because of disability.
+And the same applies also to distinguishing between adults and children in need of an overnight carer.
+There is also an ironic and inexplicable inconsistency in the Secretary of States approach in the Carmichael and Rutherford cases which Lord Thomas CJ exposed in the latter at para 73: He [the Secretary of State] justified the distinction between making provision for a bedroom for disabled children but not for disabled adults by reference to the best interests of the child and explained the different treatment on that basis.
+On that basis, it seems to us very difficult to justify the treatment within the same regulation of carers for disabled children and disabled adults, where precisely the opposite result is achieved; provision for the carers of disabled adults but not for the carers of disabled children.
+Lord Thomas CJ added that the court accepted that DHPs were intended to provide the same sum of money, but it was not persuaded that this justified the different treatment of children and adults in respect of the same essential need within the same regulation.
+I agree.
+I would therefore dismiss the Secretary of States appeal in the Rutherford case, but I would allow Mrs Carmichaels appeal and would hold that in her case there has been a violation of article 14, taken with article 8. (In these circumstances A1P1 adds nothing and does not require further consideration.)
+The other claimants in MA are James Daly, Mervyn Drage, JD and Richard Rourke.
+Mr Daly occupies a two bedroom property.
+His severely disabled son, Rian, stays with him regularly, but he is not within the list of those who qualify for a bedroom under Reg B13(5) because he spends less than half his time with his father.
+This has nothing to do with the fact of his disability.
+Mr Daly may have a powerful case for a DHP award, so that he can continue to pay his rent from state benefits for Rians sake, but I accept the Secretary of States argument that he has no proper basis for challenging the HB and DHP structure on equality grounds.
+Mr Drage is the sole occupier of a three bedroom flat, which is full of accumulated papers.
+He suffers from an obsessive compulsive disorder.
+His hoarding of papers is no doubt connected to his mental illness, but that is very far from showing that he has a need for three bedrooms.
+It is not unreasonable for his claim for benefit to cover his full rent to be considered on an individual basis under the DHP scheme.
+JD lives with his adult daughter, AD, who is severely disabled, in a specially constructed three bedroom property.
+They have no objective need for that number of bedrooms.
+Because the property has been specially designed to meet her complex needs, there may be strong reasons for JD to receive state benefits to cover the full rent, but again it is not unreasonable for that to be considered under the DHP scheme.
+Richard Rourke and his step daughter live in a three bedroom property.
+One of the bedrooms is used for the storage of equipment.
+It is another example of a case where it is not unreasonable for Mr Rourkes claim for benefit sufficient to cover the whole of the rent to be considered on an individual basis under the DHP scheme.
+I would therefore dismiss the claims of the MA claimants, other than Mrs Carmichael, that they have suffered unlawful disability discrimination.
+Sanctuary schemes
+A and her son live in a three bedroom house.
+A has said in a witness statement that when she moved there she only needed a two bedroom property, but that there was a shortage of two bedroom properties and she accepted the offer of a three bedroom property.
+This was prior to the events giving rise to her need for protection under the sanctuary scheme, which led to its adaptation to provide a high level of security, but the adaptations did not involve using the third bedroom.
+There is no objective need for her to have three bedrooms, one of which is unoccupied, but she is understandably loath to move (even if suitable alternative accommodation could be found and made appropriately secure), because she has lived in her present property for many years, she knows her neighbours well and she feels safe where she is.
+Those are powerful reasons, but they have nothing to do with the number of bedrooms.
+Many other people may have very strong reasons for continuing to live in a larger property than they currently need in terms of size.
+The Court of Appeal said in As case that while it had great sympathy with the Secretary of States arguments for saying that it fell into the broad class for which DHPs were appropriate, Burnip obliged the court to hold otherwise (paras 54 to 55).
+Like Burnip, A fell into an easily recognisable class few in number.
+I have already said that I do not see the likely number of people affected as a critical factor in itself (para 42).
+To favour those in a small group with strong societal reasons for staying in a bigger property than they need over those in a larger group with equally strong or possibly stronger reasons would be truly irrational.
+The distinction between Burnip and A is that in Burnip there was a transparent medical need for an additional bedroom, whereas A has no need for a three bedroom property.
+As case for staying where she is, strong as that case would appear to be, has nothing to do with the size of the property; Mr Burnips case had everything to do with the size of the property and its ability to accommodate a carer.
+Notwithstanding my considerable sympathy for A and other women in her predicament, I would allow the Secretary of States appeal in As case.
+I add that for as long as A, and others in a similar situation, are in need of the protection of sanctuary scheme housing, they must of course receive it; but that does not require the court to hold that A has a valid claim against the Secretary of State for unlawful sex discrimination.
+Lady Hale has reached a different conclusion.
+She considers that Reg 13B operates so as to discriminate against women such as A who are victims of gender based violence, in breach of their rights under article 14 taken with article 8 of the ECHR.
+Lady Hales starting point is that while A has no need for more bedroom space than is allowed for under Reg B13(5), she has a different type of need, that is, a need to stay where she is because it has been adapted as part of a scheme to provide her with a safe haven.
+Lady Hale says that her case cannot be equated with other people who may have a compelling case for staying where they are, because even if such people have a status for the purpose of article 14, their cases would need individual evaluation (para 78).
+I agree that not everybody who could make out a strong case for remaining where they are could necessarily be fitted into a relevant status.
+An everyday example would be a person who lives close to and is the primary carer for an elderly parent, who is dependent on that person for being able to continue to live in the elderly parents own home.
+Whether the parent would be able to bring himself or herself within articles 8 and 14 in such circumstances would be debatable.
+But the carer may be able to show a powerful case that there is a need for her to live where she does, even if she happens to have a spare bedroom; and that, leaving aside humanitarian considerations, the cost of state care for the parent would be likely far to exceed any saving by reducing the carers HB.
+I agree also with Lady Hale about the need for individual evaluation, and it was this consideration which primarily led the Secretary of State to decide that cases of need for reasons unconnected with the size of the property should be dealt with through the DHP scheme.
+Take also the case of JD and AD (referred to in para 53).
+Just as in As case, their property has been specially adapted to provide AD with an environment where she can live in safety.
+Lady Hales observation (in para 76) that because of its special character, it will be difficult (if not impossible) for her to move elsewhere and would certainly put the State to further expense may equally be said of AD, but the court is unanimous that it is not unreasonable for JD and ADs need for housing benefit to be considered under the DHP scheme, notwithstanding the differences between HB and DHP to which Lady Hale has referred in para 77 ADs disabilities are at the severe end of the spectrum, but there can be degrees of disability, and the alterations to a property to accommodate the persons needs may be on a larger or smaller scale.
+These are matters which the Secretary of State may legitimately say require individual evaluation.
+Such examples could be multiplied, but the point remains the same.
+It was recognised from the time that Reg B13 was mooted that there will be some people who have a very powerful case for remaining where they are, on grounds of need unrelated to the size of the property.
+For reasons explained in the evidence (to which I have referred in para 40), it was decided not to try to deal with cases of personal need unrelated to the size of the property by general exemptions for particular categories but to take account of them through DHPs.
+Lady Hale has observed that it has not been demonstrated that there would be insuperable practical difficulties in drafting an exemption from Reg B13 for victims of gender based violence who are in a sanctuary scheme and who need for that reason to stay where they are.
+In her witness statement on behalf of the Secretary of State in As case, Ms Walsh drew an analogy between adaptations made to properties for persons with disabilities and adaptations made under sanctuary schemes.
+She made the point that the type of adaptations made and their cost is likely to vary from case to case, and by implication that they may be more easy or less easy to replicate.
+These factors would be relevant in considering the strength of the case for saying that the person concerned needs to stay where they are.
+A herself has emphasised that she regards the support of neighbours and family as critical, and that may well be so.
+But that is a personal factor which may not necessarily apply, or apply to the same degree, to other victims of domestic violence.
+It is also a factor which may apply as strongly to the elderly or persons with disabilities.
+So while I agree that there would have been no insuperable practical difficulty in drafting an exemption from the size criteria for victims of gender violence who are in a sanctuary scheme and who need for that reason to stay where they are, deciding whether they really needed to stay in that particular property would at least in some cases require some form of evaluation.
+I leave aside the question debated in the evidence about whether some people in a sanctuary scheme might safely be able to make use of a spare room by taking in someone else such as a family member.
+Likewise I do not suppose that there would be insuperable practical difficulties in drafting exemptions to meet other categories of people who may justifiably claim to have a need to remain where they are for reasons unconnected with the size of the accommodation, but this would again require an evaluative process.
+Lady Hale considers that there is a further point of distinction between As case and ADs case in that the state has a positive duty to provide effective protection to victims of gender based violence.
+I do not think it necessary for present purposes to go into a comparative analysis of the duty of the state to A and AD, because I do not see that the duty to victims of gender based violence mandates the means by which such protection is provided.
+A has not established that the adoption of Reg B13 has deprived her, or is likely to deprive her, of a safe haven.
+Ultimately, whether the Secretary of State could practicably have adopted a different approach is surely not the test.
+I have understood the court to be unanimous that the test is that laid down in Humphreys, to which I have referred.
+Applying that test, and recognising the need for careful scrutiny, I do not consider that the approach taken by the Secretary of State was manifestly without reasonable foundation.
+Public Sector Equality Duty
+As Lord Dyson MR said, the PSED is a duty on the part of a public authority to follow a form of due process, that is, an obligation to have due regard to the need to eliminate discrimination, and advance equality of opportunity, between those with and without a relevant protected characteristic. (See para 24 above.)
+In relation to those with disabilities, the Divisional Court and the Court of Appeal in the MA case reached the concurrent conclusion on the evidence that the Secretary of State had fulfilled the duty.
+Lord Dyson MR, at para 91, accepted that it was not sufficient for a decision maker to have a vague awareness of his legal duties.
+Rather, he must have a focused awareness of the duties under section 149 of the Equality Act and, in a disability case, their potential impact on people with disabilities.
+On the history of events (see appendix 1) and the evidence, especially of Beverley Walsh, the courts were well entitled to reach the conclusion that they did.
+In relation to sex discrimination, in June 2012 the Department of Work and Pensions published an updated Equality Impact Assessment which considered the impact on those likely to be affected and their distribution, including by gender.
+It did not address the group of those within sanctuary schemes.
+The Court of Appeal concluded in As case at para 59: It is clear that the Secretary of State did address the question of gender based discrimination.
+Those within the sanctuary schemes who would be adversely affected by Regulation B13 were in fact few in number.
+It was not in the circumstances a breach of the PSED to fail to identify in the Equality Impact Assessment this very small group of those within the sanctuary schemes who had a need for an extra room; this was a very tiny and specific group.
+I agree but I would make a further and more fundamental point.
+As As case illustrates, there is no automatic correlation between being in a sanctuary scheme and having a need for an extra bedroom.
+The reason that A has three bedrooms is not that she needs three bedrooms, but that no two bedroom properties were available when she first moved there.
+As I have said (at paras 56 to 58) her reasons for wanting to stay where she is are strong but unrelated to the size of the property.
+The fact that people may have strong personal or social reasons for wanting to stay in their property for reasons unrelated to the number of bedrooms (of which A is one example in her particular circumstances) was recognised and was planned to be taken account of through DHPs.
+Lady Hale takes a different view on this issue, as she does on the issue of discrimination under articles 8 and 14 of the ECHR, but no useful purpose would be served by going back over the ground which separates us.
+I would therefore dismiss As cross appeal under the Equality Act.
+Appendix 1: Factual Summaries Cases concerning adults with disabilities 1.
+Mrs Carmichael lives with her husband in a two bedroom flat.
+She has spina bifida, hydrocephalus, double incontinence, inability to weight bear and recurring pressure sores.
+Her husband is her full time carer.
+She needs a special bed with an electronic mattress.
+She also needs a wheelchair beside the bed.
+Her husband cannot share the same bed, and there needs to be adequate space for her husband and nurses to attend to her needs.
+There is not enough space for him to have a separate bed in the same room.
+Their rent was previously met in full by HB, but this was reduced by 14% under Reg B13.
+The shortfall is presently covered by an award of DHP. 2.
+Richard Rourke is a widower and lives with his step daughter in a three bedroom bungalow.
+Both have disabilities.
+They each occupy one bedroom and the third is used to store equipment.
+His rent was met in full by HB, but this was reduced by 25% under Reg B13 on the basis that he is under occupying two bedrooms. (The fact that one bedroom is occupied on a part time basis by his stepdaughter appears to have been overlooked, but that is not the basis of his legal challenge in these proceedings.) 3.
+Mervyn Drage lives on his own in a three bedroom flat.
+He has significant mental health problems including obsessive compulsive disorder.
+He does not sleep in any of his bedrooms, which are all full of papers that he has accumulated.
+His rent used to be met in full by HB, but this was reduced by 25% under Reg B13. 4.
+JD lives with her adult daughter, AD, in a specially constructed three bedroom property.
+AD has cerebral palsy with quadriplegia, learning difficulties, double incontinence and she is registered blind.
+She requires 24 hour care and support.
+JD provides full time care for her.
+The rent was met by a combination of HB and other statutory benefits.
+The HB was reduced by 14% under Reg B13.
+The shortfall is presently covered by an award of DHP.
+Cases concerning children with disabilities 5.
+James Daly is the father of Rian, a child who has severe disabilities.
+Rian is a full time wheel chair user and has other health problems including incontinence.
+He requires help with all aspects of daily living.
+Rians parents are separated and they share his care.
+Rian stays with his father every weekend, at least one day during the week and for part of school holidays.
+Mr Daly occupies a two bedroom property.
+His rent used to be met in full by HB.
+This was reduced by 14% under Reg B13. 6.
+Susan Rutherford is the grandmother of a teenage boy, Warren, who suffers from profound mental and physical disability.
+He requires 24 hour care by two people.
+He has been looked after by his grandmother since he was a few months old.
+She has been helped by her husband, Paul, since their marriage some years ago.
+They live in a three bedroom house adapted for their accommodation.
+Respite care is provided by carers who stay overnight two nights a week.
+Without that help Warrens grandparents would not be able to cope and he would have to go into a care home.
+The rent for the property used to be met in full by HB, but this was reduced by 14% under Reg B13.
+Sanctuary scheme accommodation 7.
+A lives in a three bedroom house with her son, who was conceived by her as a result of rape by a man with whom she had been in a relationship for a brief period.
+He has been exceptionally violent towards her and made threats regarded by the police as serious.
+Under a sanctuary scheme her property has been adapted to provide a high level of security and she receives on going security monitoring.
+Her rent used to be met in full by HB, but this was reduced by 14% under Reg B13.
+The shortfall is covered by an award of DHP.
+R (MA and others) v Secretary of State for Work and Pensions Appendix 2: Extract from the Judgment of Laws LJ [2013] PTSR 1521, paras 20 33 EVOLUTION OF THE POLICY 20.
+The proposed bedroom criteria measure was announced by the government in the 22 June 2010 budget: 2010 Budget Responsibility, freedom, fairness: a five year plan to re build the economy (HC 61).
+It is plain from the published budget statement that this and other welfare reforms were part and parcel of the Governments deficit reduction strategy, though other justifications, in terms of enterprise and fairness, were also claimed (reforming the welfare system to reward work para 1.31; tackle welfare dependency and unaffordable spending para 1.92).
+Against that general background I may turn to the evidence concerning the manner and extent of the consideration given by the Government, as the prospective policy was elaborated over time, to the needs of the disabled. (1) OFFICIALS ADVICE 21.
+In a submission to the Minister for Welfare Reform of 20 August 2010 it was acknowledged that [there] are likely to be a number of social sector tenants who cannot be found suitable alternative social sector accommodation of the right size, and specific reference is made to those caring full time for a disabled person .
+On 21 January 2011 officials recorded the ministers agreement that any exemptions eg because the claimant is unable to work due to a disability, should be contingent on their landlord being unable to offer any suitable sized accommodation, and the minister was asked to consider other groups as possible candidates for exemption.
+By 12 August 2011 it was being said there was a strong case for exempting disabled claimants where significant adaptations have been made to their properties.
+It was suggested that the minister announce a 20m per annum increased DHP package for . 2013/14 and 2014/15, funded by an increase in the planned reduction rates from 23% to 25%.
+At paras 6 15 of the officials paper of 12 August 2011 there is a detailed discussion of the background and the options available see also Annex A to the paper.
+It includes the statement, at para 9, that [there] is a strong case for an exemption from the size criteria measure for disabled people living in adapted accommodation or properties that have been specially suited to their needs.
+In Annex A the officials canvassed arguments for their recommendation of an increase to the DHP pot (DHPs are payable, as Henderson J observed in Burnips case [2013] PTSR 117, para 46, from a capped fund). 22.
+From August 2011 onwards there was a consistent view within government that the most workable solution to the difficulties for the disabled arising from the impact of the bedroom criteria was an increase in what could be made available through DHPs.
+In response to the paper of 12 August 2011, the minister had asked for more information on the likely reaction of the Treasury and the lobby (a shorthand for various interested groups).
+In a paper of 2 September 2011 officials note that the lobby had singled out those living in significantly adapted accommodation as a group which should be exempted.
+They indicate (para 4) that they have given consideration to the possibility of exempting this group and other hard cases, and state: trying to define significantly adapted accommodation for exemption purposes would not be workable.
+Such an exemption would be difficult and expensive to deliver effectively, especially within universal credit.
+It would either be too broad brush or leave out many other, equally deserving cases.
+We therefore recommend in our submission of 12 August increasing the DHP pot by 20m in 2013/14 and 2014/15.
+This approach would enable local authorities to make decisions at a local level about which cases should be prioritised for financial help to meet any shortfall caused by this measure.
+The officials note, however, at para 7: A DHP approach is likely to attract criticism for lacking the certainty . that only an exemption would appear to be able to offer in these cases . this approach may produce inconsistencies in the way individual cases are treated across different parts of the country.
+At para 8 the officials refer to a survey carried out by them, to which 56 local authorities and housing associations had responded, and which (together with meetings with various stakeholders) is helping to inform our approach to implementation as well as highlighting the pressure points most likely to be raised in the Lords Committee stages of the Welfare Reform Bill.
+They set out ten key bullet points from the survey.
+Three of them were: For those providers questioned there appears to be a shortage of both one bed homes and much larger four+ homes.
+The majority of providers allocate homes to underoccupying households to a certain extent.
+It is more common in smaller two bed homes than bigger homes.
+Most authorities allocate to underoccupiers most commonly for disabled needs and due to lack of suitable stock. 23.
+On 29 September 2011 officials informed the minister that the Treasury declined to agree the proposed means of funding the suggested DHP package, and accordingly suggested a revised approach: that the HB reduction rates be revised upwards, to 14% and 25% for one and two excess bedrooms respectively, and [that] we use the increased level of savings to provide a 25m DHP package to mitigate the impact of this measure in a targeted way.
+In the same document they report amendments received from two members of the House of Lords which proposed six categories of case for exemption from the reductions.
+The officials set out arguments against these proposals, of which the first was affordability (most of these would significantly erode savings).
+Then, at para 16 this appears: DHPs provide a targeted means of mitigating the impact of this measure from a limited funding pot.
+It is also in line with a localised approach which will allow local authorities to take into account the circumstances of individual households.
+More detail is given in the Annex to the submission of 29 September 2011.
+Thus: 18.
+Although the discretionary nature of DHPs can run the risk of uncertainty for individuals, it does have a number of advantages: It would enable LAs to provide additional help to claimants based upon a local level decision about need.
+It would deliver mitigation in a targeted way that ensures limited funds are not wasted on cases where the shortfall can be met by the individual .
+We will also allocate this money to local authorities in a way that broadly reflects need in relation to the impact of this measure.
+At para 20 of the Annex the officials state: Based on average weekly losses from the size criteria, 25m annual funding [sc the proposed DHP package] would be sufficient to remove approx 35,000 claimants from the impacts of the social sector size criteria.
+At para 21: We will monitor demand for DHPs in relation to this measure and how they are being used by local authorities. (2) CHILDRENS COMMISSIONERS PAPER 24.
+In January 2012 the Childrens Commissioner (established by the Children Act 2004) published a Child Rights Impact Assessment of the Welfare Reform Bill.
+I should refer briefly to this given Ms Markus submissions on section 149 of the [Equality Act 2010] and the PSED.
+In section 2 the commissioner opines that the proposed reductions in HB in the public sector will have deleterious effects on children: Such penalties are likely to have a particular impact on disabled children, where spare rooms may be needed for equipment storage and/or overnight carers, unless they are excluded from the Bill.
+We understand that the DWPs intention is to make provision for overnight carers where this is required; however, the [equality impact assessment] says that there will be provision for a bedroom for overnight carers for the claimant or their partner, but does not mention carers for children.
+Children waiting for an adoptive family . will also be affected, as will children whose care is shared by separated parents [Other examples are given]. (3) EQUALITY IMPACT ASSESSMENT AND THE JULY AND AUGUST 2012 CIRCULARS 25.
+In June 2012 the Department for Work and Pensions (DWP) published an updated equality impact assessment on the proposed size criteria for HB.
+Para 9 refers to the proposal, as it had become, to add 30m per year to the DHP fund from 2013 14, stating that it was expected to mitigate some of the impacts of the measure, in particular the effects on disabled people and those with foster caring responsibilities.
+Paras 20 21 describe the departments ongoing discussions with stakeholders.
+Paras 22 et seq offer a breakdown of the numbers of HB claimants thought likely to be affected (660,000 altogether), the distribution of losses among them (from 5 to 25 and over per week), the numbers who might float off HB altogether, tenure types (as between local authority and housing association tenants), regional distribution of those affected, and distribution by reference to family circumstances and gender.
+There is specific reference to disabled persons, who are accepted, at para 42, as more likely to be affected by the introduction of size criteria, and there is a prediction, at paras 43 44, that 56% 63% of those affected will be disabled, depending on the sense attributed to disability.
+Para 59 describes the departments plans for monitoring and evaluation of the policys effects. 26.
+In July 2012 Circular HB/CTB A4/2012 was issued to local authorities.
+The background to the 2012 Regulations is explained, and the effect of the changes summarised.
+Para 9 reacts to the judgments in Burnips case [2013] PTSR 117, which it will be recalled had been handed down on 15 May 2012.
+The circumstances of the first two claimants, who needed the presence of carers throughout the night, are dealt with in the Regulations (the closing words of Regulation 13D(3), identical as I have said to B13(5) for those renting in the public sector).
+The circular concentrated on the third case in the appeal from Burnips case, that of Mr Gorry: 9.
+Due [sic] to [the decision in Burnips case] those whose children are said to be unable to share a bedroom because of severe disabilities will be able to claim [HB] for an extra room from the date of the judgment, 15 May 2012.
+However it will remain for local authorities to assess the individual circumstances of the claimant and their family and decide whether their disabilities are genuinely such that it is inappropriate for the children to be expected to share a room.
+This will involve considering not only the nature and severity of the disability but also the nature and frequency of care required during the night, and the extent and regularity of the disturbance to the sleep of the child who would normally be required to share the bedroom.
+This will come down to a matter of judgment on the facts.
+DHPs are addressed later in the circular.
+At that stage the extra 30m was aimed specifically at two groups: Disabled people living in accommodation that has been substantially adapted to their needs, . [and] Foster carers including those between foster placements (para 52).
+This follows: 54.
+There are many reasons, as well as those mentioned in para 52, why it may not be appropriate for someone with a disability to either move house or make up any shortfall in rent themselves.
+A good example of this may be an individual or family who rely heavily on a local support network.
+In circumstances such as these it may be appropriate to use the DHP fund to make up the shortfall in their rent.
+Then after describing various means by which affected persons might be able to make up the shortfall caused by the reduction in their HB, this appears: 67.
+For those claimants who cannot cover a reduction in [HB] from their own resources and who have a compelling case for remaining in their current accommodation, there is the DHP fund . 27.
+On 1 August 2012 Circular HB/CTB A6/2012 was issued.
+It was specifically concerned with the Burnip case: more particularly with facts such as those of Mr Gorrys appeal.
+It indicated, at para 2, that the DWP had sought permission to appeal the decision to the Supreme Court.
+The advice given in para 9 of Circular HB/CTB A4/2012 was replicated in para 8.
+Para 7 also had this: When a claimant says that their children cannot share a bedroom, [local authorities] should expect to be provided with sufficient medical evidence to satisfy themselves that these factors [sc claimed severe disability] are sufficiently weighty in the individual case to make it inappropriate for the children to share a bedroom on a continual basis.
+Only in such circumstances will they be justified in making an exception to the normal application of the size criteria and granting HB on the basis of an additional bedroom. (4) CIRCULAR HB/CTB U2/2013 28.
+Circular HB/CTB U2/2013was issued on 12 March 2013.
+As I have foreshadowed it is material to the third ground of challenge (the deployment of guidance to prescribe the means of calculating the appropriate maximum HB).
+It indicated, at para 5, that the Secretary of State did not propose to pursue the appeal (or prospective appeal) in Burnips case [2013] PTSR 117.
+This follows: 6.
+This means that from the date of the Court of Appeal judgment on 15 May 2012, local authorities (LAs) should allow an extra bedroom for children who are unable to share because of their severe disabilities following the guidelines as set out in paras 7 to 10 below. 7.
+When a claimant says that their children are unable to share a bedroom, it will be for LAs to satisfy themselves that this is the case, for example, a claim is likely to be supported by medical evidence and many children are likely to be in receipt of disability living allowance (DLA) for their medical condition.
+In addition LAs must consider not only the nature and severity of the disability, but also the nature and frequency of care required during the night, and the extent and regularity of the disturbance to the sleep of the child who would normally be required to share the bedroom.
+In all cases this will come down to a matter of judgement on facts of each individual case. 8.
+It should be noted that the judgment does not provide for an extra bedroom in other circumstances, for example, where the claimant is one of a couple who is unable to share a bedroom or where an extra room is required for equipment connected with their disability. (5) THE DHP GUIDANCE MANUAL, APRIL 2013 29.
+This document of April 2013 (the Discretionary Housing Payments Guidance Manual) (the DHP Guidance Manual) contains very full guidance as to the use of DHPs.
+It reminds authorities, at para 1.10, that their DHP funds are cash limited.
+It reviews the whole scheme.
+It canvasses the possibility of allowing applications in advance from persons affected by the HB, at paras 4.5 6, and making an award not limited in time to a disabled claimant likewise affected, at para 5.3.
+A Good Practice Guide is included in the DHP Guidance Manual.
+It contains a substantial discussion of the HB.
+It states: 1.10 The Government has provided additional funding towards DHPs following the introduction of the benefit cap.
+This additional funding is intended to support those claimants affected by the benefit cap who, as a result of a number of complex challenges, cannot immediately move into work or more affordable accommodation. in living Specific types of case are then enumerated, at para 1.11, and carefully discussed, and worked examples are given.
+I should note these passages: 2.5 For claimants specially adapted accommodation, it will sometimes be more cost effective for them to remain in their current accommodation rather than moving them into accommodation which needs to be adapted.
+We therefore recommend that local authorities identify people who fall into this group and invite a claim for DHPs. 2.7 The allocation of the additional funding for disabled people broadly reflects the impact of this measure and the additional funding needed to support this group.
+However, due to the discretionary nature of the scheme, LAs should not specifically exclude any group affected by the removal of the spare room subsidy or any other welfare reform.
+It is important that LAs are flexible in their decision making.
+Other types of case discussed include adopters (paras 2.9 11) and foster carers, in particular (para 2.13) carers for two or more unrelated foster children. 30.
+At paras 5.4 5.5 the Good Practice Guide poses a series of practical questions under two heads, The households medical circumstances, health or support needs and Other circumstances.
+The bullet points under the latter head (13 in number) demonstrate a series of different cases, none of them necessarily involving disability, in which the claimant may encounter particular difficulty or hardship in seeking alternative accommodation in response to the reduction in his/her HB which the local authority may think it right to consider in deciding whether to make an award of DHP.
+I will just set out the first two instances: Is the claimant fleeing domestic violence? This may mean they need safe accommodation on an emergency basis so the concept of having time to shop around for a reasonably priced property is not appropriate.
+Does the household have to live in a particular area because the community gives them support or helps them contribute to the district? (6) STATEMENTS IN PARLIAMENT 31.
+I turn next to the parliamentary debates on the 2012 Regulations.
+It will be recalled that the Regulations were subject to the affirmative resolution procedure.
+On 15 October 2012 in the House of Lords the Parliamentary Under Secretary of State, Lord Freud, referred to the 30m addition to the DHP fund for 2013 14, of which 5m was to be earmarked for foster carers.
+Concern was expressed in the debate as to the dramatic consequences that these regulations will have for disabled people.
+Lord Freud stated (Hansard (HL Debates) 15 October 2012, col GC485): As noble Lords will remember, the 30m is divided so that 25m is to cover people with significant adaptations.
+We estimate that there are around 35,000 claimants, particularly wheelchair users, who have accommodation adapted to their needs .
+The core question, raised by [Lord McKenzie and Lady Hollis] was whether there is suitable accommodation.
+I know it is a concern.
+Clearly, it varies across the country.
+This is not about making people move into it.
+Many will prefer to stay.
+What will happen in practice is that there will be a very varied effect on individuals.
+One can tier up the problems and end up with someone in a very difficult position.
+We had some examples today.
+This is exactly where we would expect the DHP to come into effect.
+A lot of people will decide that they will have enough money or that they will be able to take in a lodger or take extra work.
+Those are the kind of decisions that we expect to happen in the marketplace.
+There will, of course, be a residue of bigger problems. 32.
+In the House of Commons on 16 October 2012 the minister, Mr Webb, answered a question about what the position would be where a disabled or elderly tenant had had adaptations made to his accommodation.
+He said: We looked at whether we could simply exclude any house that had had any adaptation done to it.
+It quickly became apparent that there is a spectrum of adaptations .
+Trying to define in legislation that this or that type of adaptation was or was not exempt was very complex.
+Rather than having a blanket exemption for a ramp or a stair rail, we have allocated money to local authorities [sc the 30m DHP], which broadly matches what we think would be the cost of protecting people in the circumstances that the Hon gentleman had described . 33.
+At Prime Ministers Questions on 7 March 2013 the Prime Minister stated that people with severely disabled children are exempt [from the bedroom criteria]: Hansard (HC Debates) 6 March 2013, col 949.
+On 12 March 2013 the Secretary of State, in a written ministerial statement, referred to the DHP Guidance to be issued the following month (and which I have described above) and indicated that he would closely monitor and adjust the implementation of the policy . to ensure that the needs of these groups [ priority groups other than foster carers and armed forces personnel] are effectively addressed in the longer term: Hansard (HC Debates) 12 March 2013, col 10WS.
+LADY HALE: (dissenting in the A case) (with whom Lord Carnwath agrees)
+It is perhaps unfortunate that two very different sorts of case, raising very different issues about the removal of the spare room subsidy, should have been dealt with together.
+As Lord Toulson has demonstrated, the disability cases are about whether people need extra space because of their disability.
+The link between the number of bedrooms for which housing benefit is paid and their needs is direct and obvious.
+The regulation denies them the benefit they need to pay for the amount of space they need.
+The case of A, and others like her in sanctuary schemes, is different.
+Her need is not for space but to stay where she is.
+The effect of the regulation is to deny her the benefit she needs in order to stay in the accommodation she needs.
+In my view this is unjustified discrimination against her on grounds of her sex.
+But the reasons are quite different from the reasons in the disability cases.
+It has been recognised for a long time, both nationally and internationally, that the State has a positive obligation to provide effective protection for vulnerable people against ill treatment and abuse, not only from agents of the State but also from private individuals.
+The aim of such protection is effective deterrence: prevention of the abuse taking place at all is a far more effective remedy than punishment or compensation after the event.
+Several of the Convention rights may be violated by the failure to provide effective protection.
+Thus, in the well known case of X and Y v The Netherlands (1985) 8 EHRR 235, the failure of the authorities to provide the protection of the criminal law for a mentally disabled young woman against sexual abuse was a violation of the right to respect for private life under article 8.
+In Z v United Kingdom (2001) 34 EHRR 3, the failure to provide the protection of the child care system for a family of children against prolonged neglect by their parents was a violation of their right not to be subjected to ill treatment under article 3.
+In Opuz v Turkey (2009) 50 EHRR 28, the failure to provide the protection of the criminal law or a safe haven scheme for a wife against repeated violent attacks by her husband was a violation of her rights under article 3.
+Significantly, in Opuz v Turkey, the court also recognised that this failure was a breach of article 14, the right to the equal enjoyment of the Convention rights, because gender based violence such as this has been internationally recognised as a form of discrimination against women.
+The court quoted, among other things, article 1 of the Convention on the Elimination of All Forms of Discrimination against Women (CEDAW) which defines discrimination as: [A]ny distinction, exclusion or restriction made on the basis of sex which has the effect or purpose of impairing or nullifying the recognition, enjoyment or exercise by women, irrespective of their marital status, on a basis of equality of men and women, of human rights and fundamental freedoms in the political, economic, social, cultural, civil or any other field.
+Obviously, to deny women protection against gender based violence, such that they cannot live an equal life with men, is discrimination against them in the enjoyment of their fundamental rights.
+As the United Nations Commission on Human Rights put it, in resolution 2003/45: [A]ll forms of violence against women occur within the context of de iure and de facto discrimination against women and the lower status accorded to women in society and are exacerbated by the obstacles women often face in seeking remedies from the state.
+It is greatly to the credit of the United Kingdom that domestic law began to develop more effective remedies against gender based violence in the 1970s, following the recognition of the problem in the Report of the House of Commons Select Committee on Violence in Marriage (1974 75) HC 553.
+It was widely recognised that the criminal law is often an ineffective remedy.
+The shocking facts of Ms As case, not unlike the shocking facts of Opuz v Turkey, but with a far more robust response from the criminal justice system, show all too clearly that there is a class of dangerous and determined abusers who will not be put off by the criminal law, however effectively it is deployed.
+Parliaments of all political persuasions have recognised that what is needed are, firstly, ways of getting the abuser out of the home, beginning with the Domestic Violence and Matrimonial Proceedings Act 1976 and now contained in Part IV of the Family Law Act 1996, together with the Domestic Violence, Crime and Victims Act 2004, and secondly, ways of getting alternative accommodation for the victim, beginning with the Housing (Homeless Persons) Act 1977 and now contained in Part VII of the Housing Act 1996.
+Sanctuary schemes are a further development.
+They recognise the positive obligation of the State to provide a safe haven for a comparatively small number of victims who are at risk of really serious violence.
+The state has provided Ms A with such a safe haven.
+It allocated her a three bedroom house when she did not need one.
+That was not her choice.
+It later fortified that house and put in place a detailed plan to keep her and her son safe.
+Reducing her housing benefit by reference to the number of bedrooms puts at risk her ability to stay there.
+Because of its special character, it will be difficult if not impossible for her to move elsewhere and that would certainly put the State to yet further expense.
+Given these very special circumstances, I am tempted to regard this as an interference with her and her sons right to respect for their home.
+But in any event, denying her the benefit she needs in order to be able to stay there is discrimination in the sense described in Thlimmenos v Greece (2000) 31 EHRR 154: treating her like any other single parent with one child when in fact she ought to be treated differently.
+Indeed, the appellant does not seriously dispute that Ms A needs to stay where she is.
+The Secretary of State accepts that she needs to stay in a sanctuary scheme and probably in this very house.
+The justification suggested for the interference, or the discrimination, is the availability of discretionary housing payments to make up the shortfall in her rent.
+But if the discretionary housing payment scheme is not good enough to justify the discrimination against the Rutherford and Carmichael households, it is not good enough to justify the discrimination against Ms As household either.
+Its deficiencies were acknowledged in the Court of Appeals decision in Burnip v Birmingham City Council [2012] EWCA Civ 629; [2013] PTSR 117, para 46.
+They are well summed up by Mr Drabble QC on behalf of the Rutherford and Carmichael families: it is discretionary, cash limited and produces less certainty; it has a stricter means test; it offers different and less attractive routes of judicial challenge; it can be onerous to make applications; and it encourages short term, temporary and conditional awards.
+For a woman in a sanctuary scheme to have to endure all those difficulties and uncertainties on top of the constant fear and anxiety in which she lives cannot be justified.
+This is not a question of the allocation of scarce public resources: it is rightly acknowledged that public resources will have to meet this need one way or another.
+Obviously, her circumstances may change, just as the size of any household, and the age and sex of its members may change.
+The housing benefit scheme already caters for such changes.
+It could cater for a relevant change in her circumstances.
+Nor has it been demonstrated that there are insuperable practical difficulties in the way of drafting an exception to the size criteria in regulation B13 to cater for victims of gender based violence who are in sanctuary schemes and need for that reason to stay where they are.
+Such cases cannot be equated with other people who would prefer to stay where they are, even if they have quite a compelling case for doing so, such as carers for older people who need to stay near their support networks or even disabled people living in specially adapted accommodation, like JD and AD.
+In the first example, it is not clear that this group would constitute a status for article 14 purposes.
+But even if it did, their needs will require individual evaluation, perhaps in the context of a social care needs assessment, before it is clear that staying where they are is the right or only solution.
+Such an evaluation can only take place in the context of the discretionary housing payment scheme, despite its disadvantages.
+But if the need is clearly established, then it would be irrational to refuse to meet it.
+In the second example, the disability is indeed a status for article 14 purposes, and I have found the case of JD and AD an extremely difficult one and have been tempted to dissent in their case too.
+But the distinction between them and the victims of the sex discrimination entailed in gender based violence, is that the state has a positive obligation to provide effective protection against gender based violence and for this small group of victims this is the only way to make that protection effective.
+I would reach this conclusion without consideration of the public sector equality duty.
+However, I cannot accept that it was properly complied with in this case.
+The Secretary of State was required to have due regard to the need to (a) eliminate discrimination, harassment, victimisation and any other conduct that is prohibited by or under this Act; (b) advance equality of opportunity between persons who share a relevant protected characteristic and persons who do not share it (Equality Act 2010, section 149(1)).
+Advancing equality of opportunity involves having due regard, in particular, to the need to (a) remove or minimise disadvantages suffered by persons who share a relevant protected characteristic that are connected to that characteristic; (b) take steps to meet the needs of persons who share a relevant protected characteristic that are different from the needs of persons who do not share it; (section 149(3)).
+The Equality Impact Statement prepared in June 2012 addressed the impact on gender in three paragraphs, noting that more women than men would be affected by the size criteria, because there are more female than male housing benefit claimants, but concluding that there was no differential impact by gender.
+There was nothing about women who are victims of gender based violence or those within sanctuary schemes.
+The Court of Appeal concluded that because there would be very few in sanctuary schemes who would be adversely affected by regulation B13, it was not a breach of the public sector equality duty to fail to identify them (para 59).
+Although gender based violence is recognised by the European Court of Human Rights and elsewhere as a form of discrimination against women, it is perhaps unlikely to be a form of discrimination prohibited by the 2010 Act, which I take to be the scope of section 149(1)(a) of that Act.
+But it is undoubtedly a disadvantage suffered by people, namely women, who share a relevant protected characteristic within the meaning of section 149(3)(a) and produces needs that are different from those of people who do not share it within the meaning of section 149(3)(b).
+This brings it within the need to enhance equality of opportunity to which due regard is to be had under section 149(1)(b).
+In my view, therefore, the public sector equality duty requires public authorities at least to consider the impact of their decisions and actions on the victims of gender based violence.
+This is not much to ask.
+People in sanctuary schemes may be small in number but victims of gender based violence are many.
+Public authorities should take their needs into account when developing their policies.
+They are likely to make better decisions as a result.
+And they will be able to explain them better.
+I would therefore dismiss the appeal of the Secretary of State in Ms As case and allow her cross appeal.
+I agree with Lord Toulsons judgment on the disability cases.

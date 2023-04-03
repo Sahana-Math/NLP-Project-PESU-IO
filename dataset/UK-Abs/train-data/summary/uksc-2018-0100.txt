@@ -1,0 +1,63 @@
+This appeal concerns the circumstances in which an arbitrator in an international arbitration may appear to be biased.
+It raises important questions about the duty of impartiality and obligation of arbitrators to make disclosure.
+The appeal relates to an arbitration under a liability insurance policy which arose out of damage caused by an explosion and fire on the Deepwater Horizon drilling rig in the Gulf of Mexico.
+BP Exploration and Production Inc. (BP) was the lessee of the Deepwater Horizon rig.
+Transocean Holdings LLC (Transocean) owned the rig and provided crew and drilling teams to BP.
+The appellant, Halliburton Company (Halliburton) provided cementing and well monitoring services to BP.
+Halliburton had entered into a Bermuda Form liability policy with the respondent, Chubb Bermuda Insurance Ltd (Chubb").
+Transocean was also insured with Chubb by a Bermuda Form policy.
+The Deepwater Horizon disaster resulted in numerous claims against BP, Transocean and Halliburton.
+Following a trial in the US in which judgment was given apportioning blame between the parties, Halliburton settled the claims against it.
+Halliburton then sought to claim against Chubb under the liability policy.
+Chubb refused to pay contending that Halliburtons settlement was not a reasonable settlement.
+Transocean made a similar claim against Chubb and Chubb likewise contested Transoceans claim.
+The Bermuda Form policies provided for disputes to be resolved by arbitration.
+Halliburton commenced arbitration.
+Halliburton and Chubb each selected one arbitrator but were unable to agree on the appointment of a third arbitrator as chairman.
+As a result, after a contested hearing in the High Court, Mr Rokison, proposed by Chubb to the court, was appointed.
+Subsequently and without Halliburtons knowledge, Mr Rokison accepted appointment as an arbitrator in two separate references also arising from the Deepwater Horizon incident.
+The first appointment was made by Chubb and related to Transoceans claim against Chubb.
+The second was a joint nomination by the parties involved in a claim by Transocean against another insurer.
+On discovering Mr Rokisons appointment in the later references, Halliburton applied to the court under section 24 of the Arbitration Act 1996 to remove Mr Rokison as an arbitrator.
+That application was refused.
+On appeal, the Court of Appeal found that, while Mr Rokison ought to have disclosed his proposed appointment in the subsequent references, an objective observer would not in the circumstances conclude there was a real possibility Mr Rokison was biased.
+The appeal was therefore dismissed.
+Halliburton renews its challenge before the Supreme Court.
+The Supreme Court unanimously dismisses the appeal.
+It holds, for reasons which differ in part from courts below, that as at the date of the hearing to remove Mr Rokison, the fair minded and informed observer would not conclude that circumstances existed that gave rise to justifiable doubts about Mr Rokisons impartiality.
+Lord Hodge gives the leading judgment with whom Lord Reed, Lady Black and Lord Lloyd Jones agree.
+Lady Arden gives a concurring judgment.
+The law The duty of impartiality is a core principle of arbitration law [49].
+In English law, the duty applies equally to party appointed arbitrators and independently appointed arbitrators [63].
+In considering an allegation of apparent bias against an arbitrator, the test is whether the fair minded and informed observer would conclude there is a real possibility of bias [52, 55].
+The courts will apply that objective test, having regard to the particular characteristics of international arbitration, including the private nature of most arbitrations [56 68].
+The duty of disclosure is not simply good arbitral practice but is a legal duty in English law.
+It is a component of the arbitrators statutory obligations of fairness and impartiality [78].
+The legal duty of disclosure does not, however, override the arbitrators duty of privacy and confidentiality in English law.
+Where information which needs to be disclosed is subject to a duty of confidentiality, disclosure can only be made if the parties owed confidentiality obligations give their consent.
+Such consent may be express but may also be inferred from the arbitration agreement itself in the context of the custom and practice in the relevant field of arbitration [88 104].
+The arbitrators duty of disclosure is to disclose matters which might reasonably give rise to justifiable doubts as to his or her impartiality [107 116].
+A failure to disclose relevant matters is a factor for the fair minded and informed observer to take into account in assessing whether there is a real possibility of bias[117 118].
+In assessing whether an arbitrator has failed in a duty to make disclosure, the fair minded and informed observer will have regard to the facts and circumstances as at and from the time the duty arose [119 120].
+In contrast, in assessing whether there is a real possibility that an arbitrator is biased, the fair minded and informed observer will have regard to the facts and circumstances known at the time of the hearing to remove the arbitrator [121 123].
+The issues in this appeal There may be circumstances where the acceptance of multiple appointments involving a common party and the same or overlapping subject matter gives rise to an appearance of bias.
+Whether it does so will depend on the facts of the case and, in particular, the customs and practice in the relevant field of arbitration [127 131].
+Where, as in the context of a Bermuda Form arbitration, the circumstances might reasonably give rise to a conclusion that there was a real possibility of bias, the arbitrator is under a legal duty to disclose such appointments unless the parties to arbitration have agreed otherwise [132 136].
+Applying those conclusions to the facts, Mr Rokison was under a legal duty to disclose his appointment in the subsequent reference involving Chubb and Transocean.
+At the time of his appointment, the existence of potentially overlapping arbitrations with only one common party, Chubb, might reasonably have given rise to a real possibility of bias [145].
+In failing to make that disclosure Mr Rokison breached his duty of disclosure [147].
+However, having regard to the circumstances known at the date of the hearing at first instance, it could not be said that the fair minded and informed observer would infer from Mr Rokisons failure to make disclosure that there was a real possibility of bias.
+At the time, it had not been clear that there was a legal
+duty of disclosure.
+Secondly, the Transocean arbitrations had commenced several months after the Halliburton arbitration.
+Thirdly, Mr Rokisons measured response to Halliburtons challenge explained that it was likely the subsequent references would be resolved by a preliminary issue (as they in fact were) and that, if they were not, he would consider resigning from the Transocean arbitrations.
+There was therefore no likelihood of Chubb gaining any advantage by reason of overlapping references.
+Fourthly, there was no question of his having received any secret financial benefit, and, fifthly, there was no basis for inferring any unconscious ill will on his part.
+As a result, Halliburtons appeal fails [149 150].
+Lady Ardens concurring judgment Lady Arden agrees with Lord Hodges judgment but makes a few further points to reinforce or, in some instances, qualify the conclusions reached.
+The duty of disclosure is a secondary obligation arising from the arbitrators primary duty to act fairly and impartially [160].
+Unless the arbitration is one where there is an accepted practice of dispensing with the need to obtain parties consent to further appointments, the arbitrator should proceed on the basis that a proposed further appointment involving a common party and overlapping subject matter is likely to require disclosure of a possible conflict of interest [164].
+The duty of disclosure is rooted in the duty of impartiality but is also an implied (if not express) term of the arbitrators appointment [167].
+The parties can therefore agree to waive any objection to a conflict of interest, but disclosure is only an option if the conflict is one which would not prevent the arbitrator from acting impartially [168, 170].
+Confidentiality is an important and free standing implied term [173 175].
+But, in general, high level disclosure about a proposed appointment in a further arbitration can be made without any breach of confidentiality by naming only the common party (who may be taken to have consented to disclosure) but not the other parties to the arbitration [183 187].

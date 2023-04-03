@@ -1,0 +1,336 @@
+This appeal is about the right conferred by the Water Industry Act 1991 (the Act) on a property owner to connect his private drain or sewer to a public sewer for the purpose of discharging his sewage into the public sewer.
+The principal issue raised is whether it is the property owner or the sewerage undertaker who is entitled to determine the point at which the property owners drain or sewer is to connect to the public sewer.
+This narrow issue of statutory construction conceals, however, wider and more fundamental issues that are less easily resolved.
+I propose first to resolve the narrow issue, before commenting on these wider issues.
+Llanfoist is a village near Abergavenny in Monmouthshire.
+Its surface water and foul water drainage requirements are met by a public sewerage system that terminates in a waste water treatment works (the Treament Works) about 1/3 mile to the East of the village and below it.
+This system is about 60 years old.
+Approximately mid way between the village and the Treatment Works, at manhole SO29125900 (the CSO), the sewage pipe that links the two reduces from a diameter of 225 mm to a diameter of 150 mm and continues for a distance of 282m before it increases, at manhole SO29127901 to a diameter of 300mm for the final stretch to the Treatment Works.
+The narrow section, described as a pipe bridge determines the capacity of the system, or at least all that part of it that lies upstream of manhole SO29127901.
+The Respondents, Barratts, are in the process of building a substantial development of 98 houses and a primary school on a greenfield site contiguous to the East side of Llanfoist.
+They constructed a private sewer to receive the sewage from this development.
+They claimed a statutory right to connect their private sewer to the public sewer at a point of their own choosing, which was in the close vicinity of their development.
+This point of connection was not satisfactory to Welsh Water, as it would overload the system upstream of manhole SO29127901.
+They claimed a statutory right to refuse connection at this point, offering instead connection at manhole SO29127901, an option that would saddle Barratts with the cost of the link from their development to manhole SO29127901.
+Thus arose the narrow issue of the interpretation of the relevant provisions of the 1991 Act.
+At first instance, in a judgment delivered on 1 August 2008, Wyn Williams J found in favour of Welsh Water [2008] EWHC 1936 (QB).
+His decision was reversed by the Court of Appeal on 28 November 2008 [2008] EWCA Civ 1552.
+Barratts then proceeded to connect the developments sewer to the public sewer at the place of their choice.
+Welsh Water do not seek, by this appeal, to effect a physical reversal of what has taken place.
+They accept that what has taken place in this case is now water under the bridge.
+They are anxious to establish, however, that a sewerage undertaker has a right to refuse to permit connection to be made to one of their sewers when they consider that the proposed point of connection is not suitable.
+Should they establish this right of refusal a further issue arises as to the effect of a statutory time limit for giving notice of refusal.
+The Water Industry Act 1991
+The law in relation to sewers has its origin in the reign of Henry VIII, but the modern law begins with the Public Health Act 1848.
+There followed a series of Acts which consolidated and amended the law, of which the 1991 Act is one.
+The provisions of that Act which are directly relevant to this appeal can be traced back to the Victorian legislation.
+They provide as follows: 94 General duty to provide sewerage system (1) It shall be the duty of every sewerage undertaker (a) to provide, improve and extend such a system of public sewers (whether inside its area or elsewhere) and so to cleanse and maintain those sewers and any lateral drains which belong to or vest in the undertaker as to ensure that that area is and continues to be effectually drained; and (b) to make provision for the emptying of those sewers and such further provision (whether inside its area or elsewhere) as is necessary from time to time for effectually dealing, by means of sewage disposal works or otherwise, with the contents of those sewers. 106 Right to communicate with public sewers (1) Subject to the provisions of this section (a) the owner or occupier of any premises, or (b) the owner of any private sewer which drains premises, shall be entitled to have his drains or sewer communicate with the public sewer of any sewerage undertaker and thereby to discharge foul water and surface water from those premises or that private sewer. (2) Subject to the provisions of Chapter III of this Part, nothing in subsection (1) above shall entitle any person (a) to discharge directly or indirectly into any public sewer (i) any liquid from a factory, other than domestic sewage or surface or storm water, or any liquid from a manufacturing process; or (ii) any liquid or other matter the discharge of which into public sewers is prohibited by or under any enactment; or (b) where separate public sewers are provided for foul water and for surface water, to discharge directly or indirectly (i) foul water into a sewer provided for surface water; or (ii) except with the approval of the undertaker, surface water into a sewer provided for foul water; or (c) to have his drains or sewer made to communicate directly with a storm water overflow sewer. (3) A person desirous of availing himself of his entitlement under this section shall give notice of his proposals to the sewerage undertaker in question. (4) At any time within twenty one days after a sewerage undertaker receives a notice under subsection (3) above, the undertaker may by notice to the person who gave the notice refuse to permit the communication to be made, if it appears to the undertaker that the mode of construction or condition of the drain or sewer (a) does not satisfy the standards reasonably required by the undertaker; or (b) is such that the making of the communication would be prejudicial to the undertakers sewerage system. (5) For the purpose of examining the mode of construction and condition of a drain or sewer to which a notice under subsection (3) above relates a sewerage undertaker may, if necessary, require it to be laid open for inspection.
+In this judgment I shall, where appropriate, refer to the developer as shorthand for the owner or occupier of premises who enjoys rights under section 106.
+Section 106(6) provides that any question as to the reasonableness of an undertakers refusal to permit a communication to be made or of a requirement under subsection (5) may be referred for determination by the Director of the Office of Water Services (OFWAT).
+Section 107 entitles the sewerage undertaker to give notice within 14 days of receipt of a notice under section 106(3) that the undertaker intends to make the communication himself.
+In that event the developer has to pay the reasonable cost of the work.
+The point of connection
+Submissions
+Mr Porten QC for Barratts submitted that the provisions of section 106 of the 1991 Act were clear.
+Subsection (1) gave a property owner the right to connect to a public sewer, subject only to such limitations as were imposed by other provisions of the section itself.
+That right was a right to connect at whatever point the property owner chose to do so.
+The only restrictions on that right were those set out in subsection (4).
+Those restrictions were very limited.
+They gave the undertaker the right to refuse to permit the connection only on grounds of the inadequacy of the mode of construction or condition of the private drain or sewer that was to be joined to the public sewer.
+No objection could be made to the point of connection, however inconvenient that might be for the undertaker.
+Lord Pannick QC for Welsh Water submitted that the Court should not accept this interpretation, for its consequences ran counter to the object of the legislation.
+That object was the protection of health and of the environment.
+Parliament cannot have intended that a property owner should be entitled to insist on a specific point of connection however great the harm that this would cause to the environment or to public health and however reasonable it might be to require the property owner to connect elsewhere.
+The potential harm identified by Lord Pannick was damage to the environment or to health as a result of the escape of foul water from the sewage system.
+The overload on the system consequent upon the point of connection chosen by Barratts had increased the risk of escape of foul water at the CSO.
+The CSO was intended to act as an escape point for sewage to a limited extent deemed acceptable in conditions of overload caused by exceptional rainfall in storm conditions.
+The additional loading on the system as a result of connecting Barratts sewer upstream rather than downstream of the pipe bridge was calculated to lead to escape of foul water beyond the limit that was acceptable.
+Such escape would result in Welsh Water committing criminal offences of strict liability under section 85 of the Water Resources Act 1991 and would infringe provisions of Directive 91/271/EEC concerning the collection, treatment and discharge of urban waste water (the Directive) and the Urban Waste Water Treatment (England and Wales) Regulations 1994 (SI 1994/2841) (the 1994 Regulations) passed to give effect to the Directive.
+Lord Pannick treated the facts of the present case as illustrative of the general effect of an interpretation of section 106 of the 1991 Act that permits a developer to select the point of connection between his sewer and a public sewer.
+That is the only relevance of the facts of this case to the issue of interpretation that is raised and I shall defer a more detailed consideration of those facts to later in this judgment.
+Lord Pannick further submitted that the escape of waste water consequent upon a property owner connecting to a public sewer at an inappropriate point could include pollution and risk to health, thereby infringing Articles 2, 3 or 8 of The European Convention on Human Rights.
+The Court was bound, if possible, so to interpret section 106 of the 1991 Act as to avoid these consequences see Marsleasing SA v La Comercial Internacional de Alimentacion SA (Case C 106/89) [1990] ECR 1 4135 and section 3 of the Human Rights Act 1998.
+Lord Pannick submitted that such interpretation could be achieved by reading the provisions of section 106 in a manner that implicitly incorporated express provisions in earlier legislation that the 1991 Act had replaced.
+Lord Pannick advanced two alternative ways of interpreting section 106 that produced the result for which he contended.
+The first involved reading the mode of construction of the drain or sewer in subsection (4) as embracing the point of connection.
+This interpretation was, he submitted, supported by the legislative history.
+Section 21 of the Public Health Act 1875 (the 1875 Act) provided: The owner or occupier of any premises within the district of a local authority shall be entitled to cause his drains to empty into the sewers of that authority on condition of his giving such notice as may be required by that authority of his intention so to do, and of complying with the regulations of that authority in respect of the mode in which the communications between such drains and sewers are to be made, and subject to the control of any person who may be appointed by that authority to superintend the making of such communications.
+The Public Health Act 1936 (the 1936 Act) replaced the provisions of the 1875 Act with provisions that more closely resemble those of the 1991 Act.
+Section 34 provided: (1) Subject to the provisions of this section, the owner or occupier of any premises, or the owner of any private sewer, within the district of a local authority shall be entitled to have his drains or sewer made to communicate with the public sewers of that authority, and thereby to discharge foul water and surface water from those premises or that private sewer: . (3) A person desirous of availing himself of the foregoing provisions of this section shall give to the local authority notice of his proposals, and at any time within twenty one days after receipt thereof, the authority may by notice to him refuse to permit the communication to be made, if it appears to them that the mode of construction or condition of the drain or sewer is such that the making of the communication would be prejudicial to their sewerage system, and for the purpose of examining the mode of construction and condition of the drain or sewer they may, if necessary, require it to be laid open for inspection: Provided that any question arising under this subsection between a local authority and a person proposing to make a communication as to the reasonableness of any such requirement of the local authority, or of their refusal to permit a communication to be made, may on the application of that person be determined by a court of summary jurisdiction.
+Lord Pannick submitted that the legislature can have had no intention of restricting the rights of the local authority and that mode of construction in the 1936 Act should be given the same meaning as mode in which the communicationsare to be made in the 1875 Act.
+The latter phrase was wide enough to embrace the point at which the communication should be made.
+The same interpretation should be given to mode of construction in section 106 of the 1991 Act.
+Alternatively, Lord Pannick submitted that section 106(1) did not confer any entitlement on a property owner to connect at any point of his choosing and that it was open to an undertaker to respond to a proposal under section 106(3) by identifying a location at which connection might be made, such a response being subject to dispute resolution under section 106(6).
+Lord Pannick relied in support of these submissions on observations by Walton J in Beech Properties v GE Wallis & Sons Ltd [1977] EG 735, to which I shall return.
+The Judgments below
+Wyn Williams J accepted the first of Lord Pannicks approaches to the construction of section 106, then advanced on behalf of Welsh Water by Mr Maurice Sheridan.
+In doing so he relied upon the judgment of Walton J in Beech Properties.
+He added that he considered it would be objectionable to construe the statute in such a way as to preclude an undertaker from refusing a connection that would have potentially deleterious environmental consequences.
+In the leading judgment of the Court of Appeal, reversing the decision of the trial judge, Carnwath LJ held that section 34 of the 1936 Act, which was essentially reproduced in section 106 of the 1991 Act, provided only narrow grounds on which an undertaker could refuse connection.
+These related solely to the mode of construction or condition of the connecting drain.
+This formulation was even narrower than under the 1875 Act, which permitted the authority to regulate the mode of communication.
+Furthermore, the reason why Welsh Water objected to the point of connection was that connection would overload the public sewer and there was clear authority that an undertaker could not resist connection on this ground.
+Lawrence Collins LJ agreed with the judgment of Carnwath LJ.
+Pill LJ also agreed.
+He held at paragraph 54: I am unable to conclude that the expression mode of construction and condition of the drain or sewer in section 106(4), repeated in section 106(5) of the 1991 Act, has any bearing upon the location of the communication with the public sewer contemplated in section 106(1)(b) and section 106(4).
+Mode of construction has nothing to do with location.
+He added in the following paragraph that he would not accept the submission of Mr Porten that the owner or occupier could dictate the precise location of the connection.
+Circumstances may be such as to allow a modest discretion to the sewerage undertaker where good reason is shown, for example, that the precise location chosen by the applicant is not a feasible or sensible location at which to connect.
+That was not this case.
+Welsh Water were seeking to dictate a communication situated about 300 metres from that requested and across land in third party ownership and control.
+The Statutory scheme
+The right to connect to a public sewer afforded by section 106 of the 1991 Act and its predecessors has been described as an absolute right.
+The sewerage undertaker cannot refuse to permit the connection on the ground that the additional discharge into the system will overload it.
+The burden of dealing with the consequences of this additional discharge falls directly upon the undertaker and the consequent expense is shared by all who pay sewerage charges to the undertaker.
+Thus in Ainley v Kirkheaton Local Board (1891) 60 LJ (Ch) 734 Stirling J held that the exercise of the right of an owner of property to discharge into a public sewer conferred by section 21 of the 1875 Act could not be prevented by the local authority on the ground that the discharge was creating a nuisance.
+It was for the local authority to ensure that what was discharged into their sewer was freed from all foul matter before it flowed out into any natural watercourse.
+described the right under section 21 as an absolute right, adding that: In Brown v Dunstable Corporation [1899] Ch 378 at p. 390 Cozens Hardy J This absolute right is no doubt subject to any regulations in respect of the mode of making connections and subject to the control of any person appointed to superintend the making of the connections; but no regulations can justify an absolute refusal to allow a connection to be made on any terms.
+In Smeaton v Ilford Corporation [1954] Ch 450 the Corporation was the authority responsible for sewerage in Ilford.
+They were sued by the plaintiff in nuisance caused by the escape of sewage from a sewer.
+Upjohn J held that they were not liable.
+The nuisance was not caused by the Corporation but arose because the Corporation were bound by section 34 of the 1936 Act to permit occupiers or premises to make connections with the sewer and to discharge their sewage into it.
+Smeaton was cited with approval by the House of Lords in Marcic v Thames Water Utilities Ltd [2003] UKHL 66; [2004] 2 AC 42.
+Lord Nicholls of Birkenhead remarked at paragraph 34 that Thames Water had no control over the volume of water entering their sewers.
+A sewerage undertaker was unable to prevent connections being made to the existing system, and the ingress of water through those connections, even if this risked overloading the existing sewers.
+It follows that the duty imposed on Welsh Water by section 94 of the 1991 Act requires them to deal with any discharge that is made into their sewers pursuant to section 106.
+It does not follow, however, that where a new development is constructed, Welsh Water are obliged, at their own expense, to construct a sewer to accept the sewage from the development if one does not already exist.
+Section 98 entitles a developer, among others, to requisition a public sewer, or a lateral drain linking with a public sewer, in order to service the buildings being constructed, but on terms that he meets the costs of so doing.
+Section 101 provides that the place or places where the public sewer and drain are to be located are to be agreed between the requisitioner and the undertaker or, in default of agreement, to be determined by OFWAT.
+Sections 102 and 103 of the 1991 Act make provision for a sewerage undertaker to adopt private sewers, lateral drains and disposal works.
+Section 104 makes provision for a person who is constructing or who proposes to construct a sewer, lateral drain or disposal works to enter into an agreement with a sewerage undertaker under which the undertaker will adopt the works at or after their completion.
+Section 112 of the 1991 Act provides: Requirement that proposed drain or sewer be constructed so as to form part of general system (1) Where (a) a person proposes to construct a drain or sewer; and (b) a sewerage undertaker considers that the proposed drain or sewer is, or is likely to be, needed to form part of a general sewerage system which that undertaker provides or proposes to provide, the undertaker may require that person to construct the drain or sewer in a manner differing, as regards material or size of pipes, depth, fall, direction or outfall or otherwise, from the manner in which that person proposes, or could otherwise be required by the undertaker, to construct it. (2) If any person on whom requirements are imposed under this section by a sewerage undertaker is aggrieved by the requirements, he may within twenty eight days appeal to [OFWAT].
+Any additional cost that this involves has to be paid by the undertaker.
+Section 113 of the 1991 Act provides: Power to alter drainage system of premises in area (1) Where any premises have a drain or sewer communicating with a public sewer or a cesspool, but that system of drainage, though sufficient for the effectual drainage of the premises (a) is not adapted to the general sewerage system of the area; or (b) is, in the opinion of the sewerage undertaker for the area, otherwise objectionable, the undertaker may, at its own expense, close the existing drain or sewer and fill up the cesspool, if any, and do any work necessary for that purpose. (2) The power conferred on a sewerage undertaker by subsection (1) above shall be exercisable on condition only that the undertaker first provides, in a position equally convenient to the owner of the premises in question, a drain or sewer which (a) is equally effectual for the drainage of the premises; and (b) communicates with the public sewer.
+The scheme of the legislation, as reflected in the above provisions and as affecting a developer, can be summarised as follows: i) Where connection of a development to a public sewer requires consequential works to accommodate the increased load on the public sewer, the cost of these works falls exclusively upon the undertaker. ii) Where works are done, whether by or on the requisition of the developer, that will be used exclusively by the development, the costs of such works fall exclusively on the developer.
+In specified circumstances the undertaker is entitled to require the developer to carry out the works in a manner other than that proposed by the developer, or to alter the works carried out by the developer.
+In either case the undertaker has to bear the costs involved. iv) Costs that are borne by the undertaker are passed on to all who pay sewerage charges.
+These include those who occupy the houses in the development. iii)
+The natural meaning of section 106
+It is plain from section 106(5) that the drain or sewer referred to in section 106(4) is the private drain or sewer that the developer proposes to connect to the public sewer, and Lord Pannick accepted that this was so.
+I agree with the Court of Appeal that it is impossible to extend the natural meaning of the mode of construction of the existing drain or sewer so as to include the point at which it is proposed to connect that drain or sewer to the public sewer.
+Lord Pannick argued that one reason why this extension of mode of construction should be made was that it was unlikely that the mode of construction of the private sewer or drain would be of concern to the undertaker if that phrase were given its natural meaning.
+As to this, we received no evidence as to why the condition or mode of construction of the private drain or sewer should be of concern to the undertaker, but I note that section 114 gives the undertaker a right to open a private drain or sewer for inspection if, inter alia, there are reasonable grounds for believing that any such drain or private sewer is so defective as to admit subsoil water.
+I see no justification for approaching section 106(4) on the premise that the condition or mode of construction of the private drain or sewer is unlikely to be of concern to the undertaker.
+The provisions of section 106(4) of the 1991 Act contrast with the equivalent provisions in relation to sewerage in Scotland set out in section 12 of the Sewerage (Scotland) Act 1968: (3) The owner of any premises who proposes to connect his drains or sewers with the sewers or works of a local authority, or to alter a drain or sewer connected with such sewer or works in such a manner as may interfere with them, shall give to the authority notice of his proposals, and within 28 days of the receipt by them of the notice the authority may refuse permission for the connection or alteration, or grant permission for the connection or alteration, subject to such conditions as they think fit, and any such permission may in particular specify the mode and point of connection and, where there are separate public sewers for foul water and surface water, prohibit the discharge of foul water into the sewer reserved for surface water, and prohibit the discharge of surface water into the sewer reserved for foul water. (4) A local authority shall forthwith intimate to the owner their decision on any proposals made by him under subsection (3) above, and, where permission is refused, or granted subject to conditions, shall inform him of the reasons for their decision and of his right of appeal under subsection (5) below. (5) If a person to whom a decision has been given under subsection (4) above is aggrieved by the decision or any conditions attached thereto, he may appeal to the Secretary of State who may confirm the decision and any such conditions either with or without modification or refuse to confirm it.
+This merely underlines the fact that mode of construction does not naturally embrace the point of connection.
+No explanation was offered to us as to why those who drafted the Scottish Act chose different language from that of the 1991 Act.
+So far as Lord Pannicks alternative approach to construction is concerned, I can see no basis, if the wording of section 106 is given its natural meaning, for inferring that it confers a right on the part of the undertaker to refuse permission to communicate with a public sewer on the ground that the intended point of connection is not satisfactory.
+Beech Properties v
+Wallis
+The issue in this case was whether a vendor of property had satisfied an obligation to provide the purchaser with the right to run foul and surface water from the land sold to a public sewer.
+The vendor contended that this obligation was satisfied by the right of the purchaser to connect a 12 inch diameter pipe to a 9 inch diameter public sewer at a particular location, pursuant to section 34 of the 1936 Act.
+Walton J held, essentially because of uncertainty as to this right, that the condition was not satisfied.
+His judgment contained the following observations at pp. 748 9: However, it does appear to me that, wide as the words of subsection (1) may be, and for the moment ignoring the opening qualification, they do not confer upon an individual the right to connect his sewer to the water authoritys sewer at any point which he may choose.
+In most cases, of course, the matter will be quite academic.
+There will be the water authoritys sewer, going along the road; a new house is built in the road; and quite obviously and clearly the owner will expect to have a right to drain into that sewer, and it would be very difficult, assuming that there are no problems under the proviso to subsection (1), to imagine a set of circumstances where the water authority would be entitled to say that he must not connect to that sewer but to some other sewer.
+Even so, if the new house was built at a crossroads and there were available sewers in both roads, I can see no reason why the owner should be entitled to drain into the sewer of his choice if the water authority required him to drain into the other, which might, for example, well be a relief sewer expressly provided for the district because the other sewer was approaching capacity.
+Similarly, I see no reason why the owner is entitled to connect at point X rather than an adjacent point Y, if the water authority requires him to connect at Y.
+This passage sounds eminently sensible, but the judge gave no satisfactory explanation as to how the authoritys option to select the point of connection could be derived from section 34.
+This decision cannot sustain the weight placed upon it by the trial judge and by Lord Pannick.
+The requirements of European Law and the Human Rights Convention.
+Lord Pannick submitted that if the words of section 106 did not naturally bear the meaning for which he contended, they should be so interpreted as to carry that meaning nonetheless in order to avoid infringement of the Directive, the 1994 Regulations and the Human Rights Convention.
+While he relied upon the facts of the present case as illustrating his thesis, much of the argument focussed on a rather different scenario.
+Mr Porten argued that Pill LJ had erred in suggesting that an undertaker enjoyed a modest discretion to refuse to connect at the precise location chosen by an applicant where this was not a feasible or sensible location at which to connect.
+He submitted that a developers proposals under section 106(3) could specify the precise point of connection and that the undertaker had no right to insist on deviation from that point by so much as a metre.
+Lord Pannick seized on this reductio ad absurdum as demonstrating that the construction for which Barratts contended could not possibly be correct.
+The scenario postulated is indeed absurd.
+It is impossible to conceive of any reason why a developer should not be prepared, indeed eager, to co operate with the sewerage undertaker in selecting the point of connection that is most suitable, provided that this is within reasonable proximity of the development.
+In the present case the evidence placed before us shows that Barratts were prepared to contemplate any one of a number of manholes in the vicinity of their development as the connection point.
+It is, I believe, significant that, in nearly a century and a half since the 1875 Act was passed, this is the first occasion upon which the English court has been required to resolve a dispute between property owner and sewerage undertaker as to the point of connection of a private sewer or drain to a public sewer.
+The 1875 Act permitted Local Authorities to make regulations in respect of the mode in which the communications between such drains and sewers are to be made.
+There is no evidence that any regulations relevant to the issues raised on this appeal were ever made.
+Nor is there any evidence that suggests that the change to the single ground for refusing a connection made by the 1936 Act led to any practical difficulties.
+Pill LJ did not identify the source of the modest discretion that he suggested would exist on the part of an undertaker to object to the precise point of connection selected by the developer should this prove not feasible or sensible.
+I suggest that section 108(1) of the 1991 Act probably provides the answer.
+This requires the developer, before commencing the work of making the communication, to give reasonable notice to any person directed by the undertaker to superintend the carrying out of the work and to afford such person all reasonable facilities for superintending the carrying out of the work.
+The sub section is silent as to the powers of the superintendent, but his role can be traced back to section 21 of the 1875 Act, which provided that the making of the communication should be subject to the control of any person who may be appointed by that authority to superintend the making of such communications (my emphasis).
+It is at least arguable that section 108 of the 1991 Act implicitly confers on the undertakers superintendent power to control the making of the connection and thus to insist that the precise point of communication is one where it is technically feasible and sensible to make the connection.
+There is a lacuna in the Act in that the powers of the superintendent are not spelt out and no machinery is provided for resolving any dispute between the superintendent and the developer.
+Once again this may reflect the fact that the possibility of a dispute between the supervisor and the developer is one that exists in theory rather than in practice.
+I now turn from the unlikely scenario of a dispute as to the precise point of
+connection to the situation that has led to the dispute in the present case.
+The real problem
+The real problem that is demonstrated by the facts of this case arises out of the absolute right conferred by section 106 of the 1991 Act on the owner or occupier of premises to connect those premises to a public sewer without any requirement to give more than 21 days notice.
+While this might create no problem in the case of an individual dwelling house, it is manifestly unsatisfactory in relation to a development that may, as in the present case, add 25% or more to the load on the public sewer.
+The public sewer may well not have surplus capacity capable of accommodating the increased load without the risk of flooding unless the undertaker has received sufficient advance notice of the increase and has been able to take the necessary measures to increase its capacity.
+This problem is accentuated by the fact that the budgets of sewerage undertakers and the charges that they are permitted to make have to be agreed by OFWAT and that this process takes place at five yearly intervals so that forward planning may have to be carried out five years in advance.
+This is not a problem that arises because, if it be the case, the developer has the right to select the point of connection.
+It is fortuitous that in this case there was spare capacity in the final short section of Welsh Waters sewer that led to the Treatment Works.
+In many cases there will be no alternative point of connection that will avoid overload on the public sewer.
+Welsh Water has presented this appeal as if the problem to be addressed relates to the point of connection whereas in truth the problem relates to the right of a developer, on no more than 21 days notice, to connect to a public sewer that lacks the relevant capacity.
+The Court of Appeal suggested that the practical answer to this problem lies in the fact that the building of a development requires planning permission under the Town and Country Planning Act 1990.
+The planning authority can make planning permission conditional upon there being in place adequate sewerage facilities to cater for the requirements of the development without ecological damage.
+If the developer indicates that he intends to deal with the problem of sewerage by connecting to a public sewer, the planning authority can make planning permission conditional upon the sewerage authority first taking any steps necessary to ensure that the public sewer will be able to cope with the increased load.
+Such conditions are sometimes referred to as Grampian conditions after the decision of the House of Lords in Grampian Regional Council v Secretary of State for Scotland [1983] 1 WLR 1340.
+Thus the planning authority has the power, which the sewerage undertaker lacks, of preventing a developer from overloading a sewerage system before the undertaker has taken steps to upgrade the system to cope with the additional load.
+Mr David Holgate QC, whose expertise in the field of planning led Lord Pannick to delegate to him this area of the case, sought to persuade us that planning law did not provide a satisfactory answer to the problem.
+He demonstrated that there are some projects that have a major impact on sewerage that are not subject to any planning control.
+Further, the planning authority may not always take the right decision so far as demands on the sewerage system are concerned.
+Article 10 of the Town and Country Planning (General Development Procedure) Order 1995 (SI 1995/419) sets out a wide range of bodies that must be consulted by the local planning authority on an application in relation to a development such as Barratts.
+They include the Health and Safety Executive, highway authorities, the Environment Agency, English Heritage, Natural England, the Countryside Council for Wales and the National Assembly for Wales, but not sewerage undertakers.
+If conditions of planning permission are to provide the answer to the problem of the connection of private sewers to public sewers which are not adequate to bear the additional load, it would seem essential that there should be input to planning decisions from both the relevant sewerage undertaker and OFWAT.
+In the present case there was input from each, but in the submission of Welsh Water the County Councils planning department made an erroneous decision.
+Before looking briefly at what occurred, it is instructive to note that Welsh Water and OFWAT were approaching the situation from different viewpoints.
+In 1997 an appeal was made to OFWAT, purportedly under section 106 of the 1991 Act, by the Post Office against a refusal by Yorkshire Water to allow a connection to a sewer in Sheffield on the sole ground of lack of capacity in the sewer.
+OFWAT ruled that this was not a valid ground for refusing connection.
+Subsequently, on 28 November, OFWAT sent a letter to all sewerage undertakers about this decision.
+It included the following passages: The key issue, which the Director was required to consider when making his recent determination, is whether the Act allows companies to refuse, or impose conditions upon, a connection of a surface water drain to its public combined sewer on the grounds of limited capacity in the latter.
+The Director concluded in his determination that the company was not able to refuse a connection solely on the grounds of lack of capacity.
+The Act refers only to the condition or construction of the private drain or sewer which is to be connected.
+This cannot, in the Directors view, extend to a consideration of the additional flows to be discharged into the public sewer, except in very specific circumstances.
+For example, if the additional flows were to be discharged at such high pressure as to potentially cause damage to the receiving sewer.
+The Director also considers that companies are not able to make connection conditional upon works, by the person requesting the connection, designed to reduce flows and therefore address capacity problems in the companies own systems.
+The Director also acknowledges that it is not in anybodys interest for new connections to lead to flooding from the public sewers.
+Although there is no specific provision in the Act to allow conditions to be imposed as to the timing of the connection, there may be circumstances in which it would be desirable to seek a deferment of the connection date to allow the company time to carry out necessary works to prevent flooding.
+However, if the company has had warning of a development and ought reasonably to have foreseen a likely connection (for example, if it is included in the local structure plan), but fails to act, then a deferment condition is unlikely to be defensible.
+In this context, the companies duty under Section 94 of the Act to provide, improve and extend the system of public sewers so as to ensure that the area is effectually drained is relevant.
+Finally, all of the comments above regarding rights of connection assume a situation in which there are no specific planning conditions upon a development specifying the nature of the connection or works to be completed prior to making the connection.
+There may be cases in which a planning condition would prohibit making a connection to a particular sewer, or place conditions upon that connection.
+There are mechanisms by which developers may appeal against such planning conditions, in which the Director has no role.
+Despite this advice, Mr Ian Wyatt, the New Business Manager of Welsh Water, made it clear in a statement in these proceedings that Welsh Water believed that fairness required that a developer such as Barratts should bear any costs caused by the connection of the developments private sewer to a public sewer.
+Welsh Water had not budgeted for the cost of upgrading their system to cope with the demands that Barratts proposed to make on it by connecting at their chosen point.
+Upgrading involved replacing the pipe bridge with a pipe of larger diameter at a cost of about 200,000.
+Welsh Waters attitude throughout has been that Barratts should pay for this to be done or alternatively requisition Welsh Water under section 98 of the 1991 Act to build a parallel sewer to link the development to the public sewer at SO29127901, again at Barratts expense.
+The facts in this case
+In 1999 a pre deposit draft of Monmouthshire County Council (MCC)s Unitary Development Plan was sent to Welsh Water for purposes of consultation.
+This made provision for, inter alia, the Llanfoist development.
+Welsh Waters response was that they objected to this proposed development because their sewerage system was already overloaded and improvements to it were not included in their relevant development programme.
+On 18 August 2005 Barratts applied to MCC for planning permission for a development of 120 dwellings.
+Welsh Water were consulted and, on 14 September 2005, objected to this development for the same reason given in 1999.
+They added, however, that it might be possible for the developer to fund the accelerated provision of replacement infrastructure or to requisition a new sewer under sections 98 to 101 of the 1991 Act.
+Barratts revised their planning application, reducing the number of dwellings to 98 but adding a primary school.
+On 14 May 2007 MCC granted planning permission, subject to a number of conditions, which included: 10.
+No development shall take place until a scheme of foul drainage, and surface water drainage has been submitted to, and approved, by the Local Planning Authority and the approved scheme shall be completed before the building(s) is/are occupied.
+Meanwhile, negotiations proceeded between Barratts and Welsh Water under the common assumption that, if the development was to proceed, Barratts would have to fund either upgrading of the public sewer to accommodate the increased load or the construction of a new sewer to link with the public sewer at manhole SO29127901.
+On 29 May 2007 Barratts served a notice under section 106 of the 1991 Act, on a standard form provided by Welsh Water, of their intention to make a foul water connection to the public sewer on or after June 07 at SO29131302, this being a manhole in close proximity to the development.
+A parallel application was made in relation to surface water.
+Welsh Water replied on 26 June 2007 as follows: Thank you for your application to connect the foul and surface water flows from the above proposed development into the public sewerage systems.
+We are in a position to approve the connections, however, the foul water connection must be made into or downstream of manhole SO29127901, as shown on the attached plan (ref.
+ConF1).
+Please note that if you encounter problems with third party landowners you may requisition, under Sections 98 to 101 of the Water Industry Act 1991, one of the following: A new sewer from the boundary of your site to this point of adequacy, or, The necessary improvement works as identified in the hydraulic assessment dated November 2006.
+It is now accepted that this somewhat confusing letter is to be treated as a refusal of Barratts proposal.
+Discussions continued between Barratts and Welsh Water on the premise that, in one way or another, Barratts would be funding the cost of dealing with Welsh Waters capacity problem.
+However, on 11 September 2007 Barratts wrote to Welsh Water, referring to their letter of 26 June, asserting that Welsh Water had no right under section 106 to set the point of connection and asking Welsh Water to approve the connection.
+Welsh Waters response on 26 September was to contend that Barratts had served a requisition notice under section 98 and that this precluded any right to connect under section 106.
+On 25 January 2008 OFWAT, who had been kept informed of these developments, wrote to Welsh Water with a copy to Barratts, stating that there was no impediment on a developer pursuing simultaneously rights under sections 98 and 106.
+This letter concluded with the following statement: In any case, it is apparent that the application under section 106 of the Act by Barratt Homes was made on 29 May 2007, received by Welsh Water on 30 May 2007 and the company did not respond to the application until 26 June 2007.
+The response on 26 June 2007 was outside the statutory 21 days provided under section 106(4) and the company was not, therefore, entitled to refuse the application as made.
+That being the case, please confirm by 1 February, that Barratt Homes proposal for connection as notified on 29 May 2007 can proceed.
+It is for Barratt Homes to confirm with the Planning Authority that it can satisfy the planning condition No 10.
+This letter was, I suspect, something of a bombshell.
+If so, it was as nothing compared to the next development.
+Barratts, with the aid of OFWATs letter and an opinion from Mr Porten, the content of which has never been disclosed, persuaded MCC to treat condition 10 as discharged.
+The present proceedings followed.
+Conclusions on the point of connection
+On its natural construction section 106 of the 1991 Act gives the developer the right to connect his private drain or sewer to a public sewer subject only to (i) the right of the sewerage undertaker to give notice refusing permission to make the communication on the ground of deficiencies in the condition of the private drain or sewer (section 106(4)) and (ii) the right of the sewerage undertaker to give notice that he will make the connection himself (section 107).
+The section confers no express right on the sewerage undertaker to select the point of connection or to refuse permission to make the communication on the ground that the point of connection proposed by the developer is open to objection.
+Lord Pannick has argued that, despite its natural meaning, the section must be interpreted as conferring such a right if the operation of the relevant provisions of the 1991 Act are not to be rendered insensible, absurd or ineffective to achieve its evident purpose the phrase used by Lord Bridge of Harwich as justifying the disregard of particular words or phrases in a statute in McMonagle v Westminster City Council [1990] 2 AC 716 at p. 726E.
+I have not been persuaded by this argument.
+The lengthy history of the right to communicate with a public sewer does not suggest that the point of connection has ever given difficulty in practice.
+The facts of this case do not illustrate that section 106 gives rise to a problem with the point of connection.
+It illustrates the more fundamental problem that can arise as a result of the fact, accepted by Lord Pannick, that no objection can be taken by a sewerage undertaker to connection with a public sewer on the ground of lack of capacity of the sewer.
+As OFWAT has pointed out, although the 1991 Act affords no such right, there is a case for deferring the right to connect to a public sewer in order to give a sewerage undertaker a reasonable opportunity to make sure that the public sewer will be able to accommodate the increased loading that the connection will bring.
+The only way of achieving such a deferral would appear to be through the planning process.
+Some difficult issues of principle arise however: Is it reasonable to expect the sewerage undertaker to upgrade a public sewerage system to accommodate linkage with a proposed development regardless of the expenditure that this will involve? How long is it reasonable to allow a sewerage undertaker to upgrade the public sewerage system? Is it reasonable to allow the sewerage undertaker to delay planned upgrading of a public sewer in the hope or expectation that this will put pressure on the developer himself to fund the upgrading?
+The facts of this case suggest that a sewerage undertaker may well take a different view from OFWAT as to how these questions should be answered.
+Be that as it may, it would seem desirable that the sewerage undertaker and OFWAT should at least be consulted as part of the planning process.
+I would endorse the comment made by Carnwath LJ, at para 48, that more thought may need to be given to the interaction of planning and water regulation systems under the modern law to ensure that the different interests are adequately protected.
+These comments are an aside from the narrow issue of statutory interpretation raised in relation to the point of connection.
+For the reasons that I have given I would endorse the judgments of the Court of Appeal in holding that a sewerage undertaker has no right to select the point of connection or to refuse a developer the right to connect with a public sewer because of dissatisfaction with the proposed point of connection.
+The 21 day limit.
+Section 106(4) of the 1991 Act provides that the sewerage undertaker has 21 days from receipt of a notice under section 106(3) in which to give notice of refusal to permit the communication to be made.
+The issue arises of whether this time limit results in an absolute bar on giving such a notice once it has expired.
+In the light of my conclusion that the right of a sewerage undertaker to refuse permission to connect under section 106 of the 1991 Act arises only where there is reason to question the condition of the private drain or sewer that is to be connected, this issue is of limited importance, and of no significance at all on the facts of this case.
+A similar issue arises in relation to section 107(1), which gives the sewerage undertaker 14 days in which to give notice that it intends itself to make the communication.
+In the Court of Appeal both Carnwath LJ and Pill LJ inclined to the view that the 21 day time limit was not mandatory but refrained from deciding the point.
+I take the opposite view.
+Notices given under sections 106(4) and 107(1) remove a right to connect which is otherwise vested in the developer.
+Under the provisions of sections 107 and 109 respectively it is a criminal offence to cause a drain or sewer to communicate with a public sewer after a notice has been given under section 106(4) or section 107(1).
+In these circumstances it seems to me that the time limits in those two subsections must be strictly applied.
+For the reasons that I have given I would dismiss this appeal.
+LADY HALE (Dissenting)
+It is curious that it should have taken so long for a dispute of this sort to reach the courts.
+One might have thought that developers and sewerage undertakers were quite frequently at odds with one another about how best to accommodate a new housing development within the sewerage system and how the costs should be borne.
+But there is no English or Welsh case directly in point.
+Wyn Williams J reached one conclusion on the meaning of the legislation and the Court of Appeal reached another.
+Most members of this Court agree with the Court of Appeal, but the legislative history of the matter leads me to disagree.
+Section 106 of the Water Industry Act 1991 can be traced back to section 21 of the Public Health Act 1875 and before that to section 8 of the Sanitary Act 1866.
+The 1875 Act consolidated with amendments the patchwork of public health legislation which began with the Public Health Act 1848.
+The 1848 Act, together with the Local Government Act 1858, provided for the setting up of Local Boards of Health with a variety of powers dealing with sewers and drains, road cleaning, water supply and the like.
+Under those Acts, the Local Boards had the duty of effectually draining their Districts.
+There was no right to connect to their sewers without their consent.
+But the drive was to get new and existing houses to connect.
+The Board could direct how any new house built within 100 feet of a sewer was to connect to it and could require old houses within the same distance to connect.
+But Local Boards did not cover the whole country.
+The Sewage Utilization Act 1865 set up Sewer Authorities in other areas and gave them all the powers of the Local Boards.
+Section 8 of the Sanitary Act 1866 gave owners or occupiers of premises within the district of a Sewer Authority the conditional right to cause his drains to empty into the Authoritys sewers in almost identical terms to section 21 of the 1875 Act.
+The Public Health Act 1872 rationalised the administration by dividing the whole of England and Wales (apart from the Metropolis) into urban and rural sanitary districts.
+The Metropolis was included in 1874 and the whole legislative scheme consolidated in the 1875 Act.
+Section 21 provided that the owner or occupier of any premises within the district of a local authority shall be entitled to cause his drains to empty into the sewers of that authority, subject to giving the authority such notice as they required of his intention to do so and by complying with the regulations of that authority in respect of the mode in which the communications between such drains and sewers are to be made and subject to superintendence of its making.
+In Ainley v Kirkheaton Local Board (1891) 60 LJ (Ch) 734, the plaintiff was already connected to the authoritys sewer but they wanted to cut him off because the sewer emptied into an open stream and proceedings had been taken against the authority for fouling the stream.
+Stirling J held that the owners right to drain into the existing sewers was not affected by the authoritys obligation under section 17 of the Act not to allow its sewers to convey untreated sewage into a natural stream or watercourse.
+It was for the authority to provide sufficient sewers and to treat the sewage before discharging it into the stream.
+This case was followed in Brown v Dunstable Corporation [1899] 2 Ch 378, where Cozens Hardy J held that he could not grant an injunction to prevent the authority from allowing new connections to a sewer.
+Following Ainley in preference to Charles v Finchley Local Board (1883) 23 Ch D 767, at 390, he held that the absolute right is no doubt subject to any regulations in respect of the mode of making connections and subject to the control of any person appointed to superintend the making of the connections; but no regulations can justify an absolute refusal to allow a connection to be made on any terms .
+It is obvious that under this by law the surveyor can only prescribe the manner of connection.
+He cannot refuse to allow any connection.
+In Wilkinson v Llandaff and Dinas Powis Rural District Council [1903] 2 Ch 695, CA, the main issue was whether a roadside surface water drain was a sewer within the meaning of the Act.
+If it was, the authority had to keep it clean.
+One of the arguments against its being a sewer was that section 21 would then give everyone the right to connect their own drains into it.
+Romer LJ bluntly observed, at p 702, that it does not follow that, because this channel is a sewer within the definition of the Act, it can be used by any inhabitants of the district for sewage or faecal matter.
+Stirling LJ (as he had become) thought, at p 703, that the argument was an exaggeration of the effect of section 21: Section 21 does not provide that every owner or occupier of premises within the district of a local authority shall be entitled as of right to connect every drain which he has with every sewer belonging to the local authority.
+That is not the meaning of the section.
+All that is given by that section to the owner and occupier is a right to have the drain connected or made to communicate with the sewers of the local authority, subject to compliance with certain conditions amongst others, that he is to comply with the regulations of the local authority in respect of the mode in which the communication with the sewers is to be made.
+So that, in my opinion, the local authority may define by regulation the particular sewer with which the communication is to be made.
+Each party in this case can get something from these three authorities.
+For the developer, the fact that continuing an existing connection or allowing a new one would cause a nuisance to the public or to a private individual was not by itself a reason to stop up or prohibit the connection.
+For the undertaker, on the other hand, the mode in which the communication . is to be made could be regulated and this could cover the time and the place where the connection was to be made.
+The Public Health Act 1875 was consolidated with other enactments and some amendments in the Public Health Act 1936.
+Section 21 of the 1875 Act became section 34 of the 1936 Act.
+Once again, the owner or occupier of any premises, or the owner of any private sewer, within the district of a local authority was entitled to have his drains or sewer made to communicate with the public sewers of that authority.
+This was subject to various restrictions in the section itself, and to the requirement in section 34(3) that a person wanting to avail himself of this right should give notice to the local authority and at any time within 21 days after receipt thereof, the authority may by notice to him refuse to permit the communication to be made, if it appears to them that the mode of construction or condition of the drain or sewer is such that the making of the communication would be prejudicial to their sewerage system .
+Disputes about the reasonableness of any refusal could be determined by a magistrates court.
+Lord Pannick has referred us to the Report which led up to the 1936 Act (Cmd 5059 of 1936).
+There is nothing in that report to suggest that the change in language, from the mode in which the communications between such drains and sewers are to be made to the mode of construction or condition of the drain or sewer, was intended to cut down the existing scope of the local authoritys power to control the place and manner of the connection.
+Yet one would expect such a significant change to be flagged up in any report proposing consolidation with amendments.
+It would be very strange if Parliament had intended to make such a change.
+The public interest in ensuring that connections were made in ways which were not prejudicial to the sewerage system remained the same.
+There were no other means available of doing so.
+It could not have been contemplated, for example, that the developer could knock a big hole into an existing sewer and simply stick his own perfectly sound drain through it without making good.
+It would also be strange if Parliament had legislated for such a change in England and Wales, while leaving the position in Scotland, under section 110 of the Public Health (Scotland) Act 1897, the same as it had been in England and Wales under section 21 of the 1875 Act.
+And further that Parliament should later re enact and clarify that provision in section 12(1) of the Sewerage (Scotland) Act 1968, which provided that the Scottish local authorities could specify the mode and point of connection.
+It is inexplicable why provisions which began in the same legislation covering the whole United Kingdom should diverge in this respect.
+It is much more likely that Parliament intended them to mean the same thing.
+Then came the well known case of Smeaton v Ilford Corporation [1954] 1 Ch 450.
+The local authoritys Victorian sewers were over loaded and from time to time sewage erupted from a manhole near the plaintiffs house and overflowed into his premises.
+Despite section 31 of the 1936 Act, providing that a local authority shall so discharge their functions as not to create a nuisance, the plaintiffs claim in nuisance failed.
+The local authority were not causing or adopting the nuisance.
+Upjohn J explained, at pp 464 5: It is not the sewers that constitute the nuisance; it is the fact that they are overloaded.
+That overloading, however, arises not from any act of the defendant corporation but because, under section 34 of the Public Health Act 1936, subject to compliance with certain regulations, they are bound to permit occupiers of premises to make connections to the sewer and to discharge their sewage therein .
+Nor, in my judgment, can the defendant corporation be said to continue the nuisance, for they have no power to prevent the ingress of sewage into the sewer.
+The real problem in such a case, as both Lord Nicholls of Birkenhead and Lord Hoffmann pointed out in Marcic v Thames Water Utilities Ltd [2004] 2 AC 42, is that the every new house built has an absolute right to connect (para 34) and the undertaker has a duty to accept whatever water and sewage the owners of property in their area choose to discharge (para 53).
+The overflow is not caused by any failure to clean or maintain the existing sewers but by a failure to build new or bigger ones.
+And there is a long line of authority, dating back to Glossop v Heston and Isleworth Local Board (1879) 12 Ch D 102, that the authoritys duty to provide sufficient sewers effectually to drain the area is to be enforced through the statutory scheme and not by private action.
+The decisions in Smeaton and Marcic were predicated on the authoritys or undertakers duties to allow connections and to accept sewage, but they did not decide what that duty entailed.
+The only other relevant observations to which we have been referred are in Beech Properties Ltd v GE Wallis & Sons Ltd [1977] EG 735, where the question was whether a condition in a contract for the sale of land had been performed.
+Part of this depended upon whether the purchaser would have the right to connect to the public sewer at a particular point.
+Walton J thought it obvious that the right given by section 34 of the 1936 Act is not an absolute, but a qualified, right (p 747).
+He continued (pp 748 9): . wide as the words of subsection (1) may be, . , they do not confer upon an individual the right to connect his sewer to the water authoritys sewer at any point which he may choose.
+In most cases, of course, the matter will be quite academic.
+There will be the water authoritys sewer, going along the road; a new house is built in the road; and quite obviously and clearly the owner will expect to have a right to drain into that sewer .
+Even so, if the new house was built at a crossroads and there were available sewers in both roads, I can see no reason why the owner should be entitled to drain into the sewer of his choice if the water authority required him to drain into the other, which might, for example, well be a relief sewer expressly provided for the district because the other sewer was approaching capacity.
+Similarly, I see no reason why the owner is entitled to connect at point X rather than an adjacent point Y, if the water authority requires him to connect at Y.
+So we have three propositions for which there is respectable authority going back over many years and which are not inconsistent with one another.
+The first is that the sewerage authority or undertaker cannot refuse to allow an owner or occupier to connect at all.
+He must allow some sort of connection even if the system is already overloaded or will thereby become so overloaded that a nuisance will result.
+The second is that the authority or undertaker is not liable for nuisances which result from such over loading.
+The remedy lies in the statutory procedures to oblige them to build more sewers.
+But the third is that all courts which have addressed themselves specifically to the point at issue here, the place and manner in which a particular connection is to be made, have expressed the view that the authority or undertaker can refuse to agree to the developers proposals.
+There is no material difference between the 1936 and 1991 Acts for this purpose.
+The 1936 Act provided that disputes between developers and authorities should go to a magistrates court.
+The 1991 Act provides that a developer who argues that an authoritys refusal is unreasonable can take the dispute to OFWAT, which is a much more appropriate body to resolve such matters.
+The 1936 Act provided that a local authority could refuse on the ground that the making of the communication would be prejudicial to their sewerage system and section 106(4)(b) provides the same.
+This is obviously capable of including the deleterious effects of connecting at point A rather than point B. This too may help cast some light on the meaning of the words mode of construction or condition: it is easier to think of ways in which the place and manner of making the connection would be deleterious to the system than of ways in which the physical condition of the developers drain would be so.
+In the light of the historical development of this difficult legislation, therefore, I would hold that the words mode of construction or condition do cover the way in which it is proposed to connect that private drain or sewer to the public sewer, including the place.
+Whether the undertakers reasons for refusing to allow the proposed connection are reasonable is another matter, which in my view it is for OFWAT to resolve.
+If that were the only issue in the case, therefore, I would have allowed this appeal.

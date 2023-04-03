@@ -1,0 +1,172 @@
+The right to physical liberty was highly prized and protected by the common law long before the United Kingdom became party to the European Convention on Human Rights (ECHR).
+A person who was unlawfully imprisoned could, and can, secure his release through the writ of habeas corpus.
+He could, and can, also secure damages for the tort of false imprisonment.
+This case is about the meaning of imprisonment at common law and whether it should, or should not, now be aligned with the concept of deprivation of liberty in article 5 of the ECHR.
+The story so far
+This is a claim for damages for false imprisonment brought in judicial review proceedings challenging the legality of a curfew imposed upon the claimant, purportedly under paragraph 2(5) of Schedule 3 to the Immigration Act 1971 (the 1971 Act).
+That reads: A person to whom this sub paragraph applies shall be subject to such restrictions as to residence, as to his employment or occupation and as to reporting to the police or an immigration officer as may from time to time be notified to him in writing by the Secretary of State.
+There is a dispute about the claimants identity.
+He claims to be a Liberian national named Ibrahima Jalloh.
+The Secretary of State asserts that he is a Guinean national named Thierno Ibrahima Diallo.
+This dispute is irrelevant to the issues before this Court.
+The claimant was granted asylum under his claimed name on 29 August 2003.
+However, following his conviction of various offences in 2006, the Secretary of State made a deportation order against him on 21 July 2008.
+This was still extant when the events with which we are concerned began. (It was revoked on 22 September 2015 and a new order made on 20 December 2016.)
+On 15 April 2013, the claimant was convicted and sentenced for a further offence and on 16 April 2013, when the custodial part of his sentence expired (because of time already spent in custody on remand), he was detained by the Secretary of State under powers conferred by the 1971 Act.
+On 29 October 2013, the claimant was given bail by a judge of the First tier Tribunal.
+The bail conditions included requirements as to residence and electronic monitoring but not a curfew.
+On 30 October, as required in the grant of bail, the claimant reported to an immigration officer.
+The bail granted by the tribunal thereupon came to an end.
+The claimant was then issued with a document headed NOTICE OF RESTRICTION.
+This stated that he was liable to be detained under the Immigration Act 1971 but that he would not be detained.
+Instead, he would have restrictions imposed upon him under paragraph 2(5) of Schedule 3 to the 1971 Act.
+The restrictions included a requirement to report to an immigration officer every Monday, Wednesday and Friday, to live at a specified address and YOU ARE TO ELECTRONICALLY BY MEANS OF BE MONITORED TAGGING/TRACKING.
+He was to be at his address in Sunderland between specified hours on a specified date for induction into the monitoring system.
+Following induction, he must be present at the address shown above between the hours of 23.00 hours to 07.00 am every day, and every day thereafter between the hours of 23.00 hours to 07.00 am.
+This imposed a curfew of eight hours every day.
+The notice continued: You should note that [i]f without reasonable excuse you fail to comply with any of these restrictions you will be liable on conviction to a fine not exceeding the maximum on level 5 of the standard scale (currently 5,000) or imprisonment for up to six months or both.
+The monitoring equipment was installed on 3 February 2014 and the claimant was fitted with an electronic tag.
+The claimant was issued with a further Notice of Restriction on 8 March 2014 to the same effect as the first.
+The curfew was in place from 3 February until 14 July 2016, a total of 891 days.
+The claimant did not always comply with it.
+On 37 occasions he was away from home without permission for the whole of the curfew period, 29 of those because he was attending care proceedings in Coventry relating to his daughter and step daughter.
+On 108 occasions he was away from home without permission for part of the curfew period, 57 of those for more than an hour.
+Some of those were connected with Ramadan and some with returning from Coventry.
+But the claimant did, broadly, seek to comply with the curfew and curtailed his social activities to a limited extent.
+The curfew was lifted by order of Collins J in these judicial review proceedings, which were brought by the claimant following the judgment of the Court of Appeal in the case of R (Gedi) v Secretary of State for the Home Department [2016] EWCA Civ 409; [2016] 4 WLR 93.
+The court there held that paragraph 2(5) of Schedule 3 to the 1971 Act (see para 2 above) did not empower the Secretary of State to impose a curfew by way of a restriction under that paragraph.
+The Secretary of State has, understandably, not sought to challenge that holding.
+However, she did seek to impose the same curfew again on the claimant, but this time under paragraph 22 of Schedule 2 to the 1971 Act.
+On 14 July 2016, Collins J ordered that that curfew be lifted, which it was.
+On 14 February 2017, at a preliminary hearing, Lewis J held that the curfew constituted imprisonment for the purpose of the tort of false imprisonment, following the decision of Edis J at first instance in the case of R (Gedi) v Secretary of State for the Home Department [2015] EWHC 2786 (Admin) (the Court of Appeal did not deal with this point in Gedi but left it open): [2017] EWHC 330 (Admin).
+After a three day trial, on 9 November 2017, Lewis J awarded the claimant 4,000 damages for false imprisonment: [2017] EWHC 2821 (Admin).
+On appeal, the Court of Appeal held that the curfew did indeed amount to imprisonment and so dismissed the Secretary of States appeal on liability; it also dismissed the claimants cross appeal on the measure of damages: [2018] EWCA Civ 1260; [2019] 1 WLR 394.
+The Secretary of State now appeals to this Court, arguing, first, that the curfew did not amount to imprisonment at common law, and second, that if it did, it did not amount to a deprivation of liberty under article 5 of the ECHR and the common law concept of imprisonment should now be aligned with that concept.
+The first issue: Imprisonment at Common Law
+Mr Robin Tam QC, for the Secretary of State, argues that the curfew did not amount to imprisonment at common law.
+He makes five propositions.
+His first proposition is that imprisonment requires constraint on a persons freedom of movement, usually by physical or human barriers, such as locked doors or guards.
+Voluntary compliance with a request or instruction is not enough.
+An illustration is the Irish case of Phillips v Great Northern Railway Co (1903) 4 NIJR 154.
+There was an argument between the claimant, who was travelling with two daughters and a dog, and the ticket collector, who wrongly thought that she was defrauding the company.
+As the claimant was stepping into the cab ordered by one of her daughters, the ticket collector told her not to move.
+He fetched the station master, but after some further argument, she got into the cab and it drove off.
+Lord OBrien LCJ held that there was no evidence of total restraint of the person.
+Voluntary compliance is not enough, even if the request is backed up with a warrant which could be executed by force.
+He cites Arrowsmith v Le Mesurier (1806) 2 Bos & P (NR) 211, 127 ER 605, where Sir James Mansfield CJ held that there was no imprisonment when a constable simply showed the claimant a magistrates warrant for his arrest and the claimant went voluntarily with the constable to see the magistrate: the warrant was treated as a summons rather than an arrest.
+Berry v Adamson (1827) 6 B & C 528, 108 ER 546, was a fortiori: the officer merely sent his man with a message to the claimant that there was a writ and that he should fix a time for giving bail.
+On the other side of the line was Grainger v Hill (1838) 4 Bing (NC) 212, 132 ER 769.
+Tindal CJ held that it was enough for the sheriffs officer to tell the claimant, while he was lying ill in bed, that there was a writ of capias against him and unless he surrendered his ships register or found bail, he would be taken away or a man would be left with him: this was a sufficient restraint of his person to amount to an arrest.
+His second proposition is that, if the constraint is not by physical barriers, it has to be of a nature that is intended to keep the person in the same place and there have to be the means of doing so.
+He cites Grainger v Hill as an illustration of this form of imprisonment; also Warner v Riddiford (1858) 4 CB (NS) 180, 140 ER 1052, where it was held that the claimant was imprisoned when he was refused permission by police officers, acting on behalf of his employers, to leave the room and go upstairs in his own house; and Meering v Graham White Aviation Co Ltd (1920) 122 LTR 44, where the claimant was suspected of being involved in thefts of material from the company.
+A warrant was obtained to search the place where the claimant was staying.
+The claimant was not there when the search took place, but the companys own security officers waited until he returned and took him to the companys offices where they waited for the police officers who eventually arrested him.
+It was held that he was imprisoned by the companys officers while they were waiting.
+From the moment that the claimant had come under the influence of the companys officers, there was evidence to support the jurys conclusion that he was no longer a free man.
+Atkin LJ emphasised, at p 53, that it is perfectly possible for a person to be imprisoned in law without his knowing the fact and appreciating that he is imprisoned: if a man could be imprisoned in a locked room without knowing that the door was locked, he could also be imprisoned by being in a room with guards who would prevent his leaving, even if he did not know this.
+His third proposition is that the constraint must be total or complete, restricting the person to a particular place.
+The leading case is Bird v Jones (1845) 7 QB 742.
+Part of Hammersmith Bridge, which was usually used as a footpath, was enclosed and seats were erected for people to watch a boat race on the Thames, for which they were charged a fee.
+The claimant wanted to walk along the footpath in the usual way but was forcibly prevented by policemen from doing so.
+He could always have left the enclosure, and crossed the bridge along the roadway, but he could not leave in the way that he wanted to do.
+The majority held that this was not imprisonment because it was only a partial obstruction.
+Bird v Jones was approved by the Judicial Committee of the Privy Council in Syed Mahamad Yusuf Ud Din v Secretary of State for India (1903) 30 Ind App 154, where it was held that a prisoner who was out on bail was not imprisoned while on bail: nothing short of actual detention and complete loss of freedom would do.
+Robinson v Balmain New Ferry Co Ltd [1910] AC 295 was another Privy Council case.
+There were entry and exit turnstiles to the ferry wharf on each side of the water to be crossed.
+The claimant paid his penny to enter the wharf on one side, intending to take the ferry to the other side, but then changed his mind and was not allowed to leave without paying the exit penny.
+This was not imprisonment as there was an exit route and he had agreed to the terms.
+His fourth proposition is that a person is not imprisoned if he is able to leave that place by another route, even if that is not the way he wants to go and even if it involves trespassing.
+The earliest case cited was Wright v Wilson (1699) 1 Ld Raym 739, 91 ER 1394, where Holt CJ ruled that it was not false imprisonment to lock one of two doors out of a room, when the claimant could have got out through the other door, although this would involve trespassing through another persons room.
+His fifth proposition is that it is not enough that the act of leaving would trigger an adverse response, such as prosecution or arrest.
+This is illustrated by cases such as Arrowsmith v Le Mesurier and Phillips v Great Northern Railway Co, but also by the decision of the House of Lords in R v Bournewood Community and Mental Health NHS Trust, Ex p L [1999] 1 AC 458.
+L was a severely mentally disabled man who became agitated at his day centre and an emergency psychiatric team was called.
+He was sedated and taken to hospital.
+The psychiatrist decided to admit him as an informal patient, rather than compulsorily, because by that time he was compliant and showing no desire to leave.
+He was placed in an unlocked ward, but his foster parents were not allowed to visit in case he showed signs of wanting to leave with them.
+If he had wanted to leave, he would have been compulsorily detained under the Mental Health Act 1983.
+The House of Lords held, by a majority, that he had not been detained while an informal patient.
+Lord Steyn and Lord Nolan disagreed.
+Lord Steyn, at p 495, described the suggestion that he was free to leave as a fairy tale.
+The fact that he did not know that he was imprisoned was irrelevant, as Meering showed.
+Applying these propositions, Mr Tam argues that the claimant was not locked into his home; there were no guards to prevent his leaving; there was no other way in which he was physically prevented from leaving home; indeed, he was able to break the curfew on numerous occasions the constraint was not total or complete; there might be adverse consequences if he did so either prosecution for an offence or being detained once more under the 1971 Act but these would not result in his being kept in the place where he was instructed to remain.
+The situation is not comparable to being detained in an open prison or psychiatric hospital, to which one can be returned by force if one goes absent without leave.
+Against this, Ms Dinah Rose QC, for the claimant, derives the following propositions from those same authorities.
+First, imprisonment is the imposition of restraint upon a persons liberty so that he is compelled at the will of a third person to stay within a defined boundary.
+Second, the restraint must be complete, in the sense that he is required to stay within a defined area.
+There is no imprisonment if movement is blocked in one direction but he remains free to depart in a different direction.
+Third, it is imprisonment no matter how short the period a few seconds is sufficient.
+Fourth, the restraint must be immediate and not conditional.
+Fifth, complete restraint does not mean that there must be physical barriers such as locks or guards to prevent him leaving.
+Nor does it mean that it must be physically impossible to leave.
+He is imprisoned if he is made to stay by intimidation or threats, fear of the consequences, or submission to apparent legal authority.
+Sixth, it is also imprisonment if he is made to stay by the threat of imprisonment if he leaves, including the threat of arrest or prosecution.
+Seventh, the threat does not have to be a threat to return him to the same place of confinement.
+Eighth, it is also imprisonment if he is only able to leave the defined area by an unreasonable means or route, for example, by jumping out of a first floor window or risking prosecution by doing so.
+An obvious illustration of the reasonableness principle is the true story told by Eric Williams in his 1949 novel, The Wooden Horse.
+Prisoners of war escaped from their prison camp by concealing their tunnelling under a wooden vaulting horse: their will was never overborne because they always intended to escape and it did prove physically possible for them to do so but they clearly were imprisoned while they were in the camp.
+Another illustration is the decision of the Court of Appeal of Victoria in McFadzean v Construction, Forestry, Mining and Energy Union [2007] VSCA 289; [2007] 20 VR 250.
+The Union set a picket round a camp set up by anti logging protesters to prevent the protesters getting out.
+The protesters could have asked the police to escort them out, but that did not mean that they were not imprisoned until they did so.
+But the protesters could also have escaped at any time along a track through the bush: this was a reasonable means of egress and so they had not been imprisoned.
+The most problematic case from the claimants point of view is the Bournewood decision in the House of Lords.
+But, argues Ms Rose, it has no bearing because if a person is not actually confined at the moment, the fact that he might be confined if he tries to leave does not make it imprisonment.
+This is different from being actually confined by fear of the consequences if one leaves.
+In any event, she points out that the case might well be decided differently today.
+The Court of Appeal were unanimous in holding that the patient was imprisoned.
+The House of Lords decided otherwise by a narrow majority and it is not easy to grasp their rationale.
+And the European Court of Human Rights held that he had been deprived of his liberty: HL v United Kingdom (2004) 40 EHRR 32.
+So far as is known, this is the only example of a deprivation of liberty which did not amount to imprisonment at common law: generally speaking, one may well be imprisoned without being deprived of ones liberty, but the other way round is harder to envisage.
+Discussion on the first issue
+As it is put in Street on Torts, 15th ed (2018), by Christian Witting, p 259, False imprisonment involves an act of the defendant which directly and intentionally (or possibly negligently) causes the confinement of the claimant within an area delimited by the defendant.
+The essence of imprisonment is being made to stay in a particular place by another person.
+The methods which might be used to keep a person there are many and various.
+They could be physical barriers, such as locks and bars.
+They could be physical people, such as guards who would physically prevent the person leaving if he tried to do so.
+They could also be threats, whether of force or of legal process.
+A good example is R v Rumble [2003] EWCA Crim 770; (2003) 167 JP 205.
+The defendant in a magistrates court who had surrendered to his bail was in custody even though there was no dock, no usher, nor security staff and thus nothing to prevent his escaping (as indeed he did).
+The point is that the person is obliged to stay where he is ordered to stay whether he wants to do so or not.
+In this case there is no doubt that the defendant defined the place where the
+claimant was to stay between the hours of 11.00 pm and 7.00 am.
+There was no suggestion that he could go somewhere else during those hours without the defendants permission.
+This is not a case like Bird v Jones where the claimant could cross the bridge by another route or Robinson v Balmain New Ferry Co Ltd where he had agreed to go onto the wharf on terms that he could only get out if he paid a penny.
+The fact that the claimant did from time to time ignore his curfew for reasons that seemed good to him makes no difference to his situation while he was obeying it.
+Like the prisoner who goes absent from his open prison, or the tunneller who gets out of the prison camp, he is not imprisoned while he is away.
+But he is imprisoned while he is where the defendant wants him to be.
+There is, of course, a crucial difference between voluntary compliance with an instruction and enforced compliance with that instruction.
+The Court of Appeal held that this was a case of enforced not voluntary compliance and I agree.
+It is not to be compared with those cases in which the claimant went voluntarily with the sheriffs officer.
+There can be no doubt that the claimants compliance was enforced.
+He was wearing an electronic tag which meant that leaving his address would be detected.
+The monitoring company would then telephone him to find out where he was.
+He was warned in the clearest possible terms that breaking the curfew could lead to a 5,000 fine or imprisonment for up to six months or both.
+He was well aware that it could also lead to his being detained again under the 1971 Act.
+All of this was backed up by the full authority of the State, which was claiming to have the power to do this.
+The idea that the claimant was a free agent, able to come and go as he pleased, is completely unreal.
+For what it is worth, in the case of Secretary of State for the Home Department v JJ [2007] UKHL 45; [2008] AC 385, it was taken for granted that a curfew enforced by electronic tagging, clocking in and clocking out, and arrest or imprisonment for breach was a classic detention or confinement (para 59).
+The only question was whether it was also a deprivation of liberty within the meaning of article 5 of the ECHR, which leads on to the second issue.
+The second issue: Deprivation of Liberty
+Mr Tam makes an alternative argument in this Court which was not open to him in the courts below.
+This is that the concept of imprisonment for the purpose of the tort of false imprisonment should now be aligned with the concept of deprivation of liberty within the meaning of article 5 of the ECHR.
+The classic definition of this concept is taken from Guzzardi v Italy (1980) 3 EHRR 333, para 92: In order to determine whether someone has been deprived of his liberty within the meaning of article 5, the starting point must be his concrete situation and account must be taken of a whole range of criteria such as the type, duration, effects and manner of implementation of the measure in question.
+The ECHR distinguishes between the deprivation and restriction of liberty and the court emphasised that this was a matter of degree rather than nature or substance (para 93).
+This multi factorial approach is very different from the approach of the common law to imprisonment.
+In Austin v Comr of Police of the Metropolis [2007] EWCA Civ 989; [2008] QB 660, the Court of Appeal held that kettling the claimants for several hours at Oxford Circus was indeed imprisonment at common law, but that it was justified by the common law principle of necessity; however, it was not a deprivation of liberty within the meaning of article 5, a conclusion with which both the House of Lords and the European Court of Human Rights agreed: [2009] UKHL 5; [2009] 1 AC 564, and Austin v United Kingdom (2012) 55 EHRR 14.
+The trial judges observation that there could be imprisonment at common law without there being a deprivation of liberty under article 5 and vice versa was cited by the Court of Appeal with apparent approval (para 87).
+That observation was repeated by the Court of Appeal in Walker v Comr of Police of the Metropolis [2014] EWCA Civ 897; [2015] 1 WLR 312, where it was held to be false imprisonment for a police officer to stand in the front doorway of a house so as to prevent the claimant from leaving, even for a very short time, but it was not a deprivation of liberty within the meaning of article 5.
+By contrast, when the Bournewood case reached the European Court of Human Rights, that court held that the patient had been deprived of his liberty within the meaning of article 5: HL v United Kingdom.
+This is thought to be the only case going the other way.
+Imprisonment for the purpose of the tort of false imprisonment can take place for a very short period of time, whereas a number of factors are relevant to whether there has been a deprivation of liberty.
+On the other hand, imprisonment may be justified at common law in circumstances which are not covered by the list of possibly permissible deprivations of liberty in article 5(1) of the ECHR.
+Mr Tam argues that the time has now come to align the two concepts: specifically to align the concept of imprisonment with the concept of deprivation of liberty.
+He says this because, in Secretary of State for the Home Department v JJ [2007] UKHL 45; [2008] AC 385, while the House of Lords held, by a majority, that a 16 hour curfew was a deprivation of liberty, Lord Brown of Eaton under Heywood expressed the view that an eight hour curfew, such as this, would not be such a deprivation.
+It is, of course, the case that the common law is capable of being developed to meet the changing needs of society.
+In Lord Toulsons famous words in Kennedy v Charity Commission [2014] UKSC 20; [2015] AC 435, para 133, it was not the purpose of the Human Rights Act that the common law should become an ossuary.
+Sometimes those developments will bring it closer to the ECHR and sometimes they will not.
+But what Mr Tam is asking this Court to do is not to develop the law but to make it take a retrograde step: to restrict the classic understanding of imprisonment at common law to the very different and much more nuanced concept of deprivation of liberty under the ECHR.
+The Strasbourg court has adopted this approach because of the need to draw a distinction between the deprivation and the restriction of physical liberty.
+There is no need for the common law to draw such a distinction and every reason for the common law to continue to protect those whom is has protected for centuries against unlawful imprisonment, whether by the State or private persons.
+The Court of Appeal in Austin and in Walker were right to say that there could be imprisonment at common law without there being a deprivation of liberty under article 5.
+Whether they were also right to add and vice versa may be open to doubt in the light of the Bournewood saga, but it is not necessary for us to express an opinion on the matter.
+Conclusion
+I would dismiss this appeal.

@@ -1,0 +1,40 @@
+The Appellants are all companies which belong to groups which have UK resident parents and also have foreign subsidiaries, both in the European Union and elsewhere.
+The purpose of the litigation was to determine various questions of law arising from the tax treatment of dividends received by UK resident companies from non resident subsidiaries, as compared with the treatment of dividends received from subsidiaries within wholly UK resident groups of companies.
+The provisions giving rise to these questions related to the system of advance corporation tax (ACT) and to the taxation of dividend income from non resident sources under section 18 (Schedule D, Case V) of the Income and Corporation Taxes Act 1988 (ICTA).
+The relevant provisions have since been amended or repealed, but the problems created by their existence in the past have not gone away.
+The Appellants case is that the differences between their tax treatment and that of wholly UK resident groups of companies breached article 43 (freedom of establishment) and article 56 (free movement of capital) of the EC Treaty, and that these breaches have caused them considerable loss.
+A previous reference to the Court of Justice of the European Union (CJEU) held that those principles had, at least in some respects, been breached.
+The issues in this appeal to the Supreme Court relate to the requirements under both EU and domestic law as to the availability of remedies for such breaches of EU law.
+It is common ground that two types of restitutionary remedies are available in domestic law in this situation: a claim for restitution of tax unlawfully demanded (under the Woolwich principle), and a claim for tax wrongly paid under a mistake (a DMG claim).
+EU law requires there to be an effective remedy for monies paid in respect of tax that has been unlawfully charged.
+In the present case, the Woolwich cause of action was now time barred.
+The limitation period for DMG mistake claims had been extended by section 32(1)(c) of the Limitation Act 1980 (LA).
+However, in June 2004, s320 of the Finance Act 2004 was enacted, retrospectively excluding the application of s32(1)(c) in relation to claims based on a mistake of law relating to a taxation matter, where the action was brought on or after 8 September 2003.
+In July 2007, s107 of the Finance Act 2007 came into force.
+It excluded the application of s32(1)(c) to any DMG claims brought before 8 September 2003.
+The Court of Appeal held: that the Woolwich restitution remedy was a sufficient remedy as EU law does not require that there must always be a remedy based on mistake; that the Woolwich restitution remedy met the requirements of EU law and was not affected by sections 320 and 107; that the restitution and damages remedies sought by the Appellants in respect of one part of the claim were excluded by virtue of the statutory provisions for recovery of overpaid tax in section 33 of the Taxes Management Act 1970; and that section 32(1)(c) of the Limitation Act 1980 could be given a wider meaning so as to apply to a Woolwich claim.
+The Appeal raises the following specific issues: (1) Could Parliament lawfully curtail without notice the extended limitation period under section 32(1)(c) of the Limitation Act 1980 for the mistake cause of action (section 320 FA 2004) and cancel claims made using that cause of action for the extended period (section 107 FA 2007)? In particular: (a) Would a Woolwich restitution remedy be a sufficient remedy for the repayment claims brought on the basis of EU law? (b) Whether or not a Woolwich restitution remedy would be a sufficient remedy, does EU law protect the claims which were made in mistake; and, specifically, did the curtailment without notice of the extended limitation period for mistake claims (section 320 FA 2004) and the cancellation of such claims in respect of
+the extended period (section 107 FA 2007) infringe the EU law principles of effectiveness, legal certainty, legitimate expectations and rule of law? (2) Are the restitution and damages remedies sought by the Appellants in respect of corporation tax paid under section 18 of the ICTA excluded by virtue of the statutory provisions for recovery of overpaid tax in section 33 of the Taxes Management Act 1970? (3) Does section 32(1)(c) of the Limitation Act 1980 apply to a claim for a Woolwich restitution remedy? (4) Does the Woolwich restitution remedy apply only to tax that is demanded by the Revenue, and not to tax such as ACT which is payable on a return; and, if so, what amounts to a demand?
+The Supreme Court unanimously dismisses the appeal on issues (3) and (4), and allows the appeal on issue (2).
+On issue (1), a reference is made to the CJEU for a preliminary ruling under article 267 Treaty on the Functioning of the European Union.
+Leading judgments are given by Lord Hope, Lord Walker, Lord Sumption and Lord Reed, with shorter judgments by Lord Brown, Lord Clarke and Lord Dyson.
+Issue (1) The central question in the appeal is whether EU law requires only that the member state must make available an adequate remedy which meets the principles of effectiveness and equivalence, or whether it requires every remedy recognised in domestic law to be available so that the taxpayer may obtain the benefit of any special advantages that this may offer on the question of limitation [13, 38].
+The majority of the Court (Lord Sumption and Lord Brown dissenting [123 & 142]) holds that the Woolwich remedy on its own was not sufficient to meet the requirements of effectiveness and equivalence; an effective remedy was also required in the DMG mistake cause of action.
+The principle of equivalence requires that the rules regulating the right to recover taxes levied in breach of EU law must be no less favourable than those governing similar domestic actions.
+It must follow, if the means of recovering of taxes levied contrary to EU law are to match those in domestic law, that both remedies should be available [21, 212].
+The retrospective application of the section 320 FA 2004 limitation period was therefore not compatible with EU law as it infringed the principles of equivalence and effectiveness, and possibly also the principle of legitimate expectations [15, 22, 115, 135 136, 140, 209, 241].
+In relation to s107 FA 2007, the Court unanimously holds that, by 2006, the Appellants had acquired a legitimate expectation that their entitlement to have their DMG claims decided by a court would not be removed from them by the introduction without notice of a limitation period that was not fixed in advance.
+So it was not lawful for Parliament to cancel claims made using the mistake cause of action for the extended period [15, 22, 115, 125, 129, 140, 203, 209, LR 34 35, ].
+Since the Court is divided on the question as to whether EU law requires that both remedies should be available to the Appellants so that they can choose the remedy that best suits their case for reimbursement, the matter is not acte clair.
+A reference to the CJEU is necessary [23].
+Issue (2) The question is answered in the negative.
+Section 33 can be given an interpretation in conformity with EU law by not construing it as impliedly setting itself up as an exclusive provision.
+The common law claim in unjust enrichment remains available [119, 205].
+The appeal on this issue is allowed.
+Issue (3) The question is answered in the negative.
+The extension to the limitation period under section 32(1)(c) should not be read widely so as to apply to Woolwich claims.
+The Court should not seek to develop the law by broadening the interpretation of an action for relief from the consequences of a mistake [62, 186].
+The appeal on this issue is dismissed.
+Issue (4) The question is answered in the negative.
+The Woolwich restitution remedy is not limited to tax that is demanded by the Revenue, but is available to cover all sums paid to a public authority in response to (and sufficiently causally connected with) an apparent statutory requirement to pay tax which (in fact and in law) is not lawfully due [79, 174].
+The appeal on this issue also is dismissed.

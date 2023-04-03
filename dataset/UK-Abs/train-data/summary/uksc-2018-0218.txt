@@ -1,0 +1,34 @@
+Customs duty is usually paid around the time goods are imported.
+In some situations, Her Majestys Revenue and Customs (HMRC) may issue a post clearance demand to require payment at a later date.
+This appeal is about the time limits for making such demands under a previous version of the EUs Customs Code, Council Regulation (EEC) No 2913/92 as amended. (The issues in this appeal do not arise under the current version of the Customs Code, Council Regulation (EU) No 952/2013.) FMX imported ten consignments of garlic to the UK in 2003 and 2004.
+It declared the garlic came from Cambodia and claimed exemption from import duties under the EUs Generalised System of Preferences.
+In 2007, following an investigation, the European Anti Fraud Office (OLAF) concluded that the garlic was actually from China.
+If the garlic was Chinese, FMX would be liable for import duties and anti dumping duties totalling 503,577.63.
+In March 2011, HMRC issued a post clearance demand for 503,577.63 on the basis that the garlic originated in China.
+FMX argued it was too late to issue demands due to a three year time limit set out in article 221(3) of the old Customs Code.
+HMRC relied on article 221(4) which provides that, where the debt arises from activity which is liable to give rise to criminal court proceedings, the amount may, under the conditions set out in the provisions in force, be communicated to the debtor after the expiry of the three year period.
+The First tier Tribunal accepted the false import declarations were liable to give rise to criminal proceedings for the purposes of article 221(4) even though FMX was not involved in the underlying fraud.
+However, it held that HMRC could not rely on article 221(4) because the UK had no provisions in force extending the three year time limit.
+The Upper Tribunal disagreed and accepted HMRCs argument.
+It held that article 221(4) of the old Customs Code automatically displaces the three year time limit in cases involving criminality, even if the relevant member state has not enacted provisions which provide an alternative time limit.
+The Court of Appeal reinstated the First tier Tribunals decision, considering the Upper Tribunals approach violated the EU law principle of legal certainty and would expose taxpayers to stale demands without any time limit.
+HMRC appealed to the Supreme Court.
+The issue before the Supreme Court is (in summary) whether HMRC can rely on article 221(4) to displace the normal three year time limit even though the United Kingdom has not enacted a finite alternative time limit.
+The Supreme Court unanimously allows the appeal, giving judgment in favour of HMRC.
+Lord Briggs gives the main judgment.
+Lady Arden agrees the appeal should be allowed, but for different reasons.
+Article 221(4) states that HMRC may communicate a customs debt after the expiry of the three year period in article 221(3) if the debt results from an act which was liable to give rise to criminal court proceedings.
+Its purpose is to preserve the integrity of the criminal process whilst leaving the conditions (including time limits) for communication of a customs debt to each member state.
+Therefore, the disapplication of the three year time limit is the automatic result of the likelihood of criminal court proceedings.
+It does not require the selection by a member state of a different time limit [31]; [34] [36]; [51] [52].
+The next question is whether this would allow HMRC to issue demands without any time limit, and whether this would breach the fundamental principle of legal certainty in EU law [38].
+The majority considers a number of options suggested by the parties, and by the courts below, to mitigate the risk of late demands: (1) The domestic law doctrines of abuse of process and laches do not assist because they concern the conduct of legal proceedings, not the communication of a customs debt [39]. (2) The Limitation Act 1980 cannot be invoked because this would require the Court to disapply section 37(2)(a) of that Act (which provides that the Act does not apply to customs debts) on the basis that it was inconsistent with EU law.
+There is no real inconsistency with EU law because its requirement for legal certainty is adequately met by the reasonable time principle at (3) below [40] [44]; [46]. (3) There is a strand of EU jurisprudence to the effect that, where the provisions in force appear to allow legal action without any time limit, then the principle of legal certainty requires it to be done within a reasonable time: e.g. Sanders v Commission [2004] ECR II 3315 [18]; [20] [22].
+The majority applies this approach and concludes that HMRC was obliged to issue its post clearance demands within a reasonable time [45].
+On the facts, HMRC did act within a reasonable time [48].
+Since this analysis gives a clear answer to the question how article 221(4) applies where there are no national provisions in force, it is unnecessary to make a reference to the Court of Justice of the European Union [47].
+Lady Arden adopts different reasoning for allowing the appeal.
+She holds that the effect of EU jurisprudence concerning the old Customs Code is that EU law defers to national law and therefore does not require members states to enact a definite time limit [64]; [67].
+She expresses the view that domestic public law may impose a requirement for HMRC to act within a reasonable time which may be enforced by judicial review [66] but rejects the majoritys reliance on EU decisions such as Sanders v Commission on the basis that the old Customs Code leaves the question of time limits to individual member states.
+This may be one of the reasons why article 221(4) has now been revised [67].
+Therefore, the communication of the post clearance demand in the present case was not subject to a time limit [68] [69].

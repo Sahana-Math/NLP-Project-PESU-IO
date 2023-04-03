@@ -1,0 +1,45 @@
+The central issue on this appeal is how the governing law of an arbitration agreement is to be determined when the law applicable to the contract containing it differs from the law of the seat of the arbitration, the place chosen for the arbitration in the arbitration agreement.
+On 1 February 2016, a power plant in Russia was severely damaged by fire.
+The appellant Russian company (Chubb Russia) had insured the owner of the power plant (the owner) against such damage.
+The owner had entered into a contract with another company (the head contractor), in relation to construction work to be carried out at the plant.
+In turn, the head contractor engaged the respondent (Enka), a Turkish engineering company, as a sub contractor in the construction project.
+The contract made between the head contractor and Enka included an agreement that disputes would be determined through arbitration proceedings in London.
+In May 2014, the head contractor transferred its rights and obligations under the contract to the owner.
+After the fire in February 2016, Chubb Russia paid an insurance claim by the owner and, by doing so, assumed any rights of the owner to claim compensation from third parties, including Enka, for damage caused be the fire.
+In May 2019, Chubb Russia brought a claim against Enka in Russia.
+In response, in September 2019 Enka brought an arbitration claim in the High Court in London arguing that, by proceeding in the Russian court, Chubb Russia was in breach of the arbitration agreement and seeking an anti suit injunction to restrain Chubb Russia from pursuing the Russian claim.
+At first instance, the High Court dismissed Enkas claim on the primary ground that the appropriate forum to determine to scope of the arbitration agreement was the Russian court.
+On appeal, the Court of Appeal overturned the judges decision.
+It held that, unless there has been an express choice of the law that is to govern the arbitration agreement, the general rule should be that the arbitration agreement is governed by the law of the seat, as a matter of implied choice; that there was no express choice of law in this case and that the arbitration agreement was therefore governed by English law; and that it was appropriate to grant an anti suit injunction to restrain Chubb Russia from pursuing the Russian claim.
+Chubb Russia appeals to the Supreme Court.
+By a majority the Supreme Court dismisses the appeal.
+The judgment is given by Lord Hamblen and Lord Leggatt with whom Lord Kerr agrees.
+Lord Burrows delivers a dissenting judgment, with which Lord Sales agrees.
+Lord Sales also gives his own judgment.
+Where an English court must decide which system of law governs an arbitration agreement, it should apply the English common law rules for resolving conflicts of laws rather that the provisions of the Rome I Regulation, as the latter excludes arbitration agreements from its scope [25] [28].
+According to the common law rules, the law applicable to the arbitration agreement will be: (i) the law expressly or impliedly chosen by the parties; or (ii) in the absence of such choice, the system of law most closely connected to the arbitration agreement [27].
+In determining whether the parties have made a choice of law, the court should construe the arbitration agreement and the contract containing it by applying rules of contractual interpretation of English law as the law of the forum [29] [34].
+Where the parties have not specified the law applicable to the arbitration agreement, but they have chosen the law to govern the contract containing the arbitration agreement, this choice will generally apply to the arbitration agreement [43] [52].
+This general rule encourages legal certainty, consistency and coherence while avoiding complexity and artificiality [53].
+The Court of Appeal was wrong to find that there is a strong presumption that the parties have, by implication, chosen the law of the seat of the arbitration to govern the arbitration agreement [59] [64].
+Any overlap between the law of the seat and that of the arbitration does not justify such a presumption [64] [94].
+While a choice of seat can lead to such an inference in some cases, the content of the Arbitration Act 1996, particularly section 4(5), does not support such a general inference [73] [82].
+Where there is no express choice of law to govern the contract, a choice of the seat of the arbitration does not by itself justify an inference that the contract (or the arbitration agreement) is intended to be governed by the law of the seat [110] [117].
+Where the parties have made no choice of law to govern the arbitration agreement, either specifically or by choosing the law which is to govern the contract as a whole, the court must determine the law with which the arbitration agreement is most closely connected.
+In general, the arbitration agreement will be most closely connected with the law of the seat of arbitration. [118] [119].
+This default rule is supported by the following considerations: (i) the seat is where the arbitration is to be performed (legally, if not physically) [121] [124]; (ii) this approach maintains consistency with international law and legislative policy [125] [141]; (iii) this rule is likely to uphold the reasonable expectations of contracting parties who specify a location for the arbitration without choosing the law to govern the contract [142] [143]; and (iv) this approach provides legal certainty, allowing parties to predict easily which law the court will apply in the absence of choice [144].
+The majority holds that the contract in this case contains no choice of the law that is intended to govern the contract or the arbitration agreement within it.
+In these circumstances the validity and scope of the arbitration agreement is governed by the law of the chosen seat of arbitration, as the law with which the dispute resolution clause is most closely connected [171].
+The seat of the arbitration is London.
+Therefore, the majority upholds the Court of Appeals conclusion that English law governs the arbitration agreement, albeit for different reasons [171].
+Chubb Russia does not dispute that, if the arbitration agreement is governed by English law, it was legitimate for the Court of Appeal to grant an anti suit injunction in this case. [173].
+The Supreme Court, however, affirms the Court of Appeals decision that, in principle, it makes no difference whether the arbitration agreement is governed by English or foreign law, as the inquiry in both cases remains the same: whether there been a breach of the agreement and, if so, whether it is just and convenient to grant an injunction to restrain that breach [178] [182].
+While there may be circumstances in which it would be appropriate to await a decision of a foreign court before granting an injunction, deference to foreign courts should generally give way to upholding the importance of the parties bargain [183].
+Lord Burrows and Lord Sales agree with the majority that, if the parties have expressly or impliedly chosen the law of the contract, this choice applies to the arbitration agreement [266].
+They dissent on what the default position should be in the absence of such choice.
+They consider that it should be that the law with which the main contract is most closely connected governs the arbitration agreement, as this is the law with which in their view the arbitration agreement is also most closely connected [257].
+They also dissent on whether the parties have in this case chosen the law that is to govern the contract.
+In their view, the parties impliedly chose Russian law to govern the construction contract and also,
+therefore, the arbitration agreement [228].
+They agree with the majority that whether it is appropriate to grant an anti suit injunction does not depend on what law governs the arbitration agreement but only on whether pursuing the foreign proceedings is a breach of that agreement.
+As they conclude that Russian law governs the arbitration agreement, they would remit the question of whether there has been a breach of the arbitration agreement so as to justify the grant of an anti suit injunction to the Commercial Court.

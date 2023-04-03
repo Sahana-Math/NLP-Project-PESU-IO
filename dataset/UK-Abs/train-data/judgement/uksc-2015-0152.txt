@@ -1,0 +1,284 @@
+In R v Soneji [2005] UKHL 49; [2006] AC 340, para 3 Lord Steyn feared that it might be innocent to predict that the then new Proceeds of Crime Act 2002 (POCA) had solved the problems involved in the criminal process of confiscation.
+He was considering in particular the question whether and when a breach of statutory procedural terms for the process of post conviction confiscation deprives the Court of jurisdiction to make such an order.
+The present appeal raises the same question again.
+More particularly, the present question is whether a procedural breach deprives the court of jurisdiction if it is combined with a breach of the rules contained in section 15(2) for the order in which sentence and confiscation order are to be approached.
+The principal statutory provisions in question are sections 15(2), and 14(8), (11) and (12) of POCA.
+The respondent, Lodvik Guraj, pleaded guilty on 11 June 2012 to offences involving the supply of heroin and money laundering.
+He had been caught in possession at his home of about 1.5Kg of heroin, some amphetamine and some cocaine.
+Hidden in the house and garage was equipment for processing the drugs, such as an hydraulic press and cutting agents, and also various substantial quantities of cash.
+He appeared to have been supplying drugs for some time.
+The offences were lifestyle offences for the purposes of POCA.
+On 16 July 2012 the respondent was sentenced to terms of imprisonment totalling five years and four months.
+At the same time, the judge made, apparently without any question arising as to the propriety of doing so, orders (a) forfeiting the drugs under section 27 of the Misuse of Drugs Act 1971, and (b) depriving the respondent of a car, a laptop, five mobile telephones, some scales, the press and a money counting machine, pursuant to section 143 of the Powers of Criminal Courts (Sentencing) Act 2000, on the basis that they had been used for the purposes of crime.
+Also at the same time, the judge gave directions for the progression of the confiscation aspect of the case.
+She set three dates in August, October and November 2012 for the respondent to provide some information he was required to give, and then for the service by first the Crown and then the respondent of the statements of case required by sections 16 and 17 of POCA.
+The last of the dates thus fixed was 9 November 2012.
+The judges order then directed that a half day hearing should follow, two weeks thereafter, with a date to be fixed.
+Thereafter, the timetable set by the judge for confiscation slipped badly.
+The respondent did give the information required, albeit in September rather than in August as directed.
+The CPS then lost sight of the case for a whole year and did not serve its section 16 statement.
+In October 2013, it woke up to what had happened, and contacted the respondent to admit the fact, and to invite agreement to a new timetable.
+The case was listed for 7 January 2014, but although a Crown statement was prepared in advance of this, it was not served until 15 January, and the CPS failed to get the officer in the case to court so that the hearing was abortive, save that a direction for a further Crown statement was given.
+The case was next listed on 31 March 2014, but this hearing was also abortive owing to the failure of the CPS to register the date and get the advocate instructed to be there to conduct it.
+Wasted costs orders were made against the Crown in relation to both these abortive hearings.
+In due course there was a properly attended hearing on 2 May 2014, but by now the respondents counsel had formulated the submission that the events which had occurred had the consequence that there was no longer any jurisdiction to proceed.
+The judge directed a special hearing to deal with that contention and in due course, on 7 May 2014, that took place.
+Whilst lamenting the repeated errors of the prosecution, the judge rejected the defence argument and on 9 June 2014 made a confiscation order in a sum which had been by then agreed, subject to the jurisdiction point, at 57,458.
+The Court of Appeal took the opposite view to the judge on the jurisdiction point and quashed the confiscation order.
+orders made at the time of sentencing, and to the matter of timetabling.
+Forfeiture etc
+POCA contains provisions which relate both to the forfeiture and deprivation Section 13 POCA provides (as amended), so far as material, as follows: 13.
+Effect of order on courts other powers If the court makes a confiscation order it must proceed (1) as mentioned in subsections (2) and (4) in respect of the offence or offences concerned. (2) The court must take account of the confiscation order before (a) (b) it imposes a fine on the defendant, or it makes an order falling within subsection (3). (3) These orders fall within this subsection an order involving payment by the defendant, an order under section 27 of the Misuse of Drugs an order under section 143 of the Sentencing Act (a) other than [defined exceptions] (b) Act 1971 (c 38) (forfeiture orders); (c) (deprivation orders); (d) Act 2000 (c 11) (forfeiture orders) an order under section 23 or 23A of the Terrorism (3A) (4) Subject to subsection (2), the court must leave the confiscation order out of account in deciding the appropriate sentence for the defendant.
+These provisions are directed at the inter relation between confiscation and sentence.
+They say, in effect, that confiscation has no effect on sentence except for some (but not all) aspects of the latter which are either financial or property depriving.
+By exceptions defined in section 13(3)(a) and 13(3A), various orders in the nature of compensation or restitution are excluded, as are mandatory orders for the payment of the surcharge; these are plainly given priority.
+Those apart, the reasoning plainly is that financial/property orders might be affected by removal under a confiscation order of some of the defendants assets, and so the confiscation order is to be taken into account before making them.
+There is obvious potential for a confiscation order to affect the ability of a defendant to meet a fine, and there might be some scope for it to affect the question whether it is right to make a deprivation order, since the financial impact of such an order on the defendant is, by section 143(5)(b) of the Powers of Criminal Courts (Sentencing) Act 2000, a consideration to which a court is required to have regard when deciding whether to make it.
+The same might sometimes be true of a forfeiture order under section 27 of the Misuse of Drugs Act 1971, at least when it relates to money, or to property used in the offending, rather than to any drugs recovered.
+These provisions have existed, essentially in similar form, ever since confiscation was introduced to English criminal law by the Drug Trafficking Offences Act 1986 and, for non drugs crime, by the Criminal Justice Act 1988.
+In order to understand them it is necessary to remember that, as initially conceived, the scheme was for confiscation to be dealt with before sentence.
+That is why the provisions are couched in terms of taking account of the confiscation order when determining the sentence.
+However, it was rapidly discovered that it was wholly unrealistic to expect the complex questions which frequently arise in relation to confiscation, not infrequently involving third party interests, to be ready to be determined immediately on conviction, especially after a contested trial.
+The result was that the sentencing of offenders was held up, often for a substantial time, when it is a cardinal principle of the criminal law that sentence ought to follow conviction either immediately or very shortly after, not least in the interests of defendants.
+So, with effect from the Criminal Justice Act 1993, courts were given express power to adopt what is much the more natural sequence, and to sentence first.
+That was done, however, by creating a power in the court to postpone the confiscation hearing until after sentence, initially as an exception to a general practice of dealing with confiscation first.
+Although the general practice has rapidly, and inevitably, become to sentence promptly and to deal with confiscation subsequently, the terms of some of the statutory provisions have not, in this respect, altered.
+The power to postpone has been continued into POCA, and indeed extended.
+It is no longer predicated, as initially it was, on a decision that the court needs additional information before confiscation can be dealt with, and the initial provision that confiscation must ordinarily be completed within six months has been replaced by a period of two years.
+But section 13, because it has substantially been modelled on the previous statutes, is still couched in terms which assume that confiscation will ordinarily come first.
+Timetabling: Postponement
+The power to postpone confiscation until after sentence is now in section 14 (as amended) which provides (omitting immaterial parts): 14.
+Postponement (1) The court may (a) proceed under section 6 before it sentences the defendant for the offence (or any of the offences) concerned, or (b) postpone proceedings under section 6 for a specified period. [extension of permitted period if defendant appeals his (2) A period of postponement may be extended. (3) A period of postponement (including one as extended) must not end after the permitted period ends. (4) But subsection (3) does not apply if there are exceptional circumstances. (5) The permitted period is the period of two years starting with the date of conviction. (6) conviction] (7) A postponement or extension may be made (a) on application by the defendant; (b) on application by the prosecutor; (c) by the court of its own motion.
+If (a) proceedings are postponed for a period, and (b) an application to extend the period is made before it ends, the application may be granted even after the period ends. (9) [definition of date of conviction] (10) [extended definition of appeals] (11) A confiscation order must not be quashed only on the ground that there was a defect or omission in the procedure (8) connected with the application for or the granting of a postponement. (12) But subsection (11) does not apply if before it made the confiscation order the court imposed a fine on the defendant; (a) (b) made an order falling within section 13(3); (c) made an order under section 130 of the Sentencing Act (compensation orders) (ca) made an order under section 161A of the Criminal Justice Act 2003 (orders requiring payment of surcharge); (d) made an order under section 4 of the Prevention of Social Housing Fraud Act 2013 (unlawful profit orders). 15.
+Effect of postponement (1) If the court postpones proceedings under section 6 it may proceed to sentence the defendant for the offence (or any of the offences) concerned. (2) In sentencing the defendant for the offence (or any of the offences) concerned in the postponement period the court must not (a) impose a fine on him,
+Section 15 (as also amended) then contains what are, in effect, consequential provisions which combine section 13 with the power to postpone in section 14.
+So far as material, it provides: (b) make an order falling within section 13(3), (c) make an order for the payment of compensation under section 130 of the Sentencing Act (ca) make an order for the payment of a surcharge under section 161A of the Criminal Justice Act 2003, or (d) make an unlawful profit order under section 4 of the Prevention of Social Housing Fraud Act 2013. (3) If the court sentences the defendant for the offence (or any of the offences) concerned in the postponement period, after that period ends it may vary the sentence by imposing a fine on him, (a) (b) making an order falling within section13(3), (c) making an order for the payment of compensation under section 130 of the Sentencing Act; (ca) making an order for the payment of a surcharge under section 161A of the Criminal Justice Act 2003, or (d) making an unlawful profit order under section 4 of the Prevention of Social Housing Fraud Act 2013. (4) But the court may proceed under subsection (3) only within the period of 28 days which starts with the last day of the postponement period.
+It will be seen that section 15(2) feeds on the underlying thinking of section 13(2) and (3), but extends it.
+Sections 13(2) and (3) direct the court to take account of any confiscation order before making the various financial or property orders there specified.
+But section 15(2) goes on to prohibit the court from dealing with these financial/property aspects of sentence until after the confiscation proceedings have been concluded, and by subparagraphs (b) to (d) it includes a prohibition also on making various financial orders (such as compensation) which are exempted from section 13(3).
+Curiously, a restitution order under section 148 of the Powers of Criminal Courts (Sentencing) Act 2000, although it may involve payment of money, is not included in the prohibition.
+As recorded above, section 13 derives from the days before there could be any question of sentence before confiscation.
+Section 15(2) derives from the creation of what was in 1993 a new power to deal with sentence first, and from a time when it may well have been anticipated, however unrealistically, that postponement would be relatively unusual.
+Section 15(2) is, however, in many cases counter intuitive, and creates a trap into which even the most experienced and skilled trial judges may fall.
+That is because many forfeiture orders will not be in the least controversial and are inevitable whatever the outcome of confiscation proceedings may be.
+A good example is the order in the present case forfeiting the fairly substantial quantity of drugs found on Guraj.
+But for section 15(2), it would make sense to make inevitable forfeiture orders immediately after conviction in order to avoid the risk of their being overlooked, and, equally importantly, to allow the drugs to be destroyed without delay.
+It is not obviously sensible to insist on sometimes industrial quantities of volatile substances being kept by the police for months.
+There may easily be similar practical difficulties in preserving other property which is inevitably going to be forfeited.
+Section 14(12) essentially follows section 15(2).
+Its effect is that section 14(11) does not apply if orders have been made prior to the confiscation process of the kind which section 15(2) says should not precede it.
+Because, when the natural order of process (sentence first) was restored from 1993, it was accomplished hedged about by detailed procedural provisions for postponement of confiscation, there ensued many instances of technical failures to observe the procedures being relied upon for the contention that the ensuing confiscation proceedings were invalid and no order could be made.
+Similar complaints of procedural errors unconnected with postponement were likewise frequently relied upon as invalidating confiscation orders.
+On a number of occasions the courts felt obliged to accept these arguments and several confiscation orders were quashed as a result, although it could not be suggested that the defendant had suffered any unfairness or that the confiscation order was other than correct if there was power to make it.
+Examples included R v Ross [2001] 2 Cr App R (S) 109 and the striking case of R v Palmer [2002] EWCA Crim 2202; [2003] 1 Cr App R (S) 112 at 572, where the order quashed exceeded 32m.
+Other courts took a different view of the legal consequences of failure to get the procedure right.
+In due course the resulting uncertainty was addressed both by Parliament in renewing the confiscation legislation in POCA and by the House of Lords in R v Soneji [2005] UKHL 49; [2006] 1 AC 340 and R v Knights [2005] UKHL 50; [2006] 1 AC 368.
+It is relevant to note that the first preceded the second in time.
+The legislative response was the insertion into POCA of subsections 14(11) and (12).
+The manifest purpose of section 14(11) is to remove any supposed rule that a procedural failure connected with postponement invalidates the confiscation procedure and prevents an order being made.
+Such a failure cannot thereafter be the sole ground for quashing a confiscation order.
+The subsection is addressed to the Court of Appeal, rather than to the court of trial and sentence, but it is a plain consequence of its provisions that a Crown Court is not disabled from making a confiscation order only on the ground that there was a defect or omission in the procedure connected with the application for or the granting of a postponement.
+Subsection (11) comes, however, with the qualification of subsection (12).
+The present case is agreed to be one to which subsection (12) applies, because the judge had inadvertently infringed section 15(2) by making the forfeiture and deprivation orders before confiscation had been considered.
+The issue in the present case is therefore this: what is the legal position when subsection (12) takes subsection (11) out of the picture?
+In Soneji and Knights the House of Lords considered the legal consequences of procedural error in the absence of both subsections 14(11) and (12) because neither was present in the (amended) Criminal Justice Act 1988 which governed the cases then before the House.
+In Soneji confiscation orders had been made more than 18 months after the defendants had been sentenced to imprisonment for money laundering.
+The statute then in force provided that postponement could not be for more than six months in total unless there were exceptional circumstances; although the postponement had been made in good faith, the question whether there were exceptional circumstances had not been addressed.
+In Knights, the confiscation hearing had been postponed initially without setting a precise date and in terms which would place it more than six months after the conviction of one of the defendants.
+The House held that statutory provisions ought no longer to be classified as either mandatory or directory, but rather that attention should focus on what Parliament intended to be the consequences of failure to comply with them.
+It drew attention to the fact that the court comes under a duty under the confiscation legislation to make the order if the Crown seeks it, and indeed even if it does not, if the court determines that there should be such an order.
+It followed that the question was whether that duty was removed by the failure to observe the procedural requirements.
+The House held that the plain purpose of the postponement provisions was to ensure the overall effectiveness of the sentencing process, and to enable sentence to take place promptly, at least where no financial sentence was in prospect.
+Accordingly it held that it was not the consequence of failure to comply with the statutory procedural provisions that a confiscation order could not be made, at least where there was no injustice to the defendant in making it.
+Thus both Parliament and the House of Lords as a court recognised that it would defeat the purpose of the confiscation legislation if orders were treated as bad simply because there had been a failure to comply with the procedural provisions laid down for postponement.
+Parliament accordingly altered the law, prospectively, by inserting section 14(11) into POCA.
+For its part, the House of Lords construed the existing earlier statute which had no such provision, and which provided stricter procedural requirements than POCA now does, and held that it cannot have been intended that invalidity should be the consequence of procedural breach.
+It follows from the decisions in Soneji and Knights that irrespective of section 14(11) the correct approach to the legal consequences of failure to observe procedural provisions is to ask whether Parliament must have intended invalidity of any confiscation order to follow, bearing in mind the underlying duty on the court to make such an order.
+There can be no question of sections 14(11) and (12) being designed to be a Parliamentary response to Soneji and Knights and to curtail the breadth of those decisions; these sections had been enacted before the House came to consider those two cases.
+Whether those sections do nevertheless curtail the breadth of the decisions in Soneji and Knights is central to the question in the present case.
+The two responses, by Parliament and the court, both address the problem of procedural error and its effect on the validity of a post conviction confiscation order.
+But it should be noted that the two responses are not identical.
+Sections 14(11) and (12) are confined to the case of procedural error connected with the application for or the granting of a postponement.
+They have no application to any other kind of procedural error.
+Thus confined, section 14(11), where it applies, is peremptory: an order must not be quashed only on grounds of such error.
+The decisions in Soneji and Knights are, first of all, not peremptory.
+They leave to the court the determination of when a procedural defect must have been intended to affect validity.
+But the decisions are also of broader ambit than sections 14(11) and (12).
+Although the facts of both cases did concern postponements, the reasoning is not confined to that kind of procedural defect.
+It proceeds on analysis of the effect of statutory conditions for the exercise of a power generally.
+The procedural provisions of POCA are legion and certainly not confined to postponements of the hearing.
+Others which might be invoked in aid of an argument that a post conviction confiscation order was invalid might, for example, include the detailed rules for affording time for payment (section 11 passim), the rules for making compliance orders (section 13A as inserted by section 7 of the Serious Crime Act 2015), a failure to make a section 13(6) order for payment out of the confiscation order of a priority order (which includes the mandatory surcharge order) or the provisions of sections 16 for the furnishing of statements of information by the Crown; those are by no means exhaustive instances.
+Sections 14(11) and (12) would have no application to this sort of argument, but there is no reason to suppose that the reasoning of Soneji and Knights would not apply.
+This case
+The contention of the respondent is that there have been in this case two respects in which the statutory provisions have not been complied with.
+The first was the making of the forfeiture and deprivation orders, in contravention of section 15(2).
+The second was the failure on the part of the Crown to make an application for an extension of the postponement before it expired, as is required by section 14(8); the original postponement ordered by the judge in July 2012 had expired by the end of November 2012, and nothing then happened for a year.
+Says the respondent, the effect of the first error is that section 14(12) takes section 14(11) out of the picture, and the result is that the second error is fatal to the courts jurisdiction.
+It is expressly accepted that the respondent can point to no injury, unfairness or injustice to which he has been exposed by the making of the order after the timetable recorded above.
+If, however, the jurisdiction to make the order has gone, that does not matter.
+The judge applied the Soneji approach.
+He directed himself that the failure of the Crown to apply before December 2012 for a further postponement was a procedural error, and a serious one, but one which was capable of remedy within the two year period, and had indeed been remedied.
+He approached the respondents submission as in effect an application to stay the confiscation proceedings and thus asked himself whether any injustice had been sustained by the defendant.
+He held that Parliament could not have intended that any failure to apply for an extension of postponement, even by, for example, making the application two days late, would lead inevitably to the confiscation proceedings becoming invalid.
+Delay and incompetence could, he held, be met fairly by a stay if the consequence of them was unfairness.
+There being no suggested prejudice or unfairness, he proceeded to make the order.
+The Court of Appeal reached the opposite conclusion.
+It accepted that there was a clear Parliamentary intention that confiscation proceedings should not be invalidated by technical errors, but held that there was also a clear intention that those proceedings should move on expeditiously, hence the timetabling provisions of section 14.
+It held that section 14(8) was infringed by the failure to apply for an extension before the initial period of postponement expired.
+At that point, at para 54, it held, the prosecution needs the balm of section 14(11) in order to retrieve its position.
+But that balm was unavailable, because of section 14(12).
+It expressed the result of the interlocking statutory provisions, and particularly of sections 15(2) and 14(12) as follows: 55.
+It is of course right that we must strive to give effect to the objects of POCA and the intention of Parliament, as the House of Lords stated in both Knights [2006] 1 AC 368 and R v Soneji [2006] 1 AC 340.
+The difficulty for the prosecution, however, is that part of Parliaments intention is now expressed in section 14(12) of POCA.
+That is a mandatory prohibition which, as the Lord Judge CJ stated in R v Neish [2010] 1 WLR 2395, cannot be ignored.
+Forfeiture orders should not be made when confiscation proceedings are under way.
+If forfeiture orders are made in such circumstances, then the prosecution will be held more strictly to the time limits contained in section 14.
+The outcome of the appeal was stated thus: we conclude that the combination of delays and breaches by the prosecution was such as to deprive the court of the power to make a confiscation order. (para 57)
+This approach, centred on a crucial role for section 14(12) as disapplying section 14(11), must be seen against the background that section 14(12) is triggered by any forfeiture or other order specified in section 15(2), whether or not such order could conceivably be affected by a confiscation order.
+So, for example, section 14(12) is triggered by an order for the forfeiture of drugs recovered, as in the present case, and would also be triggered by a deprivation order relating to a trivial item of property in the hands of a defendant who had ample assets with which to meet a confiscation order.
+Is this approach compelled by the statute?
+The Court of Appeals reasoning involves reading section 14(12) as not simply disapplying section 14(11), which plainly it does, but also as restoring those of the pre Soneji cases which regarded procedural errors as going to jurisdiction to make a confiscation order.
+It involves understanding section 14(12) as not simply removing the balm of section 14(11), so as to remove the peremptory bar on quashing only for postponement procedural error, but as prescribing that an order will, in its absence, be invalidated for such an error.
+That, however, is not a necessary reading of section 14(12) and it is to give insufficient weight to the quite separate analysis contained in Soneji and Knights.
+That latter analysis holds as good now as it did at the time of the House of Lords decisions.
+The court remains under a duty to make a confiscation order, and the question remains whether that duty is removed by procedural error which causes no injustice or unfairness to the defendant.
+The purpose of the postponement provisions of POCA is, just as the purpose of their predecessors in the Criminal Justice Act 1988 was, to make the sentencing process effective.
+If anything, the recognition that confiscation will frequently, and in reality generally, follow sentence, is clearer in POCA than it was in the predecessor legislation.
+The need to found postponement on the absence of necessary information has gone, and the permitted period for postponement has been increased fourfold.
+It should be noted that the judge and the Court of Appeal both dealt with the case on the agreed basis that the original postponement order had expired by December 2012 and that there was a breach of section 14(8) in the failure of the Crown to seek a further extension before that time.
+In this court, Mr Hall QC for the Crown offered an alternative analysis, namely that the original (valid) postponement order ran until two weeks after the service of both parties statements of information, and therefore survived until the Crowns was served in late 2013.
+On the correct view of the law, it is not necessary to resolve this issue.
+Subject, however, to any further argument and evidence of accepted practice, the better view would appear to be that the original postponement was valid, being for a specified period until December, but would not have been valid (because not for a specified period) if it had been open ended and dependent on the uncertain event of service of a partys statement of information.
+Whatever the correct technical view, it may be sensible for a court which needs to give directions such as those given initially in the present case to postpone confiscation to a fixed date somewhat beyond the hoped for date, or earlier by liaison with the parties.
+In any event it is clear that the listing officer needs to keep the situation under review see para 37 below.
+The Court of Appeals reasoning treated the breach of section 14(8) as the critical matter which, once section 14(11) was removed from consideration by the inadvertent making of the forfeiture orders, led in its view to the loss of jurisdiction to make a confiscation order.
+But although section 14(8) certainly contemplates that an application by a party for a further postponement will be made before the expiry of a previous postponement, it is difficult to see a failure to meet this requirement as going to so fundamental a matter as jurisdiction.
+If it did, it would indeed mean, as the judge held, that an extension application which is a day late would be fatal, and even if there were an acceptable excuse for it, and maybe even if it were made by the defendant or had been consented to by him.
+There is simply no reason at all why this should be so.
+It is also to be observed that a postponement or extension may, under section 14(7), be made not only on an application by a party, but also by the court of its own motion.
+Given the courts statutory duty under section 6 to make a confiscation order, it would plainly not be improper for the court to order an extension without any application from a party, if satisfied that no injustice or unfairness would thereby be occasioned.
+If it did so, section 14(8) would appear to have no application.
+In arriving at its conclusion the Court of Appeal described section 14(12) as containing a mandatory prohibition.
+That was understandably based on an obiter passage in the judgment of Lord Judge CJ in R v Neish [2010] EWCA Crim 1011; [2010] 1 WLR 2395.
+The initial postponements of confiscation in that case had been to a fixed date about five months after sentence.
+There was plainly nothing wrong with that.
+Before that date arrived, the judge learned that, unexpectedly, he was double booked in court that day.
+He immediately instructed the listing officer to vacate that date and to re list on a date convenient to both parties.
+The listing officer did so and, before the originally fixed date was reached, had re listed the case about three weeks later.
+The point taken on behalf of the defendant was that this process involved no judicial decision to postpone for a specific period, because the judge had left it to the listing officer to find a convenient date.
+The judge had felt obliged to accept this point, but the Court of Appeal rightly held that there was nothing at all in it.
+The revised date was still only six months after sentence.
+It had been fixed on judicial direction.
+The judge acted via the listing officer, exercising the judicial function of listing, and through him adjourned the hearing to the revised fixed date.
+There had been a perfectly legitimate postponement.
+The court added an analysis based upon Soneji and Knights, correctly pointing out that those cases, and in particular the latter, decided that an adjournment may be a valid postponement for a specific period without fixing a date, so long as it was not simply an adjournment generally.
+The court then offered this summary: 18.
+In short, the conclusion to which the reasoning in the House of Lords in R v Soneji [2006] 1 AC 340 and R v Knights [2006] 1 AC 368 drives us is the comforting one that unless the continuation of confiscation proceedings would contravene an unequivocal statutory provision, there is no reason why technical errors which cause no prejudice to the defendant should prevent their continuation.
+The position is exemplified by section 14(11) and section 14(12) of the 2002 Act.
+Section 14(11) states in express language that a confiscation order must not be quashed only on the ground that there was a defect or omission in the procedure connected with the application for or the granting of a postponement.
+That language is clear, but by section 14(12) it is not to apply if, before the confiscation order was made, the court had already, for example, imposed a fine on the defendant.
+That is an express statutory prohibition which it is not open to the court to ignore.
+However what happened here did not contravene any statutory provision.
+Since the court had found, correctly, that there had been a valid postponement to a fixed date, Neish was a case in which there was no procedural error at all.
+Neither Soneji nor section 14(11) were engaged.
+The observations set out above were obiter, albeit an entirely understandable reinforcement of the inevitability of the decision that the court could and should continue in that case to deal with confiscation.
+The court was plainly not attempting to provide a comprehensive statement of the law.
+The expressions unequivocal statutory provision and express statutory prohibition do not derive directly from the speeches in Soneji; indeed in that case the complaint had been that the postponement did contravene an express statutory provision which prevented adjournment beyond six months unless in exceptional circumstances.
+It is possible that in the penultimate sentence of the passage quoted above the expression used in the first was repeated, and that prohibition is a transcription error for provision.
+However that may be, section 14(11) does contain a prohibition: it says that the court must not quash a confiscation order only on the grounds of procedural defect or omission connected with postponement.
+Section 14(12) is less obviously to be described as a prohibition.
+It is certainly an express provision, and it disapplies section 14(11).
+It certainly cannot be ignored.
+But to say that it disapplies section 14(11) is the beginning of the exercise, not the end.
+The judgment of the Court of Appeal in the present case also considered the earlier case of R v Donohoe [2006] EWCA Crim 2200; [2007] 1 Cr App R (S) 88 at 548.
+There, the postponements were not criticised, but they had followed sentencing in which the judge had fallen into precisely the same trap as did the judge in the present case: he had made a forfeiture order.
+It was only of the drugs seized.
+It could not conceivably have been resisted, and it is difficult to see how its making could have been affected by the confiscation process.
+But to make it was, there as here, a breach of section 15(2).
+The decision of the Court of Appeal (Criminal Division) (Sir Igor Judge P, Gray and McCombe JJ) was that that breach did not render the confiscation order invalid.
+The court said this, of sections 14(11) and (12): 15.
+There is nothing in the remaining provisions of the Act which say that if the court makes an order in contravention of section 15(2), it may no longer proceed to hear the application for a confiscation order under section 6.
+What the Act does say in sections 14(11) and (12) is that a confiscation order must not be quashed on the grounds that the procedural defect or error, except if that error was the imposition of a fine, compensation order, forfeiture order or the like within section 13(3).
+When the Act speaks of quashing of an order it seems to propose an order has been made and an application is made to quash it, presumably on an appeal.
+On their face, therefore, these two subsections appear to provide that an appellate court may quash a confiscation order even on procedural grounds if, for example, an order for forfeiture has been made under section 27 of the 1971 Act, before the making of the confiscation order.
+The subsections do not say directly that the court at first instance cannot make a confiscation order in such circumstances.
+Are they however saying so indirectly? 16.
+It seems to us that these two subsections are allowing the appellate court, if it sees fit, to quash a compensation [sic: but McCombe J must have said confiscation] order on procedural grounds where, for example, there is a danger of double counting or double penalty because the court had made an earlier order of an expropriating nature against a defendant and it should not have done so.
+The subsections are not imposing a prohibition on the trial court from proceeding with the confiscation proceedings which it has validly postponed 17.
+We do not consider therefore that either section 15(2), or sections 14(11) and (12) had the effect of depriving the court of jurisdiction to make a confiscation order when there had been a failure to observe the prohibition in section 13(2).
+None of these provisions state this to be the consequence.
+It would, in our view, be frustrating the object of the 2002 Act to hold that the erroneous imposition of a trivial fine or, for example, the forfeiture of drug dealing paraphernalia rendered the court powerless to proceed with the substantive confiscation proceedings.
+A technically erroneous order for forfeiture of illegal drugs is, in our view, an a fortiori case.
+Such an approach is, we consider, consistent with that of the House of Lords in the recent case of Soneji [2005] UKHL 49; [2006] 1 Cr App R (S) 79 (p 430)
+The reasoning there set out, which was ex tempore, appears, with respect, to have overlooked the fact that in a case where the postponements were not criticised, sections 14(11) and (12) had no application.
+But on the direct question whether section 15(2) mandated invalidity, the application of the principle of Soneji to a non postponement procedural error was plainly correct.
+The court went on to consider ways in which any injustice or unfairness to a defendant arising from making a confiscation order after a premature forfeiture order might be corrected.
+That was the right approach.
+A similar result ensued in R v Paivarinta Taylor [2010] EWCA Crim 28; [2010] 2 Cr App R (S) 64, para 42, where a confiscation order was held not automatically to be invalidated by the fact that the court had imposed a fine in advance of the confiscation proceedings, contrary to section 72A(9) of the then applicable Criminal Justice Act 1988.
+Whatever the position might have been if the confiscation order could conceivably have impacted on the fine, in that case it could not have done so.
+True it is, as the Court of Appeal said in the present case, that Donohoe (and Pairvarinta Taylor) differ from this case because there was no postponement error suggested.
+But Donohoe was cited to the court in Neish and the latter judgment did not question it in any way.
+That is a further reason why it is not possible to read into the obiter passage cited above from Neish any implied suggestion that once an express statutory provision outside section 14(11) is contravened, invalidity must follow.
+The decision in the Court of Appeal in the present case raises the question when a postponement or other procedural error will have the effect of invalidating confiscation proceedings in the absence of the availability of section 14(11).
+As already demonstrated, for non postponement errors, section 14(11) is irrelevant.
+In the case of a postponement error, such as the infringement of section 14(8) in the present case, the Court of Appeal decision is that invalidity necessarily follows from any breach, however venial, if section 14(11) is unavailable, because jurisdiction to make an order is lost.
+For the respondent in this court, Mr Farrell QC realistically shrank from so absolutist a proposition.
+He concentrated his fire upon the fact that the Act has among its plain objectives the prompt despatch of confiscation proceedings, and on the tendency for them to drift unless firmly controlled.
+He submitted that if the Crowns argument were to succeed, there would be nothing to prevent confiscation proceedings being resurrected after a much longer period of inactivity than the year which disfigured the present case, and that section 14(12) would then have no effect at all.
+He submitted that the purpose of section 14(12) was to permit the invalidation of an order where there has been both a breach of section 15(2) by making the forfeiture order and a flagrant procedural error (the emphasis is ours).
+In such a case, he contended, the court has no jurisdiction to make the order.
+He submitted that it is necessarily a matter of degree when the breach is sufficiently flagrant for this conclusion to follow, and that there ought to be a factual enquiry in each case into what has occurred.
+But once that is the argument, it must follow that a procedural error does not go to jurisdiction.
+What, then, is the answer to the question: If section 14(11) is unavailable, when does a procedural error prevent the making of a confiscation order, or invalidate such an order if it is made? Consistently with Soneji and with the dominant purpose of POCA that confiscation is the duty of the court, to which a significant priority is to be given, the answer is not that every procedural defect does so.
+The correct analysis is not that a procedural defect deprives the court of jurisdiction, which would indeed mean that every defect had the same consequence.
+Rather, it is that a failure to honour the procedure set down by the statute raises the very real possibility that it will be unfair to make an order, although the jurisdiction to do so remains, and that unless the court is satisfied that no substantial unfairness will ensue, an order ought not to be made.
+This is not to deprive section 14(12) of effect; it remains effective to remove the peremptory bar of section 14(11) upon quashing confiscation orders on grounds only of procedural defect connected with postponement.
+Where section 14(11) applies, no such defect can alone justify quashing.
+Resulting unfairness, on the other hand, may, but such unfairness cannot be inferred merely from the procedural breach.
+Where section 14(11) does not apply, a procedural defect, not limited to postponement, will have the effect of making it wrong to make a confiscation order if unfairness to the defendant would thereby ensue.
+If, however, the defect gives rise to no unfairness, or to none that cannot be cured, there can be no obstacle to the making of the order, and this is what the duty of the court under POCA requires.
+The present case is one where no unfairness can be or is suggested; cure does not arise.
+If it were to arise, in another case, it is possible that there might be ways in which a potential unfairness could be cured.
+They might include, for example, determining in accordance with R v Waya [2012] UKSC 51; [2013] 1 AC 294, that the confiscation order must be adjusted to achieve proportionality.
+In a few instances, it might be possible to vary an inadvertently imposed sentence within the 56 days permitted by section 155 of the Powers of Criminal Courts (Sentencing) Act 2000.
+In others, the correct outcome may be that it is the forfeiture order which ought to be quashed, by way of appeal, rather than the confiscation order; priority for the latter is after all built into POCA.
+Each case, however, must depend on its own facts.
+In the event of a very long period of inactivity, the correct inference may well be that unfairness to the accused has ensued; his own affairs and, importantly, those of others may have been on hold, or may even have been conducted on the basis that the threat of confiscation had gone away, to the extent that to resume the process is unfair.
+The statutes intention is clearly that although confiscation may follow sentence, it is to be dealt with promptly.
+The duty to remove assets falling within the proceeds of crime legislation is clearly a legislative priority.
+The present case does not involve any exceeding of the statutory permitted period of two years, for which see sections 14(3) (5).
+The order was eventually made well within that time.
+There are inconsistent expressions of view in decisions of the Court of Appeal on the effect of exceeding the permitted period.
+In R v Iqbal [2010] EWCA Crim 376; [2010] 1 WLR 1985 the court held that the effect of section 14(8), read with section 14(3), is that unless an application for an extension is made before the expiry of the two year period, no further postponement is possible and no order can be made.
+But that decision, whilst it referred to Soneji, did not explain why the rule should be different when the permitted period (six months previously and now two years) is exceeded after an application has been made but there has been no consideration (as is required) of the existence of exceptional circumstances, as happened in Soneji.
+It is moreover inconsistent with R v T [2010] EWCA Crim 2703, where there were undoubtedly exceptional circumstances (the defendant several times failed to appear, at one stage having absconded abroad) but no application had been made within the two years for extension of time; the court there held that there was no obstacle to the confiscation process continuing.
+A similar decision was reached in R v Johal [2013] EWCA Crim 647; [2014] 1 WLR 146.
+There, the court had, of its own motion, adjourned anticipated confiscation proceedings on the day before the two year period expired, but had neither considered exceptional circumstances nor set any kind of period, whether by way of fixed date or otherwise.
+The court made the assumption in favour of the defendant that section 14(11) did not apply where the order of adjournment was not a proper postponement because of failure to specify any period, but nevertheless held that the Crown Court Recorder had been entitled subsequently to decide that there were exceptional circumstances, and that in consequence the confiscation order was valid.
+Since the two year period is not in question in this case, it is unnecessary to say more than that it must be especially likely that unfairness will ensue if it is exceeded without there being exceptional circumstances.
+Conclusion
+It follows that the judge applied the correct test.
+In this case it is not suggested that any unfairness at all has befallen the defendant in consequence of the irregularities which occurred.
+There was no obstacle to the making of the confiscation order, and it ought to have been made.
+The Crowns appeal must be allowed and the order restored.
+Two further matters
+Enough has been said to show that Lord Steyns prediction in Soneji (see para 1 above) was sadly entirely accurate.
+The Law Commission has expressed interest in reviewing the confiscation legislation.
+It may be that amongst the topics which would merit review are (1) the best way of providing realistically for the sequencing of sentencing and confiscation and (2) the status of procedural requirements in the Act.
+We re emphasise the message given at para 13 by this court in R v T [2010] EWCA Crim 2703.
+The fact that the courts will not wish to see the intention of Parliament defeated by technical points taken to stave off meritorious confiscation orders, does not mean that the obligations under the Act can be taken lightly.
+It is essential that listing officers, acting as they do on behalf of judges and discharging a judicial function delegated to them for day to day administration, pay close regard to the procedural steps laid down in section 14.
+Listing officers should be aware of the necessity to adhere to the two year limit.
+They should be alive to the risk that the parties may not alert them to such a problem.
+They should be aware of the requirement to consider whether there are exceptional circumstances before a postponement beyond two years is granted.
+They should be aware of the obligation not to postpone generally but to specify a date when there is to be a postponement.
+It would be wise for listing officers to consult the resident judge when any such problem is likely to arise.
+It would also be wise to keep a record of what was taken into consideration at the time, and in particular whether any exceptional circumstances arose which justified postponement.
+The Act must, however, be obeyed as it stands.
+Confiscation proceedings are particularly susceptible to drift.
+They must not be allowed to suffer it.
+They need not always be complicated, and efforts should be made by the Crown, as well as the courts, to simplify them.
+It will often be in the interests of defendants to delay.
+In overstretched police and CPS offices it may often be tempting to give priority to something other than confiscation.
+Courts have got to be alive to these realities.
+It may help to echo the useful practical guidance offered by Irwin J, giving the judgment of the Court of Appeal (Criminal Division) in Johal:

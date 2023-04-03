@@ -1,0 +1,36 @@
+These appeals raise questions about the availability of cross border relief and the method of quantifying such relief.
+For the purposes of corporation tax, Marks and Spencer plc (M&S) claim group relief in respect of losses sustained by two of their subsidiaries: Marks and Spencer (Deutschland) GmbH (MSD), which was resident in Germany, and Marks & Spencer (Belgium) NV (MSB), which was resident in Belgium.
+M&S began to expand its business into other countries in 1975.
+By the end of the 1990s it had sales outlets in more than 34 countries, with a network of subsidiaries and franchises.
+But by that date it had already begun to incur losses, and in March 2001 decided to withdraw from its continental European activity.
+It was able to sell its French and Spanish subsidiaries to third parties, but no purchasers were found for MSD or MSB.
+MSD ceased trading in August 2001 and was dissolved following liquidation on 14 December 2007.
+MSB ceased trading on 22 December 2001 and was dissolved following liquidation on 27 December 2007.
+The claims were originally made and refused by HMRC over ten years ago.
+M&Ss basic contention underlying all these claims was that the provisions in UK legislation were contrary to Article 43 EC (now Article 49 TFEU) on the freedom of establishment and were therefore unlawful.
+The ECJ gave a preliminary ruling holding that Article 43 EC did not preclude provisions of a member state which prevented a resident parent company from claiming group relief for losses incurred by a subsidiary established in another member state.
+This case was last before the Supreme Court on 22 May 2013 when Lord Hope gave judgment on the first of five issues.
+The Court held that that the correct date to identify the circumstances in which it would be unlawful to preclude cross border relief for losses (the no possibilities test) was the date of the claim, not the end of the accounting period.
+As a consequence, one of the issues (issue 3) did not need to be answered.
+That left three issues: Issue 2: Can sequential/cumulative claims be made by M&S for the same losses in respect of the same accounting period? Issue 4: Does the principle of effectiveness require M&S to be allowed to make fresh pay and file claims now that the ECJ has identified the circumstances in which losses may be transferred cross border, when at the time M&S made those claims, there was no means of foreseeing the test established by the court? Issue 5: What is the correct method of calculating the losses available to be transferred?
+The courts below did not analyse the issues in quite that order, but they held, in essence, that the answer to issue two was yes: M&S were in principle entitled to make sequential/consequential claims in respect of the same accounting period.
+As to issue 4, part of which was treated as part of issue 2, they held that both the principle of effectiveness and the principle of certainty did allow M&S to make fresh pay and file claims provided that they were not time barred.
+However they held that such claims were time barred.
+As to issue 5, they preferred the method of calculation advanced by M&S to that of the HMRC.
+M&S appealed to this court on the time bar point, whereas the HMRC appealed on the issues on which they had lost.
+The Supreme Court unanimously dismisses all the appeals.
+Lord Clarke gives the lead judgment, with which Lord Neuberger, Lord Mance, Lord Reed and Lord Carnwath agree.
+As a matter of domestic law, there is no support in the provisions in Part VIII of Schedule 18 to the Finance Act to support the conclusion that only one claim can be made.
+On the contrary, the provisions contemplate that successive claims can be made [24].
+As a matter of construction of the relevant provisions, without any manipulation made necessary by the fact that the draftsman did not have cross border relief in mind, there is no support for the conclusion that only one claim can be made [27].
+The legislation must also be construed so as to ensure that European Community law rights are effective in the sense that they are not practically impossible or excessively difficult to exercise and so as to ensure that the statutory code provides an effective remedy [28].
+The taxpayer is entitled to advance claims for cross border relief provided that it is in time to do so [36].
+The principle of effectiveness is concerned with giving effect to European Community rights.
+It is concerned with ensuring that such rights as a person has under Community law are recognised and given effect to in a member state which has not properly reflected such rights in its own domestic law.
+It was no part of that principle that a person should be given the opportunity to bring about a new state of affairs giving rise to the existence of new rights which he does not already have, in order to enforce them under Community law when they would be unenforceable under domestic law [45].
+The relevant jurisprudence establishes that a member state may impose a reasonable time limit in the interests of legal certainty [46].
+The relevant pay and file claims are now time barred [48].
+The correct method for calculating the losses available to be surrendered is the one contended for by M&S [49].
+It begins by applying the local rules to determine whether there is a loss in a particular period and, if so, the amount of the loss that remained unutilised.
+The unutilised loss calculated by reference to the local rules is then converted to UK principles [50].
+It does not give the parent company greater relief than would have been available had its subsidiary been resident in the same state as the parent, whether in Germany or in the UK [52].

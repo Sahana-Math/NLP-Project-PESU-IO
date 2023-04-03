@@ -1,0 +1,63 @@
+The Children and Young People (Scotland) Act 2014 (the 2014 Act) makes provision for a named person service (the NPS) in relation to children and young people (C&YP) in Scotland.
+The NPS establishes the new professional role of the named person, and envisages that all C&YP in Scotland will be assigned a named person.
+The NPS aims to achieve two policy aims: first, a shift away from intervention by public authorities after a risk to welfare has been identified, to an emphasis on early intervention to promote wellbeing.
+Secondly, moving from a legal structure under which the duties of statutory bodies to cooperate were linked to the performance of their individual functions, to one which ensures that they work collaboratively and share information in order to support wellbeing.
+The 2014 Act is supplemented by revised statutory guidance (the Guidance), which is still in draft.
+Part 4 of the 2014 Act (Part 4) provides that named persons will exercise certain functions in relation to C&YP.
+These include: (a) advising, informing or supporting them or their parents; (b) helping them or their parents access a service or support; and (c) discussing or raising a matter about them with a service provider (e.g. health boards and local authorities) or relevant authority (e.g. the NHS and Scottish Police Authority).
+The authority responsible for the provision of the NPS (the NPS Provider) changes depending on the age and circumstances of the child or young person.
+Part 4 also sets out powers and duties relating to information sharing, including (in s.23) conditions for when information must be shared following a change in NPS Provider, and (in s.26) conditions for when information must be shared between service providers or relevant authorities, and the NPS Provider.
+Section 26(8) includes an additional power of disclosure where the NPS Provider holds information and it considers that providing it to a service provider or relevant authority is necessary or expedient (s.26(9)) for the purpose of the exercise of any of the named person functions.
+The powers and duties of disclosure under ss.23 and 26 cannot, however, be exercised where the information would be provided in breach of a prohibition or restriction under an enactment.
+The appellants are four registered charities with an interest in family matters, and three individual parents.
+They challenged Part 4 by way of judicial review on the basis that it is outside the legislative competence of the Scottish Parliament under the Scotland Act 1998 (the Scotland Act) because: (a) it relates to matters which are reserved under the Scotland Act to the UK Parliament (the Reserved Matters Challenge); (b) it is incompatible with rights under the European Convention on Human Rights (the ECHR Challenge); and/or (c) it is incompatible with EU law (the EU Law Challenge).
+The appellants challenges were dismissed in both the Outer House and the Inner House of the Court of Session.
+They now appeal to the Supreme Court.
+The Supreme Court unanimously allows the appeal on the basis of the ECHR Challenge and the EU Law Challenge (to the extent it mirrors the ECHR Challenge).
+The Court invites written submissions
+as to the terms of its order under s.102 of the Scotland Act in order to give the Scottish Parliament and Scottish Ministers an opportunity to address the matters raised in the judgment.
+In the meantime, since the defective provisions of Part 4 of the 2014 Act are not within the legislative competence of the Scottish Parliament, they cannot be brought into force.
+Lady Hale, Lord Reed and Lord Hodge (with whom Lord Wilson and Lord Hughes agree) give the joint leading judgment.
+The Reserved Matters Challenge Part 4 is challenged on the ground that the data sharing provisions relate to the reserved matter of the Data Protection Act 1998 (the DPA) and Council Directive 95/46/EC (the Directive).
+Whether a provision relates to a reserved matter under the Scotland Act is determined by reference to its purpose [27 33].
+The subject matter of the Directive (and therefore the DPA, which implemented the Directive in the UK) is the standards of protection which must be afforded to data and the methods by which those standards are secured [34 39].
+The DPA imposes obligations on data controllers in relation to data processing, and creates rights for data subjects and a system for the regulation of data controllers.
+Section 35 of the DPA allows scope for derogation from certain of its requirements by legislation, which may include devolved legislation [44].
+The bodies described in Part 4 as service providers and relevant authorities are currently subject to legal duties in relation to the disclosure of information as data controllers under the DPA [45 47].
+The result of these duties is that information about C&YP can currently be disclosed, without their consent, if the disclosure is necessary in order to protect their vital interests, or if the disclosure is necessary for the exercise of a statutory function.
+These thresholds are higher than those under Part 4 which (respectively) refer to disclosure being likely to benefit wellbeing, and being likely to be relevant to the exercise of statutory functions.
+Data controllers are also obliged to comply with other data protection principles under the DPA [48].
+Further protections are included in relation to sensitive data (e.g. health and sexual life) under Schedule 3 to the DPA [49 50].
+The effect of Part 4 on the requirements of the DPA is extremely complex and was not fully discussed at the hearing.
+Sections 23 and 26 of Part 4 do not permit disclosure of information in breach of a prohibition or restriction on its disclosure arising by virtue of an enactment.
+At first sight, that means that disclosure under Part 4 is subject to compliance with the requirements of the DPA, since the DPA is an enactment.
+However, under sections 27 and 35 of the DPA, personal data are exempt from some of the requirements of the DPA where the disclosure is required by or under any enactment.
+An Act of the Scottish Parliament is an enactment for this purpose.
+The result is a logical puzzle [51 54].
+It is, however, clear that the powers and duties of disclosure under Part 4 cannot be taken at face value; in several respects, they are significantly curtailed by the DPA and the Directive [55 58].
+However, although Part 4 contains powers and duties the objective of which is to ensure that information is shared, that objective is not distinct from the overall purpose of promoting the wellbeing of C&YP [64].
+Part 4 also does not detract from the regime established by the DPA and the Directive [65].
+Part 4 does not therefore relate to the subject matter of the DPA and the Directive for the purposes of the Scotland Act, and the Reserved Matters Challenge cannot succeed [66].
+The ECHR Challenge The appellants claim that the NPS breaches Article 8 ECHR rights.
+This is both (a) on the broad basis that compulsory appointment of a named person without parental consent amounts to a breach of the parents Article 8 rights, and (b) on the narrow basis that the information sharing provisions under Part 4 amount to breaches of parents and C&YPs Article 8 rights [67 68].
+The Community Law Advice Network, as intervener, also challenged the information sharing provisions on the basis that they impose too low a threshold for the disclosure of confidential information and amount to an infringement of the Article 8 rights of C&YP.
+This meant that there was more focus on Article 8 in the appeal before this Court than there had been before the Court of Session below [69].
+In the context of the 2014 Act, the interests protected by Article 8 include both family life [71 74] and privacy [75 77], and the operation of the information sharing provisions of Part 4 will result in interferences with those interests [78].
+In accordance with the law In order for that interference to be in accordance with the law (for the purposes of Article 8(2)), the measures must not only have some basis in domestic law but also be accessible to the person(s) concerned and foreseeable as to their effects.
+This means rules must be formulated with sufficient precision to give legal protection against arbitrariness [79 81].
+In assessing the legality of Part 4, regard must be had to the Guidance [82].
+As is clear from the Courts findings on the Reserved Matters Challenge, there are difficulties in accessing the relevant rules for information sharing.
+An information holder would need to read together and cross refer between Part 4, the DPA and the Directive in order to work out the priority of their provisions.
+Of even greater concern is the lack of safeguards which would enable the proportionality of any interference with Article 8 to be adequately examined [83 84].
+For example, information, including confidential information concerning a child or young persons state of health (e.g. as to contraception, pregnancy or sexually transmitted disease), could be disclosed to a wide range of authorities without either the child or young person or their parents being aware of the interference with their Article 8 rights, and in circumstances in which there was no objectively compelling reason for the failure to inform them.
+Accordingly, as currently drafted, the information sharing sections of Part 4 and the Guidance do not satisfy the requirement of being in accordance with the law [85].
+Proportionality In assessing whether the operation of Part 4 would give rise to interferences with Article 8 which are disproportionate having regard to the legitimate aim pursued, it is necessary to distinguish between the 2014 Act and its operation in individual cases [86 88].
+Focusing on the proportionality of the legislation itself, Part 4 undoubtedly pursues legitimate policy aims and is clearly rationally connected to those aims [91 92].
+Allowing the legislature the appropriate margin of discretion, Part 4 is also a reasonable measure for the legislature to impose in order to achieve those legitimate aims.
+It is for this reason that the appellants broad challenge cannot succeed.
+If a named person could be appointed only with parental consent, the scope for early intervention would be diminished [93].
+However, the operation of Part 4 may well give rise to disproportionate interferences in particular cases: First, there is a risk that parents will be given the impression that they must accept advice in relation to the services offered by a named person in the exercise of the named person functions, and that their failure to cooperate would be taken as evidence of risk of harm.
+Care should therefore be taken to emphasise the voluntary nature of the advice, information, support and help offered by the named person [94 95].
+Secondly, the information holder will have to address difficult questions of proportionality in relation to the disclosure of confidential information with the help of only the Guidance, which is limited, and the Part 4 criteria, which set too low a threshold for overriding duties of confidentiality [96 100].
+There is therefore a need for clear guidance to information holders as to how to assess proportionality when considering whether information should be shared [101].
+The EU Law Challenge In relation to the EU Law Challenge, there is no incompatibility additional to that identified in relation to the ECHR Challenge [102 105].

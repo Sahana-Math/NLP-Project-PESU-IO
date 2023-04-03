@@ -1,0 +1,134 @@
+This appeal raises a short question on the operation by the respondent Commissioners (HMRC) of the Construction Industry Scheme under the Finance Act 2004 (the Act).
+The appellant company (the company) was registered for gross payment under the scheme.
+As is now accepted, it failed to comply with the requirements of the scheme without reasonable excuse.
+In consequence, on 30 May 2011, HMRC exercised their power under the Act to revoke its registration.
+In doing so, they took no account of the likely effect of their action on the companys business.
+The company contends that this represented a failure to take account of a material consideration, in breach of both domestic public law, and of the European Convention on Human Rights (the Convention).
+Factual background
+The facts are set out in detail in the judgment of Henderson LJ in the Court of Appeal: [2016] EWCA Civ 1160.
+A summary is sufficient for present purposes.
+The company is a family run business of water well engineers, started in 1972.
+In 2011 it had about 25 employees, and an annual turnover of about 4.4m, much of it derived from contracts with a small number of major customers.
+It was first registered for gross payment in about 1984, and its registration was regularly reviewed thereafter.
+It first failed a review in July 2009, when its registration was cancelled, and the same occurred in June the following year; but on both occasions the registration was reinstated by HMRC following an appeal.
+Between August 2010 and March 2011 the company was late in making PAYE payments on seven occasions, the delays being generally of a few days, but on one occasion of at least 118 days.
+This led to a further review and to the cancellation which is the subject of the present proceedings.
+The companys appeal succeeded before the First tier Tribunal (FTT) ([2012] UKFTT 639 (TC)), but that decision was not upheld by the Upper Tribunal ([2015] UKUT 0392 (TCC)) or the Court of Appeal ([2016] EWCA Civ 1160).
+It now appeals to this court with permission given by the court itself.
+By section 67(5) of the Act, the cancellation does not take effect until the final determination of the appeal.
+The FTT accepted the companys evidence that major customers would be likely to withdraw work if it lost its gross payment status.
+It found that at the time of HMRCs decision cancellation would have been likely to lead to the loss of around 60% of the companys turnover, and the dismissal of about 80% of its employees, and that recovery would be expected to take about ten years.
+The FTT also recorded that in July 2011 significant changes were made to the companys PAYE systems, with the result that payments thereafter were always made on time.
+We have no information as to what has happened to the business in the period since 2011, nor as to the likely effect of the loss of its status if this appeal fails, and the cancellation now takes effect.
+In that event, the company would not be able to re apply for one year after the cancellation takes effect: section 66(8).
+The legislation
+As Henderson LJ noted, the overall structure and purpose of the legislation has remained broadly the same since the inception of the statutory scheme some 45 years ago.
+He cited Ferris Js description of the background in Shaw v Vicky Construction Ltd [2002] EWHC 2659 (Ch); [2002] STC 1544: in 3.
+In the absence of the statutory provision with which this appeal is concerned Vicky would be entitled, like any other sub contractor, to be paid the contract price in accordance with its contract with the contractor without any deduction in respect of its own tax liability.
+However it became notorious that many sub contractors engaged industry the construction disappeared without settling their tax liabilities, with a consequential loss of revenue to the exchequer. 4.
+In order to remedy this abuse Parliament has enacted legislation, which goes back to the early 1970s, under which a contractor is obliged, except in the case of a sub contractor who holds a relevant certificate, to deduct and pay over to the Revenue a proportion of all payments made to the sub contractor in respect of the labour content of any sub contract.
+The amount so deducted and paid over is, in due course, allowed as a credit against the sub contractor's liability to the
+Revenue
+The relevant provisions in the present case are contained in the Finance Act 2004, Part 3 Chapter 3 Construction Industry Scheme.
+The main operative provisions are section 61, which provides for deductions on account of tax from contract payments as defined; and section 60 which excludes from the definition payments made to a person registered for gross payment when the payment is made.
+Registration of sub contractors is governed by sections 63 and 64.
+Section 63 provides that if HMRC are satisfied that the relevant requirements of sections 63 and 64 are satisfied in respect of a company, it must be registered for gross payment; but, if not, it must be registered for payment under deduction.
+Henderson LJ rightly observed (para 23) that the registration provisions are highly prescriptive, HMRC having no discretion at this stage; and that payment under deduction is the default position.
+The detailed requirements for registration of a company are set out in Part 3 of Schedule 11.
+Again these requirements were rightly described by Henderson LJ as highly prescriptive (paras 27 28).
+Relevant in the present case is para 12 which sets out The compliance test.
+This generally requires the company to have complied, in the qualifying period of 12 months preceding the application, with all obligations imposed on it under the Tax Acts or the Taxes Management Act 1970.
+This is subject to certain exceptions prescribed by regulations for failures to be treated as satisfying the relevant condition (prescribed minor failures, as Henderson LJ described them) (para 12(2)).
+Also a company that has failed to comply is treated as satisfying the condition if HMRC are of the opinion that the company had a reasonable excuse for the failure to comply and that it complied without unreasonable delay after the excuse had ceased (para 12(3)).
+The company must also have paid required social security contributions during the qualifying period (para 12(4)); and have complied with specified obligations under the Companies Act 1985 (para 12(5)).
+Paragraph 13 enables the Treasury by order, subject to approval in draft by the House of Commons, to vary the conditions for registration for gross payment.
+Section 66 provides for cancellation of registration for gross payment: (1) The Board of Inland Revenue may at any time make a determination cancelling a persons registration for gross payment if it appears to them that if an application to register the person for gross (a) payment were to be made at that time, the Board would refuse so to register him, (b) he has made an incorrect return or provided incorrect information (whether as a contractor or as a sub contractor) under any provision of this Chapter or of regulations made under it, or (c) he has failed to comply (whether as a contractor or as a sub contractor) with any such provision As is common ground, the use of the word may in section 66(1) imports an element of discretion, by contrast with the mandatory words of section 63.
+The dispute is as to its scope.
+Where registration for gross payment is cancelled under section 66(1), the person must be registered for payment under deduction (section 66(6)).
+As already noted, he may not reapply for registration for gross payment for one year after the cancellation takes effect (section 66(8)), but the effect of the cancellation is suspended pending determination of an appeal (section 67(5)).
+By section 67 a person aggrieved by cancellation of registration may appeal by notice given to HMRC within 30 days.
+Provision for HMRC review or determination by the tribunal are set out in sections 49Aff of the Taxes Management Act 1970.
+A favourable conclusion on HMRC review is treated as if it were an agreement for settlement under section 54, and so equivalent to a determination of the appeal (section 49F(2)).
+As already seen, the first two cancellations were disposed of in this way.
+However, on the third occasion, HMRC maintained its position and the appeal accordingly was referred to the tribunal.
+Section 102 of the 1970 Act gives HMRC a general power in their discretion [to] mitigate any penalty.
+It is not however suggested that cancellation of registration can be treated as a penalty within this provision.
+under Article 1 of the First Protocol to the Convention (A1P1): In the alternative, the company relies on its right to protection of property Every natural or legal person is entitled to the peaceful enjoyment of his possessions.
+No one shall be deprived of his possessions except in the public interest and subject to the conditions provided for by law and by the general principles of international law.
+The preceding provisions shall not, however, in any way impair the right of a state to enforce such laws as it deems necessary to control the use of property in accordance with the general interest or to secure the payment of taxes or other contributions or penalties.
+The decisions below
+As already noted, the FTT allowed the appeal, holding that HMRC had been wrong not to take account of the likely impact on the companys business.
+The tribunal described section 66 as giving a general unfettered discretion to take account of the impact on a business of cancellation.
+It thought that HMRC must have itself have taken some account of such factors in its decisions on the two reviews, even though no specific reasons were given.
+It saw good reasons for the distinction between registration and cancellation, because of the serious implications of cancellation for an existing business (paras 60 62).
+As already noted, the Upper Tribunal and the Court of Appeal took a different view.
+It is unnecessary to repeat their detailed reasoning.
+Henderson LJ approach is encapsulated in the following passage: 60.
+As a matter of first impression, I cannot find any indication in this tightly constructed statutory scheme that Parliament intended HMRC to have the power, and still less a duty, to take into account matters extraneous to the CIS regime, when deciding whether or not to exercise the power of cancellation in section 66(1).
+By matters extraneous to the CIS regime I mean in particular, in the present context, matters which do not relate, directly or indirectly, to the requirements for registration for gross payment, and to the objective of securing compliance with those requirements.
+My preliminary view, therefore, is that consideration of the financial impact on the taxpayer of cancellation would fall well outside the intended scope of the power.
+He found nothing in the submissions to displace that first impression.
+In particular, he saw no difficulty in explaining the discretion given by section 66, as compared with the registration provisions, given the highly prescriptive nature of the regime: It seems to me entirely appropriate, and a substantial protection for the registered person, that HMRC should then be given a discretion whether or not to exercise the power of cancellation, even in cases where the condition in section 66(1)(a) is satisfied.
+The Upper Tribunal gave two examples, in para 64 of the UT Decision, quoted above, of cases where HMRC might properly exercise such discretion in the taxpayers favour, without travelling outside what I would regard as the proper scope of the power.
+It needs to be remembered, in this connection, that the reasonable excuse exception does not apply to all the requirements of the compliance test, and in the absence of any discretion even a single minor failure to pay national insurance contributions on the due date, or a minor failure to comply with one of the Companies Act requirements, would be fatal, even if there were a reasonable excuse for the non compliance.
+Similarly, the rigid structure of Regulation 32 itself leaves no scope for the exercise of any discretion, even if the relevant test was failed by a narrow margin, the amount involved was relatively small, and although (when viewed in isolation) there was no reasonable excuse for the non compliance, there was nevertheless good reason to suppose that it would not be repeated.
+I therefore remain unpersuaded that there is any need to broaden the scope of the discretion conferred by section 66(1) in order to provide it with any worthwhile content. (para 63)
+In respect of the alternative argument under the Convention, Henderson LJ noted (para 37) that it was common ground before the Court of Appeal that both registration for gross payment, and the contractual right to payment of the contract price, constituted possessions for the purposes of A1/P1.
+However, he did not accept that any interference with those possessions was disproportionate: Given the practical and cash flow advantages of registration for gross payment, it is always probable that cancellation of the registration will seriously affect the taxpayer's business.
+Far from being exceptional, such consequences are likely to be the norm, and taxpayers must be taken to be well aware of the risks to their business which cancellation will bring.
+In individual cases, of which this may perhaps be one, the result may seem harsh; but a degree of harshness in a regime which is designed to counter tax evasion, and where continued compliance is within the power of the sub contractor, cannot in my view be characterised as disproportionate.
+Both deterrence, and ease of compliance, are important factors which help to make the CIS scheme as a whole clearly compliant with A1P1 (para 80)
+The submissions in this court
+The company (by Mr Chacko and Miss Boyd of Counsel) argue that the discretion given by section 66 should be taken at face value.
+It is in terms unfettered, and there is nothing to indicate an intention to exclude consideration of the practical effect of cancellation.
+Absent a contrary indication, they submit, the consequences of the exercise of a power must be assumed to be a relevant consideration.
+They contrast, for example, Schedule 56, para 9 to the Finance Act 2009, which provides for mitigation of certain penalties in special circumstances, but specifically excludes consideration of the taxpayers ability to pay.
+If Parliament had wished to limit the scope of the discretion under section 66 it would have used express words.
+There was no logical dividing line between the scope of the discretion accepted as permissible by the Court of Appeal, and that argued for by the company.
+Nor was a broader discretion inconsistent with the proper exercise of HMRCs statutory functions, as illustrated for example by the wide discretion accepted as appropriate in the context of customs penalties: see Denley v Revenue and Customs Comrs [2017] UKUT 340 (TCC), paras 13 14.
+Such a discretion also reflects the well established proposition that removal of an advantageous trading status has a more serious impact on a business than refusal to grant the status in the first place.
+They cite the common law principle of proportionality as applied in the well known case of R v Barnsley Metropolitan Borough Council, Ex p Hook [1976] 1 WLR 1052, 1057, where Lord Denning MR said: [T]here are old cases which show that the court can interfere by certiorari if a punishment is altogether excessive and out of proportion to the occasion It is quite wrong that the Barnsley Corporation should inflict upon [Mr Hook] the grave penalty of depriving him of his livelihood.
+That is a far more serious penalty than anything the magistrates could inflict.
+He is a man
+of good character, and ought not to be penalised thus
+In the alternative, as in the courts below, they rely on A1/P1.
+As was accepted before the Court of Appeal, they submit that cancellation clearly involves an interference with the possessions represented by (at least) the sub contractors entitlement to the full contract price or the bundle of rights inherent in registration.
+Although the article preserves the right of the state to enforce such laws as it deems necessary to secure the payment of tax, that is still subject to the requirement of proportionality.
+They rely on the words of Lord Phillips MR in Lindsay v Customs and Excise Comrs [2002] EWCA Civ 267; [2002] 1 WLR 1766, para 52: Under Article 1 of the First Protocol to the Convention such deprivation will only be justified if it is in the public interest.
+More specifically, the deprivation can be justified if it is to secure the payment of taxes or other contributions or penalties.
+The action taken must, however, strike a fair balance between the rights of the individual and the public interest.
+There must be a reasonable relationship of proportionality between the means employed and the aim pursued I would accept [counsels] submission that one must consider the individual case to ensure that the penalty imposed is fair.
+However strong the public interest, it cannot justify subjecting an individual to an interference with his fundamental rights that is unconscionable.
+They rely to the same effect on the necessary balance as described by Lord Reed in Bank Mellat v Her Majestys Treasury (No 2) [2014] AC 700, para 74: whether, balancing the severity of the measures effects on the rights of the persons to whom it applies against the importance of the objective, to the extent that the measure will contribute to its achievement, the former outweighs the latter.
+This it is submitted can only be done by assessing the severity of the consequences for the particular individual in question, even if the legislative scheme taken as a whole is proportionate.
+For HMRC Mr Eadie QC generally supports the reasoning of the Court of Appeal.
+In respect of the Convention, he does not accept that cancellation involves an interference with a possession for the purposes of A1P1.
+The subcontractors right to payment of the contract price is in law subject to the limits imposed by the statutory scheme.
+Similarly, any benefits from registration flow from the statutory scheme and are subject to its conditions, including the risk of cancellation.
+He relies on the distinction drawn by the Strasbourg court in JA Pye (Oxford) Ltd v United Kingdom (2006) 43 EHRR 3 (the same point did not arise in the Grand Chamber: (2008) 46 EHRR 45).
+At para 51 the court considered the circumstances in which a legislative provision is to be regarded as an incident of, or limitation on, the applicants property right at the time of its acquisition.
+It explained: Article 1 does not cease to be engaged merely because a person acquires property subject to the provisions of the general law, the effect of which is in certain specified events to bring the property right to an end, and because those events have in fact occurred.
+Whether it does so will depend on whether the law in question is properly to be seen as qualifying or limiting the property right at the moment of acquisition or, whether it is rather to be seen as depriving the owner of an existing right at the point when the events occur and the law takes effect.
+It is only in the former case that article 1 may be held to have no application. (Emphasis added) The present case, Mr Eadie submits, comes clearly into the former category.
+The power of cancellation for non compliance is an intrinsic part of the possession from the moment of acquisition; its exercise cannot engage the article.
+In any event, he submits, it is clearly within the wide margin allowed by the Convention in fiscal matters: see Gasus Dosier und Frdentechnik GmbH v Netherlands (1995) 20 EHRR 403, para 59.
+National & Provincial Building Society v United Kingdom (1997) 25 EHRR 127, para 80.
+The Strasbourg court has also made clear that the margin may extend to the adoption by the state of general measures which apply to pre defined situations regardless of the individual facts of each case even if this might result in individual hard cases: Animal Defenders International v United Kingdom (2013) 57 EHRR 21, para 106.
+Discussion
+Attractively though the appeal has been argued, I have no doubt that the Court of Appeal reached the right conclusion, substantially for the reasons they gave.
+Apart from the Convention, the companys submission comes down to a short point: that is, given the existence of a discretion in section 66, it must in the absence of any specific restriction be treated as an unfettered discretion.
+That to my mind overlooks the basic principle that any statutory discretion must be exercised consistently with the objects and scope of the statutory scheme.
+Like Henderson LJ, I cannot read the power as extending to matters which do not relate, directly or indirectly, to the requirements for registration for gross payment, and to the objective of securing compliance with those requirements (para 60).
+He rightly emphasised the highly prescriptive nature of the scheme.
+This starts with the narrowly defined conditions for registration in the first place, among which the record of compliance with the tax and other statutory requirements is a mandatory element, allowing no element of discretion.
+The same conditions are brought into the cancellation procedure by section 66.
+The mere fact that the cancellation power is not itself mandatory is unsurprising.
+Some element of flexibility may be desirable in any enforcement regime to allow for cases where the failure is limited and temporary (even if not within the prescribed classes) and poses no practical threat to the objectives of the scheme.
+It is wholly inconsistent with that tightly drawn scheme for there to be implied a general dispensing power such as implied by the companys submissions.
+Turning to A1/P1 I see force in Mr Eadies submission that, even accepting that rights conferred by registration amount to possessions, they cannot extend beyond the limits set by the legislation by which they are created.
+However, I find it unnecessary to rest my decision on that point, since I have no doubt that the Court of Appeal were right to hold that any interference was proportionate.
+Once it is accepted that the statute does not in itself require the consideration of the impact on the individual taxpayer, there is nothing in A1/P1 which would justify the court in reading in such a requirement.
+Registration is a privilege conferred by the legislation, which has significant economic advantages, but it is subject to stringent conditions and the risk of cancellation.
+The impact on the company is no different in kind from that which is inherent in the legislation.
+I agree entirely with Henderson LJ that the exercise of the power within the scope of the statutory framework comes well within the wide margin of appreciation allowed to the state for the enforcement of tax.
+For these reasons, I would dismiss the appeal.

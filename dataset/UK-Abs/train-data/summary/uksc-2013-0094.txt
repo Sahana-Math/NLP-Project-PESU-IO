@@ -1,0 +1,35 @@
+These appeals concern the question whether customs officers have the power to detain goods which they reasonably suspect may be liable to forfeiture.
+In Eastenders, customs officers entered Eastenders premises and inspected consignments of alcoholic goods.
+Eastenders' employees were unable to provide documentary evidence that duty had been paid on the goods.
+The officers decided to detain the goods pending the outcome of further enquiries.
+The Commissioners subsequently stated that the goods had been detained under section 139 of the Customs and Excise Management Act 1979, which empowers customs officers to seize or detain "anything liable to forfeiture under the customs and excise Acts." [3 4] Eastenders applied for judicial review of the decision to detain those goods that were subsequently returned when the officers' enquiries proved inconclusive.
+Mr Justice Sales dismissed the application, holding that, where the Commissioners had reasonable grounds to suspect that goods might be liable to forfeiture, they had the power under section 139(1) to detain them for a reasonable time while they made enquiries.
+The Court of Appeal reversed that decision, holding that section 139(1) applied only where goods were actually liable to forfeiture. [5 7].
+The Commissioners appeal to the Supreme Court.
+In First Stop, customs officers detained alcoholic goods at First Stop's premises, on suspicion that duty had not been paid, while enquiries were made.
+Written notices were provided stating that the goods had been detained "pending evidence of duty status (CEMA 1979, section 139)".
+Most of them were subsequently seized and the remainder returned to First Stop [8].
+First Stop successfully applied for judicial review of the decision to detain the goods.
+Mr Justice Singh held that the detention was unlawful as the reason given for it was the need for investigation.
+The Court of Appeals judgment in Eastenders meant that goods could not lawfully be detained under section 139(1) for that purpose.
+However, the Court of Appeal disagreed with his interpretation, and decided that the effect of Eastenders was that if goods were in fact "liable to forfeiture", detention for a reasonable time was lawful under section 139(1) irrespective of the reason given for it [9 12].
+Mr Justice Singh also held that the Commissioners were not protected from an order for costs by section 144(2) of the 1979 Act (which applies where officers had reasonable grounds for detaining goods) as the reason they gave for detaining the goods was unlawful.
+The Court of Appeal held that this was inconsistent with Eastenders.
+First Stop appeal against both decisions [12].
+In a judgment delivered by Lord Sumption and Lord Reed, the court unanimously allows the Commissioners' appeal in Eastenders, dismisses First Stop's first appeal and allows its second appeal.
+The right to seize or detain property under section 139(1) is dependent on the property actually being liable to forfeiture.
+This turns on objectively ascertained facts; not on beliefs or suspicions, however reasonable.
+This is apparent when one looks at section 139(1) in the context of other provisions in the Act.
+For example, other powers are expressly stated to be exercisable on the basis of suspicion or belief [23], whereas the section 139(1) power is not.
+However, this interpretation would have troubling implications were there no other power to detain goods.
+It is essential in practice that customs officers should be able to secure goods where, following an examination, it is necessary to carry out further enquiries investigations that might lead to their seizure.
+If there were no other power of detention, then detention on the basis of suspicion would be unlawful in all cases where the suspicion turned out to be unfounded, and this would be problematic in terms of compliance with EU law and Convention standards on legal certainty [24].
+In neither case however had it been argued that the power to detain could have a source other than section 139(1).
+But customs officers have long had a statutory power to examine goods in order to determine the duty payable or whether the goods are liable to forfeiture.
+Prior to the enactment in the Customs and Excise Act 1952 of the power to detain goods liable to forfeiture, the courts interpreted customs officers' statutory powers of examination as including, by necessary implication, an authority to detain goods on reasonable suspicion for such time as was reasonably necessary in order to make enquiries allowing officers to make their determination [26 35].
+When enacting the 1952 Act, Parliament did not impliedly abolish that power of detention, which is not conditional upon the goods being liable to forfeiture [37; 52].
+In Eastenders, the officers were entitled to detain the goods for a reasonable period in order to complete their enquiries; they were carrying out a lawful inspection of the goods for the purpose of determining whether the appropriate duties had been paid, and had reasonable grounds to suspect that they had not been [49].
+In First Stop, the officers' examination was not completed until the necessary enquiries had been made, and the power of examination impliedly included an ancillary power of detention for a reasonable time while these enquiries were undertaken [50 51].
+Detention in both cases was therefore lawful.
+The section 144(2) costs protection did not apply as both judicial review applications ought to have been dismissed.
+The parties are invited to make submissions on costs on the basis that the court possessed its ordinary costs discretion [52 55].

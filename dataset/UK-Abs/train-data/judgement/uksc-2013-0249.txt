@@ -1,0 +1,550 @@
+This appeal raises a short point in relation to the Proceeds of Crime Act 2002 (POCA), namely whether, in assessing the amount of the benefit obtained by a company for the purpose of a confiscation order, any Value Added Tax accounted for and/or paid for to Her Majestys Revenue and Customs should be subtracted from the turnover figure prior to any final calculation of the benefit.
+The appellants arguments involve consideration of the VAT collection system, the interpretation of POCA, and the effect of article 1 of the First Protocol to the European Convention on Human Rights (A1P1).
+The factual and procedural background
+In 1972, the appellant, Jack Harvey, established a company, JFL Harvey Ltd (the Company), whose business was the hiring out of items of machinery.
+The Company traded from premises in Cornwall, and at all times the appellant owned 98.9% of the shares, the balance being owned by his wife.
+The Company was registered for VAT, and its accountants ensured that the requirements of the VAT legislation were duly complied with by the Company.
+Following an arson attack orchestrated by the appellant on premises owned by a competitor of the Company, the police raided the Companys premises in May 2009, and discovered that a significant proportion of the items of machinery present had been stolen.
+The appellant was in due course convicted at the Truro Crown Court of nine counts of handling stolen goods and sentenced to 15 months imprisonment. (He was also convicted on a separate indictment of five counts of arson, for which he was sentenced to a consecutive terms of 12 years imprisonment.
+On appeal, the total sentence was reduced to nine years and six months.)
+Following his conviction for handling stolen goods, there was a five day hearing before His Honour Judge Elwen, starting on 19 March 2012, pursuant to section 6 of POCA.
+It was conceded on his behalf that the appellant had a criminal lifestyle as defined by section 75(3)(a) of POCA.
+Accordingly, the judge had to decide to what extent, if any, he had benefited over the relevant period from his general criminal conduct, as defined by subsections (1) and (2) of section 76 of POCA.
+As the appellant had been charged on 11 November 2009, the relevant period for the purpose of assessing the extent of his benefit began on 11 November 2003.
+It was common ground that by no means all the items of machinery hired out by the Company were stolen, and the Crown accepted that the Company would have been viable if it had limited itself to legitimate activities.
+In a judgment given on 16 April 2012, the judge assessed the benefit obtained by the appellant at 2,275,454.40, comprising 1,960,754.40 from general criminal conduct and a further 314,700 from particular criminal conduct.
+In very summary terms, the sum of 1,960,754.40 was assessed by means of the following three steps: (i) the Companys aggregate turnover for the relevant period was 5,159,880 (inclusive of VAT); (ii) the proportion of stolen items to the total stock over that period was 38%; (iii) the benefit from general criminal conduct was therefore 38% of 5,159,880, namely 1,960,754.40.
+The appellants available assets were agreed at 3,000,000; accordingly, a confiscation order was made in the sum of 2,275,454.40.
+The appellant was given six months (later extended to 12 months) to pay, and was ordered to serve ten years (reduced to eight years by the Court of Appeal) in default of payment.
+The appellant appealed to the Court of Appeal on a number of points.
+In a judgment given on 3 July 2013 (Jackson LJ, Wyn Williams J and HH Judge Russell QC) his appeal was dismissed (save in relation to the default sentence) [2013] EWCA Crim 1104; [2014] 1 WLR 124.
+The issue on this appeal
+The appellants appeal to this court concerns only one of the issues determined by the courts below, namely whether the judge was right to include the VAT in the figure of 5,159,880 in step (i) of his assessment as set out in para 5 above.
+The Crowns case, which was accepted by the judge and the Court of Appeal, was that it has been authoritatively established that a benefit is obtained for the purpose of POCA if it has been received by a defendant, even if he has subsequently had to account to a third party for some, or even all, of it.
+The appellants case is that, given that the Company accounted for the VAT to HMRC, it would involve an unacceptable degree of double counting if the VAT is included in the sum which is the subject of the confiscation order.
+The Proceeds of Crime Act 2002
+The provisions of POCA which are relevant for present purposes are sections 6, 76, 79, 80 and 84.
+The effect of those sections has been considered in a number of cases in the House of Lords and this court, as well as in a large number of cases in the Court of Appeal.
+The sections are pretty fully set out in the judgment of Lord Walker of Gestingthorpe and Hughes LJ in R v Waya [2012] UKSC 51; [2013] 1 AC 294, paras 9 and 15, and they are also described in R v Ahmad [2014] UKSC 36; [2015] 1 AC 299, paras 28 33.
+Accordingly, it is unnecessary to set them out or to describe them in this judgment.
+As Lord Bingham of Cornhill pointed out in R v May [2008] UKHL 28; [2008] AC 1028, para 8, a court considering an application for a confiscation order must address and answer three questions.
+The first question is whether a defendant has benefited from the relevant criminal conduct; the second question concerns the value, or quantification, of that benefit; and the third question is what sum is recoverable from the defendant (and see Waya, para 7, which has a slightly fuller exegesis).
+When considering the first question, section 76(4) of POCA provides that [a] person benefits from conduct if he obtains property as a result of or in connection with the conduct, and property is defined as including money by section 84(1).
+Section 84(2) contains some rules, which include in para (b) that property is obtained by a person if he obtains an interest in it.
+The proper application of these provisions requires, however, a more purposive approach than the mechanical application of the law of property.
+In Ahmad, paras 35 36, it was acknowledged that POCA was poorly drafted, but the court went on to say that this was explicable in part by the fact that there will be obvious difficulties in applying established legal principles to the allocation of liability under [POCA], as the rules relating to matters such as acquisition, joint and several ownership, and valuation of property and interests in property, and the rights and liabilities of owners, both as against the world and inter se, have been developed by the courts over centuries by reference to assets which were lawfully acquired and owned.
+In para 8 of Waya, POCA was described as framed in broad terms with a certain amount of overkill.
+Lord Walker and Lord Hughes went on to say that [a]lthough the statute has often been described as draconian that cannot be a warrant for abandoning the traditional rule that a penal statute should be construed with some strictness, adding that, subject to this and to [the Human Rights Act 1998], the task of the Crown Court judge is to give effect to Parliaments intention as expressed in the language of the statute.
+The statutory language must be given a fair and purposive construction in order to give effect to its legislative policy.
+Later in their judgment at para 55(a), Lord Walker and Hughes LJ said that [o]nce property has been obtained as a result of or in connection with crime, it remains the defendants benefit whether or not he retains it.
+The overall aim of POCA has been described as being to recover assets acquired through criminal activity, both because it is wrong for criminals to retain the proceeds of crime and in order to show that crime does not pay Ahmad, para 38.
+To similar effect, in May, para 48(1), Lord Bingham said that the legislation is intended to deprive defendants of the benefit they have gained from relevant criminal conduct, whether or not they have retained such benefit, within the limits of their available means.
+Construing the legislation on that basis, in May at para 48(6), Lord Bingham explained that a defendant ordinarily obtains property if in law he owns it, whether alone or jointly, which will ordinarily connote a power of disposition or control, as where a person directs a payment to someone else.
+In Ahmad, para 49, this court observed that [i]t is clear that the amount of the benefit which a defendant obtains is not affected by the amount which might be obtained by others to whom he transfers any part of it.
+However, the court immediately went on to accept that there could be other cases where the court may be satisfied on the evidence that individual defendants obtained (ie assumed the rights of an owner over) only a specific part or share of the property which had been acquired as a result of the criminal activity.
+Article 1 of the First Protocol
+A1P1 was brought into United Kingdom law by the Human Rights Act 1998.
+The first paragraph of A1P1 provides that each person should be entitled to the peaceful enjoyment of his possessions, and that nobody should be deprived of his possessions except in the public interest and subject to the conditions provided for by law .
+The second paragraph derogates from the first paragraph to the extent that it states that it should not in any way impair the right of a state to enforce such laws as it deems necessary to control the use of property for two identified purposes, namely in accordance with the general interest or to secure the payment of taxes or other contributions or penalties.
+The jurisprudence both domestically and in Strasbourg on A1P1 is now clear.
+As Lord Hope of Craighead explained in Salvesen v The Lord Advocate [2013] UKSC 22, para 34 (omitting the citations): The tests to be applied are now firmly established.
+The second paragraph of A1P1 must be construed in the light of the principle laid down in the first sentence of the article.
+An interference must achieve a fair balance between the demands of the general interest of the community and the requirements of the protection of the individuals fundamental rights.
+The search for this balance is reflected in the structure of the article as a whole and therefore also in the second paragraph.
+There must be a reasonable relationship of proportionality between the means employed and the aim pursued.
+Value Added Tax
+VAT is payable on the supply of goods or services (save in relation to exempt and zero rated supplies) normally at a single specified rate, currently 20%.
+It is an EU tax, whose terms are governed by the VAT Directive, 2006/112/EC, which is implemented in UK law by the Value Added Tax Act 1994 (VATA) and the Value Added Tax Regulations 1995 (SI 1995/2518).
+Section 25(1) of VATA provides that a taxable person, such as the Company, must account for and pay VAT by reference to such periods at such time as may be determined by or under regulations .
+The VAT payable thereunder is based on the persons output tax, that is the tax he has charged, or is treated as having charged, in his invoices for the goods and services which he has sold.
+Section 25(2) explains that such a person is entitled at the end of each prescribed accounting period to credit for so much of his input tax as is allowable under section 26, and then to deduct that amount from any output tax that is due from him.
+In other words, to relate the position to the present case in a very summary way, where the Company purchased an item, it would pay input tax on the price to the supplier, and when it hired out an item, it would receive output tax from the hirer; and accordingly, the VAT it would pay in respect of any prescribed period would be the difference between (i) the aggregate output tax for which it had invoiced its hirers in that period and (ii) the aggregate input tax it had paid its suppliers in that period.
+In terms of section 1(2) of VATA, VAT on any supply of goods or services is a liability of the person making the supply, and becomes due at the time of the supply.
+There was therefore no scintilla temporis during which the Company possessed output tax without being liable to account for it to HMRC.
+The European Court of Justice explained how the VAT system should be regarded as working in this way in Elida Gibbs Ltd v Customs and Excise Comrs (Case C 317/94) [1996] ECR I 5339: 19.
+The basic principle of the VAT system is that it is intended to tax only the final consumer.
+Consequently, the taxable amount serving as a basis for the VAT to be collected by the tax authorities cannot exceed the consideration actually paid by the final consumer which is the basis for calculating the VAT ultimately borne by him. 22.
+It is not, in fact, the taxable persons who themselves bear the burden of VAT.
+The sole requirement imposed on them, when they take part in the production and distribution process prior to the stage of final taxation, regardless of the number of transactions involved, is that, at each stage of the process, they collect the tax on behalf of the tax authorities and account for it to them. 23. [A] basic feature of the VAT system is that VAT is chargeable on each transaction only after deduction of the amount of VAT borne directly by the cost of the various price components of the goods and services.
+The procedure for deduction is so arranged that only taxable persons are authorised to deduct from the VAT for which they are liable the VAT which the goods and services have already borne.
+A taxable person, such as the Company, is not therefore intended to bear the burden of VAT: the tax is intended to be neutral in its impact on taxable persons.
+The taxable person merely collects VAT on behalf of HMRC and accounts to it for the balance due.
+The taxable person does not however hold any sum on trust for HMRC.
+Thus, when the Company became insolvent, any unpaid VAT was a debt for which HMRC would have had to prove as an unsecured creditor.
+The contentions of the parties
+The Crowns case is simply this: according to the judges now unchallenged finding, the Company (and therefore, for present purposes, the appellant) obtained a total of 5,159,880 over the relevant period, and the fact that it had to account, and did in fact account, to HMRC for VAT out of that sum pursuant to its obligations under section 25 of VATA is irrelevant for the purposes of assessing what money was obtained for the purposes of POCA in the light of the dicta from May para 48(1) and Ahmad para 49, quoted in para 13 above.
+Mr Mitchell QC also made the valid point on behalf of the Crown that, when assessing the value of what has been obtained for the purposes of POCA, a defendant cannot argue that a sum of money, or the value of an asset, acquired as a result of criminal activity should be reduced by other liabilities.
+For instance, no deduction can be made to take into account the amount of income tax or corporation tax which is paid in respect of the activity; nor can other expenditure necessarily incurred in connection with, or as a result of, the acquisition of an asset through criminal activity be deducted from the value of what has been acquired in order to assess the value of what has been obtained for the purposes of POCA.
+The appellants case is that the figure of 5,159,880, in step (i) of the judges assessment as set out in para 5 above, should have been reduced to take into account any VAT which had been paid, or accounted for in a VAT return, to HMRC.
+This is said by Mr Boyce QC on behalf of the appellant, (a) to follow from the wording of POCA, interpreted according to normal domestic principles, or alternatively (b) to result from the incidence of A1P1.
+No argument has been advanced as to the compatibility of the judges approach with EU law relating to VAT or the confiscation of the proceeds of crime.
+Discussion
+The principle stated in the passages cited in para 13 above is generally applicable.
+As Jackson LJ put it in this case at [2014] 1 WLR 124, para 52, relying on what Leveson LJ said in R v Del Basso [2010] EWCA Crim 1119; [2011] 1 Cr App R (S) 268, [t]he court ha[s] to focus on the property coming to the offenders, not what happened to it subsequently, a conclusion subsequently approved in Ahmad at para 49, cited in para 14 above.
+Hence the factual basis for Mr Mitchells argument as summarised in para 22 above is correct: the fact that income tax or corporation tax has been paid in respect of a sum of money or an asset which has been acquired as a result of criminal activity, cannot be invoked to reduce the value of the property or the sum of money when assessing what has been obtained for the purposes of POCA.
+However, it can fairly be said that, in a number of respects VAT for which a defendant had to account, and has accounted, to HMRC is in a different category from either income or corporation tax, and, a fortiori, from expenses incurred in connection with acquiring money or an asset.
+First, income tax and corporation tax are computed on a taxpayers overall, or aggregate, net income, and therefore cannot be allocated to a particular transaction or the obtaining of particular property.
+By contrast, a VAT liability arises on each taxable supply, and therefore can be directly and precisely related to the obtaining of the property in question under POCA.
+This makes it clear, at least in a case where the VAT on a particular transaction has been paid, or even accounted for, to HMRC, that, if the courts below are correct, the United Kingdom government will, albeit through different arms, enjoy double recovery of the VAT: once under VATA and again through POCA.
+Secondly, although no question of a trust arises, the fact remains that, where money is paid to a defendant as a result of a transaction which is liable to VAT, the defendant is regarded under EU law as collecting the VAT element on behalf of HMRC see Elida Gibbs cited in para 19 above.
+As discussed in para 20 above, the tax is intended to be neutral in its impact on taxable persons.
+We note that the ECJ in Commission of the European Communities v Kingdom of the Netherlands (Case C 338/98) [2004] 1 WLR 35, para 55, referred to the objectives of the predecessor to the present VAT Directive as including fiscal neutrality and the avoidance of double taxation.
+Consistently with that approach, and indeed with the reality of the situation, it is difficult to regard output tax which has been collected and accounted for as forming part of the economic advantage derived from criminal offences.
+These considerations suggest that, where a taxable person has accounted to HMRC for the tax which he collected on their behalf, there may be a degree of artificiality involved in treating him as having obtained the VAT in question for the purposes of POCA.
+Again, no such considerations apply to income tax or corporation tax.
+Thirdly, at least in some cases, the defendant will have paid VAT in the form of input tax to its suppliers.
+It would seem particularly harsh, even penal, in a case where a defendant has accounted for all the VAT for which he is liable, not to allow him credit for that sum, but that would be the effect of his being rendered liable to a confiscation order in respect of the output tax on his transactions.
+We accept that it may well be that the Company in this appeal paid no input tax in respect of such of the items used in its hire business as were stolen.
+However, even if that is the case, this point has force, as it would be hard to justify treating the Company in the same way regardless of whether it had paid the input tax or not.
+Fourthly, HMRC does not as a matter of practice seek double recovery both of the excise duty due in respect of smuggled goods and a confiscation order in the same sum.
+Instead, they seek a confiscation order only, and do not seek to recover the duty: see R v Edwards [2004] EWCA Crim 2923; [2005] 2 Cr App R (S) 160, paras 24 25, where it is explained that the existence of this practice was the reason why no breach of A1P1 to the ECHR was argued.
+In Waya, it was observed at para 33 that it might need to be argued in the future whether a proportionate result should not be left to be achieved by way of Executive concession but rather should be the responsibility of the court to which an application for a confiscation order was made.
+Whatever the basis may be for bringing confiscation proceedings in such cases as to which, we note the observations of Lord Phillips of Worth Maltravers and Lord Mance in R v Varma [2012] UKSC 42; [2013] 1 AC 463, paras 60 65 it is questionable whether the same approach can be adopted in relation to VAT.
+Since VAT is a tax imposed under EU law, the scope for its non collection as a matter of concession may be less than under domestic law.
+It is unnecessary to decide that question in the present proceedings, but it raises the possibility of double recovery which HMRC have recognised, and sought to avoid by extra statutory means, in the context of excise duty.
+The factors discussed in paras 25 29 above give rise to a powerful argument that, at least when the VAT has been accounted for to HMRC, it, or a sum equivalent to it, has not been obtained by the defendant as a matter of ordinary domestic statutory construction.
+There are judicial observations as to how POCA is to be construed, and in particular what was said in Waya para 8 could be cited to support that view.
+However, we see the force of the argument that POCA is a statute which is complex and difficult to interpret in any event, and that it is important to hold fast to the principle enunciated in Waya, para 55(a) and the other judicial observations discussed in para 13 above and by Lord Toulson in paras 94 101 below.
+In the light of these observations, and in the interests of minimising the risk of uncertainty as to the meaning of POCA, we reject the first way in which the appellant puts his case.
+However, the same reasoning does not, in our view, justify rejecting the alternative way in which he puts his case, based on A1P1.
+Although application of the 1998 Act can be said to involve interpretation of POCA, the issue raised by the appellants alternative case involves accepting that POCA, normally construed, has the effect argued for by the Crown, but then going on to consider whether that interpretation infringes A1P1, and, to the extent that it does, modifying the effect of that construction so that it no longer has that infringing effect.
+Any provision which entitles the Executive to effect double recovery from an individual, although not absolutely forbidden by A1P1, is clearly at risk of being found to be disproportionate.
+That proposition would seem to apply in relation to any sum payable pursuant to POCA, which, while intended to be deterrent, is not intended to be punitive.
+This court considered A1P1 in Waya at paras 28 33, where it was made clear that, where the proceeds of crime are returned to the loser, it would be disproportionate to treat such proceeds as part of the benefit obtained by a defendant as it would amount to a financial penalty or an additional punitive sanction, which should not be imposed through the medium of POCA.
+Lord Hughes is right in para 71 to say that recognition of the disproportionality of treating property restored to the victim as property obtained for the purpose of POCA is not directly in point as it does not concern double recovery.
+However, given that VAT is effectively collected by a taxpayer as explained above, the two situations are quite similar; furthermore, as Lord Mance points out, the policy behind the principle discussed in Waya, paras 28 34 is in part that a defendant who makes good a liability to pay or restore should not be worse off than one who does not.
+As Lord Walker and Hughes LJ recognised in para 34 of Waya, [t]here may be other cases of disproportion analogous to that of goods or money entirely restored to the loser, which would have to be resolved case by case, That came to pass in Ahmad, where this court held that it would be disproportionate for the same sum to be recovered from two co conspirators in respect of the same property which they had obtained jointly.
+At para 71, the court said that it would not serve the legitimate aim of the legislation and would be disproportionate for the state to take the same proceeds twice over.
+The point was repeated in the following paragraph, where it is said that: [t]o take the same proceeds twice over would not serve the legitimate aim of the legislation and, even if that were not so, it would be disproportionate.
+We consider those observations are applicable in this case in relation to the VAT which has been accounted for to HMRC.
+It remains to address the point made by Lord Toulson in paras 123 124, namely the difficult full accountancy process which the appellants case is said to require at least in some cases.
+It should be said at the outset that the potential inconvenience involved in applying POCA in a manner which is consistent with A1P1 is not a good reason for failing to do so.
+There are also likely to be many cases where there will be no good reason to doubt that VAT has been properly accounted for to HMRC.
+Nevertheless, particularly given that POCA claims almost always involve dishonest defendants, we would accept that there may often be difficulties in assessing the amount of VAT to be treated as accounted for to HMRC.
+However, in some cases, it will be clear, and, where it is not, the judge trying the issue should be guided by two important factors.
+First, although the burden may be on the Crown to establish the gross value of the benefit obtained by the defendant (ie in this case 2,275,454.40), the burden of establishing that a sum, and if so what sum, should be deducted from that value to reflect VAT accounted for to HMRC lies on the defendant.
+Secondly, as in many exercises involved in assessments under POCA, a judge should be robust in making such a determination.
+There is nothing disproportionate about taking a broad brush approach to questions of what sums were received or paid in the context of criminal activity, where the evidence is confusing, unreliable and/or incomplete.
+On the contrary: the risk of disproportionality may lie more in spending much time and money pursuing a precise answer which is at best elusive and more frequently unattainable.
+For these reasons, we are of the view that, although it would be appropriate under the terms of POCA as traditionally interpreted, it would be disproportionate, at least when VAT output tax has been accounted for to HMRC (either by remittance or by its being set off against input tax), to make a confiscation order calculated on the basis that that tax, or a sum equivalent to it, has been obtained by the defendant for the purposes of POCA.
+We would leave open the position in relation to VAT for which the defendant is liable, but in respect of which he has not accounted, to HMRC, essentially for the reasons given in paras 27 28 above.
+We are conscious that we are leaving undecided a question which will in practice confront Crown Court judges, but it is one which raises difficult issues extending beyond VAT (as Lord Mance explains in para 47), on which the court has not been addressed in the present appeal.
+Conclusion
+Accordingly, we would allow this appeal.
+LORD MANCE:
+I agree with the reasoning and conclusions of Lord Neuberger and Lord Reed both on the issue whether VAT accounted for has been obtained and on the issue regarding the application of A1P1.
+As to A1P1, Lord Hughes relies (paras 71 to 72 and 76) on R v Waya [2012] UKSC 51; [2013] 1 AC 294, as supporting his conclusion that it is not disproportionate to ignore output VAT for which the defendant has accounted.
+In my view that decision both opens the issue under A1P1 and leaves its resolution open.
+Likewise, although there is a distinction between evasion cases (where payment may be said to redress the offence) and the present case (where the dishonest transaction under which the VAT was obtained remains unredressed), that does not answer the question whether VAT accounted for should be given special treatment under A1P1.
+Lord Hughes is correct that cases of restoration of misappropriated property to its loser differ in some respects from the present.
+But they have this in common, that one reason why restoration is taken into account is that a defendant who has made good his liability to restore should not be in a worse position when it comes to the making of a confiscation order than a defendant who has not done so.
+That also applies to a defendant who has actually accounted for VAT to HMRC.
+I consider that the issues before the Supreme Court require, and certainly make it highly desirable for future guidance, that we also address the position if output VAT is offset against input VAT.
+The actual question certified by the Court of Appeal was whether any VAT accounted for and/or paid to HMRC should be subtracted from the turnover figure (emphasis added).
+Consistently with this, the agreed statement of facts and issues (para 31) identifies as the question for our determination whether any deduction should be (i) the total amount of VAT received from customers; (ii) the net amount paid to HMRC (after deduction of input tax); or (iii) some other figure.
+It is true that output VAT may be offset against input VAT that is unconnected with the transaction giving rise to the output VAT.
+As indicated in paras 16 and 17 of Lord Neubergers and Lord Reeds judgment, output VAT is due when charged to the recipient of the goods or services.
+The entitlement to set it off against input VAT is merely a facility that is permitted at the end of a relevant accounting period in which there happens to be such input VAT: Value Added Tax Act 1994 (VATA), section 25(2).
+Lord Hughes (para 77) points out that, particularly with dishonest defendants, questions may arise whether the input VAT claimed was genuinely due.
+That is also true.
+But equally there will be cases where it is crystal clear that the input tax was due.
+Could the happenstance that the defendant has offset output VAT against input VAT clearly payable to him by HMRC, rather than actually disbursed the output VAT to HMRC, make all the difference? In my opinion, not. Either way the defendant has in reality and law satisfied his obligation to HMRC to account for or pay the full output VAT he has received.
+Lord Hughes and Lord Toulson observe that the process of making a confiscation order is already complex, and argue that it would not be proportionate (Lord Hughes, para 77) to make it more so, and could give rise to accounting problems (Lord Toulson, paras 115 to 123).
+As regards the difficulties involved, that is a generalisation, which, as noted in the previous paragraph, will by no means necessarily be true.
+But, even when and where it is true, the process of making a confiscation order is, as Lord Hughes and Lord Toulson themselves recognised, inherently complex.
+Criminal courts have under the Proceeds of Crime Act 2002 to make a whole series of often very difficult assessments, eg as to the nature and scale of offending, as to benefits received and as to means.
+The question whether it would be disproportionate to include in a confiscation order output VAT for which the defendant has accounted is, under A1P1, a question of substantive justice, which courts cannot and should not avoid addressing for reasons of convenience.
+The onus will also be on the defendant to show that he has accounted for and met his obligations in respect of output VAT whether by remittance or set off against input VAT due from HMRC.
+Judges can and should also be robust in their assessments and determinations under POCA, as Lord Neuberger and Lord Reed indicate in para 35 of their judgment.
+For these reasons, I consider that the answer to the question contained in the agreed statement of facts and issues is that, in a case such as the present, the court when making a confiscation order should ignore the total amount of VAT received from customers for which the defendant shows that he has accounted to HMRC either by actual remittance or by set off against input tax due.
+The question in the agreed statement does not address the case of a defendant who has received, or is to be taken as having received, output VAT for which he has not accounted to HMRC either by remittance or by offset against input VAT.
+In such a case, the question may arise whether a confiscation order may be made by reference to the VAT received or taken as received, even though such VAT remains due to HMRC who may require it to be paid or accounted for.
+That has a parallel in the question arising from cases such as R v Smith (David) [2001] UKHL 68, [2002] 1 WLR 54 and R v Edwards [2004] EWCA Crim 2923, [2005] 2 Cr App R (S) 160 and considered in passing in R v Varma [2012] UKSC 42, [2013] 1 AC 463 whether it is legitimate in evasion cases for the Crown to seek and obtain a confiscation order based on the VAT due but evaded, on the basis that HMRC will not in practice (provided at least the confiscation order specifically identifies the VAT based element of the confiscation order and the period or transaction to which it relates) thereafter seek to recover such VAT as such.
+As in R v Varma, so too in this case, the question identified in the preceding paragraph must remain open.
+What can be said about HMRCs expressed policy and practice is that it gives some comfort to the conclusion that it would be disproportionate to contemplate a scenario in which the Crown could, after output VAT had been accounted for to HMRC by payment or offset, seek the equivalent amount by way of a confiscation order.
+LORD HUGHES: (dissenting)
+The defendant was convicted of nine offences of handling stolen plant and machinery, which he had used in the course of his plant hire business.
+He was also convicted of arson of a competitors machinery.
+After reduction on appeal, he is serving a total sentence of nine years and six months.
+He had carried on his business through a limited company which was properly treated as his alter ego, so that its receipts were his.
+On the findings of the judge, he had effectively run his business to a considerable extent on stolen machinery.
+Some 38 different stolen machines, plus a quantity of accessories, were identified and traced following the intervention of the police; the earliest thefts were some nine years beforehand.
+The judge assessed the proportion of stolen machinery in his total stock at 38%.
+The defendant was found to be in possession of blank invoices in varying names, such as strongly suggested a practice of forgery to disguise the origins of stolen property.
+The handling offences gave rise to confiscation proceedings pursuant to Part 2 of the Proceeds of Crime Act 2002 (POCA).
+Because of the number of offences the lifestyle provisions of that Act applied to the assessment of the defendants benefit.
+Accordingly, all property passing through his hands in the relevant six year period was to be assumed to be the proceeds of crime except to the extent that the defendant could prove on the balance of probabilities that any item was not, and unless the making of such an assumption would give rise to a serious risk of injustice: see section 10.
+The judge heard the evidence of the defendant himself and several witnesses called on his behalf.
+Except for the accountant who prepared the company accounts, the judge found the evidence untruthful; the accountant was truthful but much of his source material provided by the defendant was not.
+The judge accordingly found that the principal component of the benefit obtained by the defendant as a result of or in connection with his criminal conduct was 38% of the total business receipts of the company from the hiring out of plant.
+There is no complaint about this method of calculation.
+Other benefit brought the total to 2,275,454.40.
+The appeal is grounded on the single issue of the treatment of the Value Added Tax (VAT) element of the business receipts.
+Both the judge and the Court of Appeal held that there was no basis for deducting that element from the gross receipts (or, rather, from 38% of them) in arriving at the benefit obtained and thus, in due course, at the amount of the confiscation order.
+The defendant challenges those decisions.
+He does so on three alternative bases: if that is wrong and he did obtain the VAT element, he contends that i) he contends that the VAT element in his receipts was never obtained by him, alternatively was not obtained to the extent that he accounted for it to HMRC by declaring it on his VAT returns; or ii) his interest in that element was nil; or iii) if both are wrong, he contends that it is nevertheless disproportionate to make a confiscation order which is not reduced by the amount of VAT received by him from his customers, alternatively received by him and accounted for to the Revenue.
+The figures given to the judge were these: Gross receipts in the six year period (including an estimated figure of 94,400 for unrecorded or off book trading in cash) 5,159,880.00 38% thereof 1,960,754.40 Output VAT declared) 843,827.00 Input VAT reclaimed) all total figures 643,081.97 VAT paid) 200,745.03 It should be noted that there has been no assessment of the accuracy of the VAT declarations.
+Since the judge declined to deduct any VAT element, it was not necessary to embark on such an investigation.
+The defendants use of forged invoices, never mind the clear findings of unrecorded trading, would at the least raise real queries as to the figures.
+Moreover, the declared output tax would seem to have been upon the on book transactions of which the accountant had knowledge, but presumably not on the off book ones.
+So it would appear distinctly likely that the defendant under declared output VAT, at least to the tune of 20% of 94,400, which is a little under 12,900.
+Benefit under POCA
+Post conviction confiscation orders under POCA are dependent first upon ascertainment of the benefit.
+This is defined by section 76.
+Under section 76(4): A person benefits from conduct if he obtains property as a result of or in connection with the conduct.
+By section 76(7): If a person benefits from conduct his benefit is the value of the property obtained.
+Subsection 76(5) is not directly applicable to the present case but should be noted.
+It provides: If a person obtains a pecuniary advantage as a result of or in connection with conduct, he is to be taken to obtain as a result of or in connection with the conduct a sum of money equal to the value of the pecuniary advantage.
+Two things are fundamental to the scheme of POCA: (a) The measure of benefit is what is obtained, not what is retained. (b) The measure of benefit is not reduced by the costs or outgoings associated with obtaining it.
+There has been no dispute about either of these propositions and it is not necessary to rehearse in detail the long line of authorities by which they are established.
+Both have been established law under successive confiscation statutes for many years.
+They are, inter alia, integral to the reasoning of the House of Lords in R v May [2008] UKHL 28; [2002] AC 1028 and to that of the Supreme Court in R v Waya [2012] UKSC 51; [2013] 1 AC 294.
+Proposition (1) follows from the terms of the statute.
+It was also specifically decided by the House of Lords in R v Smith (David) [2001] UKHL 68; [2002] 1 WLR 54.
+There, the benefit obtained was (as was agreed) the pecuniary advantage of evading payment of (not liability for) excise duty on smuggled cigarettes.
+That pecuniary advantage was indisputably obtained.
+As Laws LJ had put it in a case of tax evasion by fraud, if the crime had not been detected, the defendant would have been better off to the tune of 4m (R v Dimsey [1999] EWCA Crim 2261).
+The decision of the House of Lords in Smith was that the fact that that benefit was subsequently lost by detection and, in the case of the smuggler in Smith, additionally negated by seizure of the cigarettes under the excise legislation, could not alter the fact that the benefit had been obtained.
+For the same reason, the burglar remains liable to confiscation in the value of the jewelry and laptops stolen notwithstanding that he lodged the jewels with a dishonest associate who made off with them and that the laptops were ruined by a thunderstorm after he had hidden them in a hedge to make good his escape.
+The same principle is also inherent in Lord Binghams seminal judgment in May, for it was there decided that the fact that the benefit had been jointly obtained with, and shared with, an accomplice did not mean that the defendant had not obtained the whole of it (recently re affirmed in R v Ahmad [2014] UKSC 36; [2015] AC 299).
+This principle famously led Lord Bingham to make clear, in the same judgment at para 9, that proceeds of crime legislation is not confiscation as the schoolboy would understand it: Although confiscation is the name ordinarily given to this process, it is not confiscation in the sense in which schoolchildren and others understand it.
+A criminal caught in possession of criminally acquired assets will, it is true, suffer their seizure by the state.
+Where, however, a criminal has benefited financially from crime but no longer possesses the specific fruits of his crime, he will be deprived of assets of equivalent value, if he has them.
+The object is to deprive him, directly or indirectly, of what he has gained.
+Confiscation is, as Lord Hobhouse of Woodborough observed in In re Norris [2001] 1 WLR 1388, para 12, a misnomer.
+The post conviction provisions of POCA (Parts 2, 3 and 4 for England and Wales, Scotland and Northern Ireland respectively), and their statutory predecessors, constitute a scheme for penalising criminals by imposing not a fine but a financial order geared to what they obtained by their crime.
+A fine would be unrelated to what was obtained and would be measured, rather, by the culpability and harm involved in the underlying offence.
+It would take account of the obligations as well as the assets of the defendant.
+A post conviction confiscation order is different, and may often be swingeing.
+It was described in Waya at para 12 as deprivation of property as a form of penalty.
+It should be emphasised that such confiscation is not designed to restore money to the state, since the state is, in most cases, not the loser by the crime.
+It is designed to deprive the offender.
+No doubt a different scheme could have been prescribed, and one such might have involved calculation of retained benefit.
+In some countries schemes for the confiscation of criminal proceeds do follow this approach, notably those which rely upon tracing and recovering specific property.
+The UK system does not.
+It depends upon ascertaining the value of what was obtained, and then recovering not specific property but, rather, that sum.
+Having obtained such a sum through crime, the defendant is expected to surrender it from any assets which he holds, whether they were legitimately or criminally acquired.
+That, as Lord Bingham observed in May at para 46, involves no injustice or lack of proportionality.
+It might be added that two considerable disadvantages of a system which depends on retained benefit are the ease with which confiscation can be avoided by complicated concealment of what has happened to the initial proceeds and the complexity of the investigation and calculations which fall to be made by the court into transactions which a criminal is unlikely to record.
+UK confiscation under POCA does not, it might be thought, at present want for sufficient complexity.
+Proposition (2) is of almost equal length of standing.
+It was decided specifically by the Court of Appeal in R v Smith (Ian) [1989] 1 WLR 765,769, R v Simons (1993) 98 Cr App R 100 and R v Banks [1997] 2 Cr App R (S) 110, which decisions were expressly approved by the House of Lords in May (see para 15).
+In Banks Lord Bingham CJ said that there were four insuperable objections to the argument that the defendants payment or reward (which expression was then the relevant one under section 4(1) of the Drug Trafficking Act 1994) was limited to his net, rather than his gross, proceeds.
+They are set out in detail in the judgment of Lord Toulson at paras 98 100; I respectfully agree with what he says and there is no occasion to repeat it here.
+Are taxes different?
+Are taxes different from other expenses or incidental outgoings because they are money paid to the State, which is also the recipient of confiscation orders? No doubt in the case of the simple paradigm criminal, the question is unlikely to arise.
+The burglar or thief will rarely pay income tax or fall liable to other taxes in connection with his crime.
+But many of the most serious acquisitive criminals will.
+Those who make a business out of their crime may well do so, and especially if they adopt the cover of legitimate trade under which to pursue offences such as drug trafficking, fraud or smuggling.
+The bigger the criminal operation, the more likely it is that the outgoings incidental to the crime will include one or more forms of tax payable to the state.
+The smuggler running a fleet of lorries will need operators licences, will pay probably heavy liabilities in fuel duty, will pay business rates on his depot(s) and employers national insurance contributions for those who work for him, as well as falling liable to corporation tax on his business profits.
+If what he is smuggling is drugs, they will probably be sold clandestinely and there will be no question of corporation tax being paid on the profits.
+But if the contraband is container loads of cigarettes or wine and spirits, it may well be sold as if legitimate through the front of an apparently honest trade outlet, and corporation tax accordingly may be paid.
+These outgoings are no different from the other expenses of criminal offending, some of which may themselves be overtly criminal, such as payments to subordinates or the purchase price of drugs or contraband, and some of which may be neutral, such as the cost of fuel or accommodation or the stamp duty paid on the laundering of the proceeds through the purchase of real property.
+There is no relevant difference, for example, between the prime cost of fuel used to transport contraband and the fuel tax element of the pump price.
+It is simply impossible to distinguish between these different types of outgoing on the basis that some are payments made to the state and others are not.
+None of these outgoings affects the question of what is obtained.
+Nor, when it comes to proportionality of the confiscation order, does any of them give rise to any disproportion if the order is based on the gross receipts.
+Nor has the contrary been suggested in any of the arguments before this court.
+Is VAT different?
+If taxes generally cannot fall for deduction from benefit, is VAT different? It is certainly true that distinctions can be identified between the mechanics of VAT and those of other taxes, for example corporation tax. i) Corporation tax is assessed on the profits of the business, as is income tax for a non corporate trader.
+VAT is levied upon each supply made by the trader.
+It is thus transaction specific, and the VAT component in each invoice can be identified. ii) The overall scheme of VAT is intended to be that the ultimate burden falls on the last purchaser in the chain who cannot reclaim input tax, usually the non trading consumer.
+This is sometimes described as the principle of fiscal neutrality.
+In Revenue and Customs Comrs v Aimia Coalition Loyalty UK Ltd [2013] UKSC 15; [2013] 2 All ER 719, both Lord Reed and Lord Walker emphasised this characteristic of VAT: see paras 72 75 and 113.
+At para 113, Lord Walker quoted Advocate General Lenz in BLP Group plc v Customs and Excise Comrs (Case C 4/94), [1996] 1 WLR 174 (para 30) as envisaging: an ideal image of chains of transactions intended to attach to each transaction only so much VAT liability as corresponds to the added value accruing in that transaction, so that there is to be deducted from the total amount the tax which has been occasioned by the preceding link in the chain. iii) This same characteristic of fiscal neutrality has led the European Court of Justice to refer to the taxable traders position under the VAT system as one of collecting the tax on behalf of the tax authorities.
+In Elida Gibbs Ltd v Customs and Excise Comrs (Case C 317/94) [1996] ECR I 5399 the court described the overall effect of VAT in this way: 22.
+It is not, in fact, the taxable persons who themselves bear the burden of VAT.
+The sole requirement imposed on them, when they take part in the production and distribution process prior to the stage of final taxation, regardless of the number of transactions involved, is that, at each stage of the process, they collect the tax on behalf of the tax authorities and account for it to them. iv) For the purposes of the Companies Act 2006, it is provided by section 474 that turnover is defined to exclude the VAT element in receipts.
+The questions which matter are therefore whether these differences in the mechanics of VAT are significant for the issues in this and similar cases.
+In particular, do they mean (1) that the trader does not obtain the VAT element of his receipts for the purpose of POCA, or (2) that even if he does, he has no interest in that part of what he obtains, so that its value is nil, or (3) that despite the VAT element being obtained, it would be a disproportionate infringement of the defendants rights under A1P1 to recover its value as part of a confiscation order?
+All taxes have specific mechanics, and few are the same as others.
+It is certainly true that corporation tax and income tax are essentially taxes on profits, and that they are not taxes on individual transactions.
+But this is not a material distinction.
+Other taxes, such as fuel tax and excise duty on alcohol, are essentially levied on individual transactions, and moreover the tax paid by the trader is passed on to consumers in the price of each later transaction.
+Business rates are levied neither on profits nor individual transactions, but on the occupation of premises.
+National insurance is levied on the engagement of employees.
+There is nothing distinctive in the mechanics of VAT which differentiates it relevantly from other taxes when it comes to asking the questions posed at para 60.
+Fiscal neutrality means that, for the trader, the (output) tax which he pays to the Revenue is identical to the charge which he makes (either explicitly or by statutory implication) in his invoice to his customers.
+Likewise the (input) tax which he is entitled to reclaim is identical to the total VAT which he has been charged by those from whom he has bought goods or services.
+This is indeed an important characteristic of VAT.
+But it does not follow from this that he has not obtained the (output) VAT which is included in his charges to his customers.
+On the contrary, fiscal neutrality is equally achieved if he does obtain the VAT element, but is then required to pay an identical sum to the Revenue.
+Nor does it follow that his interest in the VAT element obtained is nil; there will still be fiscal neutrality if his interest is substantial but he comes under a corresponding obligation to pay the same sum to the Revenue.
+Nor, lastly, does fiscal neutrality answer the question whether there is anything disproportionate in declining to net off the VAT element when calculating the amount of a confiscation order under POCA, in the same way as it is agreed that the system declines to set off other outgoings, including other taxes payable to the state.
+The proposition that the taxable trader collects the VAT on behalf of the state is a no doubt convenient shorthand way of expressing the concept of VAT accumulating in successive transactions, with traders reclaiming inputs and setting them off against outputs, so that the ultimate burden falls on the consumer who pays it but cannot reclaim it.
+But the mechanics of VAT simply do not work by making the taxable trader the agent of the state in collecting VAT.
+He is obliged by the Value Added Tax Act 1994 to charge VAT on his supply of goods or services, and he is treated as having done so by the statutory rule that his price for such supply is deemed to be VAT inclusive.
+But if his customer pays his price, the VAT element in no sense belongs to the Revenue, but to the recipient trader.
+It is not held on any kind of trust for the Revenue.
+The trader is free to do with the money whatever he wants.
+His obligation to the Revenue is not to deliver up something which he has collected for it, but the different one of accounting for tax according to what he has charged and what he has paid out.
+When he renders the invoice he comes under the obligation to account to the Revenue for the VAT element, that is to say to declare it.
+In due course at the end of the accounting period he is obliged to pay the Revenue not the amount of VAT charged to his customers, but the difference between the total output VAT charged and the total input VAT paid.
+The input tax which he can reclaim is not transaction specific.
+He can reclaim any input tax which he has paid in any part of his business, and even if he has paid nothing at all in relation to the subject matter of the supply(ies) on which he has charged output tax.
+If his input tax exceeds his output tax, as it may well if he is trading predominately in exempt or zero rated supplies, he has to pay nothing to the Revenue even though he has charged and received output tax on some of his trading.
+Otherwise his obligation is only to pay the difference between the sums charged by way of output tax and the sums paid out by way of input tax.
+He is under that obligation whether or not his customer has paid him.
+There is provision in the Act (section 36) for subsequent adjustments as between the trader and the Revenue by way of bad debt relief if the customer fails altogether to pay, but in the meantime the traders liability to pay the Revenue the difference between output receipts and input payments is unaffected by any such failure, whilst if the customer simply delays, the trader must nevertheless pay up promptly.
+None of these rules can possibly co exist with a legal framework in which the trader is collecting the output tax on behalf of the Revenue.
+For the same reasons, Advocate General Lenzs ideal image (see para 59(ii) above) is a helpful illustration of the philosophy behind VAT rather than a legal analysis of the actual mechanics of the tax.
+Input tax need not relate to the transaction on which output tax has been charged.
+Moreover, whilst it is undoubtedly true that the philosophy underlying the tax is that the effective burden of it will fall on the ultimate consumer, this is by no means only true of VAT.
+In the UK, the predecessor of VAT was purchase tax, which was levied on wholesalers only.
+But in effect that tax was passed down the line of supplies and similarly ended up being felt in the price paid by the consumer: see the analysis of Mance LJ (as he then was) in Debenhams Retail plc v Sun Alliance and London Assurance Co Ltd [2005] EWCA Civ 868; [2005] STC 1443, para 28, where the economic reality of VAT was held to be in this respect very similar to that of purchase tax.
+That case also demonstrates that the expression turnover, like almost any legal expression, takes its meaning from its context.
+It was there held that for the purpose of a rent clause which made the rent variable with the tenants turnover, that expression included the VAT element in receipts.
+The provision in the Companies Act 2006 on which the appellant in the present case relies is similarly contextual.
+It is applied by section 474 for the purposes of Part 15 of that Act only.
+Part 15 is concerned with rules for companies to render accounts and reports.
+The references to turnover in that part of the Act are to the means of classification of companies as small, or as medium sized, for the purposes of differing regimes for accounts and reports: see sections 381 383, 441 444 and 465 466.
+Turnover does not refer to anything stated in accounts.
+There is no comparability between this categorisation rule and the entirely different context and purposes of POCA, and it is not possible to read across from the one to the other.
+Was the VAT element obtained?
+The mechanics of VAT, as described above, make it clear that when the defendant was paid by his customers a price which was VAT inclusive, he obtained the VAT element as well as the rest of the price paid.
+It became his to do with as he wished.
+That he came under an obligation to declare it cannot mean that he did not obtain it.
+Nor can his subsequent declaration of it (or accounting for it) un obtain it.
+The features of VAT which are relied upon do not alter these legal facts.
+Was the defendants interest in the VAT element nil?
+For the same reasons, when the defendant obtained the VAT element, it became his own.
+His interest in it was not qualified or limited by any other proprietary interest held by anyone else.
+The Revenue had no interest in it but only an expectation that it would be paid the difference between output and input tax.
+There can be no question of the defendant having a nil interest in the VAT element of his receipts.
+Proportionality and double recovery
+The remaining question is whether it is a disproportionate interference with the defendants A1P1 rights to make a confiscation order in the sum of the benefit which he obtained, and in particular whether an order is disproportionate unless the VAT element in what he obtained is deducted.
+It is important to understand that the overriding principle, derived from A1P1, that a confiscation order must be proportionate, does not affect the question of what is obtained.
+The test of proportionality comes to be applied at the next stage, when one asks what confiscation order is to be made.
+This was explained in Waya at paras 15 and 16.
+The A1P1 requirement of proportionality is given effect by reading down section 6(5)(b) of POCA.
+There is no question of reading down section 76(4) or (7), which is where it is provided that a defendant benefits when he obtains property as a result of or in connection with his (criminal) conduct, and to the extent of the value of what he obtains.
+Nor is there any question of reading down section 80, which is where the rules for valuation of benefit are set out.
+The section which is read down is section 6(5)(b) which requires the making of an order in the sum of the recoverable amount (defined in section 7(1) as the value of the benefit obtained).
+Section 6(5)(b) is read down by adding the qualification except insofar as such an order would be disproportionate and thus a breach of article 1, Protocol No 1 and the section has now been amended to this effect.
+This difference is not simply technical.
+It may matter.
+Because the focus is on the fairness (proportionality) of the amount of the ultimate order, then if the VAT element is to be deducted there might be a difference between a defendant who has paid the VAT element over to the Revenue, and a defendant who, even if he has declared it, has not paid it.
+The argument of the appellant runs as follows: (a) The VAT element (or a sum equal to it) was a mandatory inclusion in the defendants price, imposed on him by the state. (b) In reality all he did was to collect the tax for the state. (c) The state is the recipient of anything paid under a confiscation order. (d) Therefore if the confiscation order includes the VAT element, the state will recover the same money twice, and this is disproportionate.
+It seems sometimes to be asserted in argument that the decision of this court in Waya established a general principle that disproportionality of a confiscation order is demonstrated if it entails something described as double recovery.
+That is not what Waya says and there is no such general principle.
+Waya did not purport to lay down any general test for disproportionality.
+It was a case of mortgage fraud in which the deception did not impact in any way on the deceived lenders full security, and indeed he had been repaid some time before the offence was discovered, with the addition of 58,000 for early redemption.
+In the end, the amount of the confiscation order depended on the correct analysis of what benefit had been obtained rather than on departure from the amount of such benefit on grounds of disproportion: see para 78.
+Given the kind of case it was, the court unsurprisingly concentrated its more general observations on the possible disproportionality of cases in which the benefit gained has been wholly restored intact to the loser: see the treatment at para 28 of R v Morgan [2008] EWCA Crim 1323; [2008] 4 All ER 890 and at para 31 of R v Wilkes [2003] EWCA Crim 848; [2003] 2 Cr App R (S) 625.
+It raised at para 34 the possibility that there might be other scenarios analogous to total restoration.
+It also adverted in passing at para 17 to R v Shabir [2008] EWCA Crim 1809; [2009] 1 Cr App R (S) 497, which was a very exceptional case of a different kind of disproportion; it involved an absurdly excessive disparity between the amount gained (464) and a benefit figure more than four hundred times greater, which derived from a technical application of POCA and the manner in which the offences had been charged.
+None of the foregoing had anything to do with double recovery.
+The only mention in Waya of the expression double recovery is to be found in para 33 in the context of rejecting any suggestion that R v Smith (David) [2002] 1 WLR 54 contained anything inconsistent with what had been said about total restoration cases.
+As has already been explained at para 55 above, that decision of the House of Lords proceeded upon two clearly correct propositions: first that the defendant had obtained the pecuniary advantage of evading payment of excise duty (not the liability to pay it), and second that the subsequent forfeiture of the contraband did not un obtain that pecuniary advantage.
+The court in Waya went on to disclaim any analysis of excise duty cases, but it recorded that the practice of the Revenue is not, in cases of evasion of payment, to claim both confiscation in the amount of the excise duty and civil recovery of the same excise duty.
+That practice, the court noted, appeared to have been adopted in order to avoid disproportionate double recovery.
+That Revenue practice, described also in the judgment of the Court of Appeal in R v Edwards [2004] EWCA Crim 2923; [2005] 2 Cr App R (S) 160, paras 24 to 25, has been confirmed to this court in the course of argument, albeit it is recorded only in various letters written in individual cases.
+It appears to be adopted at least in those cases where the offence charged is of tax evasion and the confiscation order is for (or includes) the same specified sum of tax evaded.
+It is not difficult to see that offences of evasion of payment of taxes are in a category of their own.
+There, the benefit consists of the pecuniary advantage of evasion of payment, not of liability.
+Payment, once made, satisfies the obligations of the defendant.
+So if payment is then made in full, whether voluntarily, or by way of civil recovery by the Revenue, or under a confiscation order made for the sum evaded, the liability has been met.
+In that sense, the position is analogous to total restoration cases.
+But the excise duty cases, such as R v Smith (David), also demonstrate the absence of any wider or more general rule against double recovery, for it is the state which forfeits contraband which is discovered, but that does not in any sense invalidate the proportionality of imposing on the smuggler a confiscation order based upon his evasion of payment of duty.
+In Ahmad this court confronted a different kind of double recovery.
+The two defendants had jointly obtained some millions of pounds through their crime.
+This court held that although confiscation orders against each of them were properly made for the full amount obtained, it would be disproportionate for the orders both to be enforced in full, thus yielding twice the proceeds of crime to the state.
+That sheds no light on the present question.
+Each case will depend on its own facts.
+But the case of a trader defendant who did not declare any output VAT need not affect the answer to the question posed.
+He might be prosecuted also for evasion of that liability.
+Assuming, however, that the VAT element of gross receipts does not fall to be deducted, the benefit of the VAT offence would overlap with the benefit of the dishonest handling and would not increase it.
+There is of course some initial attraction in a general proposition that it is unjustified and disproportionate for a confiscation order to include a sum already paid to the state.
+But it is clear both in principle and from the judgment in Waya that there is no room for any general rule that double recovery is either (a) a necessary or (b) a sufficient determinant of when a confiscation order will be disproportionate.
+As to (a), cases of total restoration to the loser cannot be described as involving double recovery for the loser is in most such cases not the state.
+As to (b), it is clear from Waya, as from the argument in the present case, that there is nothing disproportionate about a proceeds of crime regime which confiscates the gross proceeds of offending without giving credit for taxes, direct or indirect, paid to the state.
+That is so, even though this plainly involves the state both receiving the taxes earlier paid and recovering by way of the confiscation order.
+This follows from the general rule that confiscation is entitled to fasten on gross receipts rather than on profits.
+There is nothing disproportionate in the mere fact that the consequences of detection and confiscation may leave the criminal worse off than if he had not committed the crime.
+Once the position as to taxes generally is accepted, there is no sufficient basis for singling out VAT as requiring different treatment; indeed it would be inconsistent to do so.
+For the reasons set out in paras 59 65 above, the characteristics of VAT, to the extent that they can be distinguished from those of other taxes, are distinctions without a relevant difference.
+The contention on behalf of the present appellant was that the confiscation order was unlawfully disproportionate to the extent that it did not give credit for 38% of the total output VAT declared (ie 38% x 843,827 = 320,654; see para 52 above), because that was said to be the sum which would be wrongly doubly recovered.
+If that were to be the necessary consequence of giving credit for the VAT element in gross receipts, it would follow that the Crown Court would have to determine whether there had been a full declaration of output tax and, in order to discover the extent of double recovery, it would have also to determine whether the input tax claimed was all properly offsettable.
+That would add inordinately, and inappropriately, to the already complex task of the Crown Court when considering a confiscation application, and would in practice mean that the Revenue had to be a participant in every case.
+That would not be proportionate.
+It would also mean, as Jackson LJ pointed out in the Court of Appeal, that the order is reduced even though the defendant has used the criminally obtained output VAT element of his receipts from customers to buy goods and services, which is itself an offence: see the passage quoted by Lord Toulson at para 117.
+But an alternative way of giving credit for VAT might, if the principle were a sound one, be to deduct from the gross receipts the net VAT actually paid (here 200,745.03) or, more accurately I think, 38% of that sum (76,283.11).
+However, for the reasons given, the suggested principle is unsound.
+Contrary to this view, the judgments of Lord Neuberger, Lord Reed and Lord Mance hold that in order to meet the requirement of proportionality the output VAT element in relevant receipts must (unlike other taxes payable) be deducted from the confiscation order in some circumstances.
+It is to be deducted, they all agree, when it has been accounted for to HMRC (either by remittance or by its being set off against input tax): see Lord Neuberger and Lord Reed at para 36 and Lord Mance at para 46.
+That would appear to mean that the output tax is to be subtracted from the confiscation order if the trader has declared it and paid either it, or the difference between it and input tax he claims to set off.
+That, as I understand it, will leave it to the Crown Court to determine in each case whether to investigate the propriety of the input set off or not.
+For the reasons set out above and those additionally explained by Lord Toulson, I myself do not regard this as satisfactory, as a means of determining when an order will be disproportionate, but the working out of this principle must be for Crown Courts and the Court of Appeal; it may be that in practice Crown Courts will be entitled to take the view that the input tax can be taken as correct unless good reason is shown by the Crown (or by the Revenue) to query it, but since most defendants will by definition be unreliable or dishonest, such good reason is very likely to exist in most cases.
+In that event the kind of case management envisaged by Lord Toulson (para 125) seems likely to be necessary.
+The question of what to do if the output tax has not been paid (with or without set off for input tax) is left open (see Lord Neuberger and Lord Reed at para 36).
+The intention would seem to be to avoid requiring the defendant to pay the VAT output element twice, once by way of inclusion in a confiscation order and once by way of orthodox recovery of VAT by the Revenue.
+If that is the intention, Crown Court judges need to know how to proceed when confronted by a confiscation application.
+They are obliged to make an order and have no discretion not to do so.
+There is no mechanism by which they can put the Revenue, which is not a party to the proceedings, on terms that the VAT is not to be recovered by orthodox enforcement.
+If they simply deduct the output VAT element whether it has been paid or not, and whether or not there is any reasonable prospect of it being paid, they risk making an order which is unduly favourable to the defendant and in no sense required by proportionality, even on the majority view.
+However that may be, for the reasons given my own clear conclusion is, like that of Lord Toulson, that it was not disproportionate for the confiscation order in the present case to be made on the basis of the defendants benefit, ie gross receipts from dishonest trading, without first deducting the VAT element in those receipts.
+The practical difficulties set out in para 35 which surround giving effect to the decision of the majority in this case seem to me to provide additional reasons why this is so.
+For these reasons I would have dismissed this appeal.
+LORD TOULSON: (dissenting)
+The question certified by the Court of Appeal is whether, in assessing the amount of benefit obtained by a company for the purpose of confiscation, any VAT accounted for and/or paid to HMRC should be subtracted from the turnover figure prior to any final calculation of the benefit figure.
+The appellants primary argument is that the question should be answered in the affirmative because on the proper construction of the Proceeds of Crime Act 2002 he did not obtain the VAT element of income received as a result of or in connection with his criminal conduct.
+He has an alternative argument based on article 1 to the first protocol to the European Convention on Human Rights and Fundamental Freedoms (A1P1).
+The appellant pleaded guilty to nine counts of handling stolen goods.
+The stolen goods were items of plant used by a plant hire company, referred to as JHL, which was under his ownership and control.
+On the prosecutions application for a confiscation order against the appellant under the 2002 Act, it was conceded that the court was entitled to treat deposits into the companys bank account as property obtained by the appellant himself.
+It was undisputed that the appellant had a criminal lifestyle within the definition of the Act.
+In those circumstances, section 6 required the court to decide whether he had benefited from his criminal conduct over the period beginning six years prior to the commencement of proceedings against him; and, if so, it required the court to make a confiscation order against him for the recoverable amount.
+Section 7 provides that the recoverable amount is an amount equal to the defendants benefit from the conduct concerned, unless that amount exceeds the amount available to the defendant, in which case the recoverable amount will be the available amount or, if that is nil, a nominal amount.
+Section 76(4) is critical.
+It provides that: A person benefits from [criminal] conduct if he obtains property as a result of or in connection with the conduct.
+This subsection reproduces verbatim the language of section 71(4) of the Criminal Justice Act 1988 (CJA 1988) and is central to the statutory confiscation scheme.
+Section 76(7) provides that: If a person benefits from conduct his benefit is the value of the property obtained.
+Property is defined in section 84(1)(a) in wide terms and includes money.
+Section 80 deals with the valuation of property obtained from conduct.
+Section 80(2) provides that the value is the greater of (a) the value of the property (at the time the person obtained it) adjusted to take account of later changes in the value of money or (b) the value of any substitute property.
+This subsection substantially reproduces section 74(5) of the CJA 1988.
+The present Act is the latest in a series of statutes providing for the confiscation of assets after conviction.
+The prototype was the Drug Trafficking Offences Act 1986.
+It was followed by the CJA 1988, which dealt with offences other than drug trafficking.
+Between 1988 and 2002 other Acts made refinements.
+The 2002 Act brought together the provisions for confiscation orders in drugs cases and other cases into a single piece of legislation.
+Whilst the various Acts made changes in matters of detail, the essential structure of the original regime has been retained, as Lord Bingham observed in R v May [2008] UKHL 28; [2008] 1 AC 1028, para 8.
+The court has to address three central questions: whether the defendant benefited from the relevant conduct, what is the value of any benefit and what is the recoverable amount.
+relevant period came from the hiring out of stolen plant.
+As I see it, that part of the companys income falls squarely within section 76(4) of the present Act.
+It was money paid into the companys account as a result of, or in connection with, the use of stolen property.
+A person obtains property within the meaning of section 76(4) if in law he owns it or he assumes the rights of an owner over it: R v May para 48(6), R v Allpress [2009] EWCA Crim 8; [2009] 2 Cr App R (S) 399, para 63 and R v Ahmad [2014] UKSC 36; [2015] AC 299, para 42.
+On the agreed basis that for the purposes of the confiscation proceedings in this case no distinction is to be drawn between the assets of the company and the appellant, there is no doubt that the appellant owned the money paid into the companys bank account.
+Strictly speaking, what we talk of colloquially as money in a bank account is a thing in action between the account holder and the bank, which in law belongs to the account holder (save in exceptional circumstances where the account holder is a bare nominee): see R v Sharma [2006] EWCA Crim 16; [2006] 2 Cr App R (S) 416, para 19, R v May, para 34 and R v In this case the judge found that 38% of the companys income over the Allpress, paras 85 86.
+Referring to the decision in R v Sharma, Lord Bingham said in R v May, para 34: It was rightly held (para 19), applying general principles of law, that a person who receives money into his bank account obtains it from the source from which it is derived and, where he is the sole signatory on the account, he obtains the money and has possession of it for his own benefit.
+In this case the relevant income paid into the companys account was derived from invoices sent to customers for the hire of stolen goods.
+It was payment both as a result of and in connection with the appellants criminal conduct.
+HMRC had no proprietary interest in the money in the companys account.
+The appellant (or more strictly the company) was under a liability to pay such amount, if any, in respect of VAT as was due after setting off any input tax, but it was a matter for the company what resources it used to pay any balance due.
+The appellant argues that to the extent that the company paid or accounted for its VAT liability to HMRC in respect of transactions for which it had invoiced its customers, it should thereupon be deducted from the sums received from the customers in calculating what he had obtained and/or its value.
+But the legislation requires the court to calculate what the defendant has obtained, and not what he has retained.
+In R v Smith (David) [2001] UKHL 68; [2002] 1 WLR 54, a case about the pecuniary advantage obtained by the smuggling of cigarettes which were soon seized by customs officers, Lord Rodger said at para 26: Under section 74(5) for the purposes of making a confiscation order the value of the property is its value to the offender when he obtained it.
+In this case the respondent derived a pecuniary advantage by evading the duty at the moment when he imported the cigarettes.
+The sum equalling that pecuniary advantage is treated as property obtained by the respondent at that moment. (Lord Rodger was referring to section 74(5) of the CJA 1988.
+As mentioned at para 88 above, that subsection was the predecessor of section 80(2) of the present Act.)
+Similarly in R v Waya [2012] UKSC 51; [2013] 1 AC 294, at para 55(a), Lord Walker and Hughes LJ said: Once property has been obtained as a result of or in connection with crime, it remains the defendants benefit whether or not he retains it.
+This is inherent in the value based scheme for post conviction confiscation.
+The appellant accepts that if the company had never paid the VAT due to HMRC, the property obtained by him would have been the income paid into the companys account.
+When was that property obtained? The answer can only be when the income was received.
+If it was property obtained at that moment, as a result of or in connection with the hiring out of stolen goods (as it plainly was), that fact cannot be retrospectively altered by subsequent payment of the companys VAT liability. (The payment of VAT may have an impact under A1P1, but that is a matter for separate consideration.)
+Early in the history of the legislation the question arose whether in calculating the defendants benefit the relevant figure is his gross receipts or his net receipts.
+There is a long and unbroken line of authority that it is the former.
+In R v Banks [1997] 2 Cr App R (S) 110 the Court of Appeal was concerned with section 4(1) of the Drug Trafficking Act 1994.
+This provided that any payments or other rewards received by a person in connection with drug trafficking carried on by him or another person are his proceeds of drug trafficking and the value of his proceeds of drug trafficking is the aggregate of the values of the payments or other rewards.
+It was argued that the value of such payments should be taken to be the net value.
+Lord Bingham CJ said that there were four insuperable objections to this argument.
+The first derived from the statutory language, which he read as directing the courts attention to gross payments.
+The second objection was to be found in a series of decisions under the Drug Trafficking Offences Act 1986 (the predecessor of the 1994 Act).
+Among other authorities he cited the judgment of Lord Lane CJ in R v Smith (Ian) [1989] 1 WLR 765, 769: The words any payments are on the face of them clear.
+They must mean, indeed it is clear from the wording, any payment in money or in kind It seems to us that the section is deliberately worded so as to avoid the necessity, which the appellants construction of the section would involve, of having to carry out an accountancy exercise, which would be quite impossible in the circumstances of this case.
+It may be that the wording is draconian, and that it produces a draconian result.
+But it seems to us that if that is the case, it was a result intended by those who framed the Act.
+Lord Binghams third insuperable objection was that the relevant provisions of the 1986 Act had been re enacted in almost precisely the same terms in the 1994 Act.
+It could not be said that the statute had simply been reproduced without attention being paid to the intervening case law, because other amendments had been made which showed that attention had been paid to intervening case law.
+The court was therefore bound to proceed on the assumption that Parliament re enacted the provision, knowing of the decisions which had been made on them and intending that they should have that effect.
+Lord Binghams fourth objection was that the 1994 Act also contained provisions which made it an offence to conceal or disguise property which directly or indirectly represented the proceeds of drug trafficking.
+Lord Bingham considered that it would reduce those provisions to absurdity if they did not refer to the aggregate of the payments received, and that the same term must bear the same meaning in the earlier and later sections of the Act.
+The same four points apply to section 76(4) of the 2002 Act.
+It is true that its language is slightly different from the language used in the earlier drug trafficking legislation (although not the language of the CJA 1988), but Lord Bingham said in Jennings v Crown Prosecution Service [2008] UKHL 29; [2008] AC 1046, para 13 that the appellate committee regarded the meaning of section 71(4) as in substance the same as the equivalent provisions of the drug trafficking legislation.
+Lord Binghams fourth point in R v Banks can be made by reference to the money laundering offences in sections 327 to 329 of the 2002 Act.
+These penalise various forms of dealing with criminal property, which is defined in section 340(3) as property which constitutes or represents a persons benefit from criminal conduct.
+More broadly, for nearly 30 years it has been a central feature of the statutory confiscation schemes that in identifying and assessing the defendants benefit from criminal conduct, the court is concerned with the gross value of what he has obtained in cash or in kind.
+As Lord Walker and Hughes LJ observed in R v Waya at para 26, to embark on an accounting exercise in which the defendant is entitled to set off the cost of committing his crime would be to treat his criminal enterprise as if it were a legitimate business and confiscation as a form of business taxation.
+The cost to the appellant of his form of criminal conduct included his liability to HMRC for VAT on the service provided by him to customers; the gross value of what he obtained was the gross income from hiring out stolen goods.
+In summary, I reject the argument that in deciding what benefit the appellant obtained, within the meaning of section 76(4) of the 2002 Act, by way of payments into the companys accounts of invoices for the hire of stolen goods, the amount of moneys subsequently paid (or accounted for) by the company to HMRC, in respect of its VAT liabilities on the supply of the goods, is to be deducted, for the following reasons: i) The argument is incompatible with the plain language of the sub section, which is a re enactment of earlier legislation going back to section 71(4) of the CJA 1988. ii) It is a core feature of the scheme of post conviction confiscation of the legislation from the Drug Trafficking Offences Act 1986 onwards, as interpreted in a line of authorities including at the highest level, that the scheme strikes at the gross value of money or other property obtained as a result of or in connection with the relevant criminal conduct. iii) The relevant provisions have been re enacted by Parliament with knowledge of their judicial interpretation. iv) A person obtains money or other property within the meaning of section 76(4) if he becomes the owner or assumes the ownership of it.
+The company was unquestionably the legal owner of the money in its bank account (and it was conceded that the court was entitled to treat it as obtained by the appellant himself). v) The appellants argument fails to focus on the moment when the moneys were paid into the companys account, but depends on later payments out of the account.
+This approach is contrary to the proper approach as stated in R v Smith (David) and R v Waya.
+Departure from that approach in this case is not only contrary to the language of the statute and to authority, but it would lead inevitably to future arguments and uncertainty about whether the courts should make similar exceptions in other cases of perceived hardship.
+It then becomes necessary to consider the effect of A1P1.
+This raises separate issues.
+The courts obligation under section 6(5)(b) of the 2002 Act to make a confiscation order requiring a defendant who has benefited from criminal conduct in the available amount has to be read with the qualifying words except in so far as such an order would be disproportionate and thus a breach of [A1P1], as the court held in R v Waya. (Since 1 June 2015 the section has been amended so as to make the qualification express: see the Serious Crime Act 2015, section 85 and Schedule 4, paragraph 19.)
+A1P1 provides as follows: Every natural or legal person is entitled to the peaceful enjoyment of his possessions.
+No one shall be deprived of his possessions except in the public interest and subject to the conditions provided for by law and by the general principles of international law.
+The preceding provisions shall not, however, in any way impair the right of a state to enforce such laws as it deems necessary to control the use of property in accordance with the general interest or to secure the payment of taxes or other contributions or penalties.
+A measure which deprives a person of his property must not only serve a legitimate aim, but there must be a reasonable relationship of proportionality between that aim and the measure adopted to achieve it.
+In deciding whether that requirement is satisfied, the Strasbourg court has recognised that the state enjoys a wide margin of appreciation as to the choice of means of enforcement and its assessment of whether consequences are justified in the general interest for the purpose of achieving its legitimate aim: see, for example, Jahn v Germany (2005) 42 EHRR 1084, para 93.
+The primary aim of the present legislation is to provide a practicable means of taking away from criminals their proceeds of crime.
+A secondary aim is to deter others.
+These are legitimate aims.
+The mere fact that enforcement of the order will in many cases leave the criminal worse off than if he had never committed an offence does not of itself mean that the measure is disproportionate.
+Double recovery of the same benefit is another matter and is liable to be disproportionate as going against the grain of the legislation: see R v Waya, paras 20 and 30 to 34.
+But it is important to be careful in the use of the expression double recovery.
+Lord Walker and Hughes LJ instanced a case of a confiscation order being sought solely on the basis of the momentary benefit of a thief (or handler of stolen goods) obtaining property which had been restored intact to the true owner before the making of a confiscation order.
+In such a case the benefit obtained and the benefit restored are identical.
+To make a confiscation order in respect of that benefit in those circumstances would be disproportionate.
+It would not serve the aim of the legislation. (It might, on the contrary, act as a disincentive to a thief making reparation before the imposition of a confiscation order; if he had stolen money, he might be better off to keep it and use it to pay the confiscation order.) The court recognised that there might be other cases of disproportion analogous to that of goods or money entirely restored to the owner.
+These would have to be resolved case by case.
+In R v Ahmad the question of double recovery arose in another way.
+Co defendants were found to have benefited jointly from their offending.
+This court held that it was proper in principle to make confiscation orders against each of them for the full amount of the benefit jointly obtained, but that the orders should contain a provision preventing their enforcement in such a way that the state recovered the same benefit twice over.
+The court said that it would not serve the legitimate aim of the legislation and would be disproportionate for the state to take the same proceeds twice over and that a violation of A1P1 would occur at the time when the state sought to enforce an order for the confiscation of proceeds of crime which have already been paid to the state (paras 71 72).
+In this case the appellant argues that where the benefit consists of income derived from payments by customers of invoices for the hire of stolen plant which included (or are to be taken as including) the VAT for which the supplier was liable on the supply, and where the supplier has either paid that amount to HMRC or offset it against input tax paid on purchases of goods or services by the supplier, the amount so paid or offset should be deducted in arriving at the final amount of the confiscation order so as to avoid double recovery, which would be disproportionate and contrary to A1P1.
+The prosecution argue that liability for VAT is part of the expense of carrying on a business.
+Under section 1 of the Value Added Tax Act 1994, VAT on any supply of goods and services is a liability of the person making the supply.
+It is not disproportionate to the object of the legislation that in making a confiscation order the court should ignore expenses incurred by defendant, whether of a fiscal nature or otherwise.
+The appellant counters that argument by saying that VAT is unlike other forms of taxation.
+It is regulated by a series of European Directives.
+Its purpose and nature are that the trader in gathering and paying VAT is acting as a tax collector for the state: Elida Gibbs Ltd v Customs and Excise Comrs (Case C 317/94) [1996] ECR 1 5339, para 22. (The trader who is VAT registered is required by regulations to provide a VAT invoice to the customer, and even if VAT is not shown as a discrete charge in a traders invoice, it is treated as such for revenue purposes: paragraph 5 of Schedule 11 of the VAT Act.) By paying or accounting for that element of the benefit received by way of customers payments, the trader makes restitution to the state, and for that amount to be included in the confiscation would amount to the state taking the same thing twice.
+For my part, as a matter of general principle I do not consider it disproportionate to the legitimate aim of the legislation for the court, when making a confiscation order, to disregard outgoings associated with property obtained by a defendant as a result of or in connection with his criminal conduct; and I cannot see a satisfactory reason in general for distinguishing fiscal from other outgoings.
+Examples would include a person who pays income tax on criminal earnings, a company which pays corporation tax on the profits from criminal business or a person who pays stamp duty or capital gains tax in connection with the laundering of criminal property.
+In such cases the liability to tax arises because the defendants overall profit after setting off allowable losses or expenses during the relevant tax period exceeds the relevant tax threshold.
+They are not cases of the state taking the same proceeds twice over, in the sense that the court was speaking of in R v Ahmad.
+They are readily distinguishable from cases in which a thief or handler restores stolen property to its owner or where the amount of confiscation orders made against two or more defendants in respect of their joint benefit is paid off by one or some of them.
+There is not the same degree of identity between the benefit obtained and the benefit restored or surrendered.
+Does A1P1 require a different approach to be taken in the present case? The arguments were presented at a rather abstract level, but the factual setting is relevant to a full understanding of the issues and their ramifications.
+The known receipts of the company during the relevant period were 5,159,880.
+There was also significant off the book trading.
+Because of the statutory assumptions applicable to a defendant with a criminal lifestyle, the burden was on the appellant to show what part, if any, of the sums received by the company was not the benefit of his criminal conduct.
+It has been held that rebuttal of the assumption requires clear and cogent evidence.
+For this purpose at the confiscation proceedings the appellant gave evidence and called evidence from his two daughters and a friend.
+The judge found that none of them was worthy of belief.
+In an attempt to show that nearly all the companys income was from the use of plant lawfully obtained the appellant produced invoices and receipts, but he was unable to show which invoices fitted which pieces of plant.
+Further there was evidence of forgery of invoices.
+At his daughters home the police discovered draft invoices in the names of other plant and machinery traders, and the judge disbelieved the defence evidence about how they came to be there.
+The only point which told in the appellants favour was that of 91 pieces of plant found by the police at the companys premises only 39 were identified as having been stolen.
+Adopting a broad approach, the judge found that not less than 38% of the companys turnover came from the use of stolen plant.
+The evidence of the companys accountants about VAT was that during the relevant period the company received 843,827 VAT in respect of sales and services provided, according to its VAT returns; it paid 200,745 VAT to HMRC; and it offset the balance against VAT input tax which it claimed to have paid on purchases.
+The appellants primary argument is that 38% of the entire sum of 843,827 should be deducted from the amount of the confiscation order.
+Rejecting this argument in the Court of Appeal, Jackson LJ said at [2013] EWCA Crim 1104; [2014] 1 WLR 124, para 79: In relation to VAT, the way in which JHL dealt with these moneys is significant.
+JHL expended three quarters of the VAT which it collected upon the purchase of goods and services.
+In doing so, JHL was using the proceeds of criminal conduct to purchase those goods and services.
+It would be wrong in principle for the defendant to be given credit in respect of the VAT element of these purchases.
+I agree.
+The use of criminal proceeds to purchase goods and services would in fact be itself an offence under section 329 of the 2002 Act.
+I do not see the courts refusal to reduce the amount of the confiscation order by the amount spent by the company from its criminal receipts on other trading (including the VAT element of such expenditure) as disproportionate to the proper objectives of the legislation.
+The appellants alternative argument is that there should be a deduction of 38% of the lesser sum of 200,745 said to have been paid to HMRC.
+Rejecting that argument in the Court of Appeal, Jackson LJ said, at para 80, that it would be wrong for the court to carry out an accounting exercise in respect of VAT collected through the use of stolen property.
+He had earlier, at para 76, made the general point that in confiscation proceedings the focus is on what money was received and not how it was spent: Waya, para 26.
+The question whether there would be dual recovery of the same benefit, such as to offend against A1P1, if the confiscation order were to include the VAT element of his criminal benefit which the appellant has already paid to the state is at first sight more difficult than the appellants primary argument.
+In R v Waya, para 34, the court spoke of taking a case by case approach to the application of A1P1 to the post conviction confiscation legislation.
+Inevitably there will be cases in which it will be possible to point to apparent anomalies on whichever side of the line the question is resolved.
+On first impression the appellants alternative argument has a beguiling simplicity and attraction: that in charging VAT to customers the trader acts as a tax gatherer for the state, and, if he pays it to HMRC, he should not be made subject to a confiscation order which includes that amount.
+But on fuller consideration I am not persuaded that the court should make a distinction between the 843,827 and 200,745.
+It is argued that the company was a mere temporary custodian of the 200,745 for the state, but that argument (which goes really to the question whether it was a benefit obtained by the appellant) is unsound.
+The company was not a custodian of the 843,827 or the 200,745.
+The entire money received by the company was its money.
+The description of the company as a tax gatherer for the state is misleading if it is intended to suggest that the company was an agent or trustee of HMRC.
+The effect of taxing the company on the amount charged by it for the supply of goods and services was to reduce its net profit after tax (unless it increased its charges accordingly) but the same would be true of other forms of taxation, such as corporation tax or capital gains tax or stamp duty on the purchase of a property as part of a crime or as a form of laundering of criminal property.
+Other examples could be given.
+Jackson LJ referred in the passage cited to JHL having expended three quarters of VAT which it collected on the purchase of goods and services, but, for all that is presently known, it may have used the entirety of the initial proceeds of its criminal transactions in other transactions funded by money criminally obtained; the use of the criminal funds may or may not have been off the books; and the amount paid by the company to settle its VAT liabilities may or may not have been exceeded by other benefits, which may or may not have been reflected in the companys records.
+The answers would depend on a full accountancy process, if that were possible.
+I do not see that it is possible, in principle or in practice, to draw a satisfactory distinction between VAT accounted for and VAT paid.
+The judge in the Crown Court will face these questions when this case goes back to him to assess the amount of the confiscation order.
+The majority recognise that there may be difficulties in assessing the amount of VAT to be treated as accounted for to HMRC in the case of a dishonest defendant; that the burden of proof lies on the defendant; and that the court may take a robust and broad brush approach (para 35).
+I take it from these observations that the judge will not be obliged to accept that the defendant has accounted to HMRC for VAT merely by producing VAT returns purporting to show that he has offset VAT due against input tax paid on purchases of goods or services.
+Especially in view of the evidence of forgery of invoices, together with the appellants possession of draft invoices in the names of other plant and machinery suppliers, the court would be entitled to require evidence from a credible source that the purported transactions, generating the supposed input tax against which the appellant claimed to have offset output tax, were genuine.
+One test of their genuineness would be whether the supposed supplier had accounted for the input tax claimed to have been paid to the supplier by the appellants company.
+This is just the sort of accountancy exercise against which the courts have taken a firm stand from the outset (see, for example, Lord Lane CJs judgment in R v Smith (Ian) referred to at para 98).
+Moreover, supposing that there were purchases by the company of goods and services in respect of which it paid input tax to the supplier, if those purchases were part of the companys criminal trading it is hard to see why the company should be able effectively to recoup that part of its criminal expenditure by offsetting it against the output tax due from the company to HMRC.
+For my part, I do not consider it to be disproportionate to the proper object of the confiscation scheme to treat the entirety of the companys receipts from its criminal conduct as having been obtained by the appellant, but the majority consider otherwise.
+As a matter of practicality, I would expect the next step to be for the judge of the Crown Court to arrange a hearing for directions about evidence.
+The court should be encouraged to use its case management powers to ensure that the appellant produces all evidence, whether by way of witness statements, documents or expert evidence, in support of his claim to deduct VAT from the amount of the confiscation in a clear and timely fashion.
+I conclude that the question certified by the Court of Appeal should be answered either in the affirmative or in the negative, but not half and half; and that, although the results in an individual case may seem harsh, A1P1 is not violated by the court adhering to the general principle that in determining the amount of a confiscation order the focus is on the benefits received, ignoring associated outgoings, including tax liabilities.
+I do not see the application of that principle as going against the grain of the legislation.
+I would therefore answer the certified question in the negative and dismiss the appeal.

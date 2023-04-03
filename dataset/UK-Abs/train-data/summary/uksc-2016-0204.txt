@@ -1,0 +1,49 @@
+Between 1973 and 2009 the Respondent, Taylor Clark Leisure Plc (TCL) was the representative member of the Taylor Clark VAT Group (the VAT Group) in terms of Article 11 of the Principal VAT Directive 2006/112/EEC (the Principal Directive) and its predecessor, Article 4.4. of the Sixth Council Directive (77/388/EEC) (the Sixth Directive).
+The idea of a VAT group of companies was introduced to simplify the collection of VAT.
+In about 1990, TCL undertook a group reorganisation which involved the transfer of its bingo business to another member of the VAT group, Carlton Clubs Ltd (Carlton).
+The transfer to Carlton was effected by a letter dated 30 March 1990 (the 1990 Asset Transfer Agreement).
+In 1998 Carlton ceased to be part of the VAT group.
+In 2008 the House of Lords held that UK legislation that imposed a shortened three year time limit on claims for the refund of overpaid VAT in the period from 1973 to 4 December 1996 without providing for an adequate transitional period, which was fixed in advance, was contrary to European law.
+In response, the UK Parliament enacted s121 of the Finance Act 2008 (FA 2008) which provides an extended time limit for claims relating to a prescribed accounting period ending before 4 December 1996.
+Instead of requiring that the claim must be made within the three year time limit, s121 required such a claim to be made before 1 April 2009.
+On 16 November 2007, Carlton submitted four claims to the Appellant (HMRC) under s80 of the Value Added Tax Act 1994 (VATA) for repayment of VAT output tax, which TCL as representative member for the VAT group had overpaid in accounting periods between 1973 and 1998.
+Carlton submitted these claims without notifying TCL.
+These claims related to (i) mechanised cash bingo takings, (ii) gaming machine takings, (iii) participation fees and (iv) added prize money and participation fees.
+On 8 January 2009, it submitted a revised claim (iv) in which it asserted a right to claim overpaid VAT back to 1973 (i.e. before its incorporation in 1990) by relying on the 1990 Asset Transfer Agreement.
+After initially refusing all of Carltons claims, HMRC paid the sum claimed by Carlton in its revised claim (iv) to TCL (as representative member of the VAT Group) on 12 May 2009.
+On 23 September 2010, HMRC confirmed to TCL an assessment for repayment of the sum paid on 12 May 2009 and refused TCLs claim for repayment of the other claims (i.e. claims (i), (ii) and (iii)).
+HMRC gave three reasons: (i) TCL had not submitted claims before the expiry of the time limit imposed by s121 FA 2008; (ii) the claims predating 31 March 1990 had been assigned to Carlton and (iii) because the VAT group had since been disbanded (on 28 February 2009), the claim for over declared output tax must be made by the company whose activities gave rise to the over declaration and Carlton had made that claim.
+TCL and Carlton pursued rival appeals against HMRCs decision.
+The First Tier Tribunal (FTT) held, amongst other things, that TCL had not made a claim under s80 of VATA and could not rely on Carltons claims.
+On appeal by TCL, the Upper Tribunal (UT) found that TCL had not made a claim and no claim had been made on its behalf before expiry of the time limit.
+TCLs further appeal to the Inner House of the Court of Session (IH) on this issue was successful.
+The IH held that the representative member embodied the VAT group which was a single taxable person, or a quasi persona and Carltons claims fell to be construed as claims on behalf of TCL.
+The Supreme Court unanimously allows HMRCs appeal.
+Lord Hodge gives the lead judgment with which the other Justices agree.
+HMRCs principal argument is that the IH erred in holding that a claim for repayment of VAT by an individual member of a VAT group must normally be construed as a claim made on behalf of the representative member of that group.
+HMRC argued that Carltons claim was made on its own behalf and TCL could not rely on it to avoid the statutory time bar.
+TCL relied on the reasoning of the IH and argued that, as the representative member, it was entitled to rely on Carltons claims [18].
+The Court notes that Article 11 of the Principal Directive (like Article 4.4 of the Sixth Directive), is permissive and is not prescriptive; it does not require member states to institute a single taxable person regime and does not lay down a template as to how a member state will treat a group of persons as a single taxable person [19].
+It is clear from the words in s43(1) of VATA that the UK chose to achieve the end which the Principal Directive authorised not by deeming the group to be a quasi person but by treating the representative member as the person which supplied or received the supply of goods or services.
+In UK legislation, the single taxable person is the representative member [21 22].
+There is no need to complicate matters by introducing a concept of the VAT group as a quasi persona in an analysis of the UK legislation [26].
+Section 43 of VATA does not make the group a taxable person but treats the groups supplies and liabilities as those of the representative member for the time being [27].
+It is clear from s80 of VATA that HMRCs liability for overpaid output tax is owed to the person who accounted to them for VAT.
+It is also clear that a claim must be made for the credit or repayment to that person before HMRC comes under any liability to credit or repay.
+It follows from the operation of s43 of VATA that where the representative member has overpaid VAT, the person entitled to submit a claim during the currency of a VAT group, unless the claim has been assigned, is either the current representative member of the VAT group or a person acting as the representative members agent [29].
+The FTT correctly found that Carlton did not make the claims on behalf of TCL.
+Four reasons supported this finding.
+Firstly, when Carlton made the claims, it had long ceased to be a member of the VAT group.
+Secondly, it appears from the 2007 letters that Carlton had already presented claims in relation to its own business activities in the period after it had left the VAT group.
+Thirdly, the use by Carlton of the VAT groups VAT registration number was necessary to identify the original source of the allegedly overpaid VAT but did not disclose who was entitled to the repayment.
+Fourthly, in each of the claims submitted in 2007, Carlton was claiming repayment of sums paid from 1973, long before its incorporation in 1990, as well as in the period after 1990 when it was member of the VAT group.
+It clarified the basis on which it made those claims in its 2009 revised claim.
+At the time, both Carlton and HMRC would have readily understood Carlton to be claiming repayment in its own interest [34 36].
+The 2009 revised claim provides relevant and admissible evidence concerning the basis upon which Carlton made the 2007 claims [37].
+Carlton did not act as TCLs agent.
+Carlton had no actual authority to send the letter on TCLs behalf.
+In any case, in circumstances where the UT made its decision on the basis that Carlton had submitted the letters on its own behalf, it was not open to an appellate court to find that there was an agency relationship between Carlton and TCL.
+Furthermore, there is also no basis for the argument that TCL ratified Carltons claims, thereby conferring retrospective authority upon them. [38 39].
+Finally, TCL applied to the Court to make a reference in this case to the Court of Justice of the European Union (CJEU) but this is neither necessary nor appropriate.
+A ruling by the CJEU on the nature of the single taxable person is not necessary for the determination of this appeal [40 41].
+There is also no inconsistency between schedule 1 of VATA and the Courts interpretation of s43 of VATA [42].

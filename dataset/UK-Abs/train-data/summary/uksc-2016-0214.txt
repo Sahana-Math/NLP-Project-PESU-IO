@@ -1,0 +1,37 @@
+The European Bank Recovery and Resolution Directive 2014/59/EU (EBRRD) amended Directive 2001/24/EC on the Reorganisation and Winding up of Credit Institutions (the Reorganisation Directive), so as to require member states to confer on their domestic Resolution Authorities certain tools for reconstructing failing credit institutions.
+One of the tools was the bridge institution tool, which required designated national Resolution Authorities to have the power to transfer to a bridge institution any assets, rights or liabilities of a failing credit institution.
+The Appellants are the assignees of the rights of Oak Finance Luxembourg SA (Oak).
+In June 2014, Oak entered into a facility agreement with a Portuguese bank, Banco Esprito Santo SA (BES), under which it agreed to lend BES approximately $835m (the Oak liability).
+The facility agreement was governed by English law and provided for the English courts to have exclusive jurisdiction over any dispute.
+The entire loan was advanced on 3 July 2014.
+BES made one scheduled payment of approximately $53m, but it shortly became clear that BES was in serious financial difficulties.
+The Central Bank of Portugal, which is the designated Resolution Authority for Portugal for the purposes of the EBRRD, decided to invoke the bridge institution tool to protect depositors funds in BES.
+By a decision dated 3 August 2014 (the August decision), it incorporated the Respondent (Novo Banco) to serve as the bridge institution and transferred specified assets and liabilities of BES to it, purportedly including the Oak liability.
+Under article 145H(2) of the Portuguese Banking Law, however, no liability could be transferred to a bridge institution if it was owed to an entity holding more than 2% of the original credit institutions share capital.
+By a decision dated 22 December 2014 (the December decision), the Central Bank determined that the Oak liability had never been transferred to Novo Banco, as it fell within the article 145H(2) prohibition.
+There are ongoing administrative law proceedings in Portugal in which the Appellants challenge the December decision, which have not yet been resolved.
+The Appellants commenced an action in the English courts for sums due in respect of the Oak loan, on the basis that the Oak liability had been transferred to Novo Banco by the August decision, and that Novo Banco was bound by the jurisdiction clause in the facility agreement.
+Novo Banco countered that the December decision conclusively determined that the liability had not been transferred to it.
+At first instance, relying on article 66 EBRRD, the judge found that the Oak liability had been transferred to Novo Banco by the August decision and that Novo Banco became party to the jurisdiction clause.
+The Court of Appeal allowed Novo Bancos appeal.
+Relying instead on article 3 of the Reorganisation Directive, it held that an English court was bound to recognise the effect of the December decision as a matter of Portuguese law, which was to determine conclusively that the Oak liability had not been transferred.
+The Supreme Court unanimously dismisses the appeal.
+Lord Sumption gives the lead judgment, with which the rest of the Court agrees.
+An English court is required by article 3 of the Recognition Directive to recognise the December decision, and must therefore treat the Oak liability as never having been transferred to Novo Banco.
+Novo Banco was therefore never party to the jurisdiction clause in the facility agreement.
+The provision which is primarily relevant to this appeal is article 3 of the Reorganisation Directive, which determines the applicable law to be applied to a reorganisation measure in England.
+Article 66 of the EBRRD is a more specific provision which concerns enforcement [22].
+Lord Sumption makes two points about the Reorganisation Directive, particularly article 3.
+First, its purpose is to ensure that all assets and liabilities of the institution, regardless of the country in which they are situated, are dealt with in a single process in the home member state.
+This can be achieved only by taking the process as a whole and applying the legal effects attaching to it under the law of the home state in every other member state.
+It is not consistent with the language or the purpose of article 3 that an administrative act such as the December decision, which affects the operation of a reorganisation measure under the law of the home state, should have legal consequences as regards a credit institutions debts which are recognised in the home state but not in other member states. [24 26].
+Second, article 3 does not only give effect to reorganisation measures throughout the Union, but requires them to be applied in accordance with the laws, regulations and procedures applicable in the home member state, unless otherwise provided in this Directive, and to be fully effective in accordance with the legislation of that member state.
+In this legal scheme, it cannot make sense for the courts of another member state to give effect to a reorganisation measure but not to other provisions of the law of the home state affecting its operation [27].
+For these reasons, Lord Sumption rejects the proposition that the effect of the August decision can be recognised without regard to the December decision.
+It does not matter what the correct analysis of the December decision is, provided that it is accepted (as it is) that unless and until it is set aside, it is conclusive as a matter of Portuguese law that the Oak liability had never been transferred.
+It follows from the agreed propositions of Portuguese law and from the requirements of article 3(2) of the Reorganisation Directive that an English court must treat the Oak liability as never having been transferred to Novo Banco.
+Novo Banco was therefore never party to the jurisdiction clause [28].
+Lord Sumption also rejects the Appellants alternative case that, even if the December decision is otherwise entitled to recognition in England, it should be disregarded on the ground that it was a provisional decision pending the final decision of a Portuguese administrative court.
+As a matter of Portuguese law, the December decision is binding in Portuguese law unless and until it is set aside by a Portuguese court [31 33].
+Further, no other conclusion would be consistent with the Directives, particularly article 3 of the Reorganisation Directive, which provides that the implementation of a reorganisation measure such as the August decision is a matter for the administrative or judicial authorities of the home state alone, and article 85 of the EBRRD, which provides that an appeal is not to entail any automatic suspension of the challenged decision [34].
+There is no basis for a reference to the CJEU, as the relevant propositions of EU law are beyond serious argument [35].

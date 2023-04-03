@@ -1,0 +1,33 @@
+Littlewoods overpaid VAT to HMRC between 1973 and 2004.
+Between 2005 and 2008, HMRC repaid the principal sum of 205 million, together with simple interest of 268 million.
+In these proceedings, Littlewoods seek additional interest, calculated on a compound basis as 1.25 billion, on the ground that such interest is due under the common law of restitution, either as restitution for a mistake of law, or as restitution of tax unlawfully demanded (a Woolwich claim).
+The two issues for the Supreme Court in the present case are: (1) Whether Littlewoods common law claims are excluded by sections 78 and 80 of the Value Added Tax Act 1994 (the 1994 Act) as a matter of English law, and without reference to EU law.
+The lower courts found that Littlewoods common law claims were barred by the 1994 Act.
+Littlewoods appeals on this issue; (2) If Littlewoods claims for compound interest are excluded by sections 78 and 80 of the 1994 Act, whether that exclusion is contrary to EU law, in light of the Court of Justice of the European Unions (CJEU) judgment in Case C 591/10 Littlewoods.
+The lower courts found that denying compound interest was contrary to EU law.
+HMRC appeals on this issue.
+Other issues were raised, but these would only need to be decided if Littlewoods were successful on either of the first two issues.
+The Supreme Court unanimously dismisses Littlewoods cross appeal on the first issue, and allows HMRCs appeal on the second issue.
+Lord Reed and Lord Hodge give a joint judgment, with which the rest of the Court agrees.
+The first issue: whether the common law claims are excluded by the 1994 Act Section 78 of the 1994 Act impliedly excludes the claims made by Littlewoods, as a matter of English law, for the following reasons.
+First, the scheme created by section 78 is inconsistent with the availability of concurrent common law claims to interest.
+The right to interest in section 78 is subject to certain limitations, including (i) section 78(1), which limits HMRCs liability to pay interest to cases of error by HMRC [31]; (ii) section 78(3),
+and the provisions to which it refers, which determine that the interest rate is calculated on a simple rather than a compounded basis [32]; (iii) section 78(11), which sets the applicable limitation period, which is shorter than the limitation period that would apply to a common law claim [33].
+These limitations would be defeated and rendered effectively pointless if it were possible for the taxpayer to bring a common law claim[34].
+Second, section 78 states that the liability to pay interest under that section applies if and to the extent that [the Commissioners] would not be liable to do so apart from this section.
+On a literal meaning, this would permit a common law claim for interest to be made outside section 78.
+At the time section 78 was enacted, however, the type of common law claim made by Littlewoods in the present case had not yet been recognised in law, and was thus not contemplated by Parliament when it enacted the legislation.
+It cannot have been Parliaments intention that a common law claim would be permitted in any case where an amount was paid under section 80, as this would render section 78 a dead letter, and would fatally compromise the statutory scheme.
+As such, the reservation in section 78(1) (italicised above) cannot be read literally.
+It must be construed as referring only to statutory liabilities to pay interest, not to a common law liability for interest [34 39] The second issue: whether EU law requires the payment of compound interest The CJEU judgment does not require reimbursement of the losses constituted by the unavailability of money.
+The CJEU has given member state courts a discretion to provide reasonable redress in the form of interest in addition to the principal sum.
+The lower courts in this case read too much into the phrase adequate indemnity in the CJEU judgment [51, 70].
+Three reasons support this view.
+First, when read as a whole, the CJEUs judgment, which directly addresses the issue in this case, is clear.
+The judgment can be analysed in the following three parts: (i) there is a general entitlement to interest on tax levied in breach of EU law (paras 24 26 of the CJEU judgment); (ii) it is for member states to determine whether the interest rate is simple or compound, subject to the principle of effectiveness which requires that the calculation of that interest should amount to reasonable redress or an adequate indemnity for the taxpayers loss (paras 27 29 of the CJEU judgment); and (iii) the suggestion that interest which is over 125% of the principal sum might be such reasonable redress (para 30 of the CJEU judgment) [52 59, 71].
+Second, there is a widespread practice among EU member states of awarding taxpayers simple interest on the recovery of taxes which were unduly paid.
+If the CJEU were seeking to outlaw that practice, one would have expected clear words to that effect [60, 72].
+Third, the prior and subsequent case law of the CJEU is consistent with the principle that there is an EU right to interest, but that the rate and method of calculation of interest are matters for the member states.
+Case C 271/91 Marshall, where the CJEU held that interest had to be awarded to take account of the diminution in value of money over time, was a case about the measure of compensation for sex discrimination, and is distinguishable from the present case [61 69].
+In summary, the payment of interest in this case cannot realistically be regarded as having deprived Littlewoods of an adequate indemnity [73].
+The other issues raised in the appeal do not arise for decision, as they would arise only if Littlewoods were successful on either of the first two issues [16].

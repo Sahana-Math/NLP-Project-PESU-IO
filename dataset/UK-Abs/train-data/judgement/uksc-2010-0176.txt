@@ -1,0 +1,759 @@
+There are three cases before the Court, two on appeal from the Court of Appeal of England and Wales and one from the Inner House of the Court of Session in Scotland.
+This judgment deals with the two English cases, while a separate judgment will deal with the Scottish case.
+The issue common to all three is the scope for judicial review by the High Court or Court of Session of unappealable decisions of the Upper Tribunal established under the Tribunals, Courts and Enforcement Act 2007 (the 2007 Act).
+It is no longer argued on behalf of the Government that such decisions are not amenable to judicial review at all.
+But it is argued that they are only reviewable in exceptional circumstances.
+The claimants argue that no such limit exists.
+The debate, therefore, has focussed upon the effect of the creation of a wholly new and integrated tribunal structure under the 2007 Act.
+The cases
+It has been helpful to hear three different cases together, all raising essentially the same question in different contexts.
+In all of them the claimant failed in an appeal to the First tier Tribunal set up under the 2007 Act and was refused permission to appeal to the Upper Tribunal against that decision both by the First tier Tribunal and by the Upper Tribunal.
+In all three the claimant seeks a judicial review of the refusal of permission to appeal by the Upper Tribunal.
+In R (Cart) v The Upper Tribunal, Mr Cart appealed to the Social Security and Child Support Tribunal (whose jurisdiction has since been taken over by the First tier Tribunal) against the refusal of the Child Support Agency (whose functions have since been taken over by the Child Maintenance and Enforcement Commission) to revise a variation in the level of child maintenance to be paid to his ex wife for the support of their children.
+His appeal was dismissed in October 2007.
+He applied for permission to appeal to the Child Support Commissioners.
+In June 2008, Commissioner Jacobs gave him permission to appeal on three grounds but refused him permission to appeal on a fourth.
+The functions of the Child Support Commissioners were then taken over by the Administrative Appeals Chamber of the Upper Tribunal.
+Following a hearing in January 2009 the Upper Tribunal, consisting of the Senior President, Carnwath LJ, and Tribunal Judge Jacobs (as the Commissioner had now become) dismissed his appeal on the three grounds for which permission had been given and declined permission to reopen the fourth: [2009] UKUT 62 (AAC).
+Mr Cart sought judicial review of the Upper Tribunals refusal of permission to appeal on the fourth point.
+It was agreed that the amenability of the Upper Tribunal to judicial review should be determined as a preliminary issue.
+In December 2009, the Divisional Court dismissed his claim for judicial review, holding that this was only available in exceptional circumstances: [2009] EWHC 3052 (Admin), [2010] 2 WLR 1012.
+In July 2010, the Court of Appeal dismissed his appeal, reaching the same result but by a different route: [2010] EWCA Civ 859; [2011] 2 WLR 36.
+It will be necessary to return to their reasoning in due course.
+Mr Cart now appeals to this Court.
+R (MR (Pakistan)) v The Upper Tribunal concerns a native of Pakistan who has been in the United Kingdom since June 2007.
+At that stage he had a multi visit visa valid until June 2009.
+In March 2010 he applied for asylum on the basis of his conversion to Christianity.
+This was refused in April 2010.
+His appeal to the Immigration and Asylum Chamber of the First tier Tribunal was dismissed less than two weeks later.
+His application to the First tier Tribunal for permission to appeal to the Upper Tribunal was refused in May and his application to the Upper Tribunal was refused only days later by Ouseley J, sitting as a judge of the Upper Tribunal.
+MR sought judicial review of Ouseley Js decision.
+Permission to apply was granted by Judge Nicholas Cooke QC, sitting as a High Court Judge.
+But at the hearing of the claim in December 2010, Sullivan LJ determined a preliminary issue concerning the amenability of the Upper Tribunal to judicial review in accordance with the decision of the Court of Appeal in Cart and dismissed the claim: [2010] EWHC 3558 (Admin).
+He granted a certificate under section 12 of the Administration of Justice Act 1969, so that the appeal against his decision could leap frog over the Court of Appeal and be heard by this Court together with the appeals in Cart and Eba.
+In Eba v Advocate General for Scotland, Ms Eba appealed to the Social Entitlement Chamber of the First tier Tribunal against the refusal of her claim for disability living allowance.
+Her appeal was also refused, as were her applications both to the First tier Tribunal and to the Upper Tribunal for permission to appeal to the Upper Tribunal against that refusal.
+Ms Ebas petition for judicial review of each of those decisions was dismissed by the Lord Ordinary, who followed the reasoning of the Divisional Court in Cart: [2010] CSOH 45, 2010 SLT 547.
+She reclaimed that refusal, on the ground that judicial review was not so limited.
+The Advocate General cross appealed on the ground that the Upper Tribunal was not amenable to judicial review at all.
+The First Division refused the cross appeal but allowed Ms Ebas reclaiming motion on the basis that the supervisory jurisdiction of the Court of Session was not so limited and that, notwithstanding the decision of the Court of Appeal in Cart, it did not follow that the result should be the same in Scotland: [2010] CSIH 78; 2010 SLT 1047.
+The First Division granted the Advocate General permission to appeal to this Court.
+Conveniently, however, we heard first the arguments of all three claimants, Mr Richard Drabble QC for Mr Cart, Mr Jonathan Mitchell QC for Ms Eba, and Mr Manjit Gill QC for MR, followed by oral arguments for two of the interveners, Mr Michael Fordham QC for the Public Law Project, and Mr James Mure QC for the Lord Advocate, followed by Mr James Eadie QC for the Secretaries of State for Justice and for the Home Department and the Child Maintenance and Enforcement Commission and Mr David Johnston QC for the Advocate General for Scotland.
+Mr Alex Bailin QC and others also made helpful written submissions on behalf of the intervener JUSTICE.
+It has been particularly useful to be able to look at the issues in the context of the two jurisdictions, social security (including for this purpose child support) and immigration and asylum, which together make up the great bulk of the business of the new tribunal system, and in the context of the supervisory jurisdiction of the higher courts in both Scotland and England and Wales.
+The judgment in Eba will deal with the supervisory jurisdiction of the Court of Session in Scotland while this judgment will deal with the supervisory jurisdiction of the High Court in England and Wales.
+The tribunal systems with which we are concerned, both before and after their restructuring in the 2007 Act, however, are common to both parts of the United Kingdom, and in many contexts also to Northern Ireland.
+The tribunal system
+One of the most important and controversial features of the development of the legal system in the 20th century was the creation and proliferation of statutory tribunals separate from the ordinary courts.
+Mostly they were set up to determine claims between an individual and the state to war pensions, to social security benefits, to immigration and asylum, to provision for special educational needs, to be released from detention in a psychiatric hospital, against the refusal or withdrawal of licences or approvals to conduct certain kinds of business, for the determination of liability to direct and indirect taxation, for compensation for compulsory purchase and so on.
+In some instances, they were set up to adjudicate upon statutory schemes, generally those which modified what would otherwise be an ordinary contractual relationship between private persons between employer and employee or between landlord and tenant of residential property.
+These jurisdictions were and remain very diverse.
+The subject matter can range from liability to VAT or entitlement to performing rights or the price of leasehold enfranchisement, which can be worth millions of pounds, to the amount of weekly means tested benefits or war pensions entitlement, which may be worth only a few pounds at a time but may mean a great deal to the claimants involved and to others like them.
+The judiciary, also, could and still can be very diverse, ranging from seconded High Court judges or senior Queens Counsel to fee paid part timers from a great variety of legal professional backgrounds.
+In many cases, tribunals also had and still may have members who were not legally qualified but had other professional qualifications or experience which was particularly suited to the subject matter of the claim.
+Some had single tier structures, some with and some without a right of appeal to the High Court or Court of Appeal.
+Some had two tier structures with their own appellate tier, again with or without a right of appeal to the High Court or Court of Appeal.
+But in general these tribunal systems shared some common characteristics.
+They were set up by statute to administer complex and rapidly changing areas of the law.
+Their judges were expected to know this law without having to have lawyers for the parties to explain it to them.
+Their members were expected to have relevant expertise or experience in the subject matter of the dispute, not only so that they would be able to adjudicate upon factual issues without the help of lawyers for the parties, but also so that the parties could feel confident that the overall balance of the panel (for example between employers and employees) would produce impartial results.
+Their procedures were also tailored to the subject matter of the dispute and they were not bound by the technical rules of evidence.
+While legal representation was common in those tribunals where large sums of money were at stake, and latterly in mental health review tribunals where personal liberty was at stake, the original expectation in most tribunals was that people would not need representation, or could be helped by specialist non lawyer representatives.
+In theory, therefore, the respective roles of the tribunal and the parties were rather different from their roles in the ordinary courts.
+The tribunal was more than a neutral referee before whom each party was expected to lay out all the material necessary to decide the case for the judge to choose which he preferred (compare Bingham, The Rule of Law, 2010, p 89).
+In general, this diverse specialism was regarded as a strength rather than a weakness, although the concomitant lack of legal aid in almost all tribunals was regretted by those who saw the benefits which skilled representation could bring.
+However, another feature of these tribunal systems was more controversial.
+They were mostly resourced and administered by whichever Department of State was responsible for the statutory scheme in question, rather than by the Department which was responsible for the administration of justice in the ordinary courts.
+This led to fears that they were not, or at least were not seen to be, sufficiently independent of those sponsoring Departments.
+The Department may have seen the independence and expertise of the tribunals as an integral part of the proper administration of a statutory scheme which was designed to bring certain benefits to the people.
+But others may have feared that they were simply accomplices with the Department in denying to claimants the benefits which were properly theirs.
+In between these two extremes, there might well be a perceived risk that the tribunals would be more inclined to accept the Departmental view of what the law was, rather than an alternative view which was more favourable to the claimant or taxpayer or whomever.
+The system was greatly improved by the Tribunals and Inquiries Act 1958, following the Report of the Franks Committee on Administrative Tribunals and Inquiries in 1957 (Cmnd 218), with its insistence on openness and accountability to the higher courts.
+In particular, provision was made in section 9 for appeals to the High Court which could be applied to any specified tribunal; and all (save two) previous exclusions of judicial review were abrogated by section 11.
+The Franks Committee was firm that the prerogative orders were clearly necessary in cases where questions of jurisdiction are involved and in cases where no provision is made for appeals on points of law.
+Accordingly no statute should contain words purporting to oust those remedies (para 117).
+A later improvement was to strengthen the leadership of particular tribunal systems by introducing a presidential structure, headed by a High Court or Circuit Judge.
+The final solution, following the Report of Sir Andrew Leggatt, Tribunals for Users One System, One Service (TSO, March 2001), was to transfer the administration of tribunals to the Ministry of Justice and to set up a new, integrated tribunal structure to take over the jurisdiction of most, but not all, of the existing systems under the 2007 Act.
+But before turning to the effect of that Act, it is necessary to see how judicial review was employed under the old system.
+Judicial review in its modern form, of course, is the product of two developments.
+One was the integration and simplification of the procedures for obtaining the former prerogative writs of certiorari, prohibition and mandamus or declaratory relief, in the revised Order 53 of the Rules of the Supreme Court, introduced in 1978 following the recommendations of the Law Commissions Report on Remedies in Administrative Law (1976, Law Com No 73).
+The other was the vigorous development of the substantive law, most notably of course in Anisminic v Foreign Compensation Commission [1969] 2 AC 147.
+Mr Fordham, for the Public Law Project, rightly reminds us that the remedy of certiorari had long been available to quash the decision of an inferior court or tribunal for error of law on the face of the record: see R v Northumberland Compensation Appeal Tribunal, Ex p Shaw [1952] 1 KB 338.
+There the tribunal had wrongly interpreted the service to be taken into account in assessing the applicants compensation for loss of office.
+There was no right of appeal against its decisions.
+The Attorney General had argued that certiorari would only lie to prevent a tribunal exceeding its jurisdiction.
+Both the Divisional Court and the Court of Appeal emphatically disagreed.
+This was not to assume an appellate function which had not been given to it; the court had an inherent jurisdiction to control all inferior tribunals, not in an appellate capacity, but in a supervisory capacity.
+This control extends not only to seeing that the inferior tribunals keep within their jurisdiction, but also to seeing that they observe the law.
+The control is exercised by means of a power to quash any determination by the tribunal which, on the face of it, offends against the law.
+The Kings Bench does not substitute its own views for those of the tribunal, as a Court of Appeal would do.
+It leaves it to the tribunal to hear the case again . : see Denning LJ, at pp 346 7.
+Singleton LJ lamented the lack of a right of appeal on a point of law, which he thought would save a great deal of time and trouble in deciding whether certiorari would lie: see pp 345 6.
+No doubt such views were influential when the Franks Committee came to recommend such a right.
+Then came Anisminic Ltd v Foreign Compensation Commission [1969] 2 AC 147, where not only was there no right of appeal from the Commissions decisions but there was also an express provision in the Foreign Compensation Act 1950 that those decisions shall not be called in question in any court of law (s 4(4)).
+This provision was one of the two expressly excepted from the general abrogation of such clauses in section 11 of the 1958 Act.
+In holding that, nevertheless, it was not effective to oust the jurisdiction of the High Court to set aside a decision which was a nullity, and that a decision made in error of law was a nullity, the House of Lords effectively removed the distinction between error of law and excess of jurisdiction.
+Where there was a right of appeal, of course, an aggrieved party would be expected to use that rather than judicial review.
+Judicial review was always a remedy of last resort.
+However, where there was no such right, there are numerous examples, at the highest level, of resort to judicial review to correct an error of law made by an inferior tribunal.
+Two will suffice.
+In Re Woodling, Woodling v Secretary of State for Social Services [1984] 1 WLR 348, the question of law was whether cooking meals was attention in connection with bodily functions for the purpose of attendance allowance.
+It reached the House of Lords by way of judicial review of the refusal of the Social Security Commissioner to grant leave to appeal from the decision of the Attendance Allowance Board.
+Significantly for the cases before this Court, the Board and the Commissioner were bound by an earlier decision of the Court of Appeal (R v National Insurance Commissioner, Ex p Secretary of State for Social Services [1981] 1 WLR 1017) excluding cooking; and when it was suggested to the Commissioner that this decision was wrong he indicated that he could add nothing to his earlier refusal of leave. (The challenge failed in the House of Lords, their lordships taking the view that attention in connection with bodily functions referred to things which the fit man normally does for himself, it not occurring to them that this might include cooking his own meals.)
+That was a social security case.
+R v Immigration Appeal Tribunal, Ex p Bakhtaur Singh [1986] 1 WLR 910 was an immigration case.
+The claimants appeal against the decision of the Secretary of State to deport him failed before the adjudicator and the Immigration Appeal Tribunal refused leave to appeal to that Tribunal.
+The case reached the House of Lords by way of judicial review of that refusal.
+The issue was whether the public interest in paragraph 154 of the Immigration Rules could include the interests of the Sikh community as well as the public interest in maintaining effective immigration control.
+Once again, the adjudicator had considered himself bound by dicta in an earlier High Court case (R v Immigration Appeal Tribunal, ex p Darsham Singh Sohal [1981] Imm AR 20).
+Thus the principle was firmly established that the unappealable decisions of inferior tribunals, including the refusal of leave to appeal, were amenable to judicial review on all the usual grounds.
+Indeed, in some cases, judicial review was considered a more appropriate remedy, even though statute provided another way of correcting errors of law: in Bone v Mental Health Review Tribunal [1985] 3 All ER 330, for example, Nolan J thought judicial review preferable to the power of a mental health review tribunal to state a case for the opinion of the High Court and the case stated procedure fell into disuse.
+However, the availability of judicial review was seen as a particular problem in the context of immigration and asylum appeals.
+In the Nationality, Immigration and Asylum Act 2002, s 101(2), Parliament introduced a form of statutory review of the refusal by the Immigration Appeal Tribunal of permission to appeal to that Tribunal.
+This was conducted by a single High Court judge without either an oral hearing or any appeal from his decision.
+It was therefore much swifter than the standard judicial review process, which involves the possibility of both written and oral submissions before both a High Court judge and a Lord Justice of Appeal.
+In R (G) v Immigration Appeal Tribunal [2005] 1 WLR 1445, the Court of Appeal held that, although the introduction of this new statutory procedure did not remove the judicial review jurisdiction, the new procedure was an adequate and proportionate protection for the claimants rights and it was therefore a proper exercise of the courts discretion to decline to entertain an application for judicial review of issues which were or could have been the subject of statutory review.
+Lord Phillips MR observed, at para 20: The consideration of proportionality involves more than comparing the remedy with what is at stake in the litigation.
+When Parliament enacts a remedy with the clear intention that this should be pursued in place of judicial review, it is appropriate to have regard to the considerations giving rise to that intention.
+The satisfactory operation of the separation of powers requires that Parliament should leave the judges free to perform their role of maintaining the rule of law but also that, in performing that role, the judges should, so far as consistent with the rule of law, have regard to legislative policy.
+The same approach was adopted when the Asylum and Immigration (Treatment of Claimants et cetera) Act 2004 collapsed the former two tier appellate structure into one.
+If the Asylum and Immigration Tribunal refused to order the reconsideration of a decision, the aggrieved party could ask the High Court to review the matter on paper and its decision was final (2002 Act, s 103A).
+The Tribunals, Courts and Enforcement Act 2007
+Part 1 of the 2007 Act established the new unified tribunal structure which was recommended in the Leggatt Report.
+There is a First tier Tribunal, which is organised into chambers according to subject matter, each with its own President.
+It consists of its judges and other (non lawyer) members.
+There is an Upper Tribunal, also organised into chambers according to subject matter, each with its own President.
+With one exception, the Upper Tribunal Presidents are all High Court judges, but this is not a statutory requirement.
+It too consists of its judges and other (non lawyer) members.
+While most of the tribunal judiciary are specifically appointed to that role, all the judges in the ordinary courts, from the Lords Justices of Appeal to the District Judges in the Magistrates Courts, are automatically judges of both the First tier and Upper Tribunals.
+The whole is presided over by the Senior President of Tribunals, who shares the responsibility for organising the chambers with the Lord Chancellor (see s 7).
+The Senior President is currently a Lord Justice of Appeal, but the Act provides two routes to appointment: the first is that the Lord Chancellor and heads of the judiciary in England and Wales, Scotland and Northern Ireland all agree to recommend an appeal court judge for appointment; and only if that process does not produce a result does the second route, selection by the Judicial Appointments Commission, which is not limited to appeal court judges, apply (see Schedule 1, para 2(5)).
+Parliament has therefore expected, but not insisted, that the Senior President be an appeal court judge.
+The new structure may look neat but the diversity of jurisdictions accommodated means that it is not as neat as it looks.
+Thus, for example, the jurisdiction of the Special Commissioners of Income Tax and the VAT and Duties Tribunal has been assigned to the First tier Tribunal, although the importance of the decisions they make and the expertise of their judiciaries is, and should be, at least the equivalent of that of the Social Security Commissioners, who as appellate judges are assigned to the Upper Tribunal.
+Section 3(5) provides that The Upper Tribunal is to be a superior court of record.
+The Upper Tribunal has in fact three different roles.
+First, it may be the tribunal of first instance.
+Thus, for example, the Lands Chamber has both the first instance and appellate jurisdictions of the former Lands Tribunal; the Administrative Appeals Chamber has the jurisdiction of the former Transport Tribunal; and the Tax and Chancery Chamber has the jurisdiction of the former Financial Services and Markets Tribunal.
+Thus some first instance jurisdictions have been transferred to the Upper Tribunal whereas others of equivalent importance and difficulty, particularly in the tax field, have been transferred to the First tier Tribunal.
+Second, and this is a major innovation in the 2007 Act, it may exercise a statutory jurisdiction which is the equivalent of the judicial review jurisdiction of the High Court in England and Wales or Northern Ireland (ss 15, 16, 17).
+This only applies if certain conditions are met, the most important of which is that the application falls within a class specified in a direction given by the Lord Chief Justice or his nominee with the consent of the Lord Chancellor under Part 1 of Schedule 2 to the Constitutional Reform Act 2005 (s 18(6)).
+Once such a direction has been given, any application for judicial review or permission to apply for judicial review which is made to the High Court in that class of case must be transferred to the Upper Tribunal (Senior Courts Act 1981, s 31A(2)).
+The High Court also has power to transfer judicial review cases of other kinds to the Upper Tribunal if it appears just and convenient to do so (1981 Act, s 31A(3)).
+Similar provision is made in Scotland, in that judicial review cases in a specified class must, and others may, be transferred from the Court of Session to the Upper Tribunal (2007 Act, s 20(1)).
+The difference is that the application must first be made to the Court of Session, whereas in England and Wales and Northern Ireland applications in the specified classes should be made direct to the Upper Tribunal.
+Third, and probably most important, there is a right of appeal to the Upper Tribunal on any point of law arising from a decision made by the First tier Tribunal other than an excluded decision (s 11(1), (2)).
+This right may only be exercised with the permission of either the First tier or the Upper Tribunal (s 11(3), (4)).
+Section 11(5) lists the decisions which are excluded from the right of appeal.
+These include decisions of a description specified in an order made by the Lord Chancellor (s 11(5)(f)).
+The current list is contained in the Appeals (Excluded Decisions) Order 2009, as amended in 2010 to take account of the inclusion of immigration and asylum appeals within the new structure.
+There is a right of appeal to the Court of Appeal, in England and Wales or Northern Ireland, or the Court of Session in Scotland, on any point of law arising from a decision made by the Upper Tribunal other than an excluded decision (s 13(1), (2)).
+Excluded decisions include any decision of the Upper Tribunal on an application under section 11(4)(b) (application for permission or leave to appeal) (s 13(8)(c)).
+These appeals also require permission either from the Upper Tribunal or, if refused by the Upper Tribunal, from the relevant appellate court (s 13(3), (4), (5)).
+Where this would be a second tier appeal (that is, an appeal from the decision of the Upper Tribunal on appeal from the First tier Tribunal), the Lord Chancellor has exercised the power granted to him by section 13(6) to order that permission shall not be granted unless (a) the proposed appeal would raise some important point of principle or practice; or (b) there is some other compelling reason for the relevant appellate court to hear the appeal (Appeals from the Upper Tribunal to the Court of Appeal Order 2008, SI 2008 No 2834, art 2).
+Equivalent provision has been made for appeals from the Upper Tribunal to the Court of Session in Scotland by rule 41.59 of the Act of Sederunt (Rules of Court of Session 1994) 1994 (inserted by SSI 2008 No 349).
+These criteria are, of course, those applicable to a second tier appeal from a court to the Court of Appeal in England and Wales under section 55(1) of the Access to Justice Act 1999.
+It is worth noting that both the First tier Tribunal and the Upper Tribunal have power to review their own decisions, but this power does not apply to excluded decisions (see ss 9(1) and 10(1) respectively).
+This means that the Upper Tribunal has no power to review its own decision to refuse permission to appeal to the Upper Tribunal, even if it is convinced that that decision was wrong (compare the facts of Re Wooding, para 19 earlier).
+There is no express provision in the 2007 Act which makes any attempt to limit or remove the supervisory jurisdiction of the High Courts of England and Wales or Northern Ireland and the Court of Session in Scotland to review the decisions of the Upper Tribunal.
+It is nevertheless argued, and both the Divisional Court and the Court of Appeal held, that in the light of the system introduced by the 2007 Act the exercise of that jurisdiction should be limited to certain exceptional cases.
+Before turning to the possible approaches available to this Court, it is worth noting the various ways in which that argument has been put in the course of these proceedings.
+The developing argument
+The Cart case was heard by the Divisional Court along with two cases involving the Special Immigration Appeals Commission (SIAC).
+As does section 3(5) of the 2007 Act, section 1(3) of the Special Immigration Appeals Commission Act 1997 provides that SIAC shall be a superior court of record.
+The Governments primary case was that this made both tribunals immune from judicial review.
+This is not surprising, given that the same view had been expressed, of the Employment Appeal Tribunal, by Morison J in Chessington World of Adventures Ltd v Reed [1998] ICR 97, and by Sedley LJ in R v Regional Office of the Employment Tribunals (London North), Ex p Sojorin (unreported), 21 February 2000, and at para 6.31 of the Leggatt Report, and of the Upper Tribunal itself in de Smiths Judicial Review 6th ed (2007), para I 093.
+Nevertheless the argument was comprehensively demolished by Laws LJ, with whom Owen J agreed, in a typically subtle and erudite judgment, to which the following brief summary cannot do justice.
+It was a constitutional solecism to consider that merely to designate a body a superior court of record was sufficient to preclude judicial review.
+This could only be done by the most clear and explicit language and not by implication, still less by what was effectively a deeming provision.
+The rule of law requires that statute law be interpreted by an authoritative and independent judicial source: . the need for such an authoritative judicial source cannot be dispensed with by Parliament.
+This is not a denial of legislative sovereignty, but an affirmation of it .
+The requirement of an authoritative judicial source for the interpretation of law means that Parliaments statutes are always effective; . (para 38).
+That source was the High Court.
+This was not because it was a superior court of record but because it was a court of unlimited jurisdiction.
+Other courts and tribunals, having a limited jurisdiction, were not that source and were susceptible to judicial review by the High Court.
+Unreviewable courts of limited jurisdiction were exceptional.
+In the light of that comprehensive demolition, Mr Eadie has not since tried to rebuild the argument.
+He does not need to do so, because (in relation to the Upper Tribunal but not to SIAC) he has succeeded on his secondary case, that judicial review is only exercisable in rare and exceptional cases.
+Laws LJ accepted the argument on the basis that the newly constituted Upper Tribunal was the alter ego of the High Court within the areas covered by the tribunal system: it constituted an authoritative, impartial and independent judicial source for the interpretation and application of the relevant statutory tests.
+The rule of law did not require that it be subject to review for error of law within its jurisdiction: it had the final power to interpret for itself the law it must apply (para 94).
+But in the grossly improbable event that [Upper Tribunal] were to embark upon a case which was frankly beyond the four corners of its statutory remit there was no reason why the High Court should not correct it.
+With more caution, he accepted that it might also intervene where there has been a wholly exceptional collapse of fair procedure: something as gross as actual bias on the part of the tribunal (para 99).
+Laws LJ recognised that if the Upper Tribunal were in truth the alter ego of the High Court the logical consequence would be that it was wholly immune from the supervision of the High Court.
+The Government therefore pursued that argument before the Court of Appeal.
+Sedley LJ, giving the judgment of the court, rejected it: . the [Upper Tribunal] is not an avatar of the High Court at all: far from standing in the High Courts shoes, . , the shoes the [Upper Tribunal] stands in are those of the tribunals it has replaced (para 19).
+But he agreed that the supervisory jurisdiction of the High Court, well known to Parliament as one of the great historic artefacts of the common law, runs to statutory tribunals both in their old and in their new incarnation unless ousted by the plainest possible statutory language.
+There is no such language in the 2007 Act (para 20).
+Nevertheless, it did not follow that judicial review should be available on the full panoply of grounds which had been developed over the last half century.
+Judicial review had always been a remedy of last resort.
+As the Court of Appeal had recognised in R (Sivasubramaniam) v Wandsworth County Court [2003] 1 WLR 475, permission would not be granted where satisfactory alternative recourse existed, whether or not it had been exhausted.
+The scope of judicial review was a matter of principle, not discretion.
+But it could be changed to keep pace with other changes.
+The complete reordering of administrative justice was such a change: The tribunal system is designed to be so far as possible a self sufficient structure, dealing internally with errors of law made at first instance and resorting to higher appellate authority only where a legal issue of difficulty or of principle requires it.
+By this means serious questions of law are channelled into the legal system without the need of post Anisminic judicial review. (para 30) Two principles needed to be reconciled: one was the relative autonomy which Parliament had invested the tribunals as a whole and the Upper Tribunal in particular; the other was the constitutional role of the High Court as guardian of the standard of legality and due process from which the Upper Tribunal was not exempt (para 35).
+There was a true jurisprudential difference between an error of law made in the course of an adjudication which a tribunal is authorised to conduct and the conducting of an adjudication without lawful authority.
+For the former, no system of law can guarantee to be infallible.
+But [o]utright excess of jurisdiction by the [Upper Tribunal] and or denial by it of fundamental justice, should they ever occur, are in a different class: they represent the doing by the [Upper Tribunal] of something that Parliament cannot possibly have authorised it do so (para 36).
+Thus, by this rather different route, the Court of Appeal in Cart arrived at the same practical conclusion as had both the Divisional Court in Cart and the Court of Appeal in Sivasubramaniam [2003] 1 WLR 475.
+Sivasubramaniam was, of course, dealing with the new system of civil appeals brought in under the Access to Justice Act 1999 in response to the Bowman Report (1997).
+For the first time, virtually all appeals from a district judge to a circuit judge in a county court required permission to appeal.
+Refusal of permission by the circuit judge meant that there was no way, other than by judicial review, of having the case scrutinised by a High Court judge.
+However, while judicial review was not ousted, the Court of Appeal considered the new scheme provided the litigant with fair, adequate and proportionate protection against the risk that the judge of the lower court may have acted without jurisdiction or fallen into error (para 54).
+Permission to apply for judicial review should therefore not be granted except in very rare cases where it was sought on the ground of jurisdictional error in the narrow, pre Anisminic sense, or procedural irregularity of such a kind as to constitute a denial of the applicants right to a fair hearing (para 56).
+In R (Sinclair Gardens Investments (Kensington) Ltd) v Lands Tribunal [2005] EWCA Civ 1305, [2006] 3 All ER 650, essentially the same approach was applied to the refusal, by a non lawyer member of the Lands Tribunal, of permission to appeal from a determination of a Leasehold Valuation Tribunal relating to residential service charges.
+Thus the mere fact that a decision by the Lands Tribunal was obviously wrong in law was not enough to justify its being judicially reviewed (para 56); although there might be exceptional circumstances other than those identified in Sivasubramaniam which would justify this, for example where there were conflicting decisions in Leasehold Valuation Tribunals which cried out for definitive resolution (para 57).
+On the other hand, in Sivasubramaniam itself, the Court of Appeal had recognised the special features of the asylum jurisdiction which justified the former practice of unrestricted judicial review of refusals of leave to appeal.
+In MR (Pakistan), therefore, Mr Manjit Gill argued that those special features justified making an exception to the principles adopted by the Court of Appeal in Cart.
+Sullivan LJ disagreed.
+The immigration and asylum jurisdiction was not the only one in which claimants might be unrepresented, or particularly vulnerable, or where fundamental human rights were involved, or where the law was complex.
+There was no principled justification for maintaining a historical exemption: one of the basic purposes of the 2007 Act was to unify the procedures of the many and disparate tribunals which had been gathered into the new structure.
+It would be a significant invasion of the coherence of the new system to maintain such a historical exemption (para 53).
+The field of choice in this Court
+The way in which the argument has developed through the proceedings which are now collected before us enables us to be clear on three points.
+First, there is nothing in the 2007 Act which purports to oust or exclude judicial review of the unappealable decisions of the Upper Tribunal.
+Clear words would be needed to do this and they are not there.
+The argument that making the Upper Tribunal a superior court of record was sufficient to do this was killed stone dead by Laws LJ and has not been resurrected.
+Second, it would be completely inconsistent with the new structure introduced by the 2007 Act to distinguish between the scope of judicial review in the various jurisdictions which have now been gathered together in that new structure.
+The duties of the Senior President, set out in section 1(2), clearly contemplate that the jurisdictions will retain their specialist expertise, so that one size does not necessarily fit all; but the relationships of its component parts with one another and with the ordinary courts are common to all.
+So too must be the principles adopted by the High Court in deciding the scope of judicial review.
+Third, the scope of judicial review is an artefact of the common law whose object is to maintain the rule of law that is to ensure that, within the bounds of practical possibility, decisions are taken in accordance with the law, and in particular the law which Parliament has enacted, and not otherwise.
+Both tribunals and the courts are there to do Parliaments bidding.
+But we all make mistakes.
+No one is infallible.
+The question is, what machinery is necessary and proportionate to keep such mistakes to a minimum? In particular, should there be any jurisdiction in which mistakes of law are, either in theory or in practice, immune from scrutiny in the higher courts?
+In the course of oral argument before the Court it became clear that there were three possible approaches which the Court could take.
+First, we could accept the view of the courts below in Cart and MR that the new system is such that the scope of judicial review should be restricted to pre Anisminic excess of jurisdiction and the denial of fundamental justice (and possibly other exceptional circumstances such as those identified in Sinclair Gardens).
+Second, we could accept the argument, variously described in the courts below as elegant and attractive, that nothing has changed.
+Judicial review of refusals of leave to appeal from one tribunal tier to another has always been available and with salutary results for the systems of law in question.
+Third, we could adopt a course which is somewhere between those two options, and was foreshadowed by Dyson LJ (with the enthusiastic support of Longmore LJ) in R (Wiles) v Social Security Commissioner [2010] EWCA Civ 258 but rejected by the Court of Appeal in Cart, namely that judicial review in these cases should be limited to the grounds upon which permission to make a second tier appeal to the Court of Appeal would be granted.
+(i) The exceptional circumstances approach
+The approach of the Divisional Court and Court of Appeal would lead us back to the distinction between jurisdictional and other errors which was effectively abandoned after Anisminic.
+It is a distinction which lawyers can readily grasp.
+As Denning MR put it in Shaws case [1952] 1 KB 338, 346, A tribunal may often decide a point of law wrongly whilst keeping well within its jurisdiction.
+There are, however, several objections to reviving it.
+First, we would not in fact be turning the clock back to the days before Anisminic because, as we have seen, certiorari was available to correct errors of law on the face of the record made by tribunals of limited jurisdiction.
+We would be re introducing a distinction which had become relevant for the most part only where judicial review was expressly excluded, which it is not here.
+Secondly, the distinction was given its quietus by the majority in Anisminic not least because the word jurisdiction has many meanings ranging from the very wide to the very narrow.
+By the narrow original sense both Lord Reid and Lord Pearson meant that the tribunal had asked itself the wrong question.
+But, as Lord Reid explained, a tribunal does this if it does any of the things which would ordinarily render its decision susceptible to judicial review (at p 171).
+And, as Lord Pearson observed, there has been evolution over the centuries and there have been many technicalities.
+There have also been many border line cases (at p 195).
+And Lord Wilberforce did not find the expressions asking the wrong question or applying the wrong test wholly satisfactory, although he agreed that such decisions were a nullity (at p 210).
+If the approach of the Court of Appeal in Cart is maintained we may expect a return to some of the technicalities of the past.
+Thirdly, as Lord Wilberforce pointed out (at p 207), it does of course lie within the power of Parliament to provide that a tribunal of limited jurisdiction should be the ultimate interpreter of the law which it has to administer: the position may be reached, as the result of statutory provisions, that even if they make what the courts might regard as decisions wrong in law, these are to stand.
+But there is no such provision in the 2007 Act.
+There is no clear and explicit recognition that the Upper Tribunal is to be permitted to make mistakes of law.
+Certain decisions are unappealable and for the most part there are obvious practical reasons why this should be so.
+But this does not mean that the tribunal must always be permitted to make errors of law when making them.
+The consideration which weighed most heavily with the Court of Appeal in Sivasubramaniam was proportionality.
+There must be a limit to the resources which the legal system can devote to the task of trying to get the decision right in any individual case.
+There must be a limit to the number of times a party can ask a judge to look at a question.
+The Court of Appeal took the view that, in the sorts of cases coming before the district judges in the county courts, it was enough if both the district judge and the circuit judge could detect no arguable case that the district judge had gone wrong.
+There was no need, save in the two extreme and exceptional cases identified, for a High Court judge to take another look especially as, under the current judicial review procedures, it would then be possible for the case to be looked at another four times.
+This approach accepts that a certain level of error is acceptable in a legal system which has so many demands upon its limited resources.
+Some might question whether it does provide sufficient protection against mistakes of law.
+In the ordinary courts, unlike the new tribunal system, there may be an appeal on a point of fact as well as law.
+It makes sense to limit such appeals to those with a real prospect of success.
+But judicial review is not such an appeal.
+The district judge and the circuit judge may both have gone wrong in law.
+They may work so closely and regularly together that the latter is unlikely to detect the possibility of error in the former.
+But at least in the county courts such errors are in due course likely to be detected elsewhere and put right for the future.
+The county courts are applying the ordinary law of the land which is applicable in courts throughout the country, often in the High Court as well as in the county courts.
+The risk of their developing local law is reduced although by no means eliminated.
+But that risk is much higher in the specialist tribunal jurisdictions, however expert and high powered they may be.
+As a superior court of record, the Upper Tribunal is empowered to set precedent, often in a highly technical and fast moving area of law.
+The judge in the First tier Tribunal will follow the precedent set by the Upper Tribunal and refuse permission to appeal because he is confident that the Upper Tribunal will do so too.
+The Upper Tribunal will refuse permission to appeal because it considers the precedent to be correct.
+It may seem only a remote possibility that the High Court or Court of Appeal might take a different view.
+Indeed, both tiers may be applying precedent set by the High Court or Court of Appeal which they think it unlikely that a higher court would disturb.
+The same question of law will not reach the High Court or the Court of Appeal by a different route.
+There is therefore a real risk of the Upper Tribunal becoming in reality the final arbiter of the law, which is not what Parliament has provided.
+Serious questions of law might never be channelled into the legal system (as Sedley LJ put it at para 30) because there would be no independent means of spotting them.
+High Court judges may sit in the Upper Tribunal but they will certainly not be responsible for all the decisions on permission to appeal, nor is it possible for the Upper Tribunal to review its own refusals, even when satisfied that they are wrong in law.
+Furthermore, it appears to be accepted that full judicial review of the unappealable decisions of the First tier Tribunal, and possibly of excluded decisions of the Upper Tribunal other than the refusal of permission to appeal, remains available.
+It is difficult to spell out a principled basis for such anomalies.
+In short, while the introduction of the new system may justify a more restricted approach, the approach of the Court of Appeal in Cart is too narrow, leaving the possibility that serious errors of law affecting large numbers of people will go uncorrected. (ii) The status quo ante but which?
+Mr Drabble, together with (in the rather different context of Scotland) Mr Mitchell, makes a powerful case for the status quo, by which he means the position obtaining in the social security system before the 2007 Act.
+The Social Security Commissioners were a highly skilled body of senior lawyers, thoroughly steeped in the intricacies of social security law, yet they could occasionally fail to detect the possibility of error in a social security tribunals decision for example because both were following an authoritative decision of the High Court or Court of Appeal which had stood for some time.
+Judicial review of the refusal of leave enabled such questions of law, often important to a great many people, to be examined in the higher courts to the benefit of the jurisdiction in question.
+It is, after all, the object of the benefits system to get things right to pay people the benefits to which Parliament has said that they are entitled, not a penny more but also not a penny less.
+He also rightly points out that nothing much has changed.
+The Social Security Commissioners are now judges of the Upper Tribunal but they are (mostly) the same people doing the same job.
+The new structure has followed the model of the previous social security adjudication system.
+What is so different that it justifies the removal of a right from which each party in a social security claim could benefit, the Department as well as the individual claimant?
+Mr Manjit Gill makes essentially the same argument in immigration and asylum cases.
+They too had a two tier appellate structure with the possibility of judicial review of unappealable decisions until the 2002 Act.
+The 2002 Act introduced the alternative form of statutory review, but it still gave access to a High Court judge.
+The 2004 Act collapsed the two tier structure into one, but provided an equivalent form of statutory review giving access to a High Court judge.
+Now, as Sullivan LJ put it in FA (Iraq) and PD (India) v Secretary of State for the Home Department [2010] EWCA Civ 827, at para 1, The wheel has come full circle.
+Once again there is a two tier appellate structure with a right of appeal with permission on a point of law from the First tier to the Upper Tribunal and a further right of appeal, with permission, to the Court of Appeal.
+The only change from the old two tier structure is the introduction of the limited grounds for a second tier appeal to the Court of Appeal.
+The statutory reviews introduced by the 2002 and 2004 Acts have been abolished.
+Hence, he argues, in that system too we are now back where we began and there is no reason to restrict the availability of judicial review of unappealable decisions.
+But it is impossible to leave out of account the reasons why those statutory reviews were introduced.
+It is not difficult to dress up an argument as a point of law when in truth it is no more than an attack upon the factual conclusions of the first instance judge.
+In most tribunal cases, a claimant will have little to gain by pressing ahead with a well nigh hopeless case.
+He may have less money than he otherwise would, but he will not have to leave the country and may make another claim if circumstances change.
+But in immigration and asylum cases, the claimant may well have to leave the country if he comes to the end of the road.
+There is every incentive to make the road as long as possible, to take every possible point, and to make every possible application.
+This is not a criticism.
+People who perceive their situation to be desperate are scarcely to be blamed for taking full advantage of the legal claims available to them.
+But the courts resources are not unlimited and it is well known that the High Court and Court of Appeal were overwhelmed with judicial review applications in immigration and asylum cases until the introduction of statutory reviews.
+Mr Gills answer is that under the new system the burden on the High Court and Court of Appeal is to be reduced by transferring judicial review applications relating to the refusal of the Secretary of State to treat new representations as a fresh claim to the Upper Tribunal (see the announcement made by Lord McNally, Hansard (HL), 3 March 2011, col WS120).
+But this, of course, does not address the perceived burden resulting from attempts to achieve a judicial review of the decisions of the Tribunal itself.
+Mr Fordham, in particular, argues that there is no need to introduce further restrictions upon judicial review.
+The courts have already adopted principles of judicial restraint when considering the decisions of expert tribunals.
+As long ago as R v Preston Supplementary Benefits Appeal Tribunal, Ex p Moore [1975] 1 WLR 624, before the creation of the unified social security appeal tribunals with a common right of appeal to the Commissioners, Lord Denning MR observed, at pp 631 2, that the courts should leave the tribunals to interpret the Supplementary Benefits Act in a broad reasonable way, according to the spirit and not the letter.
+But it was important that cases raising the same points should be dealt with in the same way, so the courts should be prepared to consider points of law of general application.
+Individual cases of particular application should be left to the tribunals.
+More recently, in Cooke v Secretary of State for Social Security [2001] EWCA Civ 734, [2002] 3 All ER 279, paras 15 17, I (with the agreement of both Clarke LJ and Butterfield J) urged appropriate caution in giving permission to appeal from the Social Security Commissioners, because of their particular expertise in a highly specialised area of the law, where it was quite probable that . the Social Security Commissioner will have got it right.
+Those observations have been referred to many times since, not least by Dyson LJ in R (Wiles) v Social Security Commissioner [2010] EWCA Civ 258, paras 53 54, where he said this: Thus, in seeing whether it can detect some error of law by the commissioner who has refused leave to appeal, the reviewing court should not be astute to find such error.
+This is a further reason why there need be no real concern that the established approach to judicial review in these cases would lead to an opening of the floodgates.
+It is, however, fair to say that this restraint has found more favour in some contexts than in others.
+Although it was adopted in the asylum context in AH (Sudan) v Secretary of State for the Home Department [2007] UKHL 49, [2008] AC 678, at para 30, the courts are also well aware of the anxious scrutiny required in asylum cases and of the particular difficulties facing the tribunals in this jurisdiction.
+Had they adopted the same restraint in asylum as in social security cases, it might not have been thought necessary to introduce the statutory review procedures.
+Ironically, therefore, the more troubling the context, the more necessary it has seemed to limit the availability of judicial review.
+The real question, as all agree, is what level of independent scrutiny outside the tribunal structure is required by the rule of law.
+The mere fact that something has been taken for granted without causing practical problems in the social security context until now does not mean that it should be taken for granted forever.
+Equally the fact that the courts have hitherto found it difficult to deter repeated or unmeritorious applications in immigration and asylum cases does not mean that such applications should become virtually impossible.
+There must be a principled but proportionate approach.
+(iii) The second tier appeals criteria
+An important innovation in the 2007 Act was the power given to the Lord Chancellor in section 13(6), to prescribe the same criteria for the grant of permission to appeal from the Upper Tribunal to the Court of Appeal as apply to second tier appeals in the courts of England and Wales.
+These have now been prescribed for second tier appeals from the Upper Tribunal in all three jurisdictions. (It was the previous lack of such criteria which led to the remarks about restraint in Cooke.) This gives, at the very least, an indication of the circumstances in which Parliament considered that questions of law should be, as Sedley LJ put it, channelled into the legal system.
+In Wiles, Dyson LJ considered that there was much to be said for applying the same criteria to judicial review of a Social Security Commissioners refusal of permission to appeal to himself (para 48).
+This would reflect the fact that (i) the issues that arise . may affect the lives not only of the individual claimant, but also of many others who are in the same position, some of whom are among the most vulnerable members of our society; and (ii) the issues may be of fundamental importance to them, sometimes making the difference between a reasonable life and a life of destitution (para 47).
+This proposal was warmly endorse[d] by Longmore LJ (para 79).
+It was, however, expressly rejected by Sedley LJ in Cart, because the new tribunal structure is something greater than the sum of its parts.
+It represents a newly coherent and comprehensive edifice designed, among other things, to complete the long process of divorcing administrative justice from departmental policy, to ensure the application across the board of proper standards of adjudication, and to provide for the correction of legal error within rather than outside the system (para 42).
+While all of this is true, it seems to me to do little justice to the independence and expertise of the tribunal judiciaries in the old system and to over estimate what has changed in the new.
+There must be some risk that the amalgamation of very different jurisdictions in the new chambers will dilute rather than enhance the specialist expertise of their judges and members.
+Mental health and special educational needs, for example, are similar in some ways but very different in others.
+It would be difficult to say that bringing them together has reduced the capacity for error although of course we all hope that it has not been increased.
+The claimants accept that if there is to be any restriction on the availability of judicial review, this approach would be far preferable to that of the Court of Appeal in Cart.
+Their main objection is that it would deprive the parties of the second substantive hearing to which they would have been entitled if the Upper Tribunal had spotted the error and given permission to appeal.
+Another objection is that it would leave uncorrected those errors of law which do not raise an important point of principle or practice and where there is no other compelling reason for the court to hear the case.
+But no system of decision making is perfect or infallible.
+There is always the possibility that a judge at any level will get it wrong.
+Clearly there should always be the possibility that another judge can look at the case and check for error.
+That second judge should always be someone with more experience or expertise than the judge who first heard the case (it is to be hoped that the new structure will not perpetuate the possibility, exemplified in Sinclair Gardens, that a non lawyer member might be entrusted with deciding whether a tribunal chaired by a legally qualified tribunal judge had gone wrong in law, but this is left to the good sense of the Senior President rather than enshrined in the legislation).
+But it is not obvious that there should be a right to any particular number of further checks after that.
+The adoption of the second tier appeal criteria would lead to a further check, outside the tribunal system, but not one which could be expected to succeed in the great majority of cases.
+Conclusion
+For all those reasons, together with those given by Lord Dyson (in this case) and Lord Hope (in Eba), the adoption of the second tier appeals criteria would be a rational and proportionate restriction upon the availability of judicial review of the refusal by the Upper Tribunal of permission to appeal to itself.
+It would recognise that the new and in many ways enhanced tribunal structure deserves a more restrained approach to judicial review than has previously been the case, while ensuring that important errors can still be corrected.
+It is a test which the courts are now very used to applying.
+It is capable of encompassing both the important point of principle affecting large numbers of similar claims and the compelling reasons presented by the extremity of the consequences for the individual.
+It follows that the approach in Sinclair Gardens should no longer be followed.
+If this approach is adopted, the Civil Procedure Rules Committee might also wish to consider the scope for stream lining the procedure for considering applications for permission to apply for judicial review of these decisions.
+I agree with Lord Phillips that it would be totally disproportionate to allow the four stage system of paper and oral applications to both the High Court and the Court of Appeal in such cases.
+The previous procedures for statutory reviews in immigration and asylum cases showed that there is nothing inherently objectionable in a paper procedure, particularly if there has been an oral hearing of the first application for permission to appeal.
+But, in agreement with Lord Clarke, it seems to me that this is a matter for the rules committee rather than for this Court to determine.
+In the result, however, there is clearly nothing in Mr Carts case to bring it within the second tier appeal criteria.
+The tribunal considered very carefully whether he had been prejudiced by the failure of the Secretary of State to give him notice of the application to vary and it was clear that he had not, so any difference of approach to whether prejudice was necessary would not affect the result.
+The same is true of the case of MR (Pakistan).
+As Ouseley J said in refusing permission to appeal to the Upper Tribunal, crucial to the decision was the finding that the applicant was not a genuine convert to Christianity.
+The question of how a genuine convert would be treated did not arise.
+I would therefore dismiss the appeals in the cases of Cart and MR (Pakistan) but on a different basis from that adopted in the Divisional Court and the Court of Appeal.
+LORD PHILLIPS
+I have had the benefit of reading the judgment of Lady Hale, which illuminates the background to the English appeals, and the issues that are raised by them.
+I have also had the benefit of reading the judgment of Lord Hope in the Scottish appeal.
+His conclusions are in harmony with those of Lady Hale.
+I am in agreement with both judgments.
+My own contribution is essentially by way of emphasis, directed largely to the fundamental issue of principle raised by these appeals.
+That is whether the courts should apply a principle of proportionality when deciding whether to accede to an application to judicially review a decision of the Upper Tribunal.
+For the reasons that follow I have decided that they should, but that, at least in England and Wales, the needs of proportionality also require changes in the Civil Procedure Rules (CPR).
+Introduction
+In March 2001 a Committee chaired by Sir Andrew Leggatt delivered a report (the Leggatt Report) to the Lord Chancellor on the delivery of justice through tribunals.
+The Committee was confronted with 70 different administrative tribunals employing about 3,500 people and handling nearly one million cases a year.
+The Leggatt Report made recommendations for bringing these tribunals into a single Tribunals System.
+In July 2004 a Government White Paper accepted the broad thrust of those recommendations.
+Parliament then implemented this by enacting the Tribunals, Courts and Enforcement Act 2007 (TCEA).
+A striking feature of the tribunals system created by the TCEA is the creation of two tiers, a First tier Tribunal and an Upper Tribunal.
+Appeals lie from the First tier Tribunal to the Upper Tribunal.
+Carnwath LJ was appointed the first Senior President of the new system.
+In his article Tribunal Justice a New Start in [2009] Public Law 48 he commented of the Upper Tribunal that it would be operating in parallel with the existing Administrative Court and would become the principal agency for judicial review of the legality of tribunal decisions.
+He suggested that there was scope for rethinking the traditional allocation, as between courts and tribunals, of responsibilities for definitive interpretation of substantive law, including human rights law, in specialist fields.
+These three conjoined appeals raise a single issue.
+This is the extent to which decisions of the Upper Tribunal are properly subject to judicial review by the Administrative Court in England and Wales and the Court of Session in Scotland.
+That issue calls for a review of the roles of the legislature, the executive and the judiciary in maintaining the rule of law in this country.
+The rule of law requires that the laws enacted by Parliament, together with the principles of common law that subsist with those laws, are enforced by a judiciary that is independent of the legislature and the executive.
+Laws LJ, in paras 43 to 51 of his judgment in Cart [2009] EWHC 3052 (Admin), has summarised the history of the role of the courts from 1066 to 1873 in upholding and developing the law.
+In particular, he has described the growth of the supremacy under the common law of the court of the Kings Bench as a court of unlimited jurisdiction with the power by means of the prerogative writs to supervise the other courts, described as inferior courts of record.
+The Judicature Act 1873 marked the assumption by Parliament of responsibility for the infrastructure necessary for the administration of justice.
+A new hierarchy of courts was created, including a High Court and a Court of Appeal.
+The common law powers of the Kings Bench were vested in the High Court.
+The creation of a Court of Appeal provided, however, an alternative means of reviewing errors of law on the part of inferior courts and, in particular, the County Court, which replaced the use of the prerogative writs.
+Since 1873 there has been a series of statutes dealing with the administration of justice, of which the Supreme Court Act 1981 (now the Senior Courts Act 1981) was particularly significant.
+Section 4 of that Act defined the composition of the High Court.
+Section 19 provided that the High Court should continue to exercise the jurisdiction that it enjoyed prior to the 1981 Act.
+Thus the common law powers of judicial review were preserved.
+Section 31 of the 1981 Act provided for rules of court to be made governing the procedure to be followed on an application for judicial review and required the leave of the High Court to be obtained for such an application.
+Part 54 of the CPR gives effect to that requirement.
+At the same time as making provision for the structure of the general court system, Parliament created tribunals to adjudicate on disputes in specialised areas and a number of specialist courts.
+A common theme can be identified in relation to most of these, as well as in relation to the general court system.
+The possibility of at least one appeal is desirable in order to address the possibility of error of law on the part of the court or tribunal first seised of the matter.
+Legislation dealing with the court system in general and with specialist courts and tribunals usually makes provision for appeals.
+Prior to 1999 there was growing concern that rights of appeal in civil proceedings were over generous with the result that the pursuit of appeals that lacked merit was resulting in unnecessary delay and consumption of limited judicial resources.
+Lord Woolfs final report on Access to Justice published in July 1996 reached a similar conclusion on this topic to that subsequently reached by the Bowman Report published in September 1997.
+Both concluded that civil appeals served both a private and a public purpose.
+The private purpose was to correct an error, unfairness or wrong exercise of discretion leading to an unjust result.
+The public purpose was to ensure public confidence in the administration of justice and, in appropriate cases, to clarify and develop the law, practice and procedure and to help maintain the standards of first instance courts and tribunals.
+Many of the existing provisions for appeals failed, however, to have regard to proportionality.
+Rights of appeal should be proportionate to the grounds of complaint and the subject matter of the dispute.
+More than one level of appeal would not normally be justified unless an important point of principle or practice was involved.
+The Bowman Report led to provisions in the Access to Justice Act 1999 which resulted in a new Part 52 of the CPR to replace the provisions of the Rules of the Supreme Court dealing with, inter alia, appeals to the High Court from lower courts and tribunals and appeals to the Court of Appeal.
+Section 54 of the 1999 Act provided that rules of court could introduce a requirement that any right of appeal be exercised only with permission.
+It further provided that no appeal could be made against a decision of a court to give or refuse permission, albeit that rules of court might provide for the making of a further application for permission to that court or another court.
+CPR 52.3 introduced a permission requirement in relation to appeals from lower courts, but not from tribunals, albeit that it stated that other enactments might require permission for particular appeals.
+CPR 52.3(6) provides that permission to appeal may only be given where the court considers that the appeal would have a real prospect of success or where there is some other compelling reason why the appeal should be heard.
+CPR 52.13(2) provides that in the case of a second appeal to the Court of Appeal the court will only give permission to appeal if the appeal raises an important point of principle or practice or there is some other compelling reason for the court to hear it.
+The power of the High Court to conduct judicial review subsists alongside these statutory provisions for appeal.
+It is not, however, the practice of the Court to use this power where a satisfactory alternative remedy has been provided by Parliament.
+Where this is not the case the power of judicial review is a valuable safeguard of the rule of law.
+It is one which the judges guard jealously.
+The decision of the House of Lords in Anisminic Ltd v Foreign Compensation Commission [1969] 2 AC 147 finessed what, on its face, appeared to be an attempt by Parliament to exclude judicial review of the decisions of the Commission.
+Since that case Parliament has not purported, as it might have done, expressly to preclude the exercise by the High Court of the power of judicial review.
+At paras 39 to 40 of his judgment in Cart Laws LJ stated that the general principle was clear: The rule of law requires that statute should be mediated by an authoritative and independent judicial source; and Parliaments sovereignty itself requires that it respect this rule.
+None of this, of course, is to say that Parliament may not modify, sometimes radically, the procedures by which statute law is mediated.
+It may impose tight time limits within which proceedings must be bought.
+It may provide a substitute procedure for judicial review, as it has by a regime of statutory appeals in fields such as town and country planning, highways, and compulsory purchase: where, however, the appeal body remains the High Court.
+It may create new judicial authorities with extensive powers.
+It may create rights of appeal from specialist tribunals direct to the Court of Appeal.
+The breadth of its power is subject only to the principle I have stated.
+The proposition that Parliamentary sovereignty requires Parliament to respect the power of the High Court to subject the decisions of public authorities, including courts of limited jurisdiction, to judicial review is controversial.
+Hopefully the issue will remain academic.
+Before the Divisional Court in Cart the Secretary of State contended that, by enacting in section 3(5) of TCEA that the Upper Tribunal should be a superior court of record, Parliament had rendered its decisions immune from judicial review.
+The Divisional Court rejected that submission, and it has not been pursued.
+The issue before this Court relates to the principles that should govern the exercise of the power judicially to review the decisions of the Upper Tribunal.
+The appellants in the English appeals, supported by JUSTICE as intervener, adopt the same approach as the Lord Advocate in the Scottish Appeal and contend that judicial review should be permitted whenever there is an arguable case that the Upper Tribunal has made any error of law.
+The Secretary of State submits that the statutory provisions for appeal in the TCEA meet the requirements of the rule of law in all ordinary circumstances.
+Judicial review of the Upper Tribunal is only appropriate in exceptional circumstances, which do not exist in any of the appeals before the Court.
+The issue of principle raised by these appeals is thus whether, and on what basis, the right to judicial review of a decision of the Upper Tribunal should be restricted.
+All three appeals have, however, an important common factor.
+Each arises out of the refusal of the Upper Tribunal to give permission to appeal to it from a decision of the First tier Tribunal or, in the case of Cart, of the Tribunal whose functions have been taken over by the First tier Tribunal.
+In each of the English cases a claim for judicial review of the Upper Tribunals decision was dismissed on the ground that this could only be justified in exceptional circumstances.
+In the Scottish case a similar application was granted, and the Advocate General appeals against the decision granting the application for judicial review.
+It became apparent in the course of argument that the appellants in the English cases were particularly aggrieved that they had been denied the right to have their appeals heard.
+Because there was no right to appeal to the Court of Appeal from the Upper Tiers refusal to give permission to appeal, they had only had one substantive hearing.
+Mr Gill QC for MR accepted that it was this fact, rather than the status of the tribunal that had refused permission to appeal, that gave rise to his principal complaint.
+There have already been a number of decisions of lower courts in which it has been held appropriate to circumscribe the right to judicial review.
+The appellants in the English appeals submit that they were wrongly decided and I propose first to consider them.
+Next I shall consider the recommendations made by the Leggatt Report in relation to the availability of judicial review.
+After that I shall examine the extent to which Parliament gave effect to those recommendations.
+Finally I shall answer the issue of principle posed above, with specific reference to the individual appeals.
+Restrictions on the right to judicial review
+The first of a series of cases in which the court held that there was a right to judicial review which was restricted involved two appeals by the same appellant in relation to two unsuccessful applications for judicial review.
+In R (Sivasubramaniam) v Wandsworth County Court; R (Sivasubramaniam) v Kingston upon Thames County Court (Lord Chancellors Department intervening) [2002] EWCA Civ 1738, [2003] 1 WLR 475, which I shall hereafter refer to as Siva, the applicant brought bizarre claims before two district judges.
+Each had been dismissed.
+Applications for permission to appeal were dismissed in each case by a county court judge.
+In the latter, but not the former, case he could have appealed to the Court of Appeal.
+He did not do so.
+He applied in each case to the High Court for permission to claim judicial review.
+His applications were dismissed.
+He appealed against the dismissals to the Court of Appeal.
+In the second case the Court of Appeal refused the application on the ground that there had been a satisfactory alternative remedy.
+The Court rejected the submission by the respondents that section 54(4) of the Access to Justice Act ousted judicial review of the decision of the county court judge.
+It held, however, at para 48: Under the 1999 Act, and the rules pursuant to it, a coherent statutory scheme has been set up governing appeals at all levels short of the House of Lords.
+One object of the scheme is to ensure that, where there is an arguable ground for challenging a decision of the lower court, an appeal will lie, but to prevent court resources being wasted by the pursuit of appeals which have no prospect of success.
+The other object of the scheme is to ensure that the level of judge dealing with the application for permission to appeal, and the appeal if permission is given, is appropriate to the dispute.
+This is a sensible scheme which accords with the object of access to justice and the Woolf reforms.
+It has the merit of proportionality.
+To permit an applicant to bypass the scheme by pursuing a claim for judicial review before a judge of the Administrative Court is to defeat the object of the exercise.
+We believe that this should not be permitted unless there are exceptional circumstances and we find it hard to envisage what these could be.
+So far as the first case was concerned, the Court adopted a similar approach.
+It held: 54 This scheme we consider provides the litigant with fair, adequate and proportionate protection against the risk that the judge of the lower court may have acted without jurisdiction or fallen into error.
+The substantive issue will have been considered by a judge of a court at two levels.
+On what basis can it be argued that the decision of the judge of the appeal court should be open to further judicial review? The answer, as a matter of jurisprudential theory, is that the judge in question has limited statutory jurisdiction and that it must be open to the High Court to review whether that jurisdiction has been exceeded.
+But the possibility that a circuit judge may exceed his jurisdiction, in the narrow pre Anisminic sense, where that jurisdiction is the statutory power to determine an application for permission to appeal from the decision of a district judge, is patently unlikely.
+In such circumstances an application for judicial review is likely to be founded on the assertion by the litigant that the circuit judge was wrong to conclude that the attack on the decision of the district judge was without merit.
+The attack is likely to be misconceived, as exemplified by the cases before us.
+We do not consider that judges of the Administrative Court should be required to devote time to considering applications for permission to claim judicial review on grounds such as these.
+They should dismiss them summarily in the exercise of their discretion.
+The ground for so doing is that Parliament has put in place an adequate system for reviewing the merits of decisions made by district judges and it is not appropriate that there should be further review of these by the High Court.
+This, we believe, reflects the intention of Parliament when enacting section 54 (4) of the 1999 Act.
+While Parliament did not legislate to remove the jurisdiction of the High Court judicially to review decisions of county court judges to grant or refuse permission to appeal, we do not believe that Parliament can have anticipated the spate of applications for judicial review that section 54 (4) appears to have spawned. 55 Everything that we have said should be applied equally to an application for permission to claim judicial review of the decision of a judge of the county court granting permission to appeal.
+We are not aware that such an application has yet been made.
+Exceptional circumstances 56 The possibility remains that there may be very rare cases where a litigant challenges the jurisdiction of a circuit judge giving or refusing permission to appeal on the ground of jurisdictional error in the narrow, pre Anisminic sense, or procedural irregularity of such a kind as to constitute a denial of the applicant's right to a fair hearing.
+If such grounds are made out we consider that a proper case for judicial review will have been established.
+The Court commented on the fact that permission to claim judicial review was regularly given in relation to refusals by the Immigration Appeal Tribunal of permission to appeal to the tribunal against decisions of special adjudicators.
+The Court observed at para 52 that on the face of it judicial review of such decisions might seem anomalous, but explained the practice as follows: There are, in our judgment, special factors which fully justify the practice of entertaining applications for permission to claim judicial review of refusals of leave to appeal by the tribunal.
+In asylum cases, and most cases are asylum cases, fundamental human rights are in play, often including the right to life and the right not to be subjected to torture.
+The number of applications for asylum is enormous, the pressure on the tribunal immense and the consequences of error considerable.
+The most anxious scrutiny of individual cases is called for and review by a High Court judge is a reasonable, if not an essential, ingredient in that scrutiny.
+In Gregory v Turner [2003] EWCA Civ 183; [2003] 1 WLR 1149 the Court of Appeal followed Siva when it refused an application for judicial review of the decision of a circuit judge who refused permission to appeal from the decision of a district judge, despite the fact that there were grounds for concluding that the district judge had fallen into error.
+At para 46 Brooke LJ explained the reason for what might appear to be an injustice: In his Interim Report on Access to Justice (1995), Section I, Chapter 4, paras 5 and 6 Lord Woolf highlighted the tensions that exist between a desire to achieve perfection and a desire to achieve a system of justice which is not inaccessible to most people on grounds of the time and cost involved.
+He quoted tellingly from a 1970 broadcast by Lord Devlin: is it right to cling to a system that offers perfection for the few and nothing at all for the many? Perhaps: if we could really be sure that our existing system was perfect.
+But of course it is not.
+We delude ourselves if we think that it always produces the right judgment.
+Every system contains a percentage of error; and if by slightly increasing the percentage of error, we can substantially reduce the percentage of cost, it is only the idealist who will revolt.
+Both Siva and Gregory v Turner involved attempts to review decisions of the County Court.
+In R (on the application of Sinclair Gardens Investments (Kensington) Ltd) v Lands Tribunal [2005] EWCA Civ 1305; [2006] 3 All ER 650 the Court of Appeal applied the same reasoning to the scheme laid down by Parliament for leasehold valuation.
+The statutory scheme in that case provided for an appeal from the Leasehold Valuation Tribunal to the Lands Tribunal provided that one or the other gave permission to appeal.
+Both having refused permission, a landlord sought permission to review the decision of the Lands Tribunal to refuse permission to appeal.
+The application was refused and the landlord appealed to the Court of Appeal.
+The Court dismissed the appeal.
+Giving the only reasoned judgment, Neuberger LJ said this: 56 I do not accept that the mere fact that a decision of the Lands Tribunal refusing permission to appeal was obviously wrong in law would be sufficient to justify its being judicially reviewed.
+Such a basis for judicial review would fly in the face of the conclusion and reasoning in Sivasubramaniams case and in Gregory v Turner, which appear to me to be applicable in this case for the reasons given above.
+Before permission to seek judicial review could be granted, it would not be enough to show that the refusal of permission to appeal was plainly wrong in law.
+It would also have to be established that the error was sufficiently grave to justify the case being treated as exceptional. 57 I think it is appropriate to say, that there could, in my view, be cases, which would be wholly exceptional, where it would be right to consider an application for judicial review of such a decision on the basis of what could be said to be an error of law.
+A possible example would be if the Lands Tribunal, despite being aware of the position, refused, without any good reason, permission to appeal on a difficult point of law of general application, which had been before a number of different LVTs which had taken different views on it, and which cried out for a definitive answer in the public interest.
+In that connection, it seems to me that one could say that it was not so much the point of law itself which justified judicial review, but more the failure of a public tribunal to perform its duty to the public, as well as what one might call its duty to the parties in that particular case.
+In Siva the Court of Appeal recognised that there were special circumstances that justified judicial review of decisions of the Immigration Appeal Tribunal that refused permission to appeal to it.
+Parliament then intervened by section 101(2) of the Nationality, Immigration and Asylum Act 2002 to provide for a statutory review, to be carried out by a High Court judge on paper, of such refusals.
+In R(G) v Immigration Appeal Tribunal [2004] EWCA Civ 1731, [2005] 1 WLR 1445 the Court of Appeal endorsed the view of Collins J at first instance that it was Parliaments intention that this should provide a satisfactory alternative to judicial review, thereby avoiding the delay that was involved in the four stage process of the latter.
+The Court of Appeal held that the statutory regime provided adequate and proportionate protection of the asylum seekers rights and that it was, accordingly, a proper exercise of the courts discretion to decline to entertain an application for judicial review of issues which had been, or could have been the subject of statutory review.
+The Court stated at para 20: The consideration of proportionality involves more than comparing the remedy with what is at stake in the litigation.
+Where Parliament enacts a remedy with the clear intention that this should be pursued in place of judicial review, it is appropriate to have regard to the considerations giving rise to that intention.
+The satisfactory operation of the separation of powers requires that Parliament should leave the judges free to perform their role of maintaining the rule of law but also that, in performing that role, the judges should, so far as consistent with the rule of law, have regard to legislative policy.
+This approach was followed by the Court of Appeal in R (F (Mongolia)) v Asylum and Immigration Tribunal [2007] 1 WLR 2523 in relation to the new review procedure introduced under the Asylum and Immigration (Treatment of Claimants, etc Act) 2004 see Lady Hales judgment at para 31.
+This series of cases was considered by the Court of Appeal in Wiles v Social Security Commissioner [2010] EWCA Civ 258, when considering an appeal against the refusal to grant judicial review of the decision of a social security commissioner refusing permission to appeal from a decision of the Social Security Appeal Tribunal under the regime that pre dated the TCEA.
+Giving the leading judgment, Dyson LJ held at para 43 that it was impossible to find in the relevant legislation any indication that Parliament intended to oust, or even to limit, the jurisdiction to grant judicial review.
+That jurisdiction had been exercised in social security cases for nearly thirty years.
+In the light of this it would not be right to curtail it.
+But for this, however, Dyson LJ would have favoured applying the same criteria to an application for judicial review as was applied by the court when considering an application for permission to bring a second appeal, as set out at para 70 above.
+The Leggatt recommendations
+The Leggatt Report recommended a two tier tribunal system, describing the upper tier as the appellate Division.
+There would be a comprehensive and systematic right of appeal from first tier tribunals to the appellate Division, and from there to the Court of Appeal.
+In these circumstances the Report recommended that the right of judicial review should be excluded 6.30.
+This recommendation had regard to the waste of scarce resources involved where judicial review was available in parallel with statutory rights of appeal to a tribunal and to the huge number of judicial review applications in immigration and asylum cases, most of which were unsuccessful 6.27.
+The Report commented, erroneously, that this goal could be achieved by making the appellate Division a superior court of record 6.33.
+It recommended, however, an express statutory exclusion of judicial review 6.34.
+Parliaments response
+Parliament made the Upper Tribunal a superior court of record see section 3(5) of the TCEA.
+Although the Government argued in Cart that this meant that its decisions were not susceptible to judicial review see Lady Hales judgment at para 30 it does not follow that this was Parliaments intention, or indeed the Governments intention in promoting the Act.
+In the Home Office Consultation Paper on immigration appeals, Fair Decisions; Faster Justice, of 12 August 2008 it was stated at para 23 that the Government had been advised that except in the most exceptional circumstances decisions of the Upper Tribunal would not be subject to judicial review.
+What must, I believe, be beyond doubt is that it was Parliaments intention that the two tier structure set up by the TCEA would provide a statutory right of appeal in relation to decisions of tribunals that would, in most cases, provide a satisfactory alternative to judicial review.
+Discussion
+It is now common ground that the fact that the Upper Tribunal is a superior court of record does not render its decisions immune from judicial review.
+The issue raised by these appeals falls into two parts: (i) is it right to impose restrictions on the grant of judicial review in relation to decisions of the Upper Tribunal? (ii) If it is, what restrictions should be imposed?
+It was submitted on behalf of the English appellants, with support from the Public Law Project represented by Mr Fordham QC as intervener, that the courts had taken a wrong turning in the recent series of cases that had imposed restrictions on the grant of judicial review.
+There was no justification for departing from the long established practice of the court to entertain a claim for judicial review whenever there were reasonable grounds for contending that an inferior court had made an error of law.
+The Scottish respondent contended that the Court of Session had rightly applied the ordinary principles of judicial review to a decision of the Upper Tribunal.
+Mr Eadie QC, responding to the English appeals, and Mr Johnston QC, for the Advocate General for Scotland, submitted that Parliament had by the TCEA deliberately set up a self sufficient structure dealing internally with errors of law and that, in accordance with Parliaments intention, applications for judicial review should only be entertained in exceptional circumstances.
+I am in no doubt that the submissions of the English appellants should be rejected.
+The administration of justice and upholding of the rule of law involves a partnership between Parliament and the judges.
+Parliament has to provide the resources needed for the administration of justice.
+The size and the jurisdiction of the judiciary is determined by statute.
+Parliament has not sought to oust or fetter the common law powers of judicial review of the judges of the High Court and I hope that Parliament will never do so.
+It should be for the judges to decide whether the statutory provisions for the administration of justice adequately protect the rule of law and, by judicial review, to supplement these should it be necessary.
+But, in exercising the power of judicial review, the judges must pay due regard to the fact that, even where the due administration of justice is at stake, resources are limited.
+Where statute provides a structure under which a superior court or tribunal reviews decisions of an inferior court or tribunal, common law judicial review should be restricted so as to ensure, in the interest of making the best use of judicial resources, that this does not result in a duplication of judicial process that cannot be justified by the demands of the rule of law.
+Lady Hale observes in para 51 of her judgment, that the real question in this appeal is what level of independent scrutiny outside the tribunal structure is required by the rule of law.
+To this question I would add the two words if any.
+I add those two words because if the court is to entertain applications for judicial review of the decisions of the Upper Tribunal this will require a High Court or Deputy High Court judge to consider every such application, however stringent may be the criteria for granting permission.
+For the reasons given by Lady Hale in para 47 of her judgment, the stringency of the criteria that must be demonstrated will not discourage a host of applications in the field of immigration and asylum which are without any merit.
+Thus the first question is whether there is justification for imposing this burden on the High Court.
+My initial inclination was to treat the new two tier tribunal system as wholly self sufficient.
+It is under the presidency of a judge who is likely to be a member of the Court of Appeal, and High Court judges can and will sit in the Upper Tribunal.
+There is considerable flexibility in the system in relation to the administration and composition of the Upper Tribunal.
+Can it not be left to the Senior President, in consultation with the President of the Queens Bench Division and other judicial colleagues to ensure that the tribunal judiciary is so deployed as to ensure the appropriate degree of judicial scrutiny of decisions of the lower tier?
+Having considered, however, the judgment of Lady Hale, who has great experience in this field, and those of other members of the Court, I have been persuaded that there is, at least until we have experience of how the new tribunal system is working in practice, the need for some overall judicial supervision of the decisions of the Upper Tribunal, particularly in relation to refusals of permission to appeal to it, in order to guard against the risk that errors of law of real significance slip through the system.
+What would, however, be totally disproportionate, is that this judicial supervision should extend to the four stage system of paper and oral applications first to the Administrative Court and then, by way of appeal, to the Court of Appeal, to which the ordinary judicial review procedure is subject.
+What are first required are readily identifiable criteria for the grant of permission to seek judicial review.
+That these exist should be capable of demonstration by paper applications, and my firm view is that applications for judicial review should be restricted to a single paper application, unless the court otherwise orders.
+This is, however, a matter for the Civil Procedure Rule Committee.
+As to the criteria, I have been persuaded, for the reasons given by Lady Hale, that the test laid down by the Court of Appeal in Siva is not the most satisfactory, and that the test governing second appeals in the courts of England and Wales should be adopted.
+For these reasons I endorse the conclusions reached by Lady Hale.
+I consider, however, that the procedural change, the possibility of which she contemplates in paragraph 58 of her judgment, will prove a necessity.
+I concur in the order that she proposes at para 60.
+LORD HOPE AND LORD RODGER
+For the reasons given by Lady Hale, Lord Phillips and Lord Dyson, we would make the order proposed by Lady Hale.
+LORD BROWN
+The critical issue raised by these appeals is the scope of the High Courts supervisory jurisdiction over a particular but important category of unappealable decisions of the Upper Tribunal, namely those by which the Upper Tribunal refuses leave to appeal to it from a First tier Tribunal decision.
+Having had the advantage of reading in draft the detailed judgments of Lord Phillips, Lord Hope (in Eba), Lady Hale and Lord Dyson, and respectfully agreeing with all of them as I do, there is singularly little that I wish to add.
+Really the only point I am concerned to emphasise is that our decision on these appeals to adopt the second appeals approach when deciding whether or not to permit a judicial review challenge in these cases cannot properly be regarded as in any way contrary to principle.
+The point can be simply made.
+The very fact that Parliament, by section 13(6) of the 2007 Act, has prescribed the same criteria for the grant of permission to appeal from the Upper Tribunal to the Court of Appeal as apply to second tier appeals in the courts of England and Wales destroys any possibility of an absolutist argument to the effect that the rule of law requires, post Anisminic (Anisminic Ltd v Foreign Compensation Commission [1969] 2 AC 147), unrestricted judicial review over all unappealable decisions of courts or tribunals of limited jurisdiction to ensure that they are not permitted, unsupervised by the higher courts, to commit errors of law.
+The second tier appeals approach expressly contemplates that some Upper Tribunal decisions, even though erroneous in point of law, will be refused leave to appeal on the basis that they raise no important point of principle or practice and that there is no other compelling reason to hear them.
+Understandably, it has never been suggested that, following a refusal of leave to appeal on this basis, the underlying decision is nonetheless judicially reviewable for error of law.
+If, then, the rule of law allows certain errors of law in substantive decisions of the Upper Tribunal on appeal from the First tier Tribunal to go uncorrected, why as a matter of principle should it not similarly allow this in respect of decisions of the Upper Tribunal refusing leave to appeal to itself from the First tier Tribunal? True it is, of course, that the refusal of leave to appeal will have deprived the party refused of a second substantive hearing.
+Realistically, however, the very fact that he was refused leave to appeal to the Upper Tribunal (by both tribunals) tends to indicate the unlikelihood of there having been a genuinely arguable error of law in the first place.
+And certainly this situation calls no less for a proportionate answer to the question arising as to the required scope of the Courts supervisory jurisdiction to safeguard the rule of law.
+The rule of law is weakened, not strengthened, if a disproportionate part of the courts resources is devoted to finding a very occasional grain of wheat on a threshing floor full of chaff.
+For the reasons given in the other judgments to which I have referred (together with the reasoning above if, indeed, it adds anything to what others have said), I too would make the order proposed and leave it to the Rules Committee to decide how precisely to stream line the procedure for considering applications for permission to apply for judicial review in this class of case.
+LORD CLARKE
+I entirely agree with paras 1 to 50 of Lady Hales judgment, which set out the relevant history and issues with great clarity.
+I also agree with her that the real question in this appeal is what level of independent scrutiny outside the tribunal structure is required by the rule of law.
+It was common ground between the parties that at least some judicial scrutiny was required.
+It is, as I see it, a matter for the courts to determine what that scrutiny should be.
+I am not persuaded that judicial review requires the same degree of scrutiny in every case.
+All depends upon the circumstances.
+The circumstances have been described in detail by both Lady Hale and Lord Phillips as regards England and, in the Eba case, by Lord Hope as regards Scotland.
+The relevant circumstances include the following.
+The tribunal structure provides for the Upper Tribunal, as a superior court of record, to review the decision of the First tier tribunal.
+As Lord Phillips observes at para 91, the new system is under the presidency of a judge who is likely to be a member of the Court of Appeal and High Court judges can and will sit in the Upper Tribunal.
+Further scrutiny of a decision by the Upper Tribunal refusing permission to appeal is only needed in case something has gone seriously wrong.
+I agree with Lady Hale, Lord Phillips and Lord Dyson (and with Lord Hope in Eba) that adequate scrutiny will be provided if the High Court applies the same test as is applied by the Court of Appeal in the case of a second appeal.
+As Lord Phillips observes at para 70, in such a case the Court of Appeal will only give permission to appeal under CPR 52.13(2) if the appeal raises an important point of principle or practice or there is some other compelling reason for the court to hear it.
+My experience as Master of the Rolls was that such a test worked well for second appeals.
+On the one hand it limited the number of appeals and thus the expenditure of excessive resources while, on the other hand, it enabled the court to hear cases raising an important point and cases where there was some other compelling reason to do so.
+In that way the court has been able to deal with cases where something has gone seriously wrong.
+In my opinion the same would be true in the case of a proposed challenge to a refusal of permission to appeal by the Upper Tribunal.
+I agree with Lady Hale at para 57 that such an approach would be both rational and proportionate.
+I also agree with Lord Phillips at para 86 that there can be no doubt that Parliament intended that the two tier tribunal structure would provide a statutory right of appeal in relation to decisions of lower tier tribunals which would, in most cases, provide a satisfactory alternative to judicial review.
+Finally I agree with Lord Phillips at para 94 that the second appeals test should be adopted in preference to the approach laid down in Siva.
+The question which then arises is whether the application for permission to apply for judicial review should be dealt with wholly on paper or whether, if it was refused on paper, there should be a right to renew the application orally.
+There would then be a further question whether, if the application was refused at the first instance, it would be open to the applicant to apply to the Court of Appeal for permission to appeal and, if so, what the procedure should be.
+I agree with Lord Phillips at para 93 that it would be totally disproportionate to provide for the four stage system of paper and oral applications to which the ordinary judicial review procedure is subject.
+Although there is much to be said for his view that the application should be determined on paper unless the court otherwise orders, I also agree with him that this is a matter for the Civil Procedure Rules Committee.
+For these reasons I concur with the order proposed by Lady Hale at para 60.
+LORD DYSON
+Introduction
+It is common ground (and rightly so) that the Tribunals, Courts and Enforcement Act 2007 (TCEA) does not oust the courts jurisdiction to grant judicial review of unappealable decisions of the Upper Tribunal (UT).
+What is in issue is the scope of this jurisdiction.
+The Divisional Court and the Court of Appeal described it in similar terms.
+Laws LJ in the Divisional Court said ([2010] 2 WLR 1012, para 99) that it was limited to exceptional cases where there was an excess of jurisdiction in the narrow pre Anisminic sense ([1969] 2 AC 147) or where there has been a wholly exceptional collapse of fair procedure.
+Sedley LJ, delivering the judgment of the Court of Appeal, adopted at [2011] 2 WLR 36, para 42 what he described as the Sivasubramaniam model ([2003] 1 WLR 475) ie excess of jurisdiction in the pre Anisminic sense or procedural irregularity of such a kind as to constitute a denial of the applicants right to a fair hearing Sivasubramaniam para 56.
+This is the scope of the jurisdiction for which Mr Eadie QC (in Cart) and Mr Johnston QC (in Eba) contend.
+Like Lady Hale, I shall refer to it as the exceptional circumstances approach.
+On the other hand, Mr Drabble QC (supported by Mr Fordham QC and Mr Bailin QC) in Cart and Mr Mitchell in Eba submit that there is no justification for any restriction in the scope of the judicial review jurisdiction: it should in principle be available in all cases of legal error; and Mr Manjit Gill QC in MR (Pakistan) makes the same submission in the particular context of immigration and asylum cases.
+The exceptional circumstances approach
+I agree with Lady Hale that, for the reasons that she gives, the exceptional circumstances approach is not justified.
+As Mr Fordham points out, there are objections to it both in principle and in practice.
+As regards principle, the concept of jurisdictional error in the pre Anisminic sense (where, for example, a tribunal embarks on a case that is beyond its statutory remit) was used to indicate that a decision was so fundamentally flawed as to be a nullity, so that judicial review could be granted notwithstanding the existence of a statutory ouster.
+There is no statutory ouster in the present context.
+Even if there were, the importance of Anisminic is that it showed that a material error of law renders a decision a nullity so that the decision is in principle judicially reviewable.
+It is difficult to see any principled basis for holding that only jurisdictional errors of law by the UT should be judicially reviewable.
+In practical terms, it is immaterial to the victim of an error of law whether it is a jurisdictional error or should be differently classified.
+Non jurisdictional error may be egregious and obvious.
+Laws LJ accepted (para 99) that on the exceptional circumstances approach a decision which gets it wrong, even extremely wrong will not justify judicial review, whereas if the issue can be classified as jurisdictional, mere error will suffice.
+Thus a non jurisdictional error of law on a point of general public importance (for example, an important point of statutory interpretation) would not be amenable to judicial review; whereas a one off jurisdictional error of no general significance would be.
+Such a distinction does not promote the rule of law.
+In my view, as a matter of principle, there is no justification for drawing the line at jurisdictional error.
+Lady Hale has referred to the problem of practice.
+The distinction between jurisdictional error and other error is artificial and technical.
+I agree with what the editors of De Smiths Judicial Review 6th ed, (2007) state at para 4 046: It is, however, doubtful whether any test of jurisdictional error will prove satisfactory.
+The distinction between jurisdictional and non jurisdictional error is ultimately based on foundations of sand.
+Much of the super structure had already crumbled.
+What remains is likely quickly to fall away as the courts rightly insist that all administrative actions should be simply, lawful, whether or not jurisdictionally lawful.
+Unrestricted judicial review
+In my view, the case for retaining unrestricted judicial review is more formidable.
+There are a number of strands to the argument.
+First, there is nothing to indicate that Parliament intended to restrict the High Courts previous jurisdiction over unappealable decisions of tribunals.
+Although the TCEA made substantial changes to the organisation of tribunals, it is contended that these do not justify the court, as a matter of judicial policy, making a major change to the scope of judicial review.
+The High Courts supervisory jurisdiction to correct any error of law in unappealable decisions of the predecessors of the UT has been beneficial for the rule of law.
+There is a real risk that the exclusion of judicial review will lead to the fossilisation of bad law such, for example, as that which was corrected in Woodling v Secretary of State for Social Services [1984] 1 WLR 348 (see para 19 of Lady Hales judgment).
+There are also risks in restricting the judicial review jurisdiction in relation to errors of law in unappealable decisions of tribunals in cases involving fundamental rights and EU law.
+In such cases, if the UT makes an error of law in refusing permission to appeal, the consequences for the individual concerned may be extremely grave.
+Indeed, in Sivasubramaniam itself, the Court of Appeal recognised the existence of special factors which fully justify the practice of entertaining applications for permission to claim judicial review of refusals of leave to appeal by the [immigration appeal tribunal] (para 52).
+In asylum cases, fundamental human rights are in play, often including the right to life and the right not to be subjected to torture.
+Secondly, as Lady Hale says (para 49), the courts have established a principle of judicial restraint when considering decisions of expert tribunals.
+If this principle towards decisions of the UT is respected (as it should be), then judicial review of unappealable decisions provides a system of justice which is proportionate and appropriate to protect the rule of law.
+Further restrictions on the scope of judicial review are unnecessary.
+Finally, in so far as a floodgates argument is relied on by the respondents to justify restricting the scope of judicial review, this should be resisted.
+First, there is no evidence of a floodgates problem in relation to any tribunals except in the field of immigration and asylum.
+Secondly, this is in any event not a legitimate basis for the courts to restrict the scope of judicial review as a matter of judicial policy where Parliament, in enacting the TCEA, decided not to do so for itself.
+As Lord Bridge said in Leech v Deputy Governor of HMP Parkhurst [1988] AC 533 at 566C: In a matter of jurisdiction it cannot be right to draw lines on a purely defensive basis and determine that the court has no jurisdiction over one matter which it ought properly to entertain for fear that acceptance of jurisdiction may set a precedent which will make it difficult to decline jurisdiction over other matters which it ought not to entertain.
+Historically, the development of the law in accordance with coherent and consistent principles has all too often been impeded, in diverse areas of the law besides that of judicial review, by the courts fear that unless an arbitrary boundary is drawn it will be inundated by a flood of unmeritorious claims.
+Despite their apparent strength, I cannot accept these arguments.
+The TCEA has made a major change to the order of things.
+It implemented many of the recommendations of the committee chaired by Sir Andrew Leggatt, Tribunals for usersOne System, One Service (2001).
+The committees terms of reference included a review of the delivery of justice through tribunals to ensure that there are fair, timely, proportionate and effective arrangements for handling those disputes, within an effective framework for decision making which encourages the systematic development of the area of law concerned, and which forms a coherent structure, together with the superior courts, for the delivery of administrative justice.
+As stated in the overview of its report, the committee considered that its proposals would give to tribunals a collective standing to match that of the Court System and a collective power to fulfil the needs of users in the way that was originally intended (para 8).
+The report contains many proposals which were designed to meet that overall objective.
+Para 6.16 is important: These arrangements will create for the first time a complete structure of appellate tribunals, covering all tribunal jurisdictions.
+As we explain in further detail in paragraphs 6.376.38 below, the President of each Division will be a judge, often a senior one.
+All members will be experts, specialising in the jurisdiction of the Division or Divisions in which they sit.
+They will also be trained to conduct hearings in the distinctive enabling approach common to all tribunals.
+For all these reasons, we think the time has come for a change in the relationship between tribunals and the courts.
+Hitherto, tribunal decisions have in general not set precedents.
+In some tribunals, there have been arrangements to identify individual cases as carrying particular weight or authority, which future tribunals are normally expected to observe.
+We do not think that will suffice to give the greater coherence and consistency that we would recommend in the Tribunals System.
+We therefore wish to see systematic arrangements for the setting of precedent.
+We think that this should lead to changing the relationship between tribunals and the supervisory jurisdiction of the High Court.
+There is also a section of the report (paras 6.27 to 6.36) headed The place of judicial review.
+It notes (para 6.27) that the proportion of immigration and (mostly) asylum cases in applications for permission for judicial review in 1999 was approaching two thirds of the total.
+While the great majority of them were unsuccessful, they demonstrated the waste of scarce resources which can arise from problems in the relationship between tribunals and courts.
+It states (para 6.31) that the EAT and the Transport Tribunal have been designated as superior courts of record and as such have a status formally equivalent to that of the High Court and therefore escape judicial review.
+Others do not.
+Para 6.32 states that the aim of the new appellate Division would be to develop by its general expertise and the selective identification of binding precedents, a coherent approach to the law.
+It would be comparable in authority to the High Court so far as tribunals are concerned.
+For that reason, it would be inappropriate to subject the Presidents of the appellate Division to review by another judge of equal status.
+The report considers two ways of excluding judicial review.
+One is by constituting all the appeal tribunals as a superior court of record, but this is rejected for the reasons stated in para 6.33.
+The other is to exclude judicial review by express statutory provision (para 6.34).
+It is this proposal that is recommended, the advantage being said to be that it would preserve a clear distinction between the new System and the courts.
+It is true that this last proposal was not accepted by Parliament.
+But it is clear that the Leggatt committee proposed that judicial review of decisions by what was to become the UT should be excluded altogether because they thought that their proposals for restructuring and enhancing the tribunal system and the resultant change in the relationship between the tribunals and the courts meant that judicial review was no longer necessary.
+Since Parliament adopted the main thrust of the committees proposals, the views of the committee as to the significance of those changes for the relationship between the tribunals and the courts are entitled to respect.
+The fact that Parliament did not accept the recommendation to exclude judicial review of unappealable decisions of the UT does not mean that it rejected the committees view that there had been a significant change in the structure of the tribunal system such as might justify a reappraisal of the scope of the judicial review jurisdiction.
+As I shall explain, the Government certainly did not disagree with that view and there is no reason to think that Parliament disagreed with it either.
+It merely means that Parliament was not willing to adopt the controversial suggestion that judicial review should be excluded altogether.
+An insight into the thinking of Government and Parliament is to be found in the Government White Paper: Transforming Public Services: Complaints, Redress and Tribunals presented to Parliament in July 2004 (Cm 6243).
+At para 7.27, the paper stated that it was intended to strengthen the UT by the secondment of circuit judges and, for cases of sufficient weight, High Court judges with relevant expertise.
+Para 7.28 stated: With this structure the only possible role for judicial review in the High Court would be on a refusal by the first and second tier to grant permission to appeal.
+It is this possible route to redress which has caused so much difficulty for both the Immigration Appellate Authorities and the Courts.
+When permission to appeal has been refused by both tiers, and provided that the tribunal appellate judiciary are of appropriate quality, as we intend that they should be, there ought not to be a need for further scrutiny of a case by the courts.
+However, complete exclusion of the courts from their historic supervisory role is a highly contentious constitutional proposition and so we see merit in providing as a final form of recourse a statutory review on paper by a judge of the Court of Appeal.
+Thus a consequence of giving effect to the Leggatt report was to bring about a strategic reorganisation of the tribunals system by making it more coherent and improving its expertise and standing.
+I agree with the views expressed in the Leggatt report and the 2004 White Paper that the changes demanded a reappraisal of the scope of judicial review.
+Parliament refused to undertake it.
+The task of deciding the scope of the judicial review jurisdiction falls therefore to be performed by the courts.
+It follows that the fact that in the pre TCEA era there was unrestricted availability of judicial review of refusals of permission to appeal by appeal tribunals is not of itself a good reason for holding that that situation should survive the enactment of the TCEA.
+It is for the court to decide in the post TCEA world whether any and, if so, what restrictions should be placed on the availability of judicial review.
+I accept that any restrictions call for justification.
+Prima facie, judicial review should be available to challenge the legality of decisions of public bodies.
+Authority is not needed (although much exists) to show that there is no principle more basic to our system of law than the maintenance of rule of law itself and the constitutional protection afforded by judicial review.
+But the scope of judicial review should be no more (as well as no less) than is proportionate and necessary for the maintaining of the rule of law.
+The status and functions of the UT to which I have already referred are important here.
+In my view, there are three reasons why unrestricted judicial review of unappealable decisions of the UT is neither proportionate nor necessary for maintaining the rule of law.
+First, there is the status, nature and role of the UT to which I have already referred.
+Secondly, the TCEA gives those who wish to challenge the decision of a First tier Tribunal (FTT) the opportunity to have the decision scrutinised on several occasions: first when the FTT decides whether or not to review its decision under section 9(1) and (2); second, if the FTT decides not to review its decision, when it decides whether or not to grant permission to appeal to the UT under section 11(4)(a); third, if the FTT refuses permission to appeal, when the UT decides whether or not to grant permission to appeal under section 11(4)(b).
+The UT initially decides this on the papers.
+In certain categories of case, there is a right to renew the application at an oral hearing (Tribunal Procedure (Upper Tribunal) Rules 2008 (SI 2008/2698) rules 22(3) and (4); in any event, the UT has the power, if it considers it appropriate to do so, to hold an oral hearing to decide permission (ibid, rules 5(1) and 5(3)(g)).
+The third reason involves the issue of resources.
+There is no doubt that immigration and asylum cases have presented huge problems for the justice system.
+The relevant history is summarised at paras 46 and 47 of Lady Hales judgment.
+It is singled out for particular mention in the 2004 White Paper as having caused so much difficulty for both the Immigration Appellate Authorities and the Courts.
+The adoption of unrestricted judicial review of refusals of permission to appeal by the Upper Tribunal (Immigration and Asylum Chamber) would involve a return to the position under the Immigration Act 1971 and the Asylum and Immigration Appeals Act 1993 when the courts were inundated with unmeritorious applications for judicial review of refusals by the Immigration Appeal Tribunal of decisions of the special adjudicator.
+Parliament recognised the existence of the problem and sought to overcome it successively by enacting Nationality, Immigration and Asylum Act 2002 and the Asylum and Immigration (Treatment of Claimants etc) Act 2004 (see para 21 of Lady Hales judgment).
+It cannot have been intended by Parliament when it enacted the TCEA that there should, in effect, be a return to the situation that obtained before the enactment of the 2002 Act.
+Mr Gill does not suggest that this was Parliaments intention.
+His point is simply that, in the absence of the plainest express words to restrict the courts historical role of supervising statutory tribunals of limited jurisdiction, it is unconstitutional for the courts to limit that role.
+Recognising that a return to the pre 2002 Act days would be unlikely to commend itself to this court as necessary and proportionate for the maintenance of the rule of law, Mr Gill suggested in his reply, as an alternative to his principal submission, that judicial review should lie in cases where there was clear and obvious error and where the prospects of success were strong as opposed to real.
+One can readily sympathise with the argument that problems that are peculiar to the immigration and asylum cases should not determine the scope of judicial review in all other cases.
+It seems that the courts have not been inundated with unmeritorious applications for judicial review of the refusal of leave to appeal from other tribunals.
+But Sullivan LJ was right, for the reasons that he gave at paras 51 to 53 of his judgment in MR (Pakistan), to hold that the same approach should be applied to permission decisions made by the Immigration and Asylum Chamber of the Upper Tribunal as they do to decisions made by other chambers.
+In the light of the unified tribunal structure created by the TCEA, there should be a unified approach as to the grounds, if any, on which a judicial review of decisions of the UT can be sought.
+It would be contrary to the unifying purpose of the TCEA for a different approach to be adopted depending on the subject matter of the decision being appealed.
+I accept that floodgates arguments must be examined with care.
+But they cannot be ignored, particularly in the light of the experience in the immigration and asylum field.
+As Lord Phillips says, judicial resources are limited.
+It is clear from the general acceptance of the Leggatt report and from the terms of the 2004 White Paper that Parliament intended that there should not be a return to the pre 2002 Act days in immigration and asylum cases when the courts were overwhelmed with unmeritorious judicial review claims.
+If the floodgates argument were the only point militating against unrestricted judicial review, I doubt whether it would be enough.
+But it does not stand alone.
+The various factors to which I have drawn attention (in particular, the reorganisation of the tribunal system) lead me to conclude that it is not necessary or proportionate for the maintaining of the rule of law to allow unrestricted judicial review of unappealable decisions of the UT.
+For these reasons, I would hold that unrestricted judicial review is not necessary for the maintenance of the rule of law and is not proportionate.
+The second tier appeals approach
+It follows from what I have said so far that the court must find another solution.
+The problem with the exceptional circumstances approach is that, although it recognises the need to restrict the scope of judicial review, it does so in a way which creates its own problems and does not target arguable errors of law of general importance.
+The problem with unrestricted judicial review is that it captures all arguable errors of law without discriminating between them notwithstanding the countervailing factors to which I have referred.
+In R (Wiles) v Social Security Commissioner [2010] EWCA Civ 258, I suggested that there was much to be said for applying (by analogy) the criteria for the grant of permission by the UT to the Court of Appeal.
+Section 13(6) of the TCEA provides that permission shall not be granted unless (a) the proposed appeal would raise some important point of principle or practice; or (b) there is some other compelling reason for the relevant appellate court to hear the appeal.
+These criteria are identical to those that apply to any second appeal in the courts: see section 55(1) of the Access to Justice Act 1999.
+It seems to me that the second appeal criteria approach offers a number of advantages.
+First, and obviously, it does not suffer from the defects of the two alternatives that I have rejected.
+Secondly, and positively, it ensures that errors on important points of principle or practice do not become fossilised within the UT system.
+An individual who has been unsuccessful before the FTT will be able to raise an important point of law in the courts if the UT refuses to grant permission to appeal to itself.
+As explained by the Court of Appeal in Uphill v BRB (Residuary) Ltd [2005] 1 WLR 2070, it is not enough to point to a litigants private interest in the correction of error in order to obtain permission for a second appeal.
+Permission will only be given where there is an element of general interest, which justifies the use of the courts scarce resources: see also Zuckerman on Civil Procedure 2nd ed, (2006) para 23.139.
+It follows that, if the law is clear and well established but arguably has not been properly applied in the particular case, it will be difficult to show that an important point of principle or practice would be raised by an appeal.
+The position might be different where it is arguable that, although the law is clear, the UT is systematically misapplying it: see, for example, Cramp v Hastings Borough Council [2005] 4 All ER 1014.
+Thirdly, the second limb of the test (some other compelling reason) would enable the court to examine an arguable error of law in a decision of the FTT which may not raise an important point of principle or practice, but which cries out for consideration by the court if the UT refuses to do so.
+Care should be exercised in giving examples of what might be some other compelling reason, because it will depend on the particular circumstances of the case.
+But they might include (i) a case where it is strongly arguable that the individual has suffered what Laws LJ referred to at para 99 as a wholly exceptional collapse of fair procedure or (ii) a case where it is strongly arguable that there has been an error of law which has caused truly drastic consequences.
+The second appeal criteria have been in force in the courts since October 2000.
+The exceptional nature of the test is well understood.
+A perusal of the commentary in Civil Procedure (2011) (The White Book) on CPR 52 r 13(2)(a) and (b) suggests that the application of the second appeals test has not caused difficulty.
+That also accords with the experience of Lord Clarke.
+It also accords with mine.
+I agree with others that rules should be made by the Civil Procedure Rule Committee (CPRC) to govern the exercise of the judicial review jurisdiction of unappealable decisions of the UT.
+The mistakes of the past should not be repeated.
+A fair but streamlined system should be introduced with an emphasis on applications being made and dealt with on paper.
+Ultimately, however, it will be for the CPRC, taking account of the judgments of this court and after due consultation, to decide what is the appropriate procedure to adopt.
+In practice, there is little if any substantive difference between an appeal on a point of law and judicial review, although each may, of course, be subject to different procedural conditions.
+Parliament has shown a liking for the second appeal criteria in second appeals and in particular in the tribunal context of appeals from the UT to the Court of Appeal.
+It can at least be said that to import those criteria into the judicial review jurisdiction in the present context does not go against the grain of the TCEA.
+More positively, in my view the second tier appeals approach provides a proportionate answer to the question: what scope of judicial review of unappealable decisions of the UT is required to maintain the rule of law?
+For these reasons, as well as those given by Lady Hale and Lord Phillips (in Cart) and by Lord Hope (in Eba), I would allow these appeals on the jurisdictional issue.
+But, in agreement with them, I would dismiss the appeals in both cases as well as in MR (Pakistan).

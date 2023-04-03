@@ -1,0 +1,47 @@
+This appeal raises the question of how the concepts of sufficiency and infringement are to be applied to a Swiss form patent relating to a specified medical use of a known pharmaceutical compound.
+The Appellant (Warner Lambert) is part of the Pfizer group of companies.
+It is the proprietor of European Patent No 0641330 for Isobutylgaba.
+This is used for the treatment of seizure disorders, including epilepsy.
+Pregabalin, a derivative compound of Isobutylgaba, is marketed by Warner Lambert under the Lyrica brand.
+Patent No 0641330 expired on 17 May 2013.
+This appeal concerns a second European Patent No EP(UK) 0934061 entitled Isobutylgaba and its derivatives for the treatment of pain, with a priority date of 24 July 1996 (the Patent).
+The claims of the Patent (which define the scope of the patent protection) are all purpose limited.
+Most relevant are Claims 1 3 on the use of pregabalin for treating (1) pain, (2) inflammatory pain and (3) neuropathic pain.
+Lyrica has marketing authorisation in the EU for treatment of peripheral and central neuropathic pain, epilepsy and generalised anxiety disorder.
+It is one of Pfizers most successful drugs in the UK.
+The First Respondent (Mylan) and the Second Respondent, Actavis Group PTC EHF (Actavis), are pharmaceutical companies mainly engaged in marketing generic pharmaceutical products.
+Actavis markets a generic pregabalin product under the brand name Lecaent, launched in 2015.
+In these proceedings, Mylan and Actavis claimed the revocation of the Patent on the grounds of lack of inventive step and insufficiency.
+Warner Lambert claim that Actavis infringes Claims 1 and 3 above.
+At first instance, Arnold J rejected the arguments based on lack of inventive step.
+These are no longer in issue.
+Further, he held that Claim 1 (pain) and Claim 3 (neuropathic pain) were invalid because he construed Claim 1 as extending to all pain and Claim 3 as extending to all neuropathic pain.
+He found that there was sufficient disclosure in the specification to support the claim that pregabalin was efficacious in the treatment of inflammatory and peripheral neuropathic pain, but not central neuropathic pain.
+Both claims therefore failed for insufficiency.
+The result of the judges decision was to remove patent protection for the manufacture of pregabalin for the treatment of both peripheral and central neuropathic pain.
+Arnold J also rejected as an abuse of process an application concerning an amendment to narrow the Patent.
+The Court of Appeal (Floyd, Kitchin and Patten LJJ) upheld the judges findings, so far as relevant to this appeal, and his decision on the amendment application.
+The judge and Court of Appeal differed in their approach to infringement in patent cases confined to manufacture for a particular use.
+On appeal to the Supreme Court, Warner Lambert contend that all the claims of the Patent were valid.
+Their main aim is to establish the validity of their claims relating to neuropathic pain or, at least, peripheral neuropathic pain.
+Actavis and Mylan cross appeal, arguing that none of the claims as to neuropathic pain are
+valid.
+They only accept as valid the claims limited to inflammatory pain, for which there is no marketing authorisation.
+This gives rise to four issues on appeal: (i) the construction of the claims (in particular, Claim 3 as to neuropathic pain); (ii) the sufficiency of the disclosure in the specification; (iii) amendment and abuse of process; and (iv) the test for infringement of a patent in relation to manufacturing for a limited use.
+The Supreme Court dismisses the appeal and allows the cross appeal (Lord Mance and Lord Hodge dissenting in part on whether there was sufficient disclosure in the specification for Claims 1 and 3).
+Lord Sumption gives the leading judgment, with which Lord Reed, Lord Hodge and Lord Briggs agree, save on some issues specified in the separate judgments of Lord Briggs, Lord Hodge and Lord Mance.
+Issues (i) and (iii) Construction of the claims and amendment/abuse of process: The court unanimously affirms (for reasons given by Lord Briggs): (1) the view of both courts that Claim 1 extends to all pain and Claim 3 to all neuropathic pain, whether peripheral or central, and (2) Arnold Js decision rejecting Warner Lamberts application to amend the Patent to narrow it [15(1), 16 (Lord Sumption); 99 106, 118 120 (Lord Briggs); 181 (Lord Hodge); 195 196 (Lord Mance)].
+Issue (ii) Sufficiency of disclosure in specification for Claims 1 and 3: The court holds, by a majority (Lord Sumption, Lord Reed and Lord Briggs), that the disclosure in the specification supports the claims in relation to inflammatory pain, but not neuropathic pain, whether peripheral or central.
+Claims 1 and 3 therefore fail for insufficiency.
+Thus, the appeal is dismissed and the cross appeal allowed [15(2), 43 54].
+The majoritys approach requires the patentee to demonstrate that the specification discloses some scientific reason why the implied assertion of efficacy in the patent claim may well be true [36 37].
+More than a bare assertion or mere possibility of therapeutic efficiency is required, though a priori reasoning (not necessarily only experimental data) may suffice [37].
+This respects the principle that the patentee cannot claim a monopoly of new use for an existing compound without real disclosure [35].
+Lord Hodge (dissenting) proposes an alternative approach to sufficiency, preferring a lower standard of plausibility, and would have dismissed the cross appeal [186 190].
+Lord Mance agrees with Lord Hodge on this issue, concluding that the majoritys approach imposes too high a threshold [198 201].
+Issue (iv) Correct test for infringement of patent manufactured for a limited use: The court unanimously holds that if Claims 1 and 3 had been valid, they would not have been infringed by Actavis [15(3)].
+The reasons for arriving at this agreed result differ substantially.
+Lord Sumption and Lord Reed consider that the intention of the alleged infringer, whether subjective or objective, is irrelevant and that the sole criterion of infringement is whether the product as it emerges from the manufacturing process, including any labelling or accompanying leaflet, is presented as suitable for the uses which enjoy patent protection the outward presentation test [15(3), 71 86].
+On the facts of this case, it is not disputed that Lecaent was sold with labels and patient information to the effect that it was for the treatment of seizure disorders and general anxiety disorder [8, 15(3)].
+Lord Mance agrees that the test depends on the objective appearance and characteristics of the product as it is prepared, presented and put on the market, but considers that in rare cases the context may make it obvious that these are not to be taken at face value [15(3); 218 223].
+Lord Briggs and Lord Hodge prefer the view of Arnold J that the test is whether the alleged infringer subjectively intended to target the patent protected market (Arnold J found they had not so intended) [15(3); 170 177 (Lord Briggs); 193 (Lord Hodge)].

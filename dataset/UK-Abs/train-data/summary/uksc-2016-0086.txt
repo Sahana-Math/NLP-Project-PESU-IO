@@ -1,0 +1,56 @@
+In 1999, the first appellant established a business providing support for young people leaving care.
+In 2002, she sold a 50% interest to Mr and Mrs Costelloe.
+The respondent company, One Step (Support) Ltd (One Step) was incorporated as the vehicle for this transaction.
+In 2004, relations began to deteriorate between the first appellant and the Costelloes.
+In August 2006, Mrs Costelloe served a deadlock notice under the shareholders agreement, requiring the first appellant either to buy her shares or to sell her own for a certain price.
+The first appellant opted to sell her shares in One Step to the Costelloes for 3.15m.
+Both appellants agreed to be bound for three years by restrictive covenants prohibiting them from competing with One Step or from soliciting its clients.
+In 2004, without the Costelloes knowledge, the appellants had incorporated a new company, called Positive Living.
+In 2007, Positive Living began trading, in competition with One Step.
+In 2010, the appellants sold their shares in Positive Living for 12.8m.
+In 2012, the claimant company issued the present proceedings for breaches of the restrictive covenants.
+The trial judge, Phillips J, found that the appellants had breached the restrictive covenants and that One Step was entitled to damages to be assessed on a Wrotham Park basis (for such amount as would notionally have been agreed between the parties, acting reasonably, as the price for releasing the defendants from their obligations) or alternatively ordinary compensatory damages.
+Wrotham Park damages, named after the case Wrotham Park Estate Co Ltd v Parkside Homes Ltd [1974] 1 WLR 798, and also known as negotiating damages1, refer to the sum that the claimant could hypothetically have received in return for releasing the defendant from the obligation which he failed to perform.
+The Court of Appeal upheld the decision of the trial judge.
+The appellants appealed to the Supreme Court on the question of damages.
+The Supreme Court allows the appeal on the basis that the courts below erred in their approach to the assessment of damages.
+The case should now return to the High Court for a hearing on quantum to measure the claimants actual financial loss.
+Lord Reed gives the main judgment, with which Lady Hale, Lord Wilson and Lord Carnwath agree.
+Lord Carnwath gives a concurring judgment.
+Lord Sumption gives a separate judgment, agreeing that the appeal should be allowed. 1 This is the term preferred by Lord Reed in his judgment at [3].
+First principles Before considering negotiating damages for breach of contract, it is necessary to consider general principles relating to user damages in tort, damages in equity, and damages for breach of contract [24]. (i) User damages in tort: Damages assessed by reference to the value of the use wrongfully made of property, measured by what a reasonable person would have paid for the right of user (sometimes termed user damages), are readily awarded at common law for the invasion of property rights.
+Damages are available on a similar basis for the invasion of intellectual property rights [25 30, 95(1) (2)]. (ii) Damages in equity under Lord Cairns Act: Under section 2 of the Chancery Amendment Act 1858 (Lord Cairns Act), now re enacted in section 50 of the Senior Courts Act 1981, damages can be awarded in substitution for an injunction or specific performance where the court had jurisdiction to grant such a remedy when the proceedings were commenced.
+Damages on this basis are a monetary substitute for what is lost by the withholding of the remedy.
+One method of quantifying damages under this head is by reference to the economic value of the right which the court has declined to enforce.
+Such a valuation can be arrived at by reference to the amount which the claimant might reasonably have demanded in return for the relaxation of the obligation in question [41 47, 95(3) (5)]. (iii) Common law damages for breach of contract: Common law damages for breach of contract are intended to place the claimant in the same position as he would have been in had the contract been performed.
+They are therefore normally based on the difference between the effect of performance and non performance upon the claimants situation.
+Where the breach of a contractual obligation has caused the claimant to suffer loss, that loss should be measured or estimated as accurately and reliably as possible.
+The law tolerates imprecision, and there are different legal principles which can assist in estimating the claimants loss [31 40, 95(6) (9)].
+Contract law damages cannot be awarded merely for the purpose of depriving the defendant of profits made as a result of the breach, except in exceptional circumstances, following Attorney General v Blake [2001] 1 AC 268 [35, 73, 82, 95(11)].
+Contract law damages are not a matter of discretion.
+They are claimed as of right, and are awarded or refused on the basis of legal principle [36, 81, 95(12)].
+Negotiating damages for breach of contract Lord Reed reviews the Wrotham Park line of cases at [48 90], dividing the caselaw into two phases.
+In the initial period, beginning with Wrotham Park, awards based on a hypothetical release fee were made in the exercise of the jurisdiction under Lord Cairns Act in substitution for injunctions to prevent interferences with property rights and breaches of restrictive covenants over land [49 63].
+In the later period, awards calculated in a similar way were made at common law on a wider and less certain basis [83 90].
+This later phase includes Experience Hendrix LLC v PPX Enterprises Inc [2003] EWCA Civ 323.
+Lord Reed expresses some doubts on the reasoning of Experience Hendrix, but supports the decision as it can be understood on an orthodox basis [89 90].
+The two phases are divided by the case of Attorney General v Blake, in which the wider availability of hypothetical release fee awards was signalled, but the seeds of uncertainty were sown.
+However, although Wrotham Park was discussed in Attorney General v Blake, negotiating damages were not sought, and were not before the court [64 82].
+The discussion above leads to the conclusion that negotiating damages can be awarded for breach of contract where the loss suffered by the claimant is appropriately measured by reference to the economic value of the right which has been breached, considered as an asset.
+The imaginary negotiation is merely a tool for arriving at that value.
+That value may be the measure of loss where the breach of contract results in the loss of a valuable asset created or protected by the right which was infringed, as in the case of the breach of a restrictive covenant or an intellectual property agreement.
+The rationale is that the claimant has in substance been deprived of a valuable asset, and his loss can therefore be measured by determining the economic value of the right in question, considered as an asset.
+The defendant has taken something for nothing, for which the claimant was entitled to require payment [91 93, 95(10)].
+The present case Applying these conclusions to the present case, both the trial judge and the Court of Appeal adopted a mistaken approach [96 97].
+The substance of the claimants case is that it suffered financial loss in the form of lost profits and goodwill.
+Though difficult to quantify, this is a familiar type of loss, which can be quantified in a conventional manner.
+The claimants did not suffer the loss of a valuable asset created or protected by the right which was infringed.
+Accordingly, the case should be remitted for the judge to measure the financial loss which the claimant has actually sustained.
+If evidence is led in relation to a hypothetical release fee, it is for the judge to determine its relevance and weight, if any.
+However, such a fee is not itself the measure of the claimants loss in a case of the present kind [96 100].
+The other judgments Lord Sumption would also allow the appeal.
+He considers that damages based on a notional release fee may be awarded in three categories of cases: (i) where the claimant has an interest, such as a property right, or the governments interest in Attorney General v Blake, which extends beyond financial reparation [110 111]; (ii) where the claimant would be entitled to the specific enforcement of his right, and the notional release fee is the price of non enforcement [112 114]; and (iii) where the notional price of a release may be relevant as an evidential technique for estimating the claimants loss, such as in cases of patent infringement [115 123].
+The present case may fall into this third category [106].
+Lord Sumption would modify the declaration of the judge accordingly [124].
+Lord Carnwath agrees with Lord Reeds analysis and takes issue with certain aspects of Lord Sumptions analysis [133 137].
+Lord Carnwath also considers the impact of the reasoning on other areas of the law concerning compensation for statutory interference with property rights [138 152], and makes some observations on the date of assessment of negotiating damages in different types of cases [153 159].

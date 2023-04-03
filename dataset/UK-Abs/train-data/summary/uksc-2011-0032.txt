@@ -1,0 +1,42 @@
+These appeals concern the obligations of insurance companies under various contracts of employers liability (EL) insurance.
+In particular, the appeals concern the scope of the insurers obligations to indemnify employers against their liabilities towards employees who have contracted mesothelioma following exposure to asbestos.
+Mesothelioma has an unusually long gestation period, which can be in excess of 40 years between exposure to asbestos and manifestation of the disease.
+The insurers maintain that the EL policies only cover mesothelioma which manifested as a disease at some point during the relevant policy period.
+In contrast, the employers submit that the insurance policies respond to mesothelioma caused by exposure to asbestos during the relevant policy period but which develops and manifests itself sometime later.
+The usual rule in negligence cases is that the claimant must establish on the balance of probabilities that the defendants negligence caused his injury or disease.
+In Fairchild v Glenhaven Funeral Services Ltd [2002] UKHL 22 and Barker v Corus UK Ltd [2006] UKHL 20 the House of Lords developed an exception to this general principle in cases involving mesothelioma caused by exposure to asbestos.
+The effect of this special rule is that an employer is liable where exposure to asbestos contributed to the risk that the employee would suffer mesothelioma and where the employee in fact develops the disease.
+The insurers submit that the special rule in Fairchild/Barker is not applicable when deciding, for the purposes of an EL insurance policy, whether an employees mesothelioma was caused by exposure to asbestos during a particular policy year.
+At first instance Burton J held that the policies should all be interpreted as having a causation wording.
+He therefore held that the liability trigger under the EL policy was when the employee inhaled the asbestos and not the date when the malignant lesion developed.
+A majority of the Court of Appeal (Rix and Stanley Burnton LJJ) upheld the judge in relation to some of the EL insurance policies (particularly those covering disease contracted during the relevant insurance period); however they concluded that other policies (particularly those covering disease sustained during the insurance period) responded only on an occurrence or manifestation basis.
+These appeals to the Supreme Court raise two issues: (i) On the correct construction of the EL policies, is mesothelioma sustained or contracted at the moment when the employee is wrongfully exposed to asbestos or at the moment when the disease subsequently manifests in the employees body? (ii) Does the special rule in Fairchild/Barker apply when determining whether, for the purposes of the EL policies, an employee sustained or contracted mesothelioma during a particular policy period?
+The Supreme Court dismisses the insurers appeal by a 4 1 majority; Lord Phillips dissenting on the second issue.
+Lord Mance gives the main judgment.
+To resolve the meaning of the EL policies it is necessary to avoid over concentration on the meaning of single words or phrases viewed in isolation, and to look at the insurance contracts more generally [19].
+Several features point the way to the correct construction.
+First, the wordings of the policies on their face require the course of employment to be contemporaneous with the sustaining of the injury [20].
+Second, the wordings demonstrate a close link between the actual employment undertaken during each period and the premium agreed by the parties for the risks undertaken by the insurers in respect of that period.
+Third, on the insurers case there is a potential gap in cover as regards employers breaches of duty towards employees in one period which only lead to disease or injury in another later period [24].
+Fourth, on the insurers case employers would be vulnerable to any decision by the insurers not to renew the policy.
+A decision not to renew might arise from the employers complying with their duty to disclose past negligence upon any renewal.
+Employers who discovered that they had been negligent in the course of past activities in respects that had not yet led to any manifest disease would have such a duty.
+The insurers could then simply refuse any renewal or further cover [25].
+Fifth, the way most of the policies deal with extra territorial issues throws doubt on any suggestion that the wordings are so carefully chosen that a court should stick literally to whatever might be perceived as their natural meaning [28].
+Section 1 of the Employers Liability Compulsory Insurance Act 1969 also points the way to the correct interpretation.
+This states that every employer shall insure, and maintain insuranceagainst liability for bodily injury or disease sustained by his employees, and arising out of and in the course of their employment.
+In order to give proper effect to the protective purpose of that legislation, the Act requires insurance on a causation basis [47].
+There is no difficulty in treating the word contracted as looking to the causation of a disease, rather than its development or manifestation.
+The word contracted used in conjunction with disease looks to the initiating or causative factor of the disease [49].
+While the word sustained may initially appear to refer to the manifestation of an injury, the nature and underlying purpose of the EL insurances is one which looks to the initiation or causation of the accident or disease which injured the employee.
+Accordingly a disease may properly be said to have been sustained by an employee in the period when it was caused or initiated, even though it only developed or manifested itself later [50].
+In relation to the second issue, the question is whether the EL policies cover employers liability for mesothelioma arising under the special rule in Fairchild/Barker [71].
+Under that rule the law accepts a weak or broad causal link between the employers negligence and the employees mesothelioma.
+When construing the EL policies the concept of a disease being caused during the policy period must be interpreted sufficiently flexibly to embrace the role assigned to exposure by the Fairchild/Barker rule [74].
+The purpose of the EL policies was to insure the employers against liability to their employees.
+Once it is held that the employers are liable to the employees, it would be remarkable if the insurers were not liable under the policies [88].
+Accordingly, for the purposes of the EL policies, the negligent exposure of an employee to asbestos during the policy period has a sufficient causal link with subsequently arising mesothelioma to trigger the insurers obligation to indemnify the employer [74].
+Lord Phillips dissents on the second issue.
+The special approach developed in Fairchild/Barker raises no implication or fictional assumption as to when mesothelioma is initiated.
+The consequence is that if claimants have to show that mesothelioma was initiated in a particular policy year in order to establish that insurers are liable they are unable to do so.
+This conclusion is not affected by section 3 of the Compensation Act 2009, which did not alter the jurisprudential basis of the Fairchild/Barker approach [132] [133].

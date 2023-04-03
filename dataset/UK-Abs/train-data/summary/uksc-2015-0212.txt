@@ -1,0 +1,40 @@
+Capita Insurance Services Limited (Capita) entered into an agreement (the SPA) with the respondent for the sale and purchase of the entire issued share capital of Sureterm Direct Limited (the Company), a company which primarily offers motor insurance for classic cars.
+Shortly after Capitas purchase of the Companys share capital, employees of the Company raised concerns about the Companys sale processes.
+A Company review revealed that in many cases the Companys telephone operators had misled customers to make a sale.
+Capita and the Company informed the Financial Services Authority (FSA) of the findings.
+Capital and the Company agreed to to pay compensation to customers affected by the mis selling.
+Clause 7.11 of the SPA was an indemnity clause.
+It provided the Sellers undertake to pay to the Buyer an amount equal to the amount which would be required to indemnify the Buyer [] against all actions, proceedings, losses, claims, damages, costs, charges, expenses and liabilities suffered or incurred, and all fines, compensation or remedial action or payments imposed on or required to be made by the Company following and arising out of claims or complaints registered with the FSA, the Financial Services Ombudsman or any other Authority against the Company, the Sellers or any Relevant Person and which relate to the period prior to the Completion Date pertaining to any mis selling or suspected mis selling of any insurance or insurance related product or service.
+Capita brought a claim against the respondent under clause 7.11 alleging that it suffered loss as a result of the mis selling of insurance products in the period before the completion of the sale.
+The respondent claimed that the circumstances fell outside the scope of clause 7.11 as the requirement to compensate which had arisen was not as a result of a claim by the Companys customers or a complaint by those customers to the FSA or another public authority.
+The High Court held that clause 7.11 required the respondent to indemnify Capita even if there had been no claim or complaint.
+The Court of Appeal disagreed.
+It declared that the indemnity under clause 7.11 was confined to loss arising out of a claim or complaint.
+Capita appeals against the Court of Appeals order, arguing that it had fallen into error because it had been influenced by the respondents submission that the decision of the Supreme Court in Arnold v Britton [2015] AC 1619 had rowed back from the guidance on contractual interpretation which the Supreme Court gave in Rainy Sky SA v Kookmin Bank [2011] 1 WLR 2900.
+Capita argued that this had caused the Court of Appeal to place too much emphasis on the words of the SPA and to give insufficient weight to the factual matrix.
+Capita submitted that clause 7.11 should be construed so that only the fines, compensation or remedial action or payments imposed on the Company had to arise out of complaints made to the FSA against the Company.
+The Supreme Court unanimously dismisses Capitas appeal.
+Lord Hodge gives the lead judgment, with which the other Justices agree.
+Contractual Interpretation The court must ascertain the objective meaning of the contractual language.
+It must consider the contract as a whole and, depending on the nature, formality and quality of its drafting, give more or less weight to elements of the wider context in reaching its view as to that objective meaning [10].
+Where there are rival meanings, the court can reach a view as to which construction is more consistent with business common sense.
+However, in striking a balance between the indications given by the language and the practical implications of competing constructions, the court must consider the quality of the drafting of the clause.
+It must be alive to the possibility that one side may have agreed something which in hindsight did not serve his interest, or that a provision may be a negotiated compromise [11].
+It does not matter whether the detailed analysis commences with the factual background and the practical implications of rival constructions or with an examination of the contractual language, so long as the court balances the indications given by each [12].
+Textualism and contextualism are not conflicting paradigms in a battle for the exclusive occupation of the field of contractual interpretation [13].
+On the approach to contractual interpretation, Rainy Sky and Arnold were saying the same thing [14].
+Clause 7.11 The Court of Appeal was correct on the meaning of clause 7.11 [25].
+Careful examination of the contractual language identifies the circumstances which trigger the clause [42].
+Capitas suggested construction is unlikely for two reasons.
+Firstly, the suggestion that only the fines, compensation or remedial action or payments imposed on the Company had to arise out of complaints made to the FSA against the Company would not restrict the scope of the warranty in any way.
+The source of loss and damage in the rest of the clause would remain unlimited.
+Secondly, it would have the effect that the clause would fail to specify against whom the relevant actions, proceedings and claims in the remainder of the clause could be made.
+There must be a limit on who such persons could be as it would be absurd for Capita to have a claim against the Sellers for indemnity resulting from any mis selling on its part before the Completion Date [33 35].
+The contractual context is also significant in this case.
+The mis selling which clause 7.11 addresses is also covered by the Schedule 4 warranties, which concern compliance and regulatory matters.
+The scope of clause 7.11, breach of which gives rise to a liability unlimited in time, must be assessed in the context of the detailed and time limited warranties in Schedule 4 [27].
+Capita had two years after completing the purchase to make a claim under Schedule 4.
+That was not an unreasonable time scale.
+It is not contrary to business common sense for the parties to agree wide ranging warranties, which are subject to a time limit, and to agree a further indemnity, which is not subject to any such limit but is triggered only in limited circumstances [40].
+The SPA may have become a bad bargain from Capitas standpoint, as it appears it did not notify the sellers of a warranty claim within two years of Completion.
+But it is not the function of the court to improve their bargain [41].

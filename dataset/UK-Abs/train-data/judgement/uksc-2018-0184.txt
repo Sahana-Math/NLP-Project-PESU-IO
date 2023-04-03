@@ -1,0 +1,272 @@
+As Lord Hewart CJ famously declared, in R v Sussex Magistrates, Ex p McCarthy [1924] 1 KB 256, 259, it is not merely of some importance but is of fundamental importance that justice should not only be done, but should manifestly and undoubtedly be seen to be done.
+That was in the context of an appearance of bias, but the principle is of broader application.
+With only a few exceptions, our courts sit in public, not only that justice be done but that justice may be seen to be done.
+But whereas in the olden days civil proceedings were dominated by the spoken word oral evidence and oral argument, followed by an oral judgment, which anyone in the court room could hear, these days civil proceedings generate a great deal of written material statements of case, witness statements, and the documents exhibited to them, documents disclosed by each party, skeleton arguments and written submissions, leading eventually to a written judgment.
+It is standard practice to collect all the written material which is likely to be relevant in a hearing into a bundle which may range from a single ring binder to many, many volumes of lever arch files.
+Increasingly, these bundles may be digitised and presented electronically, either instead of or as well as in hard copy.
+This case is about how much of the written material placed before the court in a civil action should be accessible to people who are not parties to the proceedings and how it should be made accessible to them.
+It is, in short, about the extent and operation of the principle of open justice.
+As Toulson LJ said, in R (Guardian News and Media Ltd) v City of Westminster Magistrates Court (Article 19 intervening) [2012] EWCA Civ 420; [2013] QB 618 (Guardian News and Media), at para 1: Open justice.
+The words express a principle at the heart of our system of justice and vital to the rule of law.
+The rule of law is a fine concept but fine words butter no parsnips.
+How is the rule of law itself to be policed? It is an age old question.
+Quis custodiet ipsos custodes who will guard the guards themselves? In a democracy, where power depends on the consent of the people governed, the answer must lie in the transparency of the legal process.
+Open justice lets in the light and allows the public to scrutinise the workings of the law, for better or for worse.
+The history of the case
+The circumstances in which this important issue comes before the court are unusual, to say the least.
+Cape Intermediate Holdings Ltd (Cape) is a company that was involved in the manufacture and supply of asbestos.
+In January and February 2017, it was the defendant in a six week trial in the Queens Bench Division before Picken J.
+The trial involved two sets of proceedings, known as the PL claims and the CDL claim, but only the PL claims are relevant to this appeal.
+In essence, these were claims brought against Cape by insurers who had written employers liability policies for employers.
+The employers had paid damages to former employees who had contracted mesothelioma in the course of their employment.
+The employers, through their insurers, then claimed a contribution from Cape on the basis that the employees had been exposed at work to asbestos from products manufactured by Cape.
+It was alleged that Cape had been negligent in the production of asbestos insulation boards; that it knew of the risks of asbestos and had failed to take steps to make those risks clear; indeed, that it obscured, understated and unfairly qualified the information that it had, thus providing false and misleading reassurance to employers and others.
+Cape denied all this and alleged that the employers were solely responsible to their employees, that it did publish relevant warnings and advice, and that any knowledge which it had of the risks should also have been known to the employers.
+Voluminous documentation was produced for the trial.
+Each set of proceedings had its own hard copy core bundle, known as Bundle C, which contained the core documents obtained on disclosure and some documents obtained from public sources.
+The PL core bundle amounted to over 5,000 pages in around 17 lever arch files.
+In addition, there was a joint Bundle D, only available on an electronic platform, which contained all the disclosed documents in each set of proceedings.
+If it was needed to refer to a document in Bundle D which was not in Bundle C, it could immediately be viewed on screen, and would then be included in hard copy in Bundle C.
+The intention was that Bundle C would contain all the documents referred to for the purpose of the trial, whether in the parties written and oral opening and closing submissions, or in submissions or evidence during the trial.
+After the trial had ended, but before judgment was delivered, the PL claims were settled by a consent order dated 14 March 2017 and sealed on 17 March 2017.
+The CDL claim was also settled a month later, before judgment.
+The Asbestos Victims Support Groups Forum UK (the Forum) is an unincorporated association providing help and support to people who suffer from asbestos related diseases and their families.
+It is also involved in lobbying and promoting asbestos knowledge and safety.
+It was not a party to either set of proceedings.
+On 6 April 2017, after the settlement of the PL claims, it applied without notice, under the Civil Procedure Rules, CPR rule 5.4C, which deals with third party access to the records of the court, with a view to preserving and obtaining copies of all the documents used at or disclosed for the trial, including the trial bundles, as well as the trial transcripts.
+This was because the Forum believed that the documents would contain valuable information about such things as the knowledge of the asbestos industry of the dangers of asbestos, the research which the industry and industry related bodies had carried out, and the influence which they had had on the Factory Inspectorate and the Health and Safety Executive in setting standards.
+In the Forums view, the documents might assist both claimants and defendants and also the court in understanding the issues in asbestos related disease claims.
+No particular case was identified but it was said that they would assist in current cases.
+That same day, the Master made an ex parte order designed to ensure that all the documents which were still at court stayed at court and that any which had been removed were returned to the court.
+She later ordered that a hard drive containing an electronic copy of Bundle D be produced and lodged at court.
+After a three day hearing of the application in October, she gave judgment in December, holding that she had jurisdiction, either under CPR rule 5.4C(2) or at common law, to order that a non party be given access to all the material sought.
+She ordered that Mr Dring (now acting for and on behalf of the Forum) should be provided with the hard copy trial bundle, including the disclosure documents in Bundle C, all witness statements, expert reports, transcripts and written submissions.
+She did not order that Bundle D be provided but ordered that it be retained at court.
+Cape appealed, inter alia, on the grounds that: (1) the Master did not have jurisdiction, either under CPR rule 5.4C or at common law, to make an order of such a broad scope; (2) to the extent that the court did have jurisdiction to grant access, she had applied the wrong test to the exercise of her discretion; and (3) in any event, she should have held that the Forum failed to meet the requisite test.
+The appeal was transferred to the Court of Appeal because of the importance of the issues raised.
+In July 2018, that court allowed Capes appeal and set aside the Masters order: [2018] EWCA Civ 1795; [2019] 1 WLR 479.
+It held that the records of the court for the purpose of the discretion to allow access under CPR rule 5.4C(2) were much more limited than she had held.
+They would not normally include trial bundles, trial witness statements, trial expert reports, trial skeleton arguments or written submissions; or trial transcripts.
+Nevertheless, the court had an inherent jurisdiction to permit a non party to obtain (i) witness statements of witnesses, including experts, whose statements or reports stood as evidence in chief at trial and which would have been available for inspection during the trial, under CPR rule 32.13; (ii) documents in relation to which confidentiality had been lost under CPR rule 31.22 and which were read out in open court, or the judge was invited to read in court or outside court, or which it was clear or stated that the judge had read; (iii) skeleton arguments or written submissions read by the court, provided that there is an effective public hearing at which these were deployed; and (iv) any specific documents which it was necessary for a non party to inspect in order to meet the principle of open justice.
+But there was no inherent jurisdiction to permit non parties to obtain trial bundles or documents referred to in skeleton arguments or written submissions, or in witness statements or experts reports, or in open court, simply on the basis that they had been referred to in the hearing.
+When exercising its discretion under CPR rule 5.4C(2) or the inherent jurisdiction, the court had to balance the non partys reasons for seeking disclosure against the partys reasons for wanting to preserve confidentiality.
+The court would be likely to lean in favour of granting access if the principle of open justice is engaged and the applicant has a legitimate interest in inspecting the documents.
+If the principle of open justice is not engaged, then the court would be unlikely to grant access unless there were strong grounds for thinking it necessary in the interests of justice to do so (paras 127 and 129).
+Accordingly, the court ordered, in summary: (i) that the court should provide the Forum with copies of all statements of case, including requests for further information and answers, apart from those listed in Appendix 1 to the order, so far as they were on the court file and for a fee, pursuant to the right of access granted by CPR rule 5.4C(1); (ii) that Cape should provide the Forum with copies of the witness statements, expert reports and written submissions listed in Appendix 2 to the order; and (iii) that the application be listed before Picken J (or failing him some other High Court Judge) to decide whether any other document sought by the Forum fell within (ii) or (iv) in para 9 above and if so whether Cape should be ordered to provide copies.
+Copying would be at the Forums expense.
+Cape was permitted to retrieve from the court all the documents and bundles which were not on the court file and the hard drive containing a copy of Bundle D.
+In making this order, the Court of Appeal proceeded on the basis that clean copies of the documents in question were available.
+Cape now appeals to this court.
+It argues, first, that the Court of Appeal should have limited itself to order (i) in para 11 above; second, that the Court of Appeal was wrong to equate the courts inherent jurisdiction to allow access to documents with the principle of open justice; the treatment of court documents is largely governed by the Civil Procedure Rules and the scope of any inherent jurisdiction is very limited; insofar as it goes any further than expressly permitted by the Rules, it extends only to ordering provision to a non party of copies of (a) skeleton arguments relied on in court and (b) written submissions made by the parties in the course of a trial (as held by the Court of Appeal in GIO Personal Investment Services Ltd v Liverpool and London Steamship Protection and Indemnity Association Ltd (FAI General Insurance Co Ltd intervening) [1999] 1 WLR 984 (FAI)); and third, that the Court of Appeal was wrong to conclude that the Forum did have a relevant legitimate interest in obtaining access to the documents; the public interest in open justice was different from the public interest in the content of the documents involved.
+The Forum cross appeals on the ground that the Court of Appeal was wrong to limit the scope of CPR rule 5.4C in the way that it did.
+Any document filed at court should be treated as part of the courts records for that purpose.
+The default position should be to grant access to documents placed before a judge and referred to by a party at trial unless there was a good reason not to do so.
+It should not be limited by what the judge has chosen to read.
+The Media Lawyers Association has intervened in the appeal to this court.
+It stresses that the way in which most members of the public are able to scrutinise court proceedings is through media reporting.
+The media are the eyes and ears of the public.
+For this, media access to court documents is essential.
+The need often arises after the proceedings have ended and judgment has been given because that is when it is known that scrutiny is required.
+The media cannot be present at every hearing.
+It cites, among many other apposite quotations, the famous words of Jeremy Bentham, cited by Lord Shaw of Dunfermline in the House of Lords in Scott v Scott [1913] AC 417, the leading case on open justice, at p 477, Publicity is the very soul of justice.
+It is the keenest spur to exertion and the surest of all guards against improbity.
+It keeps the judge himself while trying under trial.
+The issues
+There are three issues in this important case: (1) What is the scope of CPR rule 5.4C(2)? Does it give the court power to order access to all documents which have been filed, lodged or held at court, as the Master ruled? Or is it more limited, as the Court of Appeal ruled? (2) Is access to court documents governed solely by the Civil Procedure Rules, save in exceptional circumstances, as the appellant argues? Or does the court have an inherent power to order access outside the Rules? (3) exercised? If there is such a power, how far does it extend and how should it be
+Civil Procedure Rules, rule 5.4C
+Rule 5.4C is headed Supply of documents to a non party from court records.
+For our purposes, the following provisions are relevant: (1) The general rule is that a person who is not a party to proceedings may obtain from the court records a copy of (a) a statement of case, but not any documents filed with or attached to the statement of case, or intended by the party whose statement it is to be served with it; (b) a judgment or order given or made in public (whether made at a hearing or without a hearing), (2) A non party may, if the court gives permission, obtain from the records of the court a copy of any other document filed by a party, or communication between the court and a party or another person.
+By rule 2.3(1), statement of case (a) means a claim form, particulars of claim where these are not included in a claim form, defence, Part 20 claim, or reply to defence, and (b) includes any further information in relation
+to them voluntarily or by court order
+There are thus certain documents to which a non party has a right of access (subject to the various caveats set out in the rule which need not concern us) and what looks at first sight like a very broad power to allow a non party to obtain copies of any other document filed by a party, or communication between the court and a party or other person.
+Hence the Forum argues that the test is filing.
+CPR rule 2.3 provides that filing in relation to a document means delivering it by post or otherwise to the court office.
+So, it is argued, any document which has been delivered to the court office has been filed and the court may give permission for a non party to obtain a copy.
+There are two problems with this argument.
+First, the fact that filing is to be achieved in a particular way does not mean that every document which reaches court in that same way has been filed: the famous fallacy of the undistributed middle.
+The second is that the copy is to be obtained from the records of the court.
+The Civil Procedure Rules do not define the records of the court.
+They do not even provide what the records of the court are to contain.
+Nor, so far as we are aware, does any other legislation.
+The Public Records Act 1958 is not much help.
+It only tells us which records are public records and what is to be done with them.
+The person responsible for public records must make arrangements to select those which ought to be permanently preserved and for their transfer to the Public Record Office no later than 20 years after their creation (section 3).
+The Lord Chancellor is the person responsible for many court records, including those of the High Court and Court of Appeal (section 8).
+Section 10 and Schedule 1 define what is meant by a public record.
+Paragraph 4 of Schedule 1 includes the records of or held in the Senior Courts (ie the High Court and Court of Appeal) in the list of records of courts and tribunals which are public records.
+We have been shown a document prepared by Her Majestys Courts and Tribunals Service and the Ministry of Justice, headed Record Retention and Disposition Schedule.
+This lists how long various categories of files and other records are to be kept.
+Queens Bench Division files, for example, are to be destroyed after seven years.
+Trial bundles are to be destroyed if not collected by the parties at the end of the hearing or on a date agreed with the court.
+This is of no help in telling us what the court files should contain.
+We have been shown various historical sources which indicate what the records of certain courts may from time to time have contained, but it is clear that practice has varied.
+Some indication of what the court records may currently contain is given by Practice Direction 5A, para 4.2A of which lists the documents which a party may obtain from the records of the court unless the court orders otherwise.
+These include a claim form or other statement of case together with any documents filed with or attached to or intended by the claimant to be served with such claim form; an acknowledgement of service together with any documents filed with or attached to or intended by the party acknowledging service to be served with such acknowledgement of service; an application notice, with two exceptions, and any written evidence filed in relation to an application, with the same two exceptions; a judgment or order made in public (whether made at a hearing or without a hearing); and a list of documents.
+It does not include witness statements for trial, experts reports for trial, transcripts of hearings, or trial bundles.
+The essence of a record is that it is something which is kept.
+It is a permanent or long term record of what has happened.
+The institution or person whose record it is will decide which materials need to be kept for the purposes of that institution or person.
+Practice may vary over time depending on the needs of the institution.
+What the court system may have found it necessary or desirable to keep in the olden days may be different from what it now finds it necessary or desirable to keep.
+Thus one would expect that the court record of any civil case would include, at the very least, the claim form and the judgments or orders which resulted from that claim.
+One would not expect that it would contain all the evidence which had been put before the court.
+The court itself would have no need for that, although the parties might.
+Such expectations are confirmed by the list in Practice Direction 5A.
+The records of the court must therefore refer to those documents and records which the court itself keeps for its own purposes.
+It cannot refer to every single document generated in connection with a case and filed, lodged or kept for the time being at court.
+It cannot depend upon how much of the material lodged at court happens still to be there when the request is made.
+However, current practice in relation to what is kept in the records of the court cannot determine the scope of the courts power to order access to case materials in particular cases.
+The purposes for which court records are kept are completely different from the purposes for which non parties may properly be given access to court documents.
+The principle of open justice is completely distinct from the practical requirements of running a justice system.
+What is required for each may change over time, but the reasons why records are kept and the reasons why access may be granted are completely different from one another.
+Other court rules
+There are other court rules which are relevant to the access to documents which may be granted to non parties.
+CPR, rule 39.2 lays down the general rule that court hearings are to be in public.
+Rule 39.9 provides that in any hearing the proceedings will be recorded.
+Any party or other person may require a transcript (for which there will be a fee).
+If the hearing was in private, a non party can get a transcript but only if the court so orders.
+A Practice Direction (Audio Recordings of Proceedings: Access) [2014] 1 WLR 632 states that there is generally no right for either a party or a non party to listen to the recording.
+If they have obtained a copy of the transcript, they can apply for permission to listen, but this will only be granted in exceptional circumstances, save to official law reporters.
+Nevertheless, the effect of rule 39.9 (which is wider than its predecessor) is that a non party can (at a fee) obtain a transcript of everything that was said in court.
+Rule 39.5 requires the claimant to file a trial bundle and Practice Direction 32, para 27.5, deals in detail with how these are to be prepared.
+Nothing is said about non parties being granted access to them.
+Rule 32 deals with evidence.
+If a witness who has made a witness statement is called to give evidence, the witness statement shall stand as his evidence in chief (rule 32.5(2)).
+A witness statement which stands as evidence in chief is open to inspection unless the court otherwise directs during the course of the trial (rule 32.13(1)).
+The considerations which might lead the court otherwise to direct are listed as the interests of justice, the public interest, the nature of expert medical evidence, the nature of confidential information, and the need to protect a child or protected person (rule 32.13(3)).
+Rule 32.13 recognises that the modern practice of treating a witness statement as evidence in chief (which dates back to the Report of the Review Body on Civil Justice (1988, Cm 394)) means that those observing the proceedings in court will not know the content of that evidence unless they can inspect the statement.
+The rule puts them back into the position they would have been in before that practice was adopted.
+In FAI, FAI applied to inspect and obtain: copies of documents referred to in witness statements which they had obtained under the predecessor to rule 32.13 (Rules of the Supreme Court, Order 39, rule 2A); any written opening, skeleton argument or submissions, to which reference was made by the judge, together with any documents referred to in them; and any document which the judge was specifically requested to read, which was included in any reading list, or which was read or referred to during trial.
+The Court of Appeal held that RSC Order 38, rule 2A, the predecessor to CPR, rule 5.4C(2), did not cover documents referred to in witness statements.
+The purpose of using witness statements was to encourage a cards on the table approach, to accelerate the disclosure of the parties evidence as between themselves; it was not to enable non parties to obtain access to documentation which would otherwise have been unavailable to them whether or not they had attended court.
+As to the inherent jurisdiction of the court, based on the principle of open justice, the same reasoning applied to documents referred to in court or read by the judge, unless they had been read out in court and thus entered the public domain.
+Written submissions or skeleton arguments were a different matter.
+The confidence of the public in the integrity of the judicial process must depend upon having an opportunity to understand the issues.
+Until recently this had been done in an opening speech, but if the public were deprived of that opportunity by a written opening or submissions which were not read out, it was within the inherent jurisdiction of the court to require that a copy be made available.
+Nevertheless, the court did observe, having referred to Lord Woolfs report, Access to Justice: Final Report to the Lord Chancellor on the Civil Justice System in England and Wales (July 1996) that It is of great importance that the beneficial saving in time and money which it is hoped to bring about by such new procedures should not erode the principle of open justice (p 997).
+Lybrand [2000] 1 WLR 2353, para 43, he said this: Indeed, Lord Woolf himself took the same view.
+In Barings plc v Coopers & As a matter of basic principle the starting point should be that practices adopted by the courts and parties to ensure the efficient resolution of litigation should not be allowed to adversely affect the ability of the public to know what is happening in the course of the proceedings.
+In this case, the Court of Appeal largely adopted the approach in FAI, while recognising that in certain respects the law had been developed.
+First, it was now apparent that the court had inherent jurisdiction to allow access to all parties skeleton arguments, not just the opening submissions, provided there was an effective public hearing at which they were deployed (see Law Debenture Trust Corpn (Channel Islands) Ltd v Lexington Insurance Co [2003] EWHC 2297 (Comm); (2003) NLJ 1551), and the same would apply to other advocates documents provided to the court to assist its understanding of the case, such as chronologies, dramatis personae, reading lists and written closing submissions (para 92).
+Second, although CPR rule 32.13 is limited to access during the trial, there was no reason why access to witness statements taken as evidence in chief should not be allowed under the inherent jurisdiction after the trial (para 95).
+Third, what applies to witness statements should also apply to experts reports which are treated as their evidence in chief (para 96).
+This did not extend to documents exhibited to witness statements or experts reports unless it was not possible to understand the statement or report without sight of a particular document (para 100).
+Finally, developments since FAI also meant that it was within the inherent jurisdiction to allow access to documents read or treated as read in open court (para 107).
+This should be limited to documents which are read out in open court; documents which the judge is invited to read in open court; documents which the judge is specifically invited to read outside court; and documents which it is clear or stated that the judge has read (para 108).
+These were all documents which were likely to have been read out in open court had the trial been conducted orally.
+Furthermore, the rule that parties may only use documents obtained on disclosure for the purpose of the proceedings in which they are disclosed does not apply to documents which have been read to or by the court, or referred to, at a hearing which has been held in public unless the court prohibits or limits their use (CPR rule 31.22).
+However, the mere fact that a document had been referred to in court did not mean that it would have been read out had the trial been conducted wholly orally or that sight of it is necessary in order to understand or scrutinise the proceedings (para 109).
+So, as in FAI, the court did not consider that the inherent jurisdiction extended to granting access simply on the basis that it has been referred to in open court (para 109).
+The decisions of the Court of Appeal in FAI and in this case are not the only cases in which the courts have accepted that they have an inherent jurisdiction to allow access to materials used in the course of court proceedings and that the rationale for doing so is the constitutional principle of open justice.
+That this is so is made even plainer by some recent cases of high authority.
+The principle of open justice
+The Court of Appeal had the unenviable task of trying to reconcile the very different approaches taken by that court in FAI and Guardian News and Media.
+This court has the great advantage of being able to consider the issues from the vantage point of principle rather than the detailed decisions which have been reached by the courts below.
+There can be no doubt at all that the court rules are not exhaustive of the circumstances in which non parties may be given access to court documents.
+They are a minimum and of course it is for a person seeking to persuade the court to allow access outside the rules to show a good case for doing so.
+However, case after case has recognised that the guiding principle is the need for justice to be done in the open and that courts at all levels have an inherent jurisdiction to allow access in accordance with that principle.
+Furthermore, the open justice principle is applicable throughout the United Kingdom, even though the court rules may be different.
+This was plainly recognised in Guardian News and Media.
+A District Judge had ordered two British citizens to be extradited to the USA.
+The Guardian newspaper applied to the District Judge to inspect and take copies of affidavits, witness statements, written arguments and correspondence, supplied to the judge for the purpose of the extradition hearings, referred to during the course of the hearings but not read out in open court.
+The judge held that she had no power to allow this and the Divisional Court agreed.
+In a comprehensive judgment, Toulson LJ, with whom both Hooper LJ and Lord Neuberger MR agreed, held that she did.
+The requirements of open justice applied to all tribunals exercising the judicial power of the state.
+The fact that magistrates courts were created by statute was neither here nor there (para 70).
+The decisions of the House of Lords in Scott v Scott [1913] AC 417, and of the Court of Appeal in FAI, and R v Howell [2003] EWCA Crim 486 respectively a family, civil and criminal case were illustrations of the jurisdiction of the court to decide what open justice required (para 71).
+Hence the principles established in Guardian News and Media cannot be confined to criminal cases.
+They were clearly meant to apply across the board.
+Nor has anyone suggested why the jurisdiction in criminal cases should be wider than that in civil.
+More to the point, they have since been approved by this court.
+So what were those principles? The purpose of open justice is not simply to deter impropriety or sloppiness by the judge hearing the case.
+It is wider.
+It is to enable the public to understand and scrutinise the justice system of which the courts are the administrators (para 79).
+The practice of the courts was not frozen (para 80).
+In FAI, for example, issues of informing the public about matters of general public interest did not arise (para 81).
+In earlier cases, it had been recognised, principally by Lord Scarman and Lord Simon of Glaisdale (dissenting) in Home Office v Harman [1983] 1 AC 280, 316, and by Lord Bingham in SmithKline Beecham Biologicals SA v Connaught Laboratories Inc [1999] 4 All ER 498, p 512, that the practice of receiving evidence without its being read in open court has the side effect of making the proceedings less intelligible to the press and the public.
+Lord Bingham had contemplated that public access to documents referred to in open court might be necessary to avoid too wide a gap between what has in theory, and what has in practice, passed into the public domain.
+The time had come to acknowledge that public access to documents referred to in open court was necessary (para 83).
+Requiring them to be read out would be to defeat the purpose of making hearings more efficient.
+Stating that they should be treated as if read out was merely a formal device for allowing access.
+It was unnecessary.
+Toulson LJ was unimpressed by the suggestion that there would be practical problems, given that the Criminal Procedure Rules 2011, in rule 5.8, provided, not only that there was certain (limited) information about a criminal case which the court officer was bound to supply, but also that, if the court so directs, the officer could supply other information about the case orally and allow the applicant to inspect or copy a document containing information about the case (para 84).
+But it was the common law, not the rule, which created the courts power; the rule simply provided a practical procedure for implementing it.
+Hence [i]n a case where documents have been placed before a judge and referred to in the course of proceedings the default position should be that access should be permitted on the open justice principle; and where access is sought for a proper journalistic purpose the case for allowing it will be particularly strong.
+In evaluating the grounds for opposing access, the court would have to carry out a fact specific proportionality exercise.
+Central to the courts evaluation will be the purpose of the open justice principle, the potential value of the material in advancing that purpose and, conversely, any risk of harm which access to the documents may cause to the legitimate interests of others (para 85).
+The principles laid down in Guardian News and Media were clearly endorsed by the majority of the Supreme Court in Kennedy v Charity Commission (Secretary of State for Justice intervening) [2014] UKSC 20; [2015] AC 455: see Lord Mance, at para 47, Lord Toulson, with whom Lord Neuberger and Lord Clarke agreed, at paras 110 to 118, Lord Sumption who agreed with both Lord Mance and Lord Toulson, at para 152.
+Nor did the minority cast doubt upon the decision: see Lord Wilson, para 192; Lord Carnwath, 236.
+The principles were also endorsed by a unanimous Supreme Court in A v British Broadcasting Corpn (Secretary of State for the Home Department intervening) [2014] UKSC 25; [2015] AC 588, a case emanating from Scotland: see Lord Reed, with whom Lady Hale, Lord Wilson, Lord Hughes and Lord Hodge agreed, at paras 23 27.
+That case was concerned with the exceptions to the open justice principle, in particular to the naming of a party to the proceedings, and Lord Reed expressly adopted the test laid down in Kennedy, at para 41, which was a direct citation from Guardian News and Media, at para 85: Whether a departure from the principle of open justice was justified in any particular case would depend on the facts of that case.
+As Lord Toulson JSC observed in Kennedy v Information Comr (Secretary of State for Justice intervening) [2015] AC 455, para 113, the court has to carry out a balancing exercise which will be fact specific.
+Central to the courts evaluation will be the purpose of the open justice principle, the potential value of the information in question in advancing that purpose and, conversely, any risk of harm which its disclosure may cause to the maintenance of an effective judicial process or to the legitimate interests of others.
+It follows that there should be no doubt about the principles.
+The question in
+any particular case should be about how they are to be applied.
+Discussion
+The constitutional principle of open justice applies to all courts and tribunals exercising the judicial power of the state.
+It follows that, unless inconsistent with statute or the rules of court, all courts and tribunals have an inherent jurisdiction to determine what that principle requires in terms of access to documents or other information placed before the court or tribunal in question.
+The extent of any access permitted by the courts rules is not determinative (save to the extent that they may contain a valid prohibition).
+It is not correct to talk in terms of limits to the courts jurisdiction when what is in fact in question is how that jurisdiction should be exercised in the particular case.
+The principal purposes of the open justice principle are two fold and there may well be others.
+The first is to enable public scrutiny of the way in which courts decide cases to hold the judges to account for the decisions they make and to enable the public to have confidence that they are doing their job properly.
+In A v British Broadcasting Corpn, Lord Reed reminded us of the comment of Lord Shaw of Dunfermline, in Scott v Scott [1913] AC 417, 475, that the two Acts of the Scottish Parliament passed in 1693 requiring that both civil and criminal cases be heard with open doors, bore testimony to a determination to secure civil liberties against the judges as well as against the Crown (para 24).
+But the second goes beyond the policing of individual courts and judges.
+It is to enable the public to understand how the justice system works and why decisions are taken.
+For this they have to be in a position to understand the issues and the evidence adduced in support of the parties cases.
+In the olden days, as has often been said, the general practice was that all the argument and the evidence was placed before the court orally.
+Documents would be read out.
+The modern practice is quite different.
+Much more of the argument and evidence is reduced into writing before the hearing takes place.
+Often, documents are not read out.
+It is difficult, if not impossible, in many cases, especially complicated civil cases, to know what is going on unless you have access to the written material.
+It was held in Guardian News and Media that the default position is that the public should be allowed access, not only to the parties written submissions and arguments, but also to the documents which have been placed before the court and referred to during the hearing.
+It follows that it should not be limited to those which the judge has been asked to read or has said that he has read.
+One object of the exercise is to enable the observer to relate what the judge has done or decided to the material which was before him.
+It is not impossible, though it must be rare, that the judge has forgotten or ignored some important piece of information which was before him.
+If access is limited to what the judge has actually read, then the less conscientious the judge, the less transparent is his or her decision.
+However, although the court has the power to allow access, the applicant has no right to be granted it (save to the extent that the rules grant such a right).
+It is for the person seeking access to explain why he seeks it and how granting him access will advance the open justice principle.
+In this respect it may well be that the media are better placed than others to demonstrate a good reason for seeking access.
+But there are others who may be able to show a legitimate interest in doing so.
+As was said in both Kennedy, at para 113, and A v British Broadcasting Corpn, at para 41, the court has to carry out a fact specific balancing exercise.
+On the one hand will be the purpose of the open justice principle and the potential value of the information in question in advancing that purpose.
+On the other hand will be any risk of harm which its disclosure may cause to the maintenance of an effective judicial process or to the legitimate interests of others.
+There may be very good reasons for denying access.
+The most obvious ones are national security, the protection of the interests of children or mentally disabled adults, the protection of privacy interests more generally, and the protection of trade secrets and commercial confidentiality.
+In civil cases, a party may be compelled to disclose documents to the other side which remain confidential unless and until they are deployed for the purpose of the proceedings.
+But even then there may be good reasons for preserving their confidentiality, for example, in a patent case.
+Also relevant must be the practicalities and the proportionality of granting the request.
+It is highly desirable that the application is made during the trial when the material is still readily available, the parties are before the court and the trial judge is in day to day control of the court process.
+The non party who seeks access will be expected to pay the reasonable costs of granting that access.
+People who seek access after the proceedings are over may find that it is not practicable to provide the material because the court will probably not have retained it and the parties may not have done so.
+Even if they have, the burdens placed on the parties in identifying and retrieving the material may be out of all proportion to benefits to the open justice principle, and the burden placed upon the trial judge in deciding what disclosure should be made may have become much harder, or more time consuming, to discharge.
+On the other hand, increasing digitisation of court materials may eventually make this easier.
+In short, non parties should not seek access unless they can show a good reason why this will advance the open justice principle, that there are no countervailing principles of the sort outlined earlier, which may be stronger after the proceedings have come to an end, and that granting the request will not be impracticable or disproportionate.
+It is, however, appropriate to add a comment about trial bundles.
+Trial bundles are now generally required.
+They are compilations of copies of what are likely to be the relevant materials the pleadings, the parties submissions, the witness statements and exhibits, and some of the documents disclosed.
+They are provided for the convenience of the parties and the court.
+To that end, the court, the advocates and others involved in the case may flag, mark or annotate their copies of the bundle as an aide memoire.
+But the bundle is not the evidence or the documents in the case.
+There can be no question of ordering disclosure of a marked up bundle without the consent of the person holding it.
+A clean copy of the bundle, if still available, may in fact be the most practicable way of affording a non party access to the material in question, but that is for the court hearing the application to decide.
+Application to this case
+Cape argues that the Court of Appeal did not have jurisdiction to make the order that it did, not that if it did have jurisdiction the order was wrong in principle.
+The Forum argues that the court should have made a wider order under CPR rule 5.4C(2).
+Both are, in our view, incorrect.
+The Court of Appeal not only had jurisdiction to make the order that it did, but also had jurisdiction to make a wider order if it were right so to do.
+On the other hand, the basis of making any wider order is the inherent jurisdiction in support of the open justice principle, not the Civil Procedure Rules, CPR rule 5.4C(2).
+The principles governing the exercise of that jurisdiction are those laid down in Guardian News and Media, as explained by this court in Kennedy, A v British Broadcasting Corpn and this case.
+In those circumstances, as the Court of Appeal took a narrower view, both of the jurisdiction and the applicable principles, it would be tempting to send the whole matter back to a High Court judge, preferably Picken J, so that he can decide it on the basis of the principles enunciated by this court.
+However, Cape has chosen to attack the order made by the Court of Appeal, not on its merits, but on a narrow view of the courts jurisdiction.
+Nor has it set up any counter vailing rights of its own.
+In those circumstances, there seems no realistic possibility of the judge making a more limited order than did the Court of Appeal.
+We therefore order that paras 4 and 7 of the Court of Appeal order (corresponding to points (i) and (ii) in para 11 above) stand.
+But we would replace paragraph 8 (corresponding with point (iii)) with an order that the application be listed before Picken J (or, if that is not possible, another High Court Judge) to determine whether the court should require the appellant to provide a copy of any other document placed before the judge and referred to in the course of the trial to the respondent (at the respondents expense) in accordance with the principles laid down by this court.
+Postscript
+We would urge the bodies responsible for framing the court rules in each part of the United Kingdom to give consideration to the questions of principle and practice raised by this case.
+About the importance and universality of the principles of open justice there can be no argument.
+But we are conscious that these issues were raised in unusual circumstances, after the end of the trial, but where clean copies of the documents were still available.
+We have heard no argument on the extent of any continuing obligation of the parties to co operate with the court in furthering the open justice principle once the proceedings are over.
+This and the other practical questions touched on above are more suitable for resolution through a consultative process in which all interests are represented than through the prism of an individual case.

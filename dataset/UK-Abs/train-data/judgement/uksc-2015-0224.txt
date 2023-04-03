@@ -1,0 +1,54 @@
+The respondent (VWFS) is a member of the Volkswagen Group, and is used (through its retail sector) to provide hire purchase (HP) finance for the sale of vehicles manufactured by the group.
+When a customer of a VW dealership wishes to purchase a vehicle using finance from VWFS, the vehicle is acquired by VWFS as part of the finance arrangements from the dealer and then supplied by it to the customer on deferred payment terms under an HP contract.
+The vehicles are sold on to the customer at the same price as they are purchased from the dealer.
+This appeal is concerned with the treatment of general business overheads, not directly attributable to particular supplies.
+The legal and factual background is set out in detail in the judgment of Patten LJ and need not be repeated.
+As he explained the issue arises in the context of a so called partial exemption special method (PESM) agreed with HMRC for the valuation of the proportion of residual input tax attributable to HP transactions.
+The issue is whether any of the residual input tax paid by VWFS in respect of such general overheads (so far as apportioned to the retail sector) is deductible against the output tax paid on the taxable supply of vehicles to customers.
+HMRCs primary contention is that the overheads are all attributable to the exempt supplies of finance and the input tax is therefore irrecoverable.
+VWFS contends that the residual input tax should be split in proportion to the ratio of taxable transactions to the whole, which has the effect of splitting the residual input tax 50/50 for HP transactions.
+That issue was decided in favour of VWFS by the First tier Tribunal (FTT), and by the Court of Appeal, although the Upper Tribunal had supported HMRCs approach.
+That remains the main issue in the appeal, but is one on which the court has decided that a reference to the CJEU is necessary to reach a conclusion.
+The present judgment is concerned with a secondary issue.
+Mr Thomas argues that HMRC had a fall back position on the amount of the apportionment, which the FTT had failed to consider.
+As Patten LJ explained: The First tier Tribunal proceeded on the basis that the only dispute about methodology was whether any part of the residual input tax was attributable to and could be set off against the taxable supplies of vehicles made in the retail sector of VWFSs business.
+But HMRC contend that they did challenge the apportionment formula contained in the proposed PESM on wider grounds and that a lower figure than 50% should be attributed to the taxable supplies of vehicles as part of the hire purchase contracts in terms of the use made of the allocated inputs. (para 13)
+Patten LJ expressed some surprise (which I share) that, in an appeal where both sides were represented by experienced counsel, such an issue had not been capable of resolution by agreement between them, or by reference to their written submissions or notes of the hearing.
+However, the court had been asked to resolve the issue on the available material.
+That included: i) HMRCs skeleton argument before the tribunal which had described the issue as being whether VWFS method produces a fair and reasonable attribution of residual input tax in the retail sector, but without putting forward a positive alternative to HMRCs preferred methodology, or suggesting a different apportionment. ii) HMRC had relied upon two witness statements made by Mr Jonathan Cannon, the second of which commented on the differences between the two approaches.
+He observed that VWFSs approach was realistic, perhaps more so than the HMRCs approach, but was open to two particular concerns, which he identified.
+Again he did not put forward an alternative apportionment. iii) made by Mr Thomas: Judge Berners notes of the hearing recorded the following submission [The] value of the car does not bear on the use of overheads.
+What [VWFS] says is [that] if [that is done] it would be 80%, but 50% is fair.
+But why? The appellant does not say. 50% is an arbitrary selection of a figure.
+No analysis has been put forward. [This] comes from the weighting exercise.
+HP contracts [are] treated as two transactions. [It is] wholly unexplained as [to] why it is fair to treat HP [transactions] 1:1.
+Why not another fraction?
+The Upper Tribunal (para 103) saw this extract as supporting Mr Thomass submission that he had asked the FTT to consider in the alternative whether a lesser figure than 50% should have been attributed to the taxable supplies.
+Patten LJ thought otherwise: But my own reading of the judges notes on these issues is that Mr Thomas was challenging the basis of the 50% attribution as arbitrary in the context, as Ms Shaw has submitted, of an argument that any attribution was impermissible.
+HMRC did not rely upon some alternative methodology which attributed to the use of the residual inputs by the taxable supply of vehicles a figure somewhere between 1% and 50%.
+I do not see how this court is in the position to gainsay Judge Berners understanding of the parties position on the appeals which the FTT heard and none of the materials we have been asked to look at demonstrate that the FTT misunderstood HMRCs case. (para 71)
+In this court Mr Thomas submits that the Court of Appeal failed to take account of the nature of the appeal to the tribunal, which allows the FTT to consider both issues of principle and the amount of the assessment.
+He relies on words of mine in Pegasus Birds Ltd v Revenue and Customs and Excise Comrs [2004] EWCA Civ 1015; [2004] STC 1509: The Tribunal should remember that its primary task is to find the correct amount of tax, so far as possible on the material properly available to it, the burden resting on the taxpayer.
+In all but very exceptional cases, that should be the focus of the hearing (para 38(i)) He relies also on Banbury Visionplus Ltd v Her Majestys Revenue and Customs [2006] EWHC 1024; [2006] STC 1568 para 48, where in a similar context to the present Etherton J held that there was nothing to exclude the jurisdiction of the tribunal to decide whether a particular method would achieve the statutory objective.
+Miss Shaw submits that those cases do not detract from the general principle that proceedings before the tribunal are not inquisitorial in nature; it is no part of the tribunals role to undertake a roving review of the dispute of its own motion.
+She relies on comments of Forbes J as to the adversarial nature of proceedings before the former VAT Tribunal (Tynewydd Labour Working Mens Club and Institute Ltd v Customs and Excise Comrs [1979] STC 570, 580).
+In my view, this issue does not require examination of general questions about the tribunals role.
+One of the strengths of the new tribunal system is the flexibility of its procedures, which need to be and can be adapted to a wide range of types of case and of litigant.
+In some areas, particularly those involving litigants in person, a more inquisitorial role may be appropriate.
+However, when the tribunal as here is dealing with substantial litigants, represented by experienced counsel, it is entitled to assume that the parties will have identified with some care what they regard as relevant issues for decision.
+My comments in Pegasus Birds should not be taken as indicating anything different.
+They were not of general application, but intended (as the following words made clear) to discourage undue attention to the Commissioners original exercise of best judgment, as opposed to the correctness of the result.
+Like Patten LJ, I would attach particular importance to the tribunals understanding of the issue before it.
+This is apparent from the tribunals own introduction to the detailed discussion.
+Having described the main issue, the tribunal continued: That is the full extent of the dispute.
+Other aspects of what amounts to a fair and reasonable attribution, such as ease of audit and operation, are not at issue.
+Nor, although the Tribunal itself asked for clarification, is the 50/50 weighting that VWFS proposes as between the taxable supplies of the vehicle and the exempt supplies of finance under the HP agreements.
+The evidence of Mr Cannan for HMRC shows that the weighting is accepted as realistic; indeed he concedes that it may be more realistic than that adopted by HMRCs method.
+The dispute is not on the weighting, but on whether any part of the residual input tax should be attributed at all to the taxable supply of the vehicle. (para 41, emphasis added)
+I agree with Patten LJ that we have no material which could justify going behind that clear statement of the position as the tribunal understood it, having itself apparently sought clarification.
+Mr Thomas says that he has no recollection of such a request.
+However, if there was any doubt about that, the time to have dealt with it was when the decision was received.
+If the tribunal was thought to have misunderstood HMRCs position, and failed to deal with a significant issue, the matter could have been raised with them and sorted out then and there, at a time when it was fresh in the minds of all involved.
+As it is the tribunals understanding seems to me entirely consistent with the lack of any specific reference to this issue in their written submissions or the evidence of their witness.
+I agree with Patten LJ that the passing reference in the note of cross examination adds nothing.
+For these reasons, in agreement with the Court of Appeal, I would dismiss this ground of appeal.

@@ -1,0 +1,46 @@
+Interest bearing loan notes (the notes) to the value of 660m were issued to certain companies (the Noteholders) by a special purpose vehicle formed by the Lehman Brothers group, Eurosail UK 2007 3BL (the Issuer).
+The Issuer used the issue of the notes to fund the purchase of a portfolio of mortgage loans, to the value of 650m, secured on residential property in the United Kingdom.
+The notes were issued in 5 principal classes in order of priority for repayment.
+Those classes run from A through to E, and comprise a total of 14 sub classes.
+The A notes hold highest priority, are of the highest value, and are designated either A1, A2 or A3.
+The final redemption date of the lowest priority notes is in 2045.
+The terms governing the issue of the notes (the Conditions) provide that in the event of an Event of Default, an Enforcement Notice may be served by the trustee of the Noteholders rights, namely BNY Corporate Trustee Services Ltd (the Trustee).
+If the Issuer becomes unable to pay its debts under the terms of section 123 of the Insolvency Act 1986 (the 1986 Act), that would constitute an Event of Default.
+That section provides that a company is deemed unable to pay its debts, first, if it is unable to pay those debts as they fall due or, secondly, if the value of the companys assets is less than the amount of its liabilities, taking into account its contingent and prospective liabilities.
+The former is often referred to as the cash flow test, and the latter as the balance sheet test.
+The effect of section 123 was incorporated into the Conditions.
+Further, on the date on which the notes were issued, on behalf of the Noteholders the Trustee entered into an agreement (PECO) with another company (OptionCo).
+OptionCo was granted the option to purchase all of the notes from the Noteholders, plus the accrued interest, for a nominal consideration in the event that the Trustee determines that the Issuer is unable to pay its debts under section 123.
+The intended effect of this was that, in the event that the assets of the Issuer were exhausted, the remaining claims of the Noteholders against the Issuer would be assigned to OptionCo, and the Issuer would not be regarded as unable to pay its debts.
+The Issuer had entered into swap agreements with two of Lehman Brothers companies, with the consequence that when the latter became insolvent the Issuer suffered a significant deficiency in its net asset position, though it continued to pay its debts.
+The holders of the A1 and certain other of the notes had been repaid by this time.
+The A2 Noteholders were to have priority over A3 Noteholders in receiving repayments of principal out of sums raised by the Issuer from the redemption of mortgages in the portfolio, though those two groups would rank equally for repayment of interest.
+However, a finding that the Issuer was unable to pay its debts, and the consequent issuing of an Enforcement Notice, would alter this position significantly: all notes would become immediately due and payable and, importantly, A2 and A3 Noteholders would rank equally for repayment of principal.
+Against that background, though adopting a neutral position, the Trustee commenced these proceedings to seek a determination of whether the difficulties suffered by the Issuer constituted an Event of Default on the basis that it was unable to pay its debts within the meaning of section 123 of the 1986 Act.
+This appeal is therefore concerned with the construction of section 123.
+The Issuer and certain of the A2 Noteholders successfully argued in both the High Court and the Court of Appeal that the Issuer was not unable to pay its debts within the meaning of section 123.
+The Appellants, who are A3 Noteholders, argue to the contrary, and seek a stricter construction of section 123 than that which was applied by the lower courts.
+By way of cross appeal the Issuer renews its argument, rejected by the Court of Appeal, that in the event that the Issuer was otherwise deemed unable to pay its debts under section 123, the effect of the PECO should serve to alter that conclusion.
+The Supreme Court unanimously dismisses the appeals and the Issuers cross appeal.
+Lord Walker, with whom Lord Mance, Lord Sumption and Lord Carnwath agree, gives the lead judgment.
+Lord Hope gives a concurring judgment.
+Having regard to previous relevant legislation, to the authorities pertaining to those provisions and to section 123 of the 1986 Act itself, the enactment of section 123 should be seen as having made little significant change in the law.
+The changes in form therein emphasise that the cash flow test is concerned with debts falling due from time to time in the reasonably near future, in addition to those debts presently due.
+What is to be regarded as the reasonably near future will depend on the circumstances at hand, but especially the nature of the companys business [37].
+However, once one moves beyond the reasonably near future, any attempt to apply the cash flow test will become completely speculative.
+In that situation, a comparison of present assets with present and future liabilities, the latter having been discounted to account for contingencies and deferment of payments, becomes the only sensible test.
+That is the reason for the inclusion of the balance sheet test in section 123, though it is still very far from an exact test.
+It is for the party asserting balance sheet insolvency to establish insolvency of that nature [37].
+Whether or not the balance sheet test of insolvency is satisfied must depend on the available evidence as to the circumstances of the particular case.
+In that regard, the Issuer is not engaged in normal, on going trading activities, and therefore its present assets should be a better guide to its ability to meet its long term liabilities.
+Against that, the impact of factors relevant to its business in the period until the final redemption rate in 2045, such as currency movements, interest rates and the economy and housing market of the United Kingdom, must be considered.
+However, they are a matter of speculation rather than calculation or prediction on a scientific basis [38, 49].
+As the Issuers liabilities can, as matters stand, be deferred until 2045, and as it is currently paying its debts as they fall due, the Court should proceed with the greatest caution in deciding that it is in a state of balance sheet insolvency [42].
+Its ability to pay all its debts, present or future, may not be finally determined until much closer to 2045.
+The Conditions contain several mechanisms to ensure that liabilities in respect of principal can be deferred until that date.
+That being so, the Court cannot be satisfied that there will eventually be an inability on the part of the Issuer to pay its debts [49].
+Though it is not required to decide the point because the appeal is dismissed, PECO agreements are of importance to the securitisation market.
+So the Court gives reasons for its decision to dismiss the cross appeal [51].
+In that regard, the intended legal and commercial effects of the PECO, having regard to the wording of the documents pertaining to the transaction as a whole, point in the same direction: they do not affect the quantification of the Issuers liabilities.
+The meaning to be given to the language used by the parties on this point is not open to doubt.
+It would not be consistent with commercial good sense to depart from it [64].

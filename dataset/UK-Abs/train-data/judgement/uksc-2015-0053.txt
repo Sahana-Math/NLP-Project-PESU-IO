@@ -1,0 +1,389 @@
+The appellant Mark Golds was convicted by a jury of the murder of his partner.
+He had admitted in court that he had killed her, and the sole issue at his trial had been whether he had made out the partial defence of diminished responsibility, and so fell to be convicted of manslaughter rather than of murder.
+The law to be applied was section 2 of the Homicide Act 1957 after its recent revision by the Coroners and Justice Act 2009.
+The issue is the correct approach to the statutory test of whether his abilities were in specified respects substantially impaired: see section 2(1)(b).
+The appellant had attacked his partner with a knife at their home in front of her young children after a running argument which had taken place on and off throughout much of the day.
+He had inflicted some 22 knife wounds together with blunt impact internal injuries.
+He had a history of mental disorder leading to outpatient treatment and medication.
+Two consultant forensic psychiatrists gave evidence that there was an abnormality of mental functioning arising from a recognised medical condition, although they disagreed what that condition was.
+There was no contradictory psychiatric evidence.
+The judge correctly identified the questions which the jury needed to address (see para 8 below) and helpfully provided a written summary of the ingredients of diminished responsibility.
+He also provided a crystal clear written route to verdict document.
+On the issue of substantial impairment of ability he told the jury: Mr Rose [counsel for the defence] did suggest to you in his closing address that you would get some further help from me when giving you directions in law as to what the word substantially means, where it says substantially impaired his ability to exercise those qualities.
+I am not going to give you any help on the meaning of the word substantially, because unless it creates real difficulty and you require further elucidation, the general principle of English law is that where an everyday word is used, dont tell juries what it means.
+They are bright enough and sensible enough to work it out for themselves, so I am not going to paraphrase substantially.
+Substantially is the word that is in the Act of Parliament and thats the word that you have to work with.
+If it becomes a stumbling block in some way, well at the end of the day, you can send me a note and in those circumstances, I am permitted to offer you a little more help, but not at this stage of proceedings.
+The jury did not ask for further help.
+In the Court of Appeal (Criminal Division), amongst other grounds of appeal which have not survived, the appellant contended (a) that the judge had been wrong not to direct the jury as to what substantially impaired meant and (b) that the jury might in the absence of such direction have applied a more stringent test than it ought to have done.
+It was contended on his behalf that so long as the impairment was more than merely trivial, the test of substantially impaired was met.
+The Court of Appeal dismissed the appellants appeal ([2015] 1 WLR 1030) but certified in relation to this ground that the following two questions of law of general public importance were involved: 1.
+Where a defendant, being tried for murder, seeks to establish that he is not guilty of murder by reason of diminished responsibility, is the Court required to direct the jury as to the definition of the word substantial as in the phrase substantially impaired found in section 2(1)(b) of the Homicide Act 1957 as amended by section 52 of the Coroners and Justice Act 2009? 2.
+If the answer to the first question is in the affirmative, or if for some other reason the judge chooses to direct the jury on the meaning of the word substantial, is it to be defined as something more than merely trivial, or alternatively in a way that connotes more than this, such as something whilst short of total impairment that is nevertheless significant and appreciable? The Court of Appeals answers to these questions were (1) that the judge was not, on authority, required to give greater definition than he did and (2) that if he had done so the appropriate formulation would have been that it was not enough that there was some impairment; the jury had to ask if it was substantial.
+It would, the court held, be wrong to direct the jury that it sufficed that the impairment was more than merely trivial.
+The statute
+As now amended, section 2 Homicide Act 1957 provides a complete definition of diminished responsibility.
+The material parts of it are as follows: Persons suffering from diminished responsibility 2(1) A person (D) who kills or is a party to the killing of another is not to be convicted of murder if D was suffering from an abnormality of mental functioning which (a) arose from a recognised medical condition, (b) substantially impaired Ds ability to do one or more of the things mentioned in subsection (1A), and (c) provides an explanation for Ds acts and omissions in doing or being a party to the killing. (1A) Those things are (a) (b) (c) to understand the nature of Ds conduct; to form a rational judgment; to exercise self control. (1B) For the purposes of subsection (1)(c), an abnormality of mental functioning provides an explanation for Ds conduct if it causes, or is a significant contributory factor in causing, D to carry out that conduct. (2) On a charge of murder, it shall be for the defence to prove that the person charged is by virtue of this section not liable to be convicted of murder. (3) A person who but for this section would be liable, whether as principal or as accessory, to be convicted of murder shall be liable instead to be convicted of manslaughter.
+This differs from the previous formulation of the partial defence.
+As originally enacted, section 2(1) provided: (1) Where a person kills or is a party to the killing of another, he shall not be convicted of murder if he was suffering from such abnormality of mind (whether arising from a condition of arrested or retarded development of mind or any inherent causes or induced by disease or injury) as substantially impaired his mental responsibility for his acts and omissions in doing or being a party to the killing.
+It follows that the expression substantially impaired has been carried forward from the old Act into its new form.
+But whereas previously it governed a single question of mental responsibility, now it governs the ability to do one or more of three specific things, to understand the nature of ones acts, to form a rational judgment and to exercise self control.
+Those abilities were frequently the focus of trials before the re formulation of the law.
+But previously, the question for the jury as to mental responsibility was a global one, partly a matter of capacity and partly a matter of moral culpability, both including, additionally, consideration of the extent of any causal link between the condition and the killing.
+Now, although there is a single verdict, the process is more explicitly structured.
+The jury needs to address successive specific questions about (1) impairment of particular abilities and (2) cause of behaviour in killing.
+Both are of course relevant to moral culpability, but the jury is not left the same general mental responsibility question that previously it was.
+The word used to describe the level of impairment is, however, the same.
+The effect of the new statutory formulation is that the following four questions will normally arise in a case where diminished responsibility is advanced. (1) Did the accused suffer from an abnormality of mental functioning? (2) (3) abilities listed in section 1A? (4) killing the deceased? If so, did it arise from a recognised medical condition? If yes to (1) and (2), did it substantially impair one or more of the If yes to (1), (2) and (3), did it cause or significantly contribute to his Of course, in some cases one or more of these may be common ground.
+The function of the judge is to focus the jurys attention on what is at issue and to explain why the issue(s) are relevant, as the judge did in the present case.
+It is not to read the jury a general statement of the law.
+Authority: substantially impaired
+The concept of diminished responsibility was developed (with, at first, varying terminology) by the common law in Scotland in the late 19th and early 20th centuries as a means of mitigating, in an appropriate case, the mandatory sentence of death attendant on murder: see Lord Justice General Rodgers helpful historical survey in Galbraith v HM Advocate 2002 JC 1 (paras 23 to 27), together with the report of the Scottish Law Commission SLC 195 (2004) at para 3.1.
+It operates by reducing the offence of murder to that of culpable homicide.
+It was adopted by English law via the Homicide Act 1957 for the same reason, and using the same mechanism of partial defence, at a time when the abolition of capital punishment was under debate but there was no Parliamentary majority for that greater step.
+Soon after its introduction, the new partial defence was considered by the Court of Criminal Appeal in R v Matheson [1958] 1 WLR 474, R v Spriggs [1958] 1 QB 270 and R v Byrne [1960] 2 QB 396.
+In the first case there was no occasion for discussion of the meaning of substantially impaired; the defendant was agreed to be certifiable.
+In Spriggs, however, the court considered the then conventional formulations employed in Scotland in relation to the level of impairment, which included (but were not confined to) references to the borderline of insanity (see HM Advocate v Savage 1923 JC 49).
+The court (Lord Goddard CJ, Hilbery and Salmon JJ) concluded that the correct course for the trial judge was not to attempt synonyms or re definition but simply to direct the jury in the terms of section 2.
+In Byrne the defendant was a sexual psychopath who had strangled and mutilated a young woman resident of the YWCA.
+The case on his behalf was that he was unable to resist his impulse to gross and sadistic sexual violence.
+The judges directions had amounted to excluding from abnormality of mind an inability to control his urges, and this was held to have been wrong.
+The court further took the view that on the medical evidence the defendant was so disturbed that there was no room for doubt that diminished responsibility was made out.
+Giving the judgment of the court, however, Lord Parker CJ addressed the question of substantial impairment.
+He said this at 403 404: Assuming that the jury are satisfied on the balance of probabilities that the accused was suffering from abnormality of mind from one of the causes specified in the parenthesis of the subsection, the crucial question nevertheless arises: was the abnormality such as substantially impaired his mental responsibility for his acts in doing or being a party to the killing? This is a question of degree and essentially one for the jury.
+Medical evidence is, of course, relevant, but the question involves a decision not merely as to whether there was some impairment of the mental responsibility of the accused for his acts but whether such impairment can properly be called substantial, a matter upon which juries may quite legitimately differ from doctors.
+This court has repeatedly approved directions to the jury which have followed directions given in Scots cases where the doctrine of diminished responsibility forms part of the common law.
+We need not repeat them.
+They are quoted in Reg v Spriggs.
+They indicate that such abnormality as substantially impairs his mental responsibility involves a mental state which in popular language (not that of the MNaughten Rules) a jury would regard as amounting to partial insanity or being on the border line of insanity.
+Both in England and in Scotland it has subsequently been held that it is not usually helpful to direct juries in terms of the borderline of insanity.
+That is demonstrated by considering the case where the mental impairment is depression, to which (however severe) such a description is inapt.
+Such a formulation was later disapproved in R v Seers (1984) 79 Cr App R 261 (a depression case) and is now more often and wisely avoided even in a case of florid psychosis.
+Despite its use in Byrne, it cannot have been the intention of the court in that case to require any such direction, given the approval of Spriggs which had commended abstention from elaboration of the words of the section.
+Giving the judgment in Seers Griffiths LJ reached the same conclusion.
+At 264 he said this: It is to be remembered that in Byrne all the doctors agreed that Byrne could be described as partially insane; he was a sexual psychopath who had hideously mutilated a young woman he had killed.
+In such a case the evidence justifies inviting a jury to determine the degree of impairment of mental responsibility by a test of partial insanity.
+But it is not a legitimate method of construing an Act of Parliament to substitute for the words of the Act an entirely different phrase and to say that it is to apply in all circumstances.
+We are sure that this was not the intention of the court in Byrne , and the phrase was used as one way of assisting the jury to determine the degree of impairment of mental responsibility in an appropriate case, and no doubt to point out that Parliament by the use of the word substantial was indicating a serious degree of impairment of mental responsibility.
+But what is clear is that whilst the question whether the impairment was or was not substantial was to be left to the jury in the unimproved words of the statute, the underlying assumption was that substantially in this context meant impairment which was of some importance or, as it was put in Seers, a serious degree of impairment.
+The court cannot have contemplated in any of these cases that it was sufficient that the impairment merely passed triviality.
+R v Simcox The Times 25 February 1964; [1964] Crim LR 402 concerned a man who had previously murdered his second wife and had now sought out his third wife, with whom he was in dispute, taking with him a rifle with which he shot her sister when it was her whom he encountered.
+Some four psychiatrists agreed that he had an abnormality of mind, namely a paranoid personality.
+Each said that it impaired his self control, but none was prepared to say that the impairment was substantial; they spoke of moderate impairment, or of his finding it harder than others to control himself.
+The judge left the question to the jury in the terms of the section, adding only that they should ask: do we think, looking at it broadly as commonsense people, there was a substantial impairment of his mental responsibility in what he did? If the answer to that is yes then you find him not guilty of murder but guilty of manslaughter.
+If the answer to that is no, there may be some impairment but we do not think it was substantial.
+We do not think it was something which really made any great difference although it may have made it harder to control himself to refrain from crime, then you would find him guilty as charged.
+The Court of Appeal, whilst observing that the final sentence needed the previous focus on the word substantial in order that it should not be thought that the absence of self control had to be total, approved this direction.
+It is to be seen that it was essentially in accordance with Spriggs, since it repeated and emphasised, but did not attempt to re define, the statutory expression substantially impaired.
+Three years later the Court of Criminal Appeal considered the case of R v Lloyd [1967] 1 QB 175, which would appear to be the indirect origin of the submission made in the present case that substantially impaired means any impairment greater than the merely trivial.
+The defendant had killed his wife.
+There was evidence that from time to time he had suffered recurrent episodes of reactive depression.
+Two psychiatrists gave evidence that this was a mental abnormality which to some extent impaired his mental responsibility.
+Neither was prepared to say that the impairment was substantial.
+The first said that the depression impaired his responsibility to some extent.
+The second said that there was some effect; he could not say to what degree, but although it was not as low as minimal it was not substantial.
+The medical evidence was thus to similar effect as in Simcox.
+At trial, Ashworth J had directed the jury in the terms of the statute, but he had then added: Fourthly, this word substantial, members of the jury.
+I am not going to try to find a parallel for the word substantial.
+You are the judges, but your own common sense will tell you what it means.
+This far I will go.
+Substantial does not mean total, that is to say, the mental responsibility need not be totally impaired, so to speak destroyed altogether.
+At the other end of the scale substantial does not mean trivial or minimal.
+It is something in between and Parliament has left it to you and other juries to say on the evidence, was the mental responsibility impaired, and, if so, was it substantially impaired? (p 178)
+Counsel for the defendant, on appeal, contended that the judge had erred in not directing the jury that substantially meant really present or not trivial.
+That was a submission that it meant no more than that there was some operating impairment, and thus that any such sufficed, so long as it was not trivial, and was exactly the same submission which is now made in the present case.
+Since the doctors had agreed that the depression was not trivial in its effect, the defendant was, it was submitted, entitled to be acquitted of murder.
+That contention was firmly rejected by the court.
+Edmund Davies J, giving the judgment of the court, said this at 180B This court is wholly unable to accept that submission.
+The word substantially obviously is inserted in the Act with a view to carrying some meaning.
+It does carry a meaning.
+This court is quite unable to see that the direction given to the jury on the meaning of this word, can validly be criticised, and finds itself in a difficulty of saying that any distinction can be validly drawn between the direction given in the instant case and that approved of by this court in Reg v Simcox.
+It is the decision of the Court of Appeal which is the authority.
+But it is equally clear that Ashworth J, in saying what he did, had no intention of telling the jury that any impairment beyond the trivial sufficed.
+Firstly, if that had been his intention, it would have followed that the evidence in the case satisfied the test and a verdict of diminished responsibility ought to have followed unless the jury disagreed; this the judge would surely have told the jury.
+Secondly, such an intention is inconsistent with the judge telling the jury that he was not going to find a synonym for the word substantially.
+Thirdly, the judges summing up makes clear that he had before him Bryne, with its references to the borderline of insanity, although (anticipating Seers) he sensibly did not adopt that expression in a case concerning depression.
+In referring to the spectrum of impairment as he did, he may have had in mind the warning in Simcox (see para 13 above) that it should be made clear that the impairment did not need to be total.
+What he was clearly saying was that before an impairment could be substantial it must of course be greater than the merely trivial, but that, beyond that, what amounted to substantial impairment was a matter of degree for the jury.
+Over the years since, a reference of this kind to the extremities of possible impairment has sometimes been thought not simply to be helpful to juries but also to provide a possible definition of the meaning of substantially.
+R v Egan [1992] 4 All ER 470 concerned the case where there is both abnormality of mind and voluntary intoxication.
+Its principal decision largely anticipated the test for such a case which was later adumbrated by the House of Lords in R v Dietschmann [2003] UKHL 10; [2003] 1 AC 1209, but the court was held by the House to have erred in its treatment of other prior decisions.
+No real issue arose in relation to the meaning of substantially impaired except as to how drink was to be accommodated within it.
+But one of those prior decisions on drink, R v Gittens [1984] QB 698, 703, had contained the conclusion of Lord Lane CJ that the jury should ignore the effect of drink, as later held to be the law in Dietschmann.
+Lord Lane had pointed out that voluntary intoxication could not constitute a mental abnormality arising from disease or inherent cause, so the jury should ignore it and then go on to consider whether the combined effect of the other matters which do fall within the section amounted to such abnormality of mind as substantially impaired the defendants mental responsibility within the meaning of substantial set out in R v Lloyd.
+In Egan, having cited that passage, Watkins LJ added in passing: In R v Lloyd directions as to the word substantial, to the effect that (1) the jury should approach the word in a broad commonsense way or (2) the word meant more than some trivial degree of impairment which does not make any appreciable difference to a persons ability to control himself, but it means less than total impairment were both approved.
+There was no occasion for analysis of Lloyd in Egan.
+But although it was correct that Ashworth Js direction had been approved, it would be quite inaccurate to imply that the effect of the case was that substantially meant the same as more than some trivial degree of impairment.
+It may well be that Watkins LJ meant to say no such thing, rather than simply to refer to Ashworth Js formulation as convenient, but if he did, it was a misreading of Lloyd.
+The decision in Lloyd, to which no doubt Lord Lane CJ was referring in Gittens, was precisely the opposite, viz: that substantially was not the same as more than trivial see para 13 above.
+The difficulty for later readers was compounded by the closing words of the judgment in Egan at 480h: Finally, for the avoidance of doubt, we advise judges that guidance as to the meaning of substantial should be explicitly provided for the jury by using one or other of the two meanings in R v Lloyd.
+This proposition that Lloyd authorised two meanings of substantially may have achieved some currency since.
+If it has, it too is based on a misunderstanding.
+The most that Lloyd ever said was that two methods of summing up were unexceptional: the first to tell the jury simply to use its common sense without further elaboration and the second to allude to the spectrum between just beyond trivial impairment and total impairment.
+The decision of the court was explicitly that impairment beyond more than merely trivial is required; it follows that if the second approach, referring to the spectrum, is adopted in summing up, this must be made clear.
+But the court in Lloyd was not attempting in its (extempore) judgment to ordain a template for future summings up.
+It was dealing with the submission that the defendant in that case was entitled to have his conviction for murder set aside because any impairment beyond the merely trivial sufficed, and this submission it rejected.
+All that mattered in that case, as in most cases before an appellate criminal court, was whether the judge had misdirected the jury to the disadvantage of the defendant.
+With or without any implication of two meanings, Ashworth Js additional spectrum illustration has gained currency.
+It has figured in successive Crown Court Benchbooks.
+For example, the first (2010) edition, published before the new statutory formula came into operation, carefully avoided dictating the terms of summing up to judges.
+However, it cited at p 340 what Ashworth J had said, and added that the direction was approved by the Court of Criminal Appeal.
+A little later it gave one illustration of the kind of summing up which might be employed.
+It did so in the context of the more difficult case where diminished responsibility is complicated by drink and/or by alcohol dependence, but the example was equally relevant also to non alcohol cases.
+One suggested form of words (at p 347) was: This requires you to consider to what extent the defendants state of mind differed from that of the ordinary person.
+Was it so abnormal that the defendants mental responsibility was substantially reduced? Substantially is an ordinary English word to which you will bring your own experience.
+It means less than total and more than trivial.
+Where you draw the line is for your own good judgment.
+Subsequent editions, before and after the 2009 Act amendments, contained similar passages until the decision of the Court of Appeal in the present case.
+It will be seen that this formulation does not tell the jury that any impairment beyond the merely trivial suffices, but with hindsight it is possible that if one does not go back to the decision in Lloyd, it might be taken by some to carry that implication.
+In R v Ramchurn [2010] EWCA Crim 194; [2010] 2 Cr App R 18 (an unamended 1957 Act case) the trial judge had understandably adopted these suggestions.
+His written direction to the jury was: Substantially impaired means just that.
+You must conclude that his abnormality of mind was a real cause of the defendants conduct.
+The defendant need not prove that his condition was the sole cause of it, but he must show that it was more than a merely trivial one which did not make any real or appreciable difference to his ability to control himself.
+In retirement, the jury asked a specific question: what was the difference between trivial and substantial? The judge responded with the Ashworth formula.
+He told them: The following direction has been approved at a senior level and it is this; the direction on the words substantially impaired.
+Your own common sense will tell you what it means.
+Substantial does not mean total.
+That is to say the mental responsibility need not be totally impaired, so to speak, destroyed altogether.
+The other end of the scale, substantial does not mean trivial or minimal.
+It is something in between and Parliament has left it to you to say on the evidence was the mental responsibility impaired and if so, was it substantially impaired?
+The defendant in Ramchurn had planned and executed the killing of his wifes lover, a cousin to whom he had originally given a home.
+He had threatened previously that he would kill him, and had made a number of preparations to do so, such as trying to get keys to gain access to the victims home, and when that failed arranging a meeting to carry out his plan, equipping himself with a rope ligature for the purpose.
+He disposed of the body some distance away and set up a false alibi.
+The evidence was that he was depressed.
+One doctor described his state as an emotional turmoil and a tortured frame of mind, and expressed the opinion that in the tumultuous final moments which resulted in the death the impairment of mental responsibility would have been substantial.
+The other agreed that there was an element of depression, and accepted that it had played some part in the killing.
+Carefully cross examined, he agreed that the impact of the depression on the defendants mental responsibility was more than trivial, but he disagreed that it was substantial.
+The jury convicted of murder.
+The argument for the defendant on appeal in Ramchurn was that there were two inconsistent meanings of substantially to be derived from Lloyd, that the judge had in consequence failed to give the jury a clear direction and moreover that the law was in too uncertain a state to satisfy the requirements of article 7 of the ECHR.
+Accordingly, it was contended, the conviction for murder was unsafe.
+The Court of Appeal rejected those arguments.
+At para 23, Lord Judge CJ addressed specifically the two meanings argument, founded then as now on a combination of Lloyd with Egan.
+The argument was rejected: It is, however, clear on analysis that in Lloyd the court rejected the submission that there were two meanings for the word substantially.
+In the judgment in Lloyd the word substantially carried some meaning or a meaning.
+It was accepted in Lloyd that there were different ways of illustrating the same concept and, if necessary, explaining its relevance to the jury.
+If the court in Egan had intended to convey that the words substantially impaired embraced two different concepts or levels of impairment, it would have said so not by citing Lloyd as authority in support, but by distinguishing Lloyd.
+In the result, just as the court in Lloyd could see no effective difference between the directions in Simcox and Lloyd, the Court of Appeal in Egan could see no difficulty in the deployment of either of the two methods of explanation found in Lloyd.
+The court recorded that section 2 had been in force for 50 years and applied in countless murder trials, and observed that in its experience the test of substantial impairment was probably, in practice, the least difficult aspect of what can be a difficult defence to convey to a jury.
+It went on specifically to endorse the general starting point that the test was in ordinary English and should be left to the judgment of the jury.
+In so doing, it said this at para 15: Substantially is an ordinary English word which appears in the context of a statutory provision creating a special defence which, to reflect reduced mental responsibility for what otherwise would be murderous actions, reduces the crime from murder to manslaughter.
+Its presence in the statute is deliberate.
+It is designed to ensure that the murderous activity of a defendant should not result in a conviction for manslaughter rather than murder on account of any impairment of mental responsibility, however trivial and insignificant; but equally that the defence should be available without the defendant having to show that his mental responsibility for his actions was so grossly impaired as to be extinguished.
+That is the purpose of this defence and this language.
+The Concise Oxford Dictionary offers of real importance and having substance as suggested meanings for substantially.
+But, in reality, even the Concise Oxford Dictionary tells us very little more about the ordinary meaning and understanding to be attached to the word substantially.
+The jury must decide for itself whether the defendants mental responsibility for his actions was impaired and, assuming that they find that it was, whether the impairment was substantial.
+Thus the appeal failed in Ramchurn.
+The court was plainly not adopting the submission that substantially means any impairment beyond the merely trivial, for if it had done so, the evidence of both psychiatrists would have met the test.
+It is right to remember that the focus on the meaning of that word in the half dozen cases here reviewed, and in the present case, does not mean that it is often the occasion of difficulty.
+But the fact that the present submission is now made for the third time, despite its failure in both Lloyd and Ramchurn, does demonstrate that the use of the Ashworth spectrum formula may encourage semantic debate, at least in some cases.
+Moreover it is known that in at least one case which reached the Court of Appeal on sentence, the trial judge had directed the jury that the test of substantially impaired was met by an impairment which was more than minimal: R v Brown (Robert) [2011] EWCA Crim 2796; [2012] 2 Cr App R(S) 156.
+Since the appeal was limited to sentence in that case, the correctness of that direction did not call for adjudication.
+But that case is a further illustration of difficulty.
+When the defendant was, on that direction, convicted of manslaughter, the judge concluded when it came to sentence that in fact his responsibility had nevertheless been substantial, and the Court of Appeal decided that he was indeed entitled so to do, and to impose a very long determinate sentence (24 years) in consequence.
+Scotland
+The rejection in the foregoing cases of the contention that any impairment beyond the merely trivial will suffice is consistent with the way in which the law of diminished responsibility has evolved in Scotland, where it originated.
+The law was reviewed in some depth by a specially convened court of five in Galbraith v HM Advocate 2002 JC 1.
+The court held that the partial defence was not confined to mental illness, strictly so called, and that other mental abnormalities might also be capable of diminishing the responsibility of the accused, including in that case a combination of learned helplessness and post traumatic stress disorder following alleged persistent abuse.
+The decision anticipated the new English section 2(1)(a) by requiring that there be some recognised mental abnormality (paras 53 and 54).
+As to the level of impairment, the court held, for reasons essentially the same as had been given by the English court in Seers, that previous references to the borderline of insanity were simply examples of what would plainly qualify rather than a test for inclusion.
+Lord Justice General Rodger summarised the rule in this way at para 54: In every case, in colloquial terms, there must, unfortunately, have been something far wrong with the accused, which affected the way he acted While the plea of diminished responsibility will be available only where the accuseds abnormality of mind had substantial effects in relation to his act, there is no requirement that his state of mind should have bordered on insanity.
+In essence, the jury should be told that they must be satisfied that, by reason of the abnormality of mind in question, the ability of the accused, as compared with a normal person, to determine or control his actings was substantially impaired.
+Thus substantially impaired was adopted as the test, and used in the sense of something far wrong with the accused.
+There was, then, one difference between Scottish and English law, because in Scotland Galbraith held that psychopathic personality disorder was not capable of being a basis for diminished responsibility in the same way as in both jurisdictions voluntary intoxication cannot by itself found the plea: see Galbraith at para 54 and, in England, R v Dowds [2012] EWCA (Crim) 281; [2012] 1 WLR 2576.
+Now, however, that distinction has gone.
+Following scrutiny by the Scottish Law Commission the law has been put into statutory form by section 51B of the Criminal Procedure (Scotland) Act 1995, inserted by section 168 of the Criminal Justice and Licensing (Scotland) Act 2010, (asp 13).
+Provision is made by subsection (3) to exclude voluntary intoxication but, on the Commissions recommendation, not for a similar exclusion for psychopathic personality disorder.
+The new Scottish definition of diminished responsibility in subsection (1) provides: A person who would otherwise be convicted of murder is instead to be convicted of culpable homicide on grounds of diminished responsibility if the persons ability to determine or control conduct for which the person would otherwise be convicted of murder was, at the time of the conduct, substantially impaired by reason of abnormality of mind.
+Thus, the Scottish law now expresses, like the English, the essential feature of abnormality of mind such as impairs the ability to determine or control conduct, and, like English law, adopts as the test for the level of impairment the same expression, namely substantially.
+Plainly in Scotland this expression was used in the knowledge of the meaning authoritatively given to it by Galbraith, which the Scottish Law Commission had endorsed: SLC 195, July 2004, paras 3.15 3.17.
+Usage of language
+The admirably concise submissions of Mr Etherington QC for the appellant correctly point out that as a matter simply of dictionary definition, substantial is capable of meaning either (1) present rather than illusory or fanciful, thus having some substance or (2) important or weighty, as in a substantial meal or a substantial salary.
+The first meaning could fairly be paraphrased as having any effect more than the merely trivial, whereas the second meaning cannot.
+It is also clear that either sense may be used in law making.
+In the context of disability discrimination, the Equality Act 2010 defines disability in section 6 as an impairment which has a substantial and long term effect on day to day activities, and by the interpretation section, section 212, provides that Substantial means more than minor or trivial.
+It thus uses the word in the first sense.
+Conversely, the expression significant and substantial when used to identify which breaches by the police of the Codes of Practice under the Police and Criminal Evidence Act 1984 will lead to the exclusion of evidence (see for example R v Absolam (1988) 88 Cr App R 332 and R v Keenan [1990] 2 QB 54) is undoubtedly used in the second sense.
+It is to be accepted that the word may take its meaning from its context.
+It is not surprising that in the context of triggering a duty to make reasonable adjustments to assist the disabled, the first sense should be used by the Equality Act; the extent of adjustments required varies with the level of disability and a wide spectrum of both is to be expected.
+Mr Etherington additionally submits that this usage shows that the first sense does not entirely strip the word substantially of meaning.
+Conclusions: substantially
+The foregoing review of the authorities clearly shows that in the context of diminished responsibility the expression substantially has always been held, when the issue has been confronted, to be used in the second of the senses identified above.
+True it is that in Lloyd Edmund Davies J observed that that word had been put into the 1957 Homicide Act with a view to it carrying some meaning.
+If by that he meant that it could have no purpose at all unless it was used in the second sense above, the Equality Act usage may suggest otherwise, although even without the word substantially it is perhaps open to doubt that a merely trivial effect would be taken to be included either in impairment or in disability.
+But this does not alter the central thrust of the decision in Lloyd, which was that in the context of diminished responsibility an impairment of consequence or weight is what is required to reduce murder to manslaughter, and not any impairment which is greater than merely trivial.
+There is no basis for thinking that when the same expression was carried forward into the new formulation of diminished responsibility any change of sense was intended.
+The adverb substantially is applied now, as before, to the verb impaired.
+In the absence of any indication to the contrary, Parliament is to be taken to have adopted the established sense in which this word has been used for 50 years.
+The reformulation of the law followed the recommendation of the Law Commission, except to the irrelevant extent that it did not incorporate developmental immaturity as an extension beyond recognised medical conditions.
+The Commission had addressed diminished responsibility in two reports, each preceded by a detailed consultation paper: Partial Defences to Murder Law Com 290 (2004) and Murder, Manslaughter and Infanticide Law Com 304 (2006).
+Prior to the earlier report, it had consulted upon a number of possible formulations of the test for diminished responsibility see Partial Defences at 5.52 et seq.
+Most employed the adverb substantially.
+The Commission was concerned to ensure that a requirement for causation was explicitly incorporated into the proposed statutory test, as it now has been, and had consulted on the question whether this test would suffice without any threshold of substantial impairment see possible version (6) at 5.52.
+It is no doubt true that in many cases the question whether the impairment is sufficient to establish the partial defence will march alongside the question whether it was a significant contributory factor in causing the killing.
+But this will not always be so.
+Where, for example, the recognised medical condition is an emotionally unstable personality disorder leading to histrionic and impulsive behaviour, or where it is depression leading to distorted thinking, the medical evidence may make it clear that it has had some impact on behaviour and thus was a significant cause.
+The jury may be satisfied that if the defendants personality had been different, or if there had not been some depression, he would not have killed as he did.
+The real question thus may very well be whether the condition passes the threshold of substantial impairment, or does not.
+An illustration is afforded by the facts of R v Brown.
+The defendants marriage had broken down.
+He was living elsewhere with his girlfriend.
+There were acrimonious negotiations over the division of property between himself and his wife.
+He felt that she was dishonestly concealing her assets and cheating him, and that she had unfairly manipulated him into signing what he saw as a disadvantageous pre nuptial agreement.
+He planned to kill her.
+He prepared a grave in Windsor Great Park and, when returning the children to her after a weekend, took with him a hammer hidden in his daughters bag and beat her to death, before dismantling the CCTV equipment which would have recorded his movements, and disposing of the body in the grave.
+There was psychiatric evidence that he had developed an adjustment disorder, a recognised medical condition, arising from the severe stress of life events.
+The jury must have accepted the diagnosis, and that the adjustment disorder was a significant cause of his killing his wife.
+On the judges direction, that impairment beyond the merely trivial sufficed, the conviction for manslaughter followed.
+Whether or not the jury would have concluded, but for that direction, that the impairment was substantial, can never be known.
+But it is clear that such a conclusion would not follow necessarily from the finding of significant causation.
+After consultation, the Commissions final conclusion, in the second report at 1.17, was that although there were some infelicities in the wording it was not persuaded that any of the alternative formulations canvassed would sufficiently improve the law to justify interfering with a workable form of words.
+It had pointed out in the earlier report at 7.91 that the approach to the concept was essentially pragmatic, that the leading authority remained Byrne and that this partial defence had, unlike provocation, troubled the House of Lords only once in 50 years.
+The formula now incorporated into the statute was recommended.
+The specific requirement for causation was added, but the threshold of substantial impairment was maintained.
+It follows that there is nothing in the change of the formulation of the test for diminished responsibility to cause a different view to be taken now of the sense in which the word substantially is used in conjunction with impairment.
+This use of the expression accords with principle.
+Diminished responsibility effects a radical alteration in the offence of which a defendant is convicted.
+The context is a homicide.
+By definition, before any question of diminished responsibility can arise, the homicide must have been done with murderous intent, to kill or to do grievous bodily harm, and without either provocation or self defence.
+Whilst it is true that at one end of the scale of responsibility the sentence in a case of diminished responsibility may be severe, or indeed an indefinite life sentence owing to the risk which the defendant presents to the public, the difference between a conviction for murder and a conviction for manslaughter is of considerable importance both for the public and for those connected with the deceased.
+It is just that where a substantial impairment is demonstrated, the defendant is convicted of the lesser offence and not of murder.
+But it is appropriate, as it always has been, for the reduction to the lesser offence to be occasioned where there is a weighty reason for it and not merely a reason which just passes the trivial.
+Directing juries: good practice
+As Mr Perry QC for the Crown rightly submitted, there are many examples of ordinary English words incorporating questions of degree, which are left to juries to apply without attempts at further definition.
+No one attempts to define reasonable in the many contexts in which it appears.
+Nor should there be any further sophistication applied to the standard of proof required, that the jury be sure, at least beyond the comparable expression leaving no reasonable doubt.
+The same principle of leaving an ordinary word alone was applied by the House of Lords in Brutus v Cozens [1973] AC 854 to the expression insulting, and would apply equally, no doubt, to its sister expressions abusive and threatening.
+In all these cases the understandable itch of the lawyer to re define needs to be resisted.
+Any attempt to find synonyms for such ordinary English expressions, although they involve questions of degree, simply complicates the jurys exercise, and leads to further semantic debate about the boundaries of meaning of the synonym.
+Where, however, as here, there are two identifiable and different senses in which the expression in question may be used, the potential for inconsistent usage may need to be reduced.
+The existence of the two senses of the word substantially identified above means that the law should, in relation to diminished responsibility, be clear which sense is being employed.
+If it is not, there is, first, a risk of trials being distracted into semantic arguments between the two.
+Secondly, there is a risk that different juries may apply different senses.
+Thirdly, medical evidence (nearly always forensic psychiatric evidence) has always been a practical necessity where the issue is diminished responsibility.
+If anything, the 2009 changes to the law have emphasised this necessity by tying the partial defence more clearly to a recognised medical condition, although in practice this was always required.
+Although it is for the jury, and not for the doctors, to determine whether the partial defence is made out, and this important difference of function is well recognised by responsible forensic psychiatrists, it is inevitable that they may express an opinion as to whether the impairment was or was not substantial, and if they do not do so in their reports, as commonly many do, they may be asked about it in oral evidence.
+It is therefore important that if they use the expression, they do so in the sense in which it is used by the courts.
+If there is doubt about the sense in which they have used it, their reports may be misunderstood and decisions made upon them falsified, and much time at trials is likely to be taken up unnecessarily by cross examination on the semantic question.
+The experience of R v Brown (supra at paras 24 and 33) underlines the need for clarification.
+The sense in which substantially impaired is used in relation to diminished responsibility is, for the reasons set out above, the second of the two senses.
+It is not synonymous with anything more than merely trivial impairment.
+It does not follow that it is either necessary or wise to attempt a re definition of substantially for the jury.
+First, in many cases the debate here addressed will simply not arise.
+There will be many cases where the suggested condition is such that, if the defendant was affected by it at the time, the impairment could only be substantial, and the issue is whether he was or was not so affected.
+Second, if the occasion for elucidation does arise, the judges first task is to convey to the jury, by whatever form of words suits the case before it, that the statute uses an ordinary English word and that they must avoid substituting a different one for it.
+Third, however, various phrases have been used in the cases to convey the sense in which substantially is understood in this context.
+The words used by the Court of Appeal in the second certified question in the present case (significant and appreciable) are one way of putting it, providing that the word appreciable is treated not as being synonymous with merely recognisable but rather with the connotation of being considerable.
+Other phrases used have been a serious degree of impairment (Seers), not total impairment but substantial (Ramchurn) or something far wrong (Galbraith).
+These are acceptable ways of elucidating the sense of the statutory requirement but it is neither necessary nor appropriate for this court to mandate a particular form of words in substitution for the language used by Parliament.
+The jury must understand that substantially involves a matter of degree, and that it is for it to use the collective good sense of its members to say whether the condition in the case it is trying reaches that level or not.
+It seems likely that the Ashworth spectrum illustration will have been of assistance to juries in some cases, for it helps to explain (a) that the impairment need not be total to suffice and (b) that substantially is a question of degree.
+But, as the experience of Lloyd, Ramchurn and the present case teaches, if it is to be used it needs to be combined with making it clear that it is not the law that any impairment beyond the merely trivial will suffice.
+The impairment must of course pass the merely trivial to be considered, just as it need not reach the total, but whether, when it has passed the trivial, it can properly be regarded as substantial, is a matter for the jury in the individual case, aided as it will be by the experts exposition of the kind of impairment which the condition under consideration may have generated in the accused.
+Unless the spectrum illustration has been used by someone in the case, it is preferable for the judge not to introduce it.
+If it has been used, or if, on mature consideration the judge considers that it may help the jury in the particular case on trial, it needs to be coupled with a clear statement that it is not enough that the impairment be merely more than trivial; it must be such as is judged by the jury to be substantial.
+For the same reason, if an expert witness, or indeed counsel, should introduce into the case the expression more than merely trivial, the same clear statement should be made to assist the jury.
+Once this usage is understood by all concerned with the trial, there ought to be no occasion for the jury to be distracted by debate about the meaning of the word.
+What matters is what kind of effect the medical condition was likely to have had on the three relevant capacities of the accused.
+So long as the experts understand the sense in which substantially is used in the statute (which should henceforth be clear), and that the decision whether the threshold is met is for the jury rather than for them, it is a matter for individual judgment whether they offer their own opinion on whether the impairment will have been substantial or confine themselves to the kind of practical effect it would have had.
+If they do the former, they will be understood to be using the word in the second sense set out in para 27 above.
+It follows that the questions certified by the Court of Appeal should be answered as follows: (1) Ordinarily in a murder trial where diminished responsibility is in issue the judge need not direct the jury beyond the terms of the statute and should not attempt to define the meaning of substantially.
+Experience has shown that the issue of its correct interpretation is unlikely to arise in many cases.
+The jury should normally be given to understand that the expression is an ordinary English word, that it imports a question of degree, and that whether in the case before it the impairment can properly be described as substantial is for it to resolve. (2) If, however, the jury has been introduced to the question of whether any impairment beyond the merely trivial will suffice, or if it has been introduced to the concept of a spectrum between the greater than trivial and the total, the judge should explain that whilst the impairment must indeed pass the merely trivial before it need be considered, it is not the law that any impairment beyond the trivial will suffice.
+The judge should likewise make this clear if a risk arises that the jury might misunderstand the import of the expression; whether this risk arises or not is a judgment to be arrived at by the trial judge who is charged with overseeing the dynamics of the trial.
+Diminished responsibility involves an impairment of one or more of the abilities listed in the statute to an extent which the jury judges to be substantial, and which it is satisfied significantly contributed to his committing the offence.
+Illustrative expressions of the sense of the word may be employed so long as the jury is given clearly to understand that no single synonym is to be substituted for the statutory word: see para 40 above.
+R v Brennan
+Counsel drew attention to the Court of Appeal decision in R v Brennan [2014] EWCA Crim 2387; [2015] 1 WLR 2060, decided after both trial and appeal in the present case.
+The defendant in that case (aged 22 at the time of the offence) had a nine year history of disturbed childhood, sexual abuse and outpatient mental health treatment together with one instance when he was sectioned following a suicide attempt.
+On the undisputed psychiatric evidence he suffered from a schizotypal disorder as well as an emotionally unstable personality disorder.
+He was obsessed with witchcraft and Satanist killings.
+He was also depressed.
+He had planned and executed the ritualistic killing of a client whom he had served as a male prostitute.
+He left notes of what he planned to do, and after killing the man with one or more knives, had scored his back and painted or written on the walls symbols such as a pentagram and references to Satan and to Krishna, before cleaning himself up and going to the police station to report what he had done.
+He was treated by the police as needing an appropriate adult to attend his interviews, and told that person that he had been having thoughts of killing somebody (apparently anybody) for several weeks.
+At trial the only issue was diminished responsibility.
+The Court of Appeal held that in that case there was only one possible outcome.
+There was simply no basis for a verdict of murder and moreover this was so clear that the judge ought not to have left it open to the jury.
+The court regarded that decision as a straightforward application of R v Galbraith [1981] 1 WLR 1039; 73 Cr App R 124.
+It went on to offer some general observations about the circumstances in which a judge ought to withdraw murder from the jury where the issue is diminished responsibility and uncontradicted psychiatric evidence supports the defence case on that topic.
+The report suggests that Brennan was a case in which the Crown expressly did not challenge the diagnosis of the single consultant psychiatrist called and barely challenged her opinion that the defendants condition substantially impaired his ability to form rational judgments. (There was perhaps greater challenge to the opinion that his ability to control himself was also substantially impaired).
+That was a reasoned decision.
+The Crown had a second psychiatric report, disclosed in ordinary course to the defence, which agreed those conclusions.
+Counsel for the Crown had then, legitimately, tested the evidence of the psychiatrist, in particular by drawing attention to the defendants consumption of drink and drugs, and to the clear evidence of pre planning.
+As to the first, the psychiatrists answer had, however, been that the underlying mental condition effected sufficient impairment independently of any additional disinhibition attributable to intoxication.
+As to the second, she had said that a disordered and impaired mind may well be no less capable of premeditation and detailed planning than a rational one, and that that was what had happened.
+Those answers had not been challenged, presumably because they were not, on the facts, capable of dispute.
+It is an important part of the Crowns function, where the charge is murder and a case of diminished responsibility is advanced, to assess the expert evidence almost invariably obtained on both sides and its relationship to any dispute of fact.
+If it is clear that the defendant was indeed suffering from a recognised medical condition which substantially impaired him in one of the material respects, and that this condition was a significant cause of the killing, the Crown is entitled to, and conventionally frequently does, accept that the correct verdict is guilty of manslaughter on the grounds of diminished responsibility and no trial need ensue.
+In practice quite a large proportion of verdicts of manslaughter on this ground arise from the Crown taking this responsible course: see the research undertaken for the Law Commission by Professor Mackay cited in Partial Defences to Murder Law Com 290 (2004) at Appendix B, especially paras 6, 20 and 21.
+Acceptance of a plea to manslaughter may properly be given either before trial, thus making it unnecessary, or after testing the evidence if that is required.
+Given the answers of the psychiatrist in Brennan and the state of the evidence, it is clear that the Crown could not properly ask the jury to convict of murder unless it was to reject one or more parts of the expert evidence.
+Certainly a jury is not bound by the expert.
+In some cases, pre planning, especially involving meticulous preparations, may indicate self control which gives grounds for rejecting an opinion that self control was substantially impaired.
+In others, there may be legitimate grounds for asking the jury to disagree about the level of impairment.
+In yet further cases, it may be perfectly proper to ask the jury to conclude that it was the drink or drugs which led to the killing, whilst the underlying mental condition was in the background.
+That is not by any means an exhaustive catalogue of questions which a jury may properly be invited to decide.
+However, as the Court of Appeal rightly held, if the jury is to be invited to reject the expert opinion, some rational basis for doing so must at least be suggested, and none had been at trial nor was on appeal.
+It is not open to the Crown in this kind of situation simply to invite the jury to convict of murder without suggesting why the expert evidence ought not to be accepted.
+In particular, it would not have been a proper basis for rejecting diminished responsibility that the circumstances of the killing had been particularly violent or sadistic.
+It is a well known factor in such cases that such brutality may (understandably) be taken by a jury to point away from the partial defence; sometimes it may truly do so, but not infrequently it is the product of the mental disorder.
+It may be agreed that the ordinary principles of R v Galbraith are capable of being applied in a trial where the sole issue is diminished responsibility.
+A court ought, however, to be cautious about doing so, and for several reasons.
+First, a murder trial is a particularly sensitive event.
+If the issue is diminished responsibility, a killing with murderous intent must, ex hypothesi, have been carried out.
+If a trial is contested, it is of considerable importance that the verdict be that of the jury.
+Second, the onus of proof in relation to diminished responsibility lies on the defendant, albeit on the balance of probabilities rather than to the ordinary criminal standard.
+The Galbraith process is generally a conclusion that no jury, properly directed, could be satisfied that the Crown has proved the relevant offence so that it is sure.
+In the context of diminished responsibility, murder can only be withdrawn from the jury if the judge is satisfied that no jury could fail to find that the defendant has proved it.
+Thirdly, a finding of diminished responsibility is not a single issue matter; it requires the defendant to prove that the answer to each of the four questions set out in para 8 above is yes.
+Whilst the effect of the changes in the law has certainly been to emphasise the importance of medical evidence, causation (question 4) is essentially a jury question.
+So, for the reasons explained above, is question 3: whether the impairment of relevant ability(ies) was substantial.
+That the judge may entertain little doubt about what he thinks the right verdict ought to be is not sufficient reason in this context, any more than in any other, for withdrawing from the jury issues which are properly theirs to decide.
+Where, however, in a diminished responsibility trial the medical evidence supports the plea and is uncontradicted, the judge needs to ensure that the Crown explains the basis on which it is inviting the jury to reject that evidence.
+He needs to ensure that the basis advanced is one which the jury can properly adopt.
+If the facts of the case give rise to it, he needs to warn the jury that brutal killings may be the product of disordered minds and that planning, whilst it may be relevant to self control, may well be consistent with disordered thinking.
+While he needs to make it clear to the jury that, if there is a proper basis for rejecting the expert evidence, the decision is theirs that trial is by jury and not by expert it will also ordinarily be wise to advise the jury against attempting to make themselves amateur psychiatrists, and that if there is undisputed expert evidence the jury will probably wish to accept it, unless there is some identified reason for not doing so.
+To this extent, the approach of the court in Brennan is to be endorsed.
+The present case
+In the present case the appellant and the deceased had lived together for around three years before she was killed on a Sunday in July 2012.
+On that day she and he, and her two sons aged 13 and eight, had been to a family barbecue.
+The couple had rowed at the party, in part because she said that he had hit her in the past, in part because he demanded that she give him a bank card which she refused to do, and in part because he wanted to go home and she did not.
+After they had returned home, separately, and after her mother had visited the house, the argument was renewed later in the evening.
+Outside the house, the appellant seized the deceased by her face, held her by her hair and slapped her across the cheek.
+She insisted that he leave the home.
+He packed a bag but refused to leave.
+Some time later that evening he attacked her.
+By then the deceased had a large lump on her face.
+The several stages of this attack were witnessed by one or both of her two sons.
+The older son intervened in the argument.
+He stood between them and said that he would not leave them alone.
+The appellant then fetched a knife from the kitchen, but the older son took it from his pocket.
+The boy told his mother about the knife and the appellant said Its self defence.
+She went and sat on the bed but the appellant went after her and punched her in the head, whereupon she hit him back.
+He had a small cut on his eyebrow which the boys said he squeezed to increase the blood flow.
+Then he attacked the deceased with a second knife which he produced, kneeling on her arms as he did so and shouting that he was going to kill her.
+She was afterwards found to have some 22 knife wounds, plus internal bleeding injuries to her abdomen and liver, apparently from a kick or similar blow(s) or contact with a hard object, which latter injuries were the fatal ones.
+When the police arrived the appellant became extremely violent.
+He was described as snarling like an animal and appearing as if deranged.
+At some stage he said to the police that She is evil .
+The demons gone She had Satan in her eyes.
+The appellant was 46 years old.
+Since he was about 23 he had been referred by his GP for out patient psychiatric consultations from time to time.
+He had never been admitted to hospital but had complained of depression, paranoid fears and, at times, of hearing voices in his head.
+He had been prescribed anti depressant and anti psychotic drugs and was still under such prescription at the time of the offence, although he had told the doctors that he was not taking his medicine.
+One consultant psychiatrist diagnosed his condition as a mixed personality disorder with paranoid, emotionally unstable, anxious and dependent traits.
+On the basis largely of what he had said to the police, the doctor concluded that at the time of the killing he was additionally in the grip of an acute psychotic episode and was driven by persecutory beliefs.
+The second psychiatrist disagreed that there was a personality disorder, but concluded that the appellant was at the time of the offence suffering from a paranoid psychotic illness, most likely schizophrenia.
+Both expressed the opinion that the different conditions they identified substantially impaired the relevant statutory abilities, although they were not at one as to which.
+The first psychiatrist thought that the ability to form a rational judgment and to exercise self control were impaired, but that the defendant knew what he was doing; the second agreed on the first two counts but additionally thought that the ability to understand the nature of his conduct was impaired.
+The Crown case was that he was simply very angry with his partner, and had been on and off all day, for unremarkable domestic reasons.
+There was some evidence of an ability to control himself on previous occasions when there had been assaults on her which had not been uncontrolled.
+The truthfulness of his assertion that he had seen Satan was in issue, and may or may not have been consistent with asserting self defence at the time.
+The renewal of the attack despite the warning presence of the children and the removal of the first knife might perhaps be some indicator of self control and give some support to the contention that the cause was simple anger rather than distorted thinking.
+That being the state of the evidence, the debate between the two possible meanings of the expression substantially barely arose.
+If the appellant was indeed in the grip of a psychotic episode involving persecutory delusions when he killed his partner, that would, by any ordinary standard, involve substantial impairment of one or more of the statutory abilities.
+The real question appears to have been whether, on the balance of probabilities, he had been.
+The judge left the issues squarely to the jury, correctly reminding them more than once that the doctors were agreed that there was a medical condition substantially impairing his abilities.
+Conclusion
+It follows that for the several reasons set out above, this appeal must be dismissed.

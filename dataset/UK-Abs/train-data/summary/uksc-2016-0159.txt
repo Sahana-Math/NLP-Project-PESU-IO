@@ -1,0 +1,47 @@
+The respondents are three Swiss or German companies which design, manufacture and sell luxury goods under well known trade marks.
+The appellants are the five largest internet service providers (ISPs) serving the UK.
+The respondents sought injunctions requiring the ISPs to block or attempt to block access to specified target websites, which were advertising and selling counterfeit copies of the respondents goods, in addition to various other internet addresses whose purpose is to enable access to a target website.
+The ISPs provide networks by which subscribers access content, but they neither provide nor store content.
+They do not themselves infringe the relevant trade marks.
+The judge granted the injunction and ordered the ISPs to pay the costs, including the costs of implementing the website blocking order.
+The Court of Appeal dismissed the ISPs appeal.
+This appeal to the Supreme Court is concerned only with costs.
+The main issue whether the respondents should have been required to bear various costs of implementing the website blocking order.
+The Supreme Court unanimously allows the appeal, so far as concerns the cost of complying with the injunction.
+The respondents will be ordered to indemnify the ISPs for the disputed implementation costs, but the judge was entitled to order the ISPs to pay the litigation costs.
+Lord Sumption gives the judgment, with which the other Justices agree.
+The English courts have long had jurisdiction in certain circumstances to order innocent parties to assist those whose rights have been invaded by a wrongdoer.
+That includes the jurisdiction exercised in Norwich Pharmacal Co v Customs and Excise Coms [1974] AC 133 which is commonly exercised for the purpose of assisting claimants to bring or maintain proceedings against wrongdoers, generally by ordering innocent intermediaries to provide information.
+The ordinary rule is that the intermediary is entitled to the costs of compliance with a Norwich Pharmacal order.
+Orders for the disclosure of information are only one category of order which can be made against a third party to prevent the use of his facilities for wrongdoing [8 12].
+National laws concerning intellectual property rights are partially harmonised by a series of EU Directives, of which three are relevant: the E Commerce Directive 2000/31/EC, the Information Security Directive 2001/29/EC and the Enforcement Directive 2004/48/EC.
+The E Commerce Directive requires Member States to introduce limitations of liability (safe harbours) in respect of certain activities undertaken by information society services, which include ISPs [16 17].
+None of the Directives deals expressly with the costs of enforcing a judicial remedy, as between the rights holder and an information society service [28].
+In the Court of Appeal, Kitchen LJ viewed the recitals to the E Commerce Directive as implicitly supporting an order for the intermediary to bear the implementation costs.
+He suggested that, under the Directives, liability for the costs of compliance was the quid pro quo of the immunities and the absence of any general obligation owed by ISPs to monitor information which they transmit or store.
+Kitchen LJ found support for his analysis in the reasons of the Court of Justice of the EU (CJEU) in LOral SA v eBay International AG (Case C 324/09) [2012] Bus LR 1369 and UPC Telekabel Wien GmbH v Constantin Film Verleigh GmbH (Case C 314/12) [2014] Bus LR 541 [28 29].
+The Supreme Court disagrees.
+First, the recitals refer the terms of an injunction against an intermediary to national law, without any further guidance [30(1)].
+Second, the quid pro quo argument assumes what it seeks to prove: the Directives do not deal at all with the costs of complying with an injunction against an intermediary, so there is nothing from which such an inference could be drawn [30(2)].
+Third, the rationale of the immunities, as explained in the recitals, is that disparities between national laws on liability can distort the functioning of the single market, and that the intermediaries have little or no control over content.
+It has nothing to do with the incidence of compliance costs when an injunction is granted [30(3)].
+Fourth, the CJEU authorities say nothing about the incidence of compliance costs but only that, so far as they are to be borne by the intermediary, they must not be excessive [30(4), (5)].
+The incidence of compliance costs is a matter for English law, within the broad limits set by the EU principles of effectiveness and equivalence, and the requirement that any remedy should be fair proportionate and not unnecessarily costly.
+In English law, the incidence of costs generally depends on the legal distribution of risk as found by the court.
+An innocent intermediary is ordinarily entitled to be indemnified by the rights holder against the costs of complying with a website blocking order.
+That is no different in principle from the established position in domestic law in the case of other orders granted to require an innocent party to assist the claimant against a wrongdoer.
+An ISP serving as a mere conduit would not incur liability for trade mark infringement under English law even in the absence of the safe harbour provisions.
+There is no legal basis for requiring a party to shoulder the burden of remedying an injustice if he has no legal responsibility and is acting under the compulsion of an order of the court [31 33].
+It has sometimes been suggested that because ISPs benefit financially from the volume and appeal of the content available on the internet, including content which infringes intellectual property rights, it is fair to make them contribute to the cost of enforcement.
+That assumes a degree of responsibility on the part of the intermediary which does not correspond to any legal standard.
+The law is not generally concerned with moral or commercial responsibilities except as an arguable basis for legal ones.
+Even if a moral or commercial responsibility were relevant, it would be hard to discern one in a case like this.
+Website blocking injunctions are sought by rights holders in their own commercial interest.
+There is no reason why the rights holder should be entitled to look for a contribution to the cost of defending his rights from anyone other than the infringers [34 35].
+It follows that in principle the rights holders should indemnify the ISPs for the compliance costs, subject to the limits on relief set by EU law.
+There is no reason to believe that such an indemnity, which must be limited to reasonable costs, would exceed those limits.
+The costs are not excessive, disproportionate or such as to impair the respondents ability to enforce their rights.
+Critically, the intermediary in this case is legally innocent.
+Different considerations may apply to those engaging in caching or hosting, which involve greater participation in the infringement and which are more likely to infringe national intellectual property laws if safe harbour immunity is unavailable [36 37].
+As to the costs of the litigation, the judge awarded them against the ISPs because, unusually, they had made the litigation a test case and had strenuously resisted the application.
+He was plainly entitled to do so [38].

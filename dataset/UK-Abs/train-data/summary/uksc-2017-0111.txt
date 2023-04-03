@@ -1,0 +1,36 @@
+By this appeal Mr and Mrs Hancock, the appellants, seek to show that the redemption of the loan notes, issued to them in connection with the sale of their shares in their company, Blubeckers Ltd, fell outside the charge to capital gains tax (CGT) by virtue of the exemption in section 115 of the Taxation of Chargeable Gains Act 1992 (TCGA) for disposals of qualifying corporate bonds (QCBs).
+QCBs are essentially sterling only bonds.
+The appellants structured the disposal of their Blubeckers Ltd shares in three stages. (1) Stage 1 was the exchange of Blubeckers Ltd shares for notes, which, being convertible into foreign currency, were not QCBs. (2) At Stage 2, the terms of some of those notes were varied so that they became QCBs. (3) At Stage 3, both sets of notes (QCBs and non QCBs) were, together and without distinction, converted into one series of secured discounted loan notes (SLNs), which were QCBs.
+The SLNs were subsequently redeemed for cash.
+It is said to be the result of the completion of Stages 2 and 3 that the appellants are not chargeable to CGT.
+The noteworthy feature for present purposes of the redemption process was that, following the reorganisation, some of the loan notes issued as consideration were converted into QCBs.
+TCGA confers rollover relief on the disposal of securities as part of a reorganisation; this means it brings securities issued as consideration into charge for CGT purposes but then defers the tax until their subsequent realisation.
+This is less favourable to the taxpayer than the exemption in TCGA, section 115.
+The roll over provisions constitute a carve out from the exemption in TCGA, section 115.
+They extend to certain conversions involving QCBs.
+The appellants seek to fall outside that carve out (and thus within the exemption in TCGA, section 115).
+The appellants appealed to the First tier Tribunal regarding the chargeable gain arising on the redemption of the SLNs.
+The First tier Tribunal held that the conversions were to be treated as a single conversion for the purposes of section 116(1) of the TCGA such that the transaction avoided CGT.
+HMRC appealed to the Upper Tribunal and the Upper Tribunal allowed HMRCs appeal holding that the conversion of securities at the third stage comprised separate transactions in relation to each share converted.
+As the First tier Tribunal had pointed out, the relief under section 116 for QCBs had been intended to promote the market in sterling bonds and so the interpretation favoured by the appellants would go well beyond that objective.
+The appellants appealed to the Court of Appeal and the Court of Appeal dismissed their appeal.
+The Court of Appeal considered that, although the wording of the carve out could be read literally in favour of the taxpayers, that result would be contrary to Parliaments intention.
+The issue before the Supreme Court is whether section 116 of the TCGA applies where by a single transaction, both non QCBs (which are within the charge to capital gains tax on redemption) and QCBs (which fall outside the charge to capital gains tax on redemption) are converted into QCBs.
+The Supreme Court unanimously dismisses the appeal.
+Lady Arden, with whom the rest of the Court agrees, delivers the judgment.
+It was common ground that, if the conversion at Stage 3 involved separate conversions of the QCBs and the non QCBs, the appeal must fail.
+The question whether there was a single conversion, or two separate conversions, must be a question of applying the provisions of TCGA to the facts.
+The answer is not mandated in the appellants favour by the fact that they utilised a single transaction [19].
+Plainly, section 116(1)(b) contemplates the possibility of a single transaction which involves a pre conversion holding of both QCBs and non QCBs, and this, coupled with the fact that the Court of Appeals interpretation renders the words or include appearing in section 116(1)(b) otiose are powerful arguments in support of the appellants construction [20].
+However, the appellants interpretation would be inexplicable in terms of the policy expressed in these provisions, which is to enable all relevant reorganisations to benefit from the same rollover relief.
+Taxpayers could avoid those provisions with extreme ease if the appellants are right [21].
+By looking to the fiscal policy behind the scheme, the Court of Appeal applied a purposive approach [22].
+The Court of Appeal did not give any meaning to the words or include in section 116(1)(b), but this is appropriate because in section 132(3), as the Upper Tribunal pointed out, it is clear that the intention of Parliament was that each security converted into a QCB should be viewed as a separate conversion.
+Moreover, it is not an objection that section 127 contemplates a single asset because Parliament has required sections 127 to 131 to be applied with necessary adaptations.
+In those circumstances the clear words principle is observed in the present case [23].
+There are cases where to achieve Parliaments obvious intention a strained interpretation may need to be taken in place of one which would be contrary to the clear intention of Parliament.
+This principle can apply even to a tax statute.
+However, the circumstances in which such an approach can be applied must be limited, for example, to those where there is not simply some inconsistency with evident Parliamentary intention but some clear contradiction with it.
+Moreover, the intention of Parliament must be clearly found on the wording of the legislation [24].
+Nothing in Lady Ardens judgment detracts from that principle, but it is unnecessary to consider its application to this case because the construction of the relevant provisions is clear without resort to it [26].
+Lady Arden concluded that, in summary, on the true interpretation of TCGA section 116(1)(b), the potential gain within the non QCBs was frozen on conversion and did not (to use Lewison LJs words) disappear in a puff of smoke [27].

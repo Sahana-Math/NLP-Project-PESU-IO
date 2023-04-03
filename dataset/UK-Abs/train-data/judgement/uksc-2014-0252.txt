@@ -1,0 +1,887 @@
+At common law, if an insured makes a fraudulent claim on his insurer, the latter is not liable to pay the claim.
+In relation to contracts concluded after 12 August 2016, the rule has been restated and its other consequences defined in section 12 of the Insurance Act 2015.
+The question at issue on this appeal is what constitutes a fraudulent claim.
+This is a controversial question at common law, which the Act of 2015 does not resolve.
+Three possible situations may be relevant.
+First, the whole claim may have been fabricated.
+In principle the rule would apply in this situation but would add nothing to the insurers rights.
+He would not in any event be liable to pay the claim.
+Secondly, there may be a genuine claim, the amount of which has been dishonestly exaggerated.
+This is the paradigm case for the application of the rule.
+The insurer is not liable, even for that part of the claim which was justified.
+Third, the entire claim may be justified, but the information given in support of it may have been dishonestly embellished, either because the insured was unaware of the strength of his case or else with a view to obtaining payment faster and with less hassle.
+The present appeal is concerned with embellishments of this kind.
+They are generally called fraudulent devices.
+The expression is borrowed from a standard clause avoiding contracts of fire insurance which was widely used in the 19th and early 20th centuries.
+But it is archaic and hardly describes the problem.
+I shall use the expression collateral lies, by which I mean a lie which turns out when the facts are found to have no relevance to the insureds right to recover.
+The question is whether the insurer is entitled to repudiate a claim supported by a false statement, if the statement was irrelevant, in the sense that the claim would have been equally recoverable whether it was true or false.
+The facts
+On the night of 28/29 January 2010, shortly after leaving Klaipeda in Lithuania with a cargo of scrap iron, the DC MERWESTONE was incapacitated by an ingress of water which flooded the engine room.
+The ingress of water was the combined result of (i) the negligence of the crew in failing to close the sea inlet valve of the emergency fire pump and drain down the system, after they had used the hoses to clear ice chips from the hatch covers; (ii) damage to the emergency fire system pump casing and filter after the vessel had sailed from Klaipeda, as a result of the freezing and expansion of the seawater inside them; (iii) the negligence of contractors employed on an earlier occasion, who failed to seal the engine room bulkheads after passing cables through them, with the result that they were not watertight; and (iv) defects in the engine room pumping system, which was unable to cope with the rate of ingress.
+The main engine was damaged beyond repair.
+The insurers instructed solicitors, Ince & Co, to investigate.
+Ince asked the owners for their explanation of the casualty.
+Mr Chris Kornet, the relevant individual in the vessels managers, developed a theory that the bilge alarm had sounded at about noon on 28 January, but the crew had been unable to investigate or deal with the leak because of the rolling of the ship in heavy weather.
+The judge found that this was a speculation on Mr Kornets part which he genuinely regarded as plausible.
+But in proffering it to Ince & Co in an e mail of 21 April 2010, he pretended that he had been told about the alarm activation by members of the crew.
+The judge found that this was a reckless untruth.
+Mr Kornet had not been told this by the crew and had no reason to believe that the crew would support it.
+And, although the master did later support the story, he had not done so by 21 April.
+Mr Kornets reason for acting in this way was that he was frustrated by the insurers delay in recognising the claim and making a payment on account.
+At a time when the cause of the flooding was not clear, he believed that it would fortify the claim and accelerate payment if the casualty could be blamed on the crews failure to respond to the activation of the bilge alarm.
+This was because otherwise attention would be concentrated on the defective condition of the ship and on the possible responsibility of the owners for that state of affairs.
+He had been advised that the wording of the Inchmaree clause in the Institute Time Clauses might afford a defence under the policy if the owners were found to have any responsibility for what happened.
+In fact, the lie was irrelevant to the merits of the claim.
+The judge, Popplewell J, held that the loss was proximately caused by a peril of the seas, namely the fortuitous entry of seawater through the sea inlet valve during the voyage, and that the relevant part of the Inchmaree clause had no application to this peril.
+He rejected a contention that the owners had sent the vessel to sea with defective engine room pumps in breach of the warranty implied by section 39(5) of the Marine Insurance Act 1906, because the managers had not known of the problem at the relevant time.
+It followed that the owners had a valid claim for some 3.241m whether or not the crew had failed to act on a bilge alarm activation at about noon on 28 January.
+However, he held that that claim was lost as a result of the collateral lie about it: [2013] 2 All ER (Comm) 465.
+He reached that conclusion with regret because he regarded it as unjust to the parties before him.
+At para 225 of his judgment, he observed: In a scale of culpability which may attach to fraudulent conduct relating to the making of claims, this was at the low end.
+It was a reckless untruth, not a carefully planned deceit.
+It was told on one occasion, not persisted in at the trial.
+It was told in support of a theory about the events surrounding the casualty which Chris Kornet genuinely believed to be a plausible explanation.
+The reckless untruth was put forward against the background of having made the crew available for interview by the Underwriters solicitor, who had had the opportunity to make his own inquiries of the crew on the topic.
+To be deprived of a valid claim of some 3.2m as a result of such reckless untruth is, in my view, a disproportionately harsh sanction.
+The case law: exaggerated claims
+There is a substantial body of case law on the effect of express clauses avoiding the policy or forfeiting the claim if it is affected by fraud.
+These cases turn on the language of the contract, although it is fair to say that most of them show a strong propensity on the part of the courts to give them an interpretation wide enough to cover any dishonesty in relation to the claim whether or not it was decisive of the merits.
+Such clauses appear to have been in common use from the end of the 18th century.
+The common law rule relating to fraudulent claims appears to originate rather later, in the middle of the 19th century.
+In Britton v Royal Insurance Co (1866) 4 F & F 905, which is generally regarded as the leading case, there was an express clause, but Willes J in his summing up to the jury stated the law altogether generally at pp 908 909: A fire insurance, he said, is a contract of indemnity; that is, it is a contract to indemnify the assured against the consequences of a fire, provided it is not wilful.
+Of course, if the assured set fire to his house, he could not recover.
+That is clear.
+But it is not less clear that, even supposing it were not wilful, yet as it is a contract of indemnity only, that is, a contract to recoup the insured the value of the property destroyed by fire, if the claim is fraudulent, it is defeated altogether.
+That is, suppose the insured made a claim for twice the amount insured and lost, thus seeking to put the office off its guard, and in the result to recover more than he is entitled to, that would be a wilful fraud, and the consequence is that he could not recover anything.
+This is a defence quite different from that of wilful arson.
+It gives the go bye to the origin of the fire, and it amounts to this that the assured took advantage of the fire to make a fraudulent claim.
+The law upon such a case is in accordance with justice, and also with sound policy.
+The law is, that a person who has made such a fraudulent claim could not be permitted to recover at all.
+The contract of insurance is one of perfect good faith on both sides, and it is most important that such good faith should be maintained.
+It is the common practice to insert in fire policies conditions that they shall be void in the event of a fraudulent claim; and there was such a condition in the present case.
+Such a condition is only in accordance with legal principle and sound policy.
+This approach was not initially accepted in Scotland, where the Court of Session held that the genuine part of a fraudulently inflated claim was recoverable: Reid & Co Ltd v Employers Accident & Livestock Insurance Co Ltd (1899) 1 F 1031.
+But in England the courts consistently applied Willes Js test to avoid the entirety of an exaggerated claim.
+That approach was endorsed by the House of Lords in Manifest Shipping Co Ltd v Uni Polari Insurance Co Ltd (The STAR SEA) [2003] 1 AC 469.
+It was settled from an early stage of the history of English insurance law that the duty of utmost good faith applied not only in the making of the contract but in the course of its performance.
+The principle was given statutory force by section 17 of the Marine Insurance Act.
+In Brittons Case, Willes J regarded the fraudulent claims rule as a manifestation of the duty of utmost good faith, a view adopted by Christopher Clarke LJ, delivering the leading judgment in the Court of Appeal in the present case (paras 76 77).
+The rule is peculiar to contracts of insurance, and there can be little doubt that historically it is because they are contracts of utmost good faith that they have this unique characteristic.
+But I am inclined to agree with the view expressed by Lord Hobhouse in The STAR SEA (paras 50, 61 62) that once the contract is made, the content of the duty of good faith and the consequences of its breach must be accommodated within the general principles of the law of contract.
+On that view of the matter, the fraudulent claims rule must be regarded as a term implied or inferred by law, or at any rate an incident of the contract.
+The correct categorisation matters only because if it is a manifestation of the duty of utmost good faith, then the effect of section 17 of the Marine Insurance Act 1906 is that the whole contract is voidable ab initio upon a breach, and not just the fraudulent claim.
+If, on the other hand, one adheres to the contractual analysis, the right to avoid the contract for breach of the duty must depend on the principles governing the repudiation of contracts, and avoidance would operate prospectively only.
+The choice is not, however, before us on this appeal because the insurers do not seek to avoid the contract.
+They seek only to avoid the claim for this particular casualty.
+What matters for present purposes is the rationale of the rule, on which there is a broad consensus in the authorities.
+It is the deterrence of fraud.
+As Lord Hobhouse observed in The STAR SEA at para 62, The logic is simple.
+The fraudulent insured must not be allowed to think: if the fraud is successful, then I will gain; if it is unsuccessful, I will lose nothing.
+Cf Galloway v Guardian Royal Exchange (UK) Ltd [1999] Lloyds Rep IR 209, 214 (Millett LJ); Direct Line Insurance v Khan [2002] Lloyds Rep IR 364, para 38; Agapitos v Andrew [2003] QB 556, para 14 (Mance LJ); AXA General Insurance Ltd v Gottlieb [2005] 1 All ER (Comm) 445 (CA), paras 28, 31.
+The courts have explained the lack of a similar rule in other areas of the law of contract by pointing to the asymmetrical positions of the parties to an insurance contract, the insurer being vulnerable on account of his dependence on the insured for information both at the formation of the contract and in the processing of claims: see Pan Atlantic Insurance Co Ltd v Pine Top Insurance Co Ltd [1995] 1 AC 501, 542B (Lord Mustill); Orakpo v Barclays Insurance Services [1995] Lloyds Rep IR 443, 451 (Hofmann LJ), 452 (Parker LJ).
+Fraudulent insurance claims are a serious problem, the cost of which ultimately falls on the general body of policy holders in the form of increased premiums.
+But it was submitted to us that a forfeiture rule was not the answer to that problem.
+There was, it was said, little empirical evidence that the common law rule was an effective deterrent to fraud, and no reason to think that the problem was peculiar to claims on insurers as opposed to, say, claims in tort for personal injuries, the cost of which also falls ultimately on insurers and policy holders without there being any equivalent common law rule.
+Informational asymmetry is not a peculiarity of insurance, and in modern conditions may not even be as true of insurance as it once was.
+These points have some force.
+But I doubt whether they are relevant.
+Courts are rarely in a position to assess empirically the wider behavioural consequences of legal rules.
+The formation of legal policy in this as in other areas depends mainly on the vindication of collective moral values and on judicial instincts about the motivation of rational beings, not on the scientific anthropology of fraud or underwriting.
+As applied to dishonestly exaggerated claims, the fraudulent claims rule is well established and, as I have said, will shortly become statutory.
+The case law: collateral lies
+The extension of the common law rule from dishonestly exaggerated claims to justified claims supported by collateral lies is a more recent and a more controversial development.
+So far as reported cases go, it makes its first appearance in a brief and unexplained remark of Lord Sumner in Lek v Mathews (1927) 29 Ll L Rep 141, 164.
+Mr Lek was alleged to have dishonestly exaggerated a claim on the insurers of his stock.
+In the Court of Appeal, Atkin LJ had held that even a knowing falsehood would not give rise to a forfeiture if Mr Lek genuinely believed that he was entitled to utter it.
+Commenting on this observation, Lord Sumner said that Lord Atkin must have had in mind mis statements on a purely collateral question, adding that even so I could not agree.
+Three years later, Roche J offered a somewhat more expansive statement of principle in his direction to the jury in Wisenthal v World Auxiliary Insurance Corpn Ltd (1930) 38 L Rep 54.
+This case concerned an all risks policy on goods in transit and in storage pending sale.
+The insurers disputed the insureds title and accused her of fraudulently exaggerating her claim.
+They also alleged that facts and documents relevant to these issues had been concealed.
+The report (p 62) records the relevant part of the judges summing up in the following terms: Fraud, said his Lordship, was not mere lying.
+It was seeking to obtain an advantage, generally monetary, or to put someone else at a disadvantage by lies and deceit.
+It would be sufficient to come within the definition of fraud if the jury thought that in the investigation deceit had been used to secure easier or quicker payment of the money than would have been obtained if the truth had been told.
+The jury held that the insured did have title and rejected the allegation of exaggeration.
+But they found that she had fraudulently suppressed relevant documents, and on that basis Roche J entered judgment for the insurers.
+In England, matters rested there until 1985, when the relevance of a collateral lie was considered in Black King Shipping Corpn and Wayang (Panama) SA v Massie (The LITSION PRIDE) [1985] 1 Lloyds Rep 437.
+The LITSION PRIDE was insured against war risks on terms which required her owners to give notice as soon as practicable of her entry into specified war zones and to pay an additional premium.
+The owners traded her into a war zone without giving notice, dishonestly intending to avoid the payment of the additional premium if the vessel got out unscathed.
+When she was hit by a missile and sunk, they gave the required notice by a letter which they dishonestly backdated to a date before the vessel entered the war zone.
+The fraud was irrelevant to the merits of the claim, because the vessel was held to be insured under a held covered clause with or without prior notice.
+But Hirst J held that the claim was forfeit on the ground that it was a breach of the insureds duty of good faith.
+His decision has not fared well in subsequent decisions.
+Royal Boskalis Westminster NV v Mountain [1997] 1 Lloyds Rep LR 523 was a claim on war risk underwriters for the constructive total loss of a fleet of dredgers trapped in Iraq by the Iraqi invasion of Kuwait.
+The owners abandoned the vessels to the underwriters, but then succeeded in procuring their release by the Iraqi authorities in return for a substantial ransom.
+They subsequently claimed for (i) the value of the ships, and (ii) sue and labour costs (other than the ransom) incurred in extricating them from Iraq.
+In presenting their claim to the underwriters, they suppressed the fact of the ransom and the detailed terms on which it was paid, mainly because they were concerned about a possible breach of United Nations sanctions against Iraq.
+Rix J held that the vessels were not a constructive total loss, but that the insured were entitled to a proportion of their sue and labour costs.
+He refused to allow the underwriters to argue that the claim was forfeit on account of the dishonest suppression of information about the insureds dealings with Iraq because the point had not been pleaded.
+But he added that he would have rejected the argument anyway.
+This was because he considered that the claim for sue and labour costs was entitled to succeed irrespective of the matters which the owners had concealed.
+At pp 592 593, he observed: Whatever be the precise definition and ambit of the concept of a fraudulent claim, there was no such claim here.
+I am in the process of finding that the sue and labour claim was and is a good and valid claim.
+It is not a false or fraudulent claim.
+It is totally unlike those instances of fraudulent claim to be found in the authorities, such as claims in respect of deliberately self inflicted or pretended losses, or claims in amounts which are knowingly or recklessly exaggerated: see, for instance, Goulstone v The Royal Insurance Co, (1858) I F & F 276, where, in the context of a claim for inter alia the loss of furniture whose value was exaggerated four fold, Pollock CB glossed a fraudulent claim as one wilfully false in any substantial particular at p 279; or Chapman v Pole, (1870) 22 LT 306, where again in the context of exaggerated value Cockburn, CJ spoke of one who knowingly preferred a claim he knew to be false or unjust at p 307; or The Captain Panagos DP, [1986] 2 Lloyds Rep 470, where Mr Justice Evans defined a fraudulent claim as one which is made on the basis that facts exist which constitute a loss by an insured peril, when to the knowledge of the assured those alleged facts are untrue, at p 511.
+It seems to me that even if one assumed, for instance, that the representation over the existence of any record of the finalization agreement was made fraudulently, that would not make the claim in question a fraudulent claim within these definitions of that expression.
+Rix Js judgment was appealed in part to the Court of Appeal and the appeal allowed, but not on this point: see [1999] QB 674.
+I shall refer to the Court of Appeals decision in another context below.
+Manifest Shipping Co Ltd v Uni Polaris Insurance Co Ltd (The STAR SEA) [2003] 1 AC 469, concerned the insureds non disclosure in good faith of a privileged expert report, said to be relevant to an allegation that the insured had knowingly sent the vessel to sea in an unseaworthy condition.
+The House of Lords rejected the insurers contention that they were entitled to forfeit the claim, because (i) the duty of the insured in presenting claims under the policy was a duty of honesty only, and (ii) it did not in any event subsist once proceedings had been begun.
+The relevance of the decision for present purposes lies in the discussion of The LITSION PRIDE in the speech of Lord Hobhouse (para 71), with whom Lord Steyn, Lord Hoffmann and Lord Clyde agreed: The particular claim was only fraudulent in so far as the broker had not been truthful in dealing with the insurers at that stage.
+The reasoning adopted by Hirst J has been criticised both by academic writers and by other judges in later cases.
+I consider that it should not any longer be treated as a sound statement of the law.
+In so far as it is based upon the principle of the irrecoverability of fraudulent claims, the decision is questionable upon the facts since the actual claim made was a valid claim for a loss which had occurred and had been caused by a peril insured against when the vessel was covered by a held covered clause.
+In K/S Merc Scandia XXXXII v Certain Underwriters (The MERCANDIAN CONTINENT) [2001] 2 Lloyds Rep 563, the point arose in a rather oblique fashion.
+The owners of the MERCANDIAN CONTINENT had obtained judgment in earlier High Court proceedings against a Trinidadian shipyard for damage caused by negligent repair work.
+Jurisdiction in the earlier proceedings had been founded on an agreed submission to the jurisdiction of the English court.
+The yards liability insurers appointed solicitors to conduct the defence on behalf of their insured.
+They had challenged the jurisdiction of the English court, relying in good faith on a document forged by the shipyards management, which suggested that the agreed submission had been made without authority.
+In due course the document was exposed as a forgery and the challenge to the jurisdiction was abandoned.
+The shipyard having gone into liquidation, the owners brought the current proceedings against the yards liability insurers under the Third Parties (Rights Against Insurers) Act 1930.
+The insurers defended the claim on the ground that they had lawfully avoided the policy because of the fraud of the insured shiprepairer in relation to the question of jurisdiction.
+Longmore LJ, delivering the leading judgment in the Court of Appeal, drew attention to the fact that the fraud was directed against the shipowners, not the liability insurers.
+But he rejected the defence on the principal ground that the concocted document would have made no difference to the insurers liability to meet the claim: para 42.
+He drew attention to the law relating to pre contractual non disclosure and misrepresentation, which required the relevant matters to be material to the risk and their non disclosure to have induced the insurer to act in a way that he would not otherwise have done.
+He continued (para 26): In my judgment these requirements, which must exist before an underwriter can avoid for lack of good faith pre contract, must also apply, making due allowance for the change of context, where an underwriter seeks to avoid for lack of good faith or fraud in relation to post contractual matters.
+In particular the requirement of inducement which exists for pre contract lack of good faith must exist in an appropriate form before an underwriter can avoid the entire contract for post contract lack of good faith.
+Referring (para 29) to Rix Js judgment in Royal Boskalis, he gratefully borrow[ed] the concept that the relevant conduct of the insured must be causally relevant to underwriters ultimate liability, or at least, to some defence of the underwriters before it can be permitted to avoid the policy.
+This is, I think, the same concept as that underwriters must be seriously prejudiced by the fraud complained of before the policy can be avoided.
+Longmore LJ considered the question entirely in the context of the right to avoid the policy for breach of the duty of good faith under section 17 of the Marine Insurance Act 1906, because that was the right which the defendant insurers invoked.
+But I do not think that the requirement for a causal connection between the fraud and the insurers liability can be any different, depending on whether the insurer is seeking to avoid the policy or just the claim.
+Thus far, it would be fair to say that the case law on post contractual collateral lies since the brief and early references in Lek v Mathews and Wisenthal v World Auxiliary Insurance Corpn Ltd reveals considerable judicial misgivings about their use as a basis for avoiding liability when the claim is well founded.
+The position, however, changed with the important and influential judgment of Mance LJ in Agapitos v Agnew (The AEGEON) [2003] QB 556.
+This was a claim for the total loss of the passenger ferry AEGEON following a fire during hot work on the vessel.
+The hull insurers defended the claim on the ground that the hot work had been carried out in breach of various warranties in the policy.
+If the warranties alleged were effective, there was undoubtedly a breach.
+The issue was whether they were.
+It was argued that they had never been agreed or had been waived.
+In the course of the proceedings, the insurers purported to avoid the policy for fraud and applied to amend their pleading to rely on this as a defence.
+The fraud alleged consisted in the owners having pleaded in their reply that hot work had begun on 12 February 1996, when they subsequently disclosed witness statements asserting that it was 12 days earlier on 1 February.
+The difference of date had no bearing on the merits of the claim, because if the warranties existed and had not been waived, there was a breach whenever hot work began.
+The question was whether this mattered.
+Toulson J held that it did not.
+His reason was that on the footing that the underwriters had a good defence of breach of warranty the defence of fraud was superfluous.
+On the footing that they did not, he distinguished the cases on fraudulently exaggerated claims on the same ground as Rix J in Royal Boskalis, namely that the alleged lie had to be material to the claim, in the sense that the truth would have afforded the insurers a defence.
+He therefore refused to allow them to amend.
+The Court of Appeal affirmed his decision on different grounds.
+They held, following The STAR SEA, that any duty of good faith in the presentation of claims ceased with the commencement of proceedings.
+But Mance LJ dealt, obiter, with the question whether the fraudulent claim could ever have applied to a collateral lie.
+Rejecting Toulson Js analysis, he held that a collateral lie in the presentation of a claim, even if it was irrelevant to the merits of the claim, was as much subject to the fraudulent claim rule as a dishonest exaggeration.
+Mance LJ distinguished between the common law rule about fraudulent claims and the duty of utmost good faith which was the basis of section 17 of the Marine Insurance Act 1906.
+He rejected the suggestion that the common law rule depended on the insurer having acted on the lie, and tentatively proposed that the test should be subject to an attenuated test of materiality.
+On inducement, he said this: 36.
+What relationship need there then be between any fraud and the claim if the fraudulent claim rule is to apply? And need the fraud have any effect on insurers conduct? Speaking here of a claim for a loss known to be non existent or exaggerated, the answers seem clear.
+Nothing further is necessary.
+The application of the rule flows from the fact that a fraudulent claim of this nature has been made.
+Whether insurers are misled or not is in this context beside the point.
+The principle only arises for consideration where they have not been misled into paying or settling the claim, and its application could not sensibly depend upon proof that they were temporarily misled.
+The only further requirement is that the part of the claim which is non existent or exaggerated should not itself be immaterial or unsubstantial: see paras 32 33 above.
+That also appears consistent with general principle, even though, in a pre contract context, no significance or sanction attaches to a fraudulent misrepresentation or nondisclosure unless it has, by misleading insurers, induced them to enter a contract.
+On materiality, he continued: 37.
+What is the position where there is use of a fraudulent device designed to promote a claim? I would see no reason for requiring proof of actual inducement here, any more than there is in the context of a fraudulent claim for non existent or exaggerated loss.
+As to any further requirement of materiality, if one were to adopt in this context the test identified in the Royal Boskalis case [1997] LRLR 523 and The Mercandian Continent [2001] 2 Lloyds Rep 563, then, as I have said, the effect is, in most cases, tantamount to saying that the use of a fraudulent device carries no sanction.
+It is irrelevant (unless it succeeds, which only the insured will then know).
+On the basis (which the cases show and I would endorse) that the policy behind the fraudulent claim rule remains as powerful today as ever, there is, in my view, force in Mr Popplewells submission that it either applies, or should be matched by an equivalent rule, in the case of use of a fraudulent device to promote a claim even though at the end of a trial it may be shown that the claim was all along in all other respects valid.
+The fraud must of course be directly related to and intended to promote the claim (unlike the deceit in The Mercandian Continent).
+Whenever that is so, the usual reason for the use of a fraudulent device will have been concern by the insured about prospects of success and a desire to improve them by presenting the claim on a false factual basis.
+If one does use in this context the language of materiality, what is material at the claims stage depends on the facts then known and the strengths and weaknesses of the case as they may then appear.
+It seems irrelevant to measure materiality against what may be known at some future date, after a trial.
+The object of a lie is to deceive.
+The deceit may never be discovered.
+The case may then be fought on a false premise, or the lie may lead to a favourable settlement before trial.
+Does the fact that the lie happens to be detected or unravelled before a settlement or during a trial make it immaterial at the time when it was told? In my opinion, not. Materiality should take into account the different appreciation of the prospects, which a lie is usually intended to induce on insurers side, and the different understanding of the facts which it is intended to induce on the part of a judge at trial. 38.
+The view could, in this situation, be taken that, where fraudulent devices or means have been used to promote a claim, that by itself is sufficient to justify the application of the sanction of forfeiture.
+The insureds own perception of the value of the lie would suffice.
+Probably, however, some limited objective element is also required.
+The requirement, where a claim includes a non existent or exaggerated element of loss, that that element must be not immaterial, unsubstantial or insignificant in itself offers a parallel.
+In the context of use of a fraudulent device or means, one can contemplate the possibility of an obviously irrelevant lie one which, whatever the insured may have thought, could not sensibly have had any significant impact on any insurer or judge.
+Tentatively, I would suggest that the courts should only apply the fraudulent claim rule to the use of fraudulent devices or means which would, if believed, have tended, objectively but prior to any final determination at trial of the parties rights, to yield a not insignificant improvement in the insureds prospects whether they be prospects of obtaining a settlement, or a better settlement, or of winning at trial.
+Courts are used enough to considering prospects, eg when assessing damages for failure by a solicitor to issue a claim form within a limitation period.
+Mance LJs analysis of the law relating to collateral lies was applied by the Privy Council in Stemson v AMP General Insurance (NZ) Ltd [2006] Lloyds Rep IR 852 and Beacon Insurance Co Ltd v Maharaj Bookstore Ltd [2014] 4 All ER 418.
+It was recognised by the Supreme Court in Summers v Fairclough Homes Ltd [2012] 1 WLR 2004, para 29, although in that case the point arose only by way of analogy in a case turning on the inherent procedural power of a court to strike out a dishonest claim.
+In none of these cases was there any issue about the correctness of the analysis in The AEGEON.
+Other common law jurisdictions
+The only Commonwealth jurisdiction in which the application of the fraudulent claim rule to valid claims has been considered in any detail is Australia, whose case law exhibits the same differences of opinion as the English cases.
+GRE Insurance Ltd v Ormsby (1982) 29 SASR 498 is a decision of the Full Court of South Australia.
+The insured, whose policy covered theft consequent upon a forcible entry, embellished the evidence of forcible entry by causing further damage to the door and lock before taking a photograph of it and sending it to the insurers.
+The trial judge found that there had in fact been a forcible entry and the insurer accepted this finding on appeal to the full court.
+But the insurer defended the claim on account of the dishonest photograph.
+The defence was rejected.
+Mitchell J held that the defence did not arise because the claim was valid.
+A valid claim would not, as it seems to me, become a fraudulent claim, even if it were proved that there was an attempt to support the valid claim by evidence which was intentionally false (pp 502 503).
+Walters J agreed, adding that at common law an insurer could not be treated as having the necessary fraudulent intent if there never was an intention on the part of the respondents to get, and knowingly to get, more than what they had really lost (p 503).
+Cox J also agreed, suggesting that in this respect the common law may differ from the effect of some standard express clauses forfeiting fraudulent claims as the courts had construed them (pp 505 506).
+In Tiep Thi Ho v Australian Associated Motor Insurers Ltd [2001] VSCA 48, the insureds car was damaged in a road accident while being driven by her son.
+She mistakenly believed that the policy did not cover damage while the car was being driven by her son and so pretended that it had been damaged while being driven by thieves.
+In fact the son was insured, and the lie was irrelevant to the insurers liability.
+The Victoria Court of Appeal held that the insurer was entitled to reject the claim.
+The decision turned mainly on section 56(1) of the Commonwealth Insurance Contracts Act 1984, which provided that it should be a defence that the claim had been made fraudulently.
+But Buchanan JA, delivering the leading judgment, considered that the same result would have followed at common law, because the mischief of the fraudulent claims rule lay in the insureds dishonest state of mind and not in its consequences.
+At para 14, he put the matter thus: As a matter of public policy, attributable to the need to promote honesty on the part of insured persons and proponents for insurance, whose knowledge of the relevant circumstances of the casualty as well as the nature of the risk was generally greater than that of their insurers, the courts would not aid a fraudulent claimant.
+The courts would not look behind fraud to see if otherwise there was a valid claim or a claim unaffected by the fraud, and no effort was made to reduce or extinguish claims only after gauging the effects of the fraud upon insurers.
+Buchanan JA concluded (para 23) that the existence of an underlying valid claim does not render fraud irrelevant, and that in deciding otherwise in Ormsby the South Australia court had been wrong.
+In the United States almost all the relevant case law concerns fire policies subject to an express avoidance clause, generally the clause against any fraud or false swearing in the Standard Fire Insurance Policy of the State of New York.
+The cases ultimately turn on the construction of the language.
+However, they are nonetheless of interest, because materiality is not in terms dealt with in the clause, and is consequently addressed by the courts as a matter of general principle.
+In applying the clause, the courts have generally adopted a test of materiality similar to that of Mance LJ in The AEGEON.
+The leading case is the decision of the US Supreme Court in Claflin v Commonwealth Insurance Co 110 US 81 (1884) in which the court held (p 95) that the materiality of a statement in the eye of the law, consists in their tendency to influence the conduct of the party who has an interest in them, and to whom they are addressed.
+In Long v Insurance Company of North America 670 F 2d 930 (1982), the insurers defended a claim for loss by fire on the ground (i) that the fire was caused by arson procured by the insured, and (ii) that in the course of the insurers investigation he had untruthfully denied moving his furniture out of his house shortly before it was destroyed.
+The Tenth Circuit Court of Appeals, applying the test stated in Claflin, held that summary judgment had been properly given against an insured on ground (ii), without there being any need to investigate whether the insured was in fact responsible for the fire.
+The court held (p 934): Regarding allegations of false swearing, a misrepresentation will be considered material if a reasonable insurance company, in determining its course of action, would attach importance to the fact misrepresented.
+In Fine v Bellefonte Underwriters Insurance Co 725 F 2d 179 (1984), the Second Circuit Court of Appeals considered that this result followed from the absence of any requirement of inducement in the fraudulent claims rule.
+It observed that: materiality of false statements is not determined by whether or not the false answers deal with a subject later determined to be unimportant because the fire and loss were caused by factors other than those with which the statements dealt.
+False sworn answers are material if they might have affected the attitude and action of the insurer.
+They are equally material if they may be said to have been calculated either to discourage, mislead or deflect the companys investigation in any area that might seem to the company, at that time, a relevant or productive area to investigate.
+Some states, such as Texas, have overruled these decisions by statute.
+But they have generally been followed by state and US district courts in cases where similar clauses have appeared in the policy and there is no overriding statutory rule.
+Analysis
+This is the first time that the House of Lords or the Supreme Court has had the opportunity to resolve the question whether the fraudulent claims rule applies to justified claims supported by collateral lies.
+I have reached the conclusion that the rule does not apply to such claims.
+The starting point is that in law it is not a precondition of the insurers liability that a claim should have been made on him.
+The insureds right to indemnity arises as soon as the loss is suffered: Chandris v Argo Insurance Co Ltd [1963] 2 Lloyds Rep 65; Firma C Trade SA v Newcastle Protection and Indemnity Association [1991] 2 AC 1, 35 36 (Lord Goff).
+It follows, as Mance LJ pointed out in AXA General Insurance Ltd v Gottlieb [2005] 1 All ER (Comm) 445, para 26 that the effect of a claim subsequently being made for a fraudulently inflated amount is retrospectively to remove or bar the insureds pre existing cause of action.
+In other words, it is not a conditional liability but a forfeiture.
+In this context, there is an obvious and important difference between a fraudulently exaggerated claim and a justified claim supported by collateral lies.
+Where a claim has been fraudulently exaggerated, the insureds dishonesty is calculated to get him something to which he is not entitled.
+The reason why the insured cannot recover even the honest part of the claim is that the law declines to sever it from the invented part.
+The policy of deterring fraudulent claims goes to the honesty of the claim, and both are parts of a single claim: Galloway v Guardian Royal Exchange (UK) Ltd [1999] Lloyds Rep IR 209, 213 214 (CA); Direct Line Insurance v Khan [2002] 1 Lloyds Rep IR 364; AXA General Insurance Ltd v Gottlieb [2005] 1 All ER (Comm) 445 (CA), para 31.
+The principle is the same as that which applies in the law of illegality.
+The courts will not sever an agreement affected by illegality into its legal and illegal parts unless it accords with public policy to do so, even if each part is capable of standing on its own: Kuenigl v Donnersmarck [1955] 1 QB 515, 537 (McNair J); Royal Boskalis Westminster NV v Mountain [1999] QB 674, 693 (Stuart Smith LJ), 704 (Pill LJ).
+The position is different where the insured is trying to obtain no more than the law regards as his entitlement and the lie is irrelevant to the existence or amount of that entitlement.
+In this case the lie is dishonest, but the claim is not.
+The immateriality of the lie to the claim makes it not just possible but appropriate to distinguish between them.
+I do not accept that a policy of deterrence justifies the application of the fraudulent claim rule in this situation.
+The law deprecates fraud in all circumstances, but the fraudulent claim rule is peculiar to contracts of insurance.
+It reflects, as I have pointed out, the laws traditional concern with the informational asymmetry of the contractual relationship, and the consequent vulnerability of insurers.
+It is therefore right to ask in a case of collateral lies uttered in support of a valid claim, against what should the insurer be protected by the application of the fraudulent claims rule? It would, as it seems to me, serve only to protect him from the obligation to pay, or to pay earlier, an indemnity for which he has been liable in law ever since the loss was suffered.
+It is not an answer to this to say, as Christopher Clarke LJ did in the Court of Appeal, that the insurer may have been put off relevant inquiries or driven to irrelevant ones.
+Wasted effort of this kind is no part of the mischief against which the fraudulent claims rule is directed, and even if it were the avoidance of the claim would be a wholly disproportionate response.
+The rule, moreover, applies irrespective of whether or not the lie set a hare running in the insurers claims department.
+Nor is it an answer to say, as the courts have often said of fraudulently inflated claims, that the insured should not be allowed a one way bet: he makes an illegitimate gain if the lie persuades, and loses nothing if it does not.
+This observation, which is true of fraudulently inflated claims, cannot readily be transposed to a situation in which the claim is wholly justified.
+In that case, the insured gains nothing from the lie which he was not entitled to have anyway.
+Conversely, the underwriter loses nothing if he meets a liability that he had anyway.
+In The STAR SEA at para 61, Lord Hobhouse warned that the courts should be prepared to examine the application of any such principle to the particular class of situation to see to what extent its application would reflect principles of public policy or the over riding needs of justice.
+Where the application of the proposed principle would simply serve the interests of one party and do so in a disproportionate fashion, it is right to question whether the principle has been correctly formulated or is being correctly applied.
+It was for this reason that Rix J questioned the correct formulation of the principle in Royal Boskalis and Longmore LJ did the same in The MERCANDIAN CONTINENT.
+As their judgments show, the difficulties really arise from the fact that the fraudulent claim rule does not require the insurer to have relied upon the dishonest information or acted on it in any way.
+In almost every case in which it has been applied, the insurer has declined to pay, either because there were other grounds for declining or because he saw through the exaggeration or both.
+Indeed, in AXA General Insurance Ltd v Gottlieb [2005] 1 All ER (Comm) 445 (CA) the Court of Appeal held that the insurer was entitled to recover interim payments made in respect of a valid claim before any exaggeration had occurred; and in Stemson v AMP General Insurance (NZ) Ltd [2006] Lloyds Rep IR 252 the rule was applied in a case where not only was the lie irrelevant to the recoverability of the indemnity but it had been corrected before any payment had been made.
+That these remarkable consequences follow from applying the fraudulent claims rule to a collateral lie suggests that something has gone wrong with the underlying principle.
+Anomalies of this kind flow from the absence of any requirement of reliance or inducement when a lie is said to have been told in support of a claim.
+This is a well established feature of the fraudulent claims rule, but nonetheless remarkable for that.
+There is one other context in which neither reliance nor inducement need be shown, and that is in the criminal law, a position confirmed by the Fraud Act 2006.
+But there is, as far as I am aware, no other context in which the civil law avoids a transaction on account of a fraud which has had no impact on its intended target.
+In the law of deceit, it is fundamental that the representee must have acted on the misrepresentation.
+If he would have done the same thing even in the absence of the misrepresentation, a claim based on it will fail.
+The same applies in a claim to rescind a contract for misrepresentation, fraudulent or otherwise.
+Thus, if an insurer were to settle a claim by agreement and then discover that that he had been told a lie in the course of the claim process, he would have to show that his agreement was influenced by the lie in order to rescind it.
+A lie which had no impact on him would not be good enough.
+Even in the law of insurance a material misrepresentation or non disclosure in the making of the contract, whether honest or dishonest, will not give rise to a right of avoidance unless it induced the insurer to accept the risk or to do so on the particular terms: Pan Atlantic Insurance Co Ltd v Pine Top Insurance Co Ltd [1995] 1 AC 501.
+As Lord Mustill pointed out in that case, the need to show inducement reflected the fundamental requirement of the law that the misrepresentation or non disclosure should have had some substantial causative effect.
+He specifically rejected an argument that in the context of pre contractual misrepresentation or non disclosure the absence of any reference to inducement in the Marine Insurance Act 1906 reflected a disciplinary element in the law of marine insurance, which required that breaches of the insureds duty of utmost good faith should be deterred by imposing condign sanctions even in the absence of reliance or inducement.
+In language which would later be echoed by Lord Hobhouse in The STAR SEA (para 61, quoted above), he remarked of this submission that to enable an underwriter to escape liability when he has suffered no harm would be positively unjust, and contrary to the spirit of mutual good faith (p 549D).
+Yet if causation is irrelevant to the application of the fraudulent claim rule, some connection must necessarily exist between the collateral lie and the claim, unless the rule is to part company with rationality.
+Mr Edelman QC, who appeared before us for the insurers, recognised this.
+He found the necessary connection in a test of materiality.
+But he submitted that what was required was that the lie should be material to the potential merits of the claim as they would have appeared to a hypothetical insurer at the time that the lie was uttered, when the full facts were not necessarily known.
+It did not have to be material to the merits of the claim as they were subsequently shown to be, for example at trial after the facts had been found.
+For reasons which I shall explain, I agree that materiality provides the necessary connection between the collateral lie and the claim, but in the context of a fraudulent statement in support of a claim I do not accept that it must be assessed by reference to the merits of the claim as they appear to be when the lie was uttered.
+In this context, I think that hindsight is necessary.
+Materiality would not ordinarily be relevant at all where a representation was made fraudulently.
+But that is because causation is ordinarily established in such cases by the mere fact that the representee acted on the statement.
+If a person sets out to induce the representee to act on a dishonest statement, and the representee does act on it, it is necessarily material, or at any rate the representor having intended the result cannot be heard to say that it was not.
+The point does not arise in a case where, whatever the insureds intentions, the statement had no relevant impact on the insurer.
+This is, I think, why Lord Mance acknowledged in The AEGEON (para 38) that while the lie must be in some sense material if the fraudulent claims rule is to apply, the test of materiality cannot be the same in this context as it is in the law of fraud generally.
+Mance LJs tentative answer was substantially the same as Mr Edelmans.
+The lie must be such as would, if believed, have tended objectively but prior to any final determination at trial of the parties rights, to yield a not insignificant improvement in the insureds prospects whether they be prospects of obtaining a settlement, or a better, settlement, or of winning at trial.
+In the Court of Appeal in the present case, Christopher Clarke LJ was inclined (para 165) to modify this test so as to substitute for the requirement of a not insignificant improvement in the insureds apparent prospects, a requirement of a significant improvement.
+The modification is endorsed by Mance LJ in his judgment on this appeal.
+In either form, the test proposed is similar to the test for the materiality of pre contractual misrepresentations and non disclosures, from which it was presumably derived.
+But I do not think that such a test can apply to a collateral lie at the claims stage.
+I start from the proposition that materiality and inducement are closely connected.
+This is well established in the context of pre contractual breaches of the insured duty of good faith.
+The test of inducement is subjective.
+It depends on the state of mind of the actual insurer when he decided to accept the risk or the particular terms.
+The test of materiality by comparison is objective.
+It depends on what would be relevant to a hypothetical prudent insurer in the same situation: see section 18(2) of the Marine Insurance Act 1906; cf section 7(3) of the Insurance Act 2015.
+Thus it is well established that an insured is required to disclose credible reports that his ship is in trouble, even if they subsequently turn out to have been unfounded; and conversely the insured need not disclose circumstances which were immaterial at the time, even if they subsequently turn out to have been material after all.
+This is because, as the Court of Appeal held in Brotherton v Aseguradora Colseguros SA [2003] Lloydss Rep IR 746, the materiality of a given circumstance has to be tested at the time of the placing of the risk and by reference to the impact that it would then have on the mind of a prudent underwriter at that time: cf Arnould, The Law of Marine Insurance and Average, 18th ed (2013), paras 15.95 15.107, esp 15.96 15.97; MacGillivray on Insurance Law, 13th ed (2015), para 17.047.
+There are in my opinion two reasons why this test of materiality cannot apply to lies told in the course of making a claim.
+The first is that no impact on the mind of the prudent underwriter is required in that context.
+As Lord Goff said of pre contractual disclosure in Pan Atlantic (p 517G H), if actual inducement is not required, materiality becomes all important.
+In that case, there were two competing tests of materiality: a weak test, which depended on whether the relevant fact would have influenced the thought processes of the hypothetical prudent underwriter, and a strong test which would have depended on whether it would have been decisive.
+Lord Goff went on to point out that it was only because the Appellate Committee thought it necessary to show that the actual underwriter was induced to accept the risk on the particular terms that the majority felt able to adopt the weak test of materiality.
+It is, however, difficult to see what relevance either test of materiality can have if there is no requirement of inducement.
+The function of materiality in the law of misrepresentation and non disclosure is to limit the matters upon which the insurer can relevantly claim to have relied.
+If the insureds statements need have no actual impact on the insurer at all, why should it matter what impact it might objectively have been expected to have? Even the strong test of materiality rejected in Pan Atlantic, ie that the relevant fact must be decisive, fails to connect the misrepresentation or non disclosure to the claim if the law does not require the actual insurer to have made any decision at all in response to what he has been told.
+If the question of materiality is not to depend on the impact of the statement on the mind of the insurer, then it is difficult to see why it should depend on the merits of the claim as they appeared to be at any particular moment, as opposed to the merits of the claim as they actually were.
+The second reason is that the insurers assessment of a claim is of a quite different character from his assessment of a risk at the pre contract stage.
+In deciding whether to accept the risk and on what terms, the insurer has a complete discretion.
+There are no legal standards by which his decision can be assessed.
+It is a pure question of judgment, which the hypothetical prudent insurer may make for good reasons or bad in his own commercial interest.
+Hence the critical importance of the impact of non disclosure on his thought processes.
+But when deciding whether to accept a claim under an existing contract, the insurers position is very different.
+He has no discretion, because he is already bound.
+The only question properly before him is whether to acknowledge a liability that if it exists at all exists already, whether or not he realises it.
+Ultimately, his assessment is simply an attempt to predict what a court would decide.
+In that context, the only rational test of the materiality of a lie must be based on its relevance to a court which is in a position to find the relevant facts.
+For this reason, although a lie uttered in support of a claim need not have any adverse impact on the insurer, I consider that it must at least go to the recoverability of the claim on the true facts.
+By that test, the fraudulent claims rule applies to a wholly fabricated claim.
+It applies to an exaggerated claim.
+It applies even to the genuine part of an exaggerated claim if the whole is to be regarded as a single claim, as it must be.
+But it does not apply to a lie which the true facts, once admitted or ascertained, show to have been immaterial to the insureds right to recover.
+It is true that the moral character of the insureds lie is in no way mitigated by the fact that it turns out to have been unnecessary.
+But there are principled limits to the role which a claimants immorality can play in defeating his legitimate civil claims.
+These limits have been applied outside the realm of insurance ever since the failure two centuries ago of Lord Mansfields attempt to introduce a general duty of good faith in the law of contract.
+Ultimately, however, even the law of insurance is concerned more with controlling the impact of a breach of good faith on the risk than with the punishment of misconduct.
+The extension of the fraudulent claims rule to lies which are found to be irrelevant to the recoverability of the claim is a step too far.
+It is disproportionately harsh to the insured and goes further than any legitimate commercial interest of the insurer can justify.
+It leads naturally to the anomalous consequences which Popplewell J, rightly to my mind, pointed out in this case.
+Those anomalies are all the more remarkable for the fact that the rule has no application to collateral lies told after the commencement of legal proceedings, when experience suggests that parties are most likely to gild the lily.
+In my opinion, it is not the law.
+The Human Rights Convention
+I have not dealt with the appellants further arguments based on article 1 of the First Protocol to the Human Rights Convention.
+They do not arise on the view which I take of the position at common law.
+Disposition
+I would accordingly allow the appeal.
+Subject to any submissions which may be made to us on the form of order, I would enter judgment against the insurers for the sum which the judge found would have been due but for the forfeiture of the claim, namely 3,241,310.60 and interest.
+LORD CLARKE:
+Introduction
+I would allow the appeal, essentially for the reasons given by Lord Sumption, which I will not repeat.
+This appeal is concerned with what, like Lord Sumption, I will call collateral lies, that is lies which are not relevant to the question whether the underwriters are liable under the insurance contract or not.
+It seems to me that the question whether collateral lies told by the insured should entitle underwriters to refuse to discharge their liability under a contract is essentially a policy question.
+Lord Sumption, Lord Toulson and Lord Hughes conclude that the question should be answered in the negative.
+I agree.
+As Lord Mance shows, there is a case to be made for the contrary view, but in my opinion public policy does not require that the insurer should have a defence.
+The critical point is that, in the case of a collateral lie, as Lord Sumption observes at para 26, the insured is trying to obtain no more than the law regards as his entitlement and the lie is irrelevant to the existence or amount of that entitlement.
+Such a lie is thus immaterial to the claim.
+As Lord Sumption puts it, the lie is dishonest but the claim is not.
+This approach reflects the personal views of Popplewell J. Having concluded that the underwriters defence of fraudulent device (ie the telling of a collateral lie) succeeded, he said this in para 225, very near the end of his judgment: I have reached this conclusion with regret.
+In a scale of culpability which may attach to fraudulent conduct relating to the making of claims, this was at the low end.
+It was a reckless untruth, not a carefully planned deceit.
+It was told on one occasion, not persisted in at the trial.
+It was told in support of a theory about the events surrounding the casualty which Chris Komet genuinely believed to be a plausible explanation.
+The reckless untruth was put forward against the background of having made the crew available for interview by the Underwriters solicitor, who had had the opportunity to make his own inquiries of the crew on the topic.
+To be deprived of a valid claim of some 3.2m as a result of such reckless untruth is, in my view, a disproportionately harsh sanction.
+I agree.
+In my opinion, legal policy does not require such a harsh result.
+Moreover, this conclusion seems to me to be consistent with the approach of Rix J in Royal Boskalis Westminster NV [1997] 1 Lloyds Rep 523, which is discussed by Lord Sumption at para 15.
+I will not repeat his account of the facts, save to note that the shipowners claimed for the value of their ships and sue and labour costs other than a ransom which they had paid.
+In presenting their claim to the underwriters, they concealed the fact of the ransom and the detailed terms on which it was paid, (as Lord Sumption puts it) because they were concerned about a possible breach of UN sanctions against Iraq.
+Rix J held (albeit obiter) that he would have rejected the argument on the basis that he considered that the claim for sue and labour was entitled to succeed irrespective of the matters which the owners had concealed.
+In this regard Rix J said at pp 592 593, in a passage quoted by Lord Sumption: Whatever be the precise definition and ambit of the concept of a fraudulent claim, there was no such claim here.
+I am in the process of finding that the sue and labour claim was and is a good and valid claim.
+It is not a false or fraudulent claim.
+It is totally unlike those instances of fraudulent claim to be found in the authorities, such as claims in respect of deliberately self inflicted or pretended losses, or claims in amounts which are knowingly or recklessly exaggerated: see, for instance, Goulstone v The Royal Insurance Co, (1858) I F & F 276, where, in the context of a claim for inter alia the loss of furniture whose value was exaggerated four fold, Pollock CB glossed a fraudulent claim as one wilfully false in any substantial particular at p 279; or Chapman v Pole, (1870) 22 LT 306, where again in the context of exaggerated value Cockburn, CJ spoke of one who knowingly preferred a claim he knew to be false or unjust at p 307; or The Captain Panagos DP, [1986] 2 Lloyds Rep 470, where Mr Justice Evans defined a fraudulent claim as one which is made on the basis that facts exist which constitute a loss by an insured peril, when to the knowledge of the assured those alleged facts are untrue, at p 511.
+It seems to me that even if one assumed, for instance, that the representation over the existence of any record of the finalization agreement was made fraudulently, that would not make the claim in question a fraudulent claim within these definitions of that expression.
+Those conclusions seem to me to be consistent with the approach outlined above.
+They are also consistent with the views expressed by Lord Hobhouse in The Star Sea [2003] 1 AC 469, para 72 and by Longmore LJ in The Mercandian Continent [2001] 2 Lloyds Rep 563 discussed by Lord Sumption at paras 16 and 17.
+I agree with him that the relevant conduct must, as Longmore LJ put it, be causally relevant to underwriters ultimate liability.
+I also agree with him (at the end of para 17) that the requirement for a causal connection cannot be any different depending upon whether the insurer is seeking to avoid the policy or just the claim.
+Lord Sumption further notes at para 27 that at para 61 in The Star Sea Lord Hobhouse warned that the courts should be prepared to examine the application of any such principle to the particular class of situation to see to what extent its application would reflect principles of public policy or the over riding needs of justice.
+Where the application of the proposed principle would simply serve the interests of one party and do so in a disproportionate fashion, it is right to question whether the principle has been correctly formulated or is being correctly applied.
+I agree.
+In addition to the absent requirement of materiality, there are two other features that seem to me to point to the conclusion that a collateral lie should not be held to be relevant, save no doubt to the veracity of the insured, which may be relevant to the facts found at a trial.
+The first is that the mere telling of a lie to underwriters in connection with a claim cannot sensibly be treated as forfeiture of the claim.
+Suppose a collateral lie is told on a Monday but resiled from, say, a week later, can it sensibly be held that it is then too late because the lie has already caused forfeiture of the claim? Such a principle would in my opinion be disproportionate and contrary to public policy.
+The second is the effect of the principle laid down in The Star Sea and not challenged in this appeal that, as Lord Hughes puts it at para 94, the common law rule of fraudulent claims has evolved to exclude from its operation fraud committed after litigation has begun.
+It is I think accepted that this includes collateral lies.
+I agree with Lord Hughes that it would be altogether disproportionate for the insurers to be vouchsafed a new defence to the whole claim if, for example, under pressure in the witness box the claimant were to utter a demonstrable untruth going to the claim.
+It would mean that the moment the collateral lie was uttered, it would be open to the underwriters to invite the judge to hold that the statement was a lie and to stop the trial on the basis that the underwriters now had a cast iron defence which could not be remedied by admission that the statement was a lie or in any other way, whether the underwriters were liable under the insurance contract or not.
+This too would in my opinion be disproportionate and contrary to public policy.
+Could it really make any difference if the lie was uttered just before the issuing of proceedings? In my opinion such a conclusion would make no sense.
+In all the circumstances I agree that the appeal should be allowed for the reasons given by Lord Sumption.
+I do not detect any significant difference between the reasons given by Lord Sumption, Lord Toulson and Lord Hughes.
+LORD HUGHES:
+A policyholder makes a claim under his insurance policy.
+The claim is within the cover provided by the policy.
+The loss has indeed occurred without complicity on the part of the policyholder and it is not exaggerated as to amount.
+There has been no breach of any specific warranty in the policy.
+The claim is thus far good in law and would succeed.
+But the insured embellishes the claim by fraudulent evidence designed to improve the prospects of the insurers accepting it without undue delay or enquiry.
+Does the claim for this reason fail? What, in other words, is the true extent of what is known as the fraudulent claims rule?
+I have reached the same conclusion as Lord Sumption.
+The fraudulent claims rule does not defeat a claim which is wholly good in law, even if a lie is told in support of it.
+But I do so for reasons which are a little different from, and to an extent additional to, his.
+It has been common ground between the parties, and is indisputable, that the fraudulent claims rule is well established in English law and that it operates to bar the whole of the policyholders claim where that claim is either wholly invented or fraudulently exaggerated.
+The claiming policyholder, if he is found fraudulently to have exaggerated his claim, recovers nothing; he does not recover the unexaggerated part.
+The issue in this case has been whether that rule extends also to bar the claim where the insured has not invented or exaggerated the claim but has employed what has been termed a fraudulent device.
+By that, in this special context, is meant a lie or other fraud in the presentation of the claim to the insurers, in a case where the underlying claim is in fact good in the amount claimed.
+Typically the fraudulent device is bogus evidence of some kind advanced in support of the claim in order to bolster it.
+Plainly, a fraudulent claim, properly so called, ie one which is either wholly invented or fraudulently exaggerated, may also be supported by bogus evidence of this kind.
+But in the terminology of insurance law, the expression fraudulent device, which derives from language adopted in times past by express clauses in some policies, has been used conveniently to refer only to those cases where the underlying claim, even though supported by bogus evidence or some other fraud, is good.
+I gratefully adopt Lord Sumptions expression, collateral lie to describe this situation.
+In the vernacular, the situation contemplated might be described as the policyholder gilding the lily.
+The issue as to the extent of the fraudulent claims rule, and whether it extends to collateral lies, arises in the present case in the context of a claim under a marine insurance policy for some 3.2m in respect of sea damage to the engines of a ship.
+However, the law in question applies in exactly the same way to any commercial or domestic insurance policy.
+Insurance against losses plays a very large part in the lives of most people, whether the context is commercial or domestic.
+Increasingly, people do not themselves stand the multifarious risks of loss which inevitably attend daily life but, rather, insure against it.
+Reporting in 2014 after a substantial consultation process, the English and Scottish Law Commissions recorded that: Insurance underpins a healthy and prosperous society, enabling businesses and individuals to protect themselves against risk.
+The UK insurance industry is the third largest in the world, the largest in Europe and a vital part of the UK economy. (Law Com, No 353, para 1.1) The UK insurance market was noted to manage investments amounting to 25% of the UKs total net worth.
+The law has for centuries recognised that special rules need to apply to insurance contracts.
+At the stage when a policy is being taken out, the potential insured will typically know a great deal more about his circumstances, and thus about the risk, than can the insurer to whom he is applying.
+The response of the common law to this truth was to develop the rule that a contract for insurance must be conducted on both sides in the utmost good faith.
+In particular, when the contract is in negotiation the general common law rule was that the applicant must volunteer to the insurer, whether he is asked or not, anything which he knows or ought to know and which a prudent insurer would regard as relevant to the assessment of the risk.
+The consequence of breach, at common law, was that the insurer is entitled to avoid the policy altogether.
+When the law of insurance as it applied to marine contracts was codified by the Marine Insurance Act 1906, this rule of utmost good faith was repeated in section 17, which read: 17.
+A contract of marine insurance is a contract based upon the utmost good faith, and, if the utmost good faith be not observed by either party, the contract may be avoided by the other party.
+This provision was declaratory of the common law relating to insurance generally.
+As will be seen, this common law/statutory rule has recently been modified by statute, differentially for consumer insurance and non consumer policies, but exacting duties of disclosure are still imposed on the applicant for insurance at the pre contract stage.
+Otherwise, no doubt, the consequence would either be difficulty obtaining insurance or, more likely, demands for higher premiums.
+At the later stage when a claim is made, the policyholder will also typically know a good deal more about the facts which give rise to the claim than the insurers possibly can, whether the claim arises out of a motor accident, a burglary, fire damage to a factory or warehouse, the loss of luggage on holiday or the ingress of seawater into a ship.
+Insured loss is generally adventitious.
+It may occur anywhere in the world and with or without witnesses.
+Only sometimes will thorough investigation of the circumstances of the claimed loss be a realistic option for insurers.
+Moreover, it is very much in the interest of policyholders generally that when a claim arises, it should be accepted promptly by the insurers, payment should be made, and business or private life should be allowed to resume with the loss repaired.
+Typically, insurers market their policies in part by advertising what they assert to be their prompt and uncomplicated response to claims.
+If such is to be the response to claims, insurers must take the claiming insured to a considerable extent on trust.
+Furthermore, if claims have to be investigated in detail and routinely verified by insurers, the cost of the systems necessary to do this will fall on policyholders generally through increased premiums, and good claims will be delayed alongside the bad.
+The response of the common law to these truths was the development of the fraudulent claims rule.
+It is a rule of law, imposed by the courts whether or not the policy contains a clause to the same effect, although many do and more used to do in the early days of insurance when the rule was developing.
+It seems more realistic to acknowledge it as having achieved the status of a rule of common law, grounded in sound policy, rather than depending on an implied term in the contract.
+Apart from any other reason, it seems far from clear that in every case such an implied term would meet the tests of obviousness or business necessity.
+To anticipate, it will be seen that the recent legislation in relation to consumer and non consumer insurance preserves the fraudulent claims rule, but without resolving the question raised in the present case about its extent.
+The very clear rationale of the fraudulent claims rule is the need to discourage fraud in claims.
+It is notorious that such fraud is endemic.
+The problem is longstanding, but if anything the evidence suggests that it is increasing rather than diminishing.
+Recent concerns, chiefly about the connected problem of fraudulent third party claims against insurers (generally alleging personal injury) led to a government established task force formed of representatives of all principal interests.
+It accepted an Association of British Insurers estimate of between 1.32 billon and 2.1 billon per annum as a likely level of dishonestly inflated or totally fictitious claims: Insurance Fraud Taskforce Final Report PU 1891 January 2016.
+Although that estimated figure did not distinguish between fraudulent claims by policyholders and those made by third parties, the two species of fraud clearly exhibit shared features.
+Reviewing the same problem specifically in the context of claims by policyholders, the English and Scottish Law Commissions had concluded just a few months earlier that fraudulent insurance claims are a serious and expensive problem: Insurance Contract Law: Law Com 353 (July 2014) paragraph 19.1.
+Part of the reason for the level of fraud may be that it is too easy, for in many cases the prospect of discovery may be poor.
+Another part seems likely to be a prevalent feeling that insurance companies are fair game and deception of them effectively victimless.
+Although that perception is quite false, since the cost of fraudulent claims is in effect distributed amongst policyholders generally via increased premiums, it is likely that it is one widely shared.
+An unacceptably high level of fictitious and dishonestly inflated claims thus forms part of the background against which the proper ambit of the fraudulent claims rule falls to be considered.
+The occasion of the claim in this case
+The insured claimants were the owners of a cargo ship the DC Merwestone (the vessel).
+At about 0930 on 27 January 2010 she left Klaipeda in Lithuania bound for Bilbao.
+From just before 2100 on the following evening, 28 January, seawater was seen to be pushing up through the floor plates in the engine room.
+By just before 0300 on 30 January, about 30 hours later, the main engine was fully submerged and stopped working.
+Later that morning a tug came alongside and the vessel was towed to Gdynia.
+The main engine was damaged beyond repair.
+The owners were insured against loss under a marine insurance policy.
+At the trial before Popplewell J there was dispute about what had occurred and whether it was or was not covered by the policy.
+The judge set out his findings of fact and his construction of the terms of the policy in a careful and comprehensive judgment, and neither has been subject to appeal.
+Accordingly, it is enough now to record that the cover extended to loss attributable to crew negligence, unless the owners were personally guilty of want of due diligence, and that it extended to unseaworthiness unless, the owners were personally privy to it.
+The details of what had occurred can similarly now be much abbreviated.
+The vessel had a duct keel tunnel running more or less its full length in a central position, from the bowthruster room in the foreship to the engine room in the aft.
+Before leaving Klaipeda the crew had used an emergency fire hose and pump, housed in the bowthruster room, to blast ice from the hatch covers, but had negligently failed to drain seawater from the pump when they finished, nor had they closed the sea inlet valve to the pump.
+The water froze and expanded, cracking the pump casing and disturbing the seal on the filter.
+That left two holes in the bowthruster room, open to the sea.
+After the vessel sailed, the water melted and seawater entered the bowthruster room.
+From there it ran along the duct keel tunnel and into the engine room, which it was able to do because apertures at each end, through which cables passed, had not been packed or sealed.
+The lack of seals had been the responsibility of contractors who had modified the vessel.
+In the engine room there were pumps which ought to have been able to cope with pumping out the water which entered via the duct keel tunnel, but they were defective.
+Accordingly the causes of the damage were crew negligence, contractors negligence and unseaworthy pumps.
+The judge determined that the owners were not personally guilty of want of due diligence, nor privy to the unseaworthiness.
+It followed that the claim was covered by the policy.
+Whilst that is now accepted to be the position, both the facts of the casualty and the import of the policy were heavily in dispute at the trial.
+The insurers disputed liability under the policy for a raft of different reasons.
+On any view, the casualty ought not to have happened, and seaworthiness and the owners possible privity to it were bound to come under active consideration, as must have been apparent to them.
+It was with this background of a claim which was likely to be disputed, and in due course was disputed, that one of the owners principal directors recklessly misled the insurers with the false statement which amounted to a fraudulent device.
+The fraudulent device
+The insurers were understandably sceptical about how the flooding could have resulted from a relatively small leak in the bowthruster room.
+They made specific written inquiries about a number of matters relating to this and to seaworthiness, included amongst which was a request for the owners explanation of the ingress of the water and the failure of the pumps to control it.
+By a letter of 21 April 2010, written by way of answer, the owners director Chris Kornet asserted amongst other things that the bilge alarm had sounded at around 1200 on 28 January, that is to say about nine hours before the water was seen to be under the floor plates of the engine room.
+No action had been taken in relation to the sounding alarm, he said, because it was attributed to the ship rolling in heavy seas.
+When, later, he was asked the source of these assertions, Mr Kornet said that he had been given this information by the Master and crew.
+These statements were untrue.
+The alarm had not sounded before about 2100, nine hours later, and Mr Kornet had not been told by the Master or crew that it had.
+Later, after Mr Kornet had spoken to him, the Master fell into line with what had been reported to the insurers, but it was not in fact correct.
+The judge concluded that Mr Kornet had convinced himself that the alarm must have gone off at about the time he asserted, and that his proffered explanation (heavy seas) for non investigation was plausible.
+Nevertheless, even on these findings, the false assertions were, as the judge found, reckless.
+The false statements were made when Mr Kornet was frustrated that the insurers were not paying up immediately.
+They were intended to reassure the insurers that the ship was not unseaworthy and in particular that its alarm systems were working satisfactorily.
+Otherwise the insurers were, as he knew, likely to focus on the state of the ship and the possible privity of the owners to any unseaworthiness.
+As it turned out, these false statements made no difference to the claim.
+The causes of the water ingress were not altered by whether the bilge alarm had sounded earlier than it did or not, nor did it make any difference whether or not the Master and crew had told Mr Kornet that it had gone off.
+The fraudulent claims rule and the duty of good faith
+It seems likely that the fraudulent claims rule developed as a matter of history from the general rule that the parties to a contract of insurance owe each other the duty to act with the utmost good faith.
+In the present case, in the Court of Appeal, Christopher Clarke LJ accepted this as the juridical basis for the fraudulent claims rule: see para 77.
+In the past it has from time to time been assumed, in cases where any difference between the two rules did not fall for examination, that the fraudulent claims rule was simply a manifestation of the rule of good faith.
+That assumption was made in passing in the classic direction to the jury of Willes J in Britton v Royal Insurance Co (1866) 4 F & F 905, quoted by Lord Sumption at para 7 above, doubtless for the very good reason that the judge was directing the jury as to the law to be applied rather than embarking on a general lecture upon legal theory.
+A similar assumption then figured in the judgments in both Orapko v Barclays Insurance Services Co Ltd [1995] 1 LRLR 443 and Galloway v Guardian Royal Exchange (UK) Ltd [1999] Lloyds Rep 209.
+But in none of those cases did any question of difference between the two rules arise.
+In each of the three there was fraudulent exaggeration of the claim, and indeed in the last two cases also non disclosure pre contract.
+In fact, there are significant differences between the two rules.
+If it were the case that the pre contract duty of good faith continues unaltered post contract, that would no doubt support the contention that the fraudulent claims rule embraces collateral lies deployed in support of a legally sound claim.
+The collateral lie would be a breach of good faith and, as Lord Sumption says at para 8, the consequence of an unaltered duty of good faith would be that the collateral lie would entitle the insurer to avoid the whole policy, and not simply for the future but ab initio.
+If that were so, the claim would fall with the policy.
+It has, however, been clear for many years, and is now indisputable following Manifest Shipping Co Ltd v Uni Polaris Insurance Co Ltd (The Star Sea) [2001] UKHL 1; [2003] 1 AC 469, that although some duty of good faith continues post contract, it differs significantly from the pre contract rule both as to the obligation which it imposes and as to the remedy for breach.
+There is, for example, no continuing duty on the insured to disclose information which comes to the actual or constructive knowledge of the insured after the cover was issued see Cory v Patton (1872) LR7 QB 304, Lishman v Northern Maritime Insurance Co (1875) LR 10 CP 179, Niger Co Ltd v Guardian Assurance Co Ltd (1922) 13 Lloyds Rep 75 and New Hampshire Insurance Co v MGN Ltd [1997] LRLR 24, all confirmed in The Star Sea.
+There is no occasion in the present case to pursue the elusive matter of definitive analysis of the content of the post contract duty of good faith, for it is enough that it plainly includes the fraudulent claims rule.
+Secondly, any duty of disclosure which may exist post contract ends with the commencement of litigation, when the different rules of court take over; they include, significantly, the concept of legal privilege.
+Thirdly and for present purposes most importantly, as The Star Sea makes clear, the remedy for post contract fraud in the making of the claim is loss of the claim, not avoidance of the whole policy.
+All of that means that one cannot answer the question in the present case by predicating it on the basis that the fraudulent claims rule is merely a manifestation of the duty of utmost good faith.
+Whilst the fraudulent claims rule is confirmed by The Star Sea, that case leaves open the present issue, namely what kind of fraud is caught by it.
+Moreover, the recent legislation (see below) treats the rules of good faith and fraudulent claims differently.
+It modifies the rule of utmost good faith but leaves the fraudulent claims rule untouched.
+Fraudulent devices: authority
+In Agapitos v Agnew (The Aegeon) [2002] EWCA Civ 247; [2003] QB 556, in the course of a thorough review of the question here in issue, Mance LJ, as he then was, justly observed at para 22 that there is a dearth of convincing authority either for or against the inclusion of fraudulent devices within the fraudulent claims rule.
+There is no direct decision against inclusion.
+At first instance in Royal Boskalis Rix J expressed strong obiter doubts about it.
+That case did concern falsity in the presentation of the claim which could properly be analysed as a collateral lie.
+It amounted to deliberate concealment of the terms on which the ship had been extracted from Iraq.
+The lie was told for fear that the insurers would try to rely on illegality if the truth were revealed, but on the judges ruling the validity of the claim was not affected by the falsity.
+Thus, the concealment was collateral because the claim was good.
+At [1997] LRLR 523, 592, Rix J said: Whatever be the precise definition and ambit of the concept of a fraudulent claim, there was no such claim here.
+I am in the process of finding that the sue and labour claim was and is a good and valid claim.
+It is not a false or fraudulent claim.
+It is totally unlike those instances of fraudulent claim to be found in the authorities, such as claims in respect of deliberately self inflicted or pretended losses, or claims in amounts which are knowingly or recklessly exaggerated: see, for instance, Goulstone v Royal Insurance Co (1858) 1 F & F 276 . or The Captain Panagos DP [1986] 2 Lloyds Rep 470, 511, where Evans J defined a fraudulent claim as one which is made on the basis that facts exist which constitute a loss by an insured peril, when to the knowledge of the assured those alleged facts are untrue I doubt that it is every knowingly or recklessly false statement made in the context of a claim which renders that claim a fraudulent claim for the purpose of the doctrine whereby the making of a fraudulent claim leads to the automatic forfeiture of the whole policy under which the claim is made.
+However, that case was not decided by the judge on the basis of the fraudulent claims rule, and he refused a late application by the insurers to allege fraud.
+It was decided on the basis of the scope of the duty of good faith.
+When in due course it reached the Court of Appeal, the decision was reversed on different grounds and the present issue did not arise for discussion.
+For the reasons explained by Mance LJ at para 28 in The Aegeon, there is no significant assistance to be had on the present issue from Piermay Shipping Co SA v Chester (The Michael) [1979] 2 Lloyds Rep 1.
+In The Star Sea the House was clearly exercised by the risk of disproportionately severe remedies, which risk tends to support a policy argument against inclusion.
+On the other hand, to the extent that the decision concludes that there is an obligation on the insured to treat his insurer with honesty when making a claim, it is capable of supporting inclusion, as perhaps may Lord Hobhouses parting remarks on the topic at para 72, emphasising the fundamental impact which fraud has on the relationship under insurance contracts.
+But the present issue simply did not arise and was not discussed.
+The much criticised decision in Black King Shipping Corpn and Wayang (Panama) SA v Massie (The Litsion Pride) [1985] 1 Lloyds Rep 437 did assume that the lie there told defeated the claim, and in The Mercandian Continent at para 29 Longmore LJ (obiter) treated the decision as justified by the fraudulent claims rule.
+But Hirst J did not so base it, reasoning instead from the duty of good faith, and this was roundly rejected in The Star Sea at para 71.
+The treatment of The Litsion Pride by Lord Hobhouse in The Star Sea is, to my mind, more consistent with the exclusion of collateral lies from the fraudulent claims rule than with their inclusion.
+At para 71, Lord Hobhouse said of the earlier case; In so far as it is based upon the principle of the irrecoverability of fraudulent claims, the decision is questionable upon the facts since the actual claim made was a valid claim for a loss which had occurred and had been caused by a peril insured against when the vessel was covered by a held covered clause.
+True it is that Lord Hobhouse then added: It is not necessary to examine whether there might or might not have been some other basis upon which the case could be decided in favour of the insurer as one feels it clearly ought to have been.
+It is not at all clear what route towards a finding for the insurers in The Litsion Pride Lord Hobhouse had in mind, but it does not seem likely that he can have been assuming that a collateral lie relating to the claim would have provided it, for then he could not easily have made the first observation.
+With hindsight, it may be that the better analysis of The Litsion Pride is that the lie told was not part of the presentation of the claim at all, but rather part of a dishonest antecedent attempt to avoid liability to pay the additional premium for taking the ship into a war zone.
+Likewise the present point was far from arising in The Mercandian Continent, where the lie was in no sense part of the presentation of the claim, indeed was not even directed to the insurers, but rather amounted to a misplaced attempt to serve their interests.
+In summary, authority for inclusion of fraudulent devices within the rule boils down to a possibly relevant dictum of Lord Sumner in Lek v Matthews (1927) 29 Lloyds List Rep 141 and a first instance trial before Roche J in Wisenthal v World Auxiliary Insurance Corp Ltd (1930) 38 Lloyds List Rep 54, plus the considered obiter view of the Court of Appeal in The Aegeon itself.
+Lek v Matthews concerned a claim by a stamp collector for valuable stamps lost by theft.
+The theft had genuinely occurred and many stamps had been stolen.
+But in the course of quantifying the claim, the insured listed a substantial number of stamps which he knew he had never had.
+The trial judge, Branson J, held that he had been fraudulent and that his claim accordingly failed.
+In the Court of Appeal the collector succeeded in persuading Atkin and Bankes LJJ that he had not been fraudulent, although Scrutton LJ disagreed.
+The House of Lords restored the decision of Branson J.
+The judgments at every stage are long and heavily detailed as to fact and evidence.
+It is apparent that there was in some quarters a good measure of judicial sympathy for the claimant, on the grounds that he was a man of wealth and good reputation, who had certainly suffered the theft.
+The basis of the Court of Appeal decision was, in part, the conclusion of Atkin LJ that Mr Lek had not been dishonest, and thus not fraudulent, if he had genuinely believed that he was entitled to the sum which he claimed, and whether or not he had knowingly or recklessly included stamps which he had never had.
+Although Lord Phillimore dissented in restoring the finding of fraud, all three members of the House of Lords rejected this Atkin approach to the meaning of fraud, thus perhaps to an extent anticipating the debate many years later in the line of cases which includes Royal Brunei Airlines Sdn Bhd v Tan [1995] 2 AC 378 and Barlow Clowes International Ltd v Eurotrust International Ltd [2005] UKPC 37; [2006] 1 WLR 1476.
+Atkin LJ offered this example at (1926) 25 Lloyds Rep 544: In the course of adumbrating the later overruled view of dishonesty/fraud, The owner of a picture may have valued it at its true value, and may have had undoubted loss by theft.
+At the same time he may be unwilling to disclose how he acquired it, and in answer to underwriters may give a false account of its purchase.
+Such a falsehood, however blameworthy, seems to me on the supposed facts to afford no evidence of a fraudulent claim.
+Referring to this, Lord Sumner said in the House of Lords at 163 164: If a man has claimed for the loss of things which he knew he had not got, I think it is a contradiction in terms to say that he may have honestly believed in his claim.
+What is the use of a clause of defeasance in case a false claim is made, if we are to say that answers which violate this contractual clause and the most obvious rules of honesty as well do not matter so long as Mr Lek was convinced that he ought to win? It simply means that if he decides his own case in his own mind in his own favour and is persuaded that he is right (as anyone might be), falsehood in securing the victory does not matter.
+The learned Lord Justice gives an illustration about a picture, which shows, I think, that he had in his mind a case of misstatements on purely collateral matters.
+Even so, I could not agree: but these present matters are not collateral; they are of the essence.
+Atkin LJs picture illustration was plainly offered in support of his theory of fraud.
+It was not related to any issue as to collateral lies.
+The fraud practised by Mr Lek could not on any view be regarded as a mere collateral fraud, for it pretended that items had been lost which had never been there to be stolen.
+I respectfully agree entirely with Lord Mance (para 128) that there is no difficulty whatever in describing what Mr Lek did as fraudulent, whether or not he believed that he was morally justified in doing it.
+But the question which we face in the present case is not whether a collateral lie is dishonest (or fraudulent) but whether it brings the consequence that the whole claim fails.
+As to that, it is perhaps possible that in his brief riposte Lord Sumner may have had in mind the present issue as to collateral lies, but it does not seem particularly likely in a case where the issue was whether there was fraud at all.
+On any view, the present issue did not arise and there is no sign of it having been argued.
+Wisenthal did raise collateral lies.
+The claim was made on a policy insuring valuable furs and skins which were being taken to Glasgow to be auctioned.
+The insurers primary case was that the claimed theft had been carried out with the connivance or privity of the insured and most of the cross examination by Mr Norman Birkett QC on their behalf focussed on issues of credit.
+They also alleged pre contract non disclosure by allowing the insurers to think that daily rental rooms where the sale was to take place were a proper auction house.
+However, the jury answered questions about whether these complaints were made out either not satisfied or no.
+The jury further answered that it was not satisfied that there had been fraudulent exaggeration of the claim.
+The findings which the jury made against the claimant furriers were that (1) they had concealed whatever stock book they had, and had fraudulently told the insurers that there was none, and (2) they had fraudulently concealed a bank account in a name of a relative which was being used habitually for the business, but which name camouflaged the connection.
+The jury also found that it was impossible to put a quantity or value on the merchandise which had been taken.
+On these findings the judge gave judgment for the defendant insurers.
+Although the inability to say what had been stolen would presumably have justified this outcome, it seems clear that the judge took the view that the two collateral frauds specifically found also led to the failure of the claim.
+Otherwise there would have been no need to ask the jury for findings in relation to those complaints.
+Moreover he had directed the jury that it would be sufficient to come within the definition of fraud if deceit had been used in the investigation to secure easier or quicker payment of the money than would have been obtained if the truth had been told.
+Understandably therefore in The Aegeon at para 29 Mance LJ described the case as of interest.
+The report contains no indication that the issue was argued.
+Whether there were other first instance trials at this time which made the same assumption that collateral lies were sufficient to defeat a claim, even in the absence of fiction, complicity in loss, or exaggeration, is not known.
+The considered view of the Court of Appeal in The Aegeon was that the fraudulent claims rule did include fraudulent devices, differing on this point from the view of Toulson J (as he then was) at first instance.
+The case proceeded on a preliminary point of pleading, and the views on the present issue were technically obiter, because the fraud had been committed after the commencement of litigation, and on the basis of The Star Sea it was held that the fraudulent claims rule, whatever its scope, did not apply after that point.
+Although expressed at para 45 as a tentative view, the conclusion on the present issue was nevertheless fully reasoned and thorough.
+It depended not so much on authority, which as has been seen was scanty and equivocal, but upon reasoning from principle.
+The governing consideration seems to have been that the insured would otherwise enjoy the advantage of what has become known as the one way bet: see especially paras 20 and 37.
+The conclusion reached in The Aegeon has been assumed subsequently to represent the law in cases both at first instance and on appeal, but in none of them was the point put in issue and in several it could not have arisen for decision.
+Sharons Bakery (Europe) Ltd v AXA Insurance UK plc [2011] EWHC 210 (Comm); [2012] Lloyds Rep IR 164, was a case of material non disclosure at inception of cover of the fact that a finance company had been deceived into advancing finance, although the same bogus invoices had also been submitted in support of a subsequent claim in relation to a fire which had genuinely happened.
+The policy was held by Blair J to be avoidable for the non disclosure, irrespective of the fraudulent device employed in support of the claim.
+Moreover in that case there was an express clause avoiding the policy in the event of fraudulent devices, so that the general law was not in point.
+Similarly, in Bate v Aviva Insurance UK Ltd [2014] EWCA Civ 334; [2014] Lloyds Rep IR 527 the policy was avoidable for (fraudulent) non disclosure quite apart from that non disclosure being untruthfully denied when a subsequent claim was made.
+Apart from the facts that the judge found the latter fraudulent device, and that the Court of Appeal upheld his decision, the present issue was simply not discussed.
+Likewise, although in AXA General Insurance Ltd v Gottlieb [2005] EWCA Civ 112; [2005] 1 All ER 445 the Court of Appeal (per Mance LJ) re stated the conclusion in The Aegeon, the fraud in that case consisted in asserting payments made for alternative accommodation and electrical work when those payments had never been made; the case was one of fraudulent claim properly so called and what was at issue was the extent to which insurers could recover sums previously paid under the policy.
+Aviva Insurance Ltd v Brown [2012] Lloyds Rep IR 211 was another case of a fraudulent claim rather than of fraudulent device.
+The claim was for rent allegedly paid out for alternative accommodation when there was no question of payment because the policy holder himself owned the house in question.
+That he might have made an entirely different claim for the loss of rental which might otherwise have been paid by a third party tenant does not alter the fact that this was a fraudulent claim; if he had sought to make that quite different case he would have had to show that the house would otherwise have been rented out.
+The correctness of The Aegeon was not debated, although whether the fraud was sufficiently connected to the claim, and/or sufficiently serious, was.
+The clearest case of direct application of The Aegeon is Stemson v AMP General Insurance (NZ) Ltd [2006] UKPC 30; [2006] 1 Lloyds Rep IR 852.
+The principal decision of the Privy Council was that there was no reason to disturb the concurrent findings in both courts below that the insured had himself started the house fire on which the claim was predicated.
+He had, however, also lied to the insurers during the investigation by claiming, falsely, that he had not previously contemplated sale of the house, when in fact he had indeed done so under considerable financial pressure.
+The Board upheld the judges decision that this lie was, as well as clearly relevant to the conclusion that the insured started the fire, an independent reason why the claim failed.
+The judgment of Lord Mance records, however, at para 121 that the law as stated in The Aegeon had not been questioned in argument.
+The real issue was whether the finding that the claim was wholly bogus could stand.
+Lastly, in Summers v Fairclough Homes Ltd [2012] UKSC 26; [2012] 1 WLR 2004 the Supreme Court dealt with the law relating to fraudulent third party claims against insurers.
+It is true that at para 29 Lord Clarke, giving the judgment of the court, distinguished the law as between parties to an insurance contract, and that in doing so he included The Aegeon in his list of cases demonstrating the fraudulent claims rule in such cases.
+But that cannot realistically be treated as expressing any view on the present issue.
+The personal injuries claimant in Summers made a bogus claim, alleging that he was grossly disabled when in fact he was working and playing football, and on this basis claimed approximately eight times what his case was truly worth.
+The court referred to the fraudulent claims rule in insurance only to distinguish it from the law applicable to third party claims.
+Plainly, the fact that The Aegeon has been assumed to represent the law, and indeed has not been questioned, is of some relevance to the present issue.
+But the present case appears to be the first time since that decision that any court has heard argument about it, and certainly the first time that either this court or the House of Lords has been required to confront the issue.
+The essential question is whether The Aegeon was right.
+Authority: other jurisdictions
+As Lord Sumption records, Australian cases demonstrate a difference of opinion on the present issue.
+That the second of them involved construction of a statute whereas the first did not does not affect this position.
+Just as does the English statute (see below), the Australian Act left open the meaning of claim made fraudulently and thus the present issue.
+Materiality
+Materiality is a concept of central importance to the law of pre contract disclosure, founded on the duty of utmost good faith: Pan Atlantic Insurance Co Ltd v Pine Top Insurance Co Ltd [1995] 1 AC 501.
+It means something significant which the proposer knows, or ought to know, but the insurer does not.
+If that unknown something would affect the decision of a hypothetical insurer whether to take the risk or not, or on what terms to do so, it is material in the sense there used.
+Can materiality in this sense be read across to the later stage of a claim being made, and if it can, does it assist in providing the answer to the present issue as to whether fraudulent devices are included in the fraudulent claims rule?
+In Royal Boskalis, Rix J thought, at 597 598, that it was not apparent how the concept of materiality was to apply at the stage of a claim made under the policy.
+He added that an obstacle to transposing materiality of fraud from the pre contract to the claims stage lies in the fact that by definition at the latter stage it will arise only when the fraud has been detected.
+But the debate in his case was being conducted before The Star Sea reached the House of Lords.
+It was being conducted in the context of an issue about whether the pre contract duty of good faith continued unaltered to the post contract stage of the making of a claim, and with it the right to avoid the policy altogether for breach.
+I do not think that the discovery of the truth is necessarily the difference between the pre and post contract stages.
+True it is that by the time there is a question whether a lie told in support of a claim does or does not defeat that claim, the lie will normally have been discovered.
+But the same is true of a failure of pre contract disclosure.
+By the time there is a question whether it justifies the insurer in avoiding the contract, the truth will normally have been discovered.
+The insurer avoids the policy, or seeks to do so, because he has found out what he was not told during the negotiations leading to it.
+It is not difficult in most situations to ask, a propos the collateral lie, whether it was told intending the insurer to act in reliance on it, nor whether it did in fact affect the insurers behaviour during the period before he found out the truth.
+There may be the occasional case of a lie which is simply irrelevant to the laying of the claim and is told for some different reason, such as the lies in The Litsion Pride (to hide the fact that the insured had been trying to evade his liability to pay the additional premium) and The Mercandian Continent (to support the insurers wish to litigate in Trinidad rather than in London).
+The genuinely burgled householder who was unquestionably absent at the time but lies about where he was to avoid domestic embarrassment would be another example.
+But leaving aside such wholly irrelevant lies, generally speaking a lie told in the making of the claim, whether collateral or otherwise, is told with the aim of affecting the behaviour of the insurer.
+That is the whole point of it.
+The aim may be to speed up the acceptance of liability, or to avoid further enquiry, or there may be many other reasons.
+And the insurer, before he learns the truth, may be influenced in his behaviour in these or other ways, by the lie.
+The important difference between the pre and post contract (claim) stages lies in the power of decision in the hands of the insurer.
+Pre contract, he is free to take or to refuse the risk.
+A failure of disclosure or false statement deprives him of the opportunity to consider something.
+If it might have affected his decision, it is material.
+And if he had known the truth, he would have had a perfect right to refuse to issue the policy.
+Post contract, the insurer has no such freedom of choice.
+If the claim is good, he is legally obliged to pay it.
+A lie told in the making of the claim may well affect his handling of the claim, or the speed at which he pays it, or the inquiries which he calls for, but it can make no difference to his liability to pay.
+It may well be material (relevant) to his behaviour, but it is immaterial (irrelevant) to his liability.
+So materiality means something different at the two stages.
+The question is: material to what? For this reason, I respectfully agree with Rix Js conclusion that the concept cannot simply be transposed to the post contract situation.
+It does not migrate unchanged between the two stages, any more than the duty of good faith does.
+It is therefore possible to say, as Lord Sumption explains, that materiality used in the different sense of relevance to liability provides the answer to the issue in the present case.
+The collateral lie is immaterial to the liability of the insurer.
+In analysing the issue in that way one is, in a sense, re stating the question: does a collateral lie defeat the claim? But one is also focussing on the critical difference between the collateral lie and the false or exaggerated claim.
+The collateral lie is certainly told with the aim of improving the position of the liar, but in fact and in law it makes no difference to the validity of his claim whether it is accepted or found out.
+The false or exaggerated claim is also made with the aim of improving the position of the liar, but if accepted it provides him with something to which he is not entitled in law.
+Lest it be thought that to state the present issue only in terms of materiality is to re state rather than to answer the question, it is helpful to address the underlying policy of the law.
+This becomes relevant in any event since the rule that the exaggerated claim fails altogether can only be because, as a matter of policy, severance is refused in law even where the exaggerated part is eminently severable in fact (as for example where an additional valuable has been added to the list of items lost, just as Mr Lek added stamps he had never had).
+The rationale of the fraudulent claims rule
+There is no doubt that the purpose of the fraudulent claims rule is to discourage fraud, having regard to the particular vulnerability of insurers.
+This rationale has frequently been reiterated.
+In Galloway v Guardian Royal Exchange (UK) Ltd [1990] Lloyds Rep IR 209, 214, it was expressed thus by Millett LJ at 214: The making of dishonest insurance claims has become all too common.
+There seems to be a widespread belief that insurance companies are fair game, and that defrauding them is not morally reprehensible.
+The rule which we are asked to enforce today may appear to some to be harsh, but it is in my opinion a necessary and salutary rule which deserves to be better known by the public.
+I for my part would be most unwilling to dilute it in any way.
+And in The Star Sea Lord Hobhouse said this at para 62: The logic is simple.
+The fraudulent insured must not be allowed to think: if the fraud is successful, then I will gain; if it is unsuccessful, I will lose nothing.
+This latter formulation of the justification for the rule, which has often been repeated, gives rise to the commonly used shorthand that the fraudulent insured must not be allowed a one way bet.
+It was the principal argument relied upon by the insurers in The Aegeon and in the present case for the inclusion of collateral lies within the rule.
+The need for such a rule, severe as it is, has in no sense diminished over the years.
+On the contrary, Parliament has only recently legislated to apply a version of it to the allied social problem of fraudulent third party personal injuries claims.
+Section 57 of the Criminal Justice and Courts Act 2015 provides that in a case where such a claim has been exaggerated by a fundamentally dishonest claimant, the court is to dismiss the claim altogether, including any unexaggerated part, unless satisfied that substantial injustice would thereby be done to him.
+Parliament has thus gone further than this court was able to do in Summers v Fairclough Homes.
+Severe as the rule is, these considerations demonstrate that there is no occasion to depart from its very long established status in relation to fraudulent claims, properly so called.
+It is plain that it applies as explained by Mance LJ in The Aegeon at paras 15 18.
+In particular, it must encompass the case of the claimant insured who at the outset of the claim acts honestly, but who maintains the claim after he knows that it is fraudulent in whole or in part.
+The insured who originally thought he had lost valuable jewellery in a theft, but afterwards finds it in a drawer yet maintains the now fraudulent assertion that it was stolen, is plainly within the rule.
+Likewise, the rule plainly encompasses fraud going to a potential defence to the claim.
+Nor can there be any room for the rule being in some way limited by consideration of how dishonest the fraud was, if it was material in the sense explained above; that would leave the rule hopelessly vague.
+Nevertheless, the severity of the rule is an important consideration.
+Addressing the related (but distinct) rule of utmost good faith as applied post contract, and its even more severe sanction of avoidance of the policy ab initio, Lord Hobhouse in The Star Sea warned at para 51 of the dangers of remedies becoming disproportionate to the breach of duty.
+That consideration underlay the conclusion that the content of the duty of good faith did not extend to mere non disclosure post contract.
+When speaking of the fraudulent claims rule, he returned to the point at para 61: The courts should likewise be prepared to examine the application of any such principle to the particular class of situation to see to what extent its application would reflect principles of public policy or the over riding needs of justice.
+Where the application of the proposed principle would simply serve the interests of one party and do so in a disproportionate fashion, it is right to question whether the principle has been correctly formulated or is being correctly applied.
+In their 2014 report (para 54 supra) the Law Commissions referred at paragraph 1.25 to the same consideration.
+They said: The 1906 Act is insurer friendly.
+The principles were developed at a time when the insured knew their business while the insurer did not, and were designed to protect the fledgling insurance industry against exploitation by the insured.
+Where a policyholder is in breach of an obligation, the law gives wide ranging opportunities for the insurer to avoid the contract and refuse all claims, or to treat its liability as discharged, even where the remedy seems out of proportion to the wrong done by the policyholder.
+They also noted that the strict legal entitlement of insurers was not always mirrored by best market practice as to enforcement of remedies.
+There is self evidently a much greater risk of disproportionate remedy when the claimant is legally entitled to everything which he claims.
+Nor is the proposition that the fraudulent claimant has a one way bet entirely accurate.
+He does not stand to lose nothing at all if found out.
+He will commit a criminal offence, although the risk of prosecution is relatively slight, even after some well publicised recent trials, especially if he stood to gain nothing to which he was not entitled, and it may not operate as a significant sanction in many cases.
+The same may well be true of the potential to be held liable in damages to the insurers.
+Even, however, if those risks are regarded as comparatively remote, and are disregarded, the consequence of discovery is not limited to them.
+The insured who is shown to have acted fraudulently will, first of all, forfeit all or most of his credibility in any debate, in court or out of it, as to his entitlement under the policy.
+He will probably be disbelieved even where he is telling the truth.
+Secondly, if there is litigation in relation to the claim, he will be likely to be penalised by expensive inter partes costs orders as a result of his fraud.
+Thirdly, the policy is likely to be terminated by the insurers, at least prospectively.
+Fourthly, the history will be disclosable in any other insurance proposal which the claimant may make.
+He is likely to be refused insurance, or to have to pay a good deal more for it than others must.
+These are, cumulatively, significant sanctions.
+These sanctions also apply, of course, to the insured who advances a fraudulent claim, properly so called.
+But the fact that they may be visited both on him and on the teller of a collateral lie does not answer the question whether the additional sanction of forfeiture of the claim is equally proportionate for both cases.
+It is not.
+Likewise, the wish to deter the one way bet can be applied to the collateral lie, as it can to fraudulent claims properly so called.
+But there is plainly a difference of quality between the insured who deals fraudulently with his insurer in an attempt to gain something to which he is not entitled, and the insured who dishonestly gilds the lily with a lie or falsified evidence, but stands thereby to obtain nothing more than was his legal due.
+Courts meet daily the party who gilds the lily with a lie, and have become used to warning themselves that his case will be damaged severely as a result, but may not nevertheless be altogether bad.
+It becomes necessary to ask whether the undoubtedly severe rule is required to meet the second category of case.
+Given the other consequences which are likely to be visited on the perpetrator of a collateral lie, the sanction of loss of the entire (but valid) claim is disproportionate.
+It is otherwise if the claim is wholly or partially false; in that event these other consequences are not a sufficient sanction.
+The extension of forfeiture to a purely collateral lie is not justified as part of a generally imposed legal rule irrespective of any expressly agreed term of the policy.
+It is simply too large a sledgehammer for the nut involved.
+That conclusion is consistent with the manner in which the common law rule of fraudulent claims has evolved to exclude from its operation fraud committed after litigation has begun.
+That limitation was derived in The Aegeon from The Star Sea, but is in fact not compelled by it since the earlier case concerned non disclosure rather than fraudulent claims.
+It has been assumed in the present case to be correct.
+This important limitation cannot be based on anything but policy and a conclusion that without it the remedy would be disproportionate.
+It would be perfectly logical to say that whilst of course the separate rules of court regime for disclosure, considered in The Star Sea, overtakes the duty of good faith once litigation is begun, a duty to abstain from fraud is not in the least inconsistent with the regime attending litigation and its eventual resolution by trial.
+Indeed, there is a passing observation to that effect in the speech of Lord Sumner in Lek v Matthews at p 145, where he appears to have assumed, obiter, that the fraudulent claims rule would apply to false statements made at trial.
+The reason for the limitation now accepted must be that it would be altogether disproportionate for the insurers to be vouchsafed a new defence to the whole claim if, for example, under pressure in the witness box on the second day of the trial, the claimant were to utter a demonstrable untruth going to the claim.
+The basis of this important limitation must be that the courts should be left to deal in the other ways available to them with fraud in the course of litigation, for which they have adequate sanctions.
+The conclusion here arrived at is also consistent with the recent treatment of the law of insurance by Parliament, acting on the recommendation of the Law Commission.
+Consumer insurance contracts are now dealt with by the Consumer Insurance (Disclosure and Representations) Act 2012, already in force.
+The Insurance Act 2015, soon to come into force, deals with both commercial and consumer contracts.
+The effect of the statutes is to separate the duty of good faith from the law relating to fraudulent claims.
+Both abolish the rule previously codified in section 17 of the Marine Insurance Act 1906 providing for avoidance ab initio for breach of the duty of good faith, although the manner in which the continuing duty of disclosure pre contract is expressed differs as between consumer and commercial contracts.
+Section 12 of the 2015 Act deals with fraudulent claims.
+It preserves the rule that the fraudulent claimant recovers nothing, including any unexaggerated element.
+It takes the opportunity to limit the right of the insurer to avoid the whole policy to a prospective one.
+But like the Law Commissions, the Act deliberately leaves open the scope of the fraudulent claims rule, and in particular leaves open the present issue as to whether it extends to fraudulent devices.
+It was clearly contemplated by Parliament that the courts would in due course resolve this question.
+Conclusion
+My conclusion is, like that of Lord Sumption but for additional reasons, that the fraudulent claims rule is of considerable importance and must be preserved, but that its extension to collateral lies (fraudulent devices) is not based on sound authority and would result in a remedy disproportionate to the breach of duty involved.
+It follows that there is no occasion to consider the separate argument of the claimants based upon article 1 of Protocol 1 to the ECHR.
+LORD TOULSON:
+I agree with Lord Sumption and Lord Hughes in their conclusion and in what I take to be the essential reasoning in both their judgments.
+Lord Sumption at paras 25 and 26 identifies and explains the important difference between a fraudulently exaggerated claim and a justified claim supported by collateral lies.
+In the case of the former, he notes that the court declines to sever the dishonest part of the claim.
+Unlike the curates egg, the claim is not regarded as good in parts.
+The reason for adopting a strict approach is one of deterrence.
+In the case of the latter, Lord Sumption observes that the insured is trying to obtain no more than his legal entitlement, and the lie is irrelevant to the existence or amount of that entitlement.
+As he succinctly puts it, the lie is dishonest but the claim is not.
+Lord Sumption expresses the view, with which I agree, that the immateriality of the lie to the claim makes it not just possible but appropriate to distinguish this from the former case, and that a policy of deterrence does not go so far as to justify the denial of a valid claim by reason of a collateral lie.
+Lord Hughes at para 100 identifies a qualitative difference between the insured who deals dishonestly with his insurer in an attempt to gain something to which he is not entitled and the insured who dishonestly gilds the lily with a lie, but stands thereby to obtain nothing more than his legal due.
+Like Lord Sumption, he does not consider that the policy of deterrence would justify deprival of the insureds legal right of indemnity under the contract of insurance.
+I agree with Lord Hughes that the lie told in the latter case may be material to the insureds conduct, in that it may induce the insurer to accept the claim; but, if so, the insurer will have been induced to pay what it was liable to pay, and the insured will have gained no more than his legal entitlement.
+I agree with Lord Sumption that such a lie should not be regarded as material in the same sense as a lie which goes to the existence or amount of the insureds entitlement.
+It is aptly described as collateral, or irrelevant to the existence and amount of the insurers liability.
+In that critical sense it is immaterial to the parties respective rights and obligations.
+Lord Mance argues that to take this view is to overlook the obvious purpose for which the lie is told and its potential impact on the insurer.
+I recognise, as I have said, that the lie told in support of a true claim may be material to the insurers conduct by influencing him, as intended, to accept the claim, but the distinction which I draw (echoing the judgments of Lord Sumption and Lord Hughes) is between a lie of that nature and one which is material to the insureds entitlement in the sense that it is an attempt to obtain something to which he is not entitled.
+As Lord Hughes has pointed out, to tell lies in support of a valid claim is not risk free.
+Every experienced advocate knows that, as well as being dishonest, it is not a smart thing for a client who has a good cause to try to improve it by lying.
+In criminal cases it is probably a more likely cause of the wrongful conviction of an innocent person than anything else.
+For that reason, it is mandatory for the trial judge to give a Lucas direction (named after R v Lucas (Ruth) [1981] QB 720) in any case where it appears that the defendant may have told lies.
+The jury must be specifically warned that people sometimes lie in an attempt to bolster up a just cause.
+Insurance claims are tried by judges, not juries, but that does not alter the fact that proof that a party has lied is likely to have an extremely deleterious effect on his credibility.
+It is also likely to be reflected in any costs order which the court may make.
+Notwithstanding those risks, people sometimes lie in support of a valid claim, whether under an insurance claim or otherwise; but there is no evidence about the prevalence of lies told in support of valid claims, or about the relative effect of different grades of sanction.
+I am not a psychologist, but I am sceptical about the idea that knowledge of this judgment will incentivise people with valid insurance claims to lie in support of their claims.
+Those who are honest will not do so because it would not be in their nature, while some who are dishonest may do so if they think that they will get away with it, despite the risk of it having a boomerang effect on whether the court believes anything that they say.
+I agree with Lord Mance that integrity on both sides of the claims process is an important consideration.
+So is arriving at a result which is just and reflects the parties legal rights.
+In considering whether as a matter of public policy the courts should apply a draconian rule of denying a right of recovery under a contract of insurance to the insured who tells a lie in support of a valid claim, the court must ultimately be guided by its own sense of what is just and appropriate.
+When all is said and done, that is the critical question on which the court is divided.
+On that question I agree with all that Lord Sumption and Lord Hughes have said.
+LORD MANCE: (dissenting)
+In Agapitos v Agnew (The Aegeon) [2002] EWCA Civ 247; [2003] QB 556, I considered in detail whether, as a matter of policy, the underlying rationale of the fraudulent claim principle should extend to invalidate not merely the whole of a claim where part proves otherwise good, but the whole of a claim where the whole proves good (para 19).
+As I pointed out, the word proves assumes that all aspects of the litigation proceed to trial and, if the use of fraudulent devices constitutes a defence, there may never be such a trial (para 19).
+I concluded, tentatively, that the use of a fraudulent device did give rise to a defence, and the other members of the court (Brooke LJ and Park J) agreed.
+The Court of Appeal in the present case (Christopher Clarke and Vos LJJ and Sir Timothy Lloyd) came to the like result as a matter of ratio after full consideration of the relevant considerations and authorities.
+In the present case, I have had the benefit of reading the differently nuanced judgments prepared by Lord Sumption and Lord Hughes.
+Both wrestle from different angles with the difficulty of describing the use of a fraudulent device as anything other than material to a central underwriting decision that is, the decision whether or not a claim should be settled.
+Insurance is about the assessment of risk and the settlement of claims.
+Both processes depend on good faith and fair information, and both are normally consensual.
+Litigation is neither the aim nor the norm.
+To suggest that a lie which the insured felt necessary to promote settlement of a claim is immaterial or collateral if years later it can be shown that it was after all unnecessary to tell it mistakes the nature of the business and the relationship.
+Further, it is either a non sequitur or at least begs the issue on this appeal to say, as Lord Sumption says, that because an underwriter assessing a claim will attempt to predict what a court would decide, therefore the only rational test of the materiality of a lie must be based on its relevance to a court which is in a position to find the relevant facts.
+On the contrary, since the lie is told to influence the underwriters assessment of what a court would decide and thereby to induce the underwriter to pay the claim, its materiality can perfectly well be, and must in my view be, based on its relevance to that assessment and to the underwriters decision whether to pay: see further 130 below.
+I also differ from Lord Hughess view, on the question whether as a matter of policy the fraudulent claims principle should be seen as extending to or embracing the use of fraudulent devices.
+More specifically, I do not accept that either the factors he deploys in para 98 or general considerations of proportionality in play in the absence of any expressly agreed term of the policy do or should lead to a conclusion that the fraudulent claims principle does not embrace the use of fraudulent devices.
+If and in so far as the factors in para 98 have any real validity or weight as sanctions, they would have it in relation to the established fraudulent claims rule.
+Yet that rule exists notwithstanding them.
+I will not in the circumstances rehearse all the detailed conclusions which lead me to broadly the same conclusion on the appropriate policy and principles now as I expressed tentatively in 2002.
+The only alteration that I might make to the principles which I then identified would be to heighten the threshold test of materiality, rather as Christopher Clarke LJ himself tentatively suggested (para 165), so as to substitute, for the requirement of a not insignificant improvement of the insureds prospects, a requirement of a significant improvement of the insureds prospects, before a claim is barred.
+The relationship of insured and insurer is a special one, in relation to which the good faith or uberrimae fidei has long been fundamental.
+As a special relationship it survived the failure of Lord Mansfields attempt to introduce a general duty of good faith into English contract law.
+It did so rightly because of the general imbalance in information and control and the significance of moral hazard in insurance relationships.
+Insurance fraud is commonplace, often being regarded as a victimless crime in relation to which insurers are fair game.
+Of course, insurers do not always pay claims as speedily as would be desired, but that is not an excuse for fraud, and is something for which a separate remedy is under current legislative scrutiny.
+There is long standing if limited authority for the inclusion of fraudulent devices within the ambit of the fraudulent claims principle.
+In Lek v Matthews (1927) 29 Ll L Rep 141, a case of alleged loss of a stamp collection, the policy provided that, if the assured shall make any claim knowing the same to be false and fraudulent, as regards amount or otherwise, the policy shall become void, and all claims thereunder shall be forfeited: see p 141.
+The underwriters case was that, if there was any loss and even if the assured believed that it amounted in total to the sum claimed, he had supported this amount by including stamps which he knew he did not possess and had not lost.
+In this context, Atkin LJ in the Court of Appeal (1926) 25 Ll L Rep 525, 544 concluded that, so long as the assured believed in his entitlement to the amount claimed, he could not be said to have the intent to defraud the underwriters, which is essential to the underwriters defence, explaining that: From this point of view it appears to me immaterial whether in answering the underwriters interrogatories, whether before or during the action, he gave answers that were inaccurate, reckless or were knowingly false.
+The owner of a picture may have valued it at its true value, and may have had undoubted loss by theft.
+At the same time he may be unwilling to disclose how he acquired it, and in answer to underwriters may give a false account of its purchase.
+Such a falsehood, however blameworthy, seems to me on the supposed facts to afford no evidence of a fraudulent claim.
+This approach was given short shrift in the House of Lords, where Viscount Sumner said rhetorically (pp 163 164): If a man has claimed for the loss of things which he knew he had not got, it is a contradiction in terms to say that he may have honestly believed in his claim.
+What is the use of a clause of defeasance in case a false claim is made, if we are to say that answers which violate this contractual clause and the most obvious rules of honesty as well do not matter so long as Mr Lek was convinced that he ought to win? It simply means that if he decides his own case in his own mind in his own favour and is persuaded that he is right (as anyone might be), falsehood in securing the victory does not matter.
+The clause can only be read as permitting this by treating it as mere folly.
+The learned Lord Justice gives an illustration about a picture which shows, I think, that he had in his mind a case of misstatements on purely collateral matters.
+Even so, I could not agree; but these present matters are not collateral; they are of the essence.
+The other two members of the House, Lord Phillimore (dissenting in the result) and Lord Carson, expressed their full concurrence with these remarks.
+Their upshot is that a dishonest statement made to further a claim in which the claimant honestly believes renders the claim fraudulent, in the context of a clause such as that present in the policy in Lek v Matthews.
+It is also clear that the remarks embraced the situation of a simply fraudulent device, deployed to promote an insurance claim in respect of goods (eg the picture in Atkin LJs example) which had actually been lost.
+One can, as more recent authority illustrates, question whether lies about truly collateral matters should attract the operation of the fraudulent devices principle, (see eg para 125 below, with the reference there to The Mercandian Continent), but that is a different matter.
+What matters for present purposes is the assimilation of fraudulent devices with a fraudulent claim.
+There is no reason why the position should be any different in this respect under the common law rule mirrored by the wording of the clause in Lek v Matthews.
+Roche J so held when summing up to the jury in Wiesenthal v World Auxiliary Insurance Corpn Ltd (1930) 38 Ll L Rep 54.
+By the end of the trial, a core issue in that case was whether Mr Wisenthal had used fraudulent devices (the jury held in the event that he had).
+The report at pp 61 62 summarises Roche J as instructing the jury, somewhat damningly: Mr Alfred Wisenthal has been shown to be in many respects untruthful, and that was a disadvantage, but if the jury thought his lies were merely the outcome of habit and not intended to obtain a fraudulent advantage in this case they would not count it against him.
+Fraud was not mere lying.
+It was seeking to obtain an advantage, generally monetary, or to put someone else at a disadvantage by lies and deceit.
+It would be sufficient to come within the definition of fraud if the jury thought that in the investigation deceit had been used to secure easier or quicker payment of the money than would have been obtained if the truth had been told.
+Roche J, later Lord Roche, had had one of the largest commercial practices as a silk and was an experienced commercial judge.
+His conclusion as to the common law in the 1920s carries weight.
+A conceptual point which remained unsettled was however the relationship between any such principle and the rule enshrined in section 17 of the Marine Insurance Act 1906, whereby A contract of marine insurance is a contract based upon the utmost good faith, and, if the utmost good faith be not observed by either party, the contract may be avoided by the other party.
+In Black King Shipping Corpn and Wayang (Panama) SA v Massie (The Litsion Pride) [1985] 1 Lloyds Rep 437 Hirst J held, in the context of a fraudulent device (a dishonest backdating of a notice of entry into the Gulf, unnecessary and irrelevant to the claim in law, but believed by Owners to be relevant at the time they made it), that section 17 applied to enable avoidance ab initio, while operating at the same time, in Hirst Js view, to give underwriters an alternative option simply to rely on the fraud as a defence to the particular claim.
+This theory did not survive academic criticism or subsequent authority: see Manifest Shipping Co Ltd v Uni Polaris Insurance Co Ltd (The Star Sea) [2003] 1 AC 469, paras 61 62 and 71, per Lord Hobhouse, where the fraudulent claims principle is put as the consequence of a rule of law albeit, one may add, a rule of law no doubt deriving from the foundation of good faith on which insurance rests (see para 114 above), but tailored to the post contractual position.
+See also the view expressed in Agapitos v Agnew, para 45(d), and the later decision in AXA General Insurance Co Ltd v Gottlieb [2005] EWCA Civ 112; [20015] 1 AER (Comm) 445, para 31 (identifying the fraudulent claims rule as a special common law rule).
+When stating in The Star Sea that Hirst Js approach should no longer be regarded as a sound statement of the law, Lord Hobhouse also stated in a passage in para 71 quoted by Lord Sumption: In so far as it is based upon the principle of the irrecoverability of fraudulent claims, the decision is questionable upon the facts since the actual claim made was a valid claim for a loss which had occurred and had been caused by a peril insured against when the vessel was covered by a held covered clause.
+But it is important to note that Lord Hobhouse went on immediately to add: It is not necessary to examine whether there might or might not have been some other basis upon which the case could have been decided in favour of the insurer as one feels clearly it ought to have been.
+And in the next paragraph (para 72) he also noted that: Fraud has a fundamental impact upon the parties relationship and raises serious public policy considerations.
+Remediable mistakes do not have the same character.
+Similarly, in K/S Merc Scandia XXXXII v Certain Underwriters (The Mercandian Continent) [2001] 2 Lloyds Rep 563 Longmore LJ was concerned in the passages from paras 26 to 28 which Lord Sumption has cited in para 16 with the relevance of materiality to avoidance ab initio, not with the present problem.
+Longmore LJ in fact addressed the present problem in para 29 in terms which constitute further authority for treating the fraudulent claims principle as embracing fraudulent devices and another precursor to the reasoning in The Aegeon.
+He said: I should lastly refer to what has been called the much discussed decision in The Litsion Pride [1985] 1 Lloyds Rep 437 where the assured did not inform underwriters that their vessel was about to go into an exclusion zone but concocted a letter to their brokers two days after a casualty in that exclusion zone had occurred; this letter was falsely dated the day that the vessel entered the exclusion zone and informed the brokers and the underwriters that was what the vessel was about to do.
+Owners brokers also wrote later false statements in support of the claim.
+Mr Justice Hirst held that the false letter was a fraud clearly connected to the claim and the later statements were made in the direct context of the claim.
+It is thus a case of making a fraudulent claim and to that extent was, with respect, good law, but irrelevant to the present case.
+To the extent, however, that the case enunciates any wider obligations of post contract good faith in relation to merely culpable non disclosure or misrepresentation, it has been finally and authoritatively disapproved in The Star Sea (see para 71) (emphasis added)
+In this court we are of course free to reconsider prior authority at a lower level, although we should no doubt be reluctant to upset the instincts of previous courts addressing an issue over the past century.
+I appreciate the strength of the comment made by Popplewell J, when dismissing the present claim, that To be deprived of a valid claim of some 3.2m as a result of such reckless untruth is, in my view, a disproportionately harsh sanction.
+However, I think this comment has too narrow a focus; and, further, that it fails to consider the matter in the context of the well established core fraudulent claims principle and the reasoning behind it as a whole.
+The core fraudulent claims principle deprives an insured of the whole of any claim which he has fraudulently exaggerated.
+This principle has, at the instance of the Law Commission, been embodied by Parliament in the Insurance Act 2015, which will shortly come into effect, and will provide as follows: If the insured makes a fraudulent claim under a contract 12.
+Remedies for fraudulent claims (1) of insurance (a) the insurer is not liable to pay the claim, (b) the insurer may recover from the insured any sums paid by the insurer to the insured in respect of the claim, and (c) in addition, the insurer may by notice to the insured treat the contract as having been terminated with effect from the time of the fraudulent act.
+It is not in dispute that, in proposing this clause in the relevant Bill, the Law Commission left open for the courts to consider its application, directly or by analogy, to fraudulent devices.
+But it is clear that the policy behind its enactment by Parliament was the policy which the courts have for long applied, based on the special position of insurance and the belief that a stringent legal response to fraudulent claims serves as a necessary and justified deterrence to insurance fraud.
+We were referred to academic criticism of theories of deterrence in this context, but, as Lord Sumption observes, many legal rules are framed on a basis which assumes that they are capable of having and shaping legal, social or economic behaviour, and here is a classic example of Parliament endorsing this approach.
+The fraudulent devices rule serves a similar role in encouraging integrity and deterring fraud in the claims process.
+It should not be forgotten that very frequently fraud in the claims process will be associated with (a) the fraudulent pursuit of a non existent or bad claim or (b) the fraudulent exaggeration of a good claim.
+And, aside from cases in which either (a) or (b) is with the benefit of hindsight established, it will, or will almost always, be associated with (c) the pursuit of what the insured believes or fears to be at least a questionable claim. (There can be cases where an insured tells lies during the claims process for reasons entirely collateral to the merits of the claim, eg as in The Mercandian Continent or to cover up some personal or business embarrassment, but one would not then expect the threshold test of materiality to be met.)
+Lord Hughes, Lord Sumption and Lord Toulson suggest a difference in quality between the fraud involved in cases (a) and (b) on the one hand and in case (c) on the other hand.
+Lord Hughes says (para 100) that the difference in quality is between fraud in an attempt to gain something to which he [the assured] is not entitled, and the insured who dishonestly gilds the lily with a lie or falsified evidence, but stands thereby to obtain nothing more than was his legal due, while Lord Sumption says (paras 24 25) with Lord Toulsons support (para 105) that it is between a fraudulently exaggerated (or no doubt non existent) claim and the position where the insured is trying to obtain no more than the law regards as his entitlement.
+The difficulty with both analyses is that they look at fraud and the use of a fraudulent device with hindsight, rather than by reference to the state of mind with which a fraudulent device is usually deployed.
+That, as I have pointed out, is precisely because the assured does not believe or is not confident that he has a good claim.
+The fraudulent devices rule means that a fraudulent claimant cannot in cases (a) and (b) safely embellish his bad or exaggerated claim with fraudulent devices, and then, when any such device is discovered, hope to do better with the next device or the lies he will tell in court to pursue his bad or exaggerated claim.
+In case (c), it means that he cannot safely distort the claims process to his advantage and hope to prevent the insurer identifying, relying on or investigating the weakness which led to the insured telling the lie in the first place.
+In each of cases (a), (b) and (c), the use of a fraudulent device material to the insurance claim operates as a bar to its further pursuit, making further investigation into the underlying circumstances unnecessary and operating as a clear disincentive to lying.
+These are significant protective effects, which are entirely consistent with the underlying philosophy of insurance, mutual trust.
+Abolishing the fraudulent devices rule means that claimants pursuing a bad, exaggerated or questionable claim can tell lies with virtual impunity.
+The same logic governs fraudulent devices as it does fraudulent claims generally.
+It is, as Lord Hobhouse said in The Star Sea, para 62: simple.
+The fraudulent insured must not be allowed to think: if the fraud is successful, then I will gain; if it is unsuccessful, I will lose nothing.
+In short, on the approach advanced by the majority, the fraudulent device will advance the insurance recovery if undiscovered, and quite possibly lead to the recovery of a bad or exaggerated claim, and it will have no effect on any insurance recovery to which the assured may be entitled, even if it is discovered.
+Either way, it will have distorted the claims process, which Lord Hughes rightly identifies (in para 55) as key to insurance, from the viewpoint of policyholders as much as insurers.
+And, if the fraudulent device is discovered, it will have distorted the claims process by the time and cost involved in unveiling the fraud and attempting to ascertain its true implications.
+From the insureds viewpoint the risk that this might lead a court at trial to deprive him of some costs will be unlikely to outweigh the perceived advantages of telling the lie at the time it was told.
+And in many cases the lie will be undiscovered, the insurers will pay and it will never be investigated or known how far the claim was bad or exaggerated and how far any questions about it might have been answered adversely to the insured.
+Where an insured has a claim which he believes or fears to be questionable, it makes little sense in my view to say, as Lord Sumption does in para 26 with Lord Toulsons support (para 105) that the lie is dishonest, but the claim is not.
+When the lie is told, it is, as I have pointed out, often told precisely because the insured does not really believe he has a good claim, even though at a later trial it may be shown (as it was in The Litsion Pride, where notice of entry into the Gulf proved not in law to be a condition of the insurance) that his fears were in law unfounded.
+Further, although the point is ultimately semantic, there is no difficulty (and neither Viscount Sumner nor Roche J experienced any) in describing a claim otherwise honestly believed in as itself fraudulent if it is being promoted by a fraudulent device.
+In the relatively rare case, like the present, where the insured pursues a claim to trial, and is found after the event to have had a sound claim, it may seem harsh that the insured loses everything.
+But policy must by definition look at the position overall, as the core fraudulent claims rule does.
+In any event a person who uses fraudulent devices in the context of an insurance relationship deserves no real sympathy: see Lord Hobhouses words in The Star Sea, paras 62 and 72, quoted in paras 120 and 129 above.
+As to materiality, it is clear that inducement has no role in relation to the core fraudulent claims rule, and there is no reason why it should do so in relation to fraudulent devices.
+It is equally clear that materiality must be considered by reference to the position at the time when the fraudulent device is deployed, and that it cannot be right to consider it retrospectively by reference to whatever a court, years later perhaps, decides is the actual factual or legal position.
+There is as a matter of common sense no difficulty about describing a lie told during the claims process as material by reference to the circumstances as they were at the time when it was told.
+It makes no sense to do otherwise.
+Lies are told in a particular context, and it is only in that context that they can even be identified as lies.
+To suggest, as Lord Toulson does (para 107), that a lie told to promote a claim is immaterial to the parties respective rights and obligations, simply because, perhaps years later, it can be seen that the lie was unnecessary and the claim good without it, seems a charter for untruth, which overlooks (a) the obvious imperative of integrity on both sides in the claims process and (b) the obvious reality that lies are told for a purpose, almost invariably as here to obtain the uncovenanted advantage of having the claim considered and hopefully met on a false premise.
+I add that, if a lie could be disregarded as immaterial because it could be shown, years later, that it was irrelevant to the outcome of the claim, then logically a lie exaggerating the value of a claim ought also to be disregarded in relation to whatever was, years later, shown to be the valid claim.
+The applicability or otherwise of the fraudulent claims rule in relation to lies told during the course of litigation was not argued before us.
+In Agapitos v Agnew the court (at paras 47 53) applied by analogy in this context the reasoning in relation to non disclosure adopted by the House of Lords in The Star Sea.
+This might have been an area worth revisiting on the present appeal.
+But, assuming the correctness of the decision on this point in Agapitos v Agnew, its rationalisation must be that the court process should be allowed to operate independently, with its own inbuilt sanctions in respect of lies or other abuses by either party.
+That has no bearing on the present issue, which is whether the undoubted fraudulent claims rule, which Parliament has now endorsed, extends to or embraces the use of a fraudulent device.
+It was submitted that the fraudulent devices rule operates in a case like the present inconsistently with the principle in the first paragraph of Protocol 1 (A1P1) to the European Convention on Human Rights, in that it deprives the insured of a proprietary right in the form of an insurance claim.
+The court is under section 6(1) of the Human Rights Act 1998 not to act inconsistently with the Convention rights, and this is said to mean that it should define or develop the common law in such a way as to ensure that insurers cannot deprive any insured of his insurance rights in a way which would be disproportionate.
+In the light of the view of the majority on this appeal, I do not propose to spend time considering the merits or implications of this sort of horizontal application of the Convention rights in the present context.
+Accepting that the fraudulent claims rule, including the fraudulent devices rule, can deprive an insured of a valid claim, the deprivation clearly has a legitimate aim, and my view would be that it would be and was proportionate as a bright line rule for the reasons I have given and which the Court of Appeal gave.
+For these reasons, I consider that the Court of Appeal came to the right conclusion and would myself dismiss the appeal.
+In the light of the majority judgment, insurers will no doubt be advised about whatever may be the potential merits of making express in future whatever understanding they have, or action they may wish to take, regarding the effect of fraudulent devices, as and when such are discovered to have been used by an insured during the claims process.

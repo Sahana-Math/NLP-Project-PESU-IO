@@ -1,0 +1,305 @@
+Vicarious liability in tort requires, first, a relationship between the defendant and the wrongdoer, and secondly, a connection between that relationship and the wrongdoers act or default, such as to make it just that the defendant should be held legally responsible to the claimant for the consequences of the wrongdoers conduct.
+In this case the wrongdoer was employed by the defendant, and so there is no issue about the first requirement.
+The issue in the appeal is whether there was sufficient connection between the wrongdoers employment and his conduct towards the claimant to make the defendant legally responsible.
+By contrast, the case of Cox v Ministry of Justice [2016] UKSC 10, which was heard by the same division of the court at the same time, is concerned with the first requirement.
+The judgments are separate because the claims and issues are separate, but they are intended to be complementary to each other in their legal analysis.
+In preparing this judgment I have had the benefit of Lord Reeds judgment in Cox, and I agree fully with his reasoning and conclusion.
+The question in this appeal concerns an employers vicarious liability in tort for an assault carried out by an employee.
+It is a subject which has troubled the courts on numerous occasions and the case law is not entirely consistent.
+In addressing the issues which it raises, it will be necessary to examine how the law in this area has developed, what stage it has reached and whether it is in need of significant change.
+In this case the victim was a customer.
+I will call him the claimant although he sadly died from an illness unrelated to his claim before his appeal was heard by this court.
+The respondent company is a well known operator of a chain of supermarkets.
+It has premises in Small Heath, Birmingham, which include a petrol station.
+The petrol station has a kiosk with the usual display of goods and a counter where customers pay for their purchases.
+One of the companys employees was Mr Amjid Khan.
+His job was to see that the petrol pumps and the kiosk were kept in good running order and to serve customers.
+The claimant was of Somali origin.
+On the morning of 15 March 2008 he was on his way to take part with other members of his community in an event in London.
+While he was at the petrol station he decided to inquire whether it would be possible to print some documents from a USB stick which he was carrying.
+The trial judge, Mr Recorder Khangure QC, accepted in full the claimants account of what followed.
+The claimant went into the kiosk and explained to the staff what he wanted.
+There were two or three staff present.
+Mr Khan, who was behind the counter, replied by saying We dont do such shit.
+The claimant protested at being spoken to in that manner.
+Using foul, racist and threatening language, Mr Khan ordered the claimant to leave.
+The claimant walked out of the kiosk and returned to his car by the air pump.
+He was followed by Mr Khan.
+The claimant got into his car and switched on the engine, but before he could drive off Mr Khan opened the front passenger door and told him in threatening words never to come back.
+The claimant told Mr Khan to get out of the car and shut the passenger door.
+Instead, Mr Khan punched the claimant on his left temple, causing him pain and shock.
+The claimant switched off the engine and got out in order to walk round and close the passenger door.
+At this point Mr Khan again punched him in the head, knocked him to the floor and subjected him to a serious attack, involving punches and kicks, while the claimant lay curled up on the petrol station forecourt, trying to protect his head from the blows.
+In carrying out the attack Mr Khan ignored instructions from his supervisor, who came on the scene at some stage and tried to stop Mr Khan from behaving as he did.
+The judge concluded that the reasons for Mr Khans behaviour were a matter of speculation.
+The claimant himself had said and done nothing which could be considered abusive or aggressive.
+The trial judges decision
+In a detailed and impressive judgment, the judge reviewed the principal authorities.
+He expressed great sympathy for the claimant but concluded that the company was not vicariously liable for Mr Khans unprovoked assault.
+His principal reason was that although Mr Khans job involved some interaction with customers and members of the public who attended the kiosk, it involved nothing more than serving and helping them.
+There was not a sufficiently close connection between what he was employed to do and his tortious conduct for his employer to be held vicariously liable, applying the close connection test laid down in Lister v Hesley Hall Ltd [2001] UKHL 22; [2001] 1 AC 215 and followed in later cases including Dubai Aluminium Co Ltd v Salaam [2002] UKHL 48; [2003] 2 AC 366.
+A further reason given by the judge was that Mr Khan made a positive decision to come out from behind the counter and follow the claimant out of the kiosk in contravention of instructions given to him.
+The Court of Appeals decision
+The Court of Appeal (Arden, Treacy and Christopher Clarke LJJ) upheld the judges decision that the claim against the company failed the close connection test.
+The main points made in the judgments were that Mr Khans duties were circumscribed.
+He was not given duties involving a clear possibility of confrontation or placed in a situation where an outbreak of violence was likely.
+The fact that his employment involved interaction with customers was not enough to make his employers liable for his use of violence towards the claimant.
+Christopher Clarke LJ added that if the question had been simply whether it would be fair and just for the company to be required to compensate the claimant for his injuries from the assault, there would be strong grounds for saying that it should.
+The assault arose out of an interchange which began when the claimant asked to be supplied with a service which he thought the company could provide.
+Mr Khan, whose job it was to deal with such a request, followed up his refusal with an apparently motiveless attack on the customer, who was in no way at fault.
+The customer was entitled to expect a polite response.
+Instead he was struck on the head and kicked when on the ground.
+In those circumstances it could be said that the employer could fairly be expected to bear the cost of compensation, rather than that the victim should be left without any civil remedy except against an assailant who was unlikely to be able to pay full compensation.
+However, he concluded that this was not the legal test, and that the fact that Mr Khans job involved interaction with the public did not provide the degree of connection between his employment and the assault which was necessary for the employer to be held vicariously liable.
+Christopher Clarke LJ said that he was attracted for a time by the proposition that the assault could be looked at as a perverse execution of Mr Khans duty to engage with customers, but he considered that such an approach parted company with reality.
+Grounds of appeal
+In this court the claimants primary argument was that the time has come for a new test of vicarious liability.
+In place of the close connection test the courts should apply a broader test of representative capacity.
+In the case of a tort committed by an employee, the decisive question should be whether a reasonable observer would consider the employee to be acting in the capacity of a representative of the employer at the time of committing the tort.
+A company should be liable for the acts of its human embodiment.
+In the present case, Mr Khan was the companys employed representative in dealing with a customer.
+What mattered was not just the closeness of the connection between his duties to his employer and his tortious conduct, but the setting which the employer had created.
+The employer created the setting by putting the employee into contact and close physical proximity with the claimant.
+Alternatively, it was argued that the claimant should in any event have succeeded because he was a lawful visitor to the premises and Mr Khan was acting within the field of activities assigned to him in dealing with the claimant.
+Origins and development of vicarious liability
+The development of the doctrine of vicarious liability can be traced to a number of factors; in part to legal theories, of which there have been several; in part to changes in the structure and size of economic and other (eg charitable) enterprises; and in part to changes in social attitudes and the courts sense of justice and fairness, particularly when faced with new problems such as cases of sexual abuse of children by people in a position of authority.
+According to Holdsworths A History of English Law (1908) (vol 3, pp 383 387) in medieval times the general principle was that a master was only liable at civil law for misdeeds of his servants if done by his command and consent.
+It would be against all reason, said counsel in the reign of Henry IV, to impute blame or default to a man, when he has none in him, for the carelessness of his servants cannot be said to be his act (YB 2 Hy IV Pasch pl 5).
+But there were some exceptions, which today would be classed as instances of non delegable duty.
+Liability for damage by fire was an example.
+The law imposed on house holders a duty to keep their fires from damaging their neighbours.
+If a fire was caused by a servant or guest, and it damaged a neighbours house, the owner was liable.
+He could escape liability only by showing that the fire originated from the act of a stranger (YB 2 Hy IV Pasch pl 6).
+The 17th century was a century of expansion of commerce and industry, and vicarious liability began to be broadened.
+Holt CJ was particularly influential in this development.
+In Boson v Sandford (1691) 2 Salk 440 a shipper of goods sued the ship owner for damage caused by the negligence of the master.
+Eyre J held that there was no difference between a land carrier and a water carrier, and therefore the owners were under a special liability as carriers for the acts of their servants; but Holt CJ rested his judgment on the broad principle that whoever employs another is answerable for him, and undertakes for his care to all that make use of him. (The action failed on a technical pleading point.)
+In Tuberville v Stamp (1698) 1 Ld Raym 264, Skinner 681, SC Comb 459, the plaintiff complained that the defendants servant lit a fire on heath land which destroyed the heath growing on the plaintiffs land.
+The majority of the judges held that the plaintiff had a cause of action under the medieval rule about liability for fire; but Holt CJ doubted whether that rule applied to fires other than in houses, and he based liability (according to the report in Comb.) on the broader ground that if my servant doth anything prejudicial to another, it shall bind me, when it may be presumed that he acts by my authority, being about my business.
+Holt CJ did not confine this principle to cases of negligence.
+In Hern v Nichols (1700) 1 Salk 289, the plaintiff brought an action on the case for deceit, alleging that he bought several parcels of silk under a fraudulent representation by the defendants factor that it was another kind of silk.
+The factor was operating overseas and there was no evidence of deceit on the part of the defendant personally.
+Holt CJ held that the defendant was nevertheless liable for seeing somebody must be a loser by this deceit, it is more reason that he that employs and puts a trust and confidence in a deceiver should be a loser, than a stranger.
+Holt CJ gave the same explanation for the development of the principle in Sir Robert Waylands Case (1706) 3 Salk 234, the master at his peril ought to take care what servant he employs; and it is more reasonable that he should suffer for the cheats of his servant than strangers and tradesmen.
+Holt CJ also held that for the master to be liable the servants act had to be within the area of the authority given to him: Middleton v Fowler (1699) 1 Salk 282.
+Holdsworth noted that the first case in which the modern principle can begin to be seen was the admiralty case of Boson v Sandford, and he considered it not unlikely that necessities arising from the demands of the commercial world, and the influence of Roman law on the admiralty courts, led to the introduction of ideas which then permeated to the common law courts (vol 8, p 476).
+He also observed that this was only one of the influences and that a number of reasons were put forward to explain the basis of vicarious liability.
+These he summarised as follows (at p 477): It was sometimes put on the ground that the master by implication undertakes to answer for his servants tort which is clearly not true.
+Sometimes it was put on the ground that the servant had an implied authority so to act which again is clearly not true.
+Sometimes it was grounded on the fiction that the wrong of the servant is the wrong of the master, from which the conclusion was drawn that the master must be liable because no man shall be allowed to make any advantage of his own wrong; and sometimes on the ground that the master who chooses a careless servant is liable for making a careless choice.
+Blackstone gives all these reasons for this principle.
+In addition, he deals with the totally different case where a master has actually authorised the commission of a tort; and cites most of the mediaeval cases of vicarious liability with the special reasons for each of them.
+It is not surprising that he should take refuge in the maxim qui facit per alium facit per se or that others should have used in a similar way the maxim respondeat superior.
+His treatment of the matter illustrates the confusion of the authorities; and it is noteworthy that he does not allude to the true reason for the rule the reason of public policy which Holt CJ, gave in Hern v Nichols and in Waylands Case.
+In Barwick v English Joint Stock Bank (1867) 2 LR Exch 259, 265, Willes J described it as settled since Lord Holts time that a principal is answerable for the act of an agent in the course of his business, but it was argued in that case (despite the decision in Hern v Nichols) that a principal was not liable for a fraudulent act of his agent.
+Willes J rejected that argument, holding that no sensible distinction can be drawn between the case of fraud and the case of any other wrong.
+He cited authorities in which the doctrine had been applied, for example, in cases of direct trespass to goods and false imprisonment, and he observed (at p 266): In all these cases it may be said, as it was said here, that the master has not authorized the act.
+It is true, he has not authorized the particular act, but he has put the agent in his place to do that class of acts, and he must be answerable for the manner in which the agent has conducted himself in doing the business which it was the act of his master to place him in.
+His judgment gave rise to difficulties of a different kind because it included the following statement (at p 265): The general rule is, that the master is answerable for every such wrong of the servant or agent as is committed in the course of the service and for the masters benefit, though no express command or privity of the master be proved. (Emphasis added.)
+The words in italics were used in later cases to support the argument that in order to establish vicarious liability it was necessary to show that the employees misdeed was committed for the employers benefit.
+This argument was rejected by the House of Lords in the landmark case of Lloyd v Grace, Smith & Co [1912] AC 716.
+A solicitors clerk, who was entrusted by the defendant firm with managing its conveyancing department, defrauded the plaintiff, who had come to the firm for advice about two properties left to her by her late husband.
+He advised her to sell and procured her signature on documents conveying the properties to himself, which he disposed of for his own benefit.
+It was held that the firm was liable for his fraud.
+Lord Macnaghten, who gave the leading judgment (with which Lord Loreburn LC and Lord Atkinson agreed) and Lord Halsbury both referred with approval to the general principle enunciated by Lord Holt (pp 726 727 and 732).
+Lord Macnaghten, at pp 735 736, also endorsed Lord Blackburns interpretation of Barwicks case in Houldsworth v City of Glasgow Bank (1880) 5 App Cas 317, 339, namely that the substantial point decided in that case was that an innocent principal was civilly responsible for the fraud of his authorised agent, acting within his authority, to the same extent as if it was his own fraud.
+Lord Macnaghten recognised the difficulty of trying to give a precise meaning to the expression within his authority.
+He referred at pp 732 734 to the discussion of the subject by Sir Montague Smith in Mackay v Commercial Bank of New Brunswick (1874) LR 5 PC 394, 410, who observed that since it may be generally assumed that, in mercantile transactions, principals do not authorise their agents to act fraudulently, frauds are beyond the agents authority in the narrowest sense of which the expression admits; but that so narrow a sense would be opposed to justice and so a wider construction had been put on the words, and that it was difficult to define how far it went.
+Lord Macnaghten (at p 736) agreed that what is meant by the expressions acting within his authority, acting in the course of his employment and acting within the scope of his agency (as applied to an agent) is not easy to define, but he said that whichever expression is used, it must be construed liberally.
+Lord Macnaghten noted that it was within the scope of the clerks employment to advise clients regarding the best way to sell property and the execution of any necessary documents.
+He concluded that the clerk was therefore acting within the scope of his employment.
+Lord Macnaghten also made the broader point that it would be unjust if the firm were not held liable.
+The clerk was its accredited representative: p 738.
+It was right that the loss from his fraud should be suffered by the person who placed him in that position rather than the client who dealt with him as the firms representative.
+Although taking properties from the plaintiff was far removed from what the wrongdoer was employed to do, the justice of the decision is obvious.
+The wrongdoer was trusted both by his firm and by its client.
+They were each innocent, but one of them had to bear the loss, and it was right that it should be the employer on the principle stated by Lord Holt in Hern v Nichols.
+The firm employed the wrongdoer and placed him in a position to deal with the claimant; he abused that position and took advantage of her.
+It was fairer that the firm should suffer for the cheating by their employee than the client who was cheated.
+In 1907 Salmond published the first edition of his text book on the Law of Torts.
+He defined a wrongful act by a servant in the course of his employment as either (a) a wrongful act authorised by the master or (b) a wrongful and unauthorised mode of doing some act authorised by the master, with the amplification that a master is liable for acts which he has not authorised if they are so connected with acts which he has authorised, that they may rightly be regarded as modes although improper modes of doing them (pp 83 84).
+Salmonds formula, repeated in later editions, was cited and applied in many cases, sometimes by stretching it artificially; but even with stretching, it was not universally satisfactory.
+The difficulties in its application were particularly evident in cases of injury to persons or property caused by an employees deliberate act of misconduct.
+In Petterson v Royal Oak Hotel Ltd [1948] NZLR 136 a barman refused to serve a drunken customer with more alcohol.
+As the customer was on his way out of the premises, he threw a glass at the barman which broke in pieces at his feet.
+The barman picked up a piece of the broken glass and threw it back at the departing customer, but missed him and injured the eye of another customer, who sued for damages.
+The trial judge found that the barman threw the piece of glass not in order to expedite the departure of the troublesome customer, but as an expression of his personal resentment at the glass being thrown at him.
+He found for the claimant and his judgment was upheld by the Court of Appeal.
+The Salmond formula was cited in argument.
+The Court of Appeal held that the barmans act was an improper mode of doing his job of keeping order in the bar and avoiding altercations, although at the time the customer was leaving.
+The justice of the result is obvious.
+The claimant was struck in the eye by a piece of glass thrown by the barman who was on duty, and there would be something wrong with the law if he was not entitled to compensation from the company which employed the barman.
+A barman needs to be capable of acting with restraint under provocation, for the safety of other customers, and if the proprietor engaged someone who was incapable of doing so and who injured an innocent customer, it would be wrong for the customer to be left with his only remedy against the barman.
+But to rationalise the result by describing the barmans loss of temper and act of retaliation as a mode, but improper mode, of keeping order and avoiding altercation is an unnatural use of words.
+Deatons Pty Ltd v Flew (1949) 79 CLR 370 had similarities to Petterson but was decided differently.
+According to the jurys verdict, the claimant was the victim of an unprovoked attack by a barmaid on duty in a hotel when he asked her for the manager.
+She threw a glass of beer over him and then threw the glass in his face, causing him the loss of sight in one eye.
+The High Court of Australia held that there was no basis for finding that the barmaid was acting in the course of her employment.
+They rejected the argument that her conduct was incidental to her employment in that it was a method, though an improper method, of responding to an inquiry from a customer.
+They also rejected the argument, which had succeeded in Petterson, that her conduct was an improper mode of keeping order.
+Dixon J gave two reasons: first, that she did not throw the glass in the course of keeping discipline, and secondly, that she was not in charge of the bar, but was working under the supervision of another woman.
+I agree that it was tortuous and artificial to describe the barmaids conduct as a mode of performing what she was employed to do, but that does not make the result just.
+In a broader sense it occurred in the course of her employment.
+She was employed by the hotel proprietor to serve customers.
+She was approached in that capacity by a customer, and ordinary members of the public would surely expect the company who employed her to serve customers to have some responsibility for her conduct towards them.
+And it surely cannot be right that the measure of the companys responsibility should depend on whether she was the head barmaid or an assistant.
+The customer would have no knowledge what were the exact limits of her responsibilities.
+In Warren v Henlys Ltd [1948] 2 All ER 935 a customer at a petrol station had an angry confrontation with the petrol station attendant, who wrongly suspected him of trying to make off without payment.
+The customer became enraged at the manner in which he was spoken to by the attendant.
+After paying for the petrol, the customer saw a passing police car and drove off after it.
+He complained to the police officer about the attendants conduct and persuaded the officer to return with him to the petrol station.
+The officer listened to both men and indicated that he did not think that it was a police matter, whereupon the customer said that he would report the attendant to his employer.
+The officer was on the point of leaving, when the attendant punched the customer in the face, knocking him to the ground.
+Hilbery J held that the assault was not committed in the course of the attendants employment, applying the Salmond formula.
+By the time that the assault happened the customers business with the petrol station had ended, the petrol had been paid for and the customer had left the premises.
+When he returned with the police officer it was for the purpose of making a personal complaint about the attendant.
+The attendant reacted violently to being told that the customer was going to report him to his employer, but there was no basis for holding the employer vicariously liable for that behaviour.
+The judge was right to dismiss the customers claim against the petrol company.
+At the time of the incident the relationship between the plaintiff and the attendant had changed from that of customer and representative of the petrol company to that of a person making a complaint to the police and the subject of the complaint.
+In Lister v Hesley Hall Ltd [2002] 1 AC 215 Lord Millett commented, at para 80, that the better view may have been that the employer was not liable because it was no part of the duties of the pump attendant to keep order, but there is no suggestion in the report of the case that there was any other employee in practical charge of the forecourt and cash desk area.
+If the attendant had punched the customer because he believed, rightly or wrongly, that the customer was leaving without payment, I would regard such conduct as occurring within the course of his employment.
+In Keppel Bus Co Ltd v Ahmad [1974] 1 WLR 1082 the plaintiff was travelling in a bus when the conductor treated an elderly lady passenger in a high handed and rude fashion.
+The plaintiff remonstrated with him.
+An altercation followed in which each tried to hit the other.
+They were separated by the passengers, but the conductor struck the plaintiff in the eye with his ticket punch, causing loss of sight in the eye.
+The trial judge and the Singapore Court of Appeal held that the bus company was vicariously liable, but the Privy Council decided otherwise.
+The Board applied the Salmond formula.
+It held that the conductors conduct could not be described as a wrong mode of performing the work which he was expressly or impliedly authorised to do.
+He could not be described as maintaining order in the bus; if anyone was keeping order in the bus, it was the passengers.
+The Board rejected the argument that his job could be described as managing the bus and that his conduct arose out of his power and duty to do so.
+The case illustrates again the awkwardness of the Salmond formula when applied to such situations.
+Looked at more broadly, the bus company selected the conductor for employment and put him in charge of the passenger area of the bus.
+He abused the position of authority which his employment gave him.
+Because he was throwing his weight around as the conductor, the plaintiff objected.
+Because the conductor objected to what he appeared to regard as interference with the exercise of his authority, he struck the plaintiff in the face. (The trial judge summarised it by saying that He was in effect telling the plaintiff by his act not to interfere with him in his due performance of his duties: p 1084.) In such circumstances it was just that the passenger should be able to look to the company for compensation.
+In two noteworthy cases the court took a broader approach to the question of scope of employment.
+Their significance is enhanced by the fact that they were cited with approval in Lister.
+796, 802, Lord Cullen said: In Central Motors (Glasgow) Ltd v Cessnock Garage and Motor Co 1925 SC The question is not to be answered merely by applying the test whether the act in itself is one which the servant was authorised or ordered or forbidden to do.
+The employer has to shoulder responsibility on a wider basis; and he may, and often does, become responsible to third parties for acts which he has expressly or impliedly forbidden the servant to do.
+It remains necessary to the masters responsibility that the servants act be one done within the sphere of his service or the scope of his employment, but it may have this character although it consists in doing something which is the very opposite of what the servant has been intended or ordered to do, and which he does for his own private ends.
+An honest master does not employ or authorise his servant to commit crimes of dishonesty towards third parties; but nevertheless he may incur liability for a crime of dishonesty committed by the servant if it was committed by him within the field of activities which the employment assigned to him, and that although the crime was committed by the servant solely in pursuance of his own private advantage.
+The expression within the field of activities assigned to the employee is helpful.
+It conjures a wider range of conduct than acts done in furtherance of his employment.
+In Rose v Plenty [1976] 1 WLR 141 a milk roundsman paid a 13 year old boy to help him collect and deliver milk bottles, in disregard of his employers rule prohibiting children from being carried on milk floats.
+The boy was injured when he fell off a milk float as a result of the employees negligent driving.
+The trial judge dismissed the boys claim against the employer on the ground that the employee was acting outside the scope of his employment and that the boy was a trespasser on the float, but his decision was reversed by a majority of the Court of Appeal.
+Lord Denning, MR dealt with the matter briefly, holding that in taking the boy on the milk float the employee was still acting within the sphere of his employment.
+Scarman LJ considered the point at greater length, at pp 147 148: In words which have frequently been quoted both in the courts and in the universities, Salmond on Torts, 16th ed (1973), p 462, refers to the basis of vicarious liability for accidental damage as being one of public policy.
+That view is supported by quotations (dated no doubt, but still full of life) of a dictum of Lord Brougham and of another, 100 years or more earlier, of Sir John Holt.
+That it is socially convenient and rough justice to make an employer liable for the torts of his servant in the cases to which the principle applies, was recognised in Limpus v London General Omnibus Co, 1 H & C 526; see the judgment of Willes J at p 539.
+I think it important to realise that the principle of vicarious liability is one of public policy.
+It is not a principle which derives from a critical or refined consideration of other concepts in the common law, for example, the concept of trespass or indeed the concept of agency.
+No doubt in particular cases it may be relevant to consider whether a particular plaintiff was or was not a trespasser.
+Similarly, when, as I shall indicate, it is important that one should determine the course of employment of the servant, the law of agency may have some marginal relevance.
+But basically, as I understand it, the employer is made vicariously liable for the tort of his employee not because the plaintiff is an invitee, nor because of the authority possessed by the servant, but because it is a case in which the employer, having put matters into motion, should be liable if the motion which he has originated leads to damage to another.
+What is the approach which the cases identify as the correct approach in order to determine this question of public policy? First, one looks to see whether the servant has committed a tort upon the plaintiff The next question is whether the employer should shoulder the liability for compensating the person injured by the tort [I]t does appear to me to be clear, since the decision of Limpus v London General Omnibus Co, 1 H & C 526, that that question has to be answered by directing attention to what the servant was employed to do when he committed the tort that has caused damage to the plaintiff.
+The servant was, of course, employed at the time of the accident to do a whole number of operations.
+He was certainly not employed to give the boy a lift, and if one confines ones analysis of the facts to the incident of injury to the plaintiff, then no doubt one would say that carrying the boy on the float giving him a lift was not in the course of the servants employment.
+But in Ilkiw v Samuels [1963] 1 WLR 991 Diplock LJ indicated that the proper approach to the nature of the servants employment is a broad one.
+He says, at p 1004: As each of these nouns implies he is referring to the nouns used to describe course of employment, sphere, scope and so forth the matter must be looked at broadly, not dissecting the servants task into its component activities such as driving, loading, sheeting and the like by asking: what was the job on which he was engaged for his employer? and answering that question as a jury would.
+Lister v Hesley Hall Ltd
+In Lister the House of Lords was faced with the problem of the application of the doctrine of vicarious liability to the warden of a school boarding house who sexually abused the children in his care.
+The Salmond formula was stretched to breaking point.
+Even on its most elastic interpretation, the sexual abuse of the children could not be described as a mode, albeit an improper mode, of caring for them.
+Drawing on Scarman LJs approach, Lord Steyn (with whom Lords Hutton and Hobhouse agreed) spoke of the pitfalls of terminology and said that it was not necessary to ask whether the acts of sexual abuse were modes of doing authorised acts.
+He posed the broad question whether the wardens torts was so closely connected with his employment that it would be just to hold the employers liable.
+He concluded that the employers were vicariously liable because they undertook the care of the children through the warden and he abused them.
+There was therefore a close connection between his employment and his tortious acts.
+To similar effect, Lord Clyde said that the warden had a general duty to look after the children, and the fact that he abused them did not sever the connection with his employment; his acts had to be seen in the context that he was entrusted with responsibility for their care, and it was right that his employers should be liable for the way in which he behaved towards them as warden of the house.
+In adopting the approach which he did, Lord Steyn referred to the judgment of McLachlin J in Bazley v Curry (1999) 174 DLR (4th) 45.
+McLachlin J summarised the public policy justification for imposing vicarious liability, at para 31, in a similar fashion to Holt and Scarman LJ: The employer puts in the community an enterprise which carries with it certain risks.
+When those risks materialize and cause injury to a member of the public despite the employers reasonable efforts, it is fair that the person or organisation that creates the enterprise and hence the risk should bear the loss.
+Compare Scarman LJs statement that the employer, having put matters into motion, should be liable if the motion which he has originated leads to damage to another.
+This thinking has been prominent in cases since Lister as the social underpinning of the doctrine of vicarious liability, but the court is not required in each case to conduct a retrospective assessment of the degree to which the employee would have been considered to present a risk.
+As Immanuel Kant wrote, Out of the crooked timber of humanity, no straight thing was ever made.
+The risk of an employee misusing his position is one of lifes unavoidable facts.
+In Dubai Aluminium Co Ltd v Salaam [2002] UKHL 48; [2003] 2 AC 366, the House of Lords applied the Lister approach to vicarious liability in a case of commercial fraud.
+Lord Nicholls (with whom Lords Slynn and Hutton agreed) said: 22. [I]t is a fact of life, and therefore to be expected by those who carry on businesses, that sometimes their agents may exceed the bounds of their authority or even defy express instructions.
+It is fair to allocate risk of losses thus arising to the businesses rather than leave those wronged with the sole remedy, of doubtful value, against the individual employee who committed the wrong.
+To this end, the law has given the concept of ordinary course of employment an extended scope.
+If, then, authority is not the touchstone, what is? . 23.
+Perhaps the best general answer is that the wrongful conduct must be so closely connected with acts the partner or employee was authorised to do that, for the purpose of the liability of the firm or the employer to third parties, the wrongful act may fairly and properly be regarded as done by the partner while acting in the ordinary course of the firms business or the employees employment (Original emphasis) 25.
+This close connection test focuses attention in the right direction.
+But it affords no guidance on the type or degree of connection which will normally be regarded as sufficiently close to prompt the legal conclusion that the risk of the wrongful act occurring, and any loss flowing from the wrongful act, should fall on the firm or employer rather than the third party who was wronged. 26.
+This lack of precision is inevitable, given the infinite range of circumstances where the issue arises.
+The crucial feature or features, either producing or negativing vicarious liability, vary widely from one case or type of case to the next.
+Essentially the court makes an evaluative judgment in each case, having regard to all the circumstances and, importantly, having regard to the assistance provided by previous court decisions.
+The close connection test adumbrated in Lister and Dubai Aluminium has been followed in a line of later cases including several at the highest level: Bernard v Attorney General of Jamaica [2004] UKPC 47; [2005] IRLR 398, Brown v Robinson [2004] UKPC 56, Majrowski v Guys and St Thomass NHS Trust [2006] UKHL 34; [2007] 1 AC 224 and Various Claimants v Catholic Child Welfare Society [2012] UKHL 56; [2013] 2 AC 1 (the Christian Brothers case).
+In the Christian Brothers case Lord Phillips of Worth Matravers said at para 74 that it is not easy to deduce from Lister the precise criteria that will give rise to vicarious liability for sexual abuse (or, he might have added, other abuse), and that the test of close connection tells one nothing about the nature of the connection.
+However, in Lister the court was mindful of the risk of over concentration on a particular form of terminology, and there is a similar risk in attempting to over refine, or lay down a list of criteria for determining, what precisely amounts to a sufficiently close connection to make it just for the employer to be held vicariously liable.
+Simplification of the essence is more desirable.
+The present law
+In the simplest terms, the court has to consider two matters.
+The first question is what functions or field of activities have been entrusted by the employer to the employee, or, in everyday language, what was the nature of his job.
+As has been emphasised in several cases, this question must be addressed broadly; see in particular the passage in Diplock LJs judgment in Ilkiw v Samuels [1963] 1 WLR 991, 1004 included in the citation from Rose v Plenty at para 38 above, and cited also in Lister by Lord Steyn at para 20, Lord Clyde at para 42, Lord Hobhouse at para 58 and Lord Millett at para 77.
+Secondly, the court must decide whether there was sufficient connection between the position in which he was employed and his wrongful conduct to make it right for the employer to be held liable under the principle of social justice which goes back to Holt.
+To try to measure the closeness of connection, as it were, on a scale of 1 to 10, would be a forlorn exercise and, what is more, it would miss the point.
+The cases in which the necessary connection has been found for Holts principle to be applied are cases in which the employee used or misused the position entrusted to him in a way which injured the third party.
+Lloyd v Grace, Smith & Co, Peterson and Lister were all cases in which the employee misused his position in a way which injured the claimant, and that is the reason why it was just that the employer who selected him and put him in that position should be held responsible.
+By contrast, in Warren v Henlys Ltd any misbehaviour by the petrol pump attendant, qua petrol pump attendant, was past history by the time that he assaulted the claimant.
+The claimant had in the meantime left the scene, and the context in which the assault occurred was that he had returned with the police officer to pursue a complaint against the attendant.
+Contrary to the primary submission advanced on the claimants behalf, I am not persuaded that there is anything wrong with the Lister approach as such.
+It has been affirmed many times and I do not see that the law would now be improved by a change of vocabulary.
+Indeed, the more the argument developed, the less clear it became whether the claimant was advocating a different approach as a matter of substance and, if so, what the difference of substance was.
+The present case
+In the present case it was Mr Khans job to attend to customers and to respond to their inquiries.
+His conduct in answering the claimants request in a foul mouthed way and ordering him to leave was inexcusable but within the field of activities assigned to him.
+What happened thereafter was an unbroken sequence of events.
+It was argued by the respondent and accepted by the judge that there ceased to be any significant connection between Mr Khans employment and his behaviour towards the claimant when he came out from behind the counter and followed the claimant onto the forecourt.
+I disagree for two reasons.
+First, I do not consider that it is right to regard him as having metaphorically taken off his uniform the moment he stepped from behind the counter.
+He was following up on what he had said to the claimant.
+It was a seamless episode.
+Secondly, when Mr Khan followed the claimant back to his car and opened the front passenger door, he again told the claimant in threatening words that he was never to come back to the petrol station.
+This was not something personal between them; it was an order to keep away from his employers premises, which he reinforced by violence.
+In giving such an order he was purporting to act about his employers business.
+It was a gross abuse of his position, but it was in connection with the business in which he was employed to serve customers.
+His employers entrusted him with that position and it is just that as between them and the claimant, they should be held responsible for their employees abuse of it.
+Mr Khans motive is irrelevant.
+It looks obvious that he was motivated by personal racism rather than a desire to benefit his employers business, but that is neither here nor there.
+LORD DYSON:
+As Lord Toulson has explained, the test for holding an employer vicariously liable for the tort of his employee has troubled the courts for many years.
+The close connection test (whether the employees tort is so closely connected with his employment that it would be just to hold the employer liable) was first articulated in this jurisdiction by the House of Lords in Lister v Hesley Hall Ltd [2002] 1 AC 215.
+It has been subsequently followed in many cases, including several at the highest level: see para 42 above.
+As Lord Nicholls said in Dubai Aluminium Co Ltd v Salaam [2002] UKHL 48; [2003] 2 AC 366, para 26, the test is imprecise, but that is inevitable given the infinite range of circumstances where the issue of vicarious liability arises.
+The court, he said, has to make an evaluative judgment in each case, having regard to all the circumstances and to the assistance provided by previous court decisions on the facts of other cases.
+I would allow the appeal.
+The appellant in his application for permission to appeal in the present case argued that this court should reformulate the close connection test.
+In his written case, he submitted that it should be refined or replaced altogether in order to reflect modern views of justice; to advance the doctrines underlying policy considerations [underlying vicarious liability]; and to set clearer and less arbitrary boundaries.
+Accordingly, he submitted that the test for vicarious liability should be whether the employee (described as an authorised representative of the employer) commits the tort in circumstances where the reasonable observer would consider the employee to be acting in that representative capacity.
+The close connection test has now been repeatedly applied by our courts for some 13 years.
+In my view, it should only be abrogated or refined if a demonstrably better test can be devised.
+Far from being demonstrably better, the proposed new test is hopelessly vague.
+What does representative capacity mean in this context? And by what criteria is the court to determine the circumstances in which the reasonable observer would consider the employee to be acting in a representative capacity? I do not see how this test is more precise than the close connection test or how it better reflects modern views of justice.
+The attraction of the close connection test is that it is firmly rooted in justice.
+It asks whether the employees tort is so closely connected with his employment as to make it just to hold the employer liable.
+It is true that the test is imprecise.
+But this is an area of the law in which, as Lord Nicholls said, imprecision is inevitable.
+To search for certainty and precision in vicarious liability is to undertake a quest for a chimaera.
+Many aspects of the law of torts are inherently imprecise.
+For example, the imprecise concepts of fairness, justice and reasonableness are central to the law of negligence.
+The test for the existence of a duty of care is whether it is fair, just and reasonable to impose such a duty.
+The test for remoteness of loss is one of reasonable foreseeability.
+Questions such as whether to impose a duty of care and whether loss is recoverable are not always easy to answer because they are imprecise.
+But these tests are now well established in our law.
+To adopt the words of Lord Nicholls, the court has to make an evaluative judgment in each case having regard to all the circumstances and having regard to the assistance provided by previous decisions on the facts of other cases.
+In Various Claimants v Catholic Child Welfare Society [2012] UKSC 56; [2013] 2 AC 1 Lord Phillips said at para 19 the law of vicarious liability is on the move.
+It is true that there have been developments in the law as to the type of relationship that has to exist between an individual and a defendant for vicarious liability to be imposed on the defendant in respect of a tort committed by that individual.
+These developments have been a response to changes in the legal relationships between enterprises and members of their workforces and the increasing complexity and sophistication of the organisation of enterprises in the modern world.
+A good example is provided by the facts of the Catholic Child Welfare Society case itself.
+But there is no need for the law governing the circumstances in which an employer should be held vicariously liable for a tort committed by his employee to be on the move.
+There have been no changes in societal conditions which require such a development.
+The changes in the case law relating to the definition of the circumstances in which an employer is vicariously liable for the tort of his employee have not been made in response to changing social conditions.
+Rather they have been prompted by the aim of producing a fairer and more workable test.
+Unsurprisingly, this basic aim has remained constant.
+The Salmond test defined a wrongful act by a servant in the course of his employment as either (a) a wrongful act authorised by the master or (b) a wrongful and unauthorised mode of doing some act authorised by the master: Salmond, Law of Torts, 1st ed (1907), p 83; and Salmond & Heuston on the Law of Torts, 21st ed (1996), p 443.
+As Lord Steyn said in Lister at para 20, this was simply a practical test serving as a dividing line between cases where it is or is not just to impose vicarious liability (emphasis added).
+The importance of Lister (and the Canadian case of Bazley v Curry (1999) 174 DLR (4th) 45 whose reasoning it adopted) is that it recognised the difficulty created by the second limb of the Salmond test.
+This was not effective for determining the circumstances in which it was just to hold an employer vicariously liable for committing an act not authorised by the employer.
+The close connection test was introduced in order to remedy this shortcoming.
+This improvement was achieved by the simple expedient of explicitly incorporating the concept of justice into the close connection test.
+The new test was, therefore, by definition more effective than the Salmond test for determining the circumstances in which it is just to hold an employer vicariously liable for the unauthorised acts of his employee.
+It is difficult to see how the close connection test might be further refined.
+It is sufficient to say that no satisfactory refinement of the test has been suggested in the present case.
+As regards the facts of the present case, I agree with the analysis of Lord Toulson and the reasons he gives at paras 47 and 48 for holding that the defendants are liable for the assault committed by Mr Khan.
+For these reasons as well as those given by Lord Toulson, I would allow this appeal.

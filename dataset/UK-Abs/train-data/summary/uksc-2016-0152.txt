@@ -1,0 +1,52 @@
+MWB Business Exchanges Centres Ltd (MWB) operates offices in London.
+Rock Advertising (Rock) entered into a licence agreement with MWB to occupy office space for a fixed term of 12 months.
+Clause 7.6 of the agreement provided: This Licence sets out all the terms as agreed between MWB and [Rock].
+No other representations or terms shall apply or form part of this Licence.
+All variations to this Licence must be agreed, set out in writing and signed on behalf of both parties before they take effect.
+Rock accumulated licence fee arrears.
+Rocks director, Mr Idehen, proposed a revised schedule of payments to Ms Evans, a credit controller employed by MWB.
+Under his proposal, certain payments would be deferred and the accumulated arrears would be spread over the remainder of the licence term.
+This revised schedule was worth slightly less to MWB than the original terms, because of the interest cost of deferral.
+A dispute arose as to whether Ms Evans had accepted Mr Idehens proposal orally.
+MWB subsequently locked Rock out of the premises, terminated the licence and sued for the arrears.
+Rock counterclaimed, seeking damages for wrongful exclusion from the premises.
+In the County Court the judge found that the parties had agreed orally to Mr Idehens revised schedule; but the judge held that MWB could claim the arrears without regard to that oral variation, because the oral variation did not satisfy the formal requirements of Clause 7.6.
+Rock appealed successfully to the Court of Appeal, which held that the oral variation had also amounted to an agreement to dispense with Clause 7.6.
+It followed that MWB was bound by the oral variation.
+MWB appealed to the Supreme Court.
+The issues were: (i) whether a contractual term precluding amendment of an agreement other than in writing (a No Oral Modification or NOM clause) is legally effective; (ii) whether the variation of an agreement to pay money, by substituting an obligation to pay either less money or the same money later, is supported by the necessary consideration.
+The Supreme Court unanimously allows the appeal.
+Lord Sumption gives the lead judgment, with which Lady Hale, Lord Wilson and Lord Lloyd Jones agree.
+Lord Briggs gives a concurring judgment.
+NOM clauses are common, for at least three reasons: (i) they prevent attempts, including abusive attempts, to undermine written agreements by informal means; (ii) they avoid disputes not just about whether a variation was intended but also about its exact terms; (iii) they make it easier for corporations to police their own internal rules restricting the authority to agree variations.
+The law of
+contract does not normally obstruct the legitimate intentions of businessmen, except for overriding reasons of public policy.
+NOM clauses do not frustrate or contravene any policy of the law [12].
+The argument for disregarding NOM clauses is that parties cannot agree not to vary a contract orally, because such an agreement would be destroyed automatically upon oral variation.
+However, there are legal systems, including widely used international codes, which impose no formal requirements for the validity of contracts and which yet give effect to NOM clauses.
+That suggests that there is no conceptual inconsistency between a general rule permitting informally created contracts and a specific rule requiring variation to be agreed in writing.
+The same point may be made by reference to the treatment of entire agreement clauses, which nullify prior collateral agreements relating to the same subject matter.
+Where such a clause is relied on to modify what would otherwise be the effect of the agreement which contains it, the courts will routinely apply the clause according to its terms and will decline to give effect to the collateral agreement [13 14].
+Parties who agree an oral variation in spite of a NOM clause do not necessarily intend to dispense with that clause.
+What the parties agreed was that oral variations will be invalid, not that they are forbidden.
+The natural inference from a failure to observe a NOM clause is not that the parties intended to dispense with it, but that they overlooked it.
+On the other hand, if they had it in mind, then they were courting invalidity with their eyes open [15].
+The approach of the Court of Appeal overrides the parties intentions to bind themselves as to the manner in which future changes in their legal relations are to be achieved.
+In many cases, statute prescribes a particular form of agreement.
+There is no principled reason why contracting parties should not adopt the same prescriptions by agreement [9 11].
+The enforcement of NOM clauses involves the risk that a party may act on the varied contract but then find itself unable to enforce it.
+The safeguard against injustice lies in the various doctrines of estoppel.
+Reliance on an estoppel would require, at the very least: (i) some words or conduct unequivocally representing that the variation was valid notwithstanding its informality and (ii) for this purpose, something more than the informal promise itself [16].
+The oral variation in the present case was invalid for want of the writing and signatures required by Clause 7.6.
+That makes it unnecessary to deal with the issue of consideration.
+That area of law is probably ripe for re examination.
+The order of the County Court is restored [17 18].
+Lord Briggs agrees that the appeal should be allowed, but his reasons differ to those of Lord Sumption.
+To give effect to a NOM is not to override the parties intentions; the NOM clause will remain in force until both or all parties agree to do away with it.
+It is conceptually impossible for the contracting parties to impose upon themselves a particular scheme, but not to be free by further agreement to vary or abandon it by any method permitted by the general law.
+Although various international law codes give effect to NOMs, these either (i) form part of a national law, in which case they bind parties as would an English statute, or (ii) have been chosen by the parties, in which case the parties may agree to depart from those principles.
+Entire agreement clauses are not a useful analogy: they do not purport to bind the parties future conduct, so do not involve the same conceptual difficulties as NOM clauses.
+There is a powerful analogy with negotiations subject to contract, where the parties may abandon the requirement of a formal written agreement only expressly or by necessary implication.
+In Lord Briggs view, a NOM clause binds the parties until they expressly (or by necessary implication) agree to do away with it.
+This accords with the analysis adopted in most other common law jurisdictions [25 32].
+In this case, the oral variation said nothing about the NOM clause, which has not been done away with by necessary implication [24].

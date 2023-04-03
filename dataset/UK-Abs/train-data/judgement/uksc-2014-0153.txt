@@ -1,0 +1,141 @@
+The issue in this case concerns the true meaning and ambit of the additional right of appeal specific to asylum claims which was given by section 83 of the Nationality, Immigration and Asylum Act 2002 (NIAA 2002).
+That section has now been repealed by section 15(3) of the Immigration Act 2014 and replaced by a wider right of appeal.
+It remains, however, in force for the present appellant, and perhaps for some others.
+The Court of Appeal gave permission, before the Immigration Act 2014 had been passed, for the present appeal to be brought to this court: [2014] 1 WLR 2766.
+The principal right of appeal against immigration decisions made by the Home Secretary was, in NIAA 2002, given by section 82.
+Stripped of inessentials, a right of appeal to an immigration judge was given by that section in respect of a variety of listed immigration decisions.
+Importantly for present purposes, those included the principal decisions which will lead to removal from this country, such as a decision to remove, or a refusal to vary leave to remain which will leave the claimant without it.
+A claim for asylum, that is to say a claim to be a refugee entitled to the benefit of the Refugee Convention, was not amongst the list of immigration decisions and did not therefore attract the section 82 right of appeal.
+However, if an appeal under section 82 existed because there was also an immigration decision of one of the kinds listed, the claimant was expressly entitled by section 84(1)(g) to raise the argument that his removal would put this country in breach of its obligations under the Refugee Convention.
+By this somewhat circuitous but effective route a right of appeal against refusal of asylum in practice existed under the NIAA 2002, as under previous legislation, if there was an immigration decision to appeal under section 82.
+Generally, there was.
+But it might happen that there was not if, for example, when the asylum claim was refused by the Home Secretary, leave to remain was granted.
+In that event, the continued presence of the claimant would be lawful and there would be no occasion for an appeal under section 82, under which the question of refugee status could be determined.
+The issue of refugee status is significant, because some legal consequences flow from it if it is held to exist.
+It was not that uncommon for those whose asylum claims failed nevertheless to be granted limited leave to remain; a simple example was unaccompanied minors who were and are very often granted leave to remain until they reach the age of majority, in order to avoid removing children who have no sufficient family or other support: see TN (Afghanistan) v Secretary of State for the Home Department [2015] UKSC 40; [2015] 1 WLR 3083.
+an asylum claim, in specified circumstances.
+It said: Section 83, however, provided a specific right of appeal against a refusal of 83.
+Appeal: asylum claim (1) This section applies where a person has made an asylum claim and (a) his claim has been rejected by the Secretary of State, but (b) he has been granted leave to enter or remain in the United Kingdom for a period exceeding one year (or for periods exceeding one year in aggregate). (2) The person may appeal to the Tribunal against the rejection of his asylum claim.
+The appellant is a citizen of Uganda.
+On 27 September 2010 he was granted limited leave to remain in the United Kingdom as a student until 30 April 2012.
+Before that time had expired, he applied for a variation of his leave to remain on the grounds that he should be accepted as a refugee.
+The basis of that claim was that his brother was suspected of being involved in terrorist activities directed against the Ugandan Government, and he claimed that by reason of his relationship and the suspicion that he might be involved with his brother, he faced a real risk of persecution if he were to be returned.
+On 7 February 2012 the Secretary of State rejected the claim and refused to vary the limited leave to remain, but she did not curtail it.
+Thus the appellant had, at the time that his asylum claim was refused, about 11 weeks or so left of his limited student leave to remain.
+The appellant appealed to the First tier Tribunal, where his claim to refugee status was refused on the merits without any question of jurisdiction being raised and apparently on the unspoken assumption that the appeal was brought under section 82.
+When, however, he pursued his case to the Upper Tribunal, contending that the First tier decision was perverse, the jurisdiction point was taken before Upper Tribunal Judge Clive Lane.
+He held that there had never been any right of appeal, and for that reason declined to investigate the case further.
+On further appeal, the Court of Appeal came to the same conclusion.
+The question is a shortly stated one of statutory construction.
+The rival arguments were developed on both sides with exemplary elegance and concision.
+As often happens, the brevity with which the issue can be identified does not reflect the intrinsic difficulty of resolving it.
+The appellants case runs as follows.
+Section 83 gives a general right of appeal to those whose claim to i) refugee status has been refused. ii) The limitation upon that right of appeal constituted by subsection (1)(b) should be broadly rather than narrowly construed, since refugee status is a matter of significance and engages this countrys international obligations to permit a properly qualified claimant to exercise the rights secured by the Convention.
+Nor should a construction be adopted which restricts the appellants right of access to the tribunal. iii) The natural meaning of section 83 is that any grant(s) of leave to remain totalling more than 12 months bring the claimant within the section and afford him the right of appeal.
+It matters not whether the grant of leave to remain came before or after the refusal of the asylum claim.
+Indeed, a grant or grants which had expired before the asylum claim was made would also do so. iv) The alternative construction advanced by the Secretary of State and upheld by the Court of Appeal, namely that subsection (1)(b) applies only to grant(s) of leave to remain made after the refusal of the asylum claim would be tantamount to making the right of appeal hinge on the leave to remain decision rather than, as it is clearly designed to do, on the decision to refuse asylum.
+The Secretary of State supports the conclusion of both the Upper Tribunal and the Court of Appeal that the true construction of section 83 requires the grant(s) of leave to remain to be either contemporaneous with or to post date the refusal of the asylum claim.
+That, she contends, is also consistent with the purpose of the statute which she asserts is to provide an appeal to those who have no section 82 appeal and will not have such in the reasonably near future.
+She also suggests that the wider structure of the NIAA supports this construction, in particular sections 78, 94 and 83A, which are considered below.
+As the submissions were developed in oral argument it became apparent that there are four possible constructions of section 83: (i) any grant(s) of leave to remain totalling more than 12 months bring the claimant within the section, whenever they occurred and whether or not they had expired before the asylum claim was made and determined; this was the appellants primary case; (ii) grant(s) of leave to remain totalling more than 12 months bring the claimant within the section providing such leave is still current at the time of the determination of the asylum claim; this was the appellants alternative position; (iii) grant(s) of leave to remain bring the claimant within the section providing that such leave totalled more than 12 months counting from the date of refusal or later grant, and whether the grant(s) were made before or after refusal; this was the alternative contention of the Secretary of State if her principal one ((iv) below) failed; (iv) grant(s) of leave to remain totalling more than 12 months bring the claimant within the section if but only if they (and all of them if more than one) are either contemporaneous with or post date the determination of the asylum claim; this was the Secretary of States primary case and was adopted by the Upper Tribunal and the Court of Appeal.
+At one time in the past the Secretary of State contended in cases concerning section 83 that the wording used demanded that there be a nexus between the refusal of the asylum claim and the grant of more than 12 months limited leave.
+In other words, it was contended that the one must be logically connected to the other.
+That contention was rejected by Beatson J, as he then was, at first instance in AS (Somalia) v Secretary of State for the Home Department [2011] EWHC 627 (Admin).
+In that case, AS had arrived as an unaccompanied minor.
+He had made two asylum claims.
+The first had been rejected in November 2006 but he had been granted limited leave to remain for approximately four months until he was 18.
+Subsequently, he applied to extend that leave, and in addition made a second claim to be adjudged a refugee.
+The second asylum claim was never determined but the claimant was, three years after it was made, granted indefinite leave to remain.
+Thus there was no more than 12 months leave associated with the first refusal of asylum, and no refusal of asylum associated with the much later grant of indefinite leave.
+The judge held that AS was within section 83 and on appeal the Secretary of State abandoned the argument to the contrary.
+The Court of Appeal [2011] EWCA Civ 1319; [2012] INLR 332 (per Sullivan LJ) rightly recorded at para 17 that this was plainly correct.
+The fact that section 83 brings within its provisions the case of multiple grants of leave totalling 12 months shows that there does not have to be a nexus between the refusal of asylum and the grant(s).
+In the present case, Mr Eadie QC for the Secretary of State correctly disclaimed the argument for nexus.
+To the extent that the Upper Tribunal in the present case, giving judgment without sight of AS (Somalia), founded in part on the need for nexus, it was wrong.
+It was common ground before us that there are three differences to record between section 82 appeals and those under section 83.
+They were succinctly summarised by Elias LJ at para 14 in the Court of Appeal as follows: First, the Secretary of State may certify a claim [under section 82] as clearly unfounded under section 94, and where she does this it precludes any in country right of appeal.
+This does not apply to an asylum rejection under section 83.
+Second, section 96 allows the Secretary of State to prevent repetitious appeals if the grounds advanced ought to have been made in response to an earlier decision.
+Again, this power can only be exercised with respect to section 82 appeals and does not apply to section 83 appeals.
+Third, by section 78, where an appeal is lodged under section 82, the appellant may not be removed until it is determined.
+That benefit does not extend to appeals under section 83.
+It is convenient also to note the adjacent section 83A, which was added into NIAA 2002 by section 1 of the Immigration, Asylum and Nationality Act 2006.
+Section 83A provides for the related case of a person who was originally granted asylum as a refugee but has subsequently been held to have ceased to be such, for example because conditions have changed in his home country.
+Section 83A reads as follows: (1) This section applies where a person has made an asylum claim, (a) (b) he was granted limited leave to enter or remain in the United Kingdom as a refugee within the meaning of the Refugee Convention, (c) a decision is made that he is not a refugee, and (d) following the decision specified in para (c) he has limited leave to enter or remain in the United Kingdom otherwise than as a refugee.
+It is true that section 83 can, as a matter of language, be read in a number of different ways.
+It is, however, not the most natural reading of it to construe subsection (1)(b) as if it read he has been granted at any time, now or in the past, leave to enter or remain , as construction (i) would entail.
+Nor to my mind is it the most natural reading of the words that subsection (1)(b) must be taken as if it said he has subsequently been granted leave to enter or remain , as construction (iv) would require.
+Section 83 appears to focus on the time when the asylum claim has been rejected, for it is concerned with appeals against this decision, and then to ask whether, when a claimant wishes to appeal, the condition in subsection (1)(b) is met.
+This characteristic of section 83 suggests that it is concerned with grants of leave to remain which are operative after the refusal of asylum, but not with those which have existed in the past but which are spent before any question of asylum arises.
+On its face, however, the section (1)(b) condition of having been granted more than 12 months leave might be met by a grant or grants which came before the refusal of asylum, as well as by ones which came afterwards.
+The principal difficulty in the way of the appellants foundation argument for his alternative submissions arises from the form and content of section 83.
+That section does not, as is suggested, first create a general right of appeal against refusal of asylum, and then make that right subject to a limitation contained in subsection (1)(b).
+Subsection (1)(b) is not a limitation of the right of appeal.
+Rather, it is a condition for the right of appeal arising.
+It is a key to admission, not a partial barrier to entry.
+It cannot sensibly be read as if it said that there exists a right of appeal unless there has been a grant or grants of limited leave to appeal totalling 12 months or less.
+In particular it clearly does not apply where there is no grant of leave at all.
+The appellants second difficulty is that his primary case would mean that a past and expired grant of limited leave opened the door to this appeal against refusal of asylum when there is no conceivable reason why it should.
+On construction (i) a claimant would be within section 83 if, 20 years ago, he had been a student in the UK, enjoying a grant of limited leave to remain for something over a year, had then left this country and had returned only recently, on whatever basis (or none) but without more than 12 months leave to remain, whereupon he had made an asylum claim.
+There would be no possible reason why his historical experience of lawful residence for over 12 months should have any bearing at all on whether he had a separate right of appeal under section 83, as distinct from having only the same right that most asylum claimants have, namely to raise his refugee claim in a section 82 appeal.
+Mr Biggs realistically did not advance the argument which has been ventilated at earlier stages in this or other cases, namely that the history of previous lawful residence is meant to bring such a claimant within section 83 on the grounds that it demonstrates some connection with the UK and a consequent claim on a preferential procedure.
+There appears no conceivable reason why Parliament should have meant to provide a claimant in this position with a separate section 83 right of appeal.
+An expired grant of leave fell to be considered in R (Omondi) v Secretary of State for the Home Department [2009] EWHC 827 (Admin) and Judge Ockelton, sitting as a deputy judge of the High Court, drawing on marked experience of immigration practicalities, reached the same conclusion.
+Construction (ii) suffers from the same difficulty, albeit less acutely.
+There appears to be no sensible reason why historic grant(s) of leave to remain totalling more than 12 months should import the right to appeal under section 83 if they are largely spent by the time of the refusal of asylum, and thus, as at that time, the 12 month condition is not met.
+Conversely, the difficulty with construction (iv) is that it would treat differently two people whose cases are materially the same.
+A claimant whose asylum claim was rejected but who, a week or so later, was granted 18 months leave to remain, would be within section 83 and have its right of appeal against the asylum decision.
+A second claimant, who had been granted two years leave to remain six months before his asylum claim was rejected, would not.
+But as at the refusal of asylum their positions in relation to leave to remain would be effectively identical.
+There appears no reason why Parliament should have intended this result.
+Mr Biggs suggested another case in which, if construction (iv) were correct, section 83 would, undesirably, cease to afford a right of appeal.
+That is the case of indefinite leave to remain granted before the refusal of asylum.
+In such a case, on construction (iv) there would never be an opportunity to take the refusal of asylum to appeal and to establish refugee status.
+How likely that case is may possibly be open to enquiry, but it would indeed fail construction (iv).
+On the other hand, a grant of indefinite leave to remain made after the refusal of asylum would bring the section 83 right of appeal, because plainly indefinite leave is for a period exceeding one year.
+There is no obvious reason for the difference between the two cases.
+The purpose of section 83 is tolerably clear.
+It is to provide an additional and more targeted right of appeal beyond the ordinary one created by section 82.
+It is to provide a vehicle for the determination by the tribunal of refugee status, when that status is asserted but rejected by the Secretary of State, in those cases where no such vehicle otherwise exists, nor will exist within a reasonable time.
+In the straightforward case of an asylum claim which is rejected and no other basis for remaining in the UK exists, there will follow a removal decision which generates a right of appeal under section 82, and on that appeal the claimant will succeed if he shows that he is entitled to refugee status.
+In the case of a person, such as an unaccompanied minor, whose asylum claim is refused, but who is granted a short period of leave to remain, there will in the relatively near future either be a further grant of leave to remain or there will be a refusal of it and a decision to remove.
+At that foreseeably proximate stage, there will, unless leave is extended, again arise a right of appeal under section 82 in which refugee status, if established, will guarantee success.
+Section 83 is designed to create an extra right of appeal for those who have a longer period of leave to remain and who would otherwise have no section 82 vehicle which they could use.
+As Upper Tribunal Judge Clive Lane concisely put it in the Upper Tribunal, section 83 is aimed at this class of applicant, so that he should not be deprived of his right to challenge the refusal of his asylum claim where that refusal is not accompanied by a decision to remove him.
+In FA (Iraq) v Secretary of State for the Home Department [2010] EWCA Civ 696; [2010] 1 WLR 2545, paras 13 and 30 both Longmore and Pill LJJ expressed the same idea when they observed that section 83 was aimed at people in whose cases the Secretary of State would not be reconsidering the immigration position in the near future.
+In TN (Afghanistan) at para 32, Lord Toulson referred to the additional consideration that where conditions in the home country may be fluctuating rapidly, it makes good sense for tribunals not to become clogged with cases which are due to be reviewed before long in any event.
+Once that is understood, it is clear that the construction which most nearly serves the purpose of the statute is construction (iii).
+That focuses on identifying those claimants in whose cases there will not be a section 82 vehicle for an appeal on refugee status for longer than the 12 month period which Parliament has set as the relevant one.
+Thus the claimant may avail himself of section 83 if he has limited leave totalling more than 12 months counting from the date of refusal or, if later, the date of grant (or, a fortiori, if he has been granted indefinite leave).
+That is so whether or not his leave started before the refusal, and whether his leave is the result of a single grant or of more than one.
+If, however, when he seeks to appeal, any current leave has 12 months or less to run from the date of refusal of the asylum claim, or from a later grant, then he is left to his section 82 appeal in due course.
+Conversely, neither construction (i) nor (ii) serves the purpose of the provision at all.
+Both would bring within section 83 those who do not need it, because there will, within a relatively short time, be a further decision of the kind which, if it involves an end to leave to remain, will bring with it a right to appeal under section 82, whilst if it extends leave to more than 12 months from refusal the claimant can take advantage of section 83.
+Construction (iv) would serve this statutory purpose, but would, as explained above, leave out some whose case falls within that purpose.
+Likewise, once this purpose is understood, the statutory structure under which sections 78 and 94 do not apply to appeals under section 83 falls into place.
+There is no need for the suspensive rule of section 78 because the claimant is lawfully in the UK.
+There is no adverse decision, under which he becomes unlawfully present, which calls for suspension.
+Nor, for the same reason, is there the same need for certification of claims as unfounded.
+True, the view might have been taken that a manifestly unfounded asylum claim could be certifiable to avoid time and expense on an appeal to the tribunal, but there would not be the same prolongation of unlawful residence which appears to be the basis of the power to certify, and it makes perfectly good sense for the determination of the asylum appeal to be left to the tribunal, even if it has no merit.
+On the other hand, as the Secretary of State contended, these provisions would be necessary if section 83 brought within its terms a person whose grant(s) of leave to remain were historic and either spent or soon to be spent, for he would indeed be (or about to be) unlawfully present in this country.
+To that extent, the structure of the Act outside the precise terms of section 83 provides some further support for saying that constructions (i) and (ii) are not correct.
+The fact that the provisions of section 96 for prevention of repetitious appeals do not apply to an appeal within section 83 is no indication to the contrary.
+As was pointed out in both the Administrative Court and the Court of Appeal in AS (Somalia), where one of the claimants had previously made an unsuccessful asylum claim, the making of an unmeritorious second claim by a claimant who is lawfully here, whilst it is to be discouraged, is not to be equated with the kind of desperate application which is likely to be made by those who are under threat of removal, and it does not stand in the same need of active measures to prevent it.
+Moreover, since a tribunal considering a second asylum claim will, in accordance with Devaseelan v Secretary of State for the Home Department [2002] UKIAT 702; [2003] Imm AR 1, begin by assuming the correctness of the first decision and thus look for fresh or different considerations not previously assessed, an undeserving second claim need not detain the appellate system for an unacceptable time.
+That was Mr Ockeltons view in Abiyat (rights of appeal) Iran [2011] UKUT 00314 (IAC); [2012] INLR 131, a view endorsed by Sullivan LJ in AS (Somalia) at para 40.
+Next, the absence of any need for a nexus between refusal of asylum and the grant(s) of leave to remain (as confirmed in AS (Somalia)) tends somewhat to support construction (iii) and to counter construction (iv).
+That is because it demonstrates that it is the existence of leave of the prescribed length, at the relevant time, rather than the date on which it was granted, which matters.
+The Court of Appeal in the present case also drew attention to the conjunctive but which links subparagraph (a) to subparagraph (b), distinguishing it from the and which might have been used.
+The Secretary of State supported this argument, contending that the use of but indicated a requirement that the grant(s) of leave must come at the same time or after the refusal of asylum, and thus supported construction (iv).
+Whilst it is true that and would not be so open to this argument, as a matter of syntax but does not necessarily mean subsequent to; it may simply be used to mean however, or although and thus to be neutral on the timing of the grant(s).
+Nor, to my mind, do the terms of section 83A provide support to the Secretary of States argument for construction (iv).
+First, it is not in any event safe to use a subsequently drafted section to construe a statutory provision which was written some years earlier.
+That is different from considering adjacent sections produced by the same author contemporaneously.
+Second, the use of the word following in subparagraph (d) does not necessarily connote a subsequent grant.
+Section 83A requires that following the refusal, the claimant shall be the beneficiary of leave to remain.
+It focuses, as does section 83, on what his position is as at the refusal of leave and thereafter, but not on when the grant was made.
+The use in subparagraph (d) of the words has leave, rather than is granted leave tends to confirm this and to point away from insistence on subsequent grant.
+These several additional reasons all support what is both a natural reading of section 83 and most consistent with its purpose, namely that the proper construction is (iii), as explained in para 22 above.
+Since the remaining period of leave which the present appellant enjoyed was well short of the period of more than 12 months from refusal of his asylum claim required by section 83, he did not fall within the section.
+It follows that the appeal must be dismissed, although not quite for the reasons given by the Court of Appeal.
+It, like the Upper Tribunal in Win (section 83 order of events) [2012] UKUT 00365 (IAC); [2013] Imm AR 154 went further than it should have done by adopting construction (iv); it is not clear that construction (iii) was put before either court, and the appellants in both cases failed to meet the test whichever was adopted.

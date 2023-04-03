@@ -1,0 +1,168 @@
+In May 2010, Mr Mark Irvine made a number of requests under the Freedom of Information (Scotland) Act 2002 (FOISA) for information from South Lanarkshire Council.
+He wanted to know how many of their employees in a particular post were placed at 10 particular points on the Councils pay scales.
+His underlying purpose was to find out whether the Councils pay gradings favoured work traditionally done by men.
+He did not want to know the names of the employees concerned.
+The Council refused his request on the ground that to comply with it would contravene the Data Protection Act 1998 (DPA).
+Mr Irvine complained to the Scottish Information Commissioner who investigated and decided that the information should be disclosed.
+The Council appealed unsuccessfully to the Inner House of the Court of Session and now appeals to this Court.
+There are two issues before this Court.
+First and most important is the proper interpretation of condition 6 in Schedule 2 to the 1998 Act.
+It is common ground for the purpose of this case that the information requested is personal data in the hands of the Council as data controller.
+Personal data may only be processed if one of the conditions in Schedule 2 is met and condition 6 is the only relevant condition: The processing is necessary for the purposes of legitimate interests pursued by the data controller or by the third party or parties to whom the data are disclosed, except where the processing is unwarranted in any particular case by reason of prejudice to the rights and freedoms or legitimate interests of the data subject.
+The second issue is whether the Commissioner acted in breach of natural justice by failing to disclose to the Council all of the communications passing between the Commissioner and Mr Irvine and two Members of the Scottish Parliament in the course of his investigations.
+The legislation
+The inter relationship between the DPA 1998 and the FOISA 2002 is uncontroversial in these proceedings.
+Information is absolutely exempt from disclosure under the FOISA if it constitutes personal data under the DPA and disclosure to a member of the public would contravene any of the data protection principles in that Act (FOISA, s 38(1)(b) and (3)).
+The first data protection principle is that personal data shall be processed fairly and lawfully and, in particular, shall not be processed unless (a) at least one of the conditions in Schedule 2 is met (DPA, Sched 1, para 1).
+As Lord Rodger of Earlsferry pointed out in Common Services Agency v Scottish Information Commissioner [2008] UKHL 47, 2008 SC (HL) 184, this means that the safeguards against the disclosure of personal data which applied before the enactment of the FOISA continue to apply.
+He went on: Where the legislature has thus worked out the way that the requirements of data protection and freedom of information are to be reconciled, the role of the court is just to apply the compromise to be found in the legislation.
+There is, however, no reason why courts should favour the right to freedom of information over the rights of data subjects. (para 68) Lord Hope of Craighead was of the same view: In my opinion there is no presumption in favour of the release of personal data under the general obligation that FOISA lays down.
+The references which that Act makes to provisions of DPA 1998 must be understood in the light of the legislative purpose of that Act, which was to implement Council Directive 95/46/EC.
+The guiding principle is the protection of the fundamental rights and freedoms of persons, and in particular their right to privacy with respect to the processing of personal data. (para 7)
+What the FOISA does, therefore, is give the person who requests the information a right to have that information disclosed to him (s 1(1)) provided that this does not contravene the DPA.
+This is, of course, a right which he did not have before the FOISA was passed, but it is not a right which trumps the provisions of the DPA.
+The DPA is the means whereby the United Kingdom has translated Council Directive 95/46/EC (1995) on the protection of individuals with regard to the processing of personal data and on the free movement of such data into UK law and must therefore be interpreted in conformity with that Directive.
+Article 1(1) requires that Member States shall protect the fundamental rights and freedoms of natural persons and in particular their right to privacy with respect to the processing of personal data.
+Article 7 requires Member States to provide that personal data may be processed only if one or more of six paragraphs applies.
+It is worth setting out those paragraphs in full, because they correspond (although not always in exactly the same terms) with conditions 1 to 6 in Schedule 2 to the DPA: (a) the data subject has unambiguously given his consent; or (b) processing is necessary for the performance of a contract to which the data subject is party or in order to take steps at the request of the data subject prior to entering into a contract; or (c) processing is necessary for compliance with a legal obligation to which the controller is subject; or (d) processing is necessary in order to protect the vital interests of the data subject; or (e) processing is necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in the controller or in a third party to whom the data are disclosed; or (f) processing is necessary for the purposes of the legitimate interests pursued by the controller or by the third party or parties to whom the data are disclosed, except where such interests are overridden by the interests for fundamental rights and freedoms of the data subject which require protection under article 1(1).
+Several points are worth noticing.
+First, these paragraphs apply to all kinds of processing, not just to disclosure under the FOISA, which in practice may mean disclosure to the whole wide world.
+Processing means any kind of operation performed on the data, such as collecting, recording, organising, storing, adapting or altering, retrieving, consulting, using, disclosing or otherwise making available, aligning or combining, blocking, erasing or destroying (article 2(b); see DPA s 1(1) and (2)).
+Second, therefore, any interpretation of the conditions under which processing is permitted must be capable of being applied to all those many different ways in which data may be processed.
+Third, it would be surprising if the word necessary, which appears in all the conditions except the first, were to have a different meaning in different conditions.
+Mrs Wolffe QC, who appears for the Council, correctly points out that article 7 is derived from the first part of Recital (30), which lists the substance of paragraphs (b) to (f) after a single necessary.
+Fourth, therefore, any interpretation given to the word necessary must be capable of applying equally well to each of those situations, some of which involve compliance with legal obligations.
+Fifth, the only paragraph which contains a built in balance between the rights of the data subject and the need to process the data is paragraph (f) and condition 6.
+The proceedings
+request for information under the FOISA: On 10 May 2010, Mr Irvine wrote to the Council making the following I am seeking information about the basic hourly rate of pay for the council job category Land Service Operative 3.
+How many of the total number of LSO 3 posts are placed at Spinal Column Point 25? Over the next ten days he wrote nine more times making the same request in respect of spinal column points 26 to 34.
+Placement on a spinal column point determines the hourly rate of pay for all employees placed at that point.
+On 1 June 2010, the Council refused all ten requests on the ground that it considered them vexatious, principally because of Mr Irvines blog for Action4Equality Scotland and his connections with the solicitor representing equal pay claimants against the Council.
+It later withdrew its reliance on that ground for refusal.
+On 1 September 2010, it refused all ten requests on the ground that the information requested was personal data and disclosure would contravene the data protection principles.
+Mr Irvine requested a review, stating that there is a clear public interest in releasing this pay information because this will demonstrate how South Lanarkshire Council has been using public funds to meet its obligations under the 1999 Single Status (Equal Pay) Agreement.
+All other councils in Scotland have already done so freely without any fuss and bother and without the need for a formal FOISA request.
+The Council maintained its position.
+On 11 October, Mr Irvine wrote to the Scottish Information Commissioner asking for a decision.
+He stated: 4.
+My request focuses on the way South Lanarkshire Council uses public money to treat traditional male council jobs more favourably than their female colleagues. 5.
+I believe there is a serious public interest in this matter because gender equality is a fundamental human right.
+A corner stone of exercising this right effectively is the need for transparency in pay arrangements a requirement that other councils in Scotland are happy to observe. 6.
+In my view, South Lanarkshire council is trying to keep its pay arrangements secret, both to conceal the truth from its largely female workforce and as a means of avoiding public scrutiny 7.
+South Lanarkshire is effectively saying that while the public is entitled to know the level of remuneration paid to the councils chief executive (146,502) it should somehow be prevented from knowing what a council refuse worker or gardener gets paid.
+On 21 October, the Commissioner notified the Council that he was investigating the application and provided the Council with a copy of it (as required by FOISA, s 49(3)).
+On 18 November, he wrote asking the Council to explain why it considered that the information was exempt from disclosure under the FOISA (as also required by s 49(3)).
+The Council replied on 1 December, arguing that Mr Irvine had no legitimate interest in disclosure of the information and that disclosure was not necessary for the purpose of his legitimate interests.
+Thus the Council was fully aware that the relevant condition was condition 6.
+Meanwhile, the Commissioner had received a letter from Alex Neil MSP, supporting Mr Irvines request.
+On 19 November the Commissioner emailed Mr Irvine drawing attention to condition 6 as being the only condition which he thought might apply and requesting Mr Irvines submissions upon it.
+On 26 November, Mr Irvine replied stating, inter alia: 1.
+I work with Action 4 Equality Scotland, which was pursuing a large number of equal pay claims on behalf of 2000+ employees of [the Council] 3.
+The pay information requested . is necessary to determine whether there is pay discrimination against female dominated jobs. 4.
+Every other council in Scotland is happy to provide such information without the need for a FOISA request and such information is routinely gathered, by councils and other employers, for equality monitoring purposes 7.
+The current dispute stems from the 1999 Single Status (Equal Pay) Agreement which was designed to eliminate pay discrimination in Scottish local government. 8.
+I was heavily involved in the negotiations which led up to [that agreement] as Unisons Head of Local Government in Scotland at that time. 9.
+I also write a blog site in my capacity as a freelance writer, which deals with a wide range of issues including equal pay .
+That same day, the Commissioner emailed Mr Irvine, asking for examples of where similar requests had been fully answered by other councils or where such information is actually published.
+Again that day, Mr Irvine replied naming six councils which had disclosed their pay arrangements some time ago.
+On 9 December, the Commissioner wrote again to Mr Irvine asking for clarification of what the Council had in fact told him about the pay scales of their LSO 3 employees and for any further comments he might have as to why he (or the general public) had a legitimate interest in obtaining the information.
+Mr Irvine replied on 10 December that Scotlands Single Status (Equal Pay) was hailed as a major landmark agreement in 1999: The declared intention of the new agreement was to introduce new and fairer arrangements for around 250,000 council workers based on a non discriminatory, equality proofed approach to job evaluation.
+Openness and transparency are at the heart of any equality proofed job evaluation scheme so that employees can understand not only the basis on which their own jobs are paid, but the jobs of other council employees as well.
+The Commissioner also received a letter from Hugh ODonnell MSP referring to his constituents frustration at the Councils failure to provide information and asking that the matter be brought to a conclusion.
+None of the correspondence referred to in the previous paragraph was disclosed to the Council, nor was the Council asked to provide any further comments or representations to the Commissioner.
+The Commissioner issued his decision on 17 March 2011: Decision 056/2011.
+He considered it arguable that the data requested were not personal data, but went on to consider whether disclosure would breach the data protection principles (para 27).
+He directed himself (para 34) that there were three tests to be satisfied before condition 6 could be met: (a) Does Mr Irvine have a legitimate interest in obtaining the personal data? (b) If yes, is the disclosure necessary to achieve those legitimate aims? In other words, is the disclosure proportionate as a means and fairly balanced as to ends, or could these legitimate aims be achieved by means which interfere less with the privacy of the data subject? (c) Even if the processing is necessary for Mr Irvines legitimate purposes, would the disclosure nevertheless cause unwarranted prejudice to the rights and freedoms or legitimate interests of the data subjects? .
+The Commissioner concluded (para 44) that Mr Irvine did have a legitimate interest in obtaining the information requested.
+He has a serious, ongoing interest in equal pay matters.
+These were also matters of legitimate wider interest, both to employees of the Council and the wider public: Given the considerable sums of public money involved and the fundamental issues of fair and equal treatment which require to be addressed, it is important that (subject to there being in place adequate safeguards for individuals . ) a local authoritys arrangements for securing equal pay are open to adequate public scrutiny.
+Having considered that legitimate interest along with the nature of the information requested, he could identify no means of meeting the interest which would interfere less with the privacy of the data subject than disclosure of the requested information.
+He did not consider this an intrusion of any significance on the privacy of the individuals concerned.
+So disclosure was necessary to achieve Mr Irvines legitimate interests (para 51).
+When considering the interests of the data subjects in more detail, he was unable to identify how Mr Irvine or anyone else might be able to identify the data subjects (para 62); he did not think that disclosure would be contrary to their legitimate expectations or likely to cause them distress (para 67).
+On balance, therefore, condition 6 was met (para 68).
+Disclosure would also be fair and lawful (para 69).
+The Commissioner therefore required the Council to disclose the information requested.
+Before the Inner House, as in this Court, the principal argument focussed on the meaning of necessary in condition 6.
+As is clear from paragraph 34 of his Decision (quoted at para 14 above), the Commissioner had adopted a proportionality approach.
+Counsel for the Commissioner argued that this was correct in the light of the decision of the Information Tribunal and the Divisional Court in the English case of Corporate Officer of the House of Commons v The Information Commissioner [2008] EWHC 1084 (Admin), [2009] 3 All ER 403 (the House of Commons case).
+Mrs Wolffe, for the Council, submitted that it should be given its natural and ordinary meaning.
+The Inner House saw the force of that and, but for the authority just cited, we would have had little hesitation in giving effect to it.
+But they found it unnecessary to form a concluded view as to the correct approach, because they were satisfied that even applying the stricter test the Commissioner could only have concluded that necessity was made out (para 10).
+The Inner House also held that there was no breach of natural justice in failing to disclose the matters referred to in para 12 above, because many, if not all, were previously within the knowledge of the Council and, insofar as relevant, they could be made the subject of legal submissions to the court (para 5).
+The proper interpretation and application of condition 6
+It is obvious that condition 6 requires three questions to be answered: (i) Is the data controller or the third party or parties to whom the data are disclosed pursuing a legitimate interest or interests? (ii) Is the processing involved necessary for the purposes of those interests? (iii) Is the processing unwarranted in this case by reason of prejudice to the rights and freedoms or legitimate interests of the data subject?
+It is not obvious why any further exegesis of those questions is required.
+However, in the House of Commons case, the Information Tribunal (unreported) 26 February 2008 accepted that necessary carries with it connotations from the European Convention on Human Rights, including the proposition that a pressing social need is involved and that the measure employed is proportionate to a legitimate aim being pursued (para 59).
+By the time the case reached the Divisional Court, It was common ground that necessary within para 6 of Sched 2 to the DPA should reflect the meaning attributed to it by the European Court of Human Rights when justifying an interference with a recognised right, namely that there should be a pressing social need and that the interference was both proportionate as to means and fairly balanced as to ends (para 43).
+That this was common ground is not surprising, in view of the decision of the European Court of Justice in Rechnungshof v sterreichischer Rundfunk (Joined Cases C 465/00, C 138/01 and C 139/01) [2003] 3 CMLR 265 (the Austrian Radio case).
+Austrian law required public bodies subject to control by the Court of Auditors to report to it the names, salaries and pensions above a certain level paid to their employees and pensioners.
+The Court of Auditors would then make a report to Parliament which would be made public, the object being to exert pressure on public bodies to keep remuneration within reasonable limits.
+The Court of Auditors brought proceedings against Austrian radio and other bodies who refused to provide the information and some of the individuals involved brought proceedings contesting the compatibility of the legislation with their fundamental rights and with the Directive.
+A principal issue was whether publishing these data fell within article 7(c) or (e) (see para 7 above).
+The European Court of Justice stated that the provisions of Directive 95/46, in so far as they govern the processing of personal data likely to infringe fundamental freedoms, in particular the right to privacy, must necessarily be interpreted in the light of fundamental rights, which, according to settled case law, form an integral part of the general principles of law whose observance the Court ensures (para 68).
+It went on to hold that for an employer to publish the names and incomes of employees to a third party was an interference with the right to respect for private life, protected by article 8 of the European Convention on Human Rights (para 74), but that it might be justified if it was both necessary for and appropriate to the aim of keeping salaries within reasonable limits, that being for the national courts to determine (para 90).
+But if the national legislation was incompatible with article 8, then it was also incapable of satisfying the requirements of proportionality in article 7(c) or (e) of Directive 95/46.
+In Huber v Bundesrepublik Deutschland (Case C 524/06) [2009] 1 CMLR 1360, an Austrian businessman who had moved to Germany complained that storing data relating to him in a central register of foreign nationals discriminated against him as there was no such database for German nationals.
+Advocate General Poiares Maduro pointed out that The concept of necessity has a long history in Community law and is well established as part of the proportionality test.
+It means that the authority adopting a measure which interferes with a right protected by Community law in order to achieve a legitimate aim must demonstrate that the measure is the least restrictive for the achievement of this aim. (para AG27) He went on to say that if the processing might be liable to infringe the fundamental right to privacy, article 8 became relevant, and the Court had held in the Austrian Radio case that if a national measure was incompatible with article 8, then it also failed to pass the threshold of article 7(e) of the Directive (para AG27).
+The European Court of Justice did not refer to this paragraph in its judgment and contented itself with saying that the concept of necessity laid down by article 7(e) of Directive 95/46 . cannot have a meaning which varies between member states.
+It therefore follows that what is at issue is a concept which has its own independent meaning in Community law and which must be interpreted in a manner which fully reflects the objective of that directive, as laid down in article 1(1) thereof. (para 52) The central register would only comply with article 7(e) if it contained only the data necessary for the authorities to apply the law relating to rights of residence and its centralised nature enabled that legislation to be more effectively applied (para 66).
+The Court did not, however, supply its own definition of necessary, nor has it done so in later cases (such as Volker und Marcus Schecke GbR v Land Hessen; Eifert v Land Hessen (Joined Cases C 92/09 and 93/09, [2012] All ER (EC) 127).
+Nevertheless, Mrs Wolffe contends that Huber imports a stricter test of necessity into article 7 and that while proportionality may come into other aspects of the conditions it does not come into necessary.
+She points out that the Court in Huber did not adopt the Advocate Generals formulation and although it referred to the Austrian Radio case it did not refer to the passages cited above.
+She does, however, stop short of arguing that necessary means absolutely necessary or even strictly necessary.
+She has also to accept that something may be necessary if it makes furthering the purposes of a legitimate interest more effective.
+I confess to having had some difficulty in understanding how that argument,
+skilfully and attractively advanced though it was, can help the Councils case.
+One might have thought it to its advantage to import the requirement of a pressing social need from the article 8 jurisprudence into condition 6.
+This might be thought a stricter test than that of a legitimate interest, which may be a purely private interest, in condition 6 and thus make the related test of necessity more difficult to fulfil.
+I agree with Mrs Wolffe to this extent: the word necessary has to be considered in relation to the processing to which it relates.
+If that processing would involve an interference with the data subjects right to respect for his private life, then the Austrian Radio case is clear authority for the proposition that the requirements of article 8(2) of the European Convention on Human Rights must be fulfilled.
+However, that was a case about article 7(e), where there is no express counterbalancing of the necessary processing against the rights and interests of the data subject.
+In a case such as this, where that balance is built into article 7(f) and condition 6, it may not matter so much where the requirements of article 8(2) are considered, as long as the overall result is compliant with them.
+In this particular case, however, as the processing requested would not enable Mr Irvine or anyone else to discover the identity of the data subjects, it is quite difficult to see why there is any interference with their right to respect for their private lives.
+It is enough to apply article 7(f) and condition 6 in their own terms.
+I disagree with Mrs Wolffe, however, about the meaning of necessary.
+It might be thought that, if there is no interference with article 8 rights involved, then all that has to be asked is whether the requester is pursuing a legitimate interest in seeking the information (which is not at issue in this case) and whether he needs that information in order to pursue it.
+It is well established in community law that, at least in the context of justification rather than derogation, necessary means reasonably rather than absolutely or strictly necessary (see, for example, R v Secretary of State for Employment, Ex p Seymour Smith (No 2) [2000] 1 WLR 435; Chief Constable of West Yorkshire Police v Homer [2012] UKSC 15, [2012] ICR 704).
+The proposition advanced by Advocate General Poiares Maduro in Huber is uncontroversial: necessity is well established in community law as part of the proportionality test.
+A measure which interferes with a right protected by community law must be the least restrictive for the achievement of a legitimate aim.
+Indeed, in ordinary language we would understand that a measure would not be necessary if the legitimate aim could be achieved by something less.
+Thus, for example, if Mr Irvine had asked for the names and addresses of the employees concerned, not only would article 8 have clearly been engaged, but the Commissioner would have had to ask himself whether his legitimate interests could have been served by a lesser degree of disclosure.
+My conclusion is, therefore, that the Commissioner adopted a test which was probably more favourable to the Council than was required and certainly no less favourable.
+In any event it is quite clear that he was entitled to reach the conclusion that he did.
+Natural Justice
+It is, of course, common ground that the Commissioner has a duty to act fairly.
+In Glasgow City Council v Scottish Information Commissioner [2009] CSIH 73, 2010 SC 125, Lord Reed, delivering the opinion of the Inner House, cited (at para 81) the well known words of Lord Mustill in R v Secretary of State for the Home Department, Ex p Doody [1994] 1 AC 531 at 560, on the essentials of fairness involved in administrative decision making.
+Lord Reed continued (para 82): As Lord Mustill made clear, what fairness demands is dependent on the context; and an essential feature of the context is the statute under which the decision maker is acting.
+The principle of audi alteram partem is . written into the Act.
+We do not doubt that it is open to the commissioner to go beyond the procedural steps required by section 49, and in particular, as in the present case, to consider additional submissions by the applicant and to carry out his own investigations.
+Having regard however to section 49(3) in particular, we consider that if the commissioner proposes to consider additional submissions by the applicanthe must give the authority notice of any relevant material adverse to their position and invite their comments.
+Compliance with such an obligation will not impose an unreasonable burden on the commissioner, and is liable to improve the quality of his decisions as well as ensuring their fairness.
+There are some important messages to be derived from that passage.
+The Commissioner receives applications from ordinary members of the public.
+They cannot be expected to have the expert knowledge of the FOISA and the DPA that he must have, nor should they be expected to instruct lawyers in order to exercise their rights.
+So the Commissioner must be entitled, as are ombudsmen, to formulate the case on behalf of applicants.
+He must also be entitled to make his own inquiries.
+He is required by statute to seek the public authoritys observations upon the application.
+The public authority are, however, much more likely to be aware of the legislation than is the applicant, so it is unlikely that the Commissioner will have to formulate their case for them.
+But he must, of course, give them notice of any new material which his inquiries have elicited and which is adverse to their interests.
+I would add that the Commissioner is fulfilling more than an administrative
+function.
+He is adjudicating upon competing claims.
+And in Scotland, unlike England and Wales, there is no appeal to a tribunal which can decide questions of both fact and law.
+The Commissioner is the sole finder of facts, with a right of appeal to the Inner House on a point of law only.
+These factors clearly enhance his duty to be fair.
+If wrong findings of fact are made as a result of an unfair process, the Inner House will not be able to correct them.
+However, it does not follow that every communication passing between the Commissioner and the applicant, or between the Commissioner and third parties such as Members of the Scottish Parliament, has to be copied to the public authority.
+I have set out the substance of the communications which were not copied to the Council in some detail in para 12 above.
+It is clear that the Council was fully aware that the principal questions were whether these were personal data and, if so, whether condition 6 was made out.
+It is also clear from the exchanges between Mr Irvine and the Council when Mr Irvine first made and renewed his request, that the Council was fully aware of the reasons why Mr Irvine wanted this information and the nature of his interest in it.
+They knew all about his connection with Action4Equality, his blog, and the equal pay litigation.
+They knew that this concerned the implementation of the Single Status (Equal Pay) Agreement.
+They knew that he was alleging that other local authorities had made this information available without question.
+The letters from the two MSPs added nothing to the argument.
+In the circumstances, therefore, it was not a breach of the rules of natural justice for the Commissioner to refrain from copying the correspondence to the Council.
+Conclusion
+I would therefore dismiss this appeal.

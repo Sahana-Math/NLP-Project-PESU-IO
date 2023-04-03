@@ -1,0 +1,39 @@
+This appeal concerns a challenge to the sale by an insolvent Scottish company, Grampian MacLennans Distribution Services Ltd (Grampian), of its principal asset and place of business (the Property) at a value lower than could have been achieved on the open market.
+The parties dispute the proper interpretation of adequate consideration in section 242(4)(b) of the Insolvency Act 1986 (the 1986 Act) and whether the court has any discretion as to the remedy it may give under that section.
+In March 2013, chartered surveyors valued the Property at 1.2m on the open market and at 800,000 on a restricted marketing period of 180 days.
+The following year, Grampian fell into financial difficulty and was sold to Mr Quinn.
+At this time, Grampian owed more than 500,000 to each of National Westminster Bank plc (NatWest), which held a standard security over the Property, and HM Revenue and Customs (HMRC).
+Shortly after Mr Quinns takeover, Grampians cash flow collapsed and its monthly loan repayments to NatWest fell into arrears.
+Mr Quinn sold off Grampians trucks and entered into discussions to sell the Property with a businessman he had known for over 30 years, Mr Gaffney.
+Mr Gaffney negotiated on behalf of his family company, Carnbroe Estates Ltd (Carnbroe), to acquire the Property at a reduced price, citing the risk of repossession by NatWest and the fact that the buildings needed repairs and refurbishment.
+Mr Quinn and Mr Gaffney eventually agreed that Carnbroe would buy the Property for 550,000 in a quick, off market sale.
+Grampian transferred the Property to Carnbroe on 24 July 2014.
+However, instead of paying the agreed consideration to Grampian, Carnbroe repaid the NatWest loan directly to obtain a discharge of the standard security.
+Carnbroe then obtained a loan from the Bank of Scotland plc, which was secured against the Property.
+The sale of the Property and repayment of NatWests loan left Grampians other principal creditor, HMRC, unpaid.
+HMRC wrote to Grampian requiring payment of tax that was due.
+On Grampians failure to pay, HMRC presented a petition for winding up Grampian.
+The Respondents (Mr MacDonald and Ms Coyne) were appointed as joint liquidators of Grampian and commenced proceedings to challenge the sale.
+At first instance, the Lord Ordinary held that the sale of the Property was made for adequate consideration.
+However, on appeal, the Inner House (the Lord President, Lord Drummond Young and Lord Malcolm) reduced (annulled) the transaction and ordered Carnbroe to transfer the property to the Respondents.
+Carnbroe appealed to the Supreme Court.
+The Supreme Court unanimously allows the appeal only to the extent of remitting the case to the First Division of the Inner House to consider what is the appropriate remedy under section 242(4) of the 1986 Act.
+Lord Hodge gives the sole judgment with which the other Justices agree.
+The Supreme Court holds that the meaning of adequate consideration is to be determined according to an objective test, having regard to the commercial justification of the transaction in all the circumstances and assuming that the parties would be acting in good faith and at arms length [30 32].
+As to the circumstances that would be relevant to this assessment, the Court considers that, unless the insolvent partys financial embarrassment is known in the relevant market, the hypothetical purchaser will not be assumed to have knowledge of it [32].
+Accordingly, it is not relevant that Mr Quinn advised Mr Gaffney of Grampians financial difficulties.
+However, the fact of Grampians insolvency is, itself, a relevant circumstance, in that an insolvent vendor would be expected to manage its assets in such a way as to protect the interests of its creditors [33].
+The objective purpose of the sale is also a relevant circumstance.
+Whilst an off market sale poses the obvious risk of obtaining an inadequate price, the Court recognises that a quick sale may sometimes be in the interest of the creditors, such as when the insolvent party faces liquidity issues and the sale would enable it to trade out of insolvency [34].
+Where there is no prospect that the sale would enable the insolvent company to remain in business, the adequacy of the consideration will depend on whether there is prejudice to the insolvent companys creditors [37].
+This involves comparing the outcomes which would have been available in the circumstances of the insolvency.
+In cases where a full marketing exercise would not have been possible, or where the asset was being sold as part of an informal winding up, the consideration achieved in the sale should not be measured against the open market price but against the price, net of expenses, that would have been obtained by a liquidator of the company, or else by the holder of any security over the asset, assuming their compliance with applicable legal duties [37 39].
+In the present case, the sale of the Property was part of an informal winding up of Grampian.
+As such, the Court considers that there could be no justification for an off market sale at a price so far below market value on the ground of urgency [40].
+Carnbroe has not established that there was adequate consideration as it has not led any evidence to support the view that a sale by NatWest (as the holder of a standard security over the Property), or else by the liquidators, would have been likely to achieve a comparable or lower net price than that which Grampian accepted [42].
+As such, the Inner House was entitled to interfere with the Lord Ordinarys assessment of the adequacy of the consideration.
+As to the appropriate remedy, the liquidators argue that section 242(4) of the 1986 Act requires the courts to annul any transaction with an insolvent company for less than adequate consideration, save where such annulment is impossible.
+However, the Supreme Court considers that such a rule could produce harsh and disproportionate effects, since section 242(b) would capture sales to good faith, arms length purchasers for substantial (if not adequate) consideration [45].
+If such a transaction were reversed, the good faith purchaser would be forced to compete as an unsecured creditor to recover the consideration it had paid, with the insolvent vendors general creditors receiving a windfall [51].
+In a departure from previous decisions of the Inner House, the Supreme Court concludes that the statutory words of section 242(4) are broad enough to allow the courts, in appropriate cases, to devise a remedy to protect the good faith purchaser [53, 63, 65].
+In the absence of agreed facts as to the impact of reversing the present transaction, the Court remits the case to the Inner House to determine whether it is appropriate to qualify the remedy it has given to take account of all or part of the consideration paid by Carnbroe for the purchase [69].

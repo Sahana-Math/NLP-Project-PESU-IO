@@ -1,0 +1,52 @@
+The appellant (Iceland) is a well known supermarket operator, specialising in refrigerated goods.
+Its premises include a retail warehouse at Penketh Drive, Liverpool (the Property).
+The issue in the appeal is whether the services provided by an air handling system (AHS), used in connection with refrigerated goods at the Property, are manufacturing operations or trade processes under the Valuation for Rating (Plant and Machinery) (England) Regulations 2000 (the 2000 Regulations).
+If they are, then the AHS is to be ignored in calculating the rateable value of the Property.
+The issue arises because Iceland unsuccessfully applied to the Valuation Officer in 2010 to reduce the rateable value of the Property on that basis.
+Iceland then appealed to Valuation Tribunal, which decided the issue in Icelands favour.
+That finding was reversed by the Upper Tribunal, whose decision was upheld by the Court of Appeal.
+Iceland appealed to the Supreme Court on the issue.
+The Supreme Court unanimously allows the appeal.
+Lord Carnwath gives the judgment, with which Lord Kerr, Lord Reed, Lord Hughes and Lady Black agree.
+Under paragraph 2(1) of Schedule 6 to the Local Government Finance Act 1988, the rateable value of a non domestic hereditament is taken to be an amount equal to the rent at which it is estimated the hereditament might reasonably be expected to let from year to year on the basis of certain prescribed assumptions.
+Prescribed assumptions are set out in the 2000 Regulations [6].
+The 2000 Regulations are derived from the recommendations of a report by an Expert Advisory Committee under the chairmanship of Mr Derek Wood QC (the Wood Report) published in 1993.
+The Committee reviewed the law and practice relating to the rating of plant and machinery, with a view to updating and harmonising it throughout the United Kingdom [7].
+The prescribed assumptions under paragraph 2 of the 2000 Regulations include the assumption that any plant or machinery, if it belongs to any class listed in the Schedule to the 2000 Regulations, is assumed to be part of the hereditament in or on which it is situated.
+The classes in the Schedule are in effect exceptions to the general rule that the value of plant and machinery cannot affect the estimated value of the hereditament for rating purposes. [8].
+Class 2 in the Schedule consists of: Plant and machinery specified in Table 2 below which is used or intended to be used in connection with services to the hereditament or part of it, other than any such plant or machinery which is in or on the hereditament and is used or intended to be used in connection with services mainly or exclusively as part of manufacturing operations or trade processes. (Emphasis added.) It is common ground that the AHS is covered by Table 2 and that it is used in connection with services to the hereditament.
+The only issue is whether the AHS is excluded from Class 2 by the wording italicised above (the Proviso) [9 10].
+The history of the legislation provides useful background to the law as it stood at the time of the Wood Report.
+Historically, it has been difficult to draw a defensible line between, on the one hand, plant and machinery properly treated as part of the hereditament when assessing its hypothetical letting value, and plant and machinery more fairly attributable to the tenants business within it (the tools of the trade).
+Lord Carnwath traces the development of the law on the issue in England and in Scotland, where the law developed differently, up to the time of the review by the Wood Committee [12 19].
+The Wood Report accepted the validity up to a point of a tools of the trade exemption, subject to qualification in the interests of fairness between ratepayers.
+The Committee accepted the underlying conceptual approach of the regulations in each part of the UK as soundly based.
+It recommended, amongst other things, that future regulations be based on the principle that process plant and machinery which can fairly be described as tools of the trade should be exempt within certain limits [20 22].
+The Committee commented specifically on the predecessor in the English regulations to Class 2, describing it as not free from ambiguity.
+They concluded that, despite such difficulties, the law as we understand it in both England and Scotland should remain unaltered but that the draftsmanship should be improved to eliminate the difficulties inherent in the English Regulations.
+Annex L to the Report also contained various examples, including that of refrigeration plant.
+The Committee concluded that this was exempted and should remain so under their recommendations [23 24].
+In the Supreme Court the respondent advanced a broader case than that adopted by the lower courts.
+This broader argument was that the Proviso concerned productive activities in industry only and not other commercial activities, such as Icelands retail activities.
+This contention was impossible in view of (i) the wording of the 2000 Regulations and (ii) the background of the Wood Report.
+As to the first, the draftsman could have easily restricted the Proviso to industrial activities, but the inclusion of trade processes, as an alternative to manufacturing operations, instead widens it.
+The word trade naturally extends to Icelands retail activities.
+Subject to the meaning of the word process, nothing in the Proviso or its context justifies a narrower approach [34].
+As to the second, the respondents broad contention was inconsistent with the Wood Report, which emphasised the principle of fairness between ratepayers.
+No such limitation was proposed in the discussion of what became Class 2.
+Its proposed rules included a the tools of the trade exemption, without limiting the nature of that trade.
+Its proposed rule dealing with the need to draw lines between service and process functions was expressed in general terms [35].
+The respondents contention was even harder to reconcile with the Scottish legislation, which referred to any trade, business or manufacturing process and which the Wood Report criticised for not going far enough [36].
+Turning to the reasoning of the Court of Appeal and the Upper Tribunal, both saw the Proviso as an exception to be construed narrowly; and as referring to a process designed to bring about a transition from one state to another.
+That pays insufficient regard to the place of the Proviso within the scheme of the regulations as a whole: it is and always was an exception to an exception.
+It brings items of plant back into the scope of the general rule.
+The rationale is that, although they may provide a service to the building, their main or exclusive function is to provide a service to the activities of the trader within it.
+They are therefore more fairly considered as tools of the trade [37].
+Nothing in the Wood Report suggests that changes of language in the relevant provisions over time were intended to signal any substantive change.
+On the contrary, the intention was to retain the law substantially without alteration, while improving its draftsmanship [38].
+There is nothing in the word process itself implying a transition or change.
+It has various meanings.
+In its widest sense, it includes anything done to goods and materials.
+A trade process is simply a process (in that wide sense) carried on for the purposes of a trade [39].
+In the context of Icelands trade, the word is apt to cover the continuous freezing or refrigeration of goods to preserve them artificially.
+Since the services provided by the relevant plant have been held to be used mainly or exclusively as part of that trade process, they should be left out of account for rating purposes [40].

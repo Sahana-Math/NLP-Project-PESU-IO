@@ -1,0 +1,40 @@
+By a time charter dated 11 September 2008, on an amended NYPE form, the owners NYK Bulkship (NYK) chartered the vessel Global Santosh to charterers Cargill International (Cargill) for one time charter trip (the charter).
+Cargill sub chartered the vessel to Sigma Shipping.
+The vessel carried a cargo of cement from Slite, Sweden to Port Harcourt, Nigeria, pursuant to a contract of sale between Transclear SA (as sellers) and IBG Investments Ltd, which had the ultimate obligation to discharge the cargo.
+Transclear had probably sub chartered the vessel, but whether this was from Sigma or by a more indirect link was not clear.
+Under that sale contract, IBG was to pay demurrage to Transclear in the event of delay in discharge beyond the agreed laytime in the contract.
+If that demurrage was unpaid, Transclear was purportedly granted a lien over the cargo.
+The vessel arrived at Port Harcourt on 15 October 2008 and tendered notice of readiness.
+She was instructed to remain at anchorage because of port congestion (caused, at least in part, by the breakdown of IBGs off loader).
+She proceeded to berth on 18 December 2008, but was ordered back to anchorage and arrested on the basis of a Nigerian court order arising from a claim by Transclear to secure a demurrage claim against IBG.
+This was an obvious mistake, because the order should have directed the arrest of the cargo, not the vessel.
+Following an agreement between Transclear and IBG, the vessel finally began discharging on 15 January 2009 and completed discharge on 26 January 2009.
+Cargill withheld hire for the period of the arrest.
+It relied on an off hire clause in the charter, clause 49, which stated that the vessel should be off hire during any period of detention or arrest by any authority or legal process during the charter, with the proviso unless such capture or seizure or detention is occasioned by any personal act or omission or default of the Charterers or their agents.
+Cargill commenced London arbitration claiming hire, but the arbitrators determined that the proviso in clause 49 did not apply during the period of the arrest.
+On an appeal, the Commercial Court allowed the appeal, holding that IBGs failure to discharge within the laydays under its contract of sale with Transclear and to pay demurrage were omissions in the course of discharging, and remitted the question of causation back to the arbitrators.
+The Court of Appeal dismissed the appeal, on the basis that the delay to the vessel fell within the charterer sphere of responsibility.
+Cargill appealed to the Supreme Court.
+The Supreme Court allows Cargills appeal by a majority of four to one, holding that the vessel was off hire throughout the period of arrest and that the proviso in clause 49 was not engaged.
+Lord Sumption gives the lead judgment, with which Lord Neuberger, Lord Mance and Lord Toulson agree.
+Lord Clarke writes a dissenting judgment, and would have dismissed the appeal and held that the vessel was on hire.
+This appeal raises a question as to the meaning of charterers agents in clause 49 of the charter.
+If a ship is sub let under a charter, the charter operates as a contract under which rights are enjoyed and obligations performed vicariously [14].
+Agents is not used in its strict legal sense, but is used to refer to persons or subcontractors to whom the charterers rights are made available further down the chain, or who satisfy the time charterers obligations that have been delegated to them [19].
+Not everything that a subcontractor does can be regarded as the exercise of a right or the performance of an obligation under a time charter.
+For the purposes of clause 49, there must be a sufficient nexus between the occasion for the arrest and the function which Transclear or IBG were performing as agent of Cargill [21].
+The arrest was not occasioned by any personal act or omission or default of the Charterers or their agents.
+Firstly, Cargill was only responsible for IBGs acts or omissions in the actual performance of cargo handling operations while they were in progress.
+Cargill had no obligation to procure discharge at any particular time, and no contractual interest in the timing of the operation.
+In failing to carry out cargo handling operations between 15 October 2008 and 15 January 2009, IBG was not vicariously exercising Cargills rights, nor was it vicariously breaching Cargills obligations under the charter [28].
+Secondly, the arrest was occasioned by a dispute between Transclear and IBG about demurrage under the sub charter.
+That was not the vicarious exercise of any right made available to Cargill under the time charter [30].
+The Court of Appeal was wrong to approach the matter by asking in whose sphere of responsibility the matters occasioning the arrest lay.
+The only sense in which the arrest was occasioned by Cargills trading arrangements concerning the vessel was that Cargills sub charter to Sigma enabled Transclear and IBG to become involved further down the chain, and it was their dispute that caused the arrest.
+That ignores the need for a sufficient nexus between the acts leading to the arrest and the performance of functions under the charter [31].
+Lord Clarke, in a dissenting judgment, would have held that the vessel was on hire during the period of the arrest.
+The agency extended to the operation of the vessel from the giving of the notice of readiness (or perhaps earlier), until the completion of discharge.
+An arrest during the period during which she was waiting to discharge is the same as an arrest in the course of the discharging operations [36].
+The arrest had nothing to do with NYK, but was linked to Cargills discharge functions delegated to Transclear and IBG.
+An absence of cargo handling operations is just as much defective performance of them.
+This solution makes commercial sense, because the parties knew that demurrage might be incurred down the line, because it was common ground that the vessel was not off hire by reason of IBGs earlier failure to provide a working off loader, and because the owners had no control over Cargills delegation to Transclear and IBG [34 58].

@@ -1,0 +1,130 @@
+It is the aim of an award of damages in the law of tort, so far as possible, to place the person who has been harmed by the wrongful acts of another in the position in which he or she would have been had the harm not been done: full compensation, no more but certainly no less.
+Of course, there are some harms which no amount of money can properly redress, and these include the loss of a wife or husband.
+There are also harms which it is difficult to assess, especially those which will be suffered in the future, but the principle of full compensation is clear.
+The issue in this case is whether the current approach to assessing the financial losses suffered by the dependant of a person who is wrongfully killed properly reflects the fundamental principle of full compensation, and if it does not whether we should depart from previous decisions of the House of Lords.
+The facts
+The appellant is the widower of Mrs Knauer, who died from mesothelioma in August 2009 at the age of 46.
+It is now accepted that she contracted the disease as a result of exposure to asbestos during the course of her employment by the respondent as an administrative assistant at Her Majestys Prison, Guys Marsh.
+The respondent had initially denied such exposure but liability was eventually admitted in December 2013, when judgment was entered for the appellant with damages to be assessed.
+The damages hearing took place before Bean J in July 2014.
+Many items of damage were agreed and he resolved those which remained in issue.
+This included the annual figure for the value of the income and services lost as a result of her death (the multiplicand).
+There is no appeal against any of those findings.
+The issue is whether the number of years by which that figure is to be multiplied (the multiplier) is to be calculated from the date of death or from the date of trial.
+The parties are agreed that in this case the difference between the two approaches is 52,808.
+The trial judge held (as had Nelson J in White v ESAB Group (UK) Ltd [2002] PIQR Q6) that he was bound to follow the approach adopted by the House of Lords in Cookson v Knowles [1979] AC 556 and Graham v Dodds [1983] 1 WLR 808 and to calculate the multiplier from the date of death.
+Freed from that authority, however, he would have preferred the approach which had been recommended by the Law Commission, in their report on Claims for Wrongful Death (1999) (Law Com No 263), of calculating the multiplier from the date of trial.
+He granted a certificate under section 12 of the Administration of Justice Act 1969 to enable the case to come directly to this court, leapfrogging the Court of Appeal.
+The issue of principle which this court is asked to decide is whether the date of death or the date of trial is the proper approach.
+But if the answer to that question is the date of trial then the subsidiary issue is whether it is open to or proper for this court to depart from the approach laid down by Lord Diplock and Lord Fraser of Tullybelton in Cookson v Knowles and by Lord Bridge of Harwich in Graham v Dodds or whether the defect in the present law is one which should be left to Parliament to cure.
+The principle
+Mr Gerard McDermott QC, who appeared for the respondent, very properly conceded that the appellants case on the issue of principle was a good one.
+The normal approach is to calculate the losses up to the date of trial and award a lump sum in respect of those.
+Future losses are calculated on the multiplier/multiplicand approach.
+The multiplier reflects the normal life expectancy of the victim, based on actuarial tables which include a discount to take account of the risk of an earlier death (frequently referred to as the vicissitudes of life).
+But there is also a discount to reflect the value to the claimant of receiving a lump sum now to cater for future losses which would have been suffered over a number of years in the future.
+Without such a discount, there would be over compensation.
+The object is that, at the end of the period in question, the damages will have been exhausted in compensating the victim.
+The victim should not gain a profit from the compensation.
+That is the way in which damages for personal injury falling short of death are assessed.
+Calculating damages for loss of dependency upon the deceased from the date of death, rather than from the date of trial, means that the claimant is suffering a discount for early receipt of the money when in fact that money will not be received until after trial.
+The appellant accepts that the sum calculated to reflect the loss which has been suffered up to the date of trial should contain a discount to reflect the risk that, had there been no tort, the deceased might have died between her actual date of death and the date of trial.
+There may also be a risk that the support or services provided for a dependant might have stopped or reduced, for example because of the deceaseds accident, illness or loss of job or the dependency ceasing, for example because a child grows up.
+In most cases any discount would be a modest one, although of course there will be cases in which the risk was far from negligible and where a larger discount would be appropriate.
+But, as the figures in this case show, the effect of the discount for the non existent early receipt of the money is far from negligible.
+It results in under compensation in most cases.
+This has become clear now that the calculation of financial losses is based upon the actuarial tables produced by the Ogden Working Party.
+The current approach in fatal accident cases involves taking a multiplier as at the date of death and then deducting from it the time which has elapsed between the death and the trial.
+This is to mix up a calculation based on properly considered actuarial principles with an arbitrary arithmetical deduction.
+As Hooper LJ confessed in Fletcher v A Train and Sons Ltd [2008] EWCA Civ 413; [2008] 4 All ER 699, para 42, I do not understand why chronological years are deducted from the multiplier.
+The trial judge in that case had awarded interest on the whole sum, in order to make up for the under compensation, an approach which the Court of Appeal had to overturn.
+There have been other examples of courts seeking to get round the problem by adopting a distorted approach: see ATH v MS [2003] QB 965 and Corbett v Barking, Havering and Brentwood Health Authority [1991] 2 QB 408.
+The temptation to react to a rule which appears to produce an unjust result by adopting artificial or distorted approaches should be resisted: it is better to adopt a rule which produces a just result.
+The Law Commission, in their report on Claims for Wrongful Death, said this: 4.7 In the majority of cases it is the life expectancy of the deceased, and hence the period for which he or she would have continued to provide benefits to any dependants, which will govern the multiplier.
+It was in this context that the date of death rule was adopted, on the basis that everything that might have happened to the deceased after that date remains uncertain. 4.8 It is true that where the multiplier is controlled by the life expectancy of the deceased, the only information which will usually be relevant to that calculation is that which was known about the deceased at the time of death.
+On the other hand, it is possible to imagine facts on which matters emerging as certain after the deceaseds death do affect the period for which it is estimated that he or she would have continued to provide benefits.
+For example, the deceased might have suffered from a life shortening medical condition which could not be treated in his or her lifetime.
+If by the time of trial it is known that, within a year of his death, a treatment for the condition had been developed, this would inevitably affect the accuracy of any multiplier calculated at the date of death.
+Thus, even in cases where the deceaseds life expectancy controls the multiplier, we do not agree with Lord Frasers assertion that the multiplier should inevitably be selected once and for all as at the date of death.
+They recommended that, as in personal injury cases, actuarially calculated multipliers should be used for calculating future losses in fatal accident cases from the date of trial.
+For pre trial losses the only difference from non fatal cases would be that there would have to be a small deduction to take account of the possibility that the deceased might in any event have died or given up work before trial (para 4.17).
+They expressed this policy, not in the simple proposition that the multiplier should be calculated from trial, not death, but more precisely as a multiplier which has been discounted for the early receipt of the damages shall only be used in the calculation of post trial losses (para 4.18).
+They also recommended that the Ogden Working Party should consider, and explain more fully, how the existing tables should be used, or amended to produce accurate assessments of damages in fatal accident cases, based upon their preferred approach (para 4.23).
+If this is now so obvious, why did the House of Lords reach a different conclusion in Cookson v Knowles and Graham v Dodds? The short answer is that both cases were decided in a different era, when the calculation of damages for personal injury and death was nothing like as sophisticated as it now is.
+In particular, the courts discouraged the use of actuarial tables or actuarial evidence as the basis of assessment, on the ground that they would give a false appearance of accuracy and precision in a sphere where conjectural estimates have to play a large part.
+Hence [t]he experience of practitioners and judges in applying the normal method is the best primary basis for making assessments: Lord Pearson in Taylor v OConnor [1971] AC 115, 140.
+Rather like the assessment of the tariff in criminal cases, the answer lay in the intuition of the barristers and judges who appeared in these cases.
+This was wholly unscientific.
+Counsel in the current case were agreed that, when they started at the Bar, the conventional approach to deciding upon the multiplier was to halve the victims life expectancy and add one year, with a maximum of 16 to 18 years.
+This is an approach which depends upon being in the know rather than reality.
+In Cookson v Knowles the main issue was whether interest should have been awarded on the whole sum of damages awarded, as the trial judge had done.
+Both the Court of Appeal and the House of Lords held that it should not.
+The damages should be split into pre trial and post trial losses and interest (at half rate) should be awarded on the former but not on the latter.
+Lord Fraser also dealt with the date from which the multiplier should be calculated and held that, in a fatal accident case, it should be the date of death, whereas in a non fatal personal injury case, it was the date of trial.
+He justified the distinction on this basis at p 576: In a personal injury case, if the injured person has survived until the date of trial, that is a known fact and the multiplier appropriate to the length of his future working life has to be ascertained as at the date of trial.
+But in a fatal accident case the multiplier must be selected once and for all as at the date of death, because everything that might have happened to the deceased after that date remains uncertain.
+It seems clear that he was thinking of the multiplier in terms of taking account of the vicissitudes of life rather than in terms of accelerated receipt.
+The only other substantial speech was that of Lord Diplock, who did not question the propriety of assessing the multiplier as at the date of death (although for the purpose of awarding interest, it had to be divided into the pre and post trial periods).
+In Graham v Dodds, the majority of the Court of Appeal in Northern Ireland took the view that Lord Diplock and Lord Fraser had expressed opposite and irreconcilable opinions (p 814), Lord Diplock favouring the date of trial and Lord Fraser the date of death.
+The court preferred what they took to be Lord Diplocks view.
+In the House of Lords, Lord Bridge (with whom all the other members of the appellate committee, including Lord Diplock, agreed) held that Lord Fraser and Lord Diplock had not disagreed.
+Lord Bridge agreed with the reason given by Lord Fraser for distinguishing between fatal and non fatal cases and added that choosing the later date would lead to the highly undesirable anomaly that in fatal accident cases the longer the trial of the dependants claims could be delayed the more they would eventually recover (p 815).
+Once again, the emphasis was on the uncertainties of life, the difficulty of knowing what would have happened to the deceased between death and the date of trial, and not upon the question of accelerated payment.
+The Ogden Tables did not exist when these two cases were decided.
+The working party under the chairmanship of Sir Michael Ogden QC produced the first edition of Actuarial Tables with Explanatory Notes for use in Personal Injury and Fatal Accident Cases in 1984.
+Since then they have become a staple of personal injury and fatal accidents practice, the current edition being the 7th in 2011.
+Any doubts about using them in the courts were laid to rest in the landmark case of Wells v Wells [1999] 1 AC 345, where Lord Lloyd of Berwick said this at p 379F G: I do not suggest that the judge should be a slave to the tables.
+There may well be special factors in particular cases.
+But the tables should now be regarded as the starting point, rather than a check.
+A judge should be slow to depart from the relevant actuarial multiplier on impressionistic grounds, or by reference to a spread of multipliers in comparable cases especially when the multipliers were fixed before actuarial tables were widely used.
+Following publication of the Law Commissions report, the tables have included fatal accident calculations based on the Law Commissions recommended approach, although at present they cannot be used.
+Of the two reasons given by Lord Bridge for the present approach, it is now clear that there is a perfectly sensible way of addressing his uncertainty point, which would remove the current distinction between fatal and non fatal cases.
+The twin brothers mentioned in argument in Cookson v Knowles, one of whom was injured and the other of whom was killed in the same accident, would both be dealt with in the same way.
+If his first concern can thus be dealt with, his second concern, any incentive for claimants to delay the trial, is a little harder to understand.
+If it were valid, it would apply equally to non fatal personal injury claims.
+Further, if the present approach leads to under compensation, it could be said that it creates an incentive for defendants to delay the trial.
+The reality is that this is another respect in which the litigation landscape has been transformed since 1984.
+Under the Civil Procedure Rules 1998, the court is now in a position to set timetables and insist that parties keep to them.
+In any event, the proper use of the Ogden Tables makes the concern irrelevant.
+The dependants will get that which reflects their probable loss on an actuarial calculation based on the facts known at the date of trial.
+There is no injustice either way.
+Departing from previous House of Lords decisions
+The question for us is not simply the identification of the date as at which the multiplier should be assessed.
+Before we can decide that that date should be the date of trial rather than the date of death, we also have to be satisfied that we should depart from the established law as laid down by the House of Lords in Cookson v Knowles and Graham v Dodds.
+For the appellant, Mr Frank Burton QC contended that a determination that the appropriate date is the trial date would not involve a departure from those previous decisions, and therefore did not require the appellant to rely on the Practice Statement (Judicial Precedent) [1966] 1 WLR 1234, whereby the House of Lords declared that it could depart from its previous decisions.
+This contention rested on the basis that we are merely being asked by the appellant to change a judicial guideline, rather than to depart from any earlier decision.
+We do not accept that contention, which appears to fly in the face of the reasons given by Lord Bridge for reaching the conclusion which he did in Graham v Dodds.
+He stated that the selection of the date of trial date would be clearly contrary to principle and would give rise to a highly undesirable anomaly (p 815).
+However much we may doubt those observations for the reasons already given, they demonstrate that he was deciding the issue as a matter of legal principle, and not merely giving non binding guidance.
+Furthermore, it is important not to undermine the role of precedent in the common law.
+Even though it appears clear that both the reasoning and conclusion on the point at issue in Cookson v Knowles and Graham v Dodds were flawed, at least in the light of current practice, it is important that litigants and their advisers know, as surely as possible, what the law is.
+Particularly at a time when the cost of litigating can be very substantial, certainty and consistency are very precious commodities in the law.
+If it is too easy for lower courts to depart from the reasoning of more senior courts, then certainty of outcome and consistency of treatment will be diminished, which would be detrimental to the rule of law.
+In our view, therefore, the issue is whether this is a case where this Court should apply the 1966 Practice Statement.
+In that connection, it is well established that this Court should not refuse to follow an earlier decision of this Court or the House of Lords merely because we would have decided it differently see per Lord Bingham of Cornhill in Horton v Sadler [2007] 1 AC 307, para 29.
+More than that is required, not least because of the desirability of certainty in the law, as just discussed.
+However, as Lord Bingham said in the same passage, while former decisions of the House are normally binding too rigid adherence to precedent may lead to injustice in a particular case and unduly restrict the development of the law.
+This Court should be very circumspect before accepting an invitation to invoke the 1966 Practice Statement.
+However, we have no hesitation in concluding that we ought to do so in the present case.
+At least in the current legal climate, the application of the reasoning in the two House of Lords decisions on the point at issue is illogical and their application also results in unfair outcomes.
+Further, this has encouraged courts to distinguish them on inadequate grounds (to quote Lord Hoffmann in A v Hoare [2008] AC 844, para 25), which means that certainty and consistency are being undermined.
+Above all, the fact that there has been a material change in the relevant legal landscape since the earlier decisions, namely the decision in Wells v Wells and the adoption of the Ogden Tables, when taken with the other factors just mentioned, gives rise to an overwhelming case for changing the law.
+As already noted, Mr McDermott very fairly acknowledged the strength of the appellants case for a change of approach.
+His only substantive answer to the contention that we should change the law was to point out that the system should be seen as a whole and that there are respects in which the current legislation requires that claimants be over compensated.
+One example is section 3(3) of the Fatal Accidents Act 1976, which requires the court to ignore, not only the prospect but the actual remarriage of the claimant, but another is section 4, which requires that benefits which will or may accrue to any person as a result of the death shall be disregarded.
+These are, of course, examples of over compensation.
+They result from legislative choices and not (unlike the principles with we are concerned in this case) from judicial decisions.
+The Law Commission recommended that they be modified by legislation.
+But none of this is an answer to the basic question under consideration here.
+The present claimant should not be deprived of the compensation to which on ordinary principles he would be entitled because some other claimants, as a result of understandable legislative choices made by Parliament, receive more than they would receive on those ordinary principles.
+It would be wrong to preserve what is now known to be a flawed practice affecting most claimants in order to counteract those choices.
+Because those matters are dealt with in the 1976 Act itself, the solutions must lie with Parliament.
+Finally, it was also suggested that, rather than this Court changing the law, we should leave it to the legislature to do so (as has happened in Scotland, where the Scottish Parliament has enacted section 7(1)(d) of the Damages (Scotland) Act 2011, following the recommendation of the Scottish Law Commission in their Report on Damages for Wrongful Death (2008) (Scot Law Com No 213), to the effect that the multiplier should be fixed as at the date of trial).
+We would reject that suggestion.
+The current law on the issue we are being asked to resolve was made by judges, and, if it is shown to suffer from the defects identified above, then, unless there is a good reason to the contrary, it should be corrected or brought up to date by judges.
+That is, after all, the primary principle which lies behind the 1966 Practice Statement.
+Of course, there may be cases where any proposed change in the law is so complex, or carries with it potential injustices or wider implications that the matter is better left to the legislature, but this is not such a case.
+Furthermore, in England and Wales, questions relating to the assessment of damages are and always have been very much for the courts, rather than for the legislature (although there are exceptions, to which we have already alluded).
+In relation to the point at issue on this appeal, that was recognised by the Law Commission in paras 4.19 4.22 of their 1999 report, where it is said that legislation is probably neither necessary nor appropriate to change the law on this point, on the ground that there was room for judicial manoeuvre without legislation.
+Conclusion
+For these reasons, we would allow this appeal, and refuse to follow Cookson v Knowles and Graham v Dodds, on the basis that the correct date as at which to assess the multiplier when fixing damages for future loss in claims under the Fatal Accidents Act 1976 should be the date of trial and not the date of death.

@@ -1,0 +1,369 @@
+This appeal concerns a tax avoidance scheme by which employers paid remuneration to their employees through an employees remuneration trust in the hope that the scheme would avoid liability to income tax and Class 1 national insurance contributions (NICs).
+The appeal raises a fundamental question about the nature of the income tax charge on employment income.
+That question is whether an employees remuneration is taxable as his or her emoluments or earnings when it is paid to a third party in circumstances in which the employee had no prior entitlement to receive it himself or herself.
+HM Revenue and Customs Commissioners (HMRC) assessed the employing companies to income tax and NICs on the sums so paid as remuneration.
+The employing companies appealed those assessments to the First tier Tribunal (Tax Chamber) (the FTT), whose members were Kenneth Mure QC, Dr Heidi Poon and Scott Rae WS.
+The FTT, while recognising that the scheme was an aggressive tax avoidance scheme (para 193), held in a decision dated 29 October 2012 (by a majority, being Mr Mure and Mr Rae) that the scheme was effective in avoiding liability to income tax and NICs.
+This was because the FTT considered the steps in the scheme were not shams and that the employees had received only a loan of the moneys which the employing companies paid to the trusts.
+The Upper Tribunal (Tax and Chancery Chamber) (Lord Doherty), in a decision dated 8 July 2014, upheld the FTTs decision, because it detected no error of law in the majoritys reasoning.
+The Advocate General for Scotland on behalf of HMRC appealed to the Inner House of the Court of Session and advanced a legal argument which had not been presented to, or at least had not been developed before, the tribunals, namely that the payment of the sums to the remuneration trust involved a redirection of the employees earnings and accordingly did not exclude those earnings from the charge to income tax.
+The Inner House (the Lord Justice Clerk (Lord Carloway), Lord Menzies and Lord Drummond Young) upheld that argument and allowed the appeal on 4 November 2015: Advocate General for Scotland v Murray Group Holdings Ltd 2016 SC 201.
+Of the employing companies only RFC 2012 plc appeals to this court.
+I will refer to it, along with its previous incorporation which was the Rangers Football Club plc, as RFC.
+In this judgment I set out my reasons for concluding that this appeal should be dismissed.
+The tax legislation
+The employing companies, including RFC, operated the tax avoidance scheme in the tax years between 2001/02 and 2008/09.
+During that time the legislation for the taxation of emoluments from earnings was replaced by a new enactment.
+It is therefore necessary to describe the relevant provisions, which are essentially to the same effect, under each of the relevant Acts.
+In the tax years 2001/02 and 2002/03 the relevant legislation was contained in the Income and Corporation Taxes Act 1988 (as amended) (ICTA).
+Section 19 of that Act charged income tax under Schedule E on emoluments derived from any office or employment.
+So far as relevant section 19 provided: Schedule E Tax under this Schedule shall be charged in respect of any office or employment on emoluments therefrom which fall under one or more than one of the following Cases Case1: any emoluments for any year of assessment in which the person holding the office or employment is resident and ordinarily resident in the United Kingdom Emoluments were defined in very wide terms in section 131 of ICTA as including all salaries, fees, wages, perquisites and profits whatsoever.
+Since 1989, emoluments have been taxed on a receipts basis: section 202A of ICTA provided that income tax shall be charged under Schedule E on the full amount of the emoluments received in the year in respect of the office or employment concerned.
+Section 202B defined when emoluments were to be treated as received for the purposes of section 202A: so far as relevant it was the earlier of (a) the time when payment is made of or on account of the emoluments or (b) the time when a person becomes entitled to payment of or on account of the emoluments.
+This legislation was replaced by the Income Tax (Earnings and Pensions) Act 2003 (ITEPA), which governs RFCs liability to income tax on employment income during the relevant tax years from 2003/04 to 2008/09.
+Section 6 of that Act imposes a tax on employment income, which so far as relevant is on general earnings.
+Section 7 defines general earnings by reference to section 62 which, so far as relevant, provides: (2) [E]arnings, in relation to an employment, means any salary, wages or fee, (a) any gratuity or other profit or incidental benefit (b) of any kind obtained by the employee if it is money or moneys worth, or (c) the employment. anything else that constitutes an emolument of (3) For the purposes of subsection (2) moneys worth means something that is (a) of direct monetary value to the employee, or (b) capable of being converted into money or something of direct monetary value to the employee.
+Section 9 of ITEPA, which defines the amount of employment income charged to tax, provides in subsection (2) that, in the case of general earnings, the amount charged is the net taxable earnings from an employment in the year.
+Employers, who pay emoluments (or earnings after 2003) which are assessable to tax, are required to deduct income tax from their payments to their employees under the pay as you earn (PAYE) regime.
+Before 2003, section 203 of ICTA provided for the deduction to be made in accordance with regulations, which were the Income Tax (Employments) Regulations 1993 (SI 1993/744) (the 1993 Regulations).
+Regulation 6 provided that an employer, on making any payment of emoluments to an employee, should deduct tax and regulations 40 to 42 provided that the employer should pay to HMRC the amount of tax which it was liable to deduct.
+Section 203A of ICTA provided, so far as relevant, that for the purposes of section 203 and the 1993 Regulations payment was treated as made at the earlier of (a) the time when the payment is actually made and (b) the time when a person becomes entitled to the payment.
+For the tax year 2003/04 and following tax years, section 683 of ITEPA defined PAYE income as any PAYE employment income for the year and section 684 provided for the making of regulations, which became the Income Tax (Pay As You Earn) Regulations 2003 (SI 2003/2682) (the PAYE Regulations).
+Regulation 21 of the PAYE Regulations requires the employer to deduct income tax on making a relevant payment to an employee.
+I discuss the meaning of employee in both of these regulations in para 40 below.
+Regulation 80 of the PAYE Regulations provides that, if it appears to HMRC that there may be tax payable by an employer which has not been paid, HMRC may determine the amount of that tax and serve notice of their determination on the employer.
+HMRC made its determinations in relation to the employing companies under this regulation.
+Thus, as Lord Drummond Young stated in delivering the impressive judgment of the court, the central concept in the tax regime governing employment income is the payment of emoluments or earnings derived from employment; and an employer who pays emoluments or earnings to or on account of an employee is obliged to deduct tax in accordance with the PAYE Regulations.
+Liability to pay Class 1 NICs on earnings in respect of employment was and is governed by section 6 of the Social Security Contributions and Benefits Act 1992 (the 1992 Act).
+Schedule 1 to the 1992 Act required the employer, who paid earnings to an employed earner, to pay both the employers and the earners Class 1 contributions to HMRC.
+The parties to the appeal have agreed that the determination of the appeal in relation to income tax will govern liability to NICs.
+I therefore do not need to consider the legislation relating to NICs any further.
+The interpretation of tax legislation
+The legislative code for the taxation of income has developed over time to reflect changing governmental policies in relation to taxation, to remove loopholes in the tax regime and to respond to the behaviour of taxpayers.
+Such responses include the enactment of provisions to nullify the effects of otherwise successful tax avoidance schemes (or schemes which were apparently successful pending a definitive judicial determination).
+As a result, the legislative code is not a seamless garment but is in certain respects a patchwork of provisions.
+Over time, judicial decisions on the interpretation of sections of the tax legislation have assisted in clarifying the boundaries of those provisions.
+Such decisions have influenced Parliament in the re enactment of legislation.
+Some judicial decisions, for example, as I discuss in paras 42 44 below, the requirement that a perquisite in section 131 of ICTA be convertible into money, have been definitional.
+But the courts at the highest level have repeatedly warned of the need to focus on the words of the statute and not on judicial glosses, which may clarify or illustrate in a particular case but do not replace the statutory words.
+Thus in Hochstrasser v Mayes [1960] AC 376, in which the House of Lords was considering whether an emolument could be said to arise from a taxpayers employment or office, Lord Radcliffe cited various judicial statements and stated (391): These are all glosses, and they are all of value as illustrating the idea which is expressed by the words of the statute.
+But it is perhaps worth observing that they do not displace those words.
+Similar advice can be found in the speech of Lord Reid in Laidler v Perry [1966] AC 16, 30, in which he stated: There is a wealth of authority on this matter and various glosses on or paraphrases of the words in the Act appear in judicial opinions, including speeches in this House.
+No doubt they were helpful in the circumstances of the cases in which they were used, but in the end we must always return to the words in the statute See also the judgment of Lord Russell of Killowen in the Court of Appeal in Brumby v Milner [1976] 1 WLR 29, 34 35 and the speech of Lord Simon of Glaisdale in the House of Lords in that case [1976] 1 WLR 1096, 1099 1100.
+Another, more recent, judicial development in the interpretation of taxing statutes is the definitive move from a generally literalist interpretation to a more purposive approach.
+This can be traced to the speech which Lord Nicholls of Birkenhead delivered in the House of Lords in Barclays Mercantile Business Finance Ltd v Mawson [2005] 1 AC 684, in which he explained the true principle established in W T Ramsay Ltd v Inland Revenue Comrs [1982] AC 300 and the cases which followed it.
+As he explained (para 28), the modern approach to statutory construction is to have regard to the purpose of a particular provision and interpret its language, so far as possible, in a way which best gives effect to that purpose.
+In the past, the courts had interpreted taxing statutes in a literalist and formalistic way when applying the legislation to a composite scheme by treating every transaction which had an individual legal identity as having its own tax consequences.
+Lord Nicholls described this approach as blinkered (para 29).
+Instead, he removed the interpretation of taxing statutes from its literalist enclave and incorporated it into the modern approach to statutory interpretation which the court otherwise adopts.
+He stated (para 32): The essence of the new approach was to give the statutory provision a purposive construction in order to determine the nature of the transaction to which it was intended to apply and then to decide whether the actual transaction (which might involve considering the overall effect of a number of elements intended to operate together) answered to the statutory description. [T]he question is always whether the relevant provision of the statute, upon its true construction, applies to the facts as found.
+As Lord Nicholls of Birkenhead said in MacNiven v Westmoreland Investments Ltd [2003] 1 AC 311, 320, para 8: The paramount question always is one of interpretation of the particular statutory provision and its application to the facts of the case.
+Lord Nicholls (para 34) recognised two features which were characteristic of tax law.
+First, tax is generally imposed by reference to economic activities or transactions which exist, as Lord Wilberforce said (in W T Ramsay, 326) in the real world.
+In the Court of Appeal in Barclays Mercantile [2003] STC 66, para 66, Carnwath LJ made the same point: taxing statutes generally draw their life blood from real world transactions with real world economic effects.
+Secondly, the prodigious intellectual effort in support of tax avoidance results in transactions being structured in a form which will have the same or nearly the same economic effect as a taxable transaction but which it is hoped will fall outside the terms of the taxing statute.
+He continued: It is characteristic of these composite transactions that they will include elements which have been inserted without any business or commercial purpose but are intended to have the effect of removing the transaction from the scope of the charge.
+The correct response of the courts was not to disregard elements of transactions which had no commercial value.
+That, he said, was going too far.
+Instead the court had, first, to decide, on a purposive construction, exactly what transaction would answer to the statutory description and secondly, to decide whether the transaction in question did so (para 36).
+Lord Reed in UBS AG v Revenue and Customs Comrs [2016] 1 WLR 1005, para 62, has helpfully summarised the significance of the new approach, which W T Ramsay, as explained in Barclays Mercantile, has brought about, in these terms: First, it extended to tax cases the purposive approach to statutory construction which was orthodox in other areas of the law.
+Secondly, and equally significantly, it established that the analysis of the facts depended on that purposive construction of the statute.
+In summary, three aspects of statutory interpretation are important in determining this appeal.
+First, the tax code is not a seamless garment.
+As a result provisions imposing specific tax charges do not necessarily militate against the existence of a more general charge to tax which may have priority over and supersede or qualify the specific charge.
+I return to this point towards the end of this judgment (paras 68 72 below).
+Secondly, it is necessary to pay close attention to the statutory wording and not be distracted by judicial glosses which have enabled the courts properly to apply the statutory words in other factual contexts.
+Thirdly, the courts must now adopt a purposive approach to the interpretation of the taxing provisions and identify and analyse the relevant facts accordingly.
+In this appeal, there is no suggestion that any part of the transaction, which comprised the tax avoidance scheme, was a sham.
+But that is not the point.
+The elements of the transaction, which I discuss below, were all genuine and had legal effect, as the majority of the FTT held.
+In answering the question whether the relevant statutory provisions were intended to apply to the transaction, the proper approach is, first, to interpret the relevant statutory provisions purposively and, secondly, to analyse the facts in the light of those statutory provisions so construed.
+I seek to do so in para 35 and following.
+But first I set out the facts.
+The facts
+As this is an appeal on a point of law and as the UT did not make separate findings of fact, I derive my summary of the facts from the judgment of the majority of the FTT.
+Some of those findings are terse and require explanation from the documents which were before the FTT and have been made available to this court.
+Dr Poon, who wrote the minority judgment, made additional findings of fact, which she derived principally from the documents before her.
+I do not have regard to her findings in so far as they are inconsistent with those of the majority.
+I refer to her findings on two occasions, first, where they explain findings by the majority which need clarification (para 29 below) and, secondly, as a check on a conclusion which I have reached based on the majoritys findings (para 27 below).
+I state below when I am drawing on her findings for these purposes.
+The employing companies were at all relevant times members of a group of companies whose ultimate parent company is Murray International Holdings Ltd.
+Since the period with which this appeal is concerned, RFC has been sold out of the Murray group.
+Other than RFC, the employing companies were Murray Group Holdings Ltd, which is a subsidiary holding company, Murray Group Management Ltd (MGML), which provided management services to the group, the Premier Property Group Ltd, and GM Mining Ltd. MGML by deed dated 20 April 2001 set up a trust known as the Remuneration Trust, which I will refer to as the Principal Trust.
+A company within the Murray group of companies which wished to benefit one of its employees made a cash payment to the Principal Trust in respect of that employee.
+When it did so, the employing company recommended the trustee of the Principal Trust to resettle the sum which it paid on to a sub trust and asked that the income and capital of the sub trust should be applied in accordance with the wishes of the employee.
+The trustee of the Principal Trust had a discretion whether to comply with those requests, but, when an employing company provided the funds, the trustee without exception created a sub trust for the favoured employee. 108 sub trusts were established in the name of individual employees, of which 81 were for RFC employees (footballers and executives) and 27 for other Murray group employees.
+The group companies also used the combination of the Principal Trust and a sub trust to pay discretionary annual bonuses to employees, other than the footballers whom RFC employed.
+Since 2005 only RFC used the Principal Trust to remunerate its employees.
+In this appeal we are concerned only with the sums which RFC paid to the Principal Trust and which were re settled on to a sub trust in accordance with the wishes of each of its employees who took part in the scheme.
+I discuss employees other than footballers in para 31 below, but first address the operation of the scheme by reference to the footballers.
+It is instructive to understand (a) how the trust mechanism was established when a footballer was recruited and how the mechanism was explained to the player, (b) the powers over the sub trust which were conferred on the footballer, and (c) how the trustee of the various sub trusts exercised its discretion in operating the arrangement which RFC (and the other Murray group companies) had initiated.
+The establishment of the trust mechanism: When RFC negotiated the engagement of a footballer with the prospective player or his agent, the discussions focused on the figure net of tax which the footballer would receive.
+A senior RFC executive would explain the mechanism of creating a sub trust in the name of the employee and the benefits which the trust mechanism would give.
+In particular, the prospective employee would be told that he could obtain a loan of the sum paid to the sub trust from its trustee which would be greater than a payment net of tax deducted under PAYE if he were to be paid through RFCs payroll.
+The loan was to be repayable on an extended term of ten years on a discounted basis, that is to say that the player would not pay annual interest on the loan but that the interest would be accrued and applied so that a grossed up sum would be repayable.
+Both RFC and the footballer expected that the loans would not be repaid at term but would be renewed, as RFCs executive explained to the footballer or his agent that the arrangement had the additional tax advantage that the loans would be repayable out of the footballers estate on death, thereby reducing its value for Inheritance Tax purposes.
+It was also explained that the player would be appointed as protector of the sub trust, with powers to change both the trustee and also the beneficiaries of the sub trust, as I discuss below.
+On recruitment of a footballer, the terms of his engagement were recorded in two separate contractual documents.
+The first was a contract of employment which set out the terms of employment and the footballers remuneration which would be paid subject to deduction of PAYE and NICs.
+The second was a side letter in which a senior executive of RFC undertook that RFC would (a) recommend to the trustee of the Principal Trust (i) to include the footballer as protector of a sub trust and (ii) to fund the sub trust with the sum or sums which had been agreed in the recruitment negotiation, and (b) fund the Principal Trust to enable the trustee to carry out those recommendations.
+It is clear from documents, which were before the FTT and were made available to this court as examples of the arrangements, that the sums paid to the Principal Trust and to the sub trusts represented remuneration for employment.
+In one case, RFC undertook in the side letter to an employee dated 17 June 2004 to pay him free of UK or other taxes the sum which it had undertaken to pay into the Principal Trust for funding the sub trust, if the trustee of the Principal Trust did not make him the protector of the sub trust or fund the sub trust.
+In another case, we were referred to documents in which a footballers remuneration had been agreed between RFC and his agent in July 2001.
+The footballers agent recorded his clients remuneration in these terms: Annual Salary 8,000 per week.
+Contribution to Remuneration trust 8,000 per week namely 416,000 per annum which equates to the sum of 250,000 per annum net.
+The player will accordingly receive 125,000 in October and February during each year of the Contract.
+Rangers will grant the appropriate indemnity that they will be responsible for payment of any tax should the revenue seek to recover any tax from the player on these amounts.
+Thereafter RFC and the footballer entered into a contract of employment which provided for the payment of an annual salary of 416,000 and RFCs finance director sent the footballer a side letter dated 13 July 2001 in which he confirmed that RFC would recommend to the trustee of the Principal Trust to include him as the protector of a sub trust and to fund the sub trust with 125,000 on each occasion in October and February during the period which matched the term of the contract of employment.
+The majority of the FTT recorded (para 207) that RFC offered the prospective employees this form of deal, combining a payroll payment and the transfer of funds through the trust mechanism on a take it or leave it basis.
+The Scottish Football Association (SFA) required football clubs to register players contracts with it.
+RFC registered the contracts of employment but did not disclose the side letters to the SFA.
+RFC initiated the creation of a sub trust by having the employee complete a letter of wishes, in which the employee, as protector of the sub trust, wrote to the trustee to express his wishes as to the exercise of the trustees discretionary powers.
+The court was shown examples of such letters, which were in a standardised form, in which the employee asked that the income and capital be held and applied according to his wishes, and that on his death, the trust fund be held for the benefit of a specified member or members of his family.
+In all but one case, RFC had the employee complete a loan application on his own behalf.
+The letter of wishes and the loan application were then submitted to the trustee.
+Messrs Baxendale Walker, the solicitors who devised and operated the scheme for the Murray group, then submitted a standard form of trust deed for the trustee company, in its capacity as trustee of the Principal Trust, to sign in order to create the sub trust.
+RFC paid its agreed contribution to the Principal Trust; and, on receipt of the funds, the trustee company invariably exercised its discretion to create a sub trust in the name of the employee.
+The trustee company, in its other capacity as trustee of the sub trusts, almost invariably exercised its discretion to grant a loan of the full amount in the sub trust in response to an employees request.
+The employees powers over the sub trust: The employee enjoyed extensive powers under the sub trust as its protector.
+In an example of a sub trust which was shown to the court, clause 7 gave the protector a power, which was stated to be a fiduciary power, to appoint and remove any trustee.
+Clause 9 gave the protector the power, which again was stated to be a fiduciary power, to alter the provisions of the sub trust.
+Significantly, that power included the power to change the beneficiaries of the sub trust.
+The power of alteration was subject to exclusions and required the written consent of the trustee if it was exercised in a manner which would adversely affect the trustee.
+The employee as protector was also empowered to appoint a protector in his place (clause 1.1.7).
+The FTT summarised the position (in para 103(v) of the majority decision) in these terms: the employee could also be appointed protector with extended powers in respects resembling trusteeship, but without title to the trust assets, and not enabling the conferring of any absolute beneficial right on the employee himself.
+This statement by the majority of the FTT is accurate in so far as it states what the employee could do while he was protector.
+But the employee had, as I have said, a power to appoint someone else as protector in his place and that person as protector had power to alter the beneficiaries of the sub trust.
+The majority of the FTT recorded (paras 23 and 227) that foreign players who left RFC and moved to reside overseas were able to unscramble the legal framework and receive an absolute right to the moneys which had been put in the sub trust.
+The majority of the FTT stated that this could be done only with the consents of those interested in the capital of the sub trust concerned.
+I am not persuaded that that is correct.
+In some cases, such as the one to which the majority expressly referred, the players wife cooperated with RFC, the trustee and the player to assign the receivables of the sub trust to the player and thus extinguish the loan.
+But the power of a replacement protector to alter the beneficiaries may have enabled the player to be nominated as the beneficiary and for him in cooperation with the trustee to extinguish the loan and bring the sub trust to an end.
+Dr Poons more detailed findings on the termination of sub trusts in paras 145 151 of her dissenting decision suggest that this device also was used.
+The exercise of discretion by the trustee: The initial trustee of the Principal Trust was Insinger Trust Company Ltd, which was resident in Jersey and which later changed its name to Equity Trust (Jersey) Ltd (Equity).
+Equity was also the trustee of the sub trusts.
+Both the Principal Trust and the sub trusts are governed by English law.
+In 2006 MGML replaced Equity with Trident Trust Company Ltd (Trident), another company resident in Jersey, as trustee of the Principal Trust, and transferred the trusteeship of certain sub trusts to it.
+As I have said, in every case in which an employing company paid money to the Principal Trust, the trustee, whether Equity or Trident, exercised its discretion to create a sub trust.
+When the employee applied for a loan of the sum paid into the sub trust, the trustee gave the employee a loan of that sum.
+In no case did the trustee take a security from the employee borrower to protect the repayment of the fund of the sub trust.
+The majority of the FTT recorded (paras 91, 103(x) and 225) that Equity was replaced as trustee by Trident after Equity had responded to some loan applications by requesting the provision of security and delayed the payment of the loans.
+It is clear from Dr Poons more detailed findings of fact (paras 50, 60, 166(xiii) and 201) that Equitys request for security was prompted by an investigation by its regulator, the Jersey Financial Services Commission, as to whether the loans were on commercial terms.
+Tridents managers proved to be more compliant with MGMLs wishes and the majority of the FTT (para 225) described the trustees attitude as lax.
+The majority recorded (para 225) that the trustee had the benefit of a broad indemnity from MGML; but the majority in its judgment treated the structure of the trust mechanism as important rather than the lax attitude of a particular trustee.
+RFC used the same trust mechanisms in making termination payments to players and in the payment of guaranteed bonuses.
+The majority of the FTT discussed these and also certain exceptional cases in paras 206 to 211 of its decision.
+The other companies in the Murray group, which were respondents before the Court of Session, used the same trust mechanisms and loans when paying discretionary annual bonuses to senior executives.
+The majority recorded (paras 103(xi) and 205) that these bonuses differed from the footballers bonuses, which were agreed on their engagement, as the senior executives had no contractual right to the bonuses before they were awarded.
+But the bonuses were paid as a reward for the work which the employees had carried out in their capacity as employees.
+RFC also used the same mechanisms in paying discretionary bonuses to its senior executives.
+One director, whose evidence the majority of the FTT accepted, described his understanding that the loan of the funds from the sub trust could be extended after ten years and would ultimately reduce the value of his estate for Inheritance Tax.
+He had received an indemnity from RFC against any personal tax liability from the arrangement (para 71).
+The basis of this appeal
+The majority of the FTT found that the trusts and the loans were valid and were not shams.
+It refused to hold that the trustee was a cipher and concluded that the trustee genuinely exercised discretion in its appointments upon the sub trusts and the making of the loans.
+HMRC does not challenge those findings in its defence of this appeal.
+HMRC succeeded in its appeal before the Inner House on the basis that income, which is derived from an employees work qua employee, is an emolument or earnings, and that it is assessable to income tax, even if the employee requests or agrees that it be redirected to a third party.
+The Inner House held that the scheme, which involved payments into the Principal Trust and the application of the funds through the sub trusts, amounted to a redirection of the employees earnings and did not remove the employers liability to pay income tax under the PAYE system.
+It held that the redirection occurred when the employing company paid the sums to the Principal Trust; the fact that the employee took the risk that the trustee would not apply the funds as he requested was irrelevant.
+The payments by the employing company into the Principal Trust were derived from the employees work as an employee and so were emoluments or earnings.
+RFC challenges this conclusion.
+Andrew Thornhill QC submits on its behalf that the Inner House erred in applying what it called the redirection principle in the circumstances of this case.
+In essence, he asserts that it is not sufficient that the payment of money arises from the performance of the duties of an employment.
+The payment of money so arising to a third party does not amount to the payment of earnings or emoluments unless the employee already has a legal right to receive the payment and it is paid at his direction to a third party.
+He submits that the employing companies did not incur liability to pay income tax or NICs because the employees of the Murray group companies never had a right to receive the sums which were paid into the trust mechanism.
+An employee received only a loan from the trustee of the relevant sub trust and that loan did not fall within the PAYE system.
+Interpreting the legislation Discussion (i)
+Income tax on emoluments or earnings is, principally but not exclusively, a tax on the payment of money by an employer to an employee as a reward for his or her work as an employee.
+As we have seen from the use of the word therefrom in section 19 of ICTA (para 5 above), income tax under Schedule E was charged on emoluments from employment.
+In other words, it was a tax on the remuneration which an employer pays to its employee in return for his or her services as an employee.
+This concept also underpins the concept of earnings in ITEPA (para 6 above) which in section 9(2) refers to taxable earnings from an employment and in section 62 defines earnings in relation to an employment.
+Included in that definition in section 62(2)(c) is the catch all phrase: anything else that constitutes an emolument of the employment.
+That which was an emolument under prior legislation remains an emolument under ITEPA.
+What is taxable is the remuneration or reward for services: Brumby v Milner [1976] 1 WLR 29, 35 per Lord Russell of Killowen in the Court of Appeal; [1976] 1 WLR 1096, 1098 1099 per Lord Wilberforce in the House of Lords.
+That is not in dispute.
+The central issue in this appeal is whether it is necessary that the employee himself or herself should receive, or at least be entitled to receive, the remuneration for his or her work in order for that reward to amount to taxable emoluments.
+A careful examination of the provisions of the primary legislation reveals no such requirement.
+First, section 13 of ITEPA defines the taxable person who is liable for any tax on employment income.
+Subsection (2) of that section provides: If the tax is on general earnings, the taxable person is the person to whose employment the earnings relate.
+The employee, whose work gives rise to the remuneration, is taxed, not the recipient of the earnings.
+This is consistent with the prior history of the tax charge under Schedule E which, as RFC acknowledged in its written case, made the employee the taxable person even if the emoluments were received by a third party.
+Secondly, the provisions of ICTA and ITEPA, to which I have referred in paras 5 and 6 above, with one exception, do not restrict the concept of emoluments by requiring their payment to a specific recipient.
+Section 131 of ICTA and section 62(2) of ITEPA define taxable emoluments, but, other than section 62(2)(b) which I discuss in para 45 below, do not specify the recipient.
+Section 202A of ICTA, which established the receipts basis of the tax charge, spoke of the emoluments received in the year without specifying the recipient and section 202B spoke of the time when a person becomes entitled to payment of or on account of the emoluments (emphasis added).
+Section 18 of ITEPA, which sets out rules as to when money earnings are received is similarly unspecific as to the identity of the recipient.
+It provides: (1) General earnings consisting of money are to be treated for the purposes of this Chapter as received at the earliest of the following times Rule 1 The time when payment is made of or on account of the earnings.
+Rule 2 The time when a person becomes entitled to payment of or on account of the earnings. (Emphasis added) Section 686 of ITEPA contains the same rules for the purposes of the PAYE Regulations.
+Section 203A of ICTA used a similar formulation in the context of the PAYE regime.
+Section 203 of ICTA, like the other provisions which I have mentioned, was silent as to the identity of the recipient.
+I see nothing in the wider purpose of the legislation, which taxes remuneration from employment, which excludes from the tax charge or the PAYE regime remuneration which the employee is entitled to have paid to a third party.
+Thus, if an employee enters into a contract or contracts with an employer which provide that he will receive a salary of X and that as part of his remuneration the employer will also pay Y to the employees spouse or aunt Agatha, I can ascertain no statutory purpose for taxing the former but not the latter.
+The breadth of the wording of the tax charge and the absence of any restrictive wording in the primary legislation, do not give any support for inferring an intention to exclude from the tax charge such a payment to a third party which the employer and employee have agreed as part of the employees entitlement.
+Both sums involve the payment of remuneration for the employees work as an employee.
+The relevant subordinate legislation points in the same direction.
+Regulation 21 of the PAYE Regulations speaks of making a relevant payment to an employee and regulation 6 of the 1993 Regulations used similar language (para 7 above).
+But those provisions in subordinate legislation do not mean that only the employee may receive it.
+Employee was defined in the 1993 Regulations (regulation 2) as meaning any person in receipt of emoluments.
+The PAYE Regulations defines employee more narrowly by reference to sections 4 and 5 of ITEPA but it allows for receipt by an other payee which it defines (regulation 2) as a person receiving relevant payments in a capacity other than employee and regulation 12 provides that for the purposes of the PAYE Regulations other payees are treated as employees.
+I therefore read payment to an employee or essentially similar phrases in the subordinate legislation as a reference to the payment of the employees emoluments whether to the employee or to another person.
+As a general rule, therefore, the charge to tax on employment income extends to money that the employee is entitled to have paid as his or her remuneration whether it is paid to the employee or a third party.
+The legislation does not require that the employee receive the money; a third party, including a trustee, may receive it.
+While that is a general rule, not every payment by an employer to a third party falls within the tax charge.
+It is necessary to consider other circumstances revealed in case law and in statutory provisions which fall outside the general rule.
+Those circumstances include: (i) the taxation of perquisites, at least since the enactment of ITEPA, (ii) where the employer uses the money to give a benefit in kind which is not earnings or emoluments, and (iii) an arrangement by which the employers payment does not give the intended recipient an immediate vested beneficial interest but only a contingent interest.
+As I shall seek to show, in the first circumstance, current legislation requires receipt by the employee; in the second circumstance, there are special rules for the taxation of such benefits; and, in the third circumstance, where on a proper analysis of the facts there is only a contingent right, the taxable earnings or emoluments are not paid by the employer as remuneration until the occurrence of the contingency.
+The first such circumstance is the taxation of perquisites and profits or, in the updated wording of ITEPA, any gratuity or other profit or incidental benefit.
+Section 131 of ICTA spoke of perquisites and profits.
+While in colloquial usage a perk may take many forms, judicial interpretation of tax legislation has long required that the perquisite be capable of being converted into money in order to fall within the tax net under this provision.
+Three cases in the House of Lords demonstrate this.
+First, in Tennant v Smith [1892] AC 150, the House of Lords held that a bank manager was not liable to income tax on the use of accommodation in bank premises in Montrose, which he was required to occupy as part of the duties of his employment, because he could not convert any benefit which he obtained from such occupation into money.
+The arrangement saved the bank manager from incurring expenditure on accommodation; but that was not enough to make the benefit taxable as an emolument.
+In Abbott v Philbin [1961] AC 352 a majority of the House of Lords held that an employee of a company was liable to income tax on the grant by his employer of an option to purchase shares in that company in the tax year in which the option was granted because the option itself had a monetary value which the employee could realise.
+Lord Radcliffe described the principle in Tennant v Smith thus (378): if [the benefits] are by their nature incapable of being turned into money by the recipient they are not taxable, even though they are in any ordinary sense of the word of value to him.
+In Heaton v Bell [1970] AC 728 the House of Lords held by majority that the benefit of the use of a car which an employer provided to its employees under a car loan scheme was taxable either as part of an employees wages, because the contract provided for a deduction from the employees wages to cover the cost of providing the car or, more relevantly, because the car was a perquisite which the employee could turn into money by surrendering it to his employer.
+These judicial decisions gained statutory expression in section 62 of ITEPA which in subsection (2)(b) provides that earnings include any gratuity or other profit or incidental benefit of any kind obtained by the employee if it is money or moneys worth and defines moneys worth in subsection (3) which looks to the monetary value of the thing to the employee (para 6 above).
+Thus, in contrast with the more open definitions of earnings in section 62(2)(a) and (c) (salary, wages or fee and anything else that constitutes an emolument of the employment), Parliament has required that the benefit be obtained by the employee and that it is or is capable of being converted into money or something of direct monetary value to the employee.
+The Notes on Technical Points, which were annexed to the Bill which became ITEPA, described subsection 2(b) as a significant departure in contrast with the continuity between the statutory concepts of emoluments and earnings (Annex 2, note 13).
+Section 62(2)(b) and (3) were intended to be the modern equivalent of the prior statutory reference to perquisites and profits whatsoever.
+It is not clear in principle why such benefits should be restricted to those which are received by and of value to the employee when the other forms of employment earnings are not.
+The provision may reflect judicial dicta such as in Pook v Owen [1970] AC 244, in which Lord Pearce (259) spoke of perquisites as meaning something that benefits a man by going into his own pocket.
+That case concerned the question of whether the reimbursement of travel expenses, from which the employee made no profit, was a perquisite, which Lord Guest (255) described as a casual emolument additional to regular salary or wages.
+The House of Lords held that the reimbursement was not such a perquisite.
+The question of payment to a third party did not arise.
+It may be that casual emoluments, such as gratuities, are almost always paid to the employee.
+But I see no proper basis for reading the other forms of earnings in section 62(2)(a) and (c) in a similarly restrictive way.
+A second circumstance, which falls outside the general rule, is where the employer spends money to confer a benefit in kind which the recipient cannot convert into money.
+Such expenditure is not a perquisite or profit, gratuity or incidental benefit for the reasons discussed above and only falls within the income tax regime because of special statutory provision, such as, currently, the benefits code in Part 3 chapters 2 11 of ITEPA, which cover among others the provision of living accommodation, cars or loans and the payment of expenses.
+Part 7 of ITEPA also has special rules for shares etc acquired in connection with an employment, and Part 6 of that Act is concerned with income which is not earnings or share related.
+A third circumstance is where the person entitled to receive the sums paid by the employer does not acquire a vested right in those sums until the occurrence of a contingency.
+This circumstance is illustrated by the case of Edwards v Roberts (1935) 19 TC 618, in which an employing company entered into an employment contract to give an employee, in addition to his salary, an interest in a conditional fund, into which it would make annual payments from its profits, as an incentive for him to advance the companys interests.
+The employee was entitled to receive the annual income from the fund but had no right to receive any of the capital of the fund other than that which had been held in the fund for five years or more.
+The contract provided that he would receive the whole fund if he died while still employed by the company or on termination of his employment by the company in specified circumstances.
+But the contract also provided that the employee would cease to have any right in the conditional fund in circumstances which included his dismissal for misconduct.
+The trustees of the fund handed over to the employee the investments in the fund when he later resigned with the consent of the company.
+The employee argued that the sums which the company had paid into the conditional fund formed part of his emoluments in each of the years in which they were paid into the fund.
+But the Court of Appeal (Lord Hanworth MR, Romer and Maugham LJJ) held that those sums did not constitute his emoluments in those years because he had only a conditional interest in them; instead the value of the investments transferred to him after his resignation were his emoluments in the tax year in which they were transferred to him.
+The payments in that year reflected his status as an employee at the time when the contingency was fulfilled.
+In that case the court distinguished the case of Smyth v Stretton (1904) 5 TC 36, in which Channell J had construed an employers scheme, which provided for payments into a provident fund for payment to employees on their retirement, as providing for an agreed application of part of the employees salary and held that the payments into the fund were therefore taxable as emoluments for services provided in the year of payment into the fund.
+The recent judgment of this court in Forde and McHugh Ltd v Revenue and Customs Comrs [2014] 1 WLR 810, which turned on the wording of provisions in the Social Security Contributions and Benefits Act 1992, is consistent with the approach in Edwards v Roberts in holding that sums paid by an employer, other than out of an employees salary, which were to provide contingent benefits to an employee, did not fall within the charge to NICs on earnings before the occurrence of the contingency and the payment of the benefits.
+Otherwise, on HMRCs approach to the legislation in question, liability to pay NICs on earnings would have arisen both on payment of sums into the trust and on the later payments of the benefits (if any) from it.
+Mr Thornhill founds on the case, and in particular on its emphasis in para 17 of the judgment on what the employee received, to support his submission that the payment of remuneration cannot be the payment of emoluments unless the employee is entitled to receive it.
+But Forde and McHugh Ltd was not concerned with the payment of an employees remuneration to a third party or the provision of that money to the employee without the interposition of any contingency.
+What the court said in para 17 of that case should be read in its context, which involved (a) the conferring of only a contingent benefit on the employee and (b) (if HMRC had been correct in their submission) the imposition of a double charge, levied both on the settlement of funds on to the pension trust and on receipt of the deferred remuneration from it.
+The case did not create or support the principle for which Mr Thornhill contends.
+In summary, the statutory provision for the taxation of what were in the past called perquisites and profits, namely section 62(2)(b) of ITEPA, has confined the tax charge to benefits received by the employee.
+But there is no such restriction in section 62(2)(a) or (c).
+In none of the cases, which I have mentioned in paras 42 44, 47 and 48 and on which RFC relies, was the court concerned with the identity of the recipient of the benefit.
+The focus in each was on the source or the nature of the right which the employee received.
+Accordingly, the cases do not assist in determining the issue on this appeal.
+By contrast, the advice of the Privy Council in Hadlee v Comr of Inland Revenue [1993] AC 524 is in point.
+The appeal concerned income tax legislation in New Zealand.
+Section 38(2) of the Income Tax Act 1976 provided that income tax was payable by every person on income derived by him during the year for which tax was payable.
+A partner in an accountancy firm assigned a proportion of his share in the partnership to a trust under which the primary beneficiaries were his wife and child.
+He sought to argue that he was not liable to income tax on that proportion of his annual partnership income.
+The New Zealand courts rejected that contention and the Privy Council upheld their decision, holding that income tax was a tax on income which was the product of the taxpayers personal exertion and that the taxpayer could not escape liability to pay that tax by assigning a part of his share in the partnership.
+While the relevant provision of the New Zealand statute was worded differently from the United Kingdom legislation, the latter, by its emphasis on emoluments arising from a taxpayers employment, adopts a similar concept of the tax charge.
+It supports the view which I have reached that a charge to income tax on employment income can arise when an arrangement gives a third party part or all of the employees remuneration.
+As well as ascertaining whether remuneration amounts to emoluments or earnings, it is necessary under the provisions relating to PAYE to determine whether there has been a payment from which deductions were required.
+In para 11 above, I referred to cases of high judicial authority which warned against misplaced reliance on judicial glosses.
+Such misplaced reliance has been evident in the case law which led up to this appeal in relation to the concept of payment.
+In Garforth v Newsmith Stainless Ltd [1979] 1 WLR 409 Walton J addressed the meaning of payment in the context of the statutory provisions and regulations which then set out the PAYE system.
+In the tax year 1974/75 a taxpayer company voted to award bonuses to its two directors and controlling shareholders and credited the sums to accounts with the company from which the directors were free to draw.
+The directors did not draw on those sums.
+The Inland Revenue assessed the company to tax, arguing that the company should have deducted tax under the PAYE system on the full sums credited to those accounts.
+Walton J, upholding the revenues assessment, said (412G) that the word payment had no one settled meaning but took its colour from its context.
+He held that there was no need for the directors to withdraw the money from their loan accounts for there to have been payment by the company, stating (414A B) when money is placed unreservedly at the disposal of directors by a company, that is equivalent to payment.
+He held (415C E) that different considerations would have arisen if the company had required a further decision by the board of directors or by the shareholders in general meeting before the money could have been withdrawn.
+In my view, the interpretation or gloss which Walton J placed on payment (money placed unreservedly at the disposal ) was a practical and sensible one in the context of the circumstances which he was addressing, which later became the subject of statutory provision in section 202B of ICTA.
+That interpretation or gloss was also adopted by the Inner House in Aberdeen Asset Management plc v Revenue and Customs Comrs 2014 SC 271 in analysing the nature of the rights which a tax avoidance scheme, involving an offshore employee benefits trust and family benefit trusts and shares in Isle of Man companies, had conferred on the relevant employees.
+By the time the case reached the Inner House, the employing company had accepted that the sums which it had paid though the employee benefits trust to an Isle of Man company were taxable as emoluments and that the scheme was ineffective to reduce the value of those emoluments.
+The question was whether the employing company was liable to pay the tax under the PAYE system or the benefited employees individually should pay.
+The issue, to which the gloss was unexceptionably applied, was whether the money in an Isle of Man company, whose shares the employee had acquired through the scheme, was to be treated as being received by the employee so that there was payment within the meaning of section 203 of ICTA and the 1993 Regulations.
+Lord Drummond Young, having cited Walton Js judgment in Garforth, stated (para 34): In considering what amounts to payment for the purposes of the PAYE legislation, it is important in my opinion to bear in mind that money is a medium of exchange.
+In practical terms, therefore, the crucial question is whether funds have been placed in a position where as a practical matter they may be spent by the employee as he wishes; it is at that point that the employee can be said to obtain the benefit of those funds.
+If the PAYE legislation is construed purposively it is in my view obvious that it is such a benefit that is to be taxed.
+For this purpose it is not appropriate to deconstruct the precise legal nature of the employees rights, drawing fine distinctions according to the methods that he must adopt in order to use the funds for his benefit.
+The fact that the employee has practical control over the disposal of the funds is sufficient to constitute a payment for the purposes of the legislation.
+See also the Lord President (Lord Gill) (para 7) and Lord Glennie (paras 65 66).
+The Inner House did not have to address the argument which HMRC has advanced in this appeal that a payment of an employees emoluments to a third party, including a trustee, could be covered by the PAYE system.
+The gloss is no basis for establishing a general rule or principle that a payment is made for the purposes of PAYE only if the money is paid to or at least placed unreservedly at the disposal of the employee.
+Yet it has been so used.
+In Sempra Metals Ltd v Revenue and Customs Comrs [2008] STC (SCD) 1062 one of the issues which the Special Commissioners had to address was whether payments by the taxpayer company of senior employees bonuses into an employee benefit trust involved the payment of earnings for the purposes of PAYE.
+In 1995 the company established the trust by deed of settlement in order to provide tax efficient benefits to its employees.
+The employees could choose to take their annual bonuses in cash or have them paid to the trust.
+Each employee had the choice of taking the amount allocated to him as a loan or leaving it invested in the trust.
+No application for a loan was ever refused by the trustee.
+After changes were made by the Finance Act 2003 which prevented the deduction from profits for the purpose of corporation tax of sums paid into such trusts unless they gave rise to an income tax charge on employment income and a liability to pay NICs, the company replaced the employee benefit trust with a family benefit trust.
+The beneficiaries of the family benefit trust were members of the employees family as nominated by the employee and the trust operated in a very similar way to the earlier trust.
+Counsel for the taxpayer company submitted that the employees had received loans and not earnings or emoluments and the trustee had exercised the discretion subject to which it held the funds.
+Counsel for HMRC argued that the payments to the trusts became emoluments and earnings when they vested unconditionally in the employees and that occurred when the trustee allocated amounts to the individual employees or their nominated beneficiaries.
+He referred to Garforth for the principle that money placed unreservedly at the disposal of an employee amounted to payment.
+That was one of the principles which the special commissioners adopted in their reasoning, holding (para 142) that the existence of the trusts, the continuing discretion of the trustee and the existence of the loans, in those cases in which loans were made, meant that the employees were not free to do whatever they liked with the funds allocated to them.
+They concluded (para 144): When the appellant made payments to the trusts, no transfer of cash or its equivalent was placed unreservedly at the disposal of the employees.
+That means that there was no payment by the appellant of emoluments or earnings giving rise to an obligation to deduct income tax and pay it to the Revenue.
+The special commissioners (para 147) reached the same conclusion in relation to NICs.
+In my view, for the reasons discussed above, Sempra Metals was wrongly decided.
+HMRC had earlier taken the same approach in its arguments before the special commissioners in Dextra Accessories Ltd v Macdonald (Inspector of Taxes) [2002] STC (SCD) 413, which concerned an employee benefit trust into which a company transferred the bulk of the remuneration of its three director shareholders.
+In that case the special commissioners rejected the assertion that funds which an employer contributed to an employee benefit trust and which its trustee allocated to trust sub funds were at the absolute disposal of the employees.
+They held that the trustee would have to exercise its discretion and appoint the funds absolutely to the employees as beneficiaries of the sub trust before those funds could be at the employees absolute disposal.
+From that conclusion the special commissioners inferred that the sums were not subject to income tax, holding (para 17): The reason why the employees are not taxed on funds in the EBT is simply that they do not belong to the employees.
+For the reasons set out above I do not agree with this conclusion.
+But their decision on this issue was not appealed and the special commissioners decision on the deductibility of the companys expenditure for the purpose of corporation tax was reversed by the House of Lords: (2003) 77 TC 146.
+It is therefore sufficient to note that the special commissioners were not presented with the arguments which HMRC advanced in this appeal before the Inner House and this court.
+In summary, (i) income tax on emoluments or earnings is due on money paid as a reward or remuneration for the exertions of the employee; (ii) focusing on the statutory wording, neither section 131 of ICTA nor section 62(2)(a) or (c) of ITEPA, nor the other provisions of ITEPA which I have quoted (except section 62(2)(b)), provide that the employee himself or herself must receive the remuneration; (iii) in this context the references to making a relevant payment to an employee or other payee in the PAYE Regulations fall to be construed as payment either to the employee or to the person to whom the payment is made with the agreement or acquiescence of the employee or as arranged by the employee, for example by assignation or assignment; (iv) the specific statutory rule governing gratuities, profits and incidental benefits in section 62(2)(b) of ITEPA applies only to such benefits; (v) the cases, to which I have referred above, other than Hadlee, do not address the question of the taxability of remuneration paid to a third party; (vi) Hadlee supports the view which I have reached; and (vii) the special commissioners in Sempra Metals (and in Dextra) were presented with arguments that misapplied the gloss in Garforth and erred in adopting the gloss as a principle so as to exclude the payment of emoluments to a third party.
+Parliament in enacting legislation for the taxation of emoluments or earnings from employment has sought to tax remuneration paid in money or moneys worth.
+No persuasive rationale has been advanced for excluding from the scope of this tax charge remuneration in the form of money which the employee agrees should be paid to a third party, or where he arranges or acquiesces in a transaction to that effect.
+Having adopted this purposive construction of the legislation, I turn to apply it to the facts of this appeal.
+(ii) Applying the legislation to the facts
+Having set out the law in some detail above, I can be brief in applying it to the facts as found by the majority of the FTT.
+The payment of money into the Principal Trust was a component of the remuneration of the footballers and other employees.
+I address first the footballers.
+The arrangement which led to the two contracts, being the contract of employment and the side letter relating to the trust arrangement, were negotiated between senior managers of RFC on the one hand and the footballers or their agents on the other.
+The focus of the discussions was on the net remuneration which would be made available to the footballer.
+Every time a footballer wanted to use the money provided to his sub trust, he was given a loan by the sub trust.
+Thus, as envisaged by the negotiation, the footballer was able to gain access to the cash when he wanted it.
+The expectation of both employer and employee was that the employee would not have to repay the loan while he lived and thus he would be able to gain an inheritance tax benefit through the diminution of his estate by the combination of the outstanding loan and its accrued interest.
+See paras 21 24 above.
+The assets of the sub trust, which were almost always the loan and the accruing interest, were held in trust for the benefit of members of the footballers family whom he had selected.
+Thus the funds available on repayment of the loan would go to his family.
+The footballer as protector of the sub trust could determine who the trustees of the sub trust were and also who were its beneficiaries.
+See paras 25 27 above.
+It was necessary for the operation of the scheme as the parties intended that the trust administration was lax, not least in the provision of the entire fund of a sub trust to the employee in the form of a loan without taking measures to secure its repayment.
+When the Jersey regulator caused Equity to tighten up the terms on which a sub trust provided loans, Equity was replaced by the more compliant Trident.
+See paras 28 and 29 above.
+The relevant provisions for the taxation of emoluments or earnings were and are drafted in deliberately wide terms to bring within the tax charge money paid as a reward for an employees work.
+The scheme was designed to give each footballer access without delay to the money paid into the Principal Trust, if he so wished, and to provide that the money, if then extant, would ultimately pass to the member or members of his family whom he nominated.
+Having regard to the purpose of the relevant provisions, I consider the sums paid to the trustee of the Principal Trust for a footballer constituted the footballers emoluments or earnings.
+There was a chance that the trust company as trustee of the Principal Trust might not agree to set up a sub trust and there was a chance that as trustee of a sub trust it might not give a loan of the funds of the sub trust to the footballer.
+But that chance does not alter the nature of the payments to the trustee of the Principal Trust.
+In applying a purposive interpretation of a taxing provision in the context of a tax avoidance scheme it is legitimate to look to the composite effect of the scheme as it was intended to operate.
+In Inland Revenue Comrs v Scottish Provident Institution [2004] 1 WLR 3172 Lord Nicholls stated (para 23): The composite effect of such a scheme should be considered as it was intended to operate and without regard to the possibility that, contrary to the intention and expectations of the parties, it might not work as planned.
+The footballers, when accepting the offer of higher net remuneration through the trust scheme which the side letters envisaged, were prepared to take the risk that the scheme might not operate as planned.
+The fact that the risk existed does not alter the nature of the payment to the trustee of the Principal Trust.
+The bonuses which RFC and the other employing companies gave their executives were made available through the same trust mechanisms.
+See para 31 above.
+The employees had no contractual entitlement to the bonuses before their employers decided to give them but that does not alter the analysis of the effect of the scheme.
+The fact that bonuses were voluntary on the part of the employer is irrelevant so long as the sum of money is given in respect of the employees work as an employee: Blakiston v Cooper [1909] AC 104, 107 per Lord Loreburn LC, Hartland v Diggines [1926] AC 289, 291 per Viscount Cave LC.
+For the same reasons as those which cause the footballers remuneration paid to the Principal Trust to be subject to taxation, the bonuses which were paid to the employees though the trust mechanism fall within the tax charge as emoluments or earnings when paid to the Principal Trust.
+In agreement with Lord Drummond Young, I consider that the PAYE system can operate without difficulty.
+The trustee of the Principal Trust is the person in receipt of the emoluments or earnings and payment to it should have been subject to deduction of income tax under the 1993 Regulations and now under the PAYE Regulations.
+See paras 38 and 39 above.
+The constraints of the statutory tax code?
+For completeness, I should explain why I am not persuaded by the assertion that other provisions in tax legislation militate against the view to which I have come.
+The majority of the FTT thought that a purposive approach to the interpretation of emoluments or earnings was curtailed by the existence of a highly prescriptive statutory code and by the legal effect of the trust arrangements and loans (paras 191 and 193).
+The creation of a trust structure can give rise to charges to income tax on trust income and, other things being equal, employment related loans can be the subject of a specific tax charge under Part 3 chapter 7 (sections 173 191) of ITEPA and formerly under Part V chapter 2 (sections 160 161B) of ICTA.
+But the taxation of income earned by the assets of a trust is the taxation of a separate source of income from a persons emoluments or earnings and is therefore irrelevant.
+The specific provisions for the taxation of employment related loans have the effect of deeming the benefit of the loans to be emoluments.
+But if, on a proper analysis, the sums paid into the Principal Trust are emoluments in the first place, these provisions cannot apply as otherwise the taxpayer would taxed twice on part of the same earnings.
+I agree with Dr Poon in her dissenting judgment in the FTT when she stated (para 181) that the legislative code for emoluments has primacy over the benefits code in relation to loans.
+I also agree with the conclusion of the FTT in Sloane Robinson Investment Ltd v Revenue and Customs Comrs [2012] UKFTT 451 (TC), [2012] SFTD 1181 (para 93): it suffices to say that in these circumstances [the provisions of Part 7 of ITEPA (which covered income related securities)] cannot apply to a situation which is already covered by sections 18 and 686 of the Act.
+Part 7A of ITEPA was introduced by the Finance Act 2011 (section 26 and Schedule 2) and is designed to tax as employment income, among other things, the value of loans provided by third parties to employees under arrangements to reward employment.
+This legislation appears to have removed many of the benefits which some believed that the tax scheme gave.
+More recently, the Finance Act 2017 (section 15 and Schedule 6) has amended Part 7A of ITEPA.
+But these provisions, which are designed further to counter tax avoidance schemes, cannot affect the interpretation of prior tax legislation.
+Finally, section 154 of ICTA imposed a charge on the provision of benefits to members of the family or household of a person employed as a director of a company or with emoluments of 8,500 or more.
+But it does not militate against the interpretation which I have favoured because it is a residual charge to tax and applies only if the cost of providing the benefit is not otherwise chargeable to tax: section 154(1)(b).
+The current residual liability to a tax charge on such a benefit is in chapter 10 of Part 3 of ITEPA, section 201(2).
+I am therefore satisfied that the purposive approach to the interpretation of the general provisions of ICTA and ITEPA in relation to emoluments or earnings is not excluded by these provisions.
+Disposal
+For these reasons, which are essentially the same as those of the Inner House, I would dismiss the appeal.

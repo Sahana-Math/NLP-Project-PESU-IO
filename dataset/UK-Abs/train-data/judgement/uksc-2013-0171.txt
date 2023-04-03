@@ -1,0 +1,623 @@
+This appeal is concerned with the law of unjust enrichment and subrogation.
+The original parties to the action were Melissa Menelaou as claimant (Melissa), the Bank of Cyprus UK Ltd as defendant (the Bank) and a firm of solicitors, Boulter & Co, as third party (Boulters).
+The trial of the action came before David Donaldson QC, sitting as an additional judge of the Chancery Division (the judge): [2012] EWHC 1991 (Ch).
+The trial began on 16 May 2012 and lasted three days.
+By the end of the trial only the Banks counterclaim against Melissa was live.
+On 19 July 2012 the judge handed down a judgment dismissing the counterclaim.
+The Bank appealed to the Court of Appeal (Moses, Tomlinson and Floyd LJJ), which allowed the appeal on 4 July 2013: [2013] EWCA Civ 1960, [2014] 1 WLR 854.
+Melissa appeals to this court.
+The background facts
+The facts can largely be taken from the agreed statement of facts and issues.
+Melissa, who was born on 27 January 1990, is the second of the four children of Mr Parris and Mrs Donna Menelaou (the Menelaou parents).
+The other children were Danielle, born on 9 August 1986, Max, born on 24 June 1991 and Ella Mae, born on 6 February 2002.
+In mid 2008, the Menelaou parents and their three youngest children lived at Rush Green Hall, Great Amwell, Hertfordshire (Rush Green Hall), which was a property owned by the Menelaou parents jointly.
+Melissa was 18 and a student at a nearby college.
+Rush Green Hall was subject to two charges in favour of the Bank.
+The Menelaou parents directly owed the Bank about 2.2m, and had personally guaranteed loans made by the Bank to their companies.
+The Menelaou parents decided to sell Rush Green Hall, to apply some of the proceeds to buy a smaller property as the family home, to provide funds for Danielle to pay the deposit on a house which she wanted to buy with her future husband and to free up capital to invest in a further development project.
+The Menelaou parents instructed Boulters to act for them in the conveyancing transaction.
+The senior partner of Boulters was Mr Menelaous sister.
+They used Mr Paul Cacciatore, who was employed by Boulters as a legal executive and who was also one of Mr Menelaous brothers in law.
+On 15 July 2008 contracts were exchanged for the sale of Rush Green Hall for the price of 1.9m.
+The contractual purchasers of Rush Green Hall paid a deposit of 190,000 to Boulters for the account of the Menelaou parents.
+About a week later, Mr Menelaou informed Mr Cacciatore that he had found a new property to serve as the family home at 2 Great Oak Court, Hunsdon, Hertfordshire (Great Oak Court).
+On 24 July 2008 contracts were exchanged for the purchase of Great Oak Court for the price of 875,000.
+On Mr Menelaous instructions, the purchaser of Great Oak Court was to be Melissa.
+The deposit payable was 87,500.
+This deposit was paid from the 190,000 held by Boulters as the deposit for the sale of Rush Green Hall.
+Mr Menelaou told Melissa that Great Oak Court was being bought in her name as a gift to her, on the basis that she would hold the property for the benefit of herself and her two younger siblings.
+She agreed to the arrangement.
+The Bank was not approached about the proposed arrangement prior to the exchanges of contracts.
+The Bank sanctioned the proposed arrangements with some reluctance given the overall indebtedness of the Menelaou parents and their companies.
+On 5 September 2008 Boulters wrote to the Bank saying that it understood that the Bank was to take a charge over Great Oak Court from Melissa, which Boulters understood would be a third party charge.
+Completion was to be on 12 September.
+On 9 September 2008 the Bank wrote to Boulters in these terms: Thank you for your letter dated 5 September 2008.
+We confirm that upon receipt of 750,000 we will release our charges over [Rush Green Hall] subject to a third party legal charge over [Great Oak Court] which is registered in the name of Melissa Menelaou.
+Melissa was not aware of the Banks intention to take any charge over Great Oak Court.
+The Bank also instructed Boulters to act as its solicitors to deal with the discharge of its charges over Rush Green Hall and to obtain a charge in favour of the Bank over Great Oak Court.
+On 10 September 2008 Boulters replied to the Banks letter of 9 September enclosing a certificate of title undertaking to obtain an executed mortgage in Melissas name over Great Oak Court and to confirm that they had complied or would comply with the Banks instructions.
+On 11 September 2008 Boulters sent the Bank a form of legal charge over Great Oak Court, purportedly signed by Melissa and identifying her as the customer.
+It was (and is) Melissas case, supported by her brother and by handwriting evidence, that the signature on the charge was not hers.
+Indeed, she was unaware of the existence of the charge until 2010.
+On the same day, 11 September 2008, the Bank telephoned Boulters and pointed out that the identity of the customer in the charge should be the Menelaou parents and not Melissa.
+Boulters did not contact Melissa.
+Instead, an employee of Boulters simply changed the name of the customer in manuscript on the charge from that of Melissa to those of the Menelaou parents.
+On 12 September 2008 completion of the sale of Rush Green Hall by the Menelaou parents and the purchase of Great Oak Court by Melissa both took place.
+As part of the completion process, Boulters received the balance of the price of Rush Green Hall from its purchasers.
+They remitted 750,000 to the Bank and sent a further 785,000 to the vendors of Great Oak Court to meet the remaining 90% of the purchase price for Great Oak Court.
+Boulters also sent the Bank two deeds to be sealed by the Bank authorising the cancellation of the entries in respect of the two registered charges over Rush Green Hall.
+The discharge of mortgage forms were not returned by the Bank until 13 October 2008.
+After a considerable delay, Melissa was registered as the proprietor of Great Oak Court.
+The Bank was also registered as the purported chargee.
+Following completion, the Menelaou parents, Melissa, and her two younger siblings moved into Great Oak Court and occupied it as their family home.
+In the spring of 2010 Melissa was told by her parents that their business was experiencing difficulties.
+It was proposed that Great Oak Court would be sold and a smaller property purchased.
+It was at this point that Melissa discovered the existence of the charge dated 12 September 2008 over Great Oak Court.
+Melissas conveyancing solicitors then corresponded with Boulters.
+The Bank was made aware of the challenge to the validity of its charge and, through its solicitors, intimated a claim against Boulters.
+Many allegations of breach of duty (fiduciary and otherwise) were made by the Bank against Boulters.
+The procedural history
+On 2 November 2010 Melissa issued a Part 7 claim in the Chancery Division seeking orders that all references to the charge, as appearing in the Charges Register for Great Oak Court, be removed.
+The main basis for this claim was that, not having been signed by Melissa, the Banks charge was void.
+The Bank defended the claim but also counterclaimed for a declaration that the Bank was entitled to be subrogated to an unpaid vendors lien over Great Oak Court.
+On 14 January 2011 the Bank issued a Part 20 claim against Boulters for damages for breach of trust and/or fiduciary duty, and an indemnity against all costs and expenses that it might incur in the main claim.
+After the exchange of witness statements, it became clear to Melissa and her advisers that Boulters had altered the charge without consulting her.
+By consent of the parties, pursuant to Melissas application dated 13 April 2012, the particulars of claim were amended to rely upon this alteration as a further ground for rendering the charge void.
+The Banks response was to continue to challenge the invalidity of the charge.
+As stated above, the trial of the case began on 16 May 2012.
+At the commencement of the trial all issues were live.
+Melissa was called to give evidence and was duly cross examined.
+Thereafter, following an interchange between counsel and the judge, Boulters conceded in the Part 20 claim that the charge was void and that Melissa was entitled to the relief sought in her claim and, as it is put in the statement of facts and issues, reflexively, the Bank conceded the same in the main claim.
+The issue of liability in the Banks claims against Boulters was then compromised and a written agreement was entered into between the Bank and Boulters whereby Boulters accepted that it was in breach of its duties in both contract and tort and was liable to indemnify the Bank for its losses as a result of an invalid charge being entered against Great Oak Court.
+As a result of that agreement, the only remaining live issue for determination at the trial was the Banks counterclaim against Melissa.
+Judgment was reserved and (as stated above) was handed down on 19 July 2012 dismissing the counterclaim.
+No formal order was made on that day but a further hearing took place on 23 October 2012, when the judge made an order that the Banks charge be removed from the Register (reflecting the Banks and Boulters concession that the Banks charge was void) and formally dismissed the Banks counterclaim with costs.
+The judge granted the Bank permission to appeal against the dismissal of its counterclaim.
+The judgment
+The judge made these findings in the course of his judgment.
+Whether by operation of law or as a result of any agreement or understanding between the parties, there was nothing to qualify the straightforward position that, in receiving the sale proceeds of Rush Green Hall, Boulters was acting as agent for Mr and Mrs Menelaou and held all the moneys for them alone (para 17).
+As regards the totality of the purchase price of Great Oak Court, it was not discharged by the use of moneys belonging to the Bank (para 19).
+The judge approached the matter on two bases, which he described as the narrow or traditional approach to the doctrine of subrogation to the unpaid vendors lien and the wider approach based on the law of unjust enrichment (para 14).
+He held that the fact that the moneys provided for the purchase were not paid by, and did not belong to, the Bank was fatal to the counterclaim on the narrow or traditional approach (para 19).
+As to the wider approach, he concluded that there was both benefit to Melissa, namely the gratuitous acquisition of Great Oak Court (albeit to be held on trust for her two younger siblings), and detriment to the Bank, namely the release of its two charges (para 22).
+He held that The existence of both detriment and benefit does not however establish the further element that the latter should have been at the expense of the Bank (para 22 original emphasis).
+He added, also in para 22: It is sufficient for me to say that there must in my view be something in the nature of, to use the formula proposed in Burrows, The Law of Restitution, 3rd ed (2010) p 66, a transfer of value from the Bank to the claimant.
+But here the claimants benefit enured and was complete on 12 September 2008, while the Banks detriment through the mistaken release of its charges over Rush Green Hall occurred a month later.
+Whether or not times arrow must always and with full rigour be respected in the law of unjust enrichment, I am clear that this is not a case in which economic or any other kind of reality calls for its wholesale rejection.
+The judge concluded that, although this left Melissa without any charge over her property, it did not leave the Bank without all recourse.
+This was because the Bank had an indemnity for its losses from Boulters (in reality with that firms indemnity insurers), which indemnity was agreed during the course of the trial (para 11).
+The Court of Appeal
+In a judgment handed down on 2 July 2013 the Court of Appeal unanimously allowed the Banks appeal.
+The question in this appeal is whether it was correct to do so.
+I will consider its reasoning in the course of my discussion of the issues argued before us.
+On 4 July 2003 the Court of Appeal handed down a further judgment dealing with a number of consequential issues.
+It declared that the Bank was entitled to be subrogated to an equitable charge by way of an unpaid vendors lien over Great Oak Court for 875,000 plus interest.
+The result of the Court of Appeals decision is that Melissas property, Great Oak Court, has been subjected to an equitable charge for 875,000 plus interest.
+The Banks application to a Master in the Chancery Division seeking to enforce the equitable charge has been stayed by agreement pending the outcome of this appeal.
+Discussion
+In the course of the argument, there was much discussion of the relevant legal principles.
+However, in my opinion it is not necessary to resolve all the possible issues which were discussed.
+It appears to me that this is a case of unjust enrichment.
+In Benedetti v Sawiris [2013] UKSC 50, [2014] AC 938 the Supreme Court recognised that it is now well established that the court must ask itself four questions when faced with a claim for unjust enrichment.
+They are these: (1) Has the defendant been enriched? (2) Was the enrichment at the claimants expense? (3) Was the enrichment unjust? (4) Are there any defences available to the defendant? See, for example, Benedetti at para 10, following Banque Financire de la Cit v Parc (Battersea) Ltd [1999] 1 AC 221 per Lord Steyn at 227 (and per Lord Hoffmann to much the same effect at 234) and Investment Trust Companies v Revenue and Customs Comrs [2012] EWCH 458 (Ch), [2012] STC 1150 per Henderson J at para 38 (ITC).
+In that paragraph Henderson J noted that Professor Andrew Burrows QC said in The Law of Restitution, 3rd ed (2011) p 27 that, if the first three questions are answered affirmatively and the fourth negatively, the claimant will be entitled to restitution and that those four elements constitute the fundamental conceptual structure of an unjust enrichment claim.
+In para 39, Henderson J accepted that approach, although he said that the four questions were no more than broad headings for ease of exposition, that they did not have statutory force and that there may be a considerable degree of overlap between the first three questions.
+I agree.
+In the instant case, there is no doubt that Melissa was enriched when she became the owner of Great Oak Court, which she was given by her parents, albeit on the basis that she would hold it for the benefit of herself and her two younger siblings.
+As it is correctly put on behalf of the Bank, her obligation to pay the purchase price of Great Oak Court to the vendor was discharged.
+The essential question is whether she was enriched at the expense of the Bank, since, if she was, there cannot in my opinion have been any doubt that the enrichment was unjust.
+I would accept the submission made on behalf of the Bank that the unjust factor or ground for restitution is usually identified in subrogation cases as being, either (1) that the lender was acting pursuant to the mistaken assumption that it would obtain security which it failed to obtain: see eg Banque Financire per Lord Hoffmann at p 234H, or (2) failure of consideration: see the fourth and fifth points made by Neuberger LJ in Cheltenham & Gloucester plc v Appleyard (C&G) [2004] EWCA Civ 291, paras 35 and 36; [2004] 13 EG 127 (CS).
+On the facts here the Bank expected to have a first legal charge over Great Oak Court securing the debts of the appellants parents and their companies but, as events turned out, it did not have that security interest.
+The critical question is therefore whether Melissa was enriched at the expense of the Bank.
+Was Melissa enriched at the expense of the Bank?
+According to Goff & Jones on The Law of Unjust Enrichment, 8th ed (2011), para 6 01, the requirement that the unjust enrichment of the defendant must have been at the expense of the claimant reflects the principle that the law of unjust enrichment is not concerned with the disgorgement of gains made by defendants, nor with the compensation of losses sustained by claimants, but with the reversal of transfers of value between claimants and defendants.
+I agree.
+In my opinion the answer to the question whether Melissa was unjustly enriched at the expense of the Bank is plainly yes.
+The Bank was central to the scheme from start to finish.
+It had two charges on Rush Green Hall which secured indebtedness of about 2.2m.
+It agreed to release 785,000 for the purchase of Great Oak Court in return for a charge on Great Oak Court.
+It was thus thanks to the Bank that Melissa became owner of Great Oak Court, but only subject to the charge.
+Unfortunately the charge was void for the reasons set out above.
+In the result Melissa became the owner of Great Oak Court unencumbered by the charge.
+She was therefore enriched at the expense of the Bank because the value of the property to Melissa was considerably greater than it would have been but for the avoidance of the charge and the Bank was left without the security which was central to the whole arrangement.
+As I see it, the two arrangements, namely the sale of Rush Green Hall and the purchase of Great Oak Court, were not separate but part of one scheme, which involved the Bank throughout.
+I respectfully disagree with the conclusions of the judge summarised in paras 13 to 16 above.
+It is not, so far as I am aware, in dispute that, if the Bank had received all the proceeds of sale of Rush Green Hall and had then re advanced the moneys required for the purchase of Great Oak Court, it would be entitled to succeed whether or not the re advance was to the Menelaou parents or to Melissa.
+It is submitted on behalf of the Bank that, if that is so, it would be pure formalism for subrogation to be precluded simply because the moneys remained in Boulters client account (and were not paid to the respondent) between the sale of Rush Green Hall and the purchase of Great Oak Court; just as Lord Steyn commented in Banque Financire at p 227C that it would be pure formalism for the interposition of Mr Herzig between the loan by BFC of its advance and Parcs obligation to repay to be treated as altering the substance of the transaction and the result of the claim.
+On the facts of the instant case the funds remained in Boulters client account and were not paid to the Bank because of a pre acquisition agreement between it and the Menelaou parents.
+By this agreement it was agreed that money to which the Bank was otherwise absolutely entitled under its charges could remain advanced to the Menelaou parents for the purpose of purchasing Great Oak Court and was to be released only on condition that the Bank was given a specific charge over Great Oak Court.
+I would accept those submissions, which support the conclusion in para 24 above.
+I would reject the submission that there must be a direct payment by the Bank to Melissa.
+Such a requirement, while sufficient, is not in my view necessary because it would be too rigid.
+As I see it, whether a particular enrichment is at the expense of the claimant depends upon the facts of the case.
+The question in each case is whether there is a sufficient causal connection, in the sense of a sufficient nexus or link, between the loss to the Bank and the benefit received by the defendant, here Melissa.
+There has been much debate both among academics and judges as to the correct test.
+The contrast was noted by Henderson J at first instance in ITC.
+He discussed the problem in considerable detail between paras 47 and 73, especially between paras 52 and 73.
+The contrast is between a rule that requires there to be a direct causal link between the claimants payment and the defendants enrichment, subject to some exceptions (paras 52 59) and a broader more flexible approach (paras 60 69).
+He expressed his conclusions on the principles as follows in para 67: 67.
+I must now draw the threads together, and state my conclusions on this difficult question.
+In the first place, I agree with Mr Rabinowitz that there can be no room for a bright line requirement which would automatically rule out all restitutionary claims against indirect recipients.
+Indeed, Mr Swift accepted as much in his closing submissions.
+In my judgment the infinite variety of possible factual circumstances is such that an absolute rule of this nature would be unsustainable.
+Secondly, however, the limited guidance to be found in the English authorities, and above all the clear statements by all three members of the Court of Appeal in Kleinwort Benson Ltd v Birmingham City Council [1996] 4 All ER 733, [1997] QB 380, suggest to me that it is preferable to think in terms of a general requirement of direct enrichment, to which there are limited exceptions, rather than to adopt Professor Birks view that the rule and the exceptions should in effect swap places (see At the expense of the claimant: direct and indirect enrichment in English law in Unjustified Enrichment: Key Issues in Comparative Perspective, edited by David Johnston and Reinhard Zimmermann, Cambridge (2002), p 494).
+In my judgment the obiter dicta of May LJ in Filby and the line of subrogation cases relied on by Professor Birks, provide too flimsy a foundation for such a reformulation, whatever its theoretical attractions may be, quite apart from the difficulty in framing the general rule in acceptable terms if it is not confined to direct recipients.
+The reference to Filby is to Filby v Mortgage Express (No 2) Ltd [2004] EWCA Civ 759, [2004] All ER (D) 198 (Jun).
+Henderson J continued as follows in para 68.
+The real question, therefore, is whether claims of the present type should be treated as exceptions to the general rule.
+So far as I am aware, no exhaustive list of criteria for the recognition of exceptions has yet been put forward by proponents of the general rule, and I think it is safe to assume that the usual preference of English law for development in a pragmatic and step by step fashion will prevail.
+Nevertheless, in the search for principle a number of relevant considerations have been identified, including (in no particular order): (a) the need for a close causal connection between the payment by the claimant and the enrichment of the indirect recipient; (b) the need to avoid any risk of double recovery, often coupled with a suggested requirement that the claimant should first be required to exhaust his remedies against the direct recipient; (c) the need to avoid any conflict with contracts between the parties, and in particular to prevent leapfrogging over an immediate contractual counterparty in a way which would undermine the contract; and (d) the need to confine the remedy to disgorgement of undue enrichment, and not to allow it to encroach into the territory of compensation or damages.
+It is submitted on behalf of the Bank that on four occasions since the decision in ITC the Court of Appeal has endorsed the considerations identified by Henderson J. They variously described his approach thus: as relevant considerations in TFL Management Services v Lloyds TSB Bank plc [2014] 1 WLR 2006 (TFL) per Floyd LJ, para 57, as of assistance in Relfo Ltd v Varsani (No 2) [2014] EWCA Civ 360, [2015] 1 BCLC 14 per Arden LJ, para 96; and as relevant considerations skilfully distilled in ITC on appeal, [2015] EWCA Civ 82 per Patten LJ (giving the judgment of the court), paras 67 and 69.
+Further, in his judgment in this case Floyd LJ described Henderson Js approach as thoughtful and valuable at para 39 and in TFL he said this about Henderson Js para 68: 57.
+I agree with Henderson J that these are relevant considerations in deciding the question of whether an indirect benefit was conferred at the claimants expense.
+But the various factors to which he refers are not, and were not I think intended to be, rigid principles.
+Far less can it be said that if one or more of the factors can be said to be adverse to the claim, the claim is necessarily doomed to failure.
+That approach seems to me to be consistent with the approach of the Court of Appeal in ITC, where Patten LJ said at the end of para 69: We consider that the correlative of taking a broad approach to the first consideration by taking account of economic or commercial reality is that it is important not to take a narrow view of what, under the third criterion, would conflict with contracts between the parties or with a relevant third party in a way which would undermine the contract.
+That seems to me to be a sensible approach.
+There is scope for legitimate debate as to whether the correct approach is to adopt a narrow test with exceptions or a broader approach.
+However, it appears to me that, whichever test is adopted the result is likely to be the same.
+In any event it is not to my mind necessary to consider the issue further in this case because, as the Court of Appeal made clear, the position is clear on the facts of the instant case, which is concerned only with the first of Henderson Js relevant considerations.
+In a case in which more such considerations were relevant, it would be necessary to have regard to a number of different factors, probably with no presumption one way or the other where the starting point is.
+position is neatly described by Tomlinson LJ as follows in paras 57 and 58: In short, I agree with the approach of the Court of Appeal.
+In particular, the 57.
+In the present case, the Bank was to receive 1.9m upon the sale of Rush Green Hall in circumstances where it was owed 2.2m and had charges over Rush Green Hall to secure that indebtedness.
+The Bank had agreed that it would release its charges over Rush Green Hall upon receipt of 750,000 out of the sale proceeds, in return for a charge over Great Oak Court to secure what would be the remaining indebtedness, 1.45m, thereby enabling the Menelaou parents on the strength of that undertaking by the Bank to use 875,000 out of the sale proceeds of Rush Green Hall for the purchase of Great Oak Court in the name of Melissa.
+I do not see how this can sensibly be described as anything other than a transfer of value between the Bank and Melissa, in whose name the purchase of Great Oak Court was made. 58.
+I am glad to be able to reach this conclusion.
+It gives effect to the reality of the transaction, whereas the conclusion of the judge, in my respectful view, amounts to that pure
+formalism which Lord Steyn has in this context deprecated
+That was of course a reference to the speech of Lord Steyn in Banque Financire referred to in para 18 above.
+Both Floyd and Moses LJJ expressed much the same conclusions at paras 42 and 48 and 61 62 respectively.
+I am unable to accept that there is any significance in the point which attracted the judge (para 22) that the benefit to Melissa was complete on 12 September, whereas the detriment to the Bank occurred over a month later when its charges over Rush Green Hall were released.
+As Moses LJ put it at para 62, everyone knew, as a result of the Banks agreement on 9 September 2008, that the Banks security in Rush Green Hall would be released and, provided that the terms of that agreement were satisfied, the Bank was bound to release its charge.
+For all these reasons I agree with the Court of Appeal that Melissa was enriched at the expense of the Bank.
+I have already expressed my view that she was unjustly so enriched.
+Defences
+The fourth question, namely whether there are any defences available to the defendant, must in my opinion be answered in the negative.
+On the assumption that the first three questions are answered in the affirmative, I do not understand Melissa to be relying upon any other defence.
+It is not suggested, for example, that she had a change of position defence.
+Nor was she a bona fide purchaser for value without notice.
+She was a mere donee and, as such can be in no better position than her parents as donors.
+As indicated at the end of para 31 above, I recognise that in another case there may well be defences or at least countervailing considerations, as indicated, for example, in considerations (b), (c) and (d) identified by Henderson J.
+Remedies
+The next question is what remedies are available to the Bank.
+The answer is that the Bank is subrogated to the unpaid sellers lien.
+Subrogation (sometimes known in this context as restitutionary subrogation) is available as a remedy in order to reverse what would otherwise be Melissas unjust enrichment.
+It is important to recognise that a claim in unjust enrichment is different in principle from a claim to vindicate property rights; see eg Foskett v McKeown [2001] 1 AC 102 per Lord Browne Wilkinson at p 108F, Lord Millett at p 129E F and Lord Hoffmann at p 115F, where he agreed with Lord Millett.
+Foskett was a claim to enforce property rights.
+Lord Millett expressed the distinction between that case and a case of unjust enrichment at p 129F: A plaintiff who brings an action in unjust enrichment must show that the defendant has been enriched at the plaintiffs expense, for he cannot have been unjustly enriched if he has not been enriched at all.
+But the plaintiff is not concerned to show that the defendant is in receipt of property belonging beneficially to the plaintiff or its traceable proceeds.
+The fact that the beneficial ownership of the property has passed to the defendant provides no defence; indeed, it is usually the very fact which founds the claim.
+Conversely, a plaintiff who brings an action like the present must show that the defendant is in receipt of property which belongs beneficially to him or its traceable proceeds, but he need not show that the defendant has been enriched by its receipt.
+He may, for example, have paid full value for the property, but he is still required to disgorge it if he received it with notice of the plaintiffs interest.
+The sentence which I have put in italics shows that a claim in unjust enrichment does not need to show a property right.
+In C&G Neuberger LJ (giving the judgment of the Court of Appeal) summarised the principles relevant to different types of subrogation concisely in paras 24 49.
+Like Floyd LJ at para 44, he set out the principles relevant here at para 25 as follows: The principle upon which C&G rely has been nowhere better stated than by Walton J in Burston Finance Ltd v Speirway Ltd (in liquidation) [1974] 1 WLR 1648 at p 1652B C: [W]here As money is used to pay off the claim of B, who is a secured creditor, A is entitled to be regarded in equity as having had an assignment to him of Bs rights as a secured creditor.
+It finds one of its chief uses in the situation where one person advances money on the understanding that he is to have certain security for the money he has advanced, and for one reason or another, he does not receive the promised security.
+In such a case he is nevertheless to be subrogated to the rights of any other person who at the relevant time had any security over the same property and whose debts have been discharged in whole or in part by the money so provided by him.
+Neuberger LJ noted at para 26 that that formulation was cited with approval by (among others) Lord Hutton in Banque Financire at p 245C D.
+He further noted at para 36 that in Banque Financire the lender bargained for what Lord Hoffmann called at p 229C a negative form of protection in the form of an undertaking, which he did not get.
+He added that this did not prevent his claim to be subrogated to a security, albeit essentially as a personal remedy: see per Lord Steyn at p 228C D and Lord Hoffmann at p 229C.
+The class of subrogation under discussion in this case is known as subrogation to an unpaid vendors lien.
+I agree with Floyd LJ at para 15 that it is not a concept which it is particularly straightforward to understand.
+He puts it thus.
+What the Bank seeks to achieve is to be placed in a position equivalent to that of the vendor of Great Oak Court at the point where the purchase money has not been paid.
+At that point the vendor would be able to refuse to convey the title to Great Oak Court, unless the purchase money was paid to him.
+He added that the lien was explained by Millett LJ in Barclays Bank plc v Estates & Commercial Ltd [1977] 1 WLR 415 at pp 419 420, in this way (omitting citations): As soon as a binding contract for sale [of land] is entered into, the vendor has a lien on the property for the purchase money and a right to remain in possession of the property until payment is made.
+The lien does not arise on completion but on exchange of contracts.
+It is discharged on completion to the extent that the purchase money is paid.
+Even if the vendor executes an outright conveyance of the legal estate in favour of the purchaser and delivers the title deeds to him, he still retains an equitable lien on the property to secure the payment of any part of the purchase money which remains unpaid.
+The lien is not excluded by the fact that the conveyance contains an express receipt for the purchase money.
+The lien arises by operation of law and independently of the agreement between the parties.
+It does not depend in any way upon the parties subjective intentions.
+It is excluded where its retention would be inconsistent with the provisions of the contract for sale or with the true nature of the transaction as disclosed by the documents.
+Floyd LJ then set out the passage from the judgment of Walton J in Burston Finance set out by Neuberger LJ in C&G and quoted at para 39 above.
+I adopt Floyd LJs description of the position at para 17 of his judgment as follows.
+A third party who provides some or all of the purchase money for a purchaser, thereby discharging the obligation to the vendor, can claim the benefit of the unpaid vendors lien by subrogation.
+This is so even after the lien has been extinguished as between vendor and purchaser.
+Floyd LJ notes that it is not intuitively clear how, or why, this should be the case and asks how it is that the unpaid vendors lien transferred from the vendor to the third party.
+He says with force that it might be thought that once the obligation in question has been extinguished, there is nothing which the vendor could transfer.
+He further asks by what legal method the transfer takes place, even if there was something to transfer.
+He notes that there has been no legal assignment and suggests that it was conceptual problems such as these that gave rise to the notion that the vendors lien was kept alive for the benefit of the subrogated third party.
+Floyd LJ resolves this apparent difficulty by adding that in Banque Financire at p 236 Lord Hoffmann explained that the phrase keeping the charge alive was not a literal truth but a metaphor or analogy: In a case in which the whole of the secured debt is repaid, the charge is not kept alive at all.
+It is discharged and ceases to exist.
+Lord Hoffmann added at p 236E F: It is important to remember that, as Millett LJ pointed out in Boscawen v Bajwa [1996] 1 WLR 328, 335, subrogation is not a right or a cause of action but an equitable remedy against a party who would otherwise be unjustly enriched.
+It is a means by which the court regulates the legal relationships between a plaintiff and a defendant or defendants in order to prevent unjust enrichment.
+When judges say the charge is kept alive for the benefit of the plaintiff, what they mean is that his legal relations with a defendant who would otherwise be unjustly enriched are regulated as if the benefit of the charge had been assigned to him.
+In para 19 Floyd LJ notes that Lord Hoffmann reviewed five authorities, namely Chetwynd v Allen [1899] 1 Ch 353, Butler v Rice [1910] 2 Ch 277, Ghana Commercial Bank v Chandiram [1960] AC 732, Paul v Spierway [1976] Ch 220 and Boscawen v Bajwa [1996] 1 WLR 328.
+Having done so, Lord Hoffmann noted at p 233 that in Boscawen there was no common intention that the vendor, whose mortgage had been paid off, should grant any security to Abbey National.
+Lord Hoffmann then said this at pp 233H 234D: As Millett LJ pointed out, at p 339 [of Boscawen], the Abbey National expected to obtain a charge from the purchaser as legal owner after completion of the sale, and, in the event which happened of there being no such completion, did not intend its money to be used at all.
+This meant that: The factual context in which the claim to subrogation arises is a novel one which does not appear to have arisen before but the justice of its claim cannot be denied.
+These cases seem to me to show that it is a mistake to regard the availability of subrogation as a remedy to prevent unjust enrichment as turning entirely upon the question of intention, whether common or unilateral.
+Such an analysis has inevitably to be propped up by presumptions which can verge upon outright fictions, more appropriate to a less developed legal system than we now have.
+I would venture to suggest that the reason why intention has played so prominent a part in the earlier cases is because of the influence of cases on contractual subrogation.
+But I think it should be recognised that one is here concerned with a restitutionary remedy and that the appropriate questions are therefore, first, whether the defendant would be enriched at the plaintiffs expense; secondly, whether such enrichment would be unjust; and thirdly, whether there are nevertheless reasons of policy for denying a remedy.
+An example of a case which failed on the third ground is Orakpo v Manson Investments Ltd [1978] AC 95, in which it was considered that restitution would be contrary to the terms and policy of the Moneylenders Acts.
+That appears to me to be an illuminating passage.
+Lord Hoffmann stresses what are the same questions as those referred to in para 18 above.
+Moreover, the reference to Orakpo seems to me to be of some significance.
+It demonstrates that, when Lord Hoffmann was referring to subrogation as a remedy to prevent unjust enrichment, he was not referring to subrogation to personal rights alone because Orakpo was a case concerning subrogation to property rights.
+The case of Orakpo is also of interest because it shows the broad nature of the doctrine of unjust enrichment.
+Three examples suffice.
+Lord Diplock said at p 104E F: My Lords, there is no general doctrine of unjust enrichment recognised in English law.
+What it does is to provide specific remedies in particular cases of what might be classified as unjust enrichment in a legal system that is based upon the civil law.
+There are some circumstances in which the remedy takes the form of subrogation, but this expression embraces more than a single concept in English law.
+It is a convenient way of describing a transfer of rights from one person to another, without assignment or assent of the person from whom the rights are transferred and which takes place by operation of law in a whole variety of widely different circumstances.
+Some rights by subrogation are contractual in their origin, as in the case of contracts of insurance.
+Others, such as the right of an innocent lender to recover from a company moneys borrowed ultra vires to the extent that these have been expended on discharging the companys lawful debts, are in no way based on contract and appear to defeat classification except as an empirical remedy to prevent a particular kind of unjust enrichment.
+Lord Salmon said this at p 110: The test as to whether the courts will apply the doctrine of subrogation to the facts of any particular case is entirely empirical.
+It is, I think, impossible to formulate any narrower principle than that the doctrine will be applied only when the courts are satisfied that reason and justice demand that it should be.
+Finally, Lord Edmund Davies said at p 112: Apart from specific agreement and certain well established cases, it is conjectural how far the right of subrogation will be granted though in principle there is no reason why it should be confined to the hitherto recognised categories (Goff and Jones, The Law of Restitution (1966), pp 376 377).
+Those statements seem to me to support a flexible approach to the remedies appropriate in a particular case.
+Indeed, the principles have been extended since the decision in Orakpo because there is now a general doctrine of unjust enrichment in a way that there was not when Lord Diplock drafted his speech.
+Lord Hoffmann stresses the importance of the questions identified in para 18 above.
+It appears to me that, on the facts of this case, if, as here, the first three questions are answered in the affirmative and the fourth in the negative, the appropriate equitable remedy is that the claimant is subrogated to the unpaid vendors lien as explained in paras 41 and 42 above.
+On the facts here the Bank is entitled to a lien on the property, which is in principle an equitable interest which it can enforced by sale.
+In short, by effectively reinstating Melissas liability under the charge, the remedy of subrogation is reversing what would otherwise be her unjust enrichment.
+I would accept the submission made on behalf of the Bank that the analyses in Banque Financire have rationalised the older cases through the prism of unjust enrichment.
+Banque Financire was not limited to subrogation to personal rights.
+The remedy the House fashioned was subrogation to a property right but, as the Bank puts it, it was attenuated so as not to grant RTB a greater right than that for which it had bargained.
+There is no reason why, on the facts of this case, the remedy should not be subrogation as described above, even if the Bank did not retain a property interest in the proceeds of sale of Rush Green Hall.
+The remedy simply reverses the unjust enrichment which Melissa would otherwise enjoy by ensuring that the Bank not only has a personal claim against her but also has an equitable interest in Great Oak Court, as it would have had if the scheme had gone through in accordance with the agreement of the Bank and the Menelaou parents.
+Moreover, but for the proposed remedy the Bank would lose the benefit it was to receive from the scheme, namely a charge on Great Oak Court to replace the charges it had on Rush Green Hall.
+In reaching these conclusions I have read Lord Carnwaths judgment in draft with great interest.
+My own view is that the principles are somewhat broader than he suggests.
+Conclusion
+For these reasons I would dismiss the appeal.
+As I see it, these conclusions make it unnecessary to decide whether the Bank had a security interest in the proceeds of sale that were used to buy Great Oak Court.
+In so far as the answer to that may depend upon the true ratio of the decision of the Court of Appeal in Buhr v Barclays Bank [2001] EWCA Civ 1223, [2002] BPIR 25 like the Court of Appeal I would prefer to leave that question for determination in a case in which it arises for decision.
+In so far as the Bank relies upon a Quistclose type trust (Quistclose Investments Ltd v Rolls Razor Ltd [1970] AC 567), arising in a similar manner to that which arose in Twinsectra v Yardley [2002] 2 AC 164, there seems to me to be much to be said for the conclusions reached by Lord Carnwath.
+However, in my opinion it is not necessary for the Bank to do so.
+Postscript
+Since writing the above I have read Lord Neubergers judgment in draft.
+I essentially agree with his conclusions and reasoning.
+I also agree with his tentative conclusions and reasoning in paras 103, 104 and 106.
+The one point upon which there is or may be a difference between us is whether the Bank would have a personal claim in unjust enrichment against Melissa.
+For my part I see no reason why it should not in principle have such a claim provided that it is dealt with as suggested by Lord Neuberger in para 81.
+In any event I agree with him that it is not necessary to decide this question in this appeal for reasons he gives in para 82.
+I would only say that there seems to me to be considerable force in his comments in para 81, namely that the standard response to unjust enrichment is a monetary restitutionary award in order to reverse the unjust enrichment.
+This must be left for decision on another day.
+LORD NEUBERGER:
+The facts of this case and the findings of the courts below are explained by Lord Clarke in paras 1 17.
+The question which arises is whether, in the light of those facts, the Bank is entitled to claim a charge over the freehold of Great Oak Court by invoking a right to be subrogated to the unpaid vendors lien over the freehold of Great Oak Court (the Lien).
+In considering that issue, I shall adopt the nomenclature in Lord Clarkes judgment.
+The Banks primary case involves two steps; the first is that it has a claim based on unjust enrichment against Melissa; the second step is that that claim was or should be satisfied by subrogating the Bank to the Lien.
+Melissas main argument against the first step is that she was innocent of any wrong doing and therefore cannot be said to have been unjustly enriched.
+As to the second step, her main argument is that subrogation as claimed by the Bank is not, as a matter of principle, available as a remedy for unjust enrichment in the circumstances of this case.
+I agree with Lord Clarke, and with the Court of Appeal, that, despite Melissas arguments to the contrary, each of the two steps in the Banks argument is made out.
+I am also attracted to the view that the Banks case on the first step could be justified on the alternative basis of an orthodox proprietary claim rather than on unjust enrichment, which in turn would render the second step in its case even clearer.
+Because the appeal raises points of some significance and because the state of the law appears to be somewhat unclear, I shall explain why I have reached these conclusions.
+Can the Bank establish an unjust enrichment claim against Melissa?
+The first step in the Banks case is that it has a claim against Melissa in unjust enrichment.
+A claim in unjust enrichment requires one to address the four questions which Lord Clarke sets out in para 18 above.
+I agree with what he says in relation to those four questions in this case in paras 19 35 above, and indeed with the analysis of Floyd LJ in the Court of Appeal at [2013] EWCA Civ 1960; [2014] 1 WLR 854, paras 29 to 42.
+I express the position in my own words as follows.
+The answer to the first question, namely whether Melissa has been enriched, would appear to be plainly yes, because she received the freehold of Great Oak Court (the freehold) for nothing.
+However, although it does not affect the outcome in the present case, there is much to be said for the view that the relevant enrichment for present purposes is that she received the freehold free of any charge, instead of receiving it subject to a charge to secure her parents indebtedness to the Bank (a Charge).
+This may be a more accurate way of answering the first question for present purposes, because the only aspect of Melissas enrichment which can be complained of by anyone arises from the fact that she received the freehold free of the intended Charge.
+The fact that the freehold was conveyed to her was an uncontroversial benefit, but the fact that it was not subject to a Charge was not just a benefit, but, in the light of the facts surrounding the sale of Rush Green Hall, the purchase of Great Oak Court and the preparation of the defective Deed of Charge (the Deed), it was accidental and unintended. (The fact that Melissa held the freehold on trust for herself and her siblings adds nothing for present purposes.)
+In any event, it might be said to be somewhat artificial to distinguish between acquisition of the freehold and acquisition of the freehold subject to the Charge.
+After all, Great Oak Court could not have been acquired without the Banks agreement that some of the proceeds of sale of Rush Green Hall could be used to purchase it, and that agreement was conditional on the grant of the Charge contemporaneously with the purchase.
+This is reflected by the observations of Lord Oliver in Abbey National Building Society v Cann [1991] 1 AC 56, 92 93, albeit that his observations apply by analogy rather than directly: [T]he acquisition of the legal estate and the charge are not only precisely simultaneous but indissolubly bound together.
+The acquisition of the legal estate is entirely dependent upon the provision of funds which will have been provided before the conveyance can take effect and which are provided only against an agreement that the estate will be charged to secure them.
+The reality is that the purchaser of land who relies upon a building society or bank loan for the completion of his purchase never in fact acquires anything but an equity of redemption, for the land is, from the very inception, charged with the amount of the loan without which it could never have been transferred at all and it was never intended that it should be otherwise.
+I turn to the second question, namely whether the enrichment was at the expense of the Bank.
+Professor Burrows refers to this requirement as being that the defendants enrichment must come from (be subtracted from) the claimants wealth Proprietary Restitution: Unmasking Unjust Enrichment (2001) 117 LQR 412, 415.
+The Bank had the right to demand the whole of the proceeds of sale of Rush Green Hall, as the Menelaou parents debt to the Bank, which had been secured on the freehold of Rush Green Hall, exceeded the proceeds of sale.
+Instead, the Bank agreed that 875,000 of those proceeds of sale could be used to fund the purchase of the freehold of Great Oak Court, but only provided that the Bank was granted a Charge over that freehold at the time of its acquisition.
+So the Bank would have had the right to prevent the 875,000 being used to purchase the freehold if it had not been provided with a valid Charge.
+Even assuming (as Melissa asserts) that the Bank had released to the Menelaou parents 875,000 of the proceeds of sale of Rush Green Hall, the release was only on the basis that it would be granted a Charge over Great Oak Court.
+Therefore, it seems to me clear that the Bank could have prevented the purchase proceeding until it had been granted a Charge.
+Accordingly, again deriving support from the passage quoted from Abbey National, looking at the arrangements in relation to the purchase and charging of Great Oak Court, it seems to me plain that Melissas enrichment was at the expense of the Bank.
+That conclusion is reinforced (if reinforcement is needed) by the point made by Lord Clarke in para 25 above, reflecting the realistic approach of the House of Lords in Abbey National, that it is appropriate not merely to consider the purchase of, and charge over, Great Oak Court as a single composite transaction.
+It is also appropriate in the present case to treat the sale of Rush Green Hall and the purchase of Great Oak Court as one scheme, at least for present purposes.
+I see nothing in any of the judgments in Scott v Southern Pacific Mortgages Ltd [2014] UKSC 52, [2015] 1 AC 385 (sub nom Mortgage Business plc v OShaughnessy) which casts doubt on that approach.
+If one regards the enrichment as having the freehold uncharged rather than subject to a Charge, it therefore seems clear that that enrichment was at the Banks expense.
+One gets the same answer if Melissas enrichment is regarded as being the freehold in its entirety: that enrichment would be at the expense of the Bank, albeit only to the extent that the freehold was uncharged rather than subject to the Charge, and therefore the points made in paras 66 67 above would apply with equal force.
+The third question is whether the enrichment was unjust.
+At first sight, there may appear to be some attraction in Melissas argument that, as between the Bank and herself, her enrichment was not unjust.
+After all, as Mr Mark Warwick QC pointed out, she owed the Bank nothing, she was wholly unaware of a prospective or actual charge, and she was innocent of any oversight, let alone any wrong doing, whether before, during or after the sale of Rush Green Hall and the purchase of Great Oak Court.
+The answer to that contention, in my view, lies in the fact that Melissa received the freehold as a gift from her parents.
+Had she been a bona fide purchaser for full value, it may very well have been impossible to characterise her enrichment as unjust, especially if she had no notice of the Banks rights.
+If she had paid a small sum to her parents for her acquisition, a difficult question might have had to be faced, although, as at present advised, I think that her enrichment would still have been unjust, but the extent of any unjust enrichment would be reduced by the small sum.
+But she paid nothing, and she therefore cannot, in my view, be in any better position than her parents so far as the Banks claim is concerned.
+And there can be no doubt that, if the Menelaou parents, rather than directing the transfer to Melissa, had acquired the freehold themselves in circumstances where the Deed was for some reason invalid, the Bank would have had a claim against them in unjust enrichment.
+Again, it seems to me to be easier to see why Melissas enrichment should be characterised as unjust if her enrichment is treated as being the receipt of the freehold uncharged instead of subject to the Charge.
+Her parents were quite properly able to direct the transfer of the freehold of Great Oak Court to Melissa, but they were not properly entitled, so far as the Bank was concerned, to direct the transfer to her of the unencumbered freehold; they were only properly able, at least as against the Bank, to direct the transfer to her of the freehold subject to a Charge.
+Mr Warwick suggested that this analysis could be called into question by considering the likely outcome if the Menelaou parents had decided to direct the freehold of Great Oak Court to be transferred to a charity, instead of their daughter.
+I agree that the outcome would be no different, but I see no difficulties in accepting that the Bank would in those circumstances have had a claim in unjust enrichment against the charity.
+A variant of Mr Warwicks argument on this third aspect is the contention that, if the Bank could otherwise mount a valid unjust enrichment claim, that claim cannot succeed against Melissa, as she was only an indirect recipient of any enrichment, to use the language Goff & Jones on The Law of Unjust Enrichment, 8th ed (2012), eds Professors C Mitchell, P Mitchell and Watterson, paras 6 12ff and in Ben McFarlanes article Unjust Enrichment, Property Rights, and Indirect Recipients (2009) 17 RLR 37.
+It is fair to say that there was a tripartite relationship in this case, in the sense that not merely Melissa and the Bank, but also the Menelaou parents, were parties to the arrangements which gave rise to the alleged unjust enrichment.
+However, as already explained above, there was in reality a single transaction, and it was from that transaction that Melissa directly benefitted, even though the benefit was effected at the direction of the Menelaou parents.
+The benefit to Melissa was direct because it arose as the immediate and inevitable result of the very transaction to which she was party and which gave rise to the unjust enrichment (in contrast to the examples at the beginning of Professor McFarlanes article).
+I should add that, even if Melissa could be characterised as an indirect recipient of any enrichment, I do not consider that that would assist her: she would still properly be liable on the facts of this case, essentially for the same reasons.
+As for the fourth question, it appears to me that, if (as I consider) the first three questions are answered in the Banks favour, there is no special reason precluding the conclusion that the Bank had a valid claim in unjust enrichment against Melissa.
+As already mentioned, the fact that Melissa did not know of the circumstances which caused her enrichment to be unjust does not alter the fact that she was unjustly enriched; nor does it alter the extent of her unjust enrichment.
+However, it does render it more likely that she would be able to rely on subsequent events to give rise to an innocent change of position defence to a claim based on the unjust enrichment.
+However, no such defence appears to arise in this case.
+It was rather tentatively suggested that the Bank should have no right to claim in unjust enrichment against Melissa, as it had a cast iron case for recovering all its losses arising from the defective Deed from Boulters.
+There is nothing in that point.
+Boulters liability in no way impinges on the question whether, and to what extent, Melissa was unjustly enriched at the expense of the Bank: the Banks claim against Boulters is res inter alios acta so far as Melissa is concerned. (Further, although the point was not argued, it may well be that, if the Bank had recovered damages from Boulters, then Boulters would be subrogated to the Banks unjust enrichment claim against Melissa.)
+Standing back, any fair minded person would say that, as a matter of fairness and common sense, by acquiring the freehold from any Charge, Melissa was unjustly enriched at the expense of the Bank, albeit not because of any fault of hers.
+Tomlinson LJs analysis in the Court of Appeal, as set out by Lord Clarke in para 33 above, accurately summarises the position.
+Of course, fairness and common sense cannot safely be relied as the sole touchstones as to whether there has been unjust enrichment as a matter of law.
+In that connection, like Lord Clarke, I would commend Henderson Js observations in Investment Trust Companies v Revenue and Customs Comrs [2012] EWHC 458 (Ch), [2012] STC 1150, paras 67 68, as containing what Floyd LJ called a thoughtful and valuable approach, while rightly not laying down rigid principles.
+Can the Bank invoke subrogation on the basis of its unjust enrichment claim?
+I turn then to the second step, namely whether the Banks claim in unjust enrichment can properly be satisfied by holding that it is subrogated to the Lien over the freehold to the extent of the price payable for the freehold, namely 875,000. (And in that connection, the fact that 10% of the 875,000 had already been paid as a deposit is irrelevant for present purposes, as the balance had to be paid to rescue the deposit.)
+Given that the Bank has a claim based on unjust enrichment against Melissa to the extent described above, it is hard to identify a more appropriate remedy for the Bank to obtain against Melissa.
+Subrogation to the Lien would accord to the Bank, and impose on Melissa, a right very similar to, although rather less in value than, that which the Bank should have had.
+It would give the Bank a lien instead of a formal charge, and it would be in the sum of 875,000 (plus interest), rather than the larger debt, well over 1m at the time of the purchase of the freehold, owed by the Menelaou parents to the Bank.
+An award of financial compensation might seem rather less appropriate.
+It was never intended that the Bank should have any personal claim against Melissa, merely that the freehold which she owned would be charged with the Menelaou parents debt to the Bank.
+Even if the compensation was limited to 875,000 (plus interest), it could prejudice Melissa for instance, if the freehold declined in value as a result of a fall in the property market subsequent to her acquisition.
+However, it is fair to say that the standard response to unjust enrichment is a monetary restitutionary award, to use the terminology adopted by in A Restatement of the English Law of Unjust Enrichment (Burrows et al, 2012), article 34, in order to reverse the unjust enrichment.
+In this case, the unjust enrichment could be quantified at 875,000, its value at the time it was conferred, or the difference in the value of the freehold uncharged and subject to the Charge at the date of the assessment of the unjust enrichment (or possibly at some other date).
+In so far as the quantification would result in an unfair or oppressive sum, the court could adjust the sum to avoid any unfairness or oppression.
+It is not necessary for the purpose of the present appeal to decide whether the Bank has a monetary claim against Melissa in the light of her unjust enrichment, let alone to determine the precise amount which the Bank could seek from her on that basis, or to decide whether the existence of any monetary claim would be affected by the subrogation claim.
+Nor would it be appropriate to do so, given that none of these points was debated in any detail on this appeal: indeed, the issue of whether the Bank had a money claim against Melissa was barely touched on at all (and no complaint is thereby intended).
+Turning now to the law, the circumstances in which an unpaid vendors lien typically arises and the circumstances in which subrogation typically can be claimed have been summarised by Millett LJ and Walton J respectively in the passages quoted by Lord Clarke in paras 41 and 39 above.
+In the course of his attractive argument on behalf of Melissa, Mr Warwick contended that, because the Banks case against Melissa was based on unjust enrichment, it could not justify the Banks claim to be subrogated to the Lien.
+His contention was that the decided cases and judicial dicta which establish a right to be subrogated to a charge or a debt, all involved the money coming from the person who establishes subrogation being used to pay off the chargee or the creditor respectively see eg per Sir John Romilly MR in Drew v Lockett (1863) 32 Beav 499, 505; per Lord Selborne LC in Duncan, Fox & Co v North and South Wales Bank (1880) 6 App Cas 1, 19; per Romer J in Chetwynd v Allen [1899] 1 Ch 353, 357, per Vaughan Williams LJ in Thurstan v Nottingham Permanent Benefit Building Society [1902] 1 Ch 1, 9; per Warrington J in Butler v Rice [1910] 2 Ch 277, 282; and, as quoted by Clarke LJ in para 39 above, per Walton J in Burston Finance Ltd v Speirway Ltd [1974] 1 WLR 1648, 1652.
+It is true that it can be fairly argued that the dicta in those cases as to when and how subrogation could arise do not apply here.
+However, there is nothing in those dicta to suggest that the judges in any of those cases were purporting to give an exclusive explanation or definition of when subrogation can arise.
+Further, as Mr Rainey QC, for the Bank, pointed out in his clear argument, no consideration was given in those cases to analysing whether actual ownership of the money on the part of the person claiming subrogation was needed.
+Nonetheless, that does not alter the point that subrogation should be accorded to the Bank in this case only if it can be achieved in accordance with principle.
+In my view, Mr Warwicks argument involves assuming that the circumstances in which subrogation can be claimed are more limited than they really are.
+That is made good by two decisions of the House of Lords.
+In Orakpo v Manson Investments Ltd [1978] AC 95, 104, Lord Diplock explained that there were some circumstances in which the remedy [for unjust enrichment] takes the form of subrogation, but this expression embraces more than a single concept in English law.
+He went on to describe subrogation as a convenient way of describing a transfer of rights from one person to another, without assignment or assent of the person from whom the rights are transferred and which takes place by operation of law in a whole variety of widely different circumstances.
+He described a case where a person who pays off a secured lender as being [o]ne of the sets of circumstances in which a right of subrogation arises.
+In the same case at p 110, Lord Salmon expressed himself very broadly, suggesting that [t]he test as to whether the courts will apply the doctrine of subrogation to the facts of any particular case is entirely empirical and that the principle was that the doctrine will be applied only when the courts are satisfied that reason and justice demand that it should be.
+Lord Edmund Davies suggested at p 112 that there is no reason why it should be confined to the hitherto recognised categories.
+And, to much the same effect, Slade LJ described the doctrine of subrogation as a flexible one, capable of giving a remedy in many and various situations in In re T H Knitwear (Wholesale) Ltd [1988] Ch 275, 286F.
+The opinion of Lord Hoffmann in the more recent decision of the House of Lords in Banque Financire de la Cit v Parc (Battersea) Ltd [1999] 1 AC 221 includes some illuminating remarks about subrogation, which are much in point for present purposes.
+At p 231G H, having described subrogation in the traditional case as a contractual arrangement for the transfer of rights against third parties [which] is founded upon the common intention of the parties, he went on to say that the term is also used to describe an equitable remedy to reverse or prevent unjust enrichment which is not based upon any agreement or common intention of the party enriched and the party deprived.
+Then, at pp 231H 232A, he described the former principle as part of the law of contract and the latter, which seems, at least on the face of it, to cover the present case, as part of the law of restitution.
+Lord Hoffmanns subsequent analysis at p 232B H confirms that the Banks subrogation claim in this case should not be in difficulties because Melissa was wholly ignorant of, and in no way responsible for, the fact that the Bank was intended to have a charge over the freehold (and, as Lord Hoffmann explained, this is confirmed by a number of earlier decisions including two of the cases relied on by Mr Warwick, namely Chetwynd and Butler).
+Thus, at p 234B D, Lord Hoffmann observed that it was a mistake to regard the availability of subrogation as a remedy to prevent unjust enrichment as turning entirely upon the question of intention (although he also said that this does not mean that questions of intention may not be highly relevant to the question whether or not enrichment has been unjust).
+He also expressed the view that intention has played so prominent a part in the earlier cases because of the influence of cases on contractual subrogation, and that, in a case of a restitutionary subrogation claim, the appropriate questions were, in effect, those identified by Lord Clarke at para 18 above.
+At p 236E, Lord Hoffmann explained that subrogation was not a right or a cause of action but an equitable remedy against a party who would otherwise be unjustly enriched.
+Accordingly, as he went on to say, the notion (in this case) of the unpaid vendors lien being kept alive for the benefit of the Bank was not a literal truth but rather a metaphor or analogy (p 236D).
+Particularly significantly for present purposes, Lord Hoffmann said at p 236F that subrogation is an equitable remedy against a party who would otherwise be unjustly enriched and a means by which the court regulates the legal relationships between a plaintiff and a defendant in order to prevent unjust enrichment.
+Accordingly, he said, it would not by any means follow that the [Bank] must for all purposes be treated as an actual assignee of the benefit of the [unpaid vendors lien] and, in particular, that [it] would be so treated in relation to someone who would not be unjustly enriched (p 236G).
+In my view, the observations in Orakpo and, even more, in Banque Financire, support the Banks claim to be subrogated to the Lien as a result of what happened in this case.
+It seems to me that this view is supported by the views expressed by the current editors of Goff & Jones at para 39 10, where they describe the true position as that explained by Lord Hoffmann in the passage quoted in para 90 above from Banque Financire at p 236F.
+The editors go on to say at para 39 12 that subrogation to extinguished rights is therefore a remedy that reverses unjust enrichment of a discharged debtor which follows from the discharge of a debt, by affording the claimant new rights which prima facie replicate the creditors extinguished rights.
+The same point is made in the following paragraphs.
+For instance in para 39 16, it is suggested that the subrogation cases can all be explained on the ground for restitution that makes it unjust for the debtor to be enriched at the claimants expense.
+It is true that there is nothing in Chapter 39 of Goff and Jones which deals with what is said to be the problem for the Bank in this case, namely that the money used to pay off the secured creditor (ie the unpaid vendor) did not emanate from the Bank itself.
+However, that does not seem to me to present the Bank with a problem in relation to its claim for subrogation.
+For the reasons given in paras 66 68 above, the Bank has established that Melissas enrichment was at its expense even though the money did not emanate from the Bank directly, so that its unjust enrichment is made out against her.
+I do not see why the Bank need establish anything more in this case in order to make good its case to be subrogated to the Lien.
+It is right to add that para 7 02 of Geoff & Jones, cited by Lord Carnwath in para 131 could be read as suggesting that a more stringent test has to be satisfied before the court will award subrogation (and see also paras 37 9 and 37 10).
+However, in the light of Orakpo and Banque Financire, I do not consider that those paragraphs can be read in this way.
+Further, at para 6 30 of Goff & Jones, the editors describe the grant by the House of Lords in Banque Financire of a subrogation remedy as unprecedented.
+However that was primarily because subrogation was accorded to a party who thereby obtained, as Lord Hoffmann himself put it at p 229, far greater security than it ever bargained for, and perhaps also because of the adjustments which had to be made to the subrogated right in order to achieve equity (discussed in Goff & Jones at paras 39 44 and 39 45).
+The Banks claim to subrogation in this case is stronger in the sense that neither of those two points can be raised against it in this case.
+Despite the broad statements in Banque Financire, what is said in Chapter 39 of Goff & Jones, and the way in which Lord Salmon and Lord Edmund Davies expressed themselves in Orakpo, the combination of facts that (i) the Bank has a claim in unjust enrichment against Melissa arising out of her acquisition of the freehold, (ii) subrogation is a remedy which can be accorded to reverse unjust enrichment, (iii) the Lien arose out of the transaction giving rise to the acquisition, and (iv) the Lien is a right to which it is legally possible to subrogate, is not enough to justify the conclusion that the Bank should be subrogated to the Lien.
+There has to be a principled case to support such a conclusion.
+Having said that, it seems to me that the conclusion is supported by principle.
+In addition to the general points identified in the previous paragraph, it appears to me that the following five points, when taken together, establish the Banks subrogation claim. (i) The freehold was acquired by being purchased through Boulters for 875,000; (ii) 875,000 was a sum which the Bank could have demanded from Boulters, and it only agreed to its being used to purchase the freehold if the Bank was granted a Charge; (iii) without that agreement, there would have been no 875,000 to purchase the freehold, (iv) owing to an oversight, the Bank was not granted a valid Charge; (v) the payment of 875,000 to purchase the freehold discharged the Lien.
+In those circumstances, it is hard to see why subrogating the Bank to the unpaid vendors lien is not an appropriate way to remedy the unjust enrichment.
+I do not consider that the reasoning in Boscawen v Bajwa [1996] 1 WLR 328 presents a problem.
+In that case, at pp 334D and 335C, Millett LJ discussed in instructive detail both tracing, which he explained was a process, and subrogation, which he described as a remedy. (On reflection, I wonder whether the distinction, despite the approval of Lord Hoffmann in Banque Financire at p 236E of the description of subrogation as a remedy, is as satisfactory as it seems at first sight.
+It seems to me questionable whether a sharp distinction can satisfactorily be drawn between a process and a remedy, but the point has no effect on the outcome of this case.)
+While I accept that Millett LJ treated tracing as the appropriate process to achieve subrogation in Boscawen, there are two important caveats for present purposes.
+First, he nowhere stated that subrogation was an impermissible remedy if tracing was not an available prior process.
+Secondly, as Mr Rainey QC pointed out, at p 339A B Millett LJ said that it would be perilous to extrapolate from one set of circumstances where the court has required a particular precondition to be satisfied before the remedy of subrogation can be granted a general rule which makes that requirement a precondition which must be satisfied in other and different circumstances.
+Similarly, at p 334H, Millett LJ described subrogation as a remedy which will be fashioned to the circumstances.
+Nor do I think that Lord Milletts statement in Foskett v McKeown [2001] 1 AC 102, p 127F about property rights being determined by fixed rules and not being discretionary, casts doubt on my conclusion in this case.
+His analysis in that case has its critics see eg Burrows, (2001) 117 LQR 412, 417 and The Law of Restitution, 3rd ed (2011), pp 140, 170 171 and 432 434, and Mitchell and Watterson, Subrogation: Law and Practice (2007), para 6.50.
+However, and more to the point, Lord Milletts remarks were directed to proprietary claims not unjust enrichment claims.
+Lord Millett made that clear in a passage at p 129E G, where he said, inter alia, that one must distinguish between a claim brought to vindicate property rights and one brought to reverse unjust enrichment, and that Foskett was an example of the former.
+This point was also made by Lord Browne Wilkinson and Lord Hoffmann at pp 108F and 115G respectively.
+Finally on this aspect, it is worth mentioning that Melissas case represents a triumph of form over substance, or, to use the words of Lord Steyn in Banque Financire at 227C, pure formalism.
+It would have been perfectly open to the Bank to have requested Boulters to pay the whole proceeds of the sale of Rush Green Hall to the Bank, with the Bank then remitting back to Boulters the 875,000 needed to purchase Great Oak Court, on the basis that it would be subject to a charge in favour of the Bank to secure the Menelaou parents indebtedness.
+If that had happened, and the Menelaou parents had then directed the transfer of Great Oak Court to Melissa, and the defective Deed had been executed, it is very difficult to see why the Bank could not have claimed subrogation to the unpaid vendors lien.
+If Melissas case on this appeal is right, the fact that the Bank sensibly short circuited the process, and agreed that the 875,000 could be retained by Boulters to purchase Great Oak Court, would mean that a small and practical change, of no apparent commercial significance, results in a substantially different commercial outcome.
+Such an outcome is, of course, possible, but its unattractiveness tends to support the conclusion which I have reached.
+The Banks proprietary claim
+This leads conveniently to the final point, namely whether the Banks claim to be subrogated to the unpaid vendors lien could in fact be justified by a simpler and less potentially controversial route.
+At least on the basis of the arguments we have heard, I am very sympathetic to the notion that the Bank had a proprietary interest in the 875,000 which was used to purchase Great Oak Court, and if that is right, its subrogation claim becomes relatively uncontroversial.
+I am, however, reluctant to express a concluded view on the topic, as the argument was developed very shortly, although it is fair to say that it was considered (and rejected) at first instance, albeit on a somewhat different basis from that which currently appeals to me.
+In this connection, I would be inclined substantially to agree with the analysis of Lord Carnwath in paras 135 139 of his judgment.
+It seems to me difficult, at least on the basis of the relatively limited argument we have heard, to argue against the proposition that the Bank had a proprietary interest in the 875,000 which was used to purchase Great Oak Court.
+What was intended to happen on 12 September 2006 was that the proceeds of sale of Rush Green Hall, which was charged to the Bank for a debt in excess of those proceeds, were split into two portions, one of which was to be paid to the Bank to reduce the debt, and the other of which was to be used to purchase Great Oak Court on terms that the Bank was to have charge over it for the outstanding indebtedness.
+In those circumstances, it would seem, either the second portion was the Banks money beneficially subject to its agreement that the money could be used to purchase Great Oak Court, or it was the Menelaou parents money beneficially subject to the Banks right to require it to be paid to the Bank to reduce the Menelaou parents debt unless it was used to purchase Great Oak Court subject to the Charge.
+When it comes to the beneficial interests in this case, as I see it at the moment, the position would be as follows.
+There would be little need to resort to Quistclose Investments v Rolls Razor Ltd [1970] AC 597, because there could be no doubt but that Boulters held the 875,000 on trust: it was plainly not their money beneficially.
+Both the Menelaou parents and the Bank were their clients towards whom they had contractual and equitable duties, and, more particularly, both of whom had an interest in the 875,000.
+If the Bank beneficially owned the 875,000 (subject to its agreement that the Menelaou parents could use it to purchase Great Oak Court, subject to the Charge), cadit quaestio so far as the Banks subrogation to the Lien is concerned, as I see it: the Banks money was used to redeem the Lien.
+Assuming, however, that the Menelaou parents were the beneficial owners of the 875,000, the Bank would, in my view, have had the right of requiring that sum to be used to purchase Great Oak Court subject to a Charge back in favour of the Bank, failing which the Bank would have the right to demand that that sum be paid to it.
+I find it hard to see why that would not have given the Bank a sufficient interest in the 875,000 to enable it to claim to be subrogated to the Lien, even on Melissas restricted view of subrogation.
+It may well be that the Bank could also claim that, if the 875,000 was to be treated as beneficially owned by the Menelaou parents, it was nonetheless subject to a charge in favour of the Bank, as discussed by Arden LJ in Buhr v Barclays Bank plc [2001] EWCA Civ 1223; [2002] BPIR 25, para 45.
+This argument was rejected by the Judge at first instance in this case see at [2012] EWHC 1991 (Ch), paras 15 17.
+It is unnecessary and inappropriate to discuss that possibility further, as it was barely touched on in argument.
+Conclusion
+In those circumstances, I would dismiss Melissas appeal on the basis that the Bank has a valid unjust enrichment claim against her which is properly reflected in the Banks claim to be subrogated to the unpaid vendors lien over the freehold of Great Oak Court.
+I add this.
+My strong, if provisional, opinion that the Bank had a proprietary interest in the 875,000 which was used to purchase the freehold leads me to wonder whether the conclusion that the Banks unjust enrichment claim is satisfied by subrogation could in fact be regarded as controversial, even before Orakpo and Banque Financire were decided.
+The reasons which persuade me that the unjust enrichment claim can properly be satisfied by subrogation to the Lien (see paras 91 95 above) are precious close to those which persuade me that there is a very strong case for saying that the Bank had a proprietary interest in the 875,000 (see para 103 above).
+LORD CARNWATH:
+Introduction
+I agree that the appeal should be dismissed, but I arrive at that conclusion by a somewhat different route from that taken by my colleagues.
+In my view the respondents case can be supported (contrary to the decision of the deputy judge) by a strict application of the traditional rules of subrogation, without any need to extend them beyond their established limits.
+I am less convinced with respect of the case for rationalising the older cases through the prism of unjust enrichment, as Lord Clarke suggests was done in Banque Financire (Banque Financire de la Cit v Parc (Battersea) Ltd [1999] 1 AC 221), thus in effect conflating the two doctrines.
+As Lord Millett explained in Foskett v McKeown [2001] 1 AC 102, 129 (cited by Lord Clarke at para 38), there is a clear distinction of principle between a claim to enforce property rights and a claim for unjust enrichment.
+Earlier in the same judgment (at p 127F) he had emphasised that property rights are to be determined by fixed rules and settled principles, not by discretion or policy.
+Subrogation to a vendors lien is a claim to a property right, but it is, as Lord Clarke acknowledges, a less than straightforward concept.
+It should not be extended, nor should the established rules be distorted, without good reason.
+Conversely, in the light of some decades of academic discussion and of the authorities reviewed by Lord Clarke, it is surely time for the principles of restitution or unjust enrichment to be allowed to stand on their own feet.
+A proprietary remedy may arguably be justified because, as Lord Neuberger says (paras 79 80), such a remedy, rather than a personal remedy, is the most appropriate response to the unjust enrichment found in this case; but not because of some tenuous relationship with a vendors lien which has no continuing existence or practical relevance.
+However, that is not how the case has been argued, and, since it is not necessary for my decision on the appeal, I shall limit my observations on those wider issues.
+In this judgment I will take the facts as set out by Lord Clarke.
+I would only observe that I approach those facts without any particular predisposition in favour of the Banks claim.
+As Mr Warwick points out, if Melissa was enriched, it was because her parents gave to her, and to her two younger siblings, some of the proceeds of sale of their property, which she received in good faith.
+In the same way, Melissas older sister, Danielle, was enriched because she also received some of the proceeds of Rush Green Hall.
+Neither was aware of any interest of the Bank, and in Danielles case none has been asserted.
+Melissas ignorance of the Banks claim is the result of their own solicitors incompetence, not of any fault on her part.
+Subrogation the principles
+A simple modern statement of the principle of subrogation, frequently adopted in later cases (see eg Cheltenham & Gloucester plc v Appleyard [2004] EWCA] Civ 291, para 25, per Neuberger LJ); [2004] 13 EG 127 (CS), is that of Walton J in Burston Finance Ltd v Speirway Ltd [1974] 1 WLR 1648, 1652B C: [W]here As money is used to pay off the claim of B, who is a secured creditor, A is entitled to be regarded in equity as having had an assignment to him of Bs rights as a secured creditor.
+It finds one of its chief uses in the situation where one person advances money on the understanding that he is to have certain security for the money he has advanced, and, for one reason or another, he does not receive the promised security.
+In such a case he is nevertheless to be subrogated to the rights of any other person who at the relevant time had any security over the same property and whose debts have been discharged, in whole or in part, by the money so provided by him.
+Probably the fullest textbook discussion of the subject is to be found in Mitchell and Watterson Subrogation Law and Practice (2007) (It is noteworthy that both authors are also editors of the later edition of Goff & Jones (2011) to which I shall come.) Under the heading transfer of extinguished proprietary rights (para 3.26 8) the authors trace the origins of the rule whereby those whose money is used to pay off on land are presumptively entitled to acquire the charge for their own benefit (derived from Patten v Bond (1889) 60 LT 583).
+They describe as anomalous the extension of the rule beyond payments by someone with an existing interest in the land which requires protection.
+The anomaly lies in the absence of any sound policy reason to treat such a person any differently to any other person who has voluntarily paid off a persons debt, and for the more substantial reason that liabilities are not to be forced on people behind their backs (citing Falcke v Scottish Imperial Insurance (1886) 34 Ch D 234, 248 per Bowen LJ).
+However, as they observe the principle became well established in the case law, approved for example in the Privy Council in Ghana Commercial Bank v Chandiram [1960] AC 732, the justification for acquisition of the security being that the claimant was presumed to have intended this at the time when they parted with the money.
+The application of the concept in the context of an unpaid vendor's lien is also well established, but no less anomalous.
+Burston itself related to such a claim.
+The claim failed because, by taking a legal charge over the same property (even though invalid against the liquidator by reason of failure to register under the Companies Act 1948), the lien had been lost either as a result of the doctrine of merger or by presumed intention to waive the unpaid vendors lien (p 1653C).
+The earliest example in the cases cited to the court was Thurstan v Nottingham Permanent Benefit Building Society [1902] 1 Ch 1.
+On a purchase of land by an infant, 250 of the purchase money was paid on her behalf by the building society to the vendor subject to a mortgage.
+Although the mortgage was held to be void because of the infancy, the Society was subrogated to, and so able to enforce, the vendors lien.
+Vaughan Williams LJ, after some initial uncertainty and consultation with his colleagues, concluded at pp 9 10: the society, having paid off the vendor, have a right to the remedies of the vendor have a right, that is, to enforce the vendors lien.
+It is true that the society were not the vendors, but, having paid off the vendor, the society, as against the purchaser, stand in the place of the vendor.
+At first sight it seems odd that the Society, having failed due to its own mistake of law to get the security which it wanted, was able to revive and take advantage of a different security designed for a different purpose and a different person.
+As Floyd LJ observed in the Court of Appeal (para 15), the concept, although well established, is not altogether straightforward: A third party who provides some or all of the purchase money for a purchaser, thereby discharging the obligation to the vendor, can claim the benefit of the unpaid vendors lien by subrogation.
+This is so even after the lien has been, as between vendor and purchaser, extinguished.
+It is not intuitively clear how, or why, this should be the case.
+How is the unpaid vendors lien transferred from the vendor to the third party? It might be thought that once the obligation in question has been extinguished, there is nothing which the vendor could transfer.
+Even if there was something to transfer, by what legal mechanism does the transfer take place? There has been no assignment. (para 17)
+As he explained, Lord Hoffmann made some attempt to address such conceptual concerns in Banque Financire: In my view, the phrase keeping the charge alive needs to be handled with some care.
+It is not a literal truth but rather a metaphor or analogy: see Birks, An Introduction to the Law of Restitution, pp 93 97.
+In a case in which the whole of the secured debt is repaid, the charge is not kept alive at all.
+It is discharged and ceases to exist.
+It is important to remember that, as Millett LJ pointed out in Boscawen v Bajwa [1996] 1 WLR 328, 335, subrogation is not a right or a cause of action but an equitable remedy against a party who would otherwise be unjustly enriched.
+It is a means by which the court regulates the legal relationships between a plaintiff and a defendant or defendants in order to prevent unjust enrichment.
+When judges say that the charge is kept alive for the benefit of the plaintiff, what they mean is that his legal relations with a defendant who would otherwise be unjustly enriched are regulated as if the benefit of the charge had been assigned to him.
+It does not by any means follow that the plaintiff must for all purposes be treated as an actual assignee of the benefit of the charge and, in particular, that he would be so treated in relation to someone who would not be unjustly enriched.(P 236D E)
+It is not clear to me, with respect, how describing the concept as a metaphor adds anything by way of explanatory force.
+I note that in the passage cited by Lord Hoffmann, Professor Birks began by observing that in the law of restitution, subrogation really adds nothing to the techniques otherwise available; it is in the nature of a metaphor which can be done without (ibid p 93).
+Thirty years on, I would respectfully agree.
+In the context of the law of unjust enrichment, the issue should be the nature of the appropriate remedy, not whether it conforms to an analogy derived from some other area of the law.
+The view of the Court of Appeal
+In the Court of Appeal (as in this court) the appellant submitted that, there was no justification for extending the rules of subrogation so as to provide a proprietary remedy in this case.
+A proprietary claim based on subrogation to vendors lien is available only to a claimant who can show that the purchase price has been paid off by use of his own money.
+That is a common feature of all the cases in which such a claim has been allowed.
+It is supported by the leading modern authority: Boscawen v Bajwa [1996] 1 WLR 328.
+Floyd LJ acknowledged that no case had been cited to the court in which a lender had been entitled to a remedy of subrogation when that lender had not advanced funds (para 43).
+However, he considered that there was no strict requirement to that effect.
+He described the unusual feature of the present case that the Bank provided the value by agreeing to release a security interest rather than by advancing specific funds.
+The appellant had relied on Bankers Trust Co v Namdar [1997] NPC 22; [1997] EGCS 20, in which subrogation had been denied because, in the words of Peter Gibson LJ: I cannot see how the Bank can be afforded the remedy of subrogation in circumstances which, as I see it in agreement with the Judge, the Bank cannot properly be said to be the provider of the money used to discharge the debt owed to it by Mr and Mrs Namdar. (Floyd LJs emphasis) In the present case, however, Floyd LJ thought it sufficient the Bank had been a provider of the funds as a matter of economic reality: The mere fact that the claimant does some act in reliance on which there is a transfer of value between different parties is not sufficient.
+When the Bank gave its undertaking to release its charges on Rush Green Hall, and thus release the purchase moneys for the purchase of Great Oak Court, there was, as I have held, a transfer of value from the Bank to Melissa.
+Moreover, if one asks Peter Gibson LJs question, namely whether it can properly be said that the Bank is the provider of the money used to discharge the debt, the answer in the present case is that it is.
+Certainly that is true if one asks whether the Bank is the source of the moneys used as a matter of economic reality.
+I therefore see no reason in principle or justice why the Bank should not be entitled to the remedy of subrogation. (para 48)
+Moses LJ preferred to speak of a sufficiently close causal connection, established by showing that, but for the Banks agreement to release its charges over Rush Green Hall, Great Oak Court would never have been purchased and the obligation to pay its vendors would never have been satisfied.
+In his view, there was no need to invoke the somewhat fuzzy concept of economic reality (paras 61 62).
+Boscawen
+In my view, the strict approach advocated by the appellant gains strong support from the judgment of Millett LJ in Boscawen v Bajwa [1996] 1 WLR 328.
+It is the leading modern authority on the application of principles of tracing and subrogation in a context not dissimilar to the present.
+As has been seen, it was cited with approval by Lord Hoffmann in Banque Financire at p 233F (a valuable and illuminating analysis of the remedy of subrogation).
+Because of its acknowledged importance in this area of the law, it justifies careful examination.
+Indeed, if the test was as flexible as that favoured by the Court of Appeal in this case, much of the discussion in that judgment would have been redundant.
+The facts (as in the present case) involved a failure by solicitors to complete a transaction in the way intended by the main parties.
+A much simplified account will suffice.
+A building society (Abbey National) agreed to make an advance to clients for the purchase of a property from the defendant (Mr Bajwa) to be secured on a first legal charge.
+The property was subject to an existing mortgage in favour of another building society (Halifax).
+Abbey National paid the money to solicitors (Dave & Co) acting jointly for the society and the purchaser, on terms which obliged them to use the money for the purchase, and to return it if for any reason completion did not take place.
+They transferred it to the vendors solicitors (Hill Lawson) to hold to their order pending completion.
+Before completion Hill Lawson sent the money to Halifax in discharge of their mortgage, after which the sale fell through.
+In response to a subsequent claim to the property by judgment creditors of Mr Bajwa, the Abbey National claimed to be subrogated to the Halifax mortgage.
+It was held (in the words of the headnote) that: the money used by the vendors solicitors to discharge the mortgage had been held by the purchasers solicitors as trust money for the building society and by the vendors solicitors to the purchasers solicitors order pending completion of the purchase; that, therefore, the money could be traced into the payment and the vendors solicitors in making it had to be taken to have intended to keep the mortgage alive for the benefit of the building society; and that, accordingly, the building society was entitled, by way of subrogation, to a charge on the proceeds of sale of the property in priority to the plaintiffs.
+The headnote rightly highlights the importance of establishing a tracing link between the plaintiffs money and the money used to discharge the mortgage, leading to a presumed intention to keep the mortgage alive for the plaintiffs benefit.
+Millett LJs judgment needs to be read in the context of the issues before him.
+The main issue before the Court of Appeal was whether, in allowing the claim, the judge had made an impermissible aggregation of two different equitable doctrines, subrogation and tracing (p 333D G).
+As Millett LJ explained, these arguments showed a confusion of thought as to the nature of tracing: Tracing properly so called, however, is neither a claim nor a remedy but a process.
+It is the process by which the plaintiff traces what has happened to his property, identifies the persons who have handled or received it, and justifies his claim that the money which they handled or received (and, if necessary, which they still retain) can properly be regarded as representing his property.
+The process of tracing was to be distinguished from the fashioning of the appropriate remedy, once the plaintiff had succeeded in tracing his property whether in its original or in some changed form into the hands of the defendant, and overcome any defences: The plaintiff will generally be entitled to a personal remedy; if he seeks a proprietary remedy he must usually prove that the property to which he lays claim is still in the ownership of the defendant.
+If he succeeds in doing this, the court will treat the defendant as holding the property on a constructive trust for the plaintiff and will order the defendant to transfer it in specie to the plaintiff.
+But this is only one of the proprietary remedies which are available to a court of equity.
+If the plaintiffs money has been applied by the defendant, for example, not in the acquisition of a landed property but in its improvement, then the court may treat the land as charged with the payment to the plaintiff of a sum representing the amount by which the value of the defendants land has been enhanced by the use of the plaintiffs money.
+And if the plaintiffs money has been used to discharge a mortgage on the defendant's land, then the court may achieve a similar result by treating the land as subject to a charge by way of subrogation in favour of the plaintiff.
+The judge had not erred by invoking the two doctrines in the same case: They arose at different stages of the proceedings.
+Tracing was the process by which the Abbey National sought to establish that its money was applied in the discharge of the Halifaxs charge; subrogation was the remedy which it sought in order to deprive Mr Bajwa (through whom the appellants claim) of the unjust enrichment which he would thereby otherwise obtain at the Abbey Nationals expense. (p 334B 335F, emphasis added)
+Millett LJ went on to discuss separately the principles of tracing and subrogation, as applied to the instant case.
+In relation to the former (pp 335 337), it had been argued that the right to trace was lost when the money advanced by Abbey National went into Hill Lawsons general client account, where it was mixed with other money including other funds belonging to Mr Bajwa.
+It was held in favour of Abbey National that, as against Hill Lawson and Mr Bajwa, who though not wrongdoers were not innocent volunteers, they could rely on equitys ability to follow money through a mixed bank account by treating the money in the account as charged with the repayment of his money (pp 336F, 337G).
+Under the heading Subrogation (pp 338 339) the principal issue was whether it mattered that Abbey National had failed to show an intention to obtain the benefit of the Halifax security.
+As Millett LJ explained: In cases such as Butler v Rice and Ghana Commercial Bank v Chandiram [1960] AC 732, where the claimant paid the creditor direct and intended to discharge his security, the court took the claimants intention to have been to keep the original security alive for his own benefit save in so far as it was replaced by an effective security in favour of himself.
+In the present case the Abbey National did not intend to discharge the Halifaxs charge in the events which happened, that is to say, in the event that completion did not proceed.
+But it did not intend its money to be used at all in that event.
+However, that did not mean that the remedy was unavailable: In the present case the payment was made by Hill Lawson, and it is their intention which matters.
+As fiduciaries, they could not be heard to say that they had paid out their principals money otherwise than for the benefit of their principal.
+Accordingly, their intention must be taken to have been to keep the Halifaxs charge alive for the benefit of the Abbey National pending completion.
+In my judgment this is sufficient to bring the doctrine of subrogation into play. (p 339D H)
+These passages are of direct relevance to the arguments in the present case, and in my view difficult to reconcile with the more flexible approach of the Court of Appeal.
+It was clearly regarded by Millett LJ as necessary for the claimants to establish that the money used to pay off the loan was their money.
+Tracing was the process by which this was done.
+In the context of subrogation, tracing was not about identifying a particular asset in the hands of the defendant, as belonging notionally to the claimant; but rather as providing the necessary link with the payments made to discharge the relevant mortgage.
+In the passage quoted above, Millett LJ treated such payments as analogous to money spent in improving property.
+It was not regarded by him as sufficient to apply a broad causation or economic reality test, such as applied by the Court of Appeal in the present case.
+Had that been enough, the detailed examination of equitable rules relevant to tracing the money in the Hill Lawson account would have been unnecessary.
+It would have been enough that but for the receipt of the money from Abbey National, the Halifax mortgage would never have been paid off.
+This aspect of the case is not affected by the decision in Banque Financire.
+Lord Hoffmann noted that there was no difficulty on the facts of that case in tracing the banks money into the discharge of the relevant debt, since by contrast with Boscawen the payment was direct (p 235C D).
+I take him to have been using that term in the same sense as Millett LJ.
+The problem was not so much the right to a proprietary remedy but whether that right should be cut down so as to limit its scope by reference to the limited nature of the initial agreement.
+The decision itself, and in particular the nature of the remedy (personal, proprietary or hybrid?), have been much discussed (see Goff & Jones para 6 30).
+But it throws no doubt on the importance, in the present context, of establishing a tracing link between the claimants own money and the payment used to discharge the security.
+Academic discussion
+I should make brief reference to some of the academic discussion, if only to note the lack of consensus on the issues before us.
+Indeed, there are few more hotly debated issues among specialist academics in this field than the scope of the remedies, personal or proprietary, for unjust enrichment.
+In Mitchell and Watterson (op cit), there is an illuminating discussion of the various strands of academic opinion as it stood at the time of that edition (2007).
+I note in particular two sections, headed Proprietary remedies for unjust enrichment generally (para 8.40ff) and Proprietary subrogation (para 8.46 7).
+The former notes, for example, the view of some commentators that the English law of unjust enrichment should be purged of proprietary remedies altogether (para 8.41); contrasted with other more accommodating approaches, such as that of Professor Andrew Burrows (The Law of Restitution, 2nd ed (2002), para 8.42) who accepts the need for special justification for a proprietary remedy, but finds it in two factors, that the payment added to the value of the defendants asset and that the claimant did not voluntarily assume the risk of the defendants insolvency.
+Against that backdrop, it is said, the subrogation authorities reveal a surprising readiness to award proprietary remedies.
+Following Banque Financire, it is suggested that the courts should look across from the subrogation authorities to develop a consistent view of the circumstances in which proprietary restitutionary remedies should be awarded (para 8.46 7).
+The clearest academic exposition in recent textbooks of the distinction on which the appellants rely appears in the current edition of Goff & Jones, The Law of Unjust Enrichment, 8th ed (2011).
+Floyd LJ referred to para 6 01, relating to the term at the claimants expense, without noting that this was in a chapter dealing specifically with personal claims.
+Chapter 7, headed At the Claimants Expense; Proprietary Claims contains the following important passage, which on its face appears to support the appellants case: Both personal and proprietary claims are governed by the rule that the defendants enrichment must have been gained at the claimants expense, but the tests used to determine whether this requirement has been satisfied vary with the type of claim.
+Where the claimant seeks a personal remedy, he must show that there was a transfer of value between the parties, and this is tested by asking whether an event took place that caused the claimant to become worse off and the defendant to become better off.
+This is discussed in Chapter 6.
+In contrast, where the claimant seeks a proprietary remedy, it is not enough for him to show that there was a transfer of value between the parties: he must also show either that he previously owned the property in which he now claims an ownership or security interest, or else that the defendant acquired this property in exchange for property that was previously owned by the claimant, or else that this property was formerly the subject matter of an interest that was discharged with property that was previously owned by the claimant.
+This test is more stringent than the causal test used in the context of personal claims, and it serves as a control mechanism to prevent proprietary restitutionary remedies from becoming too freely available. (para 7 02, emphasis added) The footnote refers to a list of cases cited later in the chapter (para 7 39, fn 87) including in the subrogation context Boscawen (at p 334).
+The application of those principles to the payment of debts is discussed in more detail later in the chapter (para 7 42).
+The rule that the tracing process comes to an end when the value being traced is dissipated applies generally where the claimants money is used to pay off a debt.
+Subrogation is cited as one exception to the rule: if the debt was secured by a charge over the defendants property then Equity can treat the debt and the charge, by a legal fiction, as though they were not extinguished by the payment, thereby enabling the beneficiaries to trace the value inherent in their money into the value inherent in the creditors fictionally subsisting chose in action against the defendant.
+Again the reference is to Boscawen.
+Notable here is the close link between subrogation and the doctrine of tracing, which as has been seen was central to the analysis by Millett LJ in that case.
+There is no apparent support for the Court of Appeals view that a sufficient link could be found in a looser test based on economic reality or simple causation.
+Is there a tracing link in this case?
+The Court of Appeal felt able to decide the case on the footing that the Bank did not have an interest in the money used to pay off the security.
+It found it unnecessary to decide whether that assumption was correct.
+In this court it has been submitted that it was not.
+It is argued that the Bank did have a sufficient interest on the basis either of the principle in Buhr v Barclays Bank plc [2001] EWCA Civ 1223, [2002] BPIR 25, or of a so called Quistclose trust (after Quistclose Investments Ltd v Rolls Razor Ltd [1970] AC 567).
+Although the Quistclose principle does not appear in terms to have been relied on in argument in the courts below, the substance was sufficiently pleaded in the amended counterclaim (para 13), which asserts that the proceeds of the sale of Rush Green Hall released by the defendant Bank were held on trust for the defendant, subject to a power for Mr and Mrs Menelaou to use the same to purchase a flat in the joint names of Danielle Menelaou and her partner and also to purchase the Property in the name of the claimant but only on condition that the outstanding debts of Mr and Mrs Menelaou were to be secured by a first legal charge over the Property.
+The issue was also addressed by the judge (paras 14 17), albeit not specifically by reference to the Quistclose principle.
+It does not depend on any further findings of fact.
+I see no reason therefore why it cannot properly be relied on by the Bank in this court.
+The Quistclose principle was explained and applied by the House of Lords in Twinsectra Ltd v Yardley [2002] 2 AC 164.
+A solicitor (Sims) had received money, lent by Twinsectra to his client (Mr Yardley) for the purchase of a property, under an undertaking that it would be utilised solely for the acquisition of property and for no other purpose.
+The money was paid to the defendant solicitor (Mr Leach), acting on behalf of the same client; he paid it out to the client who used it for purposes other than the purchase of the property.
+A claim against the defendant solicitor for dishonest assistance failed only because dishonesty was not established.
+The money was held to be subject to a trust in the first solicitors client account, the terms of which were found in the terms of the undertaking, which made clear that the money was not to be at the free disposal of [the client]: the effect of the undertaking was to provide that the money in the Sims client account should remain Twinsectras money until such time as it was applied for the acquisition of property in accordance with the undertaking.
+For example, if Mr Yardley went bankrupt before the money had been so applied, it would not have formed part of his estate, as it would have done if Sims had held it in trust for him absolutely.
+The undertaking would have ensured that Twinsectra could get it back.
+It follows that Sims held the money in trust for Twinsectra, but subject to a power to apply it by way of loan to Mr Yardley in accordance with the undertaking (paras 12 13, per Lord Hoffmann)
+In the present case the critical issue is the status of the money received by Boulters on 12 September 2008, as proceeds of the sale of Rush Green Hall. (I do not understand either party to suggest that the deposit 90,000 should be treated differently from the balance of 785,000.) The judge saw no reason to infer a proprietary interest in the Bank: 16.
+In the present case the agreement or understanding recorded in the Banks letter of 9 September 2008 did not address the question of ownership or even security rights in the sale proceeds of Rush Green Hall, and had no reason to do so.
+While the arrival of the sale proceeds from Rush Green Hall and the payment of 785,000 to the vendors of Great Oak Court (or their solicitors) and of 750,000 to the Bank could not have been literally simultaneous, it is unrealistic to suppose that the parties were concerned with the status of the incoming monies in any short interval between them.
+Critically, the agreement was concerned only with the circumstances in which the charges over Rush Green Hall would be released.
+So long as they remained in place, there was neither need nor reason for the Bank to have any rights over the proceeds of sale, or thereafter, since the charges were only to be released against substitute security over Great Oak Court.
+And should there be a defect in that substitute security, the Bank had protected itself by obtaining the undertakings given by Boulters in the Certificate of Title.
+With respect to the judge, this analysis (like my own as trial judge in Twinsectra) seems to me to start from the wrong end.
+In the Boulters client account the money was undoubtedly trust money, in the sense that it was held beneficially for their clients (see eg In re A Solicitor [1952] Ch 328).
+That is not affected by the brevity of the period for which it was expected to be held.
+The relevant questions are: for whose benefit was it so held and on what terms? By this time they were acting for both the Menelaous and the Bank.
+Their respective interests in the money depended on the arrangements between them and with their solicitors.
+It is true that the Banks letter of 9 September 2008 said nothing in terms about an interest in the money to be used for the new purchase.
+But there is nothing to suggest that the money was treated as freely at the disposal of the Menelaous, which would have been inconsistent with the general purpose of the arrangement.
+The terms of the certificate of title provided to the Bank by Boulters on 10 September are also relevant.
+In it Melissa was named as borrower, and the price as 875,000.
+It included a standard form undertaking prior to use of the mortgage advance, to obtain in the form required by you the execution of a mortgage and a guarantee as appropriate by the persons whose identities have been checked in accordance with paragraph (1) above as those of the Borrower, any other person in whom the legal estate is vested and any guarantor .
+They also undertook to notify the Bank of anything coming to their attention before completion which would render the certificate untrue or inaccurate, and if so to defer completion pending your authority to proceed and return the mortgage advance to you if required .
+I agree with Mr Rainey that in its context the reference in the certificate of title to the mortgage advance must be read as a reference to the money received by them from the sale of Rush Green Hall.
+The natural implication of the undertakings was that, if the sale failed, the sum so defined would be paid to the Bank; not simply transferred to the Menelaous.
+It follows in my view that there is no difficulty in this case in finding the necessary tracing link between the Bank and the money used to purchase the new property.
+In this respect it is a much simpler case than Boscawen.
+The Banks interest in the purchase money was clear and direct.
+On this relatively narrow ground, I would hold that the appeal should be dismissed.
+LORD KERR AND LORD WILSON:
+Subject to the sentence which follows, we agree with the judgments both of Lord Clarke and of Lord Neuberger.
+We consider, however, that it is preferable to leave the availability of a personal claim against Melissa entirely open and so to that extent we prefer the terms in which Lord Neuberger expresses himself in paras 80 82 above to the marginally different terms in which Lord Clarke expresses himself in para 55 above.

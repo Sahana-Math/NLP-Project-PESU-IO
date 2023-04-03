@@ -1,0 +1,32 @@
+This appeal concerns two questions.
+The first is, in what circumstances will the law treat the authority of an agent as irrevocable? The second is whether the receipt of money at a time when the recipient knows that imminent insolvency will prevent him from performing a corresponding obligation, can give rise to liability to account as a constructive trustee.
+Angoves PTY is an Australian winemaker, which employed an English company, D&D Wines International Ltd, as its agent and distributor in the UK.
+D&D bought wines from Angoves, and also sold wines on Angoves behalf to UK retailers.
+That relationship was governed by an Agency and Distribution Agreement (ADA), which was terminable by either side on six months notice, or immediately on the appointment of an administrator or liquidator.
+D&D entered into administration on 21 April 2012, and into creditors voluntary liquidation on 10 July 2012.
+There were outstanding invoices in the amount of A$874,928.81, which represented the price of wine that D&D had sold to two UK retailers who had not yet paid.
+Angoves lawfully terminated the ADA and purported to terminate D&Ds authority to collect the price from those two retailers by written notice on 23 April 2012.
+The termination notice declared that Angoves proposed to collect the price directly from the customers and would account separately to D&D for their commission.
+The liquidators of D&D objected to this.
+They said that they were entitled to collect on the outstanding invoices, deduct the commission due to D&D, and leave Angoves to prove in the winding up for the rest of the price.
+They argued that D&Ds authority as agent to collect the price of the goods was irrevocable, because they needed it to recover their commission.
+Angoves disputed this.
+They argued in the alternative that the moneys held by D&D were held on constructive trust for them.
+The judge held that D&Ds authority to collect the price from the customers ended on service of Angoves termination notice.
+The Court of Appeal allowed the liquidators appeal, holding that D&Ds authority survived the termination notice.
+The argument that D&D held the proceeds of the invoices on trust for Angoves failed both at first instance and on appeal.
+The Supreme Court unanimously allows Angoves appeal on the first question.
+D&Ds agency was revoked by Angoves termination notice, but the moneys were not held on constructive trust for Angoves.
+Lord Sumption gives the judgment, with which the other Justices agree.
+The authority of an agent is inherently terminable, even where it is agreed to be irrevocable, unless it is coupled with a relevant interest of the agent.
+This requires, in addition to an agreement that the agents authority is to be irrevocable, that the authority is given to secure a subsisting proprietary interest or personal liability of the agent.
+The mere existence of such an interest will not generally be enough to make the authority irrevocable [7].
+Neither of those conditions is satisfied on the facts of this case.
+D&Ds authority was not expressed to be irrevocable in the agency agreement, and there is no implication to that effect.
+Because there was nothing in the agreement to stop customers paying Angoves directly, collection of commission could not sensibly be regarded as a right or security of D&D. Deduction from the price paid by customers was not the only way that D&D could recover its commission: customers could pay Angoves directly, who would then pay it to D&D [16].
+Turning to the second question, the argument was that where money was paid for a consideration which the payee knew at the time of receipt was bound to fail because of his imminent insolvency, that fact alone was enough to give rise to a constructive trust of the money in the payees hands.
+This argument is rejected.
+The price was paid to D&D by the customers absolutely, in discharge of their contractual liability.
+The judge had held that the agency relationship did not itself give rise to a trust of money in D&Ds hands which they had collected from customers, and that the agency relationship between D&D and Angoves was in the relevant respects one of debtor and creditor.
+In these circumstances the mere fact that it was received at a time when D&Ds personal liability to account to Angoves would not be performed could make no difference to the basis on which they held the money.
+It did not become unconscionable for them to retain it simply because the statutory insolvency regime intervened to require it to be shared pari passu with other creditors (Neste Oy v Lloyds Bank Plc [1983] 2 Lloyds Rep 658 and In re Japan Leasing Europe Plc [1999] BPIR 911 overruled) [31].

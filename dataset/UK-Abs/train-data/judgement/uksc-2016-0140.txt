@@ -1,0 +1,221 @@
+The central question in this appeal is whether the appellants have suffered actionable personal injury on which they can found claims for negligence/breach of statutory duty.
+I will refer to the appellants hereafter as the claimants as they were at first instance.
+The claimants worked for the respondent company, Johnson Matthey Plc (hereafter either Johnson Matthey or the company), in factories making catalytic converters.
+Platinum salts are used in the production process.
+In breach of its duty under the health and safety regulations and at common law, the company failed to ensure that the factories were properly cleaned and, as a result, the claimants were exposed to platinum salts, which led them to develop platinum salt sensitisation.
+Platinum salt sensitisation is, in itself, an asymptomatic condition.
+However, further exposure to chlorinated platinum salts is likely to cause someone with platinum salt sensitisation to develop an allergic reaction involving physical symptoms such as running eyes or nose, skin irritation, and bronchial problems.
+When the claimants sensitisation was detected, through routine screening by means of a skin test, they were no longer permitted by the company to work in areas where they might be further exposed to platinum salts and develop allergic symptoms.
+One has taken up a different role with the company but, he claims, at a significantly reduced rate of pay.
+The other two had their employment terminated.
+Each claimant therefore asserts that he has suffered financially as a result of his sensitisation to platinum salts, being unable to take work in any environment (whether with Johnson Matthey or with any other employer) where further exposure might occur.
+Does the platinum salt sensitisation which each of the claimants has developed qualify as an actionable personal injury, in which case the claimants have viable claims against the company for damages for personal injuries caused by the companys negligence and/or breach of statutory duty? Alternatively, if the platinum salt sensitisation is not properly categorised as an actionable personal injury, can they recover damages for economic loss under an implied contractual term and/or in negligence?
+The claimants lost at first instance, following a trial of the question of liability, before Mr Justice Jay.
+Jay J concluded [2014] EWHC 3957 (QB) that they had sustained no actionable personal injury and that their claim was for pure economic loss, for which they were not entitled to recover in tort.
+He also rejected their alternative claim in contract.
+That had been put on the basis that there was an implied term in the claimants contracts of employment which obliged the company to provide and maintain a safe place and system of work, and to take reasonable care for their safety, and that they were entitled to damages for pure financial loss for breach of that implied term.
+The judge, however, considered that the companys implied contractual duty was to protect employees from personal injury, not from economic or financial loss in the absence of personal injury.
+The Court of Appeal dismissed the claimants appeals ([2016] EWCA Civ 408; [2016] 1 WLR 4487).
+Lord Justice Sales, with whom the other members of the court agreed, endorsed Jay Js view that the claimants had suffered no actionable personal injury and were claiming for pure economic loss.
+He saw the physiological change of platinum salt sensitisation as not harmful in itself in any relevant sense (para 30) and concluded that it was not converted into actionable injury by the resulting removal of the claimants from their jobs, with detrimental financial consequences.
+As for the alternative claim for damages for economic loss under an implied contractual term and/or in negligence, there is, of course, no general duty of care in tort to protect against pure economic loss, and Sales LJ did not consider that a duty of care arose here from the particular circumstances of the case.
+His reasoning in relation to this was closely tied in with his reasoning in relation to the claim based on contract.
+That contractual claim failed because Sales LJ was in agreement with Jay J that there was no implied term in the claimants contracts of employment to the effect that the employer would protect them from pure economic loss, whether on the basis of this being a standard implied term in employment contracts or on the basis of features particular to the employment of the claimants.
+In Sales LJs view, the claimants could not succeed in a tortious claim for pure economic loss when the employer assumed no such responsibility in the employment contract.
+The medical position
+It is necessary to understand the medical evidence about the claimants condition for the purposes of the appeal.
+Sensitisation is a complicated process which has been explained in simplified terms for the purposes of the litigation.
+It involves the bodys immune system.
+The immune system reacts to the presence of molecules which are not normally found in the body (antigens) by producing antibodies, in the form of large molecules called immunoglobulins.
+In many cases, the antibody performs a useful purpose by combining with the antigen and rendering it harmless.
+However, in some cases, the combination of the antigen and the antibody results in adverse consequences by provoking particular cells within the body (mast cells) to release histamine.
+In this situation, asthma, rhinitis, eye symptoms or skin rashes may result.
+A person who is sensitised to platinum salts will have a particular type of antibody in their immune system (IgE antibodies).
+Although they may not yet have developed any physical symptoms of the sensitisation, it can be demonstrated by a skin prick test in which a minute amount of a solution containing the salts is introduced into the body.
+A sensitised individual reacts by developing a small raised red, sometimes itchy, lump in the skin.
+If exposure to platinum salts continues after sensitisation has occurred, the medical evidence is that most (but not all) people will develop physical symptoms relating to one or more of the eyes, nose, chest and skin.
+At this point, they are said to have developed an allergy.
+On the other hand, physical symptoms will not develop if there is no further exposure.
+A person who has been sensitised but has not yet developed symptoms is not limited in any way in their life, except that they must avoid circumstances in which they are exposed to platinum salts.
+Platinum salts are not encountered in everyday life, only in certain specialised workplaces.
+Sensitised people cannot work in jobs which involve the potential for further exposure.
+One of the central authorities which must be considered in determining this appeal is the House of Lords decision in Rothwell v Chemical & Insulating Co Ltd [2008] AC 281, which concerned the development of pleural plaques as a result of exposure to asbestos fibres.
+The doctors who provided expert medical evidence in the present case were asked to consider whether platinum salt sensitisation could be said to be akin to pleural plaques, and it is convenient to set out their response here.
+They were agreed that there are important distinctions between the two, namely: i) Slight further exposure to asbestos will not materially worsen pleural plaques, but slight further exposure to platinum salts is likely to increase the degree of sensitisation and may result in asymptomatic sensitisation becoming symptomatic; ii) Pleural plaques do not, themselves, turn into any other injury attributable to asbestos whereas asymptomatic sensitisation may turn into symptomatic sensitisation (allergy); iii) The presence of pleural plaques does not prevent a person from engaging in particular types of work that would otherwise be open to him or her, asbestos exposure being restricted by law in any event.
+In contrast, a person who has asymptomatic sensitisation to platinum salts is restricted in the work that he or she can do.
+Collective agreement
+Employees of Johnson Matthey working in factory areas in which they could be exposed to platinum salts were paid an additional shift allowance.
+In addition, the claimants trade union had negotiated a collective agreement with the company to address the issue of platinum salt sensitisation and allergy.
+The agreement provided for regular skin prick tests to take place and for employees who became sensitised to be redeployed away from platinum salt areas if possible.
+If an employee could no longer continue to work in a factory because of platinum allergy, the agreement provided for the company to dismiss him under special termination conditions, including what was termed an ex gratia payment of a lump sum.
+The collective agreement expressly acknowledged that an employee dismissed with platinum allergy would normally file a compensation claim against the company.
+It provided that the termination arrangements were not meant to be an alternative to such claims, and that no waiver of claim was implied in accepting the termination payment.
+Personal injury/harm
+Negligence and breach of statutory duty are not actionable per se.
+It is common ground between the parties that (leaving to one side claims for pure economic loss), in order to make out their claims in tort for negligence or breach of statutory duty, it is necessary for the claimants to establish that there has been damage, in the form of actionable personal injury.
+The terms physical injury and personal injury tend to be used interchangeably in the authorities, and in the documentation in this case, and this is reflected in this judgment, there being no psychiatric injury to complicate the matter.
+An exploration of the ambit of personal injury is fundamental to the appeal and depends largely on case law, in particular the two House of Lords cases of Cartledge v E Jopling & Sons Ltd [1963] AC 758 and Rothwell v Chemical & Insulating Co Ltd (supra).
+It is worth noting from the outset that nowhere in the authorities is there a definition of actionable personal injury, although there is some guidance as to the attributes of it.
+Personal injury features as a concept in various legislative provisions, again without definition, although in some of the legislation, it is expressly said to include any disease and any impairment of a persons physical or mental condition, see for example section 38 of the Limitation Act 1980.
+The parties are agreed that if a person were to develop a platinum salt allergy as a result of improper exposure to platinum salts at work, as opposed to mere sensitisation, he or she would have suffered personal injury of a type which would give rise to a cause of action in tort.
+What divides them is whether or not sensitisation on its own is actionable personal injury.
+The claimants rely upon Cartledge v E Jopling & Sons Ltd [1963] AC 758 as supporting their case that it is, and Johnson Matthey rely upon Rothwell v Chemical and Insulating Co Ltd [2008] AC 281 as supporting their case that it is not.
+In Cartledge v E Jopling & Sons Ltd, the claims were brought by steel dressers who had contracted pneumoconiosis whilst working in the defendants factory.
+The issue was whether their claims were statute barred and the House of Lords therefore had to consider when their cause of action first accrued.
+This required their Lordships to determine when the steel dressers had suffered actionable personal injury.
+The problem was that, in pneumoconiosis, substantial injury could occur to the lungs without the sufferer being aware of the disease, as had occurred with the plaintiffs.
+Amongst the arguments advanced unsuccessfully on their behalf was the argument that actionable injury did not occur until the man became aware of his disease, since a man who does not feel any symptoms or have any knowledge of his disease has suffered no injury.
+Addressing this argument, Lord Pearce, with whom there was unanimous agreement, gave consideration to the attributes of actionable personal injury.
+He observed (p 778) that no case had sought to define its borders but, in the following passage, drew what he could from the authorities to which the House had been referred: There is no case that seeks to define the borders of actionable physical injury.
+Your Lordships have been referred to words used in various cases.
+In Fair v London & North Western Railway Co [(1869) 21 LT 326, 327 DC] Cockburn CJ said: in assessing that compensation the jury should take into account two things; first, the pecuniary loss he sustains by the accident; secondly, the injury he sustains in his person, or his physical capacity of enjoying life.
+Again, in Haygarth v Grayson Rollo & Clover Docks Ltd [[1951] 1 Lloyds Rep 49, 52] Asquith LJ said: General damage, while usually assessed in a single global sum, ought to include loss referable to at least three factors, where all three factors are present, namely, the respective loss of earnings, pain and suffering and loss of amenity.
+Such observations naturally proceed on the normal basis that personal injury involves some pain or patent loss of amenity, but the unusual question before your Lordships is whether a hidden, painless injury or latent loss of amenity sounds in damages.
+And in no case is it laid down that hidden physical injury of which a man is ignorant cannot, by reason of his ignorance, constitute damage.
+Lord Pearce went on to hold that actionable harm can be suffered despite the fact that a man has no knowledge of the secret onset of pneumoconiosis and suffers no present inconvenience from it (p 778).
+In Lord Pearces view, as will be seen from the following quotation from p 779 of the report, the question was whether a man has suffered material damage by any physical changes in his body, and this was a question of fact in each case: It is for a judge or jury to decide whether a man has suffered any actionable harm and in borderline cases it is a question of degree It is a question of fact in each case whether a man has suffered material damage by any physical changes in his body.
+Evidence that those changes are not felt by him and may never be felt tells in favour of the damage coming within the principle of de minimis non curat lex.
+On the other hand, evidence that in unusual exertion or at the onslaught of disease he may suffer from his hidden impairment tells in favour of the damage being substantial.
+There is no legal principle that lack of knowledge in the plaintiff must reduce the damage to nothing or make it minimal.
+Although symptomless, and not causing any present physical inconvenience, the physical injury to the lungs of the steel dressers was held to constitute actionable damage and, by virtue of the terms of the Limitation Act 1939, their Lordships felt compelled therefore to find that their claims were statute barred.
+Rothwell v Chemical and Insulating Co Ltd involved employees who had been exposed to asbestos dust and had developed pleural plaques as a result.
+They were at risk of developing asbestos related diseases and suffered anxiety at that prospect; one of them had developed a depressive illness, brought on by the diagnosis of the plaques.
+A convenient summary of the medical position about the plaques can be found at the start of Lord Hoffmanns speech in Rothwell.
+He said, in para 1: These are areas of fibrous thickening of the pleural membrane which surrounds the lungs.
+Save in very exceptional cases, they cause no symptoms.
+Nor do they cause other asbestos related diseases.
+But they signal the presence in the lungs and pleura of asbestos fibres which may independently cause life threatening or fatal diseases such as asbestosis or mesothelioma.
+In consequence, a diagnosis of pleural plaques may cause the patient to contemplate his future with anxiety or even suffer clinical depression.
+The unanimous view of the House of Lords was that the claimants had suffered no actionable damage.
+As Lord Hoffmann put it, in para 2, compensatable physical injury was required to establish a cause of action and the plaques did not constitute such injury.
+The claimant who had developed clinical depression was in a different position, since psychiatric illness can constitute damage.
+However, his claim also failed, essentially because it was not reasonably foreseeable that a person of reasonable fortitude would develop a psychiatric illness in his circumstances.
+In considering the implications of the decision in Rothwell, it is important to have an appreciation of the attributes of the pleural plaques and of how they differ from the damage sustained by the steel dressers in Cartledge.
+In Cartledge, the inhalation of silica particles had damaged the lung tissue, causing minute scars and reducing the efficiency of the lung tissue.
+As Lord Hoffmann summarised the position in Rothwell (para 8): their lungs had suffered damage which would have been visible upon an x ray examination, reduced their lung capacity in a way which would show itself in cases of unusual exertion, might advance without further inhalation, made them more vulnerable to tuberculosis or bronchitis and reduced their expectation of life.
+But in normal life the damage produced no symptoms and they were unaware of it.
+In contrast, the pleural plaques were not in any way harmful to a sufferers health or physical condition.
+They were evidence that the lungs had been penetrated by asbestos fibres but they did not, themselves, give rise to actual or prospective disability.
+Save in the most exceptional cases (which it appears did not include any of the claimants), they would not have any effect upon health at all.
+They were described, for example, as symptomless bodily changes with no foreseeable consequences (para 17), as not harmful and not giving rise to any symptoms or leading to anything else which constitutes damage (para 49), and as asymptomatic and not the first stage of any asbestos related disease (para 68).
+In so far as the sufferer faced a risk of deterioration in his health in future, that risk arose from the exposure to the asbestos fibres, not from the plaques, which neither posed nor contributed to any risk.
+Similarly, it was the exposure to asbestos which caused the anxiety felt by the claimants about their future health, following the discovery that they had pleural plaques, not the plaques themselves.
+The speeches in Rothwell possibly shed a little further light on the identifying features of actionable personal injury.
+I will refer to the relevant passages here, and they contribute to my conclusions later.
+First, it seems to have been accepted that the concept of personal injuries includes a disease or an impairment of a persons physical condition.
+The term impairment is to be found in certain statutes (see above) and is used by Lord Pearce in Cartledge who referred, at p 779, to the scarring to the lungs in that case as a hidden impairment.
+The trial judge in Rothwell looked for a disease or impairment of physical condition and, considering the judges finding that there was nothing that could be categorised in that way, Lord Hoffmann made no suggestion that the judge had been wrong to focus on impairment (para 11).
+Secondly, it was underlined that to be actionable, the damage had to be more than negligible.
+This is expressed in various ways, including that it must be more than trivial (Lord Hoffmann, at para 8), that it must be real damage (Lord Hope of Craighead, at para 39), and that it must be material (Lord Rodger of Earlsferry, at para 87).
+Thirdly, following on from that, it was made clear that the mere fact that a particular physical condition might properly be described as an injury does not necessarily mean that it constitutes damage of the requisite kind.
+Lord Hope countenanced that the plaques could be called an injury (see, for example, at para 39), but the claimants still did not recover because, as he said: the use of these descriptions does not address the question of law, which is whether a physical change of this kind is actionable.
+There must be real damage, as distinct from damage which is purely minimal: Lord Evershed, at p 774 [of Cartledge].
+Where that element is lacking, as it plainly is in the case of pleural plaques, the physical change which they represent is not by itself actionable.
+Returning to the subject at para 47, he said: It is well settled in cases where a wrongful act has caused personal injury there is no cause of action if the damage suffered was negligible.
+In strict legal theory a wrong has been done whenever a breach of the duty of care results in a demonstrable physical injury, however slight.
+But the policy of the law is not to entertain a claim for damages where the physical effects of the injury are no more than negligible.
+Otherwise the smallest cut, or the lightest bruise, might give rise to litigation the costs of which were out of all proportion to what was in issue.
+The policy does not provide clear guidance as to where the line is to be drawn between effects which are and are not negligible.
+But it can at least be said that an injury which is without any symptoms at all because it cannot be seen or felt and which will not lead to some other event that is harmful has no consequences that will attract an award of damages.
+Damages are given for injuries that cause harm, not for injuries that are harmless.
+Lord Hoffmann had some comments to make about the nature of damage.
+He said, at para 7: a claim in tort based on negligence is incomplete without proof of damage.
+Damage in this sense is an abstract concept of being worse off, physically or economically, so that compensation is an appropriate remedy.
+It does not mean simply a physical change, which is consistent with making one better, as in the case of a successful operation, or with being neutral, having no perceptible effect upon ones health or capability.
+Putting this formulation together with the requirement that the damage be more than minimal, he saw the relevant question, on the facts of the Rothwell case, as being (para 19), is [the claimant] appreciably worse off on account of having plaques? Although he had referred at para 7 to damage in the sense of being economically worse off, the context makes it plain that the question he was posing in para 19 was whether the claimant was physically worse off.
+It can be seen from the passages referred to above that, as well as the usual reference to pain, suffering and loss of amenity, personal injury has been seen as a physical change which makes the claimant appreciably worse off in respect of his health or capability (Lord Hoffmann at para 7 of Rothwell) and as including an injury sustained to a persons physical capacity of enjoying life (Fair v London & North Western Railway Co (1869) 21 LT 326, 327, quoted by Lord Pearce in Cartledge, at p 778), and also an impairment.
+Furthermore, it has been established that it can be hidden and symptomless (Cartledge).
+How Jay J and the Court of Appeal saw matters
+Jay J saw it as key (paras 27 and 31 of his judgment) that the scarring to the lungs in Cartledge was not neutral as to its health impacts and constituted a disease process which is real and present.
+He contrasted this with the situation in the Rothwell case in that the pleural plaques would never cause symptoms or increase the susceptibility of the individual to other diseases or conditions, and did not reduce life expectancy.
+He agreed (para 30) that there were factual differences between Rothwell and the instant case, including that the progression from sensitisation to allergy can be envisaged as being along a direct causal pathway [whereas] the pleural plaques were a biological cul de sac.
+But he thought it critical that the progression would not occur if an employee was removed from the source of the sensitisation and, because the claimants had all been removed from exposure to platinum salts, would not occur in their cases.
+The correct approach in his view (para 32) was to analyse the sensitisation in terms of the physical or physiological harm that it may be causing.
+The antibodies in the claimants bodies were not harmful in themselves and he considered that something more has to happen before actionable injury may be sustained.
+He discarded financial loss consequent upon the changes as irrelevant, and took the view that one cannot define the actionable injury by the steps which are taken to prevent it (by which he must have meant the steps taken to prevent the claimants developing an allergy).
+It seems to have been his view that, on the facts of this case, nothing short of actual symptoms could amount to actionable injury.
+In the Court of Appeal, there was a close analysis of Cartledge and Rothwell.
+Setting out his conclusions, between paras 30 and 32 of his judgment, Sales LJ (with whom the other members of the court agreed) concluded that the claimants have suffered no physical injury.
+He considered that the platinum salt sensitisation that they have developed is not harmful in any relevant sense.
+He saw it as analogous to the pleural plaques in Rothwell, and said that it was not a hidden impairment which has the potential by itself to give rise to detrimental physical effects in the course of ordinary life, and was therefore not like the lung scarring in Cartledge.
+He observed that, like the plaques, platinum salt sensitisation does not reduce life expectancy and, provided the worker is removed from an environment in which he may be exposed to platinum salts (para 27), will not cause symptoms, or increase the susceptibility of the individual to other diseases or conditions.
+In Sales LJs view (para 30), it did not therefore constitute actionable damage or injury.
+Sales LJ agreed with Jay J that the steps taken to prevent the allergy developing (removing the employee from work in an environment where further exposure may occur) should not be seen as a component of the injury and that the sensitisation had to be looked at in terms of the physical or physiological harm which it may be causing, which, without further exposure, was none.
+He acknowledged that the removal of the claimants from their jobs might be seen as an extra element, present in this case and not in Rothwell, but, whilst he accepted that this was detrimental to the claimants financially, Sales LJ did not consider that it converted the physiological change into an actionable injury, because he took the view that the financial detriment should be viewed separately, as a form of pure economic loss.
+Indeed, he was disposed to view the removal of the claimants from their jobs as a sort of mitigation of loss in advance of injury (para 32), the restriction on their work being to protect them from suffering the physical injury which would otherwise have developed.
+On his reasoning, as damages can only be claimed for the expenses of mitigation where there is a right to sue for a wrong in the first place, and there was no such right here, damages for the financial loss could not be recovered.
+The arguments in this court
+In summary, the claimants argue that platinum salt sensitisation constituted a physical change to their bodies which amounted to material damage in that they were worse off than they would have been but for their employers breach of duty.
+By virtue of their sensitisation, they were likely to develop an allergy if further exposed to platinum salts.
+Their bodies were now in a state that made them unfit for further work in areas where they may be exposed to salts (red zones), and this constituted a real loss of amenity and qualified as an actionable personal injury.
+The company supports the reasoning of Jay J and the Court of Appeal.
+It argues that platinum salt sensitisation is not an actionable personal injury and that the claim is in reality one for pure economic loss for which the claimants are not entitled to recover, either in tort or through the medium of a term implied into their employment contracts.
+The claimants cannot establish actionable personal injury, say Johnson Matthey, by adding the financial consequences of the sensitisation to the physiological changes in their bodies.
+The company argues that the changes in the claimants bodies do not amount to physical damage to bodily tissue or an impediment to the proper working of bodily tissues or organs, and seeks to categorise the molecular change that has occurred as entirely normal and benign in character, as a person will naturally develop antibodies in everyday life and antibodies are not themselves harmful.
+In the companys view, it would seem perverse and an abuse of language to describe as injured someone who merely acquired a new antibody.
+The companys argument seeks to align the claimants condition with that of the claimants with pleural plaques in the Rothwell case, and to distance it from the situation in Cartledge, it being asserted that sensitisation is merely an indicator of past exposure to platinum salts as the plaques were an indicator of exposure to asbestos.
+In addition, it is emphasised that the claimants are not limited in living their lives, except that they should avoid exposure to platinum salts.
+An important element in the companys argument is that platinum salts are not encountered in ordinary everyday life, only in certain specialist workplace environments.
+I interpose to observe that an employee should not be exposed to the salts even in the specialist workplace, but it is clear from the existence of the testing regime and the practice of not allowing sensitised individuals to work in the red zones, that exposure does take place, and of course it is admitted that the claimants in this case were in fact exposed to the salts by virtue of the companys breach of its duty under various health and safety regulations.
+The company says that these claimants almost certainly will not go on to develop platinum salts allergy, now that they are not permitted to work in the red zones, and are aware of the need to avoid contact in other working environments.
+Furthermore, the company observes that if the claimants were at any stage to develop initial allergy symptoms (which in themselves may be too minor to constitute actionable personal injury), that would be a warning to remove themselves from the source of exposure, thus avoiding significant injury.
+Encapsulating these elements of their argument in their written case, the company says that the claimants have molecular changes without symptoms and a theoretical but no practical risk of symptoms developing.
+The company also argues that it is not, in fact, the sensitisation itself that prevents the claimants from working at their old jobs, but the terms of the collective agreement which led to the employer removing them from risky areas.
+This is demonstrated, it is said, by the fact that the claimants must have been sensitised before the skin prick test revealed that they were, but they continued to do their jobs until the test results were known.
+Discussion
+I am not persuaded by the companys attempt to class the claimants condition as just the development of another benign antibody in the body, not a true departure from the normal, and not damaging the claimants health or physical capability.
+Some antibodies may do their job in the body without producing any adverse consequences.
+What matters, however, is the behaviour of the particular antibody which is produced in an individual who has been sensitised to platinum salts.
+If such an individual is subsequently exposed again to the salts, the IgE antibody involved in platinum salt sensitisation is likely, in most people, to react in a way which produces allergic symptoms of a type which, it is common ground, would be of sufficient significance to constitute an actionable personal injury.
+Whilst possibly simplistic, I do not think it is inappropriate to view the development of a platinum salts allergy in a person who does not, at the outset, have a sensitivity to platinum salts as having two stages: first comes sensitisation, next comes allergy.
+Before initial employment in the red zones, a medical screening procedure is undertaken so as to avoid employing people who have a genetic disposition to allergy.
+When commencing work in the red zones, the claimants were people who had the capacity to work there.
+At that point, their bodies were fitted for that task, still having a safety net to protect them from allergy, in the form of the sensitisation stage, which would enhance the prospect of removing them from further exposure before allergy developed.
+When they became sensitised, through the companys negligence and/or breach of statutory duty, that change to their bodies meant that they lost this safety net and therefore their capacity to work around platinum salts.
+But, on the companys argument, this bodily change which leaves the claimants worse off than they were before they became sensitised, is not actionable personal injury.
+From discussion in the course of argument, it became clear that Johnson Mattheys argument was not that sensitisation can never amount to actionable injury.
+Mr Kent QC acknowledged, on behalf of the company, that if the claimants had developed a sensitivity to something in everyday life, such as sunlight, as opposed to platinum salts, they would have sustained actionable damage because they would not be able to carry on with their ordinary life and would suffer, as he put it, a deficit which would undoubtedly be characterised as personal injury.
+It follows from this acknowledgment that there is no dispute that the physiological changes involved in sensitivity can constitute sufficient personal injury, sufficient damage, to found an action for negligence or breach of statutory duty.
+However, Mr Kent contrasts the person who develops a sensitivity to sun with the situation here because, he says, the sufferer is not sensitive to something in everyday life, but only to a dangerous chemical to which people should not be exposed, given the health and safety regulations.
+Certain aspects of this argument ring rather hollow in this case, given that the claimants were exposed to the salts by the company, and the risk of further exposure is considered sufficiently significant for the collective agreement to require that they be prevented from working in red zones.
+However, I will set that objection to one side for present purposes and consider the simple proposition that the claimants have not become sensitised to something in everyday life, like the sun.
+It is a proposition to which I cannot subscribe.
+Ordinary everyday life is infinitely variable.
+For these claimants, their ordinary everyday life involved doing jobs of a type which, by virtue of their sensitisation, they can no longer do.
+In those circumstance, I do not see how their situation can be validly distinguished from the person who has developed a sensitivity to the sun.
+The physiological changes to the claimants bodies may not be as obviously harmful as, say, the loss of a limb, or asthma or dermatitis, but harmful they undoubtedly are.
+Cartledge establishes that the absence of symptoms does not prevent a condition amounting to actionable personal injury, and an acceptance of that is also implicit in the sun sensitivity example, in which the symptoms would only be felt upon exposure to sunshine, just as the symptoms here would only be felt upon exposure to platinum salts.
+What has happened to the claimants is that their bodily capacity for work has been impaired and they are therefore significantly worse off.
+They have, in my view, suffered actionable bodily damage, or personal injury, which, given its impact on their lives, is certainly more than negligible.
+It can be helpful to test an approach by applying it to slightly different facts, albeit that they are not an exact parallel with the present case.
+Suppose that the claimants were coffee tasters, employed because they had the ability to distinguish different flavours and qualities of coffee, by smell and taste.
+Suppose further that, through negligence, their sense of smell or taste became impaired in a way which would be of absolutely no consequence to anyone who was not employed in this particular role, but meant that they could no longer do their jobs and had to seek other employment.
+I venture to suggest that there would be little difficulty in accepting that the changes to their bodies were actionable personal injury.
+Another example might be of claimants working in the fragrance industry, whose highly developed sense of smell was damaged.
+It might be that the coffee tasters, or the expert perfumers, would be able to show something which looks more like a physical bodily injury of a conventional kind, but I can see no essential difference between their situation and the present case, where bodily changes have led to the claimants, who were formerly people who could and did work around platinum salts, no longer being able to do so.
+I should address specifically some of the arguments which featured in the companys case.
+First, there is the argument that the claimants are attempting to claim for something, an allergy, that will never happen because they will not now work around platinum salts.
+This goes along with what might be described as the timing argument, namely that the deficit which the claimants rely upon (their inability to do their chosen jobs) did not exist prior to the positive skin tests, and was not the product of the negligent exposure to platinum salts and resulting sensitisation, but of the protective provisions of the collective agreement which required that they be removed from the red zones.
+Another strand of the argument is the assertion that the claimants are seeking to make what is, in reality, only a risk (the risk of developing an allergy) into an actionable injury.
+These arguments could only prosper, it seems to me, if the sensitisation itself is not seen as an actionable personal injury, but only as a benign and symptom free molecular change.
+For the reasons I have given at paras 37 to 40 above, I do not see it in that way.
+If the sensitisation is viewed as an injury, as in my view it should be, then it did exist before the skin test revealed it.
+The restrictions on the work that can be done by claimants who have tested positive are attributable to the sensitisation, to which the protective provisions of the collective agreement were a response.
+Those provisions reflect the fact that, because of the negligence and/or breach of statutory duty of their employers, these claimants bodies are now in such a state that they need to avoid further exposure to platinum salts which, according to the evidence, would be likely to provoke allergy in most people.
+But the need for sensitised individuals to avoid exposure would apply whether or not there was a collective agreement such as that which was in force in this case, and no matter whether the employer was Johnson Matthey or another employer who imposed no comparable restrictions.
+As for the fact that the claimants must have worked for a period after they became sensitised, but before their positive skin prick tests demonstrated that fact, I do not see that that advances the argument in any way, given that they did so in ignorance of their condition.
+They were lucky enough not to have gone on to develop allergic symptoms during that period of unknown sensitisation, but that does not mean that they would be safe to continue to work in red zones (or the equivalent area in another company) if not prevented from doing so by the collective agreement.
+Once the sensitisation is identified as an actionable injury in its own right, the companys argument that the claimants are, in reality, claiming only for their lost earnings and therefore for pure economic loss also falls away.
+But, the company asks, what about a claimant who was about to retire when he or she became sensitised, or no longer wanted to work in the same type of employment, and upon whom the sensitisation would therefore have no impact? This, to my mind, does not go to the question of whether actionable personal injury has been suffered, but to the quantum of damages flowing from that, which it could be expected would be reduced by this feature of the particular case.
+I return to the cases of Rothwell and Cartledge.
+Although other authorities were cited, including some relating to claims for damage to property, I have found them of little direct, or even indirect, assistance and therefore, like Jay J and the Court of Appeal, my focus has been upon these two central cases.
+I would distinguish this case from Rothwell.
+I set out earlier how the doctors saw the distinction between pleural plaques and sensitisation to platinum salts but it is, of course, ultimately a lawyers question whether the two conditions are distinguishable.
+As I see it, it is material that the pleural plaques were nothing more than a marker of exposure to asbestos dust, being symptomless in themselves and not leading to or contributing to any condition which would produce symptoms, even if the sufferer were to be exposed to further asbestos dust.
+Similarly, the sensitisation of the claimants in this case marks that they have already been exposed to platinum salts, but unlike the plaques, it constitutes a change to their physiological make up which means that further exposure now carries with it the risk of an allergic reaction, and for that reason they must change their everyday lives so as to avoid such exposure.
+Putting it another way, they have lost part of their capacity to work or, as the claimants put it in argument, they have suffered a loss of bodily function by virtue of the physiological change caused by the companys negligence.
+As Lord Pearce said in Cartledge (supra para 15), it is a question of fact in each case whether a man has suffered material damage by any physical changes in his body.
+It is a question of fact that must be determined in the light of the legal principles applicable to personal injury actions, and this case has provided a useful opportunity to clarify some of those principles.
+The process has led me, for all the reasons I have set out, to differ from Jay J and the Court of Appeal and to conclude that the concept of actionable personal injury is sufficiently broad to include the damage suffered by these claimants, which is far from negligible.
+In these circumstances, it is unnecessary to say anything further about the claimants alternative argument that they should be able to recover for pure financial loss.
+I would allow the appeal on the claimants first ground, having concluded that they do have a cause of action in negligence/statutory duty against the company.

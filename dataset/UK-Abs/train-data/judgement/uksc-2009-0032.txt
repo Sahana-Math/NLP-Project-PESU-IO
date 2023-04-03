@@ -1,0 +1,835 @@
+The Palmers Wood Oil Field is a naturally occurring reservoir of petroleum and petroleum gas, the north eastern part of which extends beneath the Oxted Estate of which the appellant Bocardo (Bocardo) is the freehold owner.
+The rest of the Oil Field lies under land in different ownerships.
+Petroleum cannot be recovered from an underground reservoir without carrying out works of some kind below the surface of the land.
+An oil company such as the first respondent, Star Energy Weald Basin Ltd, which has a licence under section 2 of the Petroleum (Production) Act 1934 (now repealed and replaced by section 3 of the Petroleum Act 1998, Schedule 3, para 4 of which preserves pre existing licences) to search, bore for and get petroleum will have to sink wells into the substratum by means of drilling in order to recover it.
+It may have to do this by means of wells that are drilled diagonally rather than vertically from the well head.
+A particular feature of this case is that the apex of the Oil Field lies beneath Bocardos land.
+The most efficient means of recovering the petroleum is to sink a well as close to the apex as possible.
+If this is not done, and the well is sunk to a point that is substantially below the apex, much of the oil that could otherwise be recovered will be lost.
+It was for this reason that the respondents predecessors sunk three wells from the well head by what is known as deviated or directional drilling from one of the two drilling sites that were created for the extraction of petroleum from the Palmers Wood Oil Field.
+The wells enter the substrata below the Oxted Estate at depths of about 1,300, 800 and 950 feet beneath the surface respectively.
+Two of them are known as PW5 and PW8.
+They are used to extract petroleum and petroleum gas from the reservoir beneath the Oxted Estate and terminate at about 2,900 and 2,800 feet below the surface of its land respectively.
+The third, known as PW9, passes through the substrata beneath the Oxted Estate at a depth of about 950 feet below the surface and ends beyond its perimeter at a point in the reservoir at about 1,400 feet below ground level.
+It is used for injecting water into the Oil Field to maximise and speed recovery.
+The respondents predecessors, Conoco (UK) Ltd, did not seek to negotiate any contractual licence or wayleave from Bocardo to drill the wells, lay the casing and tubing within them or extract the petroleum and petroleum gas by this means from the Oil Field.
+Nor did they apply for any statutory right to do this under the Mines (Working Facilities and Support) Act 1966 or the Pipelines Act 1962.
+The respondents in their turn did not seek to do this when they acquired the petroleum production licence from their predecessors.
+It appears to have been assumed all along that this was not necessary.
+The evidence at the trial of the respondents expert was that, although deviated or directional drilling has been common industry practice for some years, he was not aware that any onshore oil company had applied for ancillary rights to permit deviated drilling on UK onshore operations.
+Bocardo was unaware until July 2006 that petroleum and petroleum gas was being extracted by this means from beneath its land.
+The issues that this case raises fall into two parts.
+First, there is the question whether the drilling of the three wells under Bocardos land was an actionable trespass.
+Peter Smith J held that it was: [2008] EWHC 1756 (Ch); [2009] 1 All ER 517.
+His decision was affirmed by the Court of Appeal (Jacob, Aikens and Sullivan LJJ): [2009] EWCA Civ 579; [2009] 3 WLR 1010; [2010] Ch 100.
+Secondly, if there was an actionable trespass, there is the question what is the correct measure of damages.
+The measure that was adopted by the trial judge was rejected by the Court of Appeal, which made a very substantial reduction in the award of damages.
+Bocardo appeal to this court on the damages issue, and the respondents cross appeal on the issue of trespass.
+(a) Trespass
+On 21 July 2006 Bocardo commenced proceedings against the respondents for trespass.
+The question which this issue raises is whether an oil company which has been granted a licence to search, bore for and get petroleum in the licensed area which is beneath land belonging to another, and drills wells at depth beneath that land in order to recover petroleum from within the licensed area without obtaining the landholders agreement or an ancillary right under the Mines (Working Facilities and Support) Act 1966 to do so, is committing a trespass.
+The respondents accept that, if a trespass was committed by drilling the wells in the first place, it will have continued until now.
+In the Court of Appeal Aikens LJ said that it was logical to examine the question of whether there was a trespass as at July 2000 when, having taken account of the fact that the limitation period under section 2 of the Limitation Act 1980 for a claim in trespass is six years, the cause of action arose: [2009] 3 WLR 1010, [2010] Ch 100, para 48.
+But I agree with him that nothing turns on the precise date at which the issue is considered.
+It is common ground that a trespass occurs when there is an unjustified intrusion by one party upon land which is in the possession of another: Blackstone, Commentaries on the Laws of England, vol 3, p 209; Clerk & Lindsell on Torts, 19th ed (2006), para 19.01.
+It is common ground too that Bocardo did not, and does not, own any of the petroleum in the reservoir that is situated beneath its land.
+Nor does it possess, or have the right to possess, any of that petroleum.
+Those rights belonged to the holder of the licence granted by the Secretary of State under section 2 of the Petroleum (Production) Act 1934, Conoco (UK) Ltd. They now belong to the respondents (currently the first respondent, Star Energy Weald Basin Ltd) as the original holders assignees.
+By virtue of section 1 of the 1934 Act, which vested the property in petroleum existing in its natural condition in strata in Great Britain in the Crown, at no time did Bocardo have any right to search, bore for or get that petroleum from the reservoir beneath its land.
+Only the Crown or its licensee had the right to do so.
+The question whether the drilling of the three wells under Bocardos land, and the continued presence of the well casing and tubing within them, was an actionable trespass raises the following issues: (1) whether Bocardos title to the land extends down to the strata below the surface through which the three wells and their casing and tubing pass; (2) whether possession or a right to possession is a pre condition for bringing a claim for trespass and, if so, whether Bocardo has or is entitled to possession of the subsurface strata through which these facilities pass; (3) whether the respondents have a right under the 1934 Act (and subsequently the 1998 Act) to drill and use the three wells and their casing and tubing to extract petroleum from beneath Bocardos land which gives them a defence to a claim in trespass.
+Ownership: how far below the surface?
+There is, of course, nothing new in one person carrying out works under land whose surface is in the ownership or the possession of another.
+Operations of that kind have been familiar since at least Roman times.
+They ranged from great public works such as catacombs on the one hand to modest cellars for the storage of wine or other commodities on the other.
+What is new is the depth at which the operations that are said to constitute a trespass in this case have been carried out.
+The advance of modern technology has led to the discovery of things below the surface, and the desire to obtain access to and remove them, that were unimaginable when the depths to which people could go were limited by what manual labour could achieve.
+Bocardos case is that it is trite law that a conveyance of land includes the surface and everything below it, unless there have been exceptions from the grant such as commonly occurs in the case of minerals.
+The respondents do not dispute this proposition as a general rule that applies where the rights of the surface owner are interfered with.
+But they maintain that it does not extend to the depth at which the operations were and are being carried out in this case.
+The minimum depth was 800 feet, while for the most part the depths were greatly in excess of this.
+Mr Driscoll QC for the respondents said that he accepted that in law the surface owner owned the substrata to some depth, but not that far.
+He submitted that the wells and their tubes and casing did not interfere with or enter upon land in any meaningful way at all.
+Moreover the right to search, bore for and get the petroleum was vested in the Crown.
+Bocardo did not own, and had no right to possess, the petroleum.
+It has often been said that prima facie the owner of the surface is entitled to the surface itself and everything below it down to the centre of the earth: see, for example, Rowbotham v Wilson (1860) 8 HL Cas 348, 360, per Lord Wensleydale; Bowser v Maclean (1860) 2 De G F & J 415, 419, per Lord Campbell LC; Pountney v Clayton (1883) 11 QBD 820, 838, per Bowen LJ; Elwes v Brigg Gas Co (1886) 33 Ch D 562, 568, per Chitty J; and National Carriers Ltd v Panalpina (Northern) Ltd [1981] AC 675, 708, per Lord Russell of Killowen.
+The proposition that prima facie everything below the surface belongs to the surface owner is often linked to the proposition that everything above it belongs to him too: everything up to the sky, as Sir William James VC put it in Corbett v Hill (1870) LR 9 R 671, 673, or everything under the sky in the words of Bowen LJ in Pountney v Clayton.
+In Mitchell v Mosley [1914] 1 Ch 438, 450, Cozens Hardy MR said that the grant of the land includes the surface and all that is supra houses, trees and the like and everything that is infra mines, earth and clay, etc.
+Agreeing with him, Swinfen Eady and Phillimore LJJ said that this was a recognised rule of law.
+Plainly, the source for these remarks was the well known Latin brocard cuius est solum, eius est usque ad coelum et ad inferos.
+The soundness of this brocard as a proposition of law was questioned in Commissioner for Railways v Valuer General [1974] AC 325.
+The subject of the appeal was a property in the centre of Sydney beneath which there had been extensive excavations to a depth of 40 feet or more.
+The question was how the property was to be valued for rating purposes.
+The statute proceeded on the basis that it was a parcel of land that had to be valued.
+The Commissioner said that this meant land defined only by vertical boundaries land usque ad coelum et ad inferos, in other words.
+The Valuer General said that it was only possible to value as land that which had a recognisable connection with the surface.
+Otherwise it had to be valued as stratum, to which special provisions applied.
+As Lord Wilberforce explained at p 351, the question that the Valuer Generals argument gave rise to was whether there was a complete dichotomy between land and strata beneath it and, if so, what that dichotomy was.
+The statutory definition did not answer the question how, in the context of the legislation, layers defined by horizontal boundaries were to be treated.
+It is in relation to this question, he said, that the Latin tag usque ad coelum et ad inferos has been introduced and given a prominent place in the argument.
+Lord Wilberforce did not think much of the brocard, or tag as he called it.
+As he explained at p 351: It is well known that this brocard cannot be traced in the Digest or elsewhere in Roman Law.
+The first recognised appearance is in the 13th century gloss of the Bolognese Accursius upon Digest VIII.2.1.
+It appears there in the form cuius est solum eius esse debet usque ad coelum (cf in the law of Scotland Stairs Institutions II.7.7).
+In the form of a maxim, it only has authority at common law in so far as it has been adopted by decisions, or equivalent authority.
+The earliest recognition appears to be recorded in Bury v Pope (1587) Cro.
+Eliz 118 where reference is made to its use Temp.
+Ed I in the form cuius est solum, eius est summitas usque ad coelum, but the context of this statement in the reign of Edward I has not been identified.
+Then, after referring to Coke Litt. 4a, which he said contained an uncritical adoption of the maxim, and to Blackstone, Commentaries II, 21st ed (1844) c2, p 18 who followed Coke, he said: There are a number of examples of its use in judgments of the 19th century, by which time mineral values had drawn attention to downwards extent as well as, or more than, extent upwards.
+But its use, whether with reference to mineral rights, or trespass in the air space by projections, animals or wires, is imprecise and it is mainly serviceable as dispensing with analysis: cf Pickering v Rudd (1815) 4 Camp 219 and Ellis v Loftus Iron Co (1874) LR 10 CP 10.
+In none of these cases is there an authoritative pronouncement that land means the whole of the space from the centre of the earth to the heavens: so sweeping, unscientific and unpractical a doctrine is unlikely to appeal to the common law mind.
+At most the maxim is used as a statement, imprecise enough, of the extent of the rights, prima facie, of owners of land: Bowen LJ was concerned with these rights when, in a case dealing with rights of support, he said: Prima facie the owner of the land has everything under the sky down to the centre of
+the earth: Pountney v Clayton (1883) 11 QBD 820, 838
+In the Court of Appeal Aikens LJ, referring to Lord Wilberforces remarks in Commissioner for Railways v Valuer General, said that he had no doubt that Accursiuss maxim or brocard was not part of English law: [2009] 3WLR 1010, [2010] Ch 100, para 59.
+Asking himself what the general rule is at common law about the ownership of the substrata below the surface of land, he said that he found it in Mitchell v Mosley [1914] 1 Ch 438, but shorn of its references to Accursiuss maxim.
+In short, he said, the registered freehold proprietor of the surface will also be the owner of the strata beneath the surface of his land, including the whole minerals, unless there has been some express or implied alienation of the whole or a particular part of the strata to another.
+In his view, at para 60, Bocardos title certainly extended to the strata (other than the petroleum) to be found at the depth of the wells up to 2,800 feet below the surface of the Oxted Estate.
+Precisely how much further into the earths crust that ownership might go was a question that he did not need to decide.
+But if it carried to the centre of the earth landowners, he said, all have a lot of neighbours.
+I think, with respect, that Aikens LJ was perhaps a little too hasty in asserting that the brocard is not part of English law.
+It is true that Lord Wilberforce appears to have had little enthusiasm for it.
+He regarded it as an excuse for dispensing with analysis.
+But those remarks were made in a case where the question was what was meant by the word land in the statute.
+He seems to have been prepared to accept it as having some relevance as a statement, imprecise though it is, of the rights, prima facie, of owners of land: see his reference to Bowen LJs observation in Pountney v Clayton (1883) 11 QBD 820, 838.
+Furthermore, although Aikens LJ adopted what Cozens Hardy MR said in Mitchell v Mosley [1914] 1 Ch 438, 450 as an accurate statement of the law if shorn of his references to Accursiuss maxim, it must be acknowledged that it was by reference to that maxim that Cozens Hardy MR said what he did.
+As Lord Wilberforce pointed out, the maxim only has authority at common law in so far as it has been adopted by decisions, or equivalent authority.
+I am inclined to think that the observations by the Court of Appeal in Mitchell v Mosley, seen against the background of various dicta in the 19th Century cases including Pountney v Clayton, measure up to that requirement.
+In the present context, therefore, I believe that the brocard does have something to offer us.
+The particular relevance of the brocard to the dispute in this case is that, taken literally, it answers Mr Driscolls point that the wells in question were too deep for the landowners interest in his land to be affected.
+If the brocard is accepted as a sound guide to what the law is, there is no stopping point.
+This makes it unnecessary to speculate as to how it can be applied in practice as one gets close to the earths centre.
+The depths to which the wells in question were drilled in this case do not get anywhere near to approaching the point of absurdity.
+The fact that there were substances at that depth which can be reached and got by human activity is sufficient to raise the question as to who, if anybody, is the owner of the strata where they are to be found.
+The Crown has asserted ownership of the petroleum, but it does not assert ownership of the strata that surround it.
+The only plausible candidate is the registered owner of the land above, which is exactly what the brocard itself indicates.
+Mr Driscoll was unable to point to any contrary authority.
+It is perhaps worth looking more closely at the words used by the glossator.
+The earliest source that we have for them is the Glossa Ordinaria which was compiled by Accursius, a professor at the University of Bologna, in the 13th century.
+He set for himself the task of collecting and arranging a vast number of annotations to the Digest that had been made by his predecessors in one great work.
+He supplemented these with annotations of his own.
+For the most part at least, the authors of these annotations are not identified.
+The gloss that led to the brocard with which we are all familiar is not attributed to anybody.
+We have no means of knowing when it was first written down.
+Francis Lyall, The maxim cuius est solum in Scots Law [1978] JR 147, 148, observed that the history of its development is obscure.
+It may have been one of Accursiuss own annotations, but it seems just as likely that it was much older.
+All we can say with confidence is that it was not part of Roman law but that it had been recognised by 1250 when the Glossa Ordinaria was completed.
+The wording of the gloss itself is instructive.
+Paulus, speaking of urban praedial servitudes, is quoted in the Digest, 8.2.1.pr, as follows: Si intercedat solum publicum vel via publica, neque itineris actusve, neque altius tollendi servitutes impedit; sed immitendi protegendi prohibendi item fluminum et stillicidiorum servitutem impedit: quia coelum quod supra id solum intercedit, liberum esse debet.
+The words quia coelum are then glossed in this way: Quia coelum. Nota.
+Cujus est solum ejus debet esse usque ad coelum.
+Lyall says that in later editions of the Glossa Ordinaria this gloss itself is noted with the comment: cujus solum, ejus coelum: [1978] JR 147, 148.
+I think that it is significant that the glossator took as his starting point the rule that applied to the underlying strata and then applied it to what took place above the surface.
+The context for the annotation was the proposition that, while the owner may erect structures as high as he likes on the solum of land in his ownership, his freedom to do so is restricted by the praedial servitude non altius tollendi which protects his neighbours right to light and prospect.
+The owner of the dominant tenement is entitled to insist that there should be no interference with the sky over his land.
+The assumption appears to have been that it was generally understood that the ownership of land carried with it the right to everything that lay below the surface.
+The point that the glossator was making, as an explanation for the praedial servitude, was that the existing rule as to what lay below (cuius est solum) should be (debet esse) applied to the air space above it.
+The rule that applied to the underlying strata appears to have been of greater antiquity.
+The problems that a rule in these terms might give rise to as mans understanding of the earths structure improved, airspace began to be used for the passage of aircraft and means were developed to penetrate deep below the surface were not, of course, obvious in the 13th century.
+But the simple notion that each landowner is the proprietor of a column or cylinder of land that stretches down to the centre of the earth and upwards indefinitely into outer space is plainly no longer tenable.
+The earth is not flat, as the glossator may have supposed.
+A greater understanding of geology has taught us that most of the earths interior, due to extremes of pressure and temperature, is a complex and inhospitable structure that is beyond mans capacity to enter or make use of.
+It has been observed that anything that is drilled below a depth of about 8.7 miles or 14 kilometres would be crushed by the earths pressure of 50,000 pounds per square inch and vaporised by a temperature of 1,000 degrees Fahrenheit: see John G Sprankling, Owning the Center of the Earth, (2008) 55 UCLA L Rev 979, 993, fn 84.
+As Sprankling explains at p 994, productive human activity is possible only within the shallowest portion of the earths crust, and humans have never penetrated below it.
+As for that portion of it, the development of heat mining and carbon capture, storage and sequestration technologies to reduce greenhouse gas emissions, which he discusses at pp 1030 1032, would be difficult to achieve if the subsurface within which it is sought to carry out these activities in the public interest were to be broken up into columns of rock owned by the surface owners.
+As for the position above the surface, the development of powered flight has made it impossible to apply the brocard usque ad coelum literally.
+In Bernstein of Leigh (Baron) v Skyviews & General Ltd [1978] QB 479 Baron Bernstein failed in his claim that the defendants, who had flown over his land to take an aerial photograph of his property which they then offered to sell to him, were guilty of trespass.
+Griffiths J noted at p 485 that the proposition that an owner has certain rights in the air space above his land was well established by authority.
+In Kelsen v Imperial Tobacco Co (of Great Britain and Northern Ireland) Ltd [1957] 2 QB 334, for example, a mandatory injunction was granted ordering the defendants to remove a sign which projected 8 inches over the plaintiffs property on the ground that, applying the brocard, this was a trespass.
+Griffiths J was willing to accept, as a sound and practical rule, that any incursion into air space at a height which may interfere with the ordinary user of land was a trespass.
+But he said that wholly different considerations arise when considering the passage of aircraft at a height which in no way affects the user of the land.
+In his judgment, at p 488, the balance was best struck by restricting the rights of the owner to such height as necessary for the ordinary use and enjoyment of his land and the structures upon it, and declaring that above that height he has no greater rights in the air space than any other member of the public.
+The respondents say that this analysis should be applied to subsurface ownership too.
+They submit that a sensible and pragmatic solution would be for each surface owner to own directly down beneath the boundaries of his land as far down as is necessary for the use and enjoyment of the surface, the buildings on the surface and any minerals which have not been excluded from his ownership by conveyance, common law or statute which lie beneath it.
+Mr Driscoll was unable to point to any English authority that provided direct support for this approach to the position beneath the surface.
+But there is some support for it in the United States.
+In Boehringer v Montalto 142 Misc 560 (1931) the New York Supreme Court held that a sewer laid 150 feet below the surface was not included in the surface owners title.
+The judge said that title above the surface was now limited to the extent to which the owner of the soil might reasonably make use of it, and that by analogy his title was not to be extended to a depth below ground beyond which the owner might reasonably make use of it.
+In US v Causby 328 US 256 (1946) the US Supreme Court held that there was a taking of the respondents property within the meaning of the Fifth Amendment by frequent and regular flights of army and navy aircraft over their land at low altitudes.
+But in para 3, at p 261, of the courts opinion Douglas J said that the doctrine expressed in the brocard has no place in the modern world: The air is a public highway, as Congress has declared.
+Were that not true, every transcontinental flight would subject the operator to countless trespass suits.
+Common sense revolts at the idea.
+To recognise such private claims to the airspace would clog these highways, seriously interfere with their control and development in the public interest, and transfer into private ownership that to which only the public has a just claim.
+That was a case about limitations on the absolute rights of surface owners above the surface, as was Willoughby Hills v Corrigan 278 NE2d 658, 664 (Ohio 1972) in which the court said that the doctrine of the common law that the ownership of land extends to the periphery of the universe has no place in the modern world.
+But in Chance v BP Chemicals Inc 670 NE2d 985 (Ohio 1996) the Supreme Court of Ohio took the same approach to subsurface ownership rights.
+In para 8, at p 992, of the courts opinion the judge said: we do not accept the appellants assertion of absolute ownership of everything below the surface of their property.
+Just as a property owner must accept some limitations on the ownership rights extending above the surface of the property, we find that there are also limitations on property owners subsurface rights.
+We therefore extend the reasoning of Willoughby Hills, that absolute ownership of air rights is a doctrine which has no place in the modern world, to apply as well to ownership of subsurface rights.
+The court held that some type of physical damage or interference with the use of the land must be shown for the owner to recover for a trespass and that the use of lateral migration of injection technology to dispose of refining by products below the surface did not meet this test.
+Sprankling, Owning the Center of the Earth, (2008) 55 UCLA L Rev 979, 991 992, points out however that most modern US legal texts continue to endorse the centre of the earth theory and that almost all modern cases continue to embrace it too: see, for example, Kankakee County Board of Review v Property Tax Appeal Board 871 NE2d 38 (Illinois 2007) and Orr v Mortvedt 735 NW2d 610 (Iowa 2007).
+Addressing himself to the question, how far below the earths surface do property rights extend, he asserts at p 1033 that the surface owner should certainly hold property rights to a portion of the subsurface.
+After exploring four alternative models ownership of the entire crust, ownership based on first in time exploitative use, ownership for reasonable and foreseeable uses and ownership to a specified depth he comes down in favour of a specified depth such as 1000 feet, but he acknowledges that reasonable minds may differ as to the appropriate extent.
+The goal of his article, he said, was to ignite that debate, not to extinguish it: p 1039.
+Spranklings article suggests that the debate as to the extent of subsurface rights remains alive in the United States.
+In Canada, Griffiths Js approach in Bernstein of Leigh (Baron) v Skyviews & General Ltd [1978] QB 479 to the right to use air space above the land was described by the Alberta Court of Appeal as most persuasive in Didow v Alberta Power Ltd [1988] 5 WWR 606, 613.
+But we were not referred to any Canadian or Australian authority that extends that approach to ownership below the surface.
+In Todd, The Law of Torts in New Zealand (5th ed, 2009), p 426, it is stated that it appears to be generally accepted that any intrusion into the subsoil beneath the owners land will constitute trespass, and that there appears to be no case in the Commonwealth where a plaintiff has failed on the basis that the area of subsoil invaded was so deep that the surface occupiers possessory rights did not extend that far.
+In a footnote to that passage, in which Spranklings article is referred to, the editors note that American authority points both ways: see fn 22.
+Coming closer to home, Dr Jean Howell, Subterranean Land law: Rights below the Surface of Land, (2002) 53 Northern Ireland Legal Quarterly 268, 270 acknowledges that it might be argued that the same test as that which Griffiths J applied in Bernstein of Leigh (Baron) v Skyviews & General Ltd [1978] QB 479 should be used for land below the surface.
+But, as she also notes, it was implicit in that case that even above the notional height at which the land owners usable rights stop, there is not a free for all in the airspace above.
+To characterise the surface owners rights as following technological advances as to the depth at which land can be exploited, she says, would offend against all notions of property whose defining quality in land is certainty.
+She concludes, at p 285, that any intrusion into land which is not sanctioned by some countervailing property right will be a trespass and that, although the surface owner will not usually wish to or be able to utilise the ground below the surface, he has rights in the land which could be valuable.
+In my opinion the brocard still has value in English law as encapsulating, in simple language, a proposition of law which has commanded general acceptance.
+It is an imperfect guide, as it has ceased to apply to the use of airspace above a height which may interfere with the ordinary user of land: Bernstein of Leigh (Baron) v Skyviews & General Ltd [1978] QB 479.
+The position in Scotland may be different: see Stair Memorial Encyclopaedia, vol 19, Property, para 198, where the question is seen as relating to the extent of ownership rather than the balancing of rights in the airspace.
+But I think that the reasons for holding that the brocard has no place in the modern world as regards what goes on below the surface, even in England, are not by any means as compelling as they are in relation to the use of airspace.
+In US v Causby 328 US 256 (1946) the US Supreme Court regarded the airspace as a public highway to which only the public had a just claim.
+The same cannot be said of the strata below the surface.
+As Aikens LJ said in the Court of Appeal, it is not helpful to try to make analogies between the rights of an owner of land with regard to the airspace above it and his rights with regard to the strata beneath the surface: [2009] 3 WLR 1010, [2010] Ch 100, para 61.
+Although modern technology has found new ways of making use of it in the public interest, there is no question of it having become a public highway.
+The test applied in Chance v BP Chemicals Inc 670 NE2d 985, that some type of physical damage or interference with the use of the land must be shown, would lead to much uncertainty.
+It overlooks the point that, at least so far as corporeal elements such as land and the strata beneath it are concerned, the question is essentially one about ownership.
+As a general rule anything that can be touched or worked must be taken to belong to someone.
+The better view, as the Court of Appeal recognised [2009] 3 WLR 1010, [2010] Ch 100, para 59, is to hold that the owner of the surface is the owner of the strata beneath it, including the minerals that are to be found there, unless there has been an alienation of them by a conveyance, at common law or by statute to someone else.
+That was the view which the Court of Appeal took in Mitchell v Mosley [1914] 1 Ch 438.
+Much has happened since then, as the use of technology has penetrated deeper and deeper into the earths surface.
+But I see no reason why its view should not still be regarded as good law.
+There must obviously be some stopping point, as one reaches the point at which physical features such as pressure and temperature render the concept of the strata belonging to anybody so absurd as to be not worth arguing about.
+But the wells that are at issue in this case, extending from about 800 feet to 2,800 feet below the surface, are far from being so deep as to reach the point of absurdity.
+Indeed the fact that the strata can be worked upon at those depths points to the opposite conclusion.
+I would hold therefore that the appellants title extends down to the strata
+through which the three wells and their casing and tubing pass.
+Possession
+The next question is whether possession or a right to possession is a pre condition for bringing a claim in trespass.
+The respondents maintain that possession, not ownership, is essential and that the claim should fail because the appellant is not in possession of the substrata where the wells entered the substrata at least 800 feet below the surface of its land.
+In Powell v McFarlane (1977) 38 P & CR 452, 470 Slade J said: In the absence of evidence to the contrary, the owner of land with the paper title is deemed to be in possession of the land, as being the person with the prima facie right to possession.
+The law will thus, without reluctance, ascribe possession either to the paper owner or to persons who can establish a title as claiming through the paper owner.
+In Pye (JA) (Oxford) Ltd v Graham [2003] UKHL 30, [2003] 1 AC 419, para 40 Lord Browne Wilkinson approved of this definition, making the point that, without the requisite intention, in law there can be no possession.
+This is highly relevant if the law is to attribute possession of land to a person who cannot establish a paper title to possession.
+But in this case the appellant has the paper title.
+That, in the absence of evidence to the contrary, is enough for it to be deemed to be in possession of the land.
+As Aikens LJ said in the Court of Appeal, it is difficult to say that the appellant has actual possession of the strata below the Oxted Estate as it has done nothing to reduce those strata into its actual possession: [2009] 3 WLR 1010, [2010] Ch 100, para 66.
+But he held that the appellant, as the paper title owner to the strata and all within it (other than any gold, silver, saltpetre, coal and petroleum which belong to the Crown at common law or by statute), has the prima facie right to possession of those strata so as to be deemed to be in factual possession of them.
+I think that he was right to conclude that this was the effect of Slade Js dictum.
+As the paper title carries with it title to the strata below the surface, the appellant must be deemed to be in possession of the subsurface strata too.
+There is no one else who is claiming to be in possession of those strata through the appellant as the paper owner.
+Does either common law or the 1934 Act provide a defence to the claim in trespass?
+There remains the question whether the respondents have a defence to the claim of trespass either under the common law or under the statute.
+I think that there is nothing in the argument that there is a defence at common law.
+It would be different, as Aikens LJ said in the Court of Appeal [2009] 3 WLR 1010, [2010] Ch 100, para 74, if the right to extract the petroleum had been granted to the respondents by the appellant.
+The principle of non derogation from grant would prevent the appellant from doing anything that would hamper the respondents use of the strata for the purpose that both parties contemplated at the time of the grant.
+But the right to search and bore for and get the petroleum was obtained by the respondents under licence from the Crown.
+I do not think that there is any common law principle that the respondents can invoke in that situation to regulate their position in relation to a landowner who was not a party to that arrangement.
+This leaves the question whether the matter can be said to have been regulated by the statute.
+Section 10(3) of the Petroleum (Production) Act 1934 (now repealed and re enacted as section 9(2) of the Petroleum Act 1998) provided: Nothing in this Act shall be construed as conferring, or as enabling the [Secretary of State] to confer, on any person, whether acting on behalf of His Majesty or not, any right which he does not enjoy apart from this Act to enter on or interfere with land.
+The respondents say that they had a right under the licence granted under section 2(1) of the 1934 Act to search and bore for and get the petroleum to penetrate the strata under Bocardos land and that as a matter of ordinary language drilling the pipelines diagonally into the substrata would not be considered as entering on it or as interfering with Bocardos use and enjoyment of it.
+They were not sunk on the surface of Bocardos land, but were justified by the statutory right to search and bore for and get the petroleum.
+Moreover there were no minerals which were capable of being enjoyed as such under the surface of Bocardos land that were entered on or interfered with.
+In the Court of Appeal Aikens LJ, albeit with some reluctance, concluded that it was impossible to say that the 1934 Act, when read with the Mines (Working Facilities and Support) Act 1923 (later replaced by the 1966 Act) and the existing common law, granted a licensee under the 1934 Act the express or implied right to bore pipelines at depth through the land of another within the licensed area in the absence of agreement or the grant of an ancillary right under those Acts: [2009] 3 WLR 1010, [2010] Ch 100, paras 80 83.
+His reasoning was based in part on the wording of section 10(3) itself.
+In his opinion the words enter on land were intentionally general and broad enough to include entering land beneath the surface.
+It was also based on the provisions of section 3(1) of that Act read with section 3(2)(b) of the 1923 Act.
+The opening words of section 3(1) of the 1934 Act provided that the 1923 Act was to apply for the purpose of enabling a person holding a licence under this Act to acquire such ancillary rights as may be required for the exercise of the rights granted by the licence, and shall have effect accordingly.
+Section 3(2)(b) of the 1923 Act provided that the expression ancillary right in relation to minerals was to include a right of air way, shaft way or surface or underground wayleave.
+The word wayleave, he said, was broad enough to encompass a right to bore a pipe through strata as well as create and use a passage to get to and carry minerals such as coal.
+The wording of section 10(3) indicated that the licensee could continue to enjoy such rights as he already has to enter on or interfere with land, but that it was not within the power of the Secretary of State to confer on him any other right to do so.
+Despite Mr Driscolls submissions to the contrary, I have not been able to detect any flaw in this reasoning.
+The subsurface strata through which the wells and pipelines were sunk is Bocardos land.
+There is nothing in section 10(3) or the context in which it was enacted that restricts the reference to land in that subsection to things that happen only on the surface.
+In the context of a statute which is concerned with the right to search for and bore for and get petroleum existing in its natural condition in strata below ground, the words enter on in that subsection are apt to apply to underground workings as well as workings on the surface itself.
+The words interfere with are not restricted, as was suggested, to interfering with the owners use and enjoyment of the land for the time being.
+The owner of the subsurface is entitled to say that his land is being interfered with when it is bored into by someone else.
+His right to object is inherent in his right of ownership of the land.
+It is nothing to the point that he is not making any use of it.
+The fact that an underground wayleave is included in the ancillary rights referred to in section 3(2)(b) of the 1923 Act reinforces the conclusion that is to be drawn from the provisions of the 1934 Act that a licensee who does not already enjoy a right to enter upon someone elses land needs to acquire an ancillary right from the owner of that land if he wishes to do this.
+For all these reasons I would hold, in agreement with the Court of Appeal, that the respondents have trespassed on Bocardos land and that, subject to their submissions as to the amount of the damages, they have no defence to Bocardos claim.
+I would dismiss the cross appeal.
+(b) Damages
+The parties are agreed that, if damages are to be assessed on a wayleave or user basis, their measure is the price that reasonable persons in the position of the parties would have negotiated for a grant of a contractual right for the licensee to extract the oil through the sub strata below the Oxted Estate using wells PW5, PW8 and PW9: Statement of Facts and Issues, Principal Issue 2, para 2(a).
+It is also agreed that, in assessing the price that reasonable parties would have negotiated, the negotiation must be assumed to have taken place against the relevant statutory background, which at the relevant date would have included the Petroleum (Production) Act 1934 and the Mines (Working Facilities and Support) Act 1966.
+I gratefully adopt Lord Clarkes description of the general background and the statutory framework.
+Section 8(2) of the 1966 Act provides that the compensation or consideration is to be assessed on the basis of what would be fair and reasonable between a willing grantor and a willing grantee, having regard to the conditions subject to which the right is, or is to be, granted.
+The word consideration is included in this subsection because the rights that may be granted under section 1 of the Act include the right to search for, work and take away minerals such as coal.
+In the present case, however, the relevant word is compensation.
+This is because the transaction which is in issue is the acquisition of the right to sink the wells under Bocardos land which, as Lord Brown says in para 62, Bocardo had no option but to allow the respondents to do.
+Had it refused to grant them a wayleave, the respondents would have been able to go to the court for an order granting them the necessary ancillary rights under section 3(2)(d) of the 1966 Act.
+I agree with Lord Walker, Lord Brown and Lord Collins, for the reasons they give, that this must be taken to be a case of compulsory acquisition.
+So the general principles of compulsory acquisition law must be applied, including the value to owner principle and the no scheme rule in particular: see Lord Collins, paras 101 and 102.
+Accordingly, an increase in value which is consequent on the scheme for which the land is being acquired must be disregarded.
+The basis on which compensation is awarded is the value of the land to the owner, not its value when taken by the promoter of the scheme.
+But if the land has a special value because it is the key to the development of other land, that will represent part of its value to the owner which may be taken into account in the assessment of compensation in just the same way as it would if the owner was negotiating to realise its value in the open market: Waters v Welsh Development Agency [2004] UKHL 19, [2004] 1 WLR 1304, paras 64 65 per Lord Nicholls of Birkenhead.
+It would be wrong to approach bringing this element of value into account as amounting to the exercise of a right of veto, as Harman LJ suggested in Edwards v Minister of Transport [1964] 2 QB 134, 156; see also Logan v Scottish Water [2005] CSIH 73, 2006 SC 178, para 102 where his approach was adopted.
+It is a legitimate element of the value of the land to the owner, so long as it is justified by the facts of the case.
+What then is one to make of the facts of this case? In respectful disagreement with Lord Walker, Lord Brown and Lord Collins, I would not attribute the key value of Bocardos land in the hypothetical negotiation that must be imagined entirely to the scheme underlying the acquisition by the respondents of the right to obtain access to the petroleum.
+It seems to me that the key to its value lies in the geographical position which it occupies on top of the apex to the reservoir.
+It is, of course, clear that after the coming into force of the 1934 Act only the Crown or someone holding a licence from the Crown had the right to search, bore for and get the petroleum.
+The market that has to be envisaged was therefore a limited one.
+There could be only one licence holder at any one time.
+But this does not mean that the respondents must be taken to be the only possible bidder in the hypothetical market for the right to obtain access to the apex of the reservoir.
+The scheme which the respondents devised was dictated by the position of the drilling sites which they had created, but it has not been suggested that it was the only way that access could be obtained to it.
+I agree with that part of Lord Clarkes judgment in which he examines this question on the assumption that the Pointe Gourde principle applies to the assessment of compensation under section 8(2): see paras 158 163.
+Support for Lord Clarkes reasoning is to be found in the decision of the Lands Tribunal in Chapman, Lowry & Puttick Ltd v Chichester District Council (1984) 47 P & C R 674, to which Lord Clarke refers in para 161.
+Lord Walker sees that case differently: para 55.
+But I prefer Lord Clarkes interpretation of it.
+The approach which the Tribunal took was to ask itself whether the acquiring authoritys need for the strip of waste land as access for the land which it owned to the rear was special or peculiar to the authority itself.
+This question could not be determined unless the needs of other possible owners of the rear land were considered and taken into account.
+It was reasonable to assume that such hypothetical owner or developer could expect to receive precisely the same planning permission for precisely the same residential development as that obtained by the acquiring authority and subject to the same constraints in relation to the highway.
+From this it followed that any owner of the rear land would have precisely the same need for the waste strip as had the acquiring authority: pp 679 680.
+I think that exactly the same points can be made in this case.
+Anyone who had obtained a licence to search, bore for and get the petroleum under Bocardos land would have had precisely the same need to obtain a wayleave to obtain access to it if it was not to commit a trespass.
+So it was not the respondents scheme that gave the relevant strata beneath Bocardos land its peculiar and unusual value.
+It was the geographical position that its land occupies above the apex of the reservoir, coupled with the fact that it was only by drilling through Bocardos land that any licence holder could obtain access to that part of the reservoir that gives it its key value.
+I agree with Lord Clarke that this case is on the side of the line identified by Mann LJ in Batchelor v Kent County Council (1989) 59 P & CR 357, 361 in which the land has a key value which was pre existent to the scheme proposed by the respondents for their development.
+I do not think that it would be right to take into account what Viscount Hailsham said during the Second Reading of the Bill which became the 1934 Act as reported in Hansard (HL Debates), 19 April 1934, cols 691 692.
+What he said does not fall within the limited exception to the general rule that resort to Hansard is inadmissible which was recognised in Pepper v Hart [1993] AC 593.
+This is available to prevent the executive seeking to place a meaning on words used in legislation which is different from that which ministers attributed to those words when promoting legislation in Parliament; see R v Secretary of State for the Environment, Transport and the Regions, Ex parte Spath Holme Ltd [2001] 2 AC 349, 407 408.
+Viscount Hailsham was the Secretary of State for War, but he was not the promoter of the Bill.
+That task was being undertaken by the Secretary of State for Air, the Marquess of Londonderry, in whose support Viscount Hailsham spoke when the Bill was being debated.
+Moreover this is not a case where the executive is seeking to put a different meaning on words used in the 1934 Act from that which the Minister attributed to those words when promoting the Bill.
+Nor do I find clear and convincing support in the wording of the 1934 Act for the argument that all that was to be compensated for was the amenity value of the land.
+The 10% uplift in the compensation provided for by section 3(2)(b) of the 1934 Act as an allowance on account of the acquisition being compulsory appears to me to be a neutral factor, for the reasons that Lord Clarke gives in para 142.
+On all the remaining issues, including the way the amount of the damages ought to have been quantified, I agree with Lord Clarke.
+I think that the trial judge went too far in applying his figure of 9% to all the oil extracted or to be extracted during the period covered by his award until the oil and gas extraction was exhausted.
+In my opinion the sum of 621,180 plus interest that he awarded as damages was excessive, as it was not restricted to the amount that was attributable to the key value of the land.
+I would not be averse to using his figure of 9%, so long as it was applied only to the extra amount of oil and gas that was obtained by drilling into the apex of the reservoir.
+If this had been a live issue it would have been necessary to remit the case to the High Court so that it could assess the amount of the extra value and complete the exercise of calculating, on this much more limited basis, the amount of the damages.
+Having dismissed the cross appeal on the trespass issue, I would allow the appeal and remit the issue of damages to the High Court.
+LORD WALKER
+I agree with the judgment of Lord Hope on the trespass issue and with that of Lord Brown on the damages issue.
+What follows should be read as no more than footnotes to Lord Browns judgment.
+It is common ground (see para 2.2 of the Statement of Issues) that if damages are to be assessed on a wayleave basis, the measure of damages is the price that reasonable persons in the position of the parties would have negotiated for a grant of the appropriate contractual rights, against the statutory background of the Petroleum (Production) Act 1934 and the Mines (Working Facilities and Support) Act 1966.
+I am inclined to think that that starting point might have been open to argument, on the lines indicated in the comprehensive and scholarly judgment of Warren J in Field Common Ltd v Elmbridge Borough Council [2008] EWHC 2079 (Ch) [2009] 1 P & CR1, paras 55 99.
+But I put that aside.
+The starting point, therefore, is (in the words of section 8(2) of the 1966 Act): What would be fair and reasonable between a willing grantor and a willing grantee, having regard to the conditions subject to which the right is or is to be granted.
+The statute requires the adjudicator to predict the outcome of a hypothetical negotiation, between willing negotiators, which reaches a concluded agreement.
+In my opinion this statute (in conjunction with section 3 of the 1934 Act) is plainly concerned with compulsory acquisition of rights in or over land.
+Indeed section 3(2) of the 1934 Act (requiring an uplift of at least 10%) says as much.
+I cannot accept the appellants submission that there is a fundamental distinction between a statute which gives a public authority a right to acquire property and one which regulates property rights between private parties.
+The whole law of compulsory purchase began and developed with infrastructure projects (first canals, then railways) undertaken by companies in the private sector.
+The oldest of the statutory formulae was in section 63 of the Land Clauses Consolidation Act 1845.
+It was also the simplest: .
+The value of the land to be purchased or taken by the promoters . (There was also compensation for injurious affection).
+There was then a long period of judicial interpretation of this simple phrase, resulting in the firmly established value to the owner principle.
+This was explained by Lord Collins in Transport for London v Spirerose Ltd [2009] 1 WLR 1797, paras 119 129, in his exposition of the Pointe Gourde principle (see Pointe Gourde Quarrying & Transport Co Ltd v Sub Intendent of Crown Lands [1947] AC 565).
+It is a principle of statutory construction, and in the Transport for London case I suggested (at para 24) that the principles vigour is now channelled and restrained by a much more complex statutory scheme (especially sections 14 17 of and Schedule 1 to the Land Compensation Act 1961).
+One way of looking at the principle is to see it as an answer (at least in part) to the question: in the hypothetical negotiation called for by the statute, how far are the actual purpose and circumstances of the compulsory purchase to be taken into account? The principle tells us that compensation cannot include an increase in value which is entirely due to the scheme underlying the acquisition (Lord MacDermott in Pointe Gourde at p572, emphasis supplied).
+Similarly Lord Nicholls in Waters v Welsh Development Agency [2004] 1 WLR 1304, para 18 referred to the disregard of enhancement in the value of land attributable solely to the particular purpose for which it is being compulsorily acquired (emphasis supplied).
+This can be summarised, with some loss of precision, by saying that the hypothetical negotiation takes place in a no scheme world.
+Statutory hypotheses are notoriously troublesome.
+In East End Dwellings Co Ltd v Finsbury Borough Council [1952] AC 109 the issue was whether a hypothetically rebuilt block of flats would have been subject to the Rent Restriction Acts.
+Lord Asquith of Bishopstone said (at pp132 133, a passage that has since been cited in many different contexts), If you are bidden to treat an imaginary state of affairs as real, you must surely, unless prohibited from doing so, also imagine as real the consequences and incidents which, if the putative state of affairs had in fact existed, must inevitably have flowed from or accompanied it.
+One of these in this case is emancipation from the 1939 level of rents.
+The statute says that you must imagine a certain state of affairs; it does not say that having done so, you must cause or permit your imagination to boggle when it comes to the inevitable corollaries of that state of affairs.
+But the need for the case to go to the House of Lords suggests that there was room for argument about what were the inevitable corollaries of the hypothesis.
+There is no difficulty about extreme cases such as Stebbing v Metropolitan Board of Works (1870) LR 6 QB37, the graveyards case.
+The hypothetical sale of the graveyards was not to take place in a world in which hundreds of graves containing human remains (whose presence precluded any normal development) were to be exhumed so that a road could be built.
+The enhancement in value was entirely due to the road building scheme.
+But other cases are more difficult.
+One such case is the so called Indian case [1939] AC 302.
+It is difficult partly because of the unusual facts (the proposed anti malarial works consisted of closing unhealthy wells which supplied several different villages, and the spring was seen as a source of fresh water both for the new harbour undertaking and for the villages) and partly because of Lord Romers rather discursive discussion of an imaginary auction.
+I agree with Lord Brown that it may not be necessary, or helpful, to refer to the Indian case again.
+Another case which illustrates the tangles which hypothesis can lead to is Porter v Secretary of State for Transport [1996] 3 All ER 693, considered by Lord Collins in Transport for London at paras 115 118.
+The no scheme rule required the actual proposal for a by pass round Evesham to be disregarded, but because the town really did need a by pass somewhere, the valuation was made on the basis that a relief road would be built on another route.
+So the court posited a world in which the scheme actually proposed did not exist, but an imaginary scheme did exist.
+This convoluted approach was altered for the future by amending legislation.
+The case now before the Court is on very unusual facts, but its unusual facts do not to my mind make it more difficult.
+It is an extreme case in that Star Energys operations did not (in the words of Peter Smith J) interfere one iota with Bocardos enjoyment of its land.
+Subject to a contrary argument put forward by Bocardo, the value of the right granted to Star Energy was entirely due to the scheme, which was (as Aikens LJ said in the Court of Appeal, para 111) the exploitation of the petroleum licence in the specified area.
+The contrary argument (picking up the well known observations of Mann LJ in Batchelor v Kent County Council (1989) 59 P & CR 357, 361) is that the value was not entirely due to the scheme underlying the acquisition but was pre existent.
+It is true that the natural petroleum was pre existent.
+It had been there, no doubt, for tens of thousands of years.
+But the petroleum did not belong to Bocardo.
+It is true that Bocardo held a key (not, I think, the only possible key) to the most efficient exploitation of the petroleum by diagonal drilling to the apex of the oilfield.
+But the keys value depended entirely on the scheme, unlike a ransom strip for which there might have been a variety of possibilities of profitable realisation, some not involving compulsory purchase, as in Chapman, Lowry & Puttick Ltd v Chichester District Council (1984) 47 P & CR 674.
+For these reasons, and for the fuller reasons in the judgment of Lord Brown, I would dismiss this appeal.
+LORD BROWN
+What sum would the Court have assessed as the proper compensation to be paid by Star to secure their right to install deviated wells or pipelines beneath Bocardos land had Star sought to enforce that right pursuant to the Mines (Working Facilities and Support) Act 1966 (the 1966 Act)? Agreeing, as I do, with Lord Hopes judgment on all the issues raised by Stars cross appeal on liability, and concerned, as I am, to address only the issues arising on Bocardos appeal as to damages, that is what I regard as the ultimate question for the Courts determination.
+For this purpose I shall take as my starting point the scenario described in the next 4 paragraphs (based partly on a somewhat simplified account of the facts and partly on what I understand to be common ground between the parties as to the proper measure of damages for trespass in this particular case given that Bocardo succeed on all issues of liability).
+Pursuant to section 2 of the Petroleum (Production) Act 1934 (the 1934 Act) Star held a licence issued by the Secretary of State on behalf of the Crown giving them the exclusive right to search and bore for and get the petroleum lying underground (the property in which section 1 of the 1934 Act had vested in the Crown) in a part of Surrey including the Palmers Wood oil field.
+Under the licence Star are required to pay royalties to the Crown equal to 5% of the market value of the petroleum won (potentially rising, depending upon the amount won, to 12.5%).
+The apex of this oil field lies at a depth of some 2,800 ft below ground within the Oxted Estate, land in Bocardos freehold ownership.
+To win the petroleum, Star needed to drill and install three pipelines, two (PW5 and PW8) down towards the apex, one (PW9) so as to inject water into a different part of the oil field (not within the Oxted Estate) to maximise petroleum recovery.
+These three pipelines were drilled diagonally from a site (known as the Coney Hill well head) outside Bocardos Oxted Estate: PW5 entering the estate at about 1300 ft below ground level, running for about 500m and terminating at about 2,900 ft below; PW8 entering at about 800 ft below, running for about 700m and terminating at about 2,800 ft below; PW9 entering at about 950 ft below, crossing a corner of the estate and exiting deeper still after about 250m.
+The pipelines are variously of 8 inches and 12 inches diameter and lined with steel casing.
+Their drilling and installation occasioned no harm whatsoever to the estate.
+It did not interfere with Bocardos use or enjoyment of its land one iota.
+Pursuant to section 3 of the 1934 Act, Part I of the Mines (Working Facilities and Support) Act 1923 (the 1923 Act) applied and, upon the replacement of the 1923 Act as amended by the 1966 Act, the 1966 Act applied to enable Star as licence holder to acquire such ancillary rights as they required in order to win the petroleum.
+The ancillary right which Star required was, or was akin to, that described in section 2(1)(b) of the 1966 Act, as amended by section 27 of the Petroleum Act 1987, as a right of . shaft way . or underground way leave, or other right for the purpose of access to or conveyance of minerals.
+Section 3(2)(d) of the 1966 Act (replacing section 4(1)(d) of the 1923 Act) provided that, had Bocardo unreasonably refused to grant Star such ancillary right or demanded unreasonable terms for its grant, Star was entitled to ask the Minister to refer the matter to the court both for it to grant the right and to assess the compensation or consideration payable for it under section 8(2) of the 1966 Act (section 9(2) of the 1923 Act).
+Section 8(2) provides, so far as material in the present context: The compensation or consideration in respect of any right . shall be assessed by the court on the basis of what would be fair and reasonable between a willing grantor and a willing grantee .
+By section 3(2)(b) of the 1934 Act it was provided that: in determining the amount of any compensation to be paid in respect of the grant of any right, an additional allowance of not less than 10% shall be made on account of the acquisition of the right being compulsory.
+In the light of those basic facts and those governing statutory provisions I return to the question I posed at the outset, what sum should the court have assessed as proper compensation to be paid to Bocardo for having no option but to allow Star to install their pipelines under Bocardos land?
+The answer to that question ultimately determinative of this appeal must in turn depend upon the answers to two fundamental other questions.
+First, do the principles ordinarily governing the approach to valuation in the field of compulsory land purchase apply equally to the construction and application of section 8(2) of the 1966 Act with regard to the compulsory acquisition of ancillary rights over (or, as here, under) land? Secondly, even assuming (contrary to Bocardos argument) that compulsory purchase principles do apply in this context, do they operate to deny Bocardo what would otherwise be regarded as the powerful bargaining position of a landowner able to control access to a valuable oil field partially sited beneath their land?
+Bocardos core argument is to be found in their printed case (para 48) as follows: This is a classic key case.
+The second party does not own the treasure but he does own the key to the treasure chest.
+The key has little or no intrinsic value.
+Its value is what it gives access to.
+What the owner of the key has is purely a bargaining position.
+He is in the position of the owner of land which is needed to give the access necessary for the exploitation of a valuable asset.
+Bocardo then contend (para 53) that, there being no direct comparables, in order to determine a fair and reasonable price, [i]t was accordingly necessary to approach the valuation by enquiring what would be a fair share of the spoils for the landowner to receive for granting a right of access to the oil deposit.
+It was an acceptance of essentially this argument that led Peter Smith J at first instance to assess Bocardos damages at 621,180 (being 9% of the gross revenue from the oil extracted during the relevant period up to trial) plus interest (together with 9% of all future revenue derived from the pipelines the price of suspending an injunction otherwise imposed in respect of their further use).
+The Court of Appeal by contrast held that ordinary compulsory purchase principles apply to the assessment of compensation under section 8(2) and that pursuant to these Bocardo had no key value to exploit, were suffering no loss whatever, and would be amply compensated by an award of 1,000 (to include the 10% uplift under section 3(2)(b) of the 1934 Act) in respect of both past and continuing trespass.
+I turn then to the first of the two underlying questions earlier identified: do compulsory purchase principles of valuation apply to section 8(2)? First and foremost of these principles is what is commonly known as the no scheme rule or the Pointe Gourde rule.
+This rule was stated by Lord MacDermott in Pointe Gourde Quarrying & Transport Co Ltd v Sub Intendent of Crown Lands [1947] AC 565, 572 as follows: It is well settled that compensation for the compulsory acquisition of land cannot include an increase in value which is entirely due to the scheme underlying the acquisition.
+The two most authoritative recent decisions on the proper approach to compensation for compulsory purchase are Waters v Welsh Development Agency [2004] 1 WLR 1304 (Waters) and Transport for London v Spirerose Ltd [2009] 1 WLR 1797 (Spirerose).
+Waters was concerned principally with the correct identification of the extent of the scheme whose effect in increasing the value of the land is to be disregarded; Spirerose was concerned rather with the value of the acquired lands pre existing potential for development and more particularly with whether that has to be discounted for future uncertainties.
+Whilst it is unnecessary to traverse again most of the ground covered by those cases, it is important to note, first, Lord Nicholls of Birkenheads description of the Pointe Gourde principle (at para 42 of Waters) as no more than the name given to one aspect of the long established value to the owner principle; secondly, Lord Walkers observation (at para 12 of Spirerose) that the Pointe Gourde principle is essentially concerned with statutory construction . not . with the meaning of a particular word or phrase which has appeared in a succession of statutes dealing with the same subject matter, but with the general attitude and expectation with which the Court should approach a statute dealing with compensation for the compulsory acquisition of land [operating, as it is put in Bennion, Statutory Interpretation, 5th ed (2008), p442, as a special interpretative convention]; and, thirdly, as was clearly held by the majority in Waters, that it is the Pointe Gourde principle as explained in the cases, rather than the statutory rules for assessing compensation contained in section 5 of the Land Compensation Act 1961 (rules originally enacted in section 2 of the Acquisition of Land (Assessment of Compensation) Act 1919), which nowadays principally governs the approach to compensation in compulsory purchase cases although it nonetheless seems to me worth noting too the terms of section 5(3) of the Land Compensation Act 1961 (as amended by Schedule 15(I) of the Planning and Compensation Act 1991): The special suitability or adaptability of the land for any purpose shall not be taken into account if that purpose is a purpose to which it could be applied only in pursuance of statutory powers, or for which there is no market apart from the requirements of any authority possessing compulsory purchase powers.
+The policy underlying the principle is, of course, that identified by Lord Nicholls in Waters (para 18): When granting a power to acquire land compulsorily for a particular purpose Parliament cannot have intended thereby to increase the value of the subject land.
+Parliament cannot have intended that the acquiring authority should pay as compensation a larger amount than the owner could reasonably have obtained for his land in the absence of the power.
+For the same reason there should also be disregarded the special want of an acquiring authority for a particular site which arises from the authority having been authorised to acquire it.
+As Lord Nicholls then added (para 19): This approach is encapsulated in the time hallowed pithy, if imprecise, phrase that value in this context means value to the owner, not value to the purchaser.
+Bocardo contend that section 8(2) is simply not subject to the compulsory purchase principles of valuation exemplified by the Pointe Gourde rule.
+There is no mention, either in the 1923 Act or the 1966 Act, of the statutory rules governing the approach to compensation to be found in the 1919 Act or the 1961 Act, in contrast to a number of other statutes similarly conferring compulsory powers to acquire subterranean land or rights: notably, the Channel Tunnel Act 1987, the Water Resources Act 1991, the Electricity Act 1989, the Pipelines Act 1962 and the Gas Act 1986.
+Instead there is in section 8(2) an unadorned provision for fair and reasonable compensation as between a willing grantor and a willing grantee without even an entitlement to seek the Courts assessment unless and until it is shown to be not reasonably practicable to obtain the right by private arrangement because the person with power to grant the right unreasonably refuses to grant it or demands terms which, having regard to the circumstances, are unreasonable (section 3(2)(d) of the 1966 Act).
+Accordingly, submit Bocardo, they are in no worse negotiating position under the 1966 Act than they would be at common law indeed better placed because under the Act a willing seller cannot merely hold out for a price which properly reflects the value of the right to the purchaser but can also act so as to delay the acquisition of the right and (pursuant to section 3(2)(c) of the 1934 Act) put the purchaser to considerable expense by way of irrecoverable costs.
+And, of course, the seller gets a minimum 10% uplift.
+Ably though these arguments were presented, for my part I cannot accept them.
+That the present context is one of compulsory acquisition of rights over land seems to me indisputable.
+How, indeed, could this be more clearly demonstrated than by the express requirement under section 3(2)(b) of the 1934 Act for a 10% or greater uplift in compensation on account of the acquisition of the right being compulsory? Quite why the 1923 Act (and, in turn, the 1966 Act) do not incorporate the statutory rules contained in the general land compensation legislation is unclear, but it may be because the 1923 Act (and the 1966 Act) provide not only (as is directly relevant here) for compensation for rights over land to win minerals not in the landowners ownership, but also for consideration, for example for the working of coal whereby the property in the mineral passes from the grantor to the grantee and so calls for a valuation of that property right on an ordinary commercial basis.
+For the life of me, however, I can think of no sound reason why Parliament in 1934 should have intended an ancillary right of the kind under consideration here to be valued on a different and altogether more generous basis than comparable rights acquired under general compulsory purchase powers or, indeed, under the several Acts mentioned above.
+Quite the contrary.
+A strongly arguable case in fact arises here for saying that Stars diagonal wells are actually to be regarded as pipelines within the meaning of the Pipe lines Act 1962 (in which event the ordinary approach to compensation for compulsory acquisition most obviously applies).
+Like the Court of Appeal I think it unnecessary to reach my conclusion on the argument.
+But the mere fact that it arises to my mind underlines the oddity of the proposition that an entirely different compensation requirement exists for the ancillary right here in question depending upon whether it is enforceable under the 1923/1966 legislation or under the Pipe lines Act 1962.
+It would seem to me most odd had Parliament in 1934 expropriated with no compensation whatever the property in all subterranean petroleum together with the exclusive right to search, bore for and win it, and yet at the same time intended that the landowner, beneath whose land the Crowns licence holder must necessarily bore to achieve the statutory purpose of maximising petroleum recovery in the national interest, should thereby become entitled to a fair share of the spoils as the appellants contend.
+And to my mind such a supposition becomes more bizarre still when one recognises that Parliament expressly stipulated for not less than a 10% uplift in the statutory compensation payable on account of the landowner being powerless to deny the licence holder the ancillary right he requires.
+Why would Parliament both allow him to exploit his bargaining position for all the world as if the parties negotiation was taking place in a routine commercial context beyond the reach of legislation and then add upwards of 10% simply because he cannot at the end of the day refuse to grant the ancillary right required and is unable to charge for it more than is fair and reasonable? Is the licence holder, as Peter Smith J held, really required to pay not merely a 5% (rising to 12 %) royalty to the Crown but in addition compensation amounting to a further 9% of the value of the petroleum won in order to be able to avail himself of his statutory entitlement to win the petroleum?
+This issue cannot be resolved by reference simply to the language of section 8(2): what is fair and reasonable compensation as between a willing grantor and a willing grantee must inevitably depend upon whether the willing grantee is or is not entitled in the notional negotiation between the parties to exploit the position he would be in but for the grant of compulsory purchase powers to deny the licence holder access to the petroleum he is statutorily empowered to win.
+It depends, in short, upon whether the Court construing section 8(2) should approach it with the same general attitude and expectation as ordinarily it brings to the construction of statutory provisions dealing with compensation for compulsory land acquisition.
+If so, the Pointe Gourde principle applies: the landowners compensation should not be assessed at more than he could reasonably have attained for the grant of the ancillary right had the licence holder not enjoyed a statutory power to acquire it compulsorily for a particular purpose (plus, of course, upwards of 10%).
+I recognise, of course, that the word value (which had appeared in section 63 of the Land Clauses Consolidation Act 1845) is not to be found in section 8(2).
+But, as Lord Walker observed in Spirerose (see para 12 above), the Pointe Gourde approach is not dependant on a particular word or phrase but rather on the correct approach to statutory construction in this particular context.
+If the Court is to construe section 8(2) consistently with other legislative provisions governing compulsory acquisition, it falls to be approached on the basis that what is fair and reasonable depends not on what the grantee is gaining but rather on what the grantor is losing.
+It is for this reason too that the wealth of authority concerning damages for trespass (user damages) damages measured by the benefit received by the trespasser, namely, by his use of the land, as Lord Nicholls put it in AG v Blake [2001] 1 AC 268, 278 seems to me of no assistance in the present case, Bocardo having conceded throughout that their entitlement to damages can be no more than they would have received as compensation under section 8(2).
+As already indicated, it seems clear to me that Parliament in 1934 must have intended compensation under the 1923 Act to be assessed on similar principles to the assessment of compensation under other compulsory purchase legislation (save only that there was to be added the 10% or greater uplift payable for such ancillary rights as were required to win petroleum, notwithstanding that by section 2(1) of the 1919 Act Parliament had abolished the 10% addition for compulsory purchase that had earlier characterised compensation awards).
+Were, however, Parliaments intention in 1934 to be unclear and resort to be had to the Hansard Reports of the day as Bocardo themselves pray in aid the speech of the Marquess of Londonderry, the Secretary of State for Air and the Minister promoting the Bill, in support of their contention (which indeed I accept) that section 10(3) was inserted into the Act to remove any possible doubt as to whether a licence holder wishing to enter upon or interfere with land needed to obtain an ancillary right to do so under the 1923 Act; clearly they did it could only serve to support my understanding of the position with regard to the intended basis of compensation.
+It is sufficient for this purpose to set out a passage from the speech of Viscount Hailsham, the Secretary of State for War supporting the Bill on its second reading in the House of Lords (see Hansard (HL Debates),19 April 1934, cols 691 692): Now it is said .
+You are not compensating the owners for the value of the oil which is under their land.
+It is quite true we are not.
+We are not compensating them for the value of the oil that is under their land, or, for the matter of that, for the value of oil which is under their neighbours land.
+But it is fair to remember that at this moment and that is one reason why the Bill to be introduced and passed, as we think, at this stage there is no value in the oil under their land, or under their neighbours land.
+In the three cases in which licences have been granted and are being worked [licences under the Petroleum (Production) Act 1918 pursuant to which landowners were demanding royalty payments for the right to drill for oil under their land] we have been careful to exclude those areas altogether from the provisions of the Bill, because we recognise that, in accordance with our principles it would not be right to say that, where vested interests have been created and there is a chance of land having appreciated by the possibility of oil being found there, that value should be taken away without due compensation being given.
+In the cases with which this Bill deals the rest of the country there is no value at all today in the possible oil rights, in the chances of finding oil under the soil.
+But we have been careful to provide that where in any particular place arrangements are made, or asked for, for the sinking of wells or for bore holes, or in any way interfering with the actual rights that exist, interfering with the surface rights, there shall be paid not merely full compensation in the sense of the full market value, not merely full compensation for any loss of amenity value, but in addition to that it is expressly provided in the Bill that there shall be an addition of 10% because the acquisition is a compulsory one and the owner may not necessarily desire to realise that asset.
+So that we are careful to give full compensation in every case in which any valuable right is interfered with.
+All we do is to say before there is any value established, before any vested right is created, that the oil if it exists which nobody knows shall belong to the state in future; but that any interference with the rights of property on the soil, or with the value of the property under which the oil is situated, shall be fully compensated for to the owner whose property is interfered with.
+It seems to my mind perfectly clear that the compensation and the only compensation contemplated by Parliament in enacting the 1934 Act was for any loss of amenity value consequent on interference with actual rights that exist, in particular the surface rights.
+For any such loss full compensation in the sense of the full market value was to be paid, plus 10% because the owner may not necessarily desire to realise that asset.
+Compensation was to be for interference with any valuable right.
+Landowners, however, had no right at all in the oil or in the chances of finding oil under the soil.
+It seems clear that Parliament in 1934 was not contemplating the boring of deep wells diagonally beneath land but that, had they done so, they would not have regarded that as an interference with any actual existing right or as involving any loss of amenity value or at any rate not such an interference as required more than essentially nominal compensation.
+I pass now to the second of the two fundamental questions arising: even supposing ordinary compulsory purchase principles apply to the assessment of compensation under section 8(2), can Bocardo nevertheless assert and benefit from the key value of the ancillary right which Star needed to acquire here? Bocardo submit that their control over the necessary right of passage of wells through their land is in principle indistinguishable from the ownership of a ransom strip of land giving necessary access to other land: in the latter case, without acquisition of the ransom strip, the second plot is landlocked; here, without acquisition of the required ancillary right of passage, the petroleum is earth locked.
+For my part I readily acknowledge the closeness of the parallel between the two situations.
+But to point to the parallel is by no means to answer the question arising.
+It merely invites the posing of the question in another form: suppose a 1934 Act licence holder needs to acquire a strip of wasteland to be able to exploit his statutory right to search, bore for and get petroleum, would the owner of that strip be entitled to its key value?
+said there under the heading Ransom value: It is convenient at this stage to return to Waters to see what Lord Nicholls 64 One last point should be noted before returning to the present case.
+This concerns so called ransom value or, less pejoratively, key value.
+I have already mentioned that under the value to the owner principle or the Pointe Gourde principle, whichever nomenclature is preferred, the pressing need of an acquiring authority for the subject land as part of a scheme should be disregarded when assessing its value for compensation purposes.
+The value of the land is not the price a driven buyer would be prepared to pay.
+But a strip of land may have special value if it is the key to the development of other land.
+In that event this feature of the land represents part of its value as much for purposes of compensation as on an actual sale in the open market. 65.
+The intersection of these two principles was identified neatly by Mann LJ in Batchelor v Kent County Council (1989) 59 P &CR 357, 361: If a premium value is entirely due to the scheme underlying the acquisition then it must be disregarded.
+If it was pre existent to the [scheme] it must in my judgment be regarded.
+To ignore the pre existent value would be to expropriate it without compensation and would be to contravene the fundamental principle of equivalence . 66.
+In the present case the claimants contend their land had key value because of its importance as compensatory wetlands required for completion of the Cardiff Bay barrage project.
+Whether this contention is well founded for compensation purposes depends, in accordance with the principle enunciated by Mann LJ, on the ambit of the scheme of which the subject lands acquisition was an integral part.
+In reality Bocardo are advancing here essentially the same argument as was advanced by the owners of the wetlands in Waters which I there identified (at para 153) as their second argument and (at para 156) rejected, observing that: If correct, it would emasculate the no scheme rule to the point of extinction.
+Like Lord Nicholls, I too (at para 157) cited Mann LJs judgment in Batchelor v Kent County Council and (at para 158) concluded: Assuming, however, that any premium value, or indeed any other particular value, of the land were entirely due to the scheme underlying the acquisition (or, if one prefers Lord Nicholls formulation in Director of Buildings and Lands v Shun Fung Ironworks Ltd [1995] 2 AC 111, 136, due to the very scheme of which the [acquisition] forms an integral part), then in my judgment, notwithstanding that it represents the lands unrealised potentiality . , it clearly falls to be disregarded.
+To my mind there can be no doubt as to what constitutes the scheme in the present case: the Court of Appeal (para 111) correctly identified it as: The exploitation of the petroleum licence in the specified area.
+Nor can there be any doubt that, whatever particular value existed in the ancillary right here required to facilitate that exploitation (any premium or key or ransom value), it existed exclusively (entirely or solely are other words used in this context) because of the scheme.
+But for the scheme, there was no potential use or value whatever in the right being granted.
+It thus fell to be disregarded under the Pointe Gourde principle as, indeed, to my mind, had it been a ransom strip of land, it would no less obviously have fallen to be disregarded whether under that principle or under section 5(3) of the 1961 Act: the purpose served by the suitability of such land for providing access could only have been achieved in pursuance of statutory powers, there being no market for such right of access apart from the requirements of the statutorily empowered licence holder.
+To my mind it is impossible to characterise the key value in the ancillary right being granted here as pre existent to the scheme.
+There is, of course, always the chance that a statutory body with compulsory purchase powers may need to acquire land or rights over land to accomplish a statutory purpose for which these powers have been accorded to them.
+But that does not mean that upon the materialisation of such a scheme, the key value of the land or rights which now are required is to be regarded as pre existent.
+This is well illustrated by Fletcher Moulton LJs judgment in In Re Lucas & Chesterfield Gas and Water Board [1909] 1 KB 16 where land had been compulsorily purchased for the construction of a reservoir.
+Having stated (pp29 30) the absolute rule that the landowner is only to receive compensation based upon the market value of his lands as they stood before the scheme was authorised by which they are put to public uses, the Lord Justice turned to consider the question of the special adaptability of land for purposes for which lands are required only when used for works of public utility and continued (pp30 31): Ought the owner to be entitled to higher compensation by reason of the, to him, useless peculiarities which the lands possess? No better example of the problem could be found than that which we have in the present case.
+The land in question is by its position and conformation marked out as a favourable site for an impounding reservoir to collect water for the public supply of a district.
+The peculiarities which make it suitable for that purpose add nothing to its value as agricultural or grazing land, which I will assume to be the only alternative uses.
+A public authority obtains powers to take it for a reservoir; ought it to pay any higher price than is represented by its agricultural or grazing value? Is not any price in excess of this a violation of the canon that you are only to give that which represents its worth to the seller, and that you are to disregard all questions of its worth to the buyer? The decided cases seem to me to have hit upon the correct solution of this problem.
+To my mind they lay down the principle that where the special value exists only for the particular purchaser who has obtained powers of compulsory purchase it cannot be taken into consideration in fixing the price, because to do otherwise would be to allow the existence of the scheme to enhance the value of the lands to be purchased under it.
+But when the special value exists also for other possible purchasers, so that there is, so to speak, a market, real though limited, in which that special value goes towards fixing the market price, the owner is entitled to have this element of value taken into consideration, just as he would be entitled to have the fertility or the aspect of a piece of land capable of being used for agricultural purposes.
+Towards the end of his judgment (p35) Fletcher Moulton LJ concluded: The scheme which authorises the new reservoir only entitles the owner of the land to receive as compensation the value of the land unenhanced by that scheme, and, unless its situation and peculiarities create a market for it as a reservoir site for which other possible bidders exist, I do not think that the single possible purchaser that has obtained parliamentary powers can be made to pay a price based on special suitability merely by reason of the fact that it was easy to foresee that the situation of the land would lead to compulsory powers being some day obtained to purchase it.
+Now it is perfectly true to say that subsequently, in Raja Vyricherla Narayana Gajapatiraju v Revenue Divisional Officer, Vizagapatam [1939] AC 302 (the Indian case) the Privy Council preferred the view expressed in the Lucas case by Vaughan Williams LJ (p28), namely that in assessing the award for the land the Umpire may value the possibility of the site going into the market as being required for the enlargement of the waterworks, [albeit] not on the basis of a realised possibility, or on account of the promoters having obtained from Parliament compulsory powers.
+But there are two important points to be made.
+The first is that the Indian case affords no assistance at all as to how much the acquiring authority should be regarded as willing to pay for the particular value of the land to him.
+Although the Board was critical of Rowlatt Js view in Sidney v North Eastern Ry.
+Co. [1914] 3 KB 629, 637 that the acquiring authority should pay for the lands existing use value or development potential no more than the highest price realisable from any competing prospective purchaser, there is certainly nothing to suggest that they disagreed with his view that compensation was plainly not to be assessed on the basis of the owner obtaining for himself a share in [the] value [of the land to the promoter for his scheme].
+As Lord Nicholls said in Waters (para 36) with regard to the Indian case: Potentiality is part of the market value of land and must be taken into account when assessing compensation.
+Potentiality should be valued even if the only likely purchaser is the acquiring authority itself.
+That was decided in the Indian case.
+But market value does not include enhanced value attributable solely to the particular use proposed to be made of the land under a scheme of which compulsory acquisition of the subject land is an integral part.
+This element of value is not part of market value because it is not an element the owner could have realised in the open market.
+That is the traditional view, which has long been acted upon in this country.
+In practice, it appears, a more or less token increase on what otherwise would be assessed as the lands market value tends to be made in deference to the Indian case for example, in BP Petroleum Developments Ltd v Ryder [1987] 2 EGLR 233, 248, an increase from 40 per annum per acre to 45 for the rights over the additional land sought by the special purchaser there (the increase being made for him to be certain that he will acquire the rights he seeks); and, indeed, the increase from 50 to 75 which the Court of Appeal in para 116 of the present case suggested would be made by a court assessing compensation here to account for the fact that Star, as the holder of the petroleum licence, was a special purchaser.
+The basic 50, I should note, is the standard compulsory purchase compensation paid for a deep tunnel.
+The second point to be made, to my mind more important still, is that made by Lord Nicholls in paragraph 38 of Waters: The legislation under consideration in the Indian case contained no equivalent of rule 3.
+Rule 3 is expressed in absolute terms which appear to leave no room for taking into account a potential use of the land where the acquiring authority is the only person who could turn this potentiality into an actuality.
+In this regard rule 3 is more restrictive of compensation than the value to the owner principle as clarified on this point by the decision of the Privy Council in the Indian case.
+Indeed, as Lord Nicholls had earlier noted (para 28), rule 3 in section 5 of the 1919 Act (section 5(3) of the 1961 Act see para 12 above), constituted legislative affirmation of the approach adopted on this point by Fletcher Moulton LJ in [the Lucas case] an observation reiterated by Lord Walker in Spirerose (para 18).
+In my opinion, therefore, it is now to be regarded as clearly established in English law that the Fletcher Moulton (or rule 3) approach is to apply to the assessment of compensation for compulsory purchase, whether of land or rights over land, and that this approach must be recognised as an integral part of the Pointe Gourde principle.
+I go so far as to question, therefore, whether it will be necessary, or indeed helpful, ever again to refer to the Indian case.
+Lord Clarke suggests (para 140) that, had the owners of the Oxted Estate before the 1934 Act been aware of the oilfield and its potential, the key value of their land as the necessary (or best) access route to the apex of the field would already have been apparent.
+He then asks (para 158) whether Parliament increased the key value of the land when it enacted the 1934 Act and (para 161) concluded not: the key value was not created or enhanced by the scheme or the 1934 Act because the Oxted Estate already had a key value in the market.
+To my mind, however, this approach is to overlook the true effect of the 1934 Act.
+It must be recognised that by this Act, Parliament in terms (a) vested the property in all petroleum in the Crown, (b) gave the Crown the exclusive right of searching and boring for and getting such petroleum (a right that could be licensed to others, as here to Star) and (c) enabled any licencee compulsorily to acquire any necessary ancillary right (as here to access the petroleum through Bocardos land).
+The correct analysis seems to me to be this: that by these provisions Parliament was at one and the same time extinguishing whatever pre existing key value Bocardos land might be thought to have had in the open market and creating a new world in which only the Crown and its licencees had any interest in accessing the oilfield and in which they had been empowered to do so (to turn the key if one wants to persist in the metaphor) compulsorily and thus on terms subject to the Pointe Gourde approach to compensation.
+As from 1934 all exploitation of petroleum was pursuant to the new statutory licensing scheme; all, that is, save for the petroleum won pursuant to the three licences previously granted under the 1918 Act which consistently with the first of the two paragraphs quoted above (para 76) from Viscount Hailshams speech promoting the 1934 Bill was expressly excluded from the 1934 Act Scheme (by the proviso to section 1(1)).
+As, however, the second quoted paragraph from the speech makes plain, save for those previously licensed areas, there was to be no value at all in possible oil rights or the chances of finding oil under the soil.
+The 1934 Act marked the end of key values and the payment of royalties.
+As I have sought to explain, compensation thereafter was to be paid on the usual basis in compulsory acquisition cases (with, of course, a 10% uplift).
+In summary, I reject Bocardos contentions, first, that the principles governing the approach to valuation in compulsory purchase cases have no application to the assessment of compensation under section 8(2); second, that in any event there is here no relevant scheme to be discounted under the Pointe Gourde principle; third, that Bocardos power of control over the passage by wells or pipes through their land gave a pre existing key value to the ancillary rights which Star needed to acquire from them; and, fourth, that for purely geographical reasons the land through which access was required always had potential value so long as petroleum resources lay underground.
+Each contention is in reality a re formulation of the same essential argument, namely that Bocardo are entitled to some share of the value of the petroleum being accessed through their land.
+If they are, then no doubt substantial damages such as those awarded here at first instance are appropriate (although there are detailed criticisms to be made of the precise calculation arrived at).
+If not, however, then the 1,000 awarded by the Court of Appeal can be regarded as positively generous: compensation under section 8(2) would have been assessed at no more than 82.50 including the 10% uplift.
+There is frankly no coherent basis for any intermediate award.
+As will already be apparent, the Court of Appeals approach here (following as it does Peter Gibson Js decision in very similar circumstances in BP Petroleum Developments v Ryder) is to my mind strongly to be preferred.
+I would dismiss this appeal.
+LORD COLLINS
+I agree with Lord Hopes reasons for concluding that Stars cross appeal should be dismissed, and with Lord Browns reasoning on the quantum of damages.
+The principles for the award of damages in cases such as this are fully canvassed in Pell Frishmann Engineering Ltd v Bow Valley Iran Ltd [2009] UKPC 45, [2010] Bus LR 73, per Lord Walker at [46] [54].
+It is common ground that the measure of damages is to be assessed by reference to the amount which Bocardo would have been awarded under section 8(2) of the Mines (Working Facilities and Support) Act 1966, had Star obtained an order from the court granting it the necessary ancillary rights over Bocardos land.
+The statutory scheme is simple.
+The issues would now be regulated by the Petroleum Act 1998 and the Mines (Working Facilities and Support) Act 1966, but the licence to Star in the present case was issued pursuant to the Petroleum (Production) Act 1934.
+Section 1 of the 1934 Act vested in the Crown the property in petroleum existing in its natural condition in strata in Great Britain and gave the Crown the exclusive right to search and bore for and get such petroleum.
+By section 2 the Crown had the power to grant licences to search and bore for and get petroleum.
+Star held a licence from the Crown under the 1934 Act which gave it the exclusive right to search and bore for and get the petroleum lying under (among other land) Bocardos land.
+The royalty payable by Star to the Crown is 5% of the market value of the petroleum extracted, rising, depending on the amount of petroleum, to 12.5%.
+By section 3 of the 1934 Act, Part I of the Mines (Working Facilities and Support) Act 1923 applied to enable a person holding a licence under the 1934 Act to acquire such ancillary rights as may be required for the exercise of the rights granted by the licence.
+The 1923 Act as amended was replaced by the Mines (Working Facilities and Support) Act 1966, a consolidating Act.
+By section 1 of the 1966 Act the court may confer any ancillary right on a person having the right to work minerals, who is working or desirous of working the minerals, if the right is required in order that the minerals may be properly and conveniently worked by the licensee, and the proper and efficient working of the minerals is unduly hampered by his inability or failure to obtain that right.
+Among the relevant ancillary rights are a right of . shaft way . or underground way leave, or other right for the purpose of access to or conveyance of minerals (section 2(1)(b)).
+By section 3 no such right is to be granted under section 1 unless the court is satisfied that the grant is expedient in the national interest, and it is not reasonably practicable to obtain the right by private arrangements because (among other reasons) the person with power to grant the right unreasonably refuses to grant it or demands terms which, having regard to the circumstances, are unreasonable (section 3(2)(d)).
+The licensee may then apply to the Secretary of State for Energy, who may refer the matter to the court: section 4.
+The court may grant the right and such compensation or consideration as in default of agreement may be determined by the court shall be paid or given by the applicant (section 5(1), (2)).
+By section 8(1), where a right is granted under section 1, the court may determine the amount and nature of compensation or consideration to be paid or given.
+By section 8(2): The compensation or consideration in respect of any right . shall be assessed by the court on the basis of what would be fair and
+reasonable between a willing grantor and a willing grantee
+Section 3(2)(b) of the 1934 Act provided that in determining the amount of any compensation to be paid in respect of the grant of any right, an additional allowance of not less than ten per cent. shall be made on account of the acquisition of the right being compulsory.
+Even without the express reference in section 3(2)(b) to the acquisition of the right being compulsory, there can be no doubt that this would have been a case of compulsory acquisition and that any general principles of compulsory acquisition law are applicable.
+For present purposes the most plainly relevant is the value to the owner principle, expressed in the first edition of Cripps on Compensation (1881) as follows (at 144): The basis on which all compensation for lands required or taken should be assessed, is their value to the owner, and not their value when taken to the promoters.
+The question is not, what the persons who take the land will gain by taking it; but what the person from whom it is taken will lose, by having it taken from him.
+One aspect of the value to the owner is the principle known as the Pointe Gourde rule or the no scheme rule, namely that compensation for the compulsory acquisition of land cannot include an increase in value which is entirely due to the scheme underlying the acquisition (Pointe Gourde Quarrying & Transport Co Ltd v Sub Intendent of Crown Lands [1947] AC 565, 572 (PC, per Lord McDermott), extensively discussed in Waters v Welsh Development Agency [2004] UKHL 19, [2004] 1 WLR 1304, especially at [40] et seq by Lord Nicholls and [124] et seq by Lord Brown, and in Transport for London v Spirerose Ltd [2009] UKHL 44, [2009] 1 WLR 1797, at [19] et seq by Lord Walker, and at [119] et seq by myself).
+It is not necessary to repeat what is said there, except to say that it has long been recognised that increase in value consequent upon the execution of the undertaking for or in connection with which the purchase is made must be disregarded (South Eastern Ry Co v London County Council [1915] 2 Ch 252, at 258, per Eve J).
+In this case there can be no doubt that Bocardo will have suffered no quantifiable physical loss.
+It has no property rights in the petroleum.
+The most that it can say is that the ancillary right which Star would have asked the court to value was the ransom value or key value in the hypothetical negotiation.
+Plainly a strip of land may have special value if it is the key to the development of other land, but if the premium value is entirely due to the scheme underlying the acquisition then it must be disregarded: Waters v Welsh Development Agency at [64] [65], per Lord Nicholls, approving Batchelor v Kent County Council (1989) 59 P &CR 357, 361, per Mann LJ.
+Put differently, the question in this case is whether the legislature intended the landowner, under whose land petroleum was discovered but who did not hold a licence to exploit the petroleum and in relation to whose land the licence holder needed access, to have a share in the enterprise or in the prospective value of the petroleum.
+In my judgment the whole scheme of the legislation against the background of well established principles of compensation for compulsory acquisition demonstrates that that was not the intention.
+The 10% uplift in the compensation would make no sense if the landowner were entitled to rely on the ransom value of the ancillary right.
+In Edwards v Minister of Transport [1964] 2 QB 134, 156 (applied in Logan v Scottish Water, [2005] CSIH 73, 2006 SC 178, at [102]) Harman LJ said: I do not find anywhere in the textbooks or in any of the authorities any suggestion that a kind of ransom value, to which a man having a power of veto might hold the promoting authority, was the measure of his damage; for in fact he does not have a right of veto and the question, therefore, does not really arise.
+In this case Bocardo would have had no right of veto, and is not entitled on the hypothetical valuation to compensation for a right which it would never have had.
+The true key to the oil is not Bocardos ownership of the land, but Stars licence, which gives it alone the right to bore for and produce petroleum: see Peter Gibson J in BP Petroleum Developments Ltd v Ryder [1987] 2 EGLR 233, at 247.
+I have come to this conclusion in the light of the legislation and general principles of law applicable to compulsory acquisition.
+It is true that what was said on the second reading of what became the 1934 Act (quoted by Lord Brown at [76]) supports the view that what was envisaged was loss of amenity value.
+But I prefer not to take that into account in the light of the continuing controversy over Pepper v Hart [1993] AC 593 and its limits: Kavanagh, Pepper v Hart and Matters of Constitutional Principle (2005) 121 LQR 98; Sir John Baker, Our Unwritten Constitution (2010) 167 Proceedings of the British Academy 91, 99 100.
+LORD CLARKE Introduction I.
+This appeal raises two questions of some interest and, perhaps, importance.
+The first is whether the principle sometimes known by the proposition that a landowner owns the land usque ad coelum et ad inferos is part of English law (and, if so, to what extent) and the second is the measure of damages for trespass in circumstances in which the trespasser could have sought a licence to acquire ancillary rights under section 3 of the Petroleum (Production) Act 1934 (the 1934 Act) and, if it had obtained such a licence, would have had to pay compensation under section 8(2) of the Mines (Working Facilities and Support) Act 1966 (the 1966 Act).
+In a judgment given on 24 July 2008 Peter Smith J (the judge) held that the respondents had committed a trespass and awarded the appellant damages in the sum of 621,180 plus interest.
+The Court of Appeal (Jacob, Aikens and Sullivan LJJ) reduced the damages to 1,000.
+Permission to appeal against the quantum of damages was refused by the Court of Appeal but granted by this Court.
+The respondents were subsequently granted permission to cross appeal against the finding that they were liable in trespass.
+The facts
+The appellant is and has since 1974 and 1988 been the freehold owner of Barrow Green Court and Barrow Green Farm respectively.
+They are near Oxted in Surrey and form the Oxted Estate.
+The Palmers Wood Oil Field (the Oil Field) is a naturally occurring reservoir of petroleum and petroleum gas, the north eastern part of which extends beneath the Oxted Estate.
+The remainder of the Oil Field lies under land in different ownerships.
+The respondents (Star) were successive holders of a petroleum production licence (the licence) issued by the Secretary of State for Energy on behalf of the Crown on 17 November 1980 under the 1934 Act.
+The licence granted the licensee exclusive licence and liberty to search and bore for, and get, petroleum in an area which included the Oil Field.
+The licence incorporated specified clauses of the then model clauses and required the licensee to pay royalties to the Crown as percentages of the market value of the petroleum obtained as follows: 5 per cent in respect of the first 100,000 tonnes won in any half year, 7.5 per cent of the next 50,000 tonnes, 10 per cent of the next 50,000 tonnes and 12.5 per cent of the tonnes in excess of 200,000 tonnes, all in the same half year.
+There are two drilling sites for the extraction of petroleum from the Oil Field, although we are concerned only with that at Coney Hill, which is immediately next to the Oxted Estate.
+The three wells which are the subject of this dispute are PW5, PW8 and PW9.
+They were drilled by Stars predecessors from the Coney Hill site.
+Importantly, they were not drilled vertically down from Coney Hill but diagonally so that they entered the substrata under the Oxted Estate at substantial depths beneath the surface.
+The wells were lined with steel casing with tubing inserted.
+The casing of PW5, PW8 and PW9 is of 8 inches and 12 inches in diameter.
+PW5 and PW8 begin at the Coney Hill site and then deviate, entering the substrata below the Oxted Estate at about 1,300 and 800 feet respectively below ground level and continue until termination at about 2,900 feet and 2,800 respectively below ground level.
+They run under the Oxted Estate for distances of about 0.5 and 0.7 kilometres respectively.
+Both wells are production wells to extract petroleum and petroleum gas from the reservoir which lies beneath the Oxted Estate and neighbouring lands.
+PW9 passes between the substrata beneath the Oxted Estate at about 950 feet below ground level and ends beyond it terminating at a point on the reservoir at about 1,400 feet below ground level.
+PW9 is used for injecting water into the Oil Field so as to maximise and speed recovery.
+PW5 was first drilled as an exploration well in 1986.
+PW8 and PW9 were drilled in July 1992.
+Production from PW5 began in October 1990 and from PW8 in September 1992.
+PW9 was used to inject water into the Oil Field from August 1992.
+The reason the wells were drilled diagonally under neighbouring land rather than vertically under Stars land was to maximise recovery of oil from the north eastern part of the Oil Field.
+Since oil is lighter than water, in order to maximise recovery it is necessary to drill the well into or close to the apex of the field, which lay under the Oxted Estate.
+The experts at the trial agreed that, if the wells had not been drilled under the Oxted Estate, the recovery of the petroleum from the Oil Field would not have been maximised.
+At no stage was permission sought from the appellant to drill beneath its land.
+The issues
+There are two principal issues in this appeal, namely whether the appellant is in principle entitled to recover damages in trespass and, if so, what is the measure of damages.
+Trespass
+Both the judge and the Court of Appeal held that the appellant is in principle entitled to recover damages in trespass.
+This issue has been considered in detail by Lord Hope, who has answered the question in the affirmative, as both the judge and the Court of Appeal did.
+I agree with his conclusion and his reasons and there is nothing I wish to add in this regard.
+V. Limitation of action
+As explained by Aikens LJ (with whom Jacob and Sullivan LJJ agreed) at para 9, the judge held that the appellants claim was time barred in respect of any trespass committed before 22 July 2000.
+He held that it was only entitled to damages for the trespass committed by Star from 22 July 2000 until the trial and to damages (in lieu of an injunction) for the continued trespass until the oilfield was exhausted.
+The judges conclusions on limitation have been accepted both in the Court of Appeal and in this Court.
+Damages at common law
+The appellants case is that it is entitled to damages on what has sometimes been called the user (or here the wayleave) basis.
+It is and has throughout been accepted by and on behalf of the appellant that it has suffered no damage or loss as a result of the trespass.
+As Aikens LJ stressed at para 112, the drilling of three pipelines at depths of 800 to 2,800 feet below the appellants land would not disturb or detract from its use of the land (to use the judges phrase) one iota.
+However Mr Gaunt submitted on behalf of the appellant that it does not follow from that that it is not entitled to substantial damages because it is now well settled that, where a claimant cannot show loss or damage, he may be entitled to user damages.
+For my part, I would accept Mr Gaunts analysis of the position at common law.
+The courts have held that, in the case of trespass to land, damages may be recovered equal to the value to the defendant of the use he has made of the claimants land even though the claimant has suffered no consequential loss and the value of his land has not been diminished.
+The principle originated in cases not unlike this, where the defendant trespassed by carrying coals along an underground way through the claimants land.
+The damages were assessed by determining what the claimant would have received if he had been paid for a wayleave: se eg Stoke on Trent City Council v W&J Wass Limited [1988] 1 WLR 1406 at 1410G to 1411E and the cases there cited.
+Those principles were then applied to cases of wrongful trespass on the surface of land and wrongful retention of the possession of land in circumstances where the claimant would not otherwise have made use of the land: see Whitwham v Westminster Brymbo Coal and Coke Co [1896] 2 Ch 538 per Rigby LJ at 543.
+Much more recently Lord Nicholls put the principle thus in AG v Blake [2001] 1 AC 268 at 278: A trespasser who enters anothers land may cause the landowner no financial loss.
+In such a case damages are measured by the benefit received by the trespasser, namely by his use of the land.
+The same principle is applied where the wrong consists of use of anothers land for depositing waste, or by using a path across the land or using passages in an underground mine.
+In this type of case the damages recoverable will be, in short, the price a reasonable person would pay for the right of user.
+Lord Nicholls restated the principle in Kuwait Airways Corporation v Iraqi Airways Co (Nos 4 and 5) [2002] 2 AC 883 at paras 87 to 90 and in Sempra Metals Limited v IRC [2008] 1 AC 561 at para 116; see also Lord Scott at para 140 and Lord Mance at para 230.
+The same principle applies where a landowner is awarded mesne profits, whether or not he would have re let the property during the relevant period: Swordheath Properties Limited v Tabet [1979] 1 WLR 285, which was applied by the Privy Council in Inverugie Investments Limited v Hackett [1995] 1 WLR 713.
+The same principles have been applied in assessing damages in lieu of an injunction: see eg Bracewell v Appleby [1975] Ch 408 and Jaggard v Sawyer [1995] 1 WLR 269, both of which were cases of obtaining access to a newly built house, and Horsford v Bird [2006] 1 EGLR 75, per Lord Scott at paras 12 and 13.
+It was in this connection that Lord Nicholls said in AG v Blake at page 281G that the measure of damages is often analysed as a loss of a bargaining opportunity or, which (he said) comes to the same, the price payable for the compulsory acquisition of a right.
+Many other examples could be given, including the leading case of Wrotham Park Estate Co Limited v Parkside Homes Limited [1974] 1 WLR 798, where damages were awarded on this basis in respect of an unlawful act which had been committed and it was too late to restrain it by injunction.
+It was a case where land had been developed in breach of a restrictive covenant and where the existence of the new houses did not diminish the value of the benefited land by one farthing, which is perhaps not very different from the iota referred to by both the judge and Aikens LJ.
+Other well known examples are Experience Hendrix LLC v PPX Enterprises Inc [2003] 1 All ER (Com) 830, WWF World Wide Fund for Nature v World Wrestling Federation Entertainment Inc [2008] 1 WLR 445 and Lunn Poly Limited v Liverpool and Lancashire Properties Limited [2006] 2 EGLR 29.
+Finally, the most recent case in this area is the decision of the Privy Council in Pell Frischmann Engineering Limited v Bow Valley Iran Limited [2009] UKPC 45, [2010] BLR 73, where Lord Walker, giving the judgment of the Board, reviewed the principles in detail at paras 46 to 54.
+At para 48 he set out five general principles established by the authorities.
+They included the following (omitting the case references): 1. Damages (often termed user damage) are readily awarded at common law for the invasion of rights to tangible moveable or immoveable property (by detinue, conversion or trespass). 2. 3.
+Damages under Lord Cairns's Act are intended to provide compensation for the court's decision not to grant equitable relief in the form of an order for specific performance or an injunction in cases where the court has jurisdiction to entertain an application for such relief.
+Most of the recent cases are concerned with the invasion of property rights such as excessive user of a right of way.
+The breach of a restrictive covenant is also generally regarded as the invasion of a property right since a restrictive covenant is akin to a negative easement. the decision of the House of Lords in Blake decisively covers what their Lordships have referred to as a non proprietary breach of contract. 4.
+Damages under this head (termed negotiating damages by Neuberger LJ in Lunn Poly at para 22) represent such a sum of money as might reasonably have been demanded by [the claimant] from [the defendant] as a quid pro quo for [permitting the continuation of the breach of covenant or other invasion of right] (Lunn Poly at para 25). 5.
+Although damages under Lord Cairns's Act are awarded in lieu of an injunction it is not necessary that an injunction should actually have been claimed in the proceedings, or that there should have been any prospect, on the facts, of it being granted:
+Lord Walker added at para 49: 49.
+Several of the recent cases have explored the nature of the hypothetical negotiation called for in the assessment of Wrotham Park damages.
+It is a negotiation between a willing buyer (the contract breaker) and a willing seller (the party claiming damages) in which the subject matter of the negotiation is the release of the relevant contractual obligation.
+Both parties are to be assumed to act reasonably.
+The fact that one or both parties would in practice have refused to make a deal is therefore to be ignored:
+I recognise that it is common ground that the measure of damages in this case must have regard to the statutory context and thus to the 1934 and 1966 Acts in particular.
+However, subject to that, the correct measure of damages for the trespass on the facts here would be to award the appellant user or wayleave damages and to assess them by reference to a hypothetical negotiation of the kind referred to by Lord Walker in para 49 of the judgment of the Board in Pell Frischmann.
+The question would be what would be a fair and reasonable figure for Star to agree to pay and for the appellant to agree to receive for the use of the part of the appellants land which was in fact used by Star as described above.
+That figure would reflect the key value of the wayleave.
+It is inconceivable that it would be only the 1,000 awarded on the facts here by the Court of Appeal.
+Since both the reservoir which forms the Oil Field and the Oxted Estate have been there for very many years and long before the enactment of any of the statutes relevant in this appeal, it follows that, if Star or their predecessors in title had committed the trespass that was in fact committed in order to remove oil from the Oil Field before, say, 1934, the correct measure of damages would have been user or wayleave damages calculated as stated above.
+I turn to the statutory framework.
+The statutory framework
+The property in petroleum existing in its natural condition in strata in Great Britain was originally vested in the owner of the land above it: see eg the decision of the Court of Appeal in Singapore in NV De Bataafsche Petroleum Maatschappij v The War Damage Commission, (1956) 23 ILR 810.
+However, by section 1(1) of the 1934 Act the property in such petroleum was vested in the Crown, which was given the exclusive right of searching and boring for and getting such petroleum.
+By section 2(1) the Board of Trade (later the Secretary of State for Energy) was given the power, on behalf of the Crown, to grant licences to search and bore for and get petroleum.
+By section 2(2) any such licence was to be granted for such consideration (whether by way of royalty or otherwise) as the Board of Trade with the consent of the Treasury may determine, and upon such other terms and conditions as the Board of Trade think fit.
+Section 3(1) provided that Part 1 of the Mines (Working Facilities and Support) Act 1923 (the 1923 Act) should apply for the purposes of enabling a person holding such a licence to acquire such ancillary rights as might be required for the exercise of the rights granted by the licence.
+Those rights were stated to include a right to enter upon land and to sink bore holes therein for the purpose of searching for and getting petroleum and a right to use and occupy land for the erection of such buildings, the laying and maintenance of such pipes as may be required for the purpose of searching and boring for and getting, carrying away, storing, treating and converting petroleum.
+Section 3(2)(b) of the 1934 Act provided that, in determining the amount of compensation to be paid in respect of the grant of any right, which included any ancillary right, an additional allowance of not less than ten per cent was to be made on account of the acquisition of the right being compulsory.
+Section 10(3) provided: Nothing in this Act shall be construed as conferring, or as enabling the Board of Trade to confer, on any person, whether acting on behalf of His Majesty or not, any right which he does not enjoy apart from this Act to enter on or interfere with land.
+Part 1 of the 1923 Act, which contained provisions for ancillary rights in section 3 and for compensation in section 9, was repealed and consolidated by the Mines (Working Facilities and Support) Act 1966 (the 1966 Act), which provided that the reference to Part 1 of the 1923 Act in section 3 of the 1934 Act was now a reference to the 1966 Act.
+Section 1 of the 1966 Act empowered the court to confer any rights described in a Table, which included in paragraph 5 ancillary rights, which were defined in section 2 and included by section 2(1)(b) a right of airway, shaft way or surface or underground wayleave or other right for the purpose of access to or conveyance of minerals or the ventilation or drainage of the mines.
+It is clear from these provisions that a grant of a petroleum licence under the 1934 Act did not itself entitle its licensee to enter land belonging to another party and that the Act did not empower the Secretary of State to grant a licence to enter such land.
+If the licensee wished to drill a deviated well beneath another persons land, he needed to negotiate or apply under the 1966 Act for an ancillary right, here an underground wayleave.
+This is important because it shows that Parliament was drawing a distinction between the oil on the one hand and the access to the oil on the other.
+It provided for the licensee to pay a royalty to the Crown for the oil but provided a different scheme in relation to access to the oil.
+That scheme involved the obtaining of ancillary rights.
+Section 4 of the 1966 Act provided for applications for ancillary licences to be made to the Minister, who is now the Secretary of State for Energy, and for him to refer the matter to the court.
+Section 5(1) of the 1966 Act provides that, where the matter is referred to the court, the court may grant an ancillary licence.
+Section 5 (2) provides: (2) Where a right is granted, such compensation or consideration as in default of agreement may be determined by the court shall be paid or given by the applicant in respect of the acquisition of the right to such persons as the court may determine to be entitled thereto.
+Section 8 provides, so far as relevant: 8 Compensation (1) Where a right is granted under section 1 of this Act, the court may determine the amount and nature of compensation or consideration to be paid or given and the persons to whom it is to be paid or given, either at the time when it determines whether the right should be granted or the restrictions imposed or at any subsequent time. (2) The compensation or consideration in respect of any right, , shall be assessed by the court on the basis of what would be fair and reasonable between a willing grantor and a willing grantee, having regard to the conditions subject to which the right is or is to be granted.
+Section 8 thus replaced section 9 of the 1923 Act, which was in similar terms. VIII.
+The correct approach to section 8(2)
+It is, to my mind, striking that the negotiation contemplated by section 8(2) is, at any rate on the face of it, essentially the same as is deployed by the common law in assessing wayleave damages.
+Its purpose is, again on the face of it, the same, namely to ascertain what would be a fair and reasonable figure for Star to agree to pay and for the appellant to agree to receive for the use of the part of the appellants land which was in fact used by Star as described above.
+There is nothing in the language of the subsection about the value of the land used or taken and there is no suggestion that the purpose for which the right is to be acquired is to be ignored during the postulated negotiation.
+Nor is there any reference in section 8(2) or elsewhere in the 1934 or 1966 Acts to the basis upon which compensation is to be assessed, as for example in section 63 of the Land Clauses Consolidation Act 1845 (the 1845 Act), section 2 of the Acquisition of Land (Assessment of Compensation) Act 1919 (the 1919 Act) or section 5 of the Land Compensation Act 1961 (the 1961 Act).
+See also the Pipe lines Act 1962, the Gas Act 1986, the Channel Tunnel Act 1987, the Electricity Act 1989 and the Water Resources Act 1991.
+In particular section 2 of the 1919 Act provided detailed rules for the assessment of compensation in respect of land acquired compulsorily.
+It is to my mind striking that those rules were not incorporated into the 1923 Act.
+Moreover, section 5 of the 1961 Act in turn set out detailed rules for the assessment of compensation, which again were not incorporated into the 1966 Act.
+There are many different types of compulsory acquisition legislation.
+The 1934 and 1966 Acts are one example and the 1919 and 1961 Acts are another.
+I can see no principled basis for applying the provisions of the latter Acts to the assessment of compensation under the former.
+If Parliament had intended those provisions to apply it would have so provided in 1923 and 1966.
+In this regard I agree with the reasoning of Judge Hague QC in Mercury Communications Ltd v London & India Dock Investments Ltd [1994] 1 EGLR 229.
+If section 8(2) of the 1966 Act is given its ordinary and natural meaning, it postulates a negotiation in which it is assumed that both parties are willing to reach agreement and that they both act reasonably.
+In such a negotiation, the seller will naturally stress the value of the right being sold (here the wayleave) to the purchaser.
+On the facts of this case, that value is the key to unlocking the oil in the reservoir because it was necessary to dig diagonal tunnels in order to maximise the oil recovered from the reservoir.
+On this approach, the figure agreed at the postulated negotiation would be the same as it would be at common law.
+Moreover, it would, as I see it, be the same whether it is treated or described as compensation or consideration.
+That is because what is being negotiated is a fair price for the wayleave.
+In the absence of authority to the contrary, I would approach the matter in that way.
+In the particular context of the 1934 and 1966 Acts, I see no reason not to do so.
+The position can be tested by a comparison between the position immediately before and after the 1934 Act came into force.
+Before the Act, assuming that the parties were aware of the reservoir of petroleum and its potential, and the owner of the reservoir and its oil wanted to exploit it, he would need to obtain a wayleave through the Oxted Estate.
+If he acted lawfully, he would have to seek a wayleave from the owner and would (it is assumed) pay a fair price.
+If he acted unlawfully and committed trespass, the measure of damages at common law would be the notional price of the wayleave, which is to be a fair and reasonable price arrived at after a postulated negotiation between a willing seller and a willing buyer.
+The strength of the sellers position (and the price or damages arrived at) would depend upon the existence and physical position of the oil on the one hand and the existence and position of the land through which it was necessary to obtain a wayleave in order to be able to exploit it on the other.
+Why, so far as the wayleave is concerned, should the position be any different after the 1934 Act? The effect of the Act is to transfer the oil to the Crown without compensation.
+That was no doubt a political decision.
+After the Act the Crown is in the same position as the owner of the reservoir was in before the Act.
+It now has the right to exploit the oil, either itself or by granting a licence.
+In order to exploit the oil to its full extent, it (or its licensee) needs to obtain a wayleave.
+It is entitled to do so but only if it pays compensation under section 8(2).
+That compensation is to be assessed by postulating a negotiation as described above.
+As I see it, the seller of the wayleave is in the same position before and after the Act.
+The reason it is in that position is not because of the Act, and certainly not solely because of the Act, but because of the physical position of the sellers land in relation to the reservoir.
+In these circumstances, absent authority to the contrary, I would hold that the measure of compensation under the Act is the same as at common law.
+It is true that section 3(2)(b) provides for an additional allowance of ten per cent but that is expressed to be because the acquisition of the right was compulsory.
+It was at one time common for such a provision to be included in statutory provisions which provided for compensation for compulsory purchase.
+By section 2(1) of the 1919 Act, the ten percent allowance was abolished in respect of cases to which the 1919 Act applied.
+That very fact, coupled with the enactment of section 3(2)(b) of the 1934 Act, demonstrates clearly that the 1919 regime does not apply to the new provisions of the 1934 Act.
+It appears that Parliament took the view that in this different regime an additional payment should be made over and above the amount arrived at in the postulated negotiation, which of course assumes that there is a willing seller and a willing buyer and thus that the seller (or more accurately the grantor) cannot refuse to sell.
+This factor tells us nothing about what would be a fair and reasonable figure to arrive at as a result of the negotiation.
+It is said that the approach I have described is the wrong approach to the construction of the subsection because of the Pointe Gourde principle to which I now turn.
+The Pointe Gourde principle
+This principle, which is also known as the no scheme rule, takes its name from the decision of the Privy Council in Pointe Gourde Quarrying and Transport Co Ltd v Sub Intendent of Crown Lands [1947] AC 565.
+The principle has been considered in some detail in two comparatively recent cases in the House of Lords.
+They are Waters v Welsh Development Agency [2004] UKHL 19, [2004] 1 WLR 1304, and Transport for London v Spirerose Ltd [2009] UKHL 44, [2009] 1 WLR 1797 (TFL).
+In both Waters and TFL the compensation fell to be calculated in accordance with the 1961 Act.
+Lord Brown summarised the principle thus in one sentence in Waters at para 125: Pointe Gourde has long been regarded as authority for the principle that compensation for compulsory purchase cannot include any increase in value which is entirely due to the scheme underlying the acquisition There are two questions which arise under this head.
+The first is whether this principle applies to compensation assessed under section 8(2) of the 1966 Act.
+The second is, if so, whether there has been an increase in the value of the wayleave entirely or solely due to the scheme.
+There has been some discussion in the cases as to the juridical basis of the principle.
+However, it is in my opinion now clear that it is a principle of statutory construction.
+This is clear from paras 127 and 128 of the speech of Lord Collins in TFL with which the other members of the appellate committee agreed.
+He put it thus: 127.
+What is the juridical basis of the Pointe Gourde principle? Lord Nicholls said in Waters para 42 that the principle is no more than the name given to one aspect of the long established value to the owner principle. 128.
+In my opinion it is a principle of statutory interpretation, mainly designed and used to explain and amplify the expression value.
+It is in this sense that it has sometimes been referred to as a common law principle: see e.g. Fletcher Estates (Harlescott) Ltd v Secretary of State for the Environment [2000] 2 AC 307, 315, per Lord Hope of Craighead; Waters para 142, per Lord Brown of Eaton under Heywood.
+In Rugby Joint Water Board v Shaw Fox [1973] AC 202, 213 215 Lord Pearson reviewed the authorities and concluded, at p 214, that although the Pointe Gourde principle had been described as a common law principle", it could not be such a principle because compulsory acquisition and compensation for it are entirely creations of statute.
+He went on, at pp 214 215: The Pointe Gourde principle in my opinion involves an interpretation of the word value in those statutory provisions which require the compensation for compulsory acquisition to include the value of the lands taken.
+I am satisfied that this the right approach and that there is nothing in Lord Nicholls speech in Waters which is inconsistent with this view.
+It is clear from those conclusions that the question is whether the Pointe Gourde principle applies to compensation under section 8(2) of the 1966 Act as a matter of construction of that sub section.
+In Waters Lord Nicholls gave the leading speech in which he analysed in some detail the approach to compensation under the various different statutes referred to above, although he did not analyse the position under the 1934 or 1966 Acts.
+All the statutes he analysed either expressly referred to value or contained a compensation code.
+Thus from para 15 he discussed the meaning of value in section 63 of the 1845 Act.
+He recognised at para 17 that land may have a special value and gave an example based on Inland Revenue Commissioners v Clay [1914] 3 KB 466: Thus a house, worth 750 as a house but 1,000 as an annex to an adjoining nursing home, has a market value of 1,000.
+Lord Nicholls then said this at para 18: 18.
+In principle, subject to one qualification, this approach is equally applicable when assessing value for the purposes of compensation.
+It is this qualification which has given rise to difficulty.
+The qualification is that enhancement in the value of the land attributable solely to the particular purpose for which it is being compulsorily acquired, and an acquiring authority's pressing need of the land for that purpose, are to be disregarded.
+If statute authorises an authority to acquire some ancient graveyards in the City of London and use the land for new buildings and a new street from Blackfriars to the Mansion House, the increased value the land will have when applied to these more profitable secular purposes should be left out of account.
+This is implicit in the yardstick of 'value' in the Lands Clauses Consolidation Act 1845.
+When granting a power to acquire land compulsorily for a particular purpose Parliament cannot have intended thereby to increase the value of the subject land.
+Parliament cannot have intended that the acquiring authority should pay as compensation a larger amount than the owner could reasonably have obtained for his land in the absence of the power.
+For the same reason there should also be disregarded the 'special want' of an acquiring authority for a particular site which arises from the authority having been authorised to acquire it.
+Lord Nicholls added at para 19 that it was in this context that the cases distinguish between value to the owner and value to the purchaser, which he further described at para 21: Drawing a distinction between value to the owner and value to the purchaser makes it necessary to distinguish the one from the other.
+It is necessary to separate from the market value of land any enhancement in value attributable solely to the presence of the acquiring authority in the market as a purchaser of the land in exercise of its statutory powers.
+It is important to recognise that, for this purpose, it is not the existence of a power of compulsory acquisition which increases the value of land.
+What is relevant, because this may affect the value of the land, is the use the acquiring authority proposes to make of the land it is acquiring.
+Accordingly, in identifying any enhanced value which must be disregarded it is always necessary to look beyond the mere existence of the power of compulsory purchase.
+It is necessary to identify the use proposed to be made of the land under the scheme for which the land is being taken.
+Hence the introduction of the concept of the 'scheme' or equivalent expressions such as project or undertaking.
+Lord Nicholls then considered the 1919 Act, The Indian Case, namely Raja Vyricherla Narayana Gajapatiraju v Revenue Divisional Officer, Vizagapatam [1939] AC 302, the Pointe Gourde principle and the 1961 Act.
+In the context of the Pointe Gourde principle he said it was one aspect of the value to the owner principle.
+In TFL Lord Collins summarised the position thus in part of a section of his speech entitled Principles of valuation: 88.
+It is well settled that compensation for the compulsory acquisition of land cannot include an increase in value which is entirely due to the scheme underlying the acquisition": Pointe Gourde [1947] AC 565, 572, per Lord MacDermott. 89.
+Some elementary principles of the law of compensation for compulsory acquisition provide a starting point.
+First, the underlying principle is that fair compensation should be given to the owner claimant whose land has been compulsorily taken.
+The aim of compensation is to provide a fair financial equivalent for the land taken.
+The owner is entitled to be compensated fairly and fully for his loss, but the owner is not entitled to receive more than fair compensation: Director of Buildings and Lands v Shun Fung Ironworks Ltd [1995] 2 AC 111, 125; Waters para 4. 90.
+Second, the basis of compensation is the value to the owner, and not its value to the public authority.
+In the first edition of Cripps (later Lord Parmoor), Principles of the Law of Compensation (1881) it was said, at p 144: The basis on which all compensation for lands required or taken should be assessed, is their value to the owner, and not their value when taken to the promoters.
+The question is not, what the persons who take the land will gain by taking it; but what the person from whom it is taken will lose, by having it taken from him. 91.
+The classic example mentioned by Cripps is Stebbing v Metropolitan Board of Works (1870) LR 6 QB 37, 42 where Cockburn CJ said that it was intended that the landowner should be compensated to the extent of his loss and his loss shall be tested by what was the value of the thing to him, not by what will be its value to the persons acquiring it. 92.
+Third, and directly in point on this appeal, one plainly relevant element in the value to the owner is the prospect of exploiting the property.
+I have already mentioned R v Brown [(1867)] LR 2 QB 630, in which Cockburn CJ, at p 631, said that the jury assessing compensation under the 1845 Act had to consider the real value of the land, and may take into account not only the present purpose to which the land is applied, but also any other more beneficial purpose to which in the course of events at no remote period it may be applied, just as an owner might do if he were bargaining with a purchaser in the market.
+In cases where those principles apply, the critical question is what was the value to the owner, which is arrived at by excluding the value to the acquirer.
+This is not, however, to say that the value to the owner may not have regard to the use which will be made of the land.
+In a case like this, where the value of the land is that it has a ransom or key value because it is needed by the buyer to exploit his land, as I see it, the value to the owner is (or includes) the ransom or key value.
+Both this principle and its relation to the Pointe Gourde principle can be seen from paras 64 and 65 of Lord Nicholls speech in Waters.
+Lord Nicholls said at paras 64 and 65: 64.
+One last point should be noted before returning to the present case.
+This concerns so called 'ransom' value or, less pejoratively, 'key' value.
+I have already mentioned that under the 'value to the owner' principle or the Pointe Gourde principle, whichever nomenclature is preferred, the pressing need of an acquiring authority for the subject land as part of a scheme should be disregarded when assessing its value for compensation purposes.
+The value of the land is not the price a 'driven' buyer would be prepared to pay.
+But a strip of land may have special value if it is the key to the development of other land.
+In that event this feature of the land represents part of its value as much for purposes of compensation as on an actual sale in the open market. 65.
+The intersection of these two principles was identified neatly by Mann LJ in Batchelor v Kent County Council (1989) 59 P & CR 357, 361: If a premium value is "entirely due to the scheme underlying the acquisition" then it must be disregarded.
+If it was pre existent to the [scheme] it must in my judgment be regarded.
+To ignore the pre existent value would be to expropriate it without compensation and would be to contravene the fundamental principle of equivalence. '
+The part of para 64 which I have italicised shows that the key value is part of the value to the owner.
+This view was also expressed by Lord Brown in Waters at para 140, where he said this: 140.
+True it is that in the Indian case [1939] AC 302, 312, Lord Romer said: The disinclination of the vendor to part with his land and the urgent necessity of the purchaser to buy must alike be disregarded.
+Neither must be considered as acting under compulsion.
+It by no means follows, however, that the open market value to the seller will exclude whatever key value the land may have.
+On the contrary, any such value properly falls to be taken into account, as it was in Stokes v Cambridge Corpn (1961) 13 P&CR 77, Land is not to be valued merely by reference to the use to which it is being put at the valuation date but by reference to any unusual features or potentialities it may have: see the Indian Case per Lord Romer, giving the judgment of the Privy Council at page 312 313.
+Thus value to owner includes or potentially includes key value but is to be disregarded in the circumstances identified if, as Mann LJ put it in Batchelor, at p 361, the premium or key value is entirely due to the scheme underlying the acquisition.
+As I see it that approach encapsulates the Pointe Gourde principle and is a gloss on or modification (or perhaps explanation) of the value to owner principle.
+On the other hand, if on the facts of the particular case, the premium value or key value was pre existent to the scheme it is taken into account and not disregarded.
+The question is whether these principles apply to compensation under section 8(2) of the 1966 Act.
+It is difficult to see how they do as a matter of construction of the Act.
+I have already expressed the view that the codes in the 1919 and 1961 Acts do not form part of the approach identified in section 8(2) of the 1966 Act and thus in the 1934 Act.
+There is moreover no reference to value in that subsection.
+In these circumstances, although it is a compensation provision, as Lord Pearson put it in the passage approved by Lord Collins in para 128 of his speech in TFL quoted above (and thus by the House), the Pointe Gourde principle involves an interpretation of the word value.
+Since the word value does not appear in section 8(2), it is difficult to see why it should be construed as if it did.
+For these reasons I would hold that the subsection should be construed by the application of the language used in it as explained above without reference either to the codes or to the Pointe Gourde principle.
+In this regard I prefer the reasoning of Judge Hague in Mercury Communications to that of Peter Gibson J in BP v Ryder [1987] 2 EGLR 233.
+I should, however, say a word about the Hansard materials relied upon by the respondents.
+I agree with Lord Hope for the reasons he gives in para 43 that there is no legitimate basis for using Hansard as an aid to construction of the simple terms of the 1923, the 1934 or the 1966 Acts.
+Like section 9 of the 1923 Act, section 8(2) of the 1966 Act is in simple terms.
+It can readily be applied to the facts of this case.
+It is true that there is no reference to key value in the Hansard materials; nor is there any reference to the Pointe Gourde principle.
+There is accordingly no reference to the distinction drawn in Batchelor; so that no assistance can be obtained from Hansard as to the principles the court must apply to the postulated negotiation other than those stated in the sub section.
+It appears to me that no consideration was given at all to the problems that have arisen in this connection and that the correct approach is for the court to construe the statute in accordance with its language and having regard to its statutory purpose.
+This can readily be done without the assistance of Hansard.
+I recognise that others do not take the same view of the subsection.
+I therefore turn to the question what, on the assumption that the Pointe Gourde principle applies to the assessment of compensation under section 8(2), is the correct approach to the key value.
+Again, in a case of this kind the starting value is the key value, which must only be disregarded if it represents an increase in value which is entirely due to the scheme underlying the acquisition.
+I take this to refer to the acquisition of the wayleave.
+The contrast is that identified by Mann LJ in Batchelor as approved by Lord Nicholls in para 65 of Waters.
+The question is whether the key value was entirely due to the scheme underlying the acquisition or whether it was pre existent to the scheme.
+Another way of putting what seems to me to be essentially the same question is to ask, as Lord Nicholls does in para 18 of Waters, whether Parliament increased the key value of the land when it enacted the 1934 Act.
+It is important to note that this approach does not disregard the key or ransom value but encapsulates it.
+It is expressly accepted as relevant by Lord Nicholls in para 64 of Waters set out above.
+In this connection I should mention two cases which are referred to by Lord Collins at para 105 but which were not I think relied upon in argument.
+They are Edwards v Minister of Transport [1964] 2 QB 134, per Harman LJ at page 156, and Logan v Scottish Water [2005] CSIH 73, 2006 SC 178, which applied his analysis.
+Harman LJ there said that the possibility of assessing damages by reference to a ransom value did not really arise because such a value would only be relevant if the postulated seller had a right of veto, which he does not because the rights are being compulsorily purchased.
+In my opinion that approach cannot be correct in the light of Waters, at any rate under section 8(2).
+The figure to be arrived at as a result of the postulated negotiation in a case of this kind is the key or ransom value of the wayleave, that is a fair and reasonable price for the access to the oil reservoir, but on the assumption of a willing seller or grantor and a willing buyer or grantee.
+Thus the value reflects the importance of the particular access to the particular oil.
+I note in passing that, in these circumstances, it seems to me that the ten per cent uplift is also understandable as reflecting the fact that the seller was compelled to sell.
+The critical question is thus that stated above, namely whether the key value was entirely due to the scheme underlying the acquisition or whether it was pre existent to the scheme.
+In my opinion the key value was not created or enhanced by the scheme or the 1934 Act because the Oxted Estate already had a key value in the market.
+As I see it, this is a case like Chapman, Lowry & Puttick Limited v Chichester District Council (1984) 47 P&CR 674, where the acquiring authority owned a plot of housing land to the rear of a small quantity of waste land which was necessary to gain access to the housing land.
+The question was whether the purpose for which the land was required was to be taken into account.
+It was held that it was.
+The Tribunal (VG Wellings QC) said at page 680: It appears to me that the reference land is the key which unlocks the development value of the rear land in whosoevers hands the rear land happens to be.
+By reason of that fact the reference land has acquired naturally a value in excess of its existing use value.
+The matter can be tested by analogy with the Pointe Gourde principle as was done by the Court of Appeal in Lambe v Secretary of State for War [[1955] 2 QB 612].
+It is not the scheme underlying the acquisition which gives value to the reference land in excess of its existing use value; it is its geographical position, coupled with the fact that there is no other suitable access for residential development on the rear land.
+I would accept the appellants submission that that is essentially the position on the facts here.
+This a case which is on the side of the line identified by Mann LJ in Batchelor in which the land had a key value which was pre existent to the Act and the scheme.
+That key value depended upon the juxtaposition of two physical features of the land, namely the existence of the reservoir of oil and the existence of the land which was part of the Oxted Estate and which was above the apex of the oil deposit and, given the absence of any other suitable or optimal access to that apex, would be needed by anyone who exploited the oil in the reservoir in order to maximise the recovery of the oil.
+Moreover it had and has this key value even if, as is likely, there is only one owner or licensee who wishes to exploit the oil.
+In these circumstances, the key value cannot in my opinion fairly be described as solely or entirely due to the scheme because it pre existed it.
+Whenever the owner of the oil chose to exploit it fully he would need a wayleave over the Oxted Estate.
+That is so, whether the owner was a private landowner before the oil was nationalised or was the Crown after the 1934 Act and, in that case, whether the Crown exploited the oil itself or granted a petroleum licence to another to do so.
+In short, the key value was not created by the 1934 Act or the grant of the petroleum licence to Star.
+It was pre existing key value.
+For my part, save perhaps for BP v Ryder, I would not accept the submission that, if that is the case here, it must follow that any of the decided cases was wrongly decided.
+There was no equivalent of the existing reservoir in Waters or TFL.
+In these circumstances, assuming (contrary to my view) that the no scheme rule derived from Pointe Gourde applies to the assessment of compensation under section 8(2) of the 1966 Act and thus to the 1934 Act, I do not accept that this approach would emasculate the no scheme rule to the point of extinction.
+Whether the relevant value falls to be disregarded depends upon which side of the line drawn by Mann J in Batchelor and approved in Waters the facts of a particular case falls.
+If this case does not fall on what may be called the appellants side of the line, it is difficult to see what case would.
+For these reasons I have reached a different conclusion from the Court of Appeal on this part of the case.
+Since writing the above paragraphs I have seen Lord Browns response at paras 89 to 91.
+I remain unpersuaded.
+The key value attaches to the access land and not to the oil.
+Both before and after the 1934 Act it was or would have been necessary for the person seeking to exploit the oil to obtain access through the Oxted Estate by acquiring ancillary rights.
+It would thus have been necessary for that person to obtain such rights, whether as owner of the oil or licensee from the Crown.
+In both cases he would have needed a wayleave and in both cases he would have had to pay a price that reflected the key value of the access land (not the oil).
+In these circumstances I remain of the view that the key value was not solely attributable to the scheme.
+It was at least in part attributable to the physical juxtaposition of the access land and the reservoir.
+The Pipe lines Act 1962
+The respondents rely in the alternative on the Pipe lines Act 1962 (the 1962 Act).
+They say that it is part of the background of statutory legislation against which the hypothetical negotiation would have taken place and that they could have obtained a right to drill or maintain oil wells and pipelines through the appellants land under sections 11 and 12 of the 1962 Act, which provided for compensation under the 1961 Act.
+The appellants response is two fold.
+The first is that, since neither the respondents nor their experts or lawyers thought of this point when they were considering the matter in detail before the judge or when they prepared the grounds of appeal to the Court of Appeal upon which permission to appeal was granted, it is hardly likely to have played any part in hypothetical negotiations in the 1980s.
+It was certainly never suggested in evidence that it would have done, although that is hardly surprising since nobody thought of the point until it appeared in the respondents revised skeleton argument in the Court of Appeal.
+I would be reluctant to rest a decision on this analysis.
+The appellants second response is that the 1962 Act does not apply.
+Section 65 provides, so far as relevant: (1) In this Act pipe line (except where the context otherwise requires) means a pipe for the conveyance of any thing other than air, water, water vapour or steam It is submitted that the pipes in this case were not for the conveyance of substances and that this can be seen from section 57 of the 1962 Act, which amended section 3(2)(b) of the 1923 Act.
+In its unamended form section 3(2)(b) provided that ancillary rights included (b) [a] right of underground wayleave, or other right for the purpose of access to or conveyance of minerals or the ventilation or drainage of the mines; Section 57 of the 1962 Act amended section 3(2)(b) of the 1923 Act by excluding from it rights for the conveyance of minerals by means of a pipe, thus (as Mr Gaunt puts it) leaving all other ancillary rights, including the right to bore wells, to be covered by the 1923 Act.
+Section 57 was repealed in 1966 when the amendment to the 1923 Act was reflected in the definition of ancillary rights in section 2(1)(b) of the 1966 as quoted above.
+He submits that, in these circumstances, the correct conclusion is that the 1962 Act was not intended to apply to pipes constituting the oil well itself.
+That seems to me to be correct.
+A third point has occurred to me under this head.
+Where it applies, the effect of the 1962 Act is to apply the compensation scheme under the 1961 Act; so that, if it applies here, those principles, including the Pointe Gourde principles would apply.
+It seems to me to follow that compensation would be payable for the reasons given in section IX above, namely that the key value was not solely or entirely due to the scheme.
+The Human Rights Act
+The appellant sought permission to rely upon the Human Rights Act 1998 on the basis that compensation of so little as was awarded by the Court of Appeal would infringe its rights under Article 1 of Protocol 1 of the European Convention on Human Rights.
+However, since, if the conclusions I have already expressed were correct, the appellant would be no better off in terms of damages than he would be under section 8(2), there is no need for me to express a view under this head.
+Measure of damages
+This topic would of course only arise if I were right so far.
+Since the majority of the court take a different view on that question, the measure of damages is not relevant.
+It seems to me that, if it were relevant, the correct approach would be to assess a fair and reasonable amount to reflect the key value of the wayleave, in the words of section 8(2), as between a willing grantor and a willing grantee, and to add ten per cent in accordance with the statute.
+However, as I see it, that key value would not reflect the value of the access to all the oil in the reservoir.
+Its particular value was to provide access to the apex (or attic) oil.
+I am not, at least at present, persuaded that that was the basis upon which the figure was arrived at by the judge.
+In these circumstances, if this were a live issue, I would remit it to the High Court for determination.
+CONCLUSION
+For the reasons I have given I would allow the appeal and would remit the issue of damages to the High Court.

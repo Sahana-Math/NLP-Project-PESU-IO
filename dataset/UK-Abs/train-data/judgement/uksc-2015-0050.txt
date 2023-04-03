@@ -1,0 +1,262 @@
+This appeal is concerned with the interpretation of a solicitors professional indemnity insurance policy (the Policy) written by AIG Europe Ltd (AIG).
+It raises a legal question of general public importance both because it concerns a term of an insurance policy, which is, or is similar to, terms in all professional indemnity insurance policies for solicitors in England and Wales, and also because it is important to the business model by which many solicitors have funded litigation since state funded legal aid for civil cases was significantly reduced.
+As described more fully below, the respondent, Impact Funding Solutions Ltd (Impact) entered into an arrangement with solicitors, Barrington Support Services Ltd (Barrington), by which Impact, by entering into loan agreements with Barringtons clients, provided funds to Barrington to hold on behalf of its clients and to use to make disbursements in the conduct of its clients litigation in pursuit of damages for industrial deafness.
+Barrington failed to perform its professional duties towards its clients in the conduct of litigation, both through its failure adequately and timeously to investigate the merits of their claims and also through the misapplication of funds provided by Impact, and so breached its duty of care to them.
+Barrington thereby put itself in breach of a warranty in its contract with Impact that it would perform its professional duties towards its clients.
+Barringtons clients were not able to repay their loans.
+Impact sought to recover from Barrington the losses which it suffered on those loans by seeking damages for the breach of the warranty.
+In an admirable judgment dated 30 May 2013, His Honour Judge Waksman QC awarded Impact damages of 581,353.80, which represented the principal elements of the loans which would not have been made if Barrington had not breached its contract with Impact.
+On Barringtons insolvency, Impact seeks in this action to recover those losses from Barringtons professional indemnity insurers, AIG, under the Third Parties (Rights against Insurers) Act 1930.
+In another impressive judgment dated 13 December 2013 His Honour Judge Waksman QC analysed the nature of the arrangements between Impact and Barrington and, construing the words of the Policy, held that Impacts claim against AIG for an indemnity failed.
+Impact appealed to the Court of Appeal.
+In a judgment dated 3 February 2015 the Court of Appeal, [2015] 4 All ER 319; [2016] Bus LR 91 allowed the appeal.
+The Court of Appeal, by standing back from the detail and asking itself what was the essential purpose of the exclusion clause in question, concluded that the loans which Impact gave to cover disbursements in intended litigation were inherently part of the solicitors professional practice and that the liabilities which Barrington incurred under its warranties to Impact were liabilities professionally incurred which came within the cover of the Policy.
+AIG appeals to this court.
+Impact supports the conclusion which the Court of Appeal reached.
+It refers to the wide terms of the cover (para 8 below) and submits that the subsequent exclusions (para 10 below) should be construed strictly.
+In particular, the fact that Barrington obtained a commercial benefit from its agreement with Impact did not mean that Impact was providing services to Barrington within the terms of the exclusion.
+I do not accept that this is the correct way to read the exclusion clause in this insurance contract and set out my reasons below.
+Questions of construction
+In determining the appeal, the court has, first, to construe the relevant terms of the Policy against its factual matrix and, secondly, to construe the relevant terms of the disbursements funding master agreement (DFMA) between Impact and Barrington once again against its factual matrix.
+This approach to construction is well established.
+The court looks to the meaning of the relevant words in their documentary, factual and commercial context: Rainy Sky SA v Kookmin Bank [2011] 1 WLR 2900, para 21 per Lord Clarke of Stone cum Ebony; Arnold v Britton [2015] AC 1619, para 15 per Lord Neuberger of Abbotsbury.
+As I see no ambiguity in the way that the Policy defined its cover and as the exclusion clause reflected what The Law Society of England and Wales as the regulator of the solicitors profession had authorised as a limitation of professional indemnity cover, I see no role in this case for the doctrine of interpretation contra proferentem.
+As Lindley LJ stated in Cornish v Accident Insurance Co Ltd (1889) 23 QBD 453, 456: in a case of real doubt, the policy ought to be construed most strongly against the insurers; they frame the policy and insert the exceptions.
+But this principle ought only to be applied for the purpose of removing a doubt, not for the purpose of creating a doubt, or magnifying an ambiguity, when the circumstances of the case raise no real difficulty.
+The extent of AIGs liability is a matter of contract and is ascertained by reading together the statement of cover and the exclusions in the Policy.
+An exclusion clause must be read in the context of the contract of insurance as a whole.
+It must be construed in a manner which is consistent with and not repugnant to the purpose of the insurance contract.
+There may be circumstances in which in order to achieve that end, the court may construe the exclusions in an insurance contract narrowly.
+The judgment of Carnwath LJ in Tektrol Ltd (formerly Atto Power Controls Ltd) v International Insurance Co of Hanover Ltd [2006] 1 All ER (Comm) 780, to which counsel for Impact referred, is an example of that approach.
+But the general doctrine, to which counsel also referred, that exemption clauses should be construed narrowly, has no application to the relevant exclusion in this Policy.
+An exemption clause, to which that doctrine applies, excludes or limits a legal liability which arises by operation of law, such as liability for negligence or liability in contract arising by implication of law: Photo Production Ltd v Securicor Transport Ltd [1980] AC 827, 850 per Lord Diplock.
+The relevant exclusion clause in this Policy is not of that nature.
+The extent of the cover in the Policy is therefore ascertained by construction of all its relevant terms without recourse to a doctrine relating to exemption clauses.
+The insurance policy
+AIG wrote the Policy for Barrington for the period from 1 October 2009 to 30 September 2010.
+The cover was stated in broad terms.
+It provided: The Insurer will pay on behalf of any Insured all Loss resulting from any Claim for any civil liability of the Insured which arises from the performance of or failure to perform Legal Services.
+Legal Services were defined broadly to include the provision of services
+in private practice as a solicitor or Registered European Lawyer .
+On p 6 of the Policy there is a clause which sets out what is excluded from cover.
+It provides so far as relevant: This policy shall not cover Loss in connection with any Claim or any loss: arising out of, based upon, or attributable to any: (i) trading or personal debt incurred by an Insured, (ii) breach by any Insured of terms of any contract or arrangement for the supply to, or use by, any Insured of goods or services in the course of providing Legal Services; and (iii) guarantee, indemnity or undertaking by any Insured in connection with the provision of finance, property, assistance or other benefit or advantage directly or indirectly to that Insured. (emphasis added)
+Solicitors in England and Wales were required to take out and maintain professional indemnity insurance in accordance with the Solicitors Indemnity Insurance Rules 2009 (the 2009 Rules), which were made by The Law Society in exercise of a statutory power under section 37 of the Solicitors Act 1974.
+There was thus a scheme of compulsory professional indemnity insurance which Parliament had authorised.
+The Law Society in Appendix 1 of the 2009 Rules laid down the minimum terms and conditions of professional indemnity insurance for solicitors and registered European Lawyers in England and Wales (the Minimum Terms).
+The Minimum Terms defined the scope of cover, so far as relevant, in these terms: The insurance must indemnify each Insured against civil liability to the extent that it arises from Private Legal Practice
+in connection with the Insured Firms Practice
+Clause 6 provided: trading or personal debt of any Insured; or The insurance must not exclude or limit the liability of the Insurer except to the extent that any Claim or related Defence Costs arise from the matters set out in this clause 6. 6.6 Any: (a) (b) breach by any Insured of the terms of any contract or arrangement for the supply to, or use by, any Insured of goods or services in the course of the Insured Firms Practice; or (c) guarantee, indemnity or undertaking by any particular Insured in connection with the provision of finance, property, assistance or other benefit or advantage directly or indirectly to that insured.
+The Policy provides that: In any dispute in connection with the terms, conditions, exclusion or limitations it is agreed and understood that the Minimum Terms and Conditions will take precedence over any terms, conditions, exclusions or limitations contained herein.
+But, as can be seen by comparing the texts in paras 8 and 10 above, the exclusion is substantially the same in the Policy and in the Minimum Terms and the minor differences in drafting are of no significance.
+Lord Brightman in Swain v The Law Society [1983] 1 AC 598, 618 described the context of the statutory scheme of compulsory insurance: In exercising its power under section 37 The Law Society is performing a public duty, a duty which is designed to benefit, not only solicitor principals and their staff, but also solicitors clients.
+The scheme is not only for the protection of the premium paying solicitor against the financial consequences of his own mistakes, the mistakes of his partners and the mistakes of his staff, but also, and far more importantly, to secure that the solicitor is financially able to compensate his client.
+Indeed, I think it is clear that the principal purpose of section 37 was to confer on The Law Society the power to safeguard the lay public and not professional practitioners, since the latter can look after themselves.
+Thomas J took the same view in Kumar v AGF Insurance Ltd [1999] 1 WLR 1747, 1752A C, where he said that one must approach the construction of this sort of professional indemnity policy against the regulatory background which aimed to make sure that protection was provided to the clients of solicitors.
+As a general rule, solicitors, when performing work on behalf of their clients, owe no duty of care to third parties whose interests are affected by that work: White v Jones [1995] 2 AC 207, 256C D per Lord Goff of Chieveley.
+It is, nonetheless, well known and not disputed in this case that the professional indemnity policy protected not only clients of the solicitors but also those third parties to whom solicitors have been held to owe duties of care in their performance of legal services and to whom they have incurred liability in negligence, such as those who have acted in reliance on negligent misstatements or beneficiaries disappointed as a result of negligence in the preparation or execution of a will.
+In addition, as Lord Toulson points out (para 42), solicitors professional liability may include undertakings given to third parties in the course of acting for their clients.
+A reader of the Policy ascertains the boundaries of AIGs liability by construing the broad statement of cover (para 8 above) and also the broad exclusions (para 10 above) in the context of the regulatory background.
+The exclusion in para 10 above requires the reader to look to the category of the claim and, in this case, ask whether the claim or loss arises out of, is based upon, or is attributable to a breach by Barrington of a term or terms of a contract or arrangement for the supply of services to it in the course of its provision of legal services.
+Prima facie, if Impacts cause of action was a breach of a term of a contract or arrangement by which Impact supplied such services to Barrington, the clause would exclude cover, notwithstanding that Impacts loss could be said to have arisen from Barringtons failure to perform legal services for its clients.
+Two questions therefore arise: the first is whether the contract between Impact and Barrington was of such a nature; the second is whether it is necessary to imply a restriction into the relevant exclusion clause limiting its effect in order to make it consistent with the purpose of the Policy.
+The Disbursements Funding Master Agreement
+Barrington entered into two successive DFMAs with Impact, dated 8 June 2007 and 10 March 2008.
+The relevant terms of the two agreements were in substance the same.
+Like Judge Waksman and the Court of Appeal, I refer in my discussion below to the 2008 DFMA.
+In order to understand the provisions of the DFMA it is necessary to present that contract in its commercial context.
+It formed part of a scheme by which clients who did not qualify for legal aid and who could not otherwise afford to litigate were provided with access to legal services to pursue claims without exposing them to financial risk.
+Normally a client who has not got legal aid has to pay (a) fees to the instructed solicitor for legal services, (b) that solicitors disbursements, and (c) in the event that the claim fails, the other sides recoverable legal costs.
+A significant proportion of (a) and (b) may be recovered from the other side if the claim succeeds.
+But the failure of the claim is a serious financial risk.
+Under the scheme, the instructed solicitors fees were covered by a conditional fee agreement (CFA), which was authorised initially by section 58 of the Courts and Legal Services Act 1990, by which the client paid for the lawyers work only if the case was won and the client received compensation.
+The client, by taking out a legal expenses insurance policy, obtained indemnity against the other sides legal costs, his or her own solicitors disbursements and the premium paid on the policy in the event that the claim failed.
+While the claim was being pursued, the solicitor would have to disburse funds, for example to obtain GP records and medical reports.
+Unless otherwise funded, the solicitor had either to obtain funds in advance from the client or spend his or her own funds and later obtain reimbursement from the client.
+Impact provided funding for such disbursements through the DFMA.
+Judge Waksman described how the funding scheme operated in paras 5 to 18 of his judgment dated 13 December 2013.
+I can therefore summarise the arrangements briefly.
+Claims management companies identified potential claimants.
+A company, which was associated with Impact, operated a data management and administration system called Veracity.
+Claims management companies put details of potential claims onto Veracity and solicitors, including Barrington, would access Veracity to assess particular claims and either accept or reject a claim.
+Before accepting a claim, solicitors ought to have verified the information provided through Veracity and investigated the merits of the claim so as to enable them to enter into a CFA and to enable legal expenses insurance to be obtained.
+If the solicitors provisionally accepted a claim, Veracity required them to indicate whether they required Impact to provide a loan to the client to cover disbursements and the premium on the legal expenses insurance.
+The solicitors provided the relevant details so that Veracity could calculate the amount of the loan.
+Veracity then automatically generated a draft loan agreement and sent an email to the relevant claims management company instructing them to progress the matter.
+The claims management company, as the solicitors agent, took a package of documents for the lay client to sign.
+The pack included an engagement letter, the CFA release forms, data protection documentation, the loan agreement with Impact and the proposal for the legal expenses insurance.
+Once executed, the documents would be sent to the solicitors who would forward the executed loan agreement to Impact.
+Once the solicitors confirmed that they accepted the claim, the legal expenses insurers were notified that the claim should be put on cover.
+On obtaining the insurers confirmation, the solicitors would draw down Impacts loan to pay disbursements and to pay the balance into the solicitors client account to fund future disbursements.
+The legal expenses insurance policies required (a) that the claim had to be assessed as having a reasonable prospect of success, which in one policy was stated as 55%, and (b) that there remained in force a valid CFA.
+This arrangement was reflected in the first recital of the DFMA which stated: [Impact] facilitates the presentation of PI claims to A. solicitors through its online claims introduction and tracking service, Veracity and provides funding for disbursements under Credit Agreements in respect of those PI Claims.
+In clause 2.1 Impact offered credit facilities to clients selected by Barrington in its discretion, up to a specified aggregate sum, but, being a framework agreement, did not commit Impact to advance any sums.
+If Impact advanced sums to a client, Barrington was obliged by clause 2.2 to pay an administration fee to Impact on Impacts execution of each credit agreement and also a quarterly monitoring fee.
+The Administration Fee was defined in the DFMA (clause 1) as: a fee in respect of each Credit Agreement in the sum as notified by [Impact] to the Firm from time to time and payable by the Firm, together with Value Added Tax (if applicable) by way of remuneration for the services of [Impact].
+The DFMA contained undertakings by each party about how each would behave during the currency of the agreement.
+Impact founds its claim against Barrington on clauses 6.1 and 13.1 of the DFMA.
+In clause 6.1 each party undertook that: it shall comply with all applicable laws, regulations and codes of practice from time to time in force and each party indemnifies the other against all loss, damages, claims, costs and expenses which the other party may suffer or incur as a result of any breach by it of this undertaking.
+In clause 13.1 Barrington represented and warranted to Impact that: the services provided or to be provided by the Firm to the Customer shall be provided to the Customer in accordance with their agreement with the Customer as set out in the relevant Conditional Fee Agreement.
+Judge Waksman held that Barrington, by failing to give advice and properly to assess the merits of the compensation claims, breached those provisions of the DFMA.
+That finding has not been challenged.
+Barrington also undertook personal liability to repay the loans which Impact made to its clients.
+In clause 7.1 Barrington undertook to pay to Impact the sums due by the client under the credit agreement out of the clients damages under the claim or (in the event of the claim failing) out of the legal expenses insurance.
+More onerously, in clause 7.2 Barrington undertook to pay to Impact all sums due by the customer under the credit agreement (ie the client) if the customer breached the credit agreement, if circumstances arose that entitled Impact to terminate the credit agreement or if the credit agreement was unenforceable as a result of an act or omission by Barrington.
+The provision of loans to Barringtons clients as envisaged by the DFMA was undoubtedly the provision of financial services to the clients.
+But were the DFMA and the resulting loans to clients also a service which Impact provided to Barrington? In my view they were, for the following four reasons.
+First, Barrington contracted as a principal with Impact and not as agent for its clients.
+A contract between two principals might have provided for a service to be given to a third party alone.
+But that is not what happened in this contract.
+This is because, secondly, Barrington clearly obtained a benefit from the funding of its disbursements.
+Solicitors are personally responsible for paying the persons whom they instruct to do work or provide services in relation to a particular case, whether or not they receive funds from their clients.
+But for that funding from Impact, Barrington would have had to obtain funds from its clients, who might not have been able to afford to pay, thus making pursuit of the claim impossible, unless Barrington itself funded the disbursements in the hope of recovering its outlays through success in the claim.
+Impacts loans were available to fund not only the disbursements but also the premiums on the legal expenses insurance, thereby enabling the litigation to be fully funded.
+Thirdly, this was not an incidental or collateral benefit to Barrington derived from a service provided to its clients but was part of a wider arrangement which I have described in paras 20 22 above, by which solicitors were able to take up claims, which their clients could not otherwise fund, and earn fees and success fees if the claim succeeded.
+Fourthly, it was a service for which Barrington paid the administration fee under clause 2 of the DFMA, undertook the onerous obligation to repay Impact if a client breached the credit agreement (clause 7.2), and entered into the obligation under clause 6.1 and gave the warranty in clause 13.1, on which Impact won its claim for damages against Barrington.
+I therefore conclude that the DFMA was a contract for the supply of services to Barrington.
+Impact contracted to supply those services to Barrington in the course of Barringtons provision of legal services.
+Impacts claim against Barrington arose out of the latters breach of that contract.
+Prima facie, therefore, the exclusion which I have set out in para 10 above applies to defeat Impacts claim against AIG, unless there is a basis for implying a restriction into that exclusion.
+I turn then to that question.
+Can one imply a restriction on the exclusion?
+I see no basis for implying additional words into the exclusion in order to limit its scope.
+In Marks and Spencer plc v BNP Paribas Securities Services Trust Co (Jersey) Ltd [2016] AC 742 this court confirmed that a term would be implied into a detailed contract only if, on an objective assessment of the terms of the contract, the term to be implied was necessary to give the contract business efficacy or was so obvious that it went without saying (paras 15 31 per Lord Neuberger).
+This court also held that the express terms of the contract must be interpreted before one can consider any question of implication (para 28).
+In my view, it cannot be said that the Policy would lack commercial or practical coherence if a term restricting the scope of the exclusion were not implied.
+I would allow the appeal.
+In the present case it is fairly said that the breach of duty in the warranty on which Impact relies is a breach of duty by Barrington to its clients.
+But Impacts claim is not a claim which is derived from the clients claims.
+Defences which Barrington might be able to plead against its clients cannot be advanced against Impact.
+For example, if a client were careless in informing Barrington of the circumstances of the injury on which his or her claim was based, and Barrington also was negligent in failing properly to investigate and prosecute the claim, which then failed, the clients claim might be met with a defence of contributory negligence.
+No such defence would arise out of those circumstances in relation to a claim by Impact against Barrington.
+Thus Impacts entitlement under the warranty would not be the same as the clients claim in all cases and might be larger in some cases.
+In short, Impacts cause of action under the DFMA is an independent cause of action.
+Excluding such a claim creates no incoherence in the Policy, as it is the combination of the opening clause and the exclusions that delimits AIGs contractual liability.
+Indeed, it would be consistent with the purpose of the Policy suggested by the context, which I discussed in paras 16 and 17 above, if such a claim were excluded from that liability.
+Conclusion
+LORD TOULSON: (with whom Lord Mance, Lord Sumption and Lord Hodge agree)
+Under the Third Parties (Rights against Insurers) Act 1930, Impact is entitled to enforce any right of indemnity which Barrington had against AIG in respect of the judgment which Impact obtained against Barrington.
+Impacts argument that Barrington was entitled to such indemnity under its professional liability policy, which AIG underwrote, is founded on two propositions.
+First, it is argued that the clause relied on by AIG to deny liability is an exclusion clause, which must be narrowly construed in accordance with ordinary principles of contract law.
+Secondly, it is argued that the exclusion is well capable of being interpreted in a way which does not exclude cover under the policy.
+Both points are important.
+The first raises a point of general importance about the proper approach to the interpretation of a professional liability policy which is of a familiar kind.
+The second is important because the particular clause is a standard form of wording in solicitors professional liability policies.
+I take the points in turn.
+The fact that a provision in a contract is expressed as an exception does not necessarily mean that it should be approached with a pre disposition to construe it narrowly.
+Like any other provision in a contract, words of exception or exemption must be read in the context of the contract as a whole and with due regard for its purpose.
+As a matter of general principle, it is well established that that if one party, otherwise liable, wishes to exclude or limit his liability to the other party, he must do so in clear words; and that the contract should be given the meaning it would convey to a reasonable person having all the background knowledge which is reasonably available to the person or class of persons to whom the document is addressed. (See, among many authorities, Dairy Containers Ltd v Tasman Orient Line CV [2005] 1 WLR 215, para 12, per Lord Bingham.) This applies not only where the words of exception remove a remedy for breach, but where they seek to prevent a liability from arising by removing, through a subsidiary provision, part of the benefit which it appears to have been the purpose of the contract to provide.
+The vice of a clause of that kind is that it can have a propensity to mislead, unless its language is sufficiently plain.
+All that said, words of exception may be simply a way of delineating the scope of the primary obligation.
+The Law Commission and the Scottish Law Commission gave a homely illustration in their joint report on Exemption Clauses, 1975, Law Com No 69, para 143: If a decorator agrees to paint the outside woodwork of a house except the garage doors, no one can seriously regard the words of exception as anything but a convenient way of defining the obligation; it would surely make no difference if the promise were to paint the outside woodwork with a clear proviso that the contractor was not obliged to paint the garage doors, or if there were a definition clause brought to the promisees attention saying that outside woodwork did not include the garage doors.
+Such provisions do not deprive the promisee of a right of a kind which social policy requires that he should enjoy, nor do they give the promisor the advantage of appearing to promise more than he is in fact promising.
+This approach was reflected in the Law Commissions Bill which passed into law as the Unfair Contract Terms Act 1977.
+Section 3 brought under statutory control, in cases where one party deals with the other as a consumer or on the others standard terms of business, a term which excludes or restricts the others liability for breach, or a term which entitles the other to render a contractual performance substantially different from that which was reasonably expected of him.
+The Act does not apply to insurance contracts (Schedule 1, paragraph 1), but it is nonetheless instructive to note the types of exemption clause which the Law Commissions saw as potentially suspect in consumer contracts.
+In the case a non consumer contract (with which we are concerned, albeit that consumer protection was an important end purpose), Photo Production Ltd v Securicor Transport Ltd is authority that business people capable of looking after their own affairs should be free between themselves to apportion risks as they choose: [1980] AC 827, 843 (Lord Wilberforce) and 851 (Lord Diplock).
+That brings me to the contract in the present case.
+The policy schedule and the policy wording are both headed in large letters Solicitors Professional Liability.
+Lord Hodge has set out its material terms, but it is convenient to repeat the key parts.
+Under the heading Cover appear the words: The Insurer will pay on behalf of any Insured all Loss resulting from any Claim for any civil liability of the Insured which arises from the performance or failure to perform Legal Services (which are themselves broadly defined).
+Under the heading Exclusions a number of heads of claims or loss are excluded: bodily/psychological injury; directors and officers liability; employment breaches and discrimination; fines and penalties; fraud or dishonesty; partnership disputes; prior claims; property damage; trade debts; and war/terrorism.
+We are concerned with the clause 6.6, which in the minimum terms is headed Debts and Trading Liabilities.
+These are defined to include any claim or loss arising out of: breach by any Insured of the terms of any contract or arrangement for the supply to, or use by, any Insured of goods or services in the course of providing Legal Services.
+There are two points to highlight about the nature and purpose of the policy.
+One is that the relevant terms replicate the minimum terms of the cover which Barrington was required to maintain under the Solicitors Indemnity Insurance Rules 2009.
+As the House of Lords recognised in Swain v The Law Society [1983] 1 AC 598, 610, the paramount purpose of The Law Society being given statutory power to require solicitors to maintain insurance cover against professional liability was the protection of that section of the public that makes use of the services of solicitors (Lord Diplock).
+The second, and related point, is that the policy describes itself as a professional liability policy.
+These matters are important when considering its scope.
+What sort of liabilities are commonly understood as professional liabilities of solicitors or, in Lord Diplocks language, what is the sector of the public that makes use of their services? First, and most obviously, there are the liabilities which solicitors may incur to their clients as a result of their professional retainer.
+Secondly, in connection with acting for their clients, they may give undertakings to third parties.
+As officers of the court solicitors are expected to abide by undertakings given by them professionally, and if they do not do so they may be called upon summarily to make good their defaults (John Fox v Bannister, King & Rigbeys (Note) [1988] 1 QB 925, 928, per Nicholls LJ).
+That is plainly a form of professional liability.
+Exceptionally, there are also other cases where a solicitor has been held liable to a quasi client, as in White v Jones (the disappointed beneficiary under a will) [1995] 2 AC 207.
+There is a detailed treatment of the scope of solicitors professional liability to third parties in Jackson & Powell on Professional Liability, 2011, 7th ed, paras 11 043 & ff.
+It is a developing topic and the boundaries are not entirely clear.
+In laying down the minimum terms of professional liability cover required to be maintained by solicitors, it would have been possible for the drafting committee to have attempted to structure them by defining in positive terms the scope of a solicitors professional liability for which indemnity cover was required, but it opted to delineate the liability against which solicitors should be required to maintain cover for public protection by a process of elimination, which involved combining an insuring clause far broader than any ordinary understanding of a solicitors professional liability with a list of exclusions.
+It is important to recognise that list for what it is, namely an attempt to identify the types of liability against which solicitors are not required by law to be covered by way of professional liability insurance.
+I would reject the first stage of Impacts argument about the way in which this policy and the list of exceptions are to be approached.
+It treats the minimum terms set by the Law Society as requiring, through the opening clause, a far broader scope of cover than would have been necessary for the protection of clients and third parties to whom they may undertake professional responsibilities, subject only to exceptions which (it is argued) are to be construed as narrowly as possible.
+That involves a misapprehension of the true nature and purpose of the minimum terms.
+This brings me to the second point, which is the meaning of the language of clause 6.6.
+The Court of Appeal approached the clause by saying that it was necessary to stand back from it and consider its essential purpose.
+I do not disagree, but I would make two further comments.
+First, the essential purpose of the clause has to be seen in the context of the essential purpose of the policy, as to which I have expressed my view.
+Secondly, there is substance in AIGs complaint that the court omitted to grapple with the language of the clause.
+I agree with Lord Hodge that the DFMA was a contract for the provision of services to Barrington, for the reasons given by him and by Judge Waksman QC in his impressive judgment.
+I would add that this conclusion to my mind accords well with the essential purpose of clause 6.6.
+Barrington and Impact made a commercial agreement as principals for their mutual benefit, as well as for the benefit of Barringtons clients.
+Impact was not a client or quasi client of Barrington, and the promise by Barrington which led to the judgment obtained by Impact was part of the commercial bargain struck by them.
+It did not resemble a solicitors professional undertaking as ordinarily understood, and it falls aptly within the description of a trading liability which the minimum terms were not intended to cover.
+For those reasons, as well as the reasons given by Lord Hodge with which I fully agree, I too would allow the appeal and restore the judgment of Judge Waksman QC.
+LORD CARNWATH: (dissenting)
+The issue in this appeal is a narrow issue of construction of an exclusion clause in a solicitors professional indemnity policy.
+The facts have been set out by Lord Hodge.
+As he explains, the arrangements between the funder (Impact) and the solicitors (Barrington) were governed by two Disbursement Funding Master Agreements (DFMAs).
+The DFMAs were in effect framework agreements providing the machinery for the making of loans to clients of Barrington to meet disbursements in litigation to be funded by CFAs.
+In breach of its duties to its clients, and consequently also to Impact under the DFMAs, Barrington failed to exercise proper care in selecting cases, with the result that the disbursements were irrecoverable, either from the defendants or the ATE or LEI insurers.
+Barrington is now in liquidation.
+Having obtained judgment against it for 581,353.80, Impact has brought proceedings against Barringtons insurers, AIG Europe Ltd (AIG) under the Third Parties (Rights Against Insurers) Act 1930.
+The short question is whether the DFMAs fell within the expression any contract or arrangement for the supply to, or use by, any insured of goods or services in the course of (Barringtons) Practice under the exclusion clauses in the AIG policy.
+It is common ground that Barringtons liability to repay the loans made by Impact by way of disbursements fell in principle within the general cover provided by clause 1 of that policy.
+The question is whether that liability is excluded by sub clause 6 of clause 6 of the Minimum Terms applicable to the policy: 6.
+The insurance must not exclude or limit the liability of the insurer except to the extent that any claim or related Defence Costs arise from the matters set out in this clause 6 6.6 Debts and Trading Liabilities Any trading or personal debt of any insured, or (a) (b) breach by any insured of the terms of any contract or arrangement for the supply to, or use by, any insured of goods or services in the course of the Insured Firms Practice (c) guarantee, indemnity or undertaking by any particular Insured in connection with the provision of finance, property, assistance or other benefit or advantage directly or indirectly to that Insured.
+There is a similar exclusion clause in the policy itself under the heading Trade Debts.
+Nothing turns on any difference between the two clauses.
+In the High Court, His Honour Judge Waksman QC, held that the exclusion applied.
+He accepted that Impact did not provide financial services to Barrington: A loan might properly be described as a kind of financial service.
+But it cannot be said that by the Funding Agreement Impact made, or agreed to make, loans to Barrington, for the borrowers were the lay clients even if Barrington agreed to guarantee repayment by them.
+Nor can it be said that the loan moneys were for the use of Barrington in any real sense.
+The fact that Barrington was the conduit for the moneys and distributed them for the purpose of paying disbursements and insurance premiums on behalf of the clients does not mean that the moneys were for its use in any beneficial sense. (para 49) However, he thought that the overall facility provided to the firm could properly be described as a service within the meaning of the clause: Impact was making available to Barrington a valuable facility at Barringtons option, namely claims whose disbursement element (including the all important ATE insurance) was fully funded leaving the solicitors to provide their services under the CFA.
+The fact that the funding is made by way of loans to the clients does not affect the fact that the overall facility is provided to Barrington and it is properly described as a service and one which, if used, enables it to trade by bringing in more cases. (para 54)
+Longmore LJ (with the agreement of the other members of the Court of Appeal) took a different view.
+He held that the purpose of the exclusion was more limited: To my mind the essential purpose of the exclusion is to prevent insurers from being liable for what one might call liabilities of a solicitor in respect of those aspects of his practice which affect him or her personally as opposed to liabilities arising from his professional obligations to his or her clients.
+Thus if a solicitor incurs liability to the supplier of, for example, a photocopier, insurers do not cover that liability nor would they cover obligations to a company providing cleaning services for the solicitors offices.
+If the office premises are leased by the partnership or held subject to a mortgage to a bank, the obligations under such lease or mortgage (or any guarantee of such lease or mortgage) would not be covered either.
+It is these sort of personal obligations (which may nevertheless be part of a solicitors practice as a solicitor) which are not intended to be covered.
+These obligations are to be distinguished from the obligations which are incurred in connection with the solicitors duty to his clients which are intended to be covered. (para 19) The obligations arising out of the loans made to cover disbursements in intended litigation were essentially part and parcel of the obligations assumed by a solicitor in respect of his professional duties to his client rather than obligations personal to the solicitor (para 21), and not therefore within the scope of the exclusion.
+Mr Cannon QC for AIG submits that Longmore LJ was wrong to depart from the reasoning of the trial judge.
+He asked himself the wrong question.
+The key question was whether Barrington received services under the DFMAs, not the nature of their obligations to Impact or to their clients.
+He adopted an intuitive approach to what he thought to be the purpose of the agreement, rather than interpreting and applying the words of the agreement itself.
+Mr Cannon points to the following valuable benefits, or services, received by Barrington each time a loan was made to a client: (i) payment of such part of the loan as it directed Impact to pay to third party suppliers (ie to persons who were owed money in respect of disbursements which had already been incurred) (clause 3.1); (ii) payment of the balance into Barringtons client account where it was to be used to fund disbursements (clauses 3.2 and 4.l(a)); and (iii) the ability to take on the clients case and so to earn fees.
+He emphasises that a solicitor is liable to pay disbursements whether or not he is put in funds by his client.
+Part of the service provided to Barrington was the ability to take on the case without having to fund the disbursements or take the financial risk that they would not be recovered.
+For Impact, Mr Dutton QC submits that an exclusion clause is to be construed strictly (citing Lewison Interpretation of Contracts 6th ed (2015), para 12.04, and, in relation to insurance exclusion clauses, Tektrol Ltd (formerly Atto Power Controls Ltd) v International Insurance Co of Hanover Ltd [2005] EWCA Civ 845; [2006] 1 All ER (Comm) 780).
+Longmore LJ was right to treat the exclusion as directed to liabilities arising out of contracts in respect of goods or services utilised by Barrington in the course of its practice, that is for the purpose of carrying out legal work for its client.
+Typical examples would be contracts for supply of photocopiers or office cleaning services.
+The mere fact that Barrington derived a commercial benefit from the DFMA was not enough to bring it within the exclusion.
+Of the three categories identified by Mr Cannon, the first two were funds provided to the clients not beneficially to Barrington.
+As Judge Waksman rightly held, this was not affected by the fact that Barrington was the conduit for the money (para 49).
+The third, Barringtons ability to take on the cases, was an incidental benefit of the DFMAs but not their purpose, and too general to come within the words of the exclusion.
+Discussion
+Interpretation of a contract turns on the meaning of the relevant words in their documentary, factual and commercial context (per Lord Neuberger, Arnold v Britton [2015] AC 1619, para 15).
+It is a fair criticism of Longmore LJs judgment, with respect, that having stood back from the detail of the contract (para 19) he never returned to the actual words of the exclusion clause.
+On the other hand, those words seen in context do in my view support a narrower approach than that taken by the judge.
+The clause directs attention to the purpose of the contract or arrangement: what was it for, not what were its by products or its consequences.
+Furthermore the word services does not stand alone.
+The composite phrase goods or services implies that the services will be supplied to or used in the practice in a way comparable to that in which goods are supplied or used.
+It is not enough that they are of benefit to the firm.
+That view is reinforced by the contrast with the much wider words in the following sub clause: other benefit or advantage directly or indirectly to that Insured.
+As to the three services identified by Mr Cannon, I agree with Mr Duttons response.
+The essential service provided by the DFMA, as the judge found, was the provision of loans to Barringtons clients, not to Barrington.
+No doubt, as Mr Cannon submits, it had the incidental benefits to Barrington of enabling it to take on cases and so earn fees, and of protecting it against potential default by its clients.
+To that extent perhaps it can be seen, in the judges words, as a facility for Barrington, which can loosely be described as a service.
+But that was not the essential purpose of the contract, nor was it a service comparable in any way to the supply of goods or services for use in the practice.
+There is a helpful parallel with Tektrol, relied on by Mr Dutton, in which the Court of Appeal had to interpret an exclusion clause referring to erasure loss distortion or corruption of information on computer systems caused deliberately by malicious persons.
+It was held that the words did not cover loss of a software code as a result of the theft of the only computer on which it was stored.
+Although the word loss taken on its own might have been wide enough to cover that event, the context, and the other words with which it was associated, showed that it was limited to loss due to interference by electronic means (noscitur a sociis: see paras 28 29, per Sir Martin Nourse).
+In the same way in this clause the juxtaposition of goods and services, taken with the references to supply and use in the practice, suggests something more specific than a general facility or benefit such as that identified by the judge.
+For completeness, I should mention to dismiss three points which were raised in oral argument: i) Whether the liabilities incurred by Barrington to Impact were different in kind from those incurred to the clients.
+While the two are inevitably related, they are in principle separate causes of action.
+In any event this issue throw no light on the issue in the appeal which is concerned with the purpose of the contract, rather than the characterisation of the liabilities which may arise under it. ii) The administration fee.
+Under clause 2.2, on the signing of a credit agreement with a client, Barrington was required to pay an administration fee to Impact.
+This was defined as a fee by way of remuneration for the services of (Impact) (clause 1.1).
+It was faintly suggested that this might throw some light on whether the contract was for supply of a service under the exclusion.
+This point was not raised in argument below, and the judge made no findings on it.
+We were told by Mr Dutton that the administration fee was, as appears from the context, no more than a fee connected with the particular service of drawing up of the credit agreements.
+In any event, it throws no light on the purpose of the contract as a whole, or whether the benefits enjoyed under it fell within the words of the exclusion. iii) Comparisons with the treatment of goods and services under VAT law.
+The Court of Appeal invited submissions on whether any useful guidance could be drawn from cases concerning services to third parties under VAT law, (see now in Airtours Holidays Transport Ltd v Commissioners for Her Majestys Revenue and Customs [2016] 4 WLR 87).
+That seems to me to introduce a further complication without any countervailing illumination.
+Longmore LJ was right to conclude that, given the very different legal context, no assistance could be gained from that source.
+In conclusion, in respectful disagreement with my colleagues, I would uphold
+the decision of the Court of Appeal and dismiss the appeal.

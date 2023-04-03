@@ -1,0 +1,41 @@
+The question in this appeal is whether, in the period 1 October 2002 to 5 December 2005, the takings from slot machines (the disputed machines) operated by the appellants (Rank) were subject to Value Added Taxation (VAT).
+If the takings resulted from the provision of a gaming machine, as defined, then they were subject to VAT.
+The disputed element of the definition of gaming machine was: the element of chance in the game is provided by means of the machine.
+If this was not satisfied, then the takings from the disputed machines were exempt from VAT.
+The disputed machines were computerised.
+The machines typically pay out according to the symbols on the machine when it stops.
+The positions the reels come to rest on are chosen by a Random Number Generator (RNG), which is the system for producing numbers for the machines software.
+The RNG is constantly generating random numbers.
+As soon as the lever is pulled or the button is pressed, the most recent random number is used to determine the result.
+This means that the result varies depending on exactly when the game is played.
+It was common ground that a slot machine is a gaming machine for VAT purposes when the element of chance is provided by a component that forms part of the body of the machine on which the game is played.
+This appeal concerned multi terminal systems.
+In each case the RNG might be housed in a separate box or hung on the wall, but was connected by a wire to the playing terminals.
+Up to six playing terminals might be served by a single remote RNG.
+Each terminal was designed to be used with the RNG obtained from the manufacturer of the terminal, the terminals and RNGs were sold together, and each RNG was manufacturer specific.
+Though linked to a single RNG, each terminal could be operated independently and could offer the same or different games.
+The VAT and Duties tribunal concluded, in favour of Rank, that the disputed machines were not gaming machines because the RNG was not part of any terminal and the element of chance was not provided by the machine containing the slot.
+The High Court agreed.
+The Court of Appeal overturned this decision; Rimer LJ considered that each terminal and the single RNG could together constitute a machine.
+Rank appealed to the Supreme Court.
+The Supreme Court unanimously dismisses the appeal.
+Lord Carnwath gives the judgment of the Court with which Lord Neuberger, Lord Reed, Lord Toulson and Lord Hodge agree.
+The question is how the element of chance is provided in the game; the definition implies an active function in the game as it is played, rather than the mere passive transfer of information to the player.
+No one suggested any good policy reason for distinguishing between on the one hand, embedded software or a single terminal RNG, and on the other a multi terminal RNG. [22 23] The natural meaning of machine in context supports the Court of Appeals approach.
+A typical and accurate definition from the Concise Oxford English Dictionary is an apparatus using or applying mechanical power, having several parts, each with a definite function and together performing certain kinds of work.
+The overall purpose is the creation of a game of chance for the player, in which purpose both the terminal and the RNG play, and are designed to play, essential and connected functions.
+The tribunals approach limits attention to the physical identity of the equipment as viewed by the player, but ignores the necessary components of the task which the equipment is performing.
+The terminal is useless for playing the game without the RNG.
+Where the RNG is linked to a single terminal, the tribunal saw nothing wrong in principle in viewing them as together being a single machine for playing the game.
+Similarly, where the RNG serves several terminals, it is appropriate to treat the combined apparatus as a machine. [25 26] Rank argued that this approach is inconsistent with the limits on the numbers of machines on any premises (section 31 of the Gaming Act 1968).
+That restriction seems directed at the terminals available to individual players.
+It is not necessary to resolve the issue.
+The practical answer is that the word machine, where it matters, can refer to an individual terminal.
+But the relevant phrase is the element of chance in the game is provided by means of the machine.
+Chance is the possibility of something happening, not in the abstract, but for a particular player in the context of a particular game; the possibility of that player getting the combination of numbers which wins a prize, or a combination which does not. [29 30] The outcome of the game is determined by pressing a button or pulling a lever on the terminal.
+It is a more sophisticated equivalent of a player rolling a dice, where the winning number is produced by means of the players action in throwing the dice.
+The RNG produces a pre programmed sequence of numbers which changes very rapidly.
+The element of chance in any game is provided by means of the players action in pressing the button, so interrupting that ever changing sequence at a particular moment.
+The terminal is not simply communicating information from the RNG, but is the active means by which the winning or losing combination is generated.
+The RNG is a necessary part of the process, but its response (wherever it is situated) is entirely automatic.
+In these circumstances, it is a fair use of language, and consistent with the apparent policy of the legislation, to describe the element of chance as provided by means of the terminal. [31] Accordingly, Ranks appeal is dismissed. [32]

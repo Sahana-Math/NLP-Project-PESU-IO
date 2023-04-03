@@ -1,0 +1,36 @@
+Liability for non domestic rates depends on a property being entered as a hereditament in the rating list.
+Section 46A of and Schedule 4A to the Local Government Finance Act 1988 (the 1988 Act) create a completion notice procedure, by which a new building that has not yet been occupied may be brought into the rating list.
+Where a completion notice has been validly served the building to which it relates is deemed to have been completed on the date specified in the notice.
+It is then shown in the rating list as a separate hereditament, valued as if it were complete, and its owner or occupier becomes liable to an assessment for non domestic rates.
+In January 2009, the respondent (UKI) began the redevelopment of a building at 1 Kingsway.
+In February 2012, the appellant council informed UKIs agents that it intended to serve a completion notice specifying a completion date of 1 June 2012.
+The building was being managed by Eco FM (Eco), under a contract with UKI, but Eco had no authority to accept service on UKIs behalf.
+On 5 March 2012, the council delivered a completion notice by hand to the building, specifying 1 June 2012 as the completion date.
+It was addressed to Owner, 1 Kingsway, London WC2B 6AN.
+It was given to a receptionist employed by Eco, who scanned and emailed a copy of the notice to UKI, which received it by no later than 12 March 2012.
+On 29 March 2012, an appeal was lodged by UKIs agents against the completion notice, on behalf of Eco, on the grounds that the service of the notice was invalid because it was not served on UKI but on the receptionist for Eco.
+On 7 May 2013, the premises were brought into the rating list with effect from 1 June 2012.
+UKI proposed that the entry be deleted due to invalid service, but this was not accepted by the valuation officer.
+The Valuation Tribunal allowed the appeal against the completion notice and the inclusion of the premises in the rating list.
+The Upper Tribunal reversed that decision, but it was re instated by the Court of Appeal.
+The issue for the Supreme Court is whether the completion notice was validly served on the date it was received by UKI, in circumstances where: (i) it was not delivered directly but passed through the hands of Ecos receptionist, who was not authorised for that purpose by either party; and (ii) it was received in electronic, rather than paper form.
+Indirect service
+The Supreme Court unanimously allows the appeal and restores the order of the Upper Tribunal.
+Lord Carnwath gives the lead judgment.
+(i) The means of service prescribed by the statute are not exclusive.
+Under ordinary principles the real issue is whether the council caused the notice to be received by UKI [36].
+Regarding the interposition of a third party, in the form of the Eco receptionist, it is unnecessary and unrealistic to introduce concepts of agency or statutory delegation.
+As the Upper tribunal observed, the Eco receptionist did no more than would reasonably be expected of a responsible employee in that position.
+It was the natural consequence of the councils actions [37].
+Causation does not depend on control.
+For example, if a notice is correctly addressed, but mistakenly delivered to a neighbour who passes it on to the intended recipient, there is no reason why that should not be treated as effective service under ordinary principles of causation, even though that neighbour was not under the control of either party [38].
+Arguments about possible uncertainty are not persuasive, since some uncertainty in this respect is inherent in the legislation, in which neither the methods of service nor the dates of service in different circumstances are exhaustively defined.
+Where the date of service is critical, a billing authority may choose a statutory method of service that eliminates or minimises the risk of invalidity by failure to specify the correct date of service.
+If it chooses a non statutory method, it must bear that risk.
+The risk of prejudice to the building owner is limited, as outside the statutory methods service depends on actual receipt by the intended recipient [42 43]. (ii) Electronic communication Before the enactment of the Electronic Communications Act 2000 (the 2000 Act), the state of the law was such that service by fax was valid.
+There is no good reason for distinguishing transmission by fax from transmission by email as in this case.
+Parliament must be taken to have legislated against that background.
+The respondent has not been able to indicate any provision of the 2000 Act that expressly or impliedly restricts the previous law, nor an overall inconsistency sufficient to overcome the general presumption that Parliament does not intend to change the common law [44 45].
+The purpose of the 2000 Act and Orders made under it is to provide a clear and certain basis for the routine use of electronic methods by authorities.
+That purpose is not undermined by a conclusion that under general principles, and on the particular facts of this case, the notice was successfully served by email.
+Therefore, the property was correctly brought into the rating list with effect from 1 June 2012 [46].

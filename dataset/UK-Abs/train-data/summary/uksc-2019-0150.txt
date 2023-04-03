@@ -1,0 +1,52 @@
+In this appeal, the Supreme Court is asked to decide whether findings of fact made by the General Court of the European Union (the General Court) are binding in subsequent domestic proceedings, under the EU principle of absolute res judicata.
+The appellants (collectively known as Servier), developed and manufactured the drug Perindopril, which is used to treat cardiovascular diseases including high blood pressure.
+Perindopril falls within the class of medicines known as angiotensin converting enzyme inhibitors (ACE inhibitors).
+The respondents, who are the claimants in the domestic proceedings, are the national health authorities of England, Wales, Scotland and Northern Ireland.
+Between May 2011 and September 2012, the claimants issued proceedings in England and Wales which alleged that Servier had: (i) breached article 101 of the Treaty on the Functioning of the European Union (TFEU) and/or Chapter 1 of the Competition Act 1998 (the 1998 Act) by entering into anticompetitive agreements with potential generic manufacturers and/or suppliers; and (ii) abused its dominant position in the market contrary to article 102 TFEU and/or Chapter 2 of the 1998 Act.
+The claimants contend that this allegedly unlawful conduct has delayed the entry of cheaper generic versions of Perindopril onto the UK market, which has, in turn, caused the claimants to suffer substantial financial loss.
+Serviers conduct relating to Perindopril was investigated by the European Commission (the Commission).
+On 9 July 2014, the Commission issued a decision which found that Servier had infringed articles 101 and 102 TFEU.
+Servier appealed to the General Court seeking the annulment of the Commissions decision.
+The General Court judgment upheld all but one of the Commissions findings of infringement of article 101 TFEU, but found that Servier had not infringed article 102 TFEU.
+This was because the relevant product market was not limited to Perindopril but extended to ACE inhibitors generally, and Servier did not have a dominant position in that wider market.
+Both the Commission and Servier have appealed to the Court of Justice of the European Union (CJEU).
+As there are significant overlaps, the domestic proceedings cannot proceed to a final trial until the EU proceedings have been resolved.
+However, in October 2016, Servier was granted permission to plead that the claimants failed to take reasonable steps to encourage switching from the prescription of Perindopril to cheaper generic ACE inhibitors.
+Servier asserts that, even if liability and causation are established, the claimants damages should be reduced or extinguished: (i) because the claimants failed to mitigate their loss; (ii) for contributory negligence; and (iii) because the losses claimed are too remote.
+It was determined that there should be a trial of preliminary issues relating to this argument.
+Servier argued that certain findings in the General Court judgment in particular concerning the extent to which Perindopril can be substituted for other ACE inhibitors are binding on the domestic courts in the preliminary issues trial.
+However, both the High Court and the Court of Appeal held that none of the findings relied on by Servier constituted res judicata for these purposes.
+Servier appealed to the Supreme Court.
+It claimed that the point of law is uncertain, not acte clair, and that the Supreme Court should therefore refer the question to the CJEU under article 267 TFEU.
+The Supreme Court unanimously dismisses Serviers appeal.
+It holds that the General Court findings Servier relies on are not binding in the domestic proceedings, and declines to make a reference to the CJEU.
+Lord Lloyd Jones gives the judgment, with which all members of the Court agree.
+The EU principle of absolute res judicata only applies to judicial decisions which have become definitive, either after all rights of appeal have been exhausted or after the time limits for exercising those appeal rights have expired.
+The General Courts findings are not yet definitive, and may never become definitive, because they may be reversed or rendered redundant in the appeal pending before the CJEU.
+The findings are not, therefore, binding in the domestic proceedings under the EU principle of absolute res judicata.
+A reference to the CJEU is unnecessary to decide the issues in this case [31 32].
+The Court nevertheless sets out its views on the underlying issues of law, in the hope that they might assist at later stages of the domestic proceedings [32].
+The leading authority on the EU principle of absolute res judicata is P&O European Ferries (Vizcaya) SA and Diputacin Foral de Vizcaya v Commission (Joined Cases C 442/03P and C 471/03P) [2006] ECR I 4845 [33 37].
+This explains that, where the EU courts have annulled a Commission decision on substantive as opposed to procedural grounds, the substance of that judgment becomes binding on all the world, not just on the parties.
+This ensures stability of legal relations, because it means that a matter which has been definitely settled by judicial decision cannot be referred to the courts by different parties for reconsideration [38].
+The purpose of the EU principle of absolute res judicata is to prevent the annulling judgment from being called into question in subsequent proceedings.
+This purpose provides the key to the principles scope and applicability [38, 42].
+Absolute res judicata gives dispositive effect to the judgment itself.
+It therefore extends to the essential reasons for the judgment (or ratio decidendi), not just to the outcome set out in the operative part [39 40].
+Only those aspects of the judgment which explain why the Commission decision has been annulled form part of the ratio decidendi, because those are the aspects which must be respected to prevent the annulling judgment from being called into question later on [42].
+The General Court judgment annuls the Commissions finding that Servier had infringed article 102 TFEU, on the basis that the Commission was wrong to conclude that the relevant product market was limited to Perindopril, as opposed to all ACE inhibitors.
+The General Court made a number of findings of fact in this regard, including those Servier relies on.
+Accordingly, if the General Court judgment becomes definitive and it can be shown that the relevant findings were an essential basis of that judgment, it would not be possible to challenge those findings in later proceedings which sought to contradict the General Courts conclusions on the relevant product market within article 102 TFEU [46].
+It is not necessary to treat the General Courts findings as binding in any other legal context.
+If the CJEU upholds the General Court judgment that Servier did not infringe article 102 TFEU, the claimants will no longer pursue their article 102 claim.
+In any case, at present, the domestic proceedings do not concern the relevant product market for the purposes of that article.
+Instead, Servier relies on the General Courts findings to support its defence based on mitigation of loss flowing from alleged anti competitive agreements contrary to article 101 TFEU.
+The General Courts findings cannot be detached from the authority of the annulling judgment and deployed in this wholly different context [48].
+Servier contends that the General Courts findings are binding in any EU law proceedings which raise the same factual issues [47].
+The Supreme Court rejects this argument because it is not supported by the EU or domestic case law [49 60].
+This is not surprising, because it would be inconsistent with the purpose of the principle of absolute res judicata [49].
+Serviers proposed approach also raises practical difficulties because it has no workable defined limits.
+More generally, if it is confined to the context of the consequences of an annulling judgment, the principle of absolute res judicata promotes legal certainty, the effective judicial control of EU institutions and the maintenance of the EU legal order.
+However, once freed from this restriction, it could operate in way that is arbitrary and unjust, binding persons not party to the original dispute in a wholly different legal context in a way which would be inconsistent with the principles of a fair trial [61].
+The claimants claims in the domestic proceedings do not call into question or undermine the General Court judgment or its consequences in any way, nor do they contradict the General Courts decision as to what needs to be done to comply with EU law.
+The Supreme Court is therefore satisfied to the standard of acte clair that the EU principle of absolute res judicata does not apply [62].

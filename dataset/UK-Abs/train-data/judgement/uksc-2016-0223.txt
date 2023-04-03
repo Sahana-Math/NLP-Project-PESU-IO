@@ -1,0 +1,301 @@
+In this case an estate agent claims that commission became payable to him by the vendor of a number flats on the completion of the sale of those flats to a purchaser which he had introduced to the vendor.
+It gives rise to two issues.
+The first, raised on appeal by the agent, concerns the agreement between the agent and the vendor and whether it was complete and enforceable by the agent despite there being no express identification of the event which would trigger the obligation to pay the commission.
+The second, raised on a cross appeal by the vendor, concerns the application of section 18 of the Estate Agents Act 1979 and whether, by reason of the agents failure to comply with the requirements imposed by the Act, the trial judge ought to have dismissed the claim or discharged the vendors liability to pay the commission.
+The facts
+In 2007, the defendant, Mr Wells, a retired stockbrokers office administrator, completed the development of a block of flats in Hackney under the terms of a joint venture agreement with Mr White, a builder.
+By the beginning of 2008 six of the flats had been sold, one was under offer and seven were still on the market.
+They were being marketed by a local agency, Shaw & Co, under a contract for a sole agency and a commission of 1.75%, or 3% if the properties were sold through another agent.
+In late January 2008, Mr Wells mentioned to Mr Nicholson, a neighbour in Andorra, where they both lived, that he was having difficulty selling the remaining flats.
+Mr Nicholson told Mr Wells that he knew of a property investment company in London that might be interested in purchasing the flats and Mr Wells responded that he would be happy for Mr Nicholson to make some enquiries.
+On 29 January 2008, Mr Nicholson sent an email to the claimant, Mr Devani, who was trading as an estate agent in Kilburn, informing him of the flats and that seven remained unsold.
+He also gave him Mr Wells and Mr Whites telephone numbers and explained that Mr Wells would be coming to London very soon.
+Later that day Mr Devani acknowledged receipt of Mr Nicholsons email, thanked him and told him that the information he had been given might well be of interest.
+He also made a telephone call to Mr Wells in Andorra.
+The parties at trial gave strikingly different accounts about what was said in the course of this telephone conversation.
+It was Mr Devanis evidence that he told Mr Wells that he was an estate agent and that his commission terms would be 2% plus VAT.
+Mr Wells maintained that Mr Devani made no mention of any commission and gave the impression he was an investor looking to buy on his own account.
+The judge, HH Judge Moloney QC, preferred the evidence of Mr Devani.
+He found that Mr Devani thought throughout that he was acting as an agent, that he did not describe himself as a buyer or say anything intended to create the impression that he was, and that Mr Wells asked him about fees and he replied that his standard terms were 2% plus VAT.
+He also found that since February 2008 Mr Wells and Mr White had sought to take advantage of the absence of a written agreement with Mr Devani to deprive him and Shaw & Co of their commissions, and that they had tailored much of their evidence to reinforce their case.
+Shortly after this telephone conversation, Mr Devani made contact with Newlon Housing Trust which expressed some interest in purchasing the remaining flats.
+A meeting at the flats was arranged and attended by a representative of Newlon, Mr Wells and Mr White.
+On 5 February 2008, Newlon agreed to purchase the flats for 2.1m.
+Mr Wells thereupon telephoned Mr Devani to inform him of the sale and later that day Mr Devani sent to Mr Wells an email in which he expressed delight that Newlon had agreed to purchase the flats and continued: As per our terms of business our fees are 2% + VAT and I look forward to receiving you[r] solicitors details so that we can invoice them directly as per your instruction.
+He attached to that email the terms of business which provided in relevant part: I am required by section 18 of the Estate Agents Act 1979, as amended to set out our terms of business prior to you formerly [sic] instructing our company.
+A commission of 2% + VAT (Multiple Agency) of the eventual sale price of the property.
+The commission will be due on exchange of contracts with a purchaser, but payable from the proceeds of sale by your conveyance, with your written authority.
+The transaction proceeded to completion and Mr Devani then claimed his commission.
+Mr Wells refused to pay and so Mr Devani issued these proceedings in the Central London County Court.
+The trial
+Apart from the factual issues which the judge resolved in Mr Devanis favour, Mr Wells disputed Mr Devanis entitlement to any commission on two grounds which are material to this appeal.
+Mr Wells contended first, that he had never entered into a binding contract to engage Mr Devani as his agent because the terms of any agreement between them were too uncertain; and secondly, that Mr Devanis failure to comply with section 18 of the Estate Agents Act 1979 rendered any agreement unenforceable or that any sum payable to Mr Devani by Mr Wells should be discharged or reduced in light of the prejudice Mr Wells had suffered.
+The judge dealt with the first ground in concise terms.
+He accepted that Mr Devani only submitted his written terms to Mr Wells after he had introduced Newlon and that his claim therefore depended on what had been agreed on 29 January 2008.
+He also recognised that Mr Devani did not reach any express agreement with Mr Wells as to the precise event which would entitle Mr Devani to his commission.
+Nevertheless, he held that, in the absence of any such express agreement, the law would imply the minimum term necessary to give business efficacy to the parties intentions.
+Here, the judge continued, the least onerous term for Mr Wells, and the one which nobody would have disputed had it been suggested by a bystander, was that payment of the specified commission was due on the completion of the purchase of the properties by any party which Mr Devani had introduced to Mr Wells.
+Accordingly, he held that there was at the material time an oral contract between Mr Devani and Mr Wells entitling Mr Devani to a payment of 2% plus VAT if Mr Devani effected an introduction between Mr Wells and a prospective purchaser of the flats and that such introduction led to their sale.
+The judge turned next to the submissions founded upon section 18 of the 1979 Act.
+He found that Mr Devani had failed to comply with his obligations under the Act in that he did not expressly inform Mr Wells before their agreement of the circumstances under which he would be entitled to commission, and he did not provide Mr Wells with that information in writing until 5 February 2008.
+He also found that these failures were culpable but that having regard to the degree of that culpability and the prejudice Mr Wells had suffered, it would be just to permit Mr Devani to enforce the agreement but to compensate Mr Wells for that prejudice by reducing the fee he was required to pay by one third.
+The appeal to the Court of Appeal
+The Court of Appeal ([2017] QB 959), by a majority, allowed Mr Wells appeal on the issue of whether there was ever a binding contract.
+Lewison LJ considered the judges approach could not be justified.
+His reasoning ran as follows.
+First, a court can imply terms into a contract, but this assumes there is a concluded contract into which the terms can be implied.
+It is not legitimate, under the guise of implying terms, to make a contract for the parties.
+This is to put the cart before the horse.
+Secondly, the trigger event giving rise to an estate agents entitlement to commission is of critical importance and a variety of events can be specified.
+The identification of the trigger event is therefore essential to the formation of legally binding relations.
+Thirdly, it follows that, unless the parties specify that event, their bargain is incomplete, and it is wrong in principle to turn an incomplete bargain into a legally binding contract by adding expressly agreed terms and implied terms together.
+In his view, that is what the judge did in this case.
+What was more, it was not possible or permissible to support the judges conclusion in any other way.
+McCombe LJ agreed that the appeal should be allowed, essentially for the reasons given by Lewison LJ.
+He did not disagree with the judges finding that the parties intended to reach and did reach an agreement.
+For him the question was whether what they had agreed amounted to a binding contract.
+In his view, it did not, for an agreement which did not specify the event which triggered the entitlement to commission was not complete.
+Arden LJ, dissenting, considered that the bargain between the parties was initially a unilateral contract but that it became a bilateral contract at the latest when Newlon, having been introduced to Mr Wells by Mr Devani, completed the purchase of the flats.
+As a matter of interpretation of the whole contract, the commission became payable on completion.
+She acknowledged that the judge had arrived at his conclusion by implying a term, but this was of no matter because the outcome was the same.
+As for section 18 of the 1979 Act, the Court of Appeal decided unanimously that Mr Wells appeal in relation to this issue should be dismissed.
+Lewison LJ, with whom McCombe and Arden LJJ agreed, made some criticisms of the way the judge had dealt with the relevant elements of culpability and prejudice but concluded that he could not say the judges overall value judgment was wrong.
+The Court of Appeal also dismissed Mr Devanis cross appeal against the reduction in his fee.
+Was there a binding contract?
+The question whether there was a binding contract between Mr Devani and Mr Wells required a consideration of what was communicated between them by their words and their conduct and whether, objectively assessed, that led to the conclusion that they intended to create a legally binding relationship and that they had agreed all the terms that the law requires as essential for that purpose.
+Lord Clarke explained the relevant principles in this way in RTS Flexible Systems Ltd v Molkerei Alois Mller GmbH [2010] UKSC 14; [2010] 1 WLR 753, para 45: The general principles are not in doubt.
+Whether there is a binding contract between the parties and, if so, upon what terms depends upon what they have agreed.
+It depends not upon their subjective state of mind, but upon a consideration of what was communicated between them by words or conduct, and whether that leads objectively to a conclusion that they intended to create legal relations and had agreed upon all the terms which they regarded or the law requires as essential for the formation of legally binding relations.
+Even if certain terms of economic or other significance have not been finalised, an objective appraisal of their words and conduct may lead to the conclusion that they did not intend agreement of such terms to be a precondition to a concluded and legally binding agreement.
+It may be the case that the words and conduct relied upon are so vague and lacking in specificity that the court is unable to identify the terms on which the parties have reached agreement or to attribute to the parties any contractual intention.
+But the courts are reluctant to find an agreement is too vague or uncertain to be enforced where it is found that the parties had the intention of being contractually bound and have acted on their agreement.
+As Lord Wright said in G Scammel & Nephew Ltd v HC and JG Ouston [1941] AC 251, 268: The object of the court is to do justice between the parties, and the court will do its best, if satisfied that there was an ascertainable and determinate intention to contract, to give effect to that intention, looking at substance and not mere form.
+It will not be deterred by mere difficulties of interpretation.
+Difficulty is not synonymous with ambiguity so long as any definite meaning can be extracted.
+But the test of intention is to be found in the words used.
+If these words, considered however broadly and untechnically and with due regard to all the just implications, fail to evince any definite meaning on which the court can safely act, the court has no choice but to say that there is no contract.
+Such a position is not often found.
+As I have explained, the judge had no doubt that the parties did intend to create legal relations and that they understood that Mr Devanis terms were that he would be entitled to a commission of 2% plus VAT.
+Mr Devani then introduced Mr Wells to a prospective purchaser, Newlon, and that introduction led directly to the completed sale.
+It is true that, as the judge found, there was no discussion of the precise event which would give rise to the payment of that commission but, absent a provision to the contrary, I have no doubt it would naturally be understood that payment would become due on completion and made from the proceeds of sale.
+Indeed, it seems to me that is the only sensible interpretation of what they said to each other in the course of their telephone conversation on 29 January 2008 and the circumstances in which that conversation took place.
+In short, Mr Devani and Mr Wells agreed that if Mr Devani found a purchaser for the flats he would be paid his commission.
+He found Newlon and it became the purchaser on completion of the transaction.
+At that point, Mr Devani became entitled to his commission and it was payable from the proceeds of sale.
+This interpretation of the parties words and conduct is in my view amply supported by authority.
+For example, in Fowler v Bratt [1950] KB 96, the plaintiff, a house agent, was instructed by the defendant to find a purchaser of his house and agreed to pay a commission on the price.
+Subsequently the defendant decided not to go through with the sale and the plaintiff brought proceedings for his commission.
+The Court of Appeal held that, in order to earn his commission, the plaintiff had at least to find a purchaser who was bound in law to buy, and that he had done.
+The case is of particular relevance to this appeal in light of this passage in the judgment of Denning LJ (at pp 104 105): I confess that I approach claims by estate agents from the point of view, which I am sure is the common understanding of men, namely, that, in the absence of express terms to the contrary, the commission of the agents is to be paid out of the proceeds of sale.
+If the sale does not go through, the presumption is that no commission is payable.
+But in point of law if an agent succeeds in finding a person who actually enters into a binding and enforceable contract to purchase, and if that contract afterwards goes off by the vendors default, the vendor is liable to pay commission.
+Midgley Estates v Hand [1952] 2 QB 432 concerned an agreement between the plaintiff estate agents and the defendant vendor that the agents commission would be payable as soon as a purchaser had signed a legally binding contract within a certain period of time.
+The agents did introduce such a purchaser who signed the contract and paid a deposit but was unable to complete.
+The agents thereupon sought payment of their commission.
+The Court of Appeal held that the terms of the agreement were clear and the court would give effect to them, and they displaced the prima facie position.
+Jenkins LJ, with whom Somervell and Morris LJJ agreed, described that prima facie position in these terms (at pp 435 to 436): The question depends on the construction of each particular contract, but prima facie the intention of the parties to a transaction of this type is likely to be that the commission stipulated for should only be payable in the event of an actual sale resulting.
+The vendor puts his property into the hands of an agent for sale and, generally speaking, contemplates that if a completed sale results, and not otherwise, he will be liable for the commission, which he will then pay out of the purchase price.
+That is, broadly speaking, the intention which, as a matter of probability, the court should be disposed to impute to the parties.
+It follows that general or ambiguous expressions, purporting, for instance, to make the commission payable in the event of an agent finding a purchaser, or in the event of the agent selling the property, have been construed as meaning that the commission is only payable in the event of an actual and completed sale resulting, or, at least, in the event of an agent succeeding in introducing a purchaser who is able and willing to purchase the property.
+That is the broad general principle in the light of which the question of construction should be approached; but this does not mean that the contract, if its terms are clear, should not have effect in accordance with those terms, even if they involve the result that the agents commission is earned and becomes payable although the sale in respect of which it is claimed, for some reason or another, turns out to be abortive.
+In Dennis Reed Ltd v Goody [1950] 2 QB 277, two home owners instructed the plaintiff agents to find a person ready, willing and able to purchase their property and agreed to pay the agents a commission upon them introducing such a person.
+The agents found a prospective purchaser but he withdrew before an enforceable agreement for sale had been made.
+The agents nevertheless claimed they were entitled to their full commission.
+The Court of Appeal agreed with the trial judge that they were not.
+Denning LJ explained (at p 284) that when an owner puts his house into the hands of an estate agent, the ordinary understanding is that the agent is only entitled to a commission if he succeeds in effecting a sale; but if he does not, he is entitled to nothing.
+A little later, he said this about the relationship between owner and agent: All the familiar expressions please find a purchaser, find someone to buy my house, sell my house for me, and so on mean the same thing: they mean that the agent is employed on the usual terms; but none of them gives any precise guide as to what is the event on which the agent is to be paid.
+The common understanding of men is, however, that the agents commission is payable out of the purchase price.
+The services rendered by the agent may be merely an introduction.
+He is entitled to commission if his introduction is the efficient cause in bringing about the sale: Nightingale v Parsons [1914] 2 KB 621.
+But that does not mean that commission is payable at the moment of the introduction: it is only payable on completion of the sale.
+The house owner wants to find a man who will actually buy his house and pay for it.
+All of this reasoning remains as principled and cogent today as it was when expressed and I respectfully endorse it.
+The case before us is another in which the parties meant by their words and actions that the agent was engaged on the usual terms, that is to say that a commission became payable not upon the introduction by Mr Devani of a prospective purchaser to Mr Wells, nor upon the exchange of contracts, but rather upon completion of the sale and then from its proceeds, for it was at that time that Newlon actually bought and paid for the property and so became its purchaser.
+It is true that Mr Devanis written terms of engagement made express provision for payment but neither party has suggested they are relevant to the issue before us for they were not supplied until 5 February 2008.
+In this connection I must also address the decision of House of Lords in Luxor (Eastbourne) Ltd v Cooper [1941] AC 108, for it is one upon which Lewison LJ placed particular reliance.
+An agent, Mr Cooper, sued two companies, Luxor (Eastbourne) Ltd and Regal (Hastings) Ltd, for breach of an agency agreement.
+The terms of their bargain were that if a party introduced by Mr Cooper were to buy certain property owned by the companies they would pay him a substantial commission.
+Under the terms of their agreement, the commission would become due on completion of the sale.
+Mr Cooper contended that he had introduced prospective purchasers who were ready and willing to buy the property.
+No sale took place, however, because the owners changed their plans.
+It necessarily followed from the express terms of their agreement that no commission was payable but Mr Cooper argued that he was nevertheless entitled to damages for breach of an implied term that the vendor companies would do nothing to prevent the satisfactory completion of the transaction and so deprive him of his commission (at p 115).
+The House of Lords held that no such term could be implied.
+In the course of his speech Viscount Simon LC observed that there was considerable difficulty in formulating general propositions on the subject of estate agents commissions for their contracts did not follow a single pattern and the primary necessity in each case was to ascertain with precision the express terms of the contract in issue, and then to consider whether they necessitated the addition, by implication, of other terms.
+He continued (at pp 120, 121): It may be useful to point out that contracts under which an agent may be occupied in endeavouring to dispose of the property of a principal fall into several obvious classes.
+There is the class in which the agent is promised a commission by his principal if he succeeds in introducing to his principal a person who makes an adequate offer, usually an offer of not less than the stipulated amount.
+If that is all that is needed in order to earn his reward, it is obvious that he is entitled to be paid when this has been done, whether his principal accepts the offer and carries through the bargain or not.
+No implied term is needed to secure this result.
+There is another class of case in which the property is put into the hands of the agent to dispose of for the owner, and the agent accepts the employment and, it may be, expends money and time in endeavouring to carry it out.
+Such a form of contract may well imply the term that the principal will not withdraw the authority he has given after the agent has incurred substantial outlay, or, at any rate, after he has succeeded in finding a possible purchaser.
+Each case turns on its own facts and the phrase finding a purchaser is itself not without ambiguity.
+But there is a third class of case (to which the present instance belongs) where, by the express language of the contract, the agent is promised his commission only upon completion of the transaction which he is endeavouring to bring about between the offeror and his principal.
+As I have already said, there seems to me to be no room for the suggested implied term in such a case.
+The agent is promised a reward in return for an event, and the event has not happened.
+He runs the risk of disappointment, but if he is not willing to run the risk he should introduce into the express terms of the contract the clause which protects him.
+Lord Russell, with whom Lord Thankerton agreed, said this (at pp 124 to 125): A few preliminary observations occur to me. (1) Commission contracts are subject to no peculiar rules or principles of their own; the law which governs them is the law which governs all contracts and all questions of agency. (2) No general rule can be laid down by which the rights of the agent or the liability of the principal under commission contracts are to be determined.
+In each case these must depend upon the exact terms of the contract in question, and upon the true construction of those terms.
+And (3) contracts by which owners of property, desiring to dispose of it, put it in the hands of agents on commission terms, are not (in default of specific provisions) contracts of employment in the ordinary meaning of those words.
+No obligation is imposed on the agent to do anything.
+The contracts are merely promises binding on the principal to pay a sum of money upon the happening of a specified event, which involves the rendering of some service by the agent.
+Lewison LJ thought that it was apparent from these passages that the event giving rise to an estate agents entitlement to commission was of critical importance and that a variety of events could be specified.
+In his view it followed that, unless the parties specified that event, their bargain was incomplete.
+I agree with Lewison LJ that the event giving rise to the entitlement to commission may be of critical importance but I respectfully disagree that this means that unless this event is expressly identified the bargain is necessarily incomplete.
+It may be an express term of the bargain that the commission is payable upon the introduction of a prospective purchaser who expresses a willingness to buy at the asking price, or it may be an express term that it is payable upon exchange of contracts.
+But if, as here, there is no such express term and the bargain is, in substance, find me a purchaser and the agent introduces a prospective purchaser to whom the property is sold, then a reasonable person would understand that the parties intended the commission to be payable on completion and from the proceeds of sale.
+I do not understand there to be anything in the speeches of Viscount Simon LC or Lord Russell which undermines this conclusion and I note in this regard that this decision preceded and was cited in each of the decisions of the Court of Appeal to which I have referred at paras 20 to 22 above.
+Implied term
+For these reasons I do not think the judge needed to imply a term into the agreement between Mr Devani and Mr Wells.
+However, had it been necessary and for the reasons which follow, I would have had no hesitation in holding that it was an implied term of the agreement that payment would fall due on completion of the purchase of the property by a person whom Mr Devani had introduced.
+In Marks & Spencer plc v BNP Paribas Securities Services Trust Co (Jersey) Ltd [2015] UKSC 72; [2016] AC 742, the Supreme Court made clear that there has been no dilution of the conditions which have to be satisfied before a term will be implied and the fact that it may be reasonable to imply a term is not sufficient.
+Lord Neuberger of Abbotsbury PSC, with whom Lord Sumption and Lord Hodge JJSC agreed without qualification, explained (at paras 26 to 31) that (i) construing the words the parties have used in their contract and (ii) implying terms into the contract, involve determining the scope and meaning of the contract; but construing the words used and implying additional words are different processes governed by different rules.
+In most cases, it is only after the process of construing the express words of an agreement is complete that the issue of whether a term is to be implied falls to be considered.
+Importantly for present purposes, Lord Neuberger also made clear (at paras 23 and 24) that a term will only be implied where it is necessary to give the contract business efficacy or it would be so obvious that it goes without saying.
+The approach adopted by the trial judge was entirely consistent with these principles.
+He found it was necessary to imply a term to give the contract commercial efficacy.
+Mr Wells was having difficulty selling his flats.
+An approach was made to Mr Devani and a short while later he telephoned Mr Wells.
+In the course of their conversation, Mr Devani explained that his terms were 2% plus VAT.
+Both parties proceeded on that basis.
+Mr Devani introduced a purchaser, Newlon, which agreed to buy the flats and a short while later completion of the sale took place.
+In these circumstances I think the judges approach cannot be faulted for if, contrary to my view, the agreement, on its proper interpretation, did not provide for payment of the commission on completion then a term to that effect must be implied to make the contract work and to give it practical and commercial coherence.
+In carrying out this exercise of implication the court would be reading into the contract that which its nature implicitly requires.
+Put another way, to leave Mr Wells without any obligation to pay Mr Devani would be completely inconsistent with the nature of their relationship.
+In my judgment, the obligation to make payment of the commission on completion would be what was required to give the agreement business efficacy, and would not go beyond what was necessary for that purpose.
+Scancarriers
+How then did the majority in the Court of Appeal come to a contrary conclusion? I have outlined the steps in the reasoning of Lewison LJ earlier in this judgment.
+They have at their heart the proposition that, unless the parties themselves specify the event which will trigger the agents entitlement to commission, their bargain is incomplete; and that it is not possible to turn an incomplete bargain into a legally binding contract by adding expressly agreed terms and implied terms together.
+Lewison LJ relied in support of his reasoning upon the decision of the Judicial Committee of the Privy Council in Scancarriers A/S v Aotearoa International Ltd [1985] 2 Lloyds Rep 419.
+Lord Roskill, giving the judgment of the Board, said this (at p 422): the first question must always be whether any legally binding contract has been made, for until that issue is decided a court cannot properly decide what extra terms, if any, must be implied into what is ex hypothesi a legally binding bargain, as being both necessary and reasonable to make that bargain work.
+It is not correct in principle, in order to determine whether there is a legally binding bargain, to add to those terms which alone the parties have expressed further implied terms upon which they have not expressly agreed and then by adding the express terms and the implied terms together thereby create what would not otherwise be a legally binding bargain.
+Scancarriers was an unusual case.
+The appellants, Scancarriers, a liner company, had surplus capacity in their vessels sailing from Australasia to Europe.
+The respondents, Aotearoa, wished to transport waste paper from New Zealand, where they were based, to India at economic freight rates.
+They met and discussed the possibility of the appellants transporting the respondents waste paper by introducing a new service to Dubai which could be serviced by a short deviation from the normal route to Europe through the Suez Canal.
+Onward carriage to India would be provided by transhipment from Dubai.
+The next day the appellants sent a telex to the respondents offering what was described as a promotional rate which would be held for the next six months for the shipping of waste paper stowed in a specified way.
+The question to which the appeal gave rise was whether the telex, construed against the background of the discussions, gave rise to a binding legal obligation on the appellants towards the respondents.
+The trial judge in New Zealand held it did not, but the Court of Appeal reversed his decision.
+The Privy Council had no difficulty finding that the Court of Appeal had fallen into error.
+As Lord Roskill pointed out, the telex contained no reference to the number of shipments, nor to the dates of any suggested shipments, nor to the intervals between any such shipments.
+Instead, the Court of Appeal had added implied terms to the few express terms and in that way created a contractual relationship which the parties had not expressed for themselves.
+This was plainly not permissible.
+Lord Roskill went on to explain that the suggestion that, following receipt of the telex, the respondents came under any contractual obligation to the appellants involved reading into the telex provisions which were not to be found in its language.
+The telex was no more than a quote and the parties never intended its transmission would create a legal relationship.
+Lewison LJ also referred to the decision of the Court of Appeal in Little v Courage Ltd (1995) 70 P & CR 469.
+In that case Millett LJ, with whom the other members of the court apparently agreed, cited Lord Roskills judgment in Scancarriers as support for the proposition that it is in general impossible to imply terms (that is to say terms which impose legal obligations) into a unilateral contract for this would be to impose, by implication, a contractual obligation on a person who ex hypothesi is not yet a party to any contract and therefore not yet subject to any contractual obligations at all.
+In my judgment Scancarriers does not support the far reaching proposition which Lewison LJ identified and I think the passage in Lord Roskills judgment upon which he relied must be seen in the context of the particular facts of that case.
+I recognise that there will be cases where an agreement is so vague and uncertain that it cannot be enforced.
+So too, there will be cases where the parties have not addressed certain matters which are so fundamental that their agreement is incomplete.
+Further, an agreement may be so deficient in one or other of these respects that nothing can be done to render it enforceable.
+But I do not accept that there is any general rule that it is not possible to imply a term into an agreement to render it sufficiently certain or complete to constitute a binding contract.
+Indeed, it seems to me that it is possible to imply something that is so obvious that it goes without saying into anything, including something the law regards as no more than an offer.
+If the offer is accepted, the contract is made on the terms of the words used and what those words imply.
+Moreover, where it is apparent the parties intended to be bound and to create legal relations, it may be permissible to imply a term to give the contract such business efficacy as the parties must have intended.
+For example, an agreement may be enforceable despite calling for some further agreement between the parties, say as to price, for it may be appropriate to imply a term that, in default of agreement, a reasonable price must be paid.
+Similarly, I see no reason in principle why a term cannot be implied into an agreement between a property owner and an estate agent that the agreed commission will be payable on completion of the sale of the property to a person introduced by the agent.
+Indeed, a very similar term was implied in James v Smith [1931] 2 KB 317.
+The defendant, the owner of a hotel, wrote a letter to the plaintiff, an estate agent, saying that it would sell the property at a specified price and would pay a commission if the property was sold at that price.
+The plaintiff introduced a purchaser who signed a contract but was unable to complete.
+The plaintiff nevertheless claimed that he was entitled to his commission.
+The Court of Appeal, reversing the trial judge, found he was not.
+Bankes LJ reasoned that it was necessary to imply a term to make the contract complete, that term being that the commission would be payable upon the introduction of a purchaser who agreed to purchase the property and was able to complete; in other words, a purchaser who was not a man of straw or without means.
+Scrutton and Atkin LJJ agreed.
+Scrutton LJ construed the wording of the agreement and identified the minimum obligation on the plaintiff.
+Atkin LJ approached the case in much the same way as Bankes LJ.
+He too thought the obligation on the plaintiff had to be implied, and it was to introduce a purchaser who was able to complete at the time he signed the contract.
+Accordingly, where, as here, the parties intended to create legal relations and have acted on that basis, I believe that it may be permissible to imply a term into the agreement between them where it is necessary to do so to give the agreement business efficacy or the term would be so obvious that it goes without saying, and where, without that term, the agreement would be regarded as incomplete or too uncertain to be enforceable.
+Each case must be considered in light of its own particular circumstances.
+In this case the judge carried out the assessment the law requires, and he found it necessary to imply a term to give the contract business efficacy.
+Further, it cannot be said that, with that term, the agreement is too vague or uncertain to be enforceable.
+Accordingly, had I not arrived at the same conclusion by a process of interpretation, I would have upheld the judge for the reasons he gave.
+Finally, I must address Little v Courage.
+It is not clear from Millett LJs judgment whether he thought that Lord Roskills dictum in Scancarriers was only applicable to unilateral contracts.
+If he did not and considered it of general and unqualified application, as Lewison LJ appears to have done, then I respectfully disagree with him for the reasons I have given.
+As for its application to unilateral contracts, there is obvious force in Millett LJs reasoning.
+It cannot be right to impose by implication an obligation on a person who is not yet a party to the agreement.
+But here too, I think the reasoning needs some qualification because, as I have said, it is permissible to imply into an offer anything which is so obvious that it goes without saying.
+Nor, so it seems to me, is there any reason why a term imposing an obligation on the promisee cannot be implied if and when the contract becomes bilateral in the course of its performance.
+The Estate Agents Act 1979
+Section 18(1) of the 1979 Act provides that before any person (the client) enters into a contract with another (the agent) under which the agent will engage in estate agency work on behalf of the client, the agent must give the client certain information.
+That information is of two kinds.
+First, by section 18(2), the agent is required to give, among other things, particulars of the circumstances in which the client will become liable to pay remuneration to the agent for carrying out estate agency work.
+Secondly, by section 18(1)(b), the agent is required to give such additional information as the Secretary of State may prescribe by regulations made under section 18(4), and to do so in the time and manner those regulations require.
+The Estate Agents (Provision of Information) Regulations 1991 (SI 1991/859) were made pursuant to this provision.
+Regulation 3(1) provides, so far as relevant: The time when an estate agent shall give the information specified in section 18(2) of the Act is the time when communication commences between the estate agent and the client or as soon as is reasonably practicable thereafter provided it is a time before the client is committed to any liability towards the estate agent.
+Regulation 4 says that the information must be provided in writing.
+Section 18 continues: (5) If any person (a) fails to comply with the obligation under subsection (1) above with respect to a contract, or with any provision of regulations under subsection (4) above relating to that obligation, or (b) , the contract shall not be enforceable by him except pursuant to an order of the court under subsection (6) below. (6) If, in a case where subsection (5) above applies in relation to a contract , the agent concerned makes an application to the court for the enforcement of the contract (a) the court shall dismiss the application if, but only if, it considers it just to do so having regard to prejudice caused to the client by the agents failure to comply with his obligation and the degree of culpability for the failure; and (b) where the court does not dismiss the application, it may nevertheless order that any sum payable by the client under the contract shall be reduced or discharged so as to compensate the client for prejudice suffered as a result of the agents failure to comply with his obligation.
+In this case, Mr Devani failed to comply with his section 18 obligation because he did not provide to Mr Wells all of the information required by subsection 2 at the time and in the manner required by regulations 3 and 4.
+In particular, Mr Devani did not at the outset or as soon as reasonably practicable thereafter expressly inform Mr Wells of the event which would trigger his entitlement to commission; nor did he provide any of that information in writing.
+The judge was therefore required to apply section 18(6).
+Under paragraph (a), the default position in such a case is that the contract is unenforceable.
+As Lewison LJ explained, the contract will only become enforceable if the court makes an order to that effect, and an agent in the position of Mr Devani, who has failed to comply with his obligations, must make an application to the court for that purpose if he wishes to recover any commission.
+Further, the court must dismiss the application if, but only if, it considers it just to do so having regard to the prejudice caused to the client by the agents failure to comply with his obligation and the degree of culpability for that failure.
+Lewison LJ held that, for the purposes of paragraph (a), prejudice and culpability have to be considered together and in the round, and the ultimate question is whether it is just to dismiss the estate agents claim to enforce the contract having regard to the prejudice to the client as a result of the failure to comply and the degree of the agents culpability.
+In my judgment, this is plainly the right approach.
+If the court does not dismiss the application then, under paragraph (b), it has a discretion whether to reduce or discharge the sum payable by the client under the contract, to compensate the client for the prejudice he has suffered.
+It is to be noted that, at this stage, culpability forms no part of the assessment; nor does any wider consideration of justice.
+The judge therefore proceeded to assess the degree of Mr Devanis culpability and the prejudice that Mr Wells had suffered.
+In relation to the former, he thought that Mr Devani was culpable and the fact that the matter had proceeded very rapidly was only partial mitigation.
+As for prejudice, the judge thought that the failure to define the event triggering the entitlement to commission was not prejudicial to Mr Wells because the court had implied the term most favourable to him.
+On the other hand, the failure to provide written terms was prejudicial because their provision would have led Mr Wells to consult his partner and his solicitor before agreeing to them, and, in turn, this would have led to a discussion of Shaws penalty clause.
+The judge was not much impressed by the possibility of a claim by Shaw, however.
+He thought it was a matter of speculation whether Mr Wells would be called upon to pay Shaws commission and that it was also a matter of speculation what the outcome of any claim by Shaw would be.
+He also thought it relevant that Mr Devani had done a good job and secured a sale of the properties, and that, so far, Mr Wells had evaded paying any commission at all.
+The judge expressed his final conclusion in these terms (at para 4.9): Doing the best I can, the just course balancing all the above factors is: a. enforce his contract; b. but to compensate [Mr Wells] for the prejudice he has sustained as a result of [Mr Devanis] breach of statutory requirements by making an appropriately substantial reduction to [Mr Devanis] fee.
+That reduction will be of one third of the fee, so that his claim is reduced to 32,900 inc VAT.
+to grant [Mr Devani] relief and permit him to
+On appeal, it was contended for Mr Wells that the judge had fallen into error in various respects and, in particular, that he ought to have dismissed Mr Devanis application and so also his claim for commission.
+In giving the leading judgment on this issue, Lewison LJ found no fault with the judges approach to the task he was required to carry out as a matter of principle but criticised aspects of his assessment.
+He found that the judge mischaracterised the effect of speed, for this was an aggravating and not a mitigating factor; that there was some force in Mr Wells argument that Mr Devanis success in finding a buyer was of little or no relevance; and that the judge did not take proper account of the uncertainty to which Mr Wells was subjected, and was wrong to brush off the possibility of a claim by Shaw and so his potential exposure to double liability.
+Despite these criticisms, Lewison LJ did not think it appropriate to interfere with the judges conclusion.
+His reasoning lies at the heart of this aspect of the appeal to this court and merits recitation: 74.
+In deciding whether it was just to dismiss Mr Devanis claim the judge was making a value judgment (an expression I prefer to exercising a discretion).
+It is, moreover, a value judgment based on a number of factors, measured against an imprecise standard.
+It is exactly the case in which an appeal court should be particularly wary of disturbing the conclusion of the trial judge.
+Although I have made some criticisms of the way in which the judge approached the question, and although I am far from sure that I would have reached the same conclusion as the judge, I cannot go so far as to say that his value judgment was wrong.
+Mr Butler QC, for Mr Wells, submits the Court of Appeal fell into error in two respects.
+He argues, first, that Mr Devanis culpability was so great as to justify dismissal of his application, irrespective of the issue of prejudice.
+I recognise that section 18 and the regulations are, as Lewison LJ rightly said, a form of consumer protection, and that their purpose is to ensure that a person instructing an estate agent knows what his liabilities to the agent are before he engages him.
+I also accept that there may be cases where the degree of culpability is so great that it justifies dismissal of the agents application even if the client has suffered no prejudice.
+But I am not persuaded that this is one of those cases.
+The judge assessed the extent of Mr Devanis culpability with care.
+He recognised that Mr Devani could and should have provided his terms of business to Mr Wells at the outset but also had regard to the fact that the job needed to be done urgently, that Mr Wells was abroad, that events moved very quickly and that the effective period of delay was less than one week.
+I would add that there was no finding that Mr Devani acted improperly in any other way.
+The judge assessed all of these matters and the issue of prejudice and decided to allow Mr Devani to pursue his claim but with a significant fee reduction.
+It is true that Lewison LJ thought the judge ought to have regarded the speed of events as an aggravating rather than a mitigating factor when considering culpability, but he was also of the view that this was not an error which justified any interference with the judges conclusion.
+I agree with him.
+In all these circumstances, I am satisfied that Mr Devanis culpability was not so great as to justify dismissal of his application, and the judge made no material error in so deciding.
+The second argument advanced on behalf of Mr Wells is that once the Court of Appeal had found that the judge had made errors in the course of his assessment under section 18(6), it ought to have carried out the evaluation required by that provision afresh, rather than declining to interfere.
+Had it done so, the argument continued, it is apparent from para 74 of Lewison LJs judgment that it is likely the court would have arrived at a different conclusion.
+Attractively though this second argument has been presented, I cannot accept it.
+It assumes, wrongly in my view, that if an appeal court finds that a trial judge has made any error, however insignificant, in the course of an evaluation of the kind required by section 18(6) then it must set that evaluation aside and carry it out again.
+In my judgment the law does not require such an inflexible approach.
+If, as here, it is found that the trial judge has made one or more errors of a minor kind which cannot have affected the decision to which he has come then in my view it is neither necessary nor appropriate for the appellate court to set that decision aside and embark on the evaluative exercise for itself.
+For all of these reasons, I would allow Mr Devanis appeal and dismiss Mr Wells cross appeal.
+I have also had an opportunity to read the judgment of Lord Briggs and I agree with the further observations he makes.
+LORD BRIGGS:
+I agree with the order proposed to be made by Lord Kitchin, and with his reasons for doing so.
+I add some observations of my own because we are departing from a judgment of Lewison LJ, who has a pre eminent standing in relation to the interpretation of contracts.
+Lawyers frequently speak of the interpretation of contracts (as a preliminary to the implication of terms) as if it is concerned exclusively with the words used expressly, either orally or in writing, by the parties.
+And so, very often, it is.
+But there are occasions, particularly in relation to contracts of a simple, frequently used type, such as contracts of sale, where the context in which the words are used, and the conduct of the parties at the time when the contract is made, tells you as much, or even more, about the essential terms of the bargain than do the words themselves.
+Take for example, the simple case of the door to door seller of (say) brooms.
+He rings the doorbell, proffers one of his brooms to the householder, and says one pound 50.
+The householder takes the broom, nods and reaches for his wallet.
+Plainly the parties have concluded a contract for the sale of the proffered broom, at a price of 1.50, immediately payable.
+But the subject matter of the sale, and the date of time at which payment is to be made, are not subject to terms expressed in words.
+All the essential terms other than price have been agreed by conduct, in the context of the encounter between the parties at the householders front door.
+So it is with the contract in issue in the present case.
+All that was proved was that there was a short telephone call initiated by Mr Devani, who introduced himself as an estate agent, and Mr Wells, who Mr Devani knew wanted to sell the outstanding flats.
+Mr Devani offered his services at an expressly stated commission of 2% plus VAT.
+It was known to both of them that Mr Wells was looking for a buyer or buyers so that he could sell the flats, and it was plain from the context, and from the conduct of the parties towards each other, that Mr Devani was offering to find one or more buyers for those flats.
+The express reference by Mr Devani to the 2% commission was, in the context, clearly referable to the price receivable by Mr Wells upon any sale or sales of those flats achieved to a person or persons introduced by Mr Devani.
+Furthermore it was evident from the fact that nothing further was said before the conversation ended that there was an agreement, intended to create legal relations between them, for which purpose nothing further needed to be negotiated.
+The judge decided the case by reference to implied terms.
+But it follows from what I have set out above that I would, like Lord Kitchin, have been prepared to find that a sufficiently certain and complete contract had been concluded between them, as a matter of construction of their words and conduct in their context rather than just by the implication of terms, such that, by introducing a purchaser who did in fact complete and pay the purchase price, Mr Devani had earned his agreed commission.
+Nor would I have been dissuaded by the analysis of the hypothetical question whether, if the purchase contract had been made but then repudiated by the purchaser, the commission would still have been payable.
+If a contract plainly creates a liability for payment in the events that have happened, a perception that a difficult issue or uncertainty as to liability might have arisen on other hypothetical facts should not stand in the way of recognising contractual rights as enforceable where, as here, no such issue arises.
+As Lewison LJ observed, estate agents may wish to bargain for a variety of different events as triggering a liability to pay commission.
+But it is difficult to imagine an estate agents contract which did not make the client liable to pay after receipt in full of the purchase price, as occurred here.
+I do not mean by these observations about the common law in any way to under rate the importance of the statutory duty in section 18 of the Estate Agents Act 1979 requiring estate agents to provide their clients with a written statement of the circumstances in which the client will become liable for their commission, or the judges assessment of the culpability of Mr Devani for failing to do so in good time.
+It is precisely because the common law will recognise an enforceable liability to pay as arising from the briefest and most informal exchange between the parties that statute protects consumers by imposing a more rigorous discipline upon their professional counterparties.

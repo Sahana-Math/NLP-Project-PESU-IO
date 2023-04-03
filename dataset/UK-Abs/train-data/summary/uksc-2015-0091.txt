@@ -1,0 +1,42 @@
+AMT Futures Limited (AMTF) is incorporated in the United Kingdom and is based in London.
+It provides services as a derivatives broker for clients who wish to trade in derivatives and who are referred by introducing brokers.
+Among AMTFs former clients were people domiciled in Germany, Austria, Switzerland or Belgium and who were introduced to AMTF by independent brokers based in Germany.
+AMTF charged its clients commission for its service and paid commission to the introducing brokers.
+Some of AMTFs former clients, who were dissatisfied with the financial results of their transactions, commenced legal proceedings in Germany against both the introducing brokers and AMTF seeking damages under the German law of delict.
+The claim against the introducing brokers was that they had given bad investment advice or had failed to warn of the investment risks.
+The claim against AMTF was that it had encouraged the brokers to behave as they did by paying them commission and had therefore breached a duty in tort which it had owed to the former clients to prevent any transactions being undertaken contrary to their interests.
+AMTF challenged the jurisdiction of the German court.
+AMTF estimates that by August 2013 it had spent over 2 million on investigating the claims, legal costs and settlement costs.
+The contracts between AMTF and its former clients contained clauses which provided that English law would govern the rights and obligations of the contracting parties and the construction of their contract and that the English courts would have exclusive jurisdiction in legal proceedings relating to the contract.
+AMTF asserts that the former clients have breached their contracts by raising legal proceedings against it in Germany and asserting rights under the German law of delict.
+AMTF has raised legal proceedings against the former clients, seeking damages for breach of contract in the High Court in London.
+AMTF alleges that MMGR, a German company which carries on business as a firm of lawyers in Germany, induced the former clients to issue proceedings against AMTF in Germany in breach of the exclusive jurisdiction and applicable law clauses in their contracts with AMTF.
+AMTF commenced proceedings in the High Court in London against MMGR, based on the English law tort of inducing breach of contract and seeking both damages and injunctive relief to restrain MMGR from inducing clients to bring further claims in Germany.
+The question in the appeal is whether the English courts have jurisdiction under Council Regulation (EC) No 44/2001 of 22 December 2000 on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters (the Judgments Regulation) to hear AMTFs claim against MMGR.
+AMTF argued that the English courts had jurisdiction under article 5.3 of the Judgments Regulation.
+Article 5.3 provides that jurisdiction will be established in matters relating to tort, delict or quasi delict, in the courts for the place where the harmful event occurred or may occur.
+It argued that the harm it suffered was the deprivation of the contractual benefit of dispute resolution in England under English law and therefore the harmful event occurred in England.
+AMTF also argued
+that a special rule should apply for the purposes of article 5.3 when the tort of inducing breach of contract occurred in the context of an exclusive jurisdiction clause.
+Foreseeability would be achieved by locating the harm in the jurisdiction of the contractually adopted court.
+AMTF requested a reference be made to the Court of Justice of the European Union (CJEU) seeking guidance on whether article 5.3 establishes the jurisdiction of the English courts in such circumstances.
+The Supreme Court unanimously dismisses AMTFs appeal.
+Lord Hodge gives the judgment, with which the other Justices agree.
+The aim of the Judgments Regulation is to prevent parallel proceedings between courts of different member states and thereby avoid or limit irreconcilable judgments and non recognition of judgments [11].
+Derogations, including article 5.3, from the general rule under article 2 which confers jurisdiction on the courts of the defendants domicile must be restrictively interpreted to achieve this aim [13].
+Article 5.3 requires the court to identify where the relevant harm occurred.
+That is straightforward in this case as, unlike the cases which required the CJEU to develop special rules, it is possible readily to identify one place where the harm occurred [24].
+The raising of the German proceedings was the event which gave rise to the damage for the purposes of article 5.3 [25].
+The direct harm which AMTF suffered from the alleged tort was the expenditure occasioned by the German proceedings.
+Thus the place where the harmful event occurred was Germany.
+Article 5.3 is not concerned with consequential loss such as the loss of focus on the appellants business in London [27].
+It would be contrary to CJEU jurisprudence for the court to craft a special rule for the tort of inducing breach of contract where the contractual clause which has been breached is an exclusive jurisdiction clause [28].
+It is the occurrence of the direct and immediate harm which is the connecting factor in article 5.3 and which creates the benefits of foreseeability and the sound administration of justice.
+Those benefits are not themselves connecting factors and a claimant cannot merely invoke those benefits to justify the establishment of a ground of jurisdiction under the Judgments Regulation [29].
+A focus on the accessory nature of the tort of inducing breach of contract does not assist [30].
+The fact that a claim in tort is connected with a contractual claim has not led the CJEU to elide the grounds of jurisdiction in matters relating to a contract with those in matters relating to tort [31].
+Nor does the inconvenience of separating the resolution of the contractual claims against the former clients from the pursuit of the claims against MMGR assist [30].
+That inconvenience is the price of achieving the legal certainty and foreseeability which are among the principal aims of the Judgments Regulation [35].
+CJEU Reference The circumstances which have caused the CJEU to develop special rules to interpret article 5.3 in order to identify the place where the harmful event occurred do not arise in this case, in which there is no difficulty in locating where the relevant harm has occurred [38].
+Recent CJEU case law does not suggest that the court has moved away from the principles and approach underpinning the Judgments Regulation [40].
+The matter is acte clair and no reference is mandated [43].

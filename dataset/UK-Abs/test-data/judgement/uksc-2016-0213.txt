@@ -1,0 +1,485 @@
+This case, in which a professional gambler sues a casino for winnings at Punto Banco Baccarat, raises questions about (1) the meaning of the concept of cheating at gambling, (2) the relevance to it of dishonesty, and (3) the proper test for dishonesty if such is an essential element of cheating.
+The facts
+Over two days in August 2012 Mr Ivey, the claimant in this case, deployed a highly specialist technique called edge sorting which had the effect of greatly improving his chances of winning.
+He had the help of another professional gambler, Cheung Yin Sun (Ms Sun).
+First they set up the conditions which enabled him to win.
+Then, later that evening and the following day, over the course of some hours, he won approximately 7.7m.
+The casino declined to pay, taking the view that what he had done amounted to cheating.
+His case is that it was not cheating, but deployment of a perfectly legitimate advantage.
+What happened is not in dispute.
+It was set out with admirable clarity by Mitting J and very little is necessary by way of addition or subtraction.
+What follows in this section is almost entirely in his words.
+Punto Banco is a variant of Baccarat.
+It is not normally, to any extent, a game of skill.
+Six or eight decks or, in English nomenclature, packs of 52 cards are dealt from a shoe, face down by a croupier.
+Because the cards are delivered one by one from the shoe, she has only to extract them; no deviation is permitted in their sequence.
+She places them face down in two positions on the table in front of her, marked player, the Punto in the name, and Banker, Banco.
+Those descriptions label the positions marked on the table; there need be no person as player and ordinarily there is not.
+She slides the cards from the shoe, face down, one card to player, one to banker; a second to player and a second to banker.
+In prescribed circumstances she must deal one further card, either to player or to banker or to both, but this possibility is irrelevant to what occurred.
+The basic object of the game is to achieve, on one of the two positions, a combination of two or three cards which, when added together, is nearer to 9 in total than the combination on the other position.
+Aces to 9 count at face value, 10 to King inclusive count as nothing.
+Any pair or trio of cards adding up to more than 10 requires 10 to be deducted before arriving at the counting total.
+Thus 4 plus 5 equals 9, but 6 plus 5 (which equals 11) counts as only 1.
+Punters (of whom there need only be one) play the house.
+They bet before any card is dealt and can bet on either the player or banker position.
+The cards are revealed by the croupier after a full hand (or coup), usually of four cards, two to each position, has been dealt.
+Winning bets are paid at evens on player, and at 19 to 20 on banker.
+It is possible to bet on a tie.
+In the event of a tie, all bets on player or banker are annulled; in other words, the punter keeps his stake and the only bet paid out on is the tie at odds set by the casino of either eight to one or, at Crockfords, nine to one.
+It is possible to place other types of bet, but this case does not concern them and they need not be described.
+The different odds mean that the casino, or house, enjoys a small advantage, taken over all the play.
+That is standard and well known to all; casinos publish the percentage house edge which they operate.
+In Punto Banco at Crockfords it was 1.24% if player wins and 1.06% if banker wins.
+A pack of 52 playing cards is manufactured so as to present a uniform appearance on the back and a unique appearance on the face.
+The backs of some cards are, however, not exactly uniform.
+The backs of many packs of cards for social use have an obvious top and bottom: for example the manufacturers name may be printed once only, or the pattern may have an obviously right way up and an upside down.
+In casino games in which the orientation of the back of the card may matter, cards are used which are in principle indistinguishable whichever way round they are when presented in a shoe.
+Cards with no pattern and no margin at the edge present no problem; they are indistinguishable.
+However, many cards used in casinos are patterned.
+If the pattern is precisely symmetrical the effect is the same as if the card is plain; the back of one card is indistinguishable from any other.
+But if the pattern is not precisely symmetrical it may be possible to distinguish between cards by examining the backs.
+Edge sorting becomes possible when the manufacturing process causes tiny differences to appear on the edges of the cards so that, for example, the edge of one long side is marginally different from the edge of the other.
+Some cards printed by Angel Co Ltd for the Genting Group (which owns Crockfords) have this characteristic, apparently within the narrow tolerances specified for manufacture.
+The pattern is not precisely symmetrical on the back of the cards.
+The machine which cuts the card leaves very slightly more of the pattern, a white circle broken by two curved lines, visible on one long edge than on the other.
+The difference is sub millimetric, but the pattern is, to that very limited extent, closer to one long edge of the card than it is to the other.
+Before a card is dealt from a shoe, it sits face down at the bottom of the shoe, displaying one of its two long edges.
+It is possible for a sharp eyed person sitting close to the shoe to see which long edge it is.
+Being able thus to see which long edge is displayed is by itself of no help to the gambler.
+All the cards have the same tiny difference between their right and left long edges, so knowing which edge is displayed tells the gambler nothing about the value of the next card in the shoe.
+The information becomes significant only if things can be so arranged that the cards which the gambler is most interested in are all presented with long edge type A facing the table, whilst all the less interesting cards present long edge type B. Then the gambler knows which kind of card is next out of the shoe.
+In Punto Banco cards with a face value of 7, 8 and 9 are high value cards.
+If one such card is dealt to player or to banker, it will give that position a better chance of winning than the other.
+Thus a punter who knows that when the first card dealt (always to the player position) is a 7, 8 or 9, he will know that it is more likely than not that player will win.
+If he knows that the card is not a 7, 8 or 9, he will know that it is more likely than not that banker will win.
+Such knowledge, it is agreed, will give the punter a long term edge of about 6.5% over the house if played perfectly accurately.
+What is therefore necessary for edge sorting to work is for the cards in the shoe to be sorted so that all the 7s, 8s and 9s display edge type A, whilst the rest display edge type B. That means rotating the high value cards so that they display edge type A.
+If the punter were to touch the cards, the invariable practice at most casinos, including at Crockfords, would be that those cards would not be used again.
+The only person who touches the cards is the croupier.
+So what had to happen was to get the cards sorted (ie differentially rotated) by type A and type B by the croupier and then to get them re used in the next shoe, now distinctively sorted.
+For edge sorting to work at Crockfords it is therefore essential that the croupier is persuaded to rotate the relevant cards without her realising why she is being asked to do so.
+Casinos routinely play on quirky and superstitious behaviour by punters.
+It is in the casinos interests that punters should believe, erroneously, that a lucky charm or practice will improve their chance of winning and so modify or defeat the house edge.
+Consequently a wide variety of requests by punters, particularly those willing to wager large sums on games which they must, if they play long enough, lose in the long run, are accommodated by casinos without demur or surprise.
+All of the games of Punto Banco played by the claimant and Ms Sun on 20 and 21 August 2012 were captured on CCTV, mostly with contemporaneous audio recording as well.
+The moment at which they persuaded the croupier, Kathy Yau, to rotate the cards was at 9 pm on 20 August.
+The video shows it and the words spoken have been transcribed.
+Before then, the claimant and Ms Sun had played part of four shoes, the first two plain backed, and the second two Angel cards but with no asymmetry on the back.
+The claimant is a high stakes gambler.
+He began, by his standards, modestly: bets placed on those four shoes ranged from 4,000 to 75,000 per coup.
+He was losing.
+At 8.56 pm he requested a new shoe of cards.
+A new shoe was produced.
+The cards were blue Angel cards with the rounded pattern described on the back.
+At 8.57 the claimant asked Jeremy Hillier, the senior croupier overseeing the game: If I win, can I say I want the same cards again? to which Mr Hillier replied he could, because [he was] not bending them.
+The claimant had in fact avoided touching the cards from either the first or second shoe onwards.
+The croupier, Kathy Yau, then put the cards face down in blocks on the table to make the cut, as is conventional.
+She cut the cards so as to exclude about one deck from play.
+The claimant asked about the cut: Why so big? Ms Sun said: They dont cut the seven cards, a reference to the traditional cut of 7 cards from the end.
+Ms Yau asked if he wanted her to cut 7 cards, to which he replied yes, he wanted to play 90 hands, slightly more than the maximum likely to be possible with an eight deck shoe with a seven card cut.
+She complied, after checking with the supervisor on duty in the room.
+That had the effect of maximising the number of coups which would be possible with those packs, and of exposing the maximum number of cards to the sorting (rotation) process.
+Ms Yau then dealt the first coup.
+After the bet was made, and all the cards then dealt, the next stage was for the croupier to turn the cards face up to reveal whether Player or Banker had won.
+Ms Sun then asked Ms Yau in Cantonese to do it, in other words to turn the cards over so that the face showed, slowly.
+Ms Yau said yes.
+Ms Sun then asked her again in Cantonese to turn the cards in a particular and differential way as they were being exposed and before they were put on the pile of used cards.
+If I say it is good, you turn it this way, good, yes? Um, no good. (A slightly different sounding um).
+Ms Yau did not immediately understand what was required.
+She asked, so you want me to leave it? To which Ms Sun replied, change, yeah, yeah, change luck.
+Ms Yau: what do you mean? Ms Sun gestured how to turn it.
+Turn it this way.
+Ms Yau: what, just open it? Yeah.
+Ms Sun: um, signifying good in Cantonese.
+The claimant then chipped in, yeah, change the luck, thats good.
+Anything to change the luck, it is okay with me.
+Ms Sun reiterated her request in Cantonese, If I say it is not good, you turn it this way.
+If it is good, turn it this way, okay? To which Ms Yau said okay.
+When she turned over the cards of the second coup, Ms Sun said of four of them, good, and of one, not good, in Cantonese.
+Ms Yau did as requested.
+What she was being asked to do, and did, was to turn the cards which Ms Sun called as good end to end, and the not good cards side to side.
+In consequence, the long edge of the not good card was oriented in a different way from the long edge of the good cards.
+The judge found that she had been wholly ignorant of the significance of what she was doing, card by card, at the call of Ms Sun.
+This procedure was followed for each of the next 79 coups dealt from this shoe.
+The maximum amount staked by the claimant on the coups towards the end of the shoe reached 100,000.
+Self evidently, at no time during the play of this shoe did he derive any advantage from the rotation of the cards requested by Ms Sun because that rotation occurred at the end, not at the beginning, of each coup.
+This was all preparation.
+At 10.03 pm, when the shoe was exhausted, the claimant said that he had won with that deck (ie shoe), and that he would keep it.
+The senior croupier, who had brought in a new collection of cards, was told by the claimant he did not want them, as he had won 40,000 with that deck; that was agreed to.
+The original cards were reused.
+The defendant has not been able to calculate retrospectively whether that assertion of winnings to that point was true.
+Before the shoe was reused it had to be reshuffled.
+The claimant had earlier asked Ms Yaus predecessor as croupier for a shuffling machine to shuffle the cards.
+The cards were reshuffled by a machine.
+For a punter using the edge sorting technique this ensured that the shuffle would be effected without rotating any of the cards unless the croupier did so before they were put into the machine.
+Ms Yau did not do so.
+Manual shuffling would have carried a much higher risk of re rotation as it was done.
+Play with the reshuffled shoe recommenced at 10.12 pm and continued until Ms Yau went for a half hour break at 10.31 pm.
+The claimant did not play during her break but resumed when she returned until 3.57 am on 21 August.
+Ms Yau was the croupier throughout.
+The claimants stake increased to 95,000 and then to 149,000 per coup.
+He won approximately 2m.
+The accuracy of his bets on player increased sharply.
+In the first two shoes in which Angel cards were used, those without an asymmetric pattern on the back, he placed respectively 11 bets and then 1 bet on player and a 7, 8 or 9 only occurred once in that 12 times.
+On the shoe in which the edge sorting was done in the manner described, he placed 23 bets on player of which eight were 7s, 8s or 9s.
+On the succeeding shoes, those at least that were completed on that night, shoes four to eight, the record was as follows.
+Shoe four, 23 accurate bets out of 27; shoe five, 22 accurate bets out of 25; shoe six, 20 accurate bets out of 26; shoe 7, 23 accurate bets out of 30; shoe 8, 17 accurate bets out of 19.
+A similar but slightly less pronounced pattern occurred on the following day.
+At the end of play on the early morning of the 21st the claimant asked if he could keep the same shoe, which he referred to as a deck, if he returned on the following day.
+He was told he could.
+Ms Yau returned to duty at 2 pm on 21 August.
+The claimant resumed play with the same cards at 3 pm and played until 6.41 pm.
+His average stake was never less than 149,000.
+For the last three shoes it was 150,000, the maximum that he was allowed to bet each time.
+In the middle of play of the last shoe, the senior croupier told the claimant that the shoe would be replaced when it was exhausted.
+When it was, the claimant and Ms Sun left.
+By then he had won just over 7.7m.
+Crockfords practice after a large win such as this is to conduct an ex post facto investigation to work out how it occurred.
+After quite lengthy review of the CCTV footage and examination of the cards, the investigators succeeded in spotting what had been done.
+Nobody at Crockfords had heard of edge sorting before.
+Nine days after the play, on 30 August, the claimant spoke to Mr Pearce, Managing Director of the London casinos of Genting UK, who told him that Crockfords would not be paying his winnings because the game had been compromised.
+The claimant said he had not touched the cards, but did not state that which at the trial he freely admitted, that he had used edge sorting.
+Arrangements were made to refund his deposited stake, 1m, on 31 August.
+The judge found that Mr Ivey gave factually frank and truthful evidence of what he had done.
+The finding was that he was a professional gambler who described himself as an advantage player, that is one who, by a variety of techniques, sets out to reverse the house edge and to play at odds which favour him.
+The judge found that he does so by means that are, in his opinion, lawful.
+He is jealous of his reputation and is adamant that what he does is not cheating.
+He described what he did, with Ms Sun, as legitimate gamesmanship.
+The judge accepted that he was genuinely convinced that what he did was not cheating.
+But the question which matters is not whether Mr Ivey thought of it as cheating but whether in fact and in law it was.
+The judge concluded that it was, and so did the majority of the Court of Appeal.
+Were they right or wrong?
+Gaming and the law
+Gaming has been the subject of statutory rules since at least the time of the Restoration.
+They have addressed, inter alia, both (1) unfair play and (2) the recoverability of winnings by civil action.
+Very recently, the Gambling Act 2005 has comprehensively revised the statutory framework for gaming.
+In outline, it makes it lawful but subject to detailed licensing.
+The Gaming Act of 1664 (16 Car 2 c7) addressed what it identified as the social ill of excessive gambling, when conducted not for innocent and moderate recreation but as a means of trade or making a living.
+Even in times of relative debauchery, the Act castigated the effect of such gaming on the youth of the day, whether of the nobility and gentry or otherwise.
+By section 3 it made irrecoverable at law any winnings over the then enormous sum of 100.
+And by section 2 it imposed a forfeit of three times the winnings on anyone who won by (in effect) wrongful means.
+The forfeit was recoverable by civil action at the suit either of the loser or, if he did not sue, by anyone else.
+Half the forfeit went to the loser, and half to the Crown.
+The misbehaviours which gave rise to such forfeit were defined as any fraud, shift, cousenage, circumvention, deceit or unlawful device, or ill practice whatsoever, and the activities covered included not only cards and dice, but also tennis and foot races, as well as horse racing, skittles, bowls and many other games.
+The forfeit was incurred not only by winnings by wagering, but also by prize winning, if the ill practice was demonstrated.
+By the time of Queen Anne, the attitude to gambling had hardened.
+The Gaming Act 1710 (9 Ann c 14) repeated in section 5 the list of misbehaviour attracting a forfeit (now five times the winnings), and such was now recognised as a criminal offence attracting corporal punishment.
+The same Act, by section 2, enabled anyone who lost more than 10 at games, however fair, to recover it by civil action, together with a forfeit of three times the loss, half for the loser and half for the poor of the parish.
+By section 1 it made void any security given for payment of gaming debts.
+The Gaming Act 1845 (8 & 9 Vict c 109) abolished the forfeits, but (by section 18) made general the rule that gaming or wagering contracts were unenforceable in law.
+Section 17 dealt with malpractice.
+It referred to fraud or unlawful device or ill practice and made winning by such means a criminal offence, by way of deeming it to be the recognised offence of obtaining by false pretences with intent to cheat or defraud (see section 53 Larceny Act 1827, 7 & 8 Geo 4 c 29).
+Section 17 was headed cheating at play to be punished as obtaining money by false pretences.
+This history is of limited importance, given the enactment of an entirely new regime by the Gambling Act 2005, but it does demonstrate that the law concerned itself from very early times with malpractice at gaming, and that by 1845 a general expression used for it was cheating.
+It is also of note that the malpractice thus dealt with was not confined to deception or fraud, but extended to ill practice.
+Given the origins of that expression in the 1664 Act, relating to foot races, tennis and the like, as well as to gambling, it is not possible to treat ill practice as having been limited by the principle of ejusdem generis to deception or fraud.
+The Gambling Act 2005 reversed, by sections 334 and 335, the rule that gaming contracts are unenforceable.
+The new Gambling Commission is, however, given by section 336 a new power to declare void a bet taken by a licensee if satisfied that the bet was substantially unfair.
+Amongst the factors (not exhaustively defined) which are to be considered when deciding whether a bet was substantially unfair is included the circumstance that either party to the bet either did believe or ought to have believed that an offence of cheating had been or was likely to have been committed in connection with it, although that is by no means the only consideration.
+Supply of insufficient information and the belief of either party that the underlying contest is conducted in contravention of industry rules are two of the other specified relevant circumstances.
+The offence contrary to section 17 of the 1845 Act is replaced by a new offence of cheating at gambling created by section 42.
+Section 42 is in the following terms: 42.
+Cheating (1) A person commits an offence if he cheats at gambling, or (a) (b) does anything for the purpose of enabling or assisting another person to cheat at gambling. (2) For the purposes of subsection (1) it is immaterial whether a person who cheats improves his chances of winning (a) anything, or (b) wins anything. (3) Without prejudice to the generality of subsection (1) cheating at gambling may, in particular, consist of actual or attempted deception or interference in connection with the process by which gambling is (a) conducted, or (b) or process to which gambling relates. a real or virtual game, race or other event By subsection (4) this offence carries a penalty of up to two years imprisonment on indictment, or 51 weeks on summary conviction.
+Cheating
+It has been common ground throughout this litigation that the (now in principle enforceable) contract for betting into which these parties entered is subject to an implied term that neither of them will cheat.
+It follows that, if what Mr Ivey did was cheating, he is in breach of this implied term and cannot as a result recover his winnings.
+As well as advancing this defence, the casino pleaded that what he did amounted to the offence under section 42, and that in consequence he could not recover the proceeds of his criminal offence.
+Mitting J held that the implied term had been broken, and that it was therefore unnecessary to decide whether or not the statutory offence had been committed.
+The majority of the Court of Appeal dismissed Mr Iveys appeal.
+The reasoning of Arden and Tomlinson LJJ was not identical, but both upheld the judges conclusion that what had been done amounted to cheating.
+Sharp LJ would have allowed the appeal, taking the view that there could not be cheating unless the statutory offence had been committed and that a necessary ingredient of it was dishonesty as defined in R v Ghosh [1982] QB 1053.
+The core submission of Mr Spearman QC for Mr Ivey runs as follows: the test of what is cheating must be the same for the implied term as (a) for section 42; (b) cheating necessarily involves dishonesty; (c) the judge found that Mr Ivey was truthful when he said that he did not consider what he did to be cheating; therefore dishonesty and in particular the second leg of the test established by R v Ghosh had not been demonstrated; (d) it follows that what was done was not cheating, and Mr Ivey ought to have recovered the 7.7m.
+The concept of cheating long pre dates section 42 of the Gambling Act 2005.
+It clearly embraces the kind of malpractice described in the statutes of 1664, 1710 and 1845.
+Section 42 thus adopted a longstanding concept.
+However, there is no reason to doubt that cheating carries the same meaning when considering an implied term not to cheat and when applying section 42 of the Act.
+There will be a difference in standard of proof as between civil and criminal proceedings, but that does not affect the meaning of cheating.
+Section 42 expressly does not exhaustively define cheating, and the elaboration in section 42(3) is explanatory rather than definitive.
+The section leaves open what is and what is not cheating, as is inevitable given the extraordinary range of activities to which the concept may apply.
+Plainly, what is cheating in one form of game may be legitimate competition in another.
+For his second and crucial proposition Mr Spearman relied, as a matter of authority, substantially on R v Scott [1975] AC 819.
+Viscount Dilhorne, with whom the other law lords agreed, referred in the course of his speech to the ancient common law offence of cheating.
+He cited, at p 840, Easts Pleas of the Crown (1803) vol II, pp 816ff for that authors opinion that that offence consisted in: the fraudulent obtaining [of] the property of another by any deceitful and illegal practice or token (short of felony) which affects or may affect the public.
+It is not, however, every species of fraud or dishonesty in transactions between individuals which is the subject matter of a criminal charge at common law; it must be such as affects the public calculated to defraud numbers, to deceive the people in general.
+Says Mr Spearman, this demonstrates that fraud, and thus dishonesty, was an essential element of the common law offence of cheating.
+The same, he contends, must follow for cheating at gambling.
+Mr Scott and his co defendants were in the business of film piracy.
+They bribed employees of commercial cinemas, such as projectionists, to abstract the reels of film overnight so that infringing copies could be made and in due course distributed commercially for profit.
+The charge was not cheating at common law but conspiracy to defraud.
+The substantial issue before the House of Lords was whether conspiracy to defraud required as an essential element that there had been deception, which had not been any part of the strategy employed by the defendants.
+The answer was that deception was one very common form of defrauding, but not the only one.
+Whilst no exhaustive definition of defrauding was attempted, the House held that defrauding also included depriving another, by dishonest means, of something which is his or to which he would or might be entitled but for the fraud.
+In so holding, the House followed its own decision in Welham v Director of Public Prosecutions [1961] AC 103, where it had emphasised that the essence of defrauding was the effect on the victim.
+To the extent that defrauding someone may take the form of depriving him of something which is his, or to which he might otherwise be entitled, it is plain, and wholly unsurprising, that a criminal offence of defrauding must contain in addition an element which demonstrates that the means adopted are illegitimate and wrong.
+Otherwise much perfectly proper business competition would be at risk of being labelled fraud, since such competition frequently involves strategies to divert business from A to B. Hence it is entirely unsurprising that conspiracy to defraud was held to require in addition the proof of dishonest means.
+Dishonesty, in this context, supplies the essential element of illegitimacy and wrongfulness.
+As the citation from East shows, the ancient common law offence of cheating consisted of a particular subset of fraudulently depriving another of property, where the fraud affected the public as a whole.
+This offence was abolished by section 32(1) of the Theft Act 1968, except insofar as it consisted of cheating the Revenue.
+There is no discussion of this abolition in the Eighth Report of the Criminal Law Revision Committee on Theft and Related Offences (1966) (Cmnd 2977), which preceded the Act and recommended most of the terms of the statute including section 32(1), but it is clear that the Committee took the view that whatever was previously covered by other forms of common law cheating would be caught by its newly recommended offences, particularly that of obtaining property by deception under what became section 15 of the Act.
+The Theft Act 1968 used the expression cheat only in one place, in relation to the offence of going equipped created by section 25.
+There, in section 25(1) and (5), it was used in a restrictive sense limited to the offences contrary to section 15. (The references to cheat have since been removed from that section.)
+The common law offence of cheating was referred to in Scott only because a supplementary argument for the defendants was that section 32(1) had impliedly abolished also the offence of conspiracy to defraud, which argument unsurprisingly failed.
+There is no occasion to investigate the accuracy of Easts opinion on the scope of the common law offence of cheating.
+It may well be that it necessarily involved dishonesty, although that expression was not in general use in criminal statutes until the Theft Act 1968 adopted it in preference to fraudulently.
+But to say that dishonesty was a necessary element in an offence of which the gist was obtaining the property of others who may well be strangers, and where the offence would otherwise be likely to be impossibly wide, is of no help in construing the meaning of cheating in the quite separate context of gambling.
+Still less is there any reason to suppose that the framers of the Gambling Act adopted in 2005 an analogy with a common law offence which had largely been abolished nearly 40 years earlier, and when cheat had been used in a different sense in the Theft Act 1968.
+Whilst it makes perfect sense to interpret the concept of cheating in section 42 of the Gambling Act in the light of the meaning given to cheating over many years, it makes none to interpret cheating, as used over those many years, by reference to an expression dishonesty introduced into the criminal law for different purposes long afterwards in 1968.
+In gambling, there is an existing close relationship between the parties, governed by rules and conventions applicable to whichever game is undertaken, and which are crucial to what is cheating and what is not.
+Cheating at gambling need not result in obtaining the property of the other party, as section 42(2) explicitly says.
+Most importantly, whilst the additional element of dishonesty was necessary to the common law offence of cheating, and no doubt still is to the surviving offences of cheating the Revenue and conspiracy to defraud, in order to mark out the illegitimate and wrongful from the legitimate, the expression cheating in the context of games and gambling carries its own inherent stamp of wrongfulness.
+Authority apart, Mr Spearman contended that as a matter of ordinary English, cheating necessarily imports dishonesty.
+This argument is most neatly encapsulated by inversion: honest cheating is indeed, as has been sensibly recognised by those who have addressed the phrase in this litigation, an improbable concept.
+But that is because to speak of honest cheating would be to suggest that some cheating is right, rather than wrong.
+That would indeed be contrary to the natural meaning of the word cheating.
+It does not, however, follow, either (1) that all cheating would ordinarily attract the description dishonest or (2) that anything is added to the legal concept of cheating by an additional legal element of dishonesty.
+Although the great majority of cheating will involve something which the ordinary person (or juror) would describe as dishonest, this is not invariably so.
+When, as it often will, the cheating involves deception of the other party, it will usually be easy to describe what was done as dishonest.
+It is, however, perfectly clear that in ordinary language cheating need not involve deception, and section 42(3) recognises this.
+Section 42(3) does not exhaustively define cheating, but it puts beyond doubt that both deception and interference with the game may amount to it.
+The runner who trips up one of his opponents is unquestionably cheating, but it is doubtful that such misbehaviour would ordinarily attract the epithet dishonest.
+The stable lad who starves the favourite of water for a day and then gives him two buckets of water to drink just before the race, so that he is much slower than normal, is also cheating, but there is no deception unless one manufactures an altogether artificial representation to the world at large that the horse has been prepared to run at his fastest, and by themselves it is by no means clear that these actions would be termed dishonesty.
+Similar questions could no doubt be asked about the taking of performance enhancing drugs, about the overt application of a magnet to a fruit machine, deliberate time wasting in many forms of game, or about upsetting the card table to force a re deal when loss seems unavoidable, never mind sneaking a look at ones opponents cards.
+Conversely, there may be situations in which there is deception of the other player but what is done does not amount to cheating.
+The so called three card trick, much practised upon travellers on Victorian and Edwardian trains especially to and from racecourses, commonly involved a deception of the target traveller by a group of associates pretending to be unconnected to one another.
+The idea was to lure the target into playing the game.
+But once he was ensnared, the game was often played genuinely; the target lost not because of any cheating but because the shuffler of the cards had sufficient speed of hand to deceive the eye: see for example R v Governor of Brixton Prison, Ex p Sjoland and Metzler [1912] 3 KB 568.
+No doubt other exponents of the three card trick had less genuine methods, such as a fourth (concealed) card, which would indeed be cheating.
+Sometimes the game admits of a level of legitimate deception.
+The unorthodox lead or discard at bridge is designed to give the opponent a misleading impression of ones hand, but it is part of the game and not cheating.
+Pretending to be stupid at the poker table, so that ones opponent does not take one seriously, and takes risks which he otherwise might not, may or may not be another example.
+These far from sophisticated examples demonstrate the inevitable truth that there will be room for debate at the fringes as to what does and does not constitute cheating.
+To label an activity advantage play, as Mr Ivey and others did, is of no help at all.
+It asks, rather than answers, the question whether it is legitimate or cheating.
+It would be very unwise to attempt a definition of cheating.
+No doubt its essentials normally involve a deliberate (and not an accidental) act designed to gain an advantage in the play which is objectively improper, given the nature, parameters and rules (formal or informal) of the game under examination.
+The question in the present case, however, does not depend on the near impossible task of formulating a definition of cheating, but on whether cheating necessarily requires dishonesty as one of its legal elements.
+Where it applies as an element of a criminal charge, dishonesty is by no means a defined concept.
+On the contrary, like the elephant, it is characterised more by recognition when encountered than by definition.
+Dishonesty is not a matter of law, but a jury question of fact and standards.
+Except to the limited extent that section 2 of the Theft Act 1968 requires otherwise, judges do not, and must not, attempt to define it: R v Feely [1973] QB 530.
+In this it differs strikingly from the expression fraudulently, which it largely replaced, for the judge did define whether a state of mind, once ascertained as a matter of fact, was or was not fraudulent: R v Williams [1953] 1 QB 660.
+Accordingly, dishonesty cannot be regarded as a concept which would bring to the assessment of behaviour a clarity or certainty which would be lacking if the jury were left to say whether the behaviour under examination amounted to cheating or did not.
+The issue whether what was done amounts to cheating, given the nature and rules of the game concerned, is likewise itself a jury question.
+The judge in the present case applied himself to the question whether there was cheating in exactly this jury manner.
+He directed himself that it is ultimately for the court to decide whether conduct amounted to cheating and that the standard is objective.
+In so directing himself he was right.
+There is no occasion to add to the value judgment whether conduct was cheating a similar, but perhaps not identical, value judgment whether it was dishonest.
+Some might say that all cheating is by definition dishonest.
+In that event, the addition of a legal element of dishonesty would add nothing.
+Others might say that some forms of cheating, such as deliberate interference with the game without deception, are wrong and cheating, but not dishonest.
+In that event, the addition of the legal element of dishonesty would subtract from the essentials of cheating, and legitimise the illegitimate.
+Either way, the addition would unnecessarily complicate the question whether what is proved amounts to cheating.
+The judges conclusion, that Mr Iveys actions amounted to cheating, is unassailable.
+It is an essential element of Punto Banco that the game is one of pure chance, with cards delivered entirely at random and unknowable by the punters or the house.
+What Mr Ivey did was to stage a carefully planned and executed sting.
+The key factor was the arranging of the several packs of cards in the shoe, differentially sorted so that this particular punter did know whether the next card was a high value or low value one.
+If he had surreptitiously gained access to the shoe and re arranged the cards physically himself, no one would begin to doubt that he was cheating.
+He accomplished exactly the same result through the unwitting but directed actions of the croupier, tricking her into thinking that what she did was irrelevant.
+As soon as the decision to change the cards was announced, thus restoring the game to the matter of chance which it is supposed to be, he first covered his tracks by asking for cards to be rotated at random, and then abandoned play.
+It may be that it would not be cheating if a player spotted that some cards had a detectably different back from others, and took advantage of that observation, but Mr Ivey did much more than observe; he took positive steps to fix the deck.
+That, in a game which depends on random delivery of unknown cards, is inevitably cheating.
+That it was clever and skilful, and must have involved remarkably sharp eyes, cannot alter that truth.
+Although the judge did not think it necessary to make a finding on the topic, and it is unnecessary to the resolution of this appeal, it would also seem that the facts which he found amounted in any event to a deception of the croupier.
+Certainly, the judge found (para 40) that pretending to be superstitious did not by itself cross the line from legitimate play to cheating, comparing it to the skilled poker player who pretends to be a fool.
+He also found, contrary to one of Crockfords submissions, that what occurred did not amount to such deception as altogether to negate the existence of any contract for the game.
+But that was not a finding that there was no deception at all, and on the facts found there clearly was deception of the croupier into doing something which appeared innocuous or irrelevant, but was in fact highly significant and enabled Mr Ivey to win when he should not have done.
+If, therefore, there were indeed (and contrary to the conclusion reached above) a necessary legal element of dishonesty in cheating, such a deception would be prima facie dishonest, unless it is prevented from being so by necessity to satisfy the second leg of the test in R v Ghosh.
+Dishonesty
+Dishonesty has been adopted since the Theft Act 1968 in the definition of some, but not all, acquisitive criminal offences.
+Forgery, for example, is defined without reference to dishonesty, but rather by the yardstick of the intention of the forger that his false document should be accepted as genuine and acted upon to the prejudice of someone else (Forgery and Counterfeiting Act 1981, section 1), whilst the Fraud Act 2006 retains dishonesty as an element of several forms of fraud (see sections 2, 3, 4 and 11).
+As recorded at para 48 above, dishonesty is itself primarily a jury concept, characterised by recognition rather than by definition.
+Most of the Theft Act 1968 offences required dishonesty without any elaboration of its meaning: section 15 (dishonestly obtaining property by deception) was a prime example and the Fraud Act 2006, which replaces this and other Theft Act offences, adopts the same form.
+There are in section 2 of the Theft Act 1968 limited rules relating to when appropriation is not to be regarded as dishonest (claim of right, belief in consent of owner, belief that owner cannot be found) and a specific provision that it may be dishonest despite a willingness to pay for the goods, but these were designed to reflect existing rules of law, they apply only to appropriation, and they do not alter the underlying principle that dishonesty is not defined.
+This reflects the view of the Criminal Law Revision Committee that dishonesty was a matter to be left to a jury; it said at para 39 that Dishonesty is something which laymen can easily recognise when they see it.
+That is not to suggest that there is not room for debate at the fringes whether particular conduct is dishonest or not, but the perils of advance definition would no doubt have been greater than those associated with leaving the matter to the jury.
+Over the succeeding half century, whilst there have undoubtedly (and inevitably) been examples of uncertainty or debate in identifying whether some conduct is dishonest or not, juries appear generally to have coped well with applying an uncomplicated lay objective standard of honesty to activities as disparate as sophisticated banking practices (for example R v Hayes [2015] EWCA Crim 1944) and the removal of golf balls at night from the bottom of a lake on a private golf course (R v Rostron [2003] EWCA Crim 2206).
+A significant refinement to the test for dishonesty was introduced by R v Ghosh [1982] QB 1053.
+Since then, in criminal cases, the judge has been required to direct the jury, if the point arises, to apply a two stage test.
+Firstly, it must ask whether in its judgment the conduct complained of was dishonest by the lay objective standards of ordinary reasonable and honest people.
+If the answer is no, that disposes of the case in favour of the defendant.
+But if the answer is yes, it must ask, secondly, whether the defendant must have realised that ordinary honest people would so regard his behaviour, and he is to be convicted only if the answer to that second question is yes.
+The occasion for this ruling owed nothing to the facts of Ghosh.
+The defendant locum surgeon had claimed payment for operations which either he had not performed, or which had been carried out under the National Health scheme so that no fees were due.
+The court summarily dismissed his appeal on the basis that no jury could have concluded, by any test, otherwise than that he was dishonest.
+The occasion for the analysis of dishonesty in Ghosh was a tangle of what were perceived to be inconsistent decisions, some of which were said to apply a subjective test, and others of which were said to apply an objective one.
+Those terms are not always as plain to jurors as they have become to lawyers, but it is convenient to adopt them here when examining the reasoning in Ghosh.
+That case arrived, as has been seen, at a compromise rule which is partly objective and partly subjective.
+Thirty years on, however, it can be seen that there are a number of serious problems about the second leg of the rule adopted in Ghosh. (1) It has the unintended effect that the more warped the defendants standards of honesty are, the less likely it is that he will be convicted of dishonest behaviour. (2) It was based on the premise that it was necessary in order to give proper effect to the principle that dishonesty, and especially criminal responsibility for it, must depend on the actual state of mind of the defendant, whereas the rule is not necessary to preserve this principle.
+It sets a test which jurors and others often find puzzling and difficult It represented a significant departure from the pre Theft Act 1968 law, (3) to apply. (4) It has led to an unprincipled divergence between the test for dishonesty in criminal proceedings and the test of the same concept when it arises in the context of a civil action. (5) when there is no indication that such a change had been intended. (6) Moreover, it was not compelled by authority.
+Although the pre Ghosh cases were in a state of some entanglement, the better view is that the preponderance of authority favoured the simpler rule that, once the defendants state of knowledge and belief has been established, whether that state of mind was dishonest or not is to be determined by the application of the standards of the ordinary honest person, represented in a criminal case by the collective judgment of jurors or magistrates.
+The principal objection to the second leg of the Ghosh test is that the less the defendants standards conform to what society in general expects, the less likely he is to be held criminally responsible for his behaviour.
+It is true that Ghosh attempted to reconcile what it regarded as the dichotomy between a subjective and an objective approach by a mixed test.
+The court addressed the present objection in this way, at p 1064: There remains the objection that to adopt a subjective test is to abandon all standards but that of the accused himself, and to bring about a state of affairs in which Robin Hood would be no robber: R v Greenstein [1975] 1 WLR 1353.
+This objection misunderstands the nature of the subjective test.
+It is no defence for a man to say I knew that what I was doing is generally regarded as dishonest; but I do not regard it as dishonest myself.
+Therefore I am not guilty.
+What he is however entitled to say is I did not know that anybody would regard what I was doing as dishonest.
+He may not be believed; just as he may not be believed if he sets up a claim of right under section 2(1) of the Theft Act 1968, or asserts that he believed in the truth of a misrepresentation under section 15 of the Act of 1968.
+But if he is believed, or raises a real doubt about the matter, the jury cannot be sure that he was dishonest.
+And a little later the court added that upon the test which it was setting: In most cases, where the actions are obviously dishonest by ordinary standards, there will be no doubt about it.
+It will be obvious that the defendant himself knew that he was acting dishonestly.
+It is dishonest for a defendant to act in a way which he knows ordinary people consider to be dishonest, even if he asserts or genuinely believes that he is morally justified in acting as he did.
+For example, Robin Hood or those ardent anti vivisectionists who remove animals from vivisection laboratories are acting dishonestly, even though they may consider themselves to be morally justified in doing what they do, because they know that ordinary people would consider these actions to be dishonest.
+Even if this were correct, it would still mean that the defendant who thinks that stealing from a bookmaker is not dishonest (as in R v Gilks [1972] 1 WLR 1341 see para 73 below) is entitled to be acquitted.
+It is no answer to say that he will be convicted if he realised that ordinary honest people would think that stealing from a bookmaker is dishonest, for by definition he does not realise this.
+Moreover, the courts proposition was not correct, because it is not in the least unusual for the accused not to share the standards which ordinary honest people set for society as a whole.
+The acquisitive offender may, it is true, be the cheerful character who frankly acknowledges that he is a crook, but very often he is not, but, rather, justifies his behaviour to himself.
+Just as convincing himself is frequently the stock in trade of the confidence trickster, so the capacity of all of us to persuade ourselves that what we do is excusable knows few bounds.
+It cannot by any means be assumed that the appropriators of animals from laboratories, to whom the court referred in Ghosh, know that ordinary people would consider their actions to be dishonest; it is just as likely that they are so convinced, however perversely, of the justification for what they do that they persuade themselves that no one could call it dishonest.
+There is no reason why the law should excuse those who make a mistake about what contemporary standards of honesty are, whether in the context of insurance claims, high finance, market manipulation or tax evasion.
+The law does not, in principle, excuse those whose standards are criminal by the benchmarks set by society, nor ought it to do so.
+On the contrary, it is an important, even crucial, function of the criminal law to determine what is criminal and what is not; its purpose is to set the standards of behaviour which are acceptable.
+As it was put in Smiths Law of Theft 9th ed (2007), para 2.296: the second limb allows the accused to escape liability where he has made a mistake of fact as to the contemporary standards of honesty.
+But why should that be an excuse?
+It is plain that in Ghosh the court concluded that its compromise second leg test was necessary in order to preserve the principle that criminal responsibility for dishonesty must depend on the actual state of mind of the defendant.
+It asked the question whether dishonestly, where that word appears in the Theft Act, was intended to characterise a course of conduct or to describe a state of mind.
+The court gave the following example, at p 1063, which was clearly central to its reasoning: Take for example a man who comes from a country where public transport is free.
+On his first day here he travels on a bus.
+He gets off without paying.
+He never had any intention of paying.
+His mind is clearly honest; but his conduct, judged objectively by what he has done, is dishonest.
+It seems to us that in using the word dishonestly in the Theft Act 1968, Parliament cannot have intended to catch dishonest conduct in that sense, that is to say conduct to which no moral obloquy could possibly attach.
+But the man in this example would inevitably escape conviction by the application of the (objective) first leg of the Ghosh test.
+That is because, in order to determine the honesty or otherwise of a persons conduct, one must ask what he knew or believed about the facts affecting the area of activity in which he was engaging.
+In order to decide whether this visitor was dishonest by the standards of ordinary people, it would be necessary to establish his own actual state of knowledge of how public transport works.
+Because he genuinely believes that public transport is free, there is nothing objectively dishonest about his not paying on the bus.
+The same would be true of a child who did not know the rules, or of a person who had innocently misread the bus pass sent to him and did not realise that it did not operate until after 10.00 in the morning.
+The answer to the courts question is that dishonestly, where it appears, is indeed intended to characterise what the defendant did, but in characterising it one must first ascertain his actual state of mind as to the facts in which he did it.
+It was not correct to postulate that the conventional objective test of dishonesty involves judging only the actions and not the state of knowledge or belief as to the facts in which they were performed.
+What is objectively judged is the standard of behaviour, given any known actual state of mind of the actor as to the facts.
+Although there have been relatively few appeals based upon Ghosh, that is because judges have dutifully given the two leg direction where there has been any occasion for it.
+But the existence of the second leg has frequently led to trials being conducted on the basis that even if the defendants actions, in his actual state of knowledge or belief about the relevant facts, would be characterised by most people as dishonest, the defendant himself thought that what he was doing was not wrong, and it was for that reason honest.
+Juries are then required first to ask the so called objective question, that is to say to apply their own standards of honesty, but then to depart from them in order to ask what the defendant himself thought.
+The idea that something which is dishonest by ordinary standards can become honest just because the defendant thinks it is may often not be an easy one for jurors to grasp.
+Dishonesty is by no means confined to the criminal law.
+Civil actions may also frequently raise the question whether an action was honest or dishonest.
+The liability of an accessory to a breach of trust is, for example, not strict, as the liability of the trustee is, but (absent an exoneration clause) is fault based.
+Negligence is not sufficient.
+Nothing less than dishonest assistance will suffice.
+Successive cases at the highest level have decided that the test of dishonesty is objective.
+After some hesitation in Twinsectra Ltd v Yardley [2002] UKHL 12; [2002] 2 AC 164, the law is settled on the objective test set out by Lord Nicholls in Royal Brunei Airlines Sdn Bhd v Tan [1995] 2 AC 378: see Barlow Clowes International Ltd v Eurotrust International Ltd [2005] UKPC 37; [2006] 1 WLR 1476, Abou Rahmah v Abacha [2006] EWCA Civ 1492; [2007] Bus LR 220; [2007] 1 Lloyds Rep 115 and Starglade Properties Ltd v Nash [2010] EWCA Civ 1314; [2011] Lloyds Rep FC 102.
+The test now clearly established was explained thus in Barlow Clowes by Lord Hoffmann, at pp 1479 1480, who had been a party also to Twinsectra: Although a dishonest state of mind is a subjective mental state, the standard by which the law determines whether it is dishonest is objective.
+If by ordinary standards a defendants mental state would be characterised as dishonest, it is irrelevant that the defendant judges by different standards.
+The Court of Appeal held this to be a correct state of the law and their Lordships agree.
+Although the House of Lords and Privy Council were careful in these cases to confine their decisions to civil cases, there can be no logical or principled basis for the meaning of dishonesty (as distinct from the standards of proof by which it must be established) to differ according to whether it arises in a civil action or a criminal prosecution.
+Dishonesty is a simple, if occasionally imprecise, English word.
+It would be an affront to the law if its meaning differed according to the kind of proceedings in which it arose.
+It is easy enough to envisage cases where precisely the same behaviour, by the same person, falls to be examined in both kinds of proceeding.
+In Starglade Properties Leveson LJ drew attention to the difference of test as between civil cases and criminal cases, and rightly held that it demanded consideration when the opportunity arose.
+Such an opportunity is unlikely to occur in a criminal case whilst Ghosh remains binding on trial judges throughout the country.
+Although in R v Cornelius [2012] EWCA Crim 500 the opportunity might have arisen before the Court of Appeal, Criminal Division, it did not do so because there had been in that case no false representation of which the honesty needed to be examined; moreover, there is some doubt about the freedom of that court to depart from Ghosh in the absence of a decision from this court.
+Prior to the Theft Act 1968, the expression dishonestly had not appeared in the legal definition of acquisitive offences.
+The mental element was usually marked by the expression fraudulently.
+There is no doubt that that latter expression involved an objective evaluation of the defendants conduct, given his actual state of knowledge and belief as to the facts.
+The Criminal Law Revision Committee, in its eighth report, advised the substitution of the word dishonestly, on the grounds that fraudulently had become technical and its meaning had departed somewhat from the ordinary understanding of lay people.
+It recommended that dishonestly would be more easily understood by lay fact finders and the public generally.
+At para 39 the Committee advised that: Dishonestly seems to us a better word than fraudulently.
+The question Was this dishonest? is easier for a jury to answer than the question Was this fraudulent?.
+Dishonesty is something which laymen can easily recognize when they see it, whereas fraud may seem to involve technicalities which have to be explained by a lawyer.
+It was in accordance with this substitution that in Feely a five judge Court of Appeal, Criminal Division, held that the question whether a defendant had behaved dishonestly was to be left to the jury and should not, as had been the case with fraudulently, be the subject of judicial ruling.
+But there is no hint in the Committees report of any contemplation that whether a man was or was not dishonest should henceforth depend on his own view of his behaviour.
+On the contrary, the report clearly assumed that the prior objective approach would continue, save that the question would be a jury matter rather than one of law.
+Prior to Ghosh the post Theft Act authorities on the meaning of dishonesty were in something of a tangle.
+The court in that case seems to have thought, however, that there were more or less equal strands of authority supporting the subjective and the objective approach.
+It identified R v Feely [1973] QB 530 and R v Greenstein [1975] 1 WLR 1353 as tending to support an objective approach, and R v Landy [1981] 1 WLR 355, R v Waterfall [1970] 1 QB 148, R v Royle [1971] 1 WLR 1764 and R v Gilks [1972] 1 WLR 1341 as tending to favour a subjective one.
+It treated R v McIvor [1982] 1 WLR 409 as an unsustainable attempt to reconcile the two lines.
+This apparently binary dichotomy is not entirely borne out on analysis.
+Chronologically the first two cases, Waterfall and Royle, decided in July 1969 and November 1971, did not concern the characterisation of behaviour as dishonest.
+Rather, they held that where a false representation is alleged, it must be shown that the defendant knew that it was false, or at least was reckless in making it without caring whether or not it was true.
+Until there is a false representation, deliberately or recklessly made, the jury does not get to whether it was dishonest or not.
+Plainly, the defendants actual state of mind as to the truth of the representation is a matter for subjective determination.
+If he genuinely believes that what he said was true, he is entitled to be acquitted, unless of course there is some other behaviour independent of the false representation which can be said to be dishonest.
+It does not at all follow that, when once an absence of belief in the truth of his representation is established, dishonesty is likewise an entirely subjective matter, nor that it is so in cases which do not depend on allegations of false representation(s).
+This important distinction was subsequently identified in both Landy and in Ghosh itself, but the court in the latter case regarded it as unsatisfactory that the jury should have to apply successive tests, firstly of the defendants actual knowledge or belief, and, only if he deliberately made a false representation, secondly of the character of his conduct, given his actual state of mind.
+Waterfall and Royle were treated as examples of a subjective test of dishonesty, although they are not.
+There should in fact be no difficulty in the jury making this distinction, as cases such as Greenstein (below) show.
+It has to be done in every case where there was a false representation but there is a question whether there is any possible moral obloquy attaching to it.
+And it falls to be done, easily enough, in non representation cases such as that of the bus travelling foreign visitor.
+A not dissimilar two stage test is routinely applied by juries where self defence is in issue.
+The first stage is to ask what the facts were, as the defendant subjectively believed them to be.
+The second stage is, assuming such facts, to judge whether the response of the defendant was objectively reasonable.
+See R v Gladstone Williams [1987] 3 All ER 411 and section 76 of the Criminal Justice and Immigration Act 2008.
+In December 1972 a five judge Court of Appeal decided Feely.
+Like some others, the case concerned a defendant employee who had helped himself to money from the till knowing that such a thing was forbidden, but contended by way of defence that he had intended to repay it, and that his employers owed him money anyway.
+The decision of the court was that it is for the jury, not the judge, to say whether the conduct established was dishonest or not.
+The court said plainly that employees who take money from the till without permission are usually thieves, but that if the circumstances were such that no possible moral obloquy could attach to what was done, they might not be.
+It gave as an example the defendant who took the money only because he had no change in his pocket to pay a taxi which had just delivered his wife to the shop, and who meant to and did replace it within minutes.
+Because the question whether that kind of analysis applied in that case had not been left open by the direction to the jury, the appeal against conviction was allowed.
+It is therefore inherent in that case that what the jury has to do is to apply its own (objective) standards to whether the conduct was dishonest.
+Greenstein, decided in July 1975, concerned a large scale operation of a method of the discouraged but not illegal practice of stagging new issue shares by applying for vastly more than the defendants could pay for, in the hope that a smaller affordable number would be allocated, but more than would have been allotted if the application had been confined to what they could afford.
+The charges, of obtaining property by deception, depended on the representation made when a cheque is issued, that it is good for the money on due presentation.
+The defendants, who applied in multiple aliases, did not have the money to meet the cheques they signed for the full number of shares applied for, which were required by the issuers, but they hoped that the return cheques which could be expected to be sent after partial allocation would feed their accounts in time to enable their original cheques to be met.
+The court upheld the judges two part direction.
+First, he told the jury that when it came to asking whether the defendants genuinely believed that their cheques would be met on due presentation (as many were and several were not) the answer should depend on their actual state of belief.
+Secondly, he told them that when the question was whether the defendants had acted honestly overall (that is if there was a false representation), they must apply their own standards.
+It was, the judge had said, no good applying the standards of anyone accused of dishonesty, for in that event everyone would automatically be acquitted.
+That case accordingly supports the principle that the test of dishonesty (but not of belief in a representation) is objective.
+Feely was applied.
+Feely was also applied in Boggeln v Williams [1978] 1 WLR 873, decided in January 1978.
+The defendant had been acquitted of dishonestly abstracting electricity by re connecting his supply after the Board had cut him off for late payment.
+The acquittal was by the Crown Court on appeal and specific findings of fact were accordingly available.
+They were that he knew how to by pass the meter, but had not done so, that he gave notice to the Board of what he was doing, that he genuinely believed that he would be able to pay when the time came, that that belief was not shown to be unreasonable and that in the judgment of the Crown Court he had not acted dishonestly.
+The Divisional Court applied Feely in holding that the decision upon honesty was for the fact finding tribunal and that there was material entitling it to find as it did.
+That case did not address the nature of the test of dishonesty beyond saying that the defendants view of his conduct was, on those findings, crucial.
+The reality is that the Crown Court did not think the conduct dishonest, given what the defendant did and intended.
+In Ghosh, this case was rightly treated as inconclusive upon the perceived binary dichotomy.
+R v Landy, decided in January 1981, was a case of complex fraudulent trading via a bank, which re affirmed that dishonesty was a necessary element of conspiracy to defraud.
+It also, and more crucially, insisted on an indictment for conspiracy to defraud giving proper particulars of the conduct complained of, the absence of which had, in that case, led to a confused and diffuse summing up which did not properly identify the issues for the jury.
+The case was important for laying the early ground for modern case management of fraud trials.
+In the course of its judgment, given by Lawton LJ, the court said this, at p 365: There is always a danger that a jury may think that proof of an irregularity followed by loss is proof of dishonesty.
+The dishonesty to be proved must be in the minds and intentions of the defendants.
+It is to their states of mind that the jury must direct their attention.
+What the reasonable man or the jurors themselves would have believed or intended in the circumstances in which the defendants found themselves is not what the jury have to decide, but what a reasonable man or they themselves would have believed or intended in similar circumstances may help them to decide what in fact individual defendants believed or intended.
+An assertion by a defendant that throughout a transaction he acted honestly does not have to be accepted but has to be weighed like any other piece of evidence.
+If that was the defendants state of mind, or may have been, he is entitled to be acquitted.
+But if the jury, applying their own notions of what is honest and what is not, conclude that he could not have believed that he was acting honestly, then the element of dishonesty will have been established.
+What a jury must not do is to say to themselves: If we had been in his place we would have known we were acting dishonestly so he must have known he was.
+What they can say is: We are sure he was acting dishonestly because we can see no reason why a man of his intelligence and experience would not have appreciated, as right minded people would have done, that what he was doing was dishonest.
+This passage was treated in Ghosh as supportive of a subjective test of dishonesty.
+However, its context was an alleged banking fraud consisting of dealing with money of lenders and depositors in ways which were likely to, and did, lead them to lose their money.
+The ways included reckless and unsecured speculation, preferential payments to connected companies, the preparation of false accounts, the lodging of false Bank of England returns, and the creation of false discount bills when there was no underlying commercial transaction.
+The critical fact is that the defence was that the defendants did not know enough of what was going on to be responsible, and/or that they trusted others to manage the bank.
+Since that was the issue, it is plain that the actual state of mind of the defendants was indeed the critical question for the jury, and that the jury had to approach it in the way explained by Lawton LJ.
+The issue in the case was not principally whether a state of knowledge, if once established, meant that the defendants conduct fell to be characterised as dishonest.
+Indeed, a defendant who knew about the means allegedly adopted would be hard pressed to suggest that he thought them honest.
+The position became more complicated in McIvor, decided in November 1981.
+This was, like Feely, a case of unauthorised taking from the till by an employee.
+The defendant had asked to borrow money and, having been refused, helped himself nevertheless.
+He asserted by way of defence that he had always intended to put the money back, as indeed he had done ten days later.
+The judge had told the jury that it must apply the standards of ordinary honest people to whether what the defendant had done was dishonest, and that what he himself thought about that issue was neither here nor there.
+The appeal came before a Court of Appeal presided over by Lawton LJ, who had delivered the judgments in both Feely and Landy.
+The court held that the passage cited above in Landy applied only to the offence of conspiracy to defraud and not to the offence of theft (or, therefore, to the other Theft Act offences in which dishonesty was an essential element).
+For the latter, the objective lay standard of honesty was to be applied.
+In Ghosh the court treated this decision as suggesting a subjective test for conspiracy to defraud and an objective one for other offences, and understandably held that such a distinction could not be sustained in logic or fairness.
+It is, however, at least possible, if not likely, that all that Lawton LJ was saying in McIvor was that the passage in Landy referred to the issue of the defendants actual state of knowledge of what was happening, and to his actual belief in the truthfulness of any representation which he had made, rather than to the issue of whether an established state of mind is or is not dishonest.
+With hindsight it can be seen that the court perceived clearly that if a wholly subjective test of when an established actual state of knowledge or belief is and is not dishonest were to be applied, the consequences would be that any defendant whose subjective standards were sufficiently warped would be entitled to be acquitted.
+It might be noted that in McIvor the court held that the judges remarks about what the defendant himself thought being neither here nor there might have been taken by the jury as requiring them to disregard what he had said about his actual state of knowledge or belief.
+There had thus been a misdirection, but just as in Ghosh the court held that the only possible conclusion was that the defendant had been dishonest.
+There was in fact only one pre Ghosh case which frankly raised the relevance of the defendants own view as to the honesty of what he had done.
+R v Gilks had been decided as long ago as June 1972.
+The defendant had been handed, by mistake, as much as 100 too much by a bookmaker.
+He realised the mistake but kept the money anyway.
+Asked to account for doing so, he offered the view that whereas it would clearly be wrong to keep such an overpayment if made by the grocer, bookmakers were fair game.
+He was convicted notwithstanding the judges direction that the jury should put itself in his shoes and ask itself whether he had thought he was acting honestly or dishonestly.
+Amongst other grounds of appeal which the Court of Appeal rejected, he contended that the judge ought to have made it yet clearer that even if he did not believe he had any claim of right in law to keep the money, he would still not be guilty unless he did not have the belief he asserted that bookmakers were fair game.
+The Court of Appeal rejected that contention also, saying that the judges direction was a proper and sufficient one.
+Thus the case can be said to have endorsed the (subjective) direction as to dishonesty given by the judge.
+It did so, of course, only to the extent that it rejected the defendants argument that the judges direction was wrongly adverse to him.
+The question whether the direction was too favourable to him did not arise and was not addressed.
+Gilks preceded Feely, Greenstein, Landy, Boggeln v Williams and McIvor but was not cited to any of those later courts, which therefore did not analyse what if anything it had decided.
+It might, however, be thought that the facts of Gilks are a powerful demonstration of the perils of the second leg of the Ghosh test, for it means that if the likes of Mr Gilks are once truthful about their idiosyncratic view of bookmakers, they are bound to be acquitted.
+These several considerations provide convincing grounds for holding that the second leg of the test propounded in Ghosh does not correctly represent the law and that directions based upon it ought no longer to be given.
+The test of dishonesty is as set out by Lord Nicholls in Royal Brunei Airlines Sdn Bhd v Tan and by Lord Hoffmann in Barlow Clowes: see para 62 above.
+When dishonesty is in question the fact finding tribunal must first ascertain (subjectively) the actual state of the individuals knowledge or belief as to the facts.
+The reasonableness or otherwise of his belief is a matter of evidence (often in practice determinative) going to whether he held the belief, but it is not an additional requirement that his belief must be reasonable; the question is whether it is genuinely held.
+When once his actual state of mind as to knowledge or belief as to facts is established, the question whether his conduct was honest or dishonest is to be determined by the fact finder by applying the (objective) standards of ordinary decent people.
+There is no requirement that the defendant must appreciate that what he has done is, by those standards, dishonest.
+Therefore in the present case, if, contrary to the conclusions arrived at above, there were in cheating at gambling an additional legal element of dishonesty, it would be satisfied by the application of the test as set out above.
+The judge did not get to the question of dishonesty and did not need to do so.
+But it is a fallacy to suggest that his finding that Mr Ivey was truthful when he said that he did not regard what he did as cheating amounted to a finding that his behaviour was honest.
+It was not.
+It was a finding that he was, in that respect, truthful.
+Truthfulness is indeed one characteristic of honesty, and untruthfulness is often a powerful indicator of dishonesty, but a dishonest person may sometimes be truthful about his dishonest opinions, as indeed was the defendant in Gilks.
+For the same reasons which show that Mr Iveys conduct was, contrary to his own opinion, cheating, the better view would be, if the question arose, that his conduct was, contrary to his own opinion, also dishonest.
+For these several reasons, this appeal must be dismissed.

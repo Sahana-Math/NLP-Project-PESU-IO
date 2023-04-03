@@ -1,0 +1,270 @@
+The decision of the Supreme Court in Patel v Mirza [2016] UKSC 42; [2017] AC 467 is a significant development in the law relating to illegality at common law.
+It has resolved a period of considerable uncertainty during which conflicting views have been expressed in the Supreme Court as to the appropriate approach and the direction the law on the subject should take (Hounga v Allen (Anti Slavery International intervening) [2014] UKSC 47; [2014] 1 WLR 2889; Les Laboratoires Servier v Apotex Inc [2014] UKSC 55; [2015] AC 430; Bilta (UK) Ltd v Nazir (No 2) [2015] UKSC 23; [2016] AC 1).
+In Patel v Mirza a majority of the Supreme Court rejected the reliance principle as applied in Tinsley v Milligan [1994] 1 AC 340, whereby relief was refused to parties who had to rely on their own illegality to establish their case.
+In its place, the majority adopted a more flexible approach which openly addresses the underlying policy considerations involved and reaches a balanced judgment in each case, and which also permits account to be taken of the proportionality of the outcome.
+The present appeal raises issues as to the application of the new policy based approach outlined in Patel v Mirza in the context of a claim for negligent breach by a solicitor of his retainer, a concurrent claim in breach of contract and in tort.
+Factual background
+On or about 1 March 2000, Ms Maria Grondona (the respondent) entered into an agreement (the 2000 agreement) with Mr C L Mitchell (Mitchell), with whom she had a business relationship, relating to four properties: 73b Beulah Road; 362 High Road, Tottingham (sic); and 12 and 12A Cator Road.
+The 2000 agreement provided: I Maria Grondona agree to have in my name mortgage loans in the above mentioned properties with the understanding and agreement that Mr CL Mitchell of Flat 2, 2 Silverdale, London SE26 4SZ will carry out the following tasks: (1) To pay all monthly mortgages on each of the properties as and when they become due (2) Receives from the tenants in these properties the due rents (3) Carry out all repair work on the properties (4) Deals with all the financial matters on these properties (5) Decides when to sell all or any of these properties (6) Mr Mitchell to pay to me 50% of the net profit when any of the above properties are sold.
+This is a binding agreement enforceable by law between Mr Mitchell and myself.
+On 27 November 2001 the freehold of 73 Beulah Road, Thornton Heath was purchased by Ms Loretta Hedley for 82,000 with the assistance of finance from BM Samuels Finance Group plc (BM Samuels) which obtained a registered charge in its favour.
+There was apparently also a subsidiary restriction in favour of Moneypenny Investments Ltd and Gemforce Investments Ltd.
+In or about July 2002 Mitchell paid the sum of 30,000 to Ms Hedley, for the grant of a 125 year lease of part of the freehold of 73 Beulah Road, which comprised a rear ground floor flat, No 73b (the property).
+The commencement date for the lease was 24 June 1990.
+On 26 July 2002 Mitchell entered into a loan facility of 45,000 for a period of six months secured by a legal charge over the property with BM Samuels to enable him to purchase it (the BM Samuels charge).
+On the same date a leasehold interest in the property was registered in the name of Mitchell at the Land Registry under title number SGL 638702.
+The BM Samuels charge was also duly registered at the Land Registry.
+In October 2002 the respondent entered into a form of purchase of the leasehold interest in the property from Mitchell for the sum of 90,000 (ie three times the price paid when the leasehold had been created a few months earlier).
+She did so with the assistance of a mortgage advance from Birmingham Midshires in the sum of 76,475 with the intention that the advance would be secured by a charge over the property entered into by the respondent on 31 October 2002 (the Birmingham Midshires charge).
+The mortgage advance was procured by fraud.
+The respondent dishonestly misrepresented on the mortgage application form that the sale from Mitchell to the respondent was not a private sale, that the deposit moneys were from her own resources and that she was managing the property.
+The purpose of the fraud, as found by the trial judge, was to raise capital finance for Mitchell from a high street lender which he would not otherwise have been able to obtain, rather than to fund the purchase of the property by the respondent.
+Stoffel & Co, solicitors, (the appellants) acted for the respondent, for
+Mitchell and for the chargee, Birmingham Midshires, in connection with the transaction.
+On or about 31 October 2002 Mr Mitchell executed in favour of the respondent and delivered to the appellants the HM Land Registry Transfer of Whole of Registered Title(s) Form TR1 in relation to the property.
+On 1 November 2002 the appellants paid the sum of 76,475 received by way of mortgage advance from Birmingham Midshires to BM Samuels, as the existing chargee of the property, in order for the BM Samuels charge to be discharged.
+BM Samuels duly provided a Form DS1 releasing the BM Samuels charge.
+However, the appellants failed to register at the Land Registry the Form TR1 transferring the property from Mitchell to the respondent, the Form DS1 releasing the BM Samuels charge or the Birmingham Midshires charge granted by the respondent.
+The trial judge found that this failure to register was because the Form TR1 submitted by the appellants had not been impressed with stamp duty and the procedural stamp and that it was therefore returned by Croydon District Land Registry on 28 November 2002.
+The Land Registry wrote again to the appellants on 7 and 13 April 2003.
+On 14 April 2003 it wrote to the appellants to notify them that the application for registration had been cancelled.
+A further application for registration was rejected on 2 July 2003 due to errors on the transfer and that application was cancelled on 5 August 2003.
+As a result of the appellants failure to register the relevant forms, Mitchell remained the registered proprietor of the property and BM Samuels remained the registered proprietor of the BM Samuels charge.
+On the basis of that charge, further advances were made to Mitchell following the transactions in 2002.
+The legal proceedings
+In 2006 the respondent defaulted on payments under the Birmingham Midshires charge and Birmingham Midshires brought proceedings against her in order to obtain a money judgment.
+The respondent defended the claim and brought proceedings against the appellants by a CPR Part 20 claim for an indemnity and/or a contribution and/or damages for breach of duty and/or breach of contract.
+The appellants defended the Part 20 claim.
+Although by the date of trial they admitted that the failure to register the TR1 Form, the DS1 Form and the Birmingham Midshires charge constituted negligence or breach of duty, they contended that damages were not recoverable by the respondent because the purpose of putting the property into her name and obtaining a mortgage from Birmingham Midshires was illegal, in that it was a conspiracy to obtain finance for Mitchell by misrepresentation.
+They maintained that the purpose of instructing the appellants could only have been to further that fraud and that, accordingly, they were entitled to rely on the defence of illegality.
+In the alternative, the defendant raised defences relating to quantum.
+Birmingham Midshires amended its claim in order to claim directly against the appellants, against BM Samuels, the prior chargee, and against Mitchell.
+The claims brought by Birmingham Midshires against BM Samuels and against the appellants were settled.
+Summary judgment was obtained by Birmingham Midshires against the respondent on 29 May 2014.
+That judgment was for 70,000 with the balance to be subject to an account.
+By the time of the trial before Her Honour Judge Walden Smith in the Central London County Court, which began on 5 January 2016, it appeared that Mitchell had died, although the judge did not see any documentary evidence to that effect.
+On 22 April 2014 the leasehold interest in 73b Beulah Road was sold by BM Samuels for 110,000 in order to satisfy the sum owed by Mitchell under the BM Samuels charge.
+In a judgment dated 11 April 2016 the judge held as follows. (1) The respondent had participated with Mitchell in a mortgage fraud to deceive Birmingham Midshires into making an advance to her to purchase the property. (2) The respondent was a knowing and dishonest participant in the mortgage fraud perpetrated to obtain moneys from Birmingham Midshires for Mitchell which he could not obtain himself. (3) The following dishonest misrepresentations had been made by the respondent in the mortgage application form: that the sale from Mitchell to the respondent was not a private a) sale, when in fact it was a private sale; b) the deposit moneys were from her own resources, when in fact they came from the proceeds of a loan to the respondent from BM Samuels; that she was managing the property (and the other properties c) referred to in the mortgage application) herself, when in fact Mitchell was doing so pursuant to the terms of the 2000 agreement and the respondent had had no involvement whatsoever in the collection of rents or any other aspect of the management of the properties. (4) The effect of the 2000 agreement was that Mitchell retained complete control over the properties.
+Mitchell remained de facto owner of the property.
+The respondent was not and never was the de facto owner of the property.
+She had agreed to act as Mitchells nominee and the provision in the agreement that she recover 50% of the net profits from any sale was her payment for having obtained the mortgage advance. (5) The mortgage application was a sham arrangement whereby the respondent lent her good credit history to Mitchell to enable him to obtain finance behind the scenes and out of sight of the potential lender. (6) The respondent had little or no actual involvement in the alleged purchase and it was not a bona fide purchase of a proprietary interest for value. (7) The respondent did, however, undertake legal responsibility for the Birmingham Midshires mortgage which was to be charged over the property.
+In addressing the defence of illegality, the judge applied the reliance test as she was required to do by Tinsley v Milligan.
+She concluded that the illegality defence did not apply.
+She held that the claim against the appellants for failing to register the forms was conceptually separate from the fraud.
+The claim did not rely on the allegations of illegality and the reason for the conveyance was irrelevant to it.
+Following a further hearing on quantum, in a further judgment dated 11 May 2016 the judge awarded the respondent damages of 78,000, the value of the property as at November 2009, with interest thereon.
+The appellants appealed to the Court of Appeal ([2018] EWCA Civ 2031; [2018] PNLR 36).
+In her judgment with which Flaux LJ agreed, the Vice President Gloster LJ held that the judge had erred in law in concluding that the mortgage transaction was a sham, because as between Birmingham Midshires and the respondent the mortgage was clearly intended to take effect.
+The respondent had intended to borrow the money secured by way of a legal charge on her registered title and Birmingham Midshires likewise intended to lend the money secured in such a way.
+Gloster LJ held, further, that the judge had erred in law in holding that there was no intention to transfer the legal title in the property to the respondent because that was the very essence of the transaction between her and Mitchell, the whole purpose of the arrangement between them being, whatever the position in relation to retention of beneficial ownership, that she should be clothed with legal title so as to be able to obtain finance from Birmingham Midshires and grant a charge to secure such finance.
+The Court of Appeal held, on the basis of the decision of the Supreme Court in Patel v Mirza, which had been handed down since the first instance decision, that the illegality defence did not bar the respondents claim.
+Gloster LJ considered that, although mortgage fraud was a canker on society, barring the claim against the negligent appellants would not enhance the fight against mortgage fraud.
+There was a public interest in ensuring that clients who use the services of solicitors are entitled to seek civil remedies for negligence or breach of contract against their solicitors arising from a legitimate and lawful retainer between them, in circumstances where the client was not seeking to profit or gain from her mortgage fraud but merely to ensure that the chargees security was adequately protected by registration.
+In the view of the Court of Appeal, to deny the claim would also be disproportionate to the wrongdoing involved.
+It dismissed the appeal and also dismissed a cross appeal on quantum.
+The appellants sought permission to appeal to the Supreme Court on the following four grounds. (1) The Court of Appeal erred in overturning the finding of the judge that the sale between Mitchell and the respondent was a sham. (2) The Court of Appeal wrongly held that there was an intention to transfer legal title in the property. (3) The Court of Appeal failed to analyse adequately or at all the relevance of the transfer of legal title. (4) The Court of Appeal erred fundamentally in its application of the Patel v Mirza guidelines.
+On 18 March 2019 the Supreme Court (Lady Hale, Lord Hodge and Lord Briggs) gave permission to appeal, limited to Ground 4 only.
+The issues on appeal to the Supreme Court It was common ground between the parties to the appeal before us that,
+subject to the defence of illegality, the respondent had a complete cause of action against the appellants.
+In particular: (1) Negligence and/or breach of retainer had been conceded by the appellants; (2) The judge held that the loss sustained by the respondent was caused by the negligence and/or breach of duty of the appellants; (3) The parties agreed that loss was to be calculated by reference to the fact that the respondent did not have an unencumbered property which was available to her as the security for the moneys advanced to her by Birmingham Midshires.
+Had the appellants fulfilled their obligations to her, she would have had an otherwise unencumbered property in about November 2009, when the property would have been sold to meet her arrears.
+The value of that property was 78,000, so the loss was that sum plus interest from November 2009.
+On behalf of the appellants Mr Michael Pooles QC submits that the Court of Appeal erred in its analysis and application of the Patel v Mirza guidelines.
+He submits that the present case is a paradigm case for the refusal of relief on the grounds of illegality.
+The respondent utilised the services of the appellants in the context of and in order to execute a mortgage fraud which she and Mitchell were practising on Birmingham Midshires.
+The appellants acted innocently but incompetently in carrying out their instructions and left the respondent without registered title to a property which was only to be transferred to her for the purpose of the mortgage fraud.
+He submits that if the illegality defence operates to leave the loss to lie where it falls, then the respondent can complain of no injustice.
+The new approach to the illegality defence: Patel v Mirza
+It is necessary to examine in a little detail Lord Toulsons exposition in Patel v Mirza of the new approach to the illegality defence at common law.
+Having referred to the maxims ex turpi causa non oritur actio (no action arises from a disgraceful cause) and in pari delicto potior est conditio defendentis (where both parties are equally in the wrong the position of the defendant is the stronger), Lord Toulson observed: 99.
+Looking behind the maxims, there are two broad discernible policy reasons for the common law doctrine of illegality as a defence to a civil claim.
+One is that a person should not be allowed to profit from his own wrongdoing.
+The other, linked, consideration is that the law should be coherent and not self defeating, condoning illegality by giving with the left hand what it takes with the right hand. 100.
+Lord Goff observed in the Spycatcher case, Attorney General v Guardian Newspapers Ltd (No 2) [1990] 1 AC 109, 286, that the statement that a man shall not be allowed to profit from his own wrong is in very general terms, and does not of itself provide any sure guidance to the solution of a problem in any particular case.
+In Hall v Hebert [1993] 2 SCR 159 McLachlin J favoured giving a narrow meaning to profit but, more fundamentally, she expressed the view, at pp 175 176, that, as a rationale, the statement that a plaintiff will not be allowed to profit from his or her own wrongdoing does not fully explain why particular claims have been rejected, and that it may have the undesirable effect of tempting judges to focus on whether the plaintiff is getting something out of the wrongdoing, rather than on the question whether allowing recovery for something which was illegal would produce inconsistency and disharmony in the law, and so cause damage to the integrity of the legal system. 101.
+That is a valuable insight, with which I agree.
+I agree also with Professor Burrows observation that this expression leaves open what is meant by inconsistency (or disharmony) in a particular case, but I do not see this as a weakness.
+It is not a matter which can be determined mechanistically.
+So how is the court to determine the matter if not by some mechanistic process? In answer to that question I would say that one cannot judge whether allowing a claim which is in some way tainted by illegality would be contrary to the public interest, because it would be harmful to the integrity of the legal system, without (a) considering the underlying purpose of the prohibition which has been transgressed, (b) considering conversely any other relevant public policies which may be rendered ineffective or less effective by denial of the claim, and (c) keeping in mind the possibility of overkill unless the law is applied with a due sense of proportionality.
+We are, after all, in the area of public policy.
+That trio of necessary considerations can be found in the case law.
+This passage makes clear that the evaluation of the factors described in para 101 is directed specifically at determining whether there might be inconsistency damaging to the integrity of the legal system.
+This is confirmed later in Lord Toulsons judgment where he refers (at para 109) to the need when considering the application of the common law doctrine of illegality to have regard to the policy factors involved and to the nature and circumstances of the illegal conduct in determining whether the public interest in preserving the integrity of the justice system should result in denial of the relief claimed and in the following passage at para 120: The essential rationale of the illegality doctrine is that it would be contrary to the public interest to enforce a claim if to do so would be harmful to the integrity of the legal system (or, possibly, certain aspects of public morality, the boundaries of which have never been made entirely clear and which do not arise for consideration in this case).
+In assessing whether the public interest would be harmed in that way, it is necessary (a) to consider the underlying purpose of the prohibition which has been transgressed and whether that purpose will be enhanced by denial of the claim, (b) to consider any other relevant public policy on which the denial of the claim may have an impact and (c) to consider whether denial of the claim would be a proportionate response to the illegality, bearing in mind that punishment is a matter for the criminal courts.
+Within that framework, various factors may be relevant, but it would be a mistake to suggest that the court is free to decide a case in an undisciplined way.
+The public interest is best served by a principled and transparent assessment of the considerations identified, rather by than the application of a formal approach capable of producing results which may appear arbitrary, unjust or disproportionate.
+Earlier in his judgment in Patel (at para 76) Lord Toulson had drawn support from the approach of Lord Wilson in Hounga v Allen [2014] 1 WLR 2889 at para 42 where Lord Wilson had observed that the defence of illegality rests on the foundation of public policy and continued: So it is necessary, first, to ask What is the aspect of public policy which founds the defence? and, second, to ask But is there another aspect of public policy to which the application of the defence would run counter.
+Lord Wilson had weighed the policy considerations in that case and concluded that in so far as any public policy existed in favour of applying the illegality defence, it should give way to the public policy to which its application would be an affront.
+A balancing of the policy considerations in either direction is, therefore, an important element of the decision making process.
+With regard to the third stage of the process, namely the assessment of proportionality, Lord Toulson observed (at para 107): In considering whether it would be disproportionate to refuse relief to which the claimant would otherwise be entitled, as a matter of public policy, various factors may be relevant.
+Professor Burrows list [set out at para 93 of Lord Toulsons judgment] is helpful but I would not attempt to lay down a prescriptive or definitive list because of the infinite possible variety of cases.
+Potentially relevant factors include the seriousness of the conduct, its centrality to the contract, whether it was intentional and whether there was marked disparity in the parties respective culpability.
+It is important to bear in mind when applying the trio of necessary
+considerations described by Lord Toulson in Patel that they are relevant not because it may be considered desirable that a given policy should be promoted but because of their bearing on determining whether to allow a claim would damage the integrity of the law by permitting incoherent contradictions.
+Equally such an evaluation of policy considerations, while necessarily structured, must not be permitted to become another mechanistic process.
+In the application of stages (a) and (b) of this trio a court will be concerned to identify the relevant policy considerations at a relatively high level of generality before considering their application to the situation before the court.
+In particular, I would not normally expect a court to admit or to address evidence on matters such as the effectiveness of the criminal law in particular situations or the likely social consequences of permitting a claim in specified circumstances.
+The essential question is whether to allow the claim would damage the integrity of the legal system.
+The answer will depend on whether it would be inconsistent with the policies to which the legal system gives effect.
+The court is not concerned here to evaluate the policies in play or to carry out a policy based evaluation of the relevant laws.
+It is simply seeking to identify the policies to which the law gives effect which are engaged by the question whether to allow the claim, to ascertain whether to allow it would be inconsistent with those policies or, where the policies compete, where the overall balance lies.
+In considering proportionality at stage (c), by contrast, it is likely that the court will have to give close scrutiny to the detail of the case in hand.
+Finally, in this regard, since the overriding consideration is the damage that might be done to the integrity of the legal system by its adopting contradictory positions, it may not be necessary in every case to complete an exhaustive examination of all stages of the trio of considerations.
+If, on an examination of the relevant policy considerations, the clear conclusion emerges that the defence should not be allowed, there will be no need to go on to consider proportionality, because there is no risk of disproportionate harm to the claimant by refusing relief to which he or she would otherwise be entitled.
+If, on the other hand, a balancing of the policy considerations suggests a denial of the claim, it will be necessary to go on to consider proportionality. (a) Would the underlying purpose of the prohibition which has been transgressed be enhanced by a denial of the claim?
+On behalf of the appellants, Mr Michael Pooles QC is able to point to the fact that the respondent was knowingly and dishonestly involved in a mortgage fraud to deceive Birmingham Midshires into making the advance to the respondent to purchase the property.
+She made dishonest misrepresentations to Birmingham Midshires that the sale was not a private sale, that the deposit moneys were from her own resources and that she was managing the property herself.
+The sale between Mitchell and the respondent was tainted with illegality because it was entered into with the object of deceiving an institutional lender into thinking that the respondent was both the legal and beneficial owner of the property and required mortgage finance for her own business purposes.
+The respondents conduct would, at that time, have constituted an offence contrary to section 15, Theft Act 1968.
+The background to the respondents claim against her solicitors is undoubtedly a serious fraud.
+Moreover, the appellants, who were not a party to and knew nothing about the illegality, were retained by the respondent in order that the mortgage fraud might be facilitated.
+With regard to the first of the trio of considerations identified by Lord Toulson in Patel, Mr Pooles submits that it is trite that the underlying purpose of the criminalisation and penalisation of mortgage fraud and conspiracies to defraud is to deter such fraud.
+He submits further that it is equally notorious that mortgage fraud prosecutions are difficult and that therefore the deterrent effect of the prohibition must be seen as limited.
+In these circumstances, he says, the refusal of relief to someone closely involved in mortgage fraud would enhance the deterrent effect of the prohibition.
+The operation of the illegality defence would prevent the respondent from recovering damages from her solicitors who were instructed for the purpose of the fraud.
+It would or should, he submits, deter the use of solicitors as catspaws in mortgage frauds.
+There clearly exists an important policy that the law should condemn mortgage frauds which are serious criminal offences.
+The appellants correctly identify deterrence as one underlying policy of the criminal law against fraud.
+I doubt, however, that permitting a civil remedy to persons in the position of the respondent would undermine that policy to any significant extent.
+The risk that they may be left without a remedy if their solicitor should prove negligent in registering the transaction is most unlikely to feature in their thinking.
+A further underlying purpose of the prohibition against mortgage fraud is correctly identified by Mr Andrew Warnock QC on behalf of the respondent as the protection of the public, and in particular mortgagees, from suffering loss.
+Viewed from this perspective, it is difficult to see how refusing the respondent a civil remedy against her solicitors for their negligence in failing to register the transfer would enhance that protection.
+Registration of the transactions could only take place after the completion of the conveyance.
+By the time of the negligent breach of duty the loan had already been advanced by Birmingham Midshires and received by the respondent.
+The required registration was not a necessary step in perpetrating the fraud and, by the time of the negligent failure to register the transfer, the fraud was complete.
+In these circumstances, denying a remedy to the respondent in respect of negligence in what occurred subsequently would not afford any protection to Birmingham Midshires.
+On the contrary, as the respondent points out, not only was the required registration of the transfer to the respondent in the interests of the respondent, but it was also in the interests of the mortgagee, Birmingham Midshires, both during the currency of the mortgage and following its discharge, that the transfer should be registered in addition to the mortgagees charge.
+The registration of the transfer was necessary in order that Birmingham Midshires charge could be registered.
+In addition, it was in Birmingham Midshires interest that the respondent should have assets with which to meet her liability if sued on her personal covenant.
+As matters turned out, the failure to register the transfer to the respondent meant that the property was not available to meet any part of the respondents liability on the discharge of the mortgage.
+When sued by Birmingham Midshires the respondent, having discovered that she had no registered title, brought Part 20 proceedings against the appellants seeking damages for the loss of her proprietary interest.
+Were she to recover compensation from the appellants, that could be applied to meet or reduce her liability to Birmingham Midshires on her personal covenant.
+While Birmingham Midshires had, in these circumstances, an independent claim for negligent breach of duty against the appellants, it can at the very least be said that the denial of such a claim by the respondent against the appellants would not enhance the protection afforded by the law to mortgagees.
+It was, therefore, in the interests not only of the respondent but also of Birmingham Midshires for the appellants to have complied with their duties to the respondent.
+I will return to the relationship of the negligent conduct to the mortgage fraud itself when considering centrality in the context of proportionality.
+Is there any other relevant public policy on which the denial of the claim may (b) have an impact?
+Important countervailing public policies in play in the present case are that conveyancing solicitors should perform their duties to their clients diligently and without negligence and that, in the event of a negligent breach of duty, those who use their services should be entitled to seek a civil remedy for the loss they have suffered.
+To permit solicitors to escape liability for negligence in the conduct of their clients affairs when they discover after the event that a misrepresentation was made to a mortgagee would run entirely counter to these policies.
+While denial of a remedy may sometimes be justified in such circumstances, this should only be on the basis that to afford a remedy would be legally incoherent.
+Moreover, I agree with the observation of Gloster LJ in the Court of Appeal (at para 37) that there is more likelihood that mortgage fraud would be prevented if solicitors appreciate that they should be alive to, and question, potential irregularities in any particular transaction.
+In this regard, descending to the facts of the present case, I am unable to accept the submission on behalf of the appellants that there were here no potential irregularities which could have put them on notice of the possibility of fraud.
+First, it is a striking feature of this case that the appellants acted for both Mitchell and the respondent, in addition to the mortgagee, Birmingham Midshires.
+Secondly, Mitchell had purchased the property in July 2002 and purported to sell it to the respondent in October 2002.
+Thirdly, the claimed value of the property had increased greatly over a short period of time.
+The purchase price on the sale to the respondent was 90,000, three times the price paid when the leasehold had been created three months earlier. (See generally, The Law Society, Practice Note on Mortgage Fraud, 13 January 2020.)
+A further countervailing public policy which arises here relates to the effect of the transaction on property rights.
+It is now established that, unless a statute provides otherwise expressly or by necessary implication, property can pass under a contract which is illegal as a contract.
+Where property is transferred for an illegal purpose the transferee obtains good title both in law and in equity, notwithstanding that the transaction being illegal it would not have been specifically enforced (Tinsley v Milligan per Lord Browne Wilkinson pp 369 371; Patel v Mirza per Lord Toulson at para 110).
+In the present case the Court of Appeal reversed the conclusions of the trial judge that the mortgage application and agreement constituted a sham and that there was no intention that the respondent would become the legal owner of the property.
+First, the Court of Appeal considered that the fact that, so far as the respondent and Mitchell were concerned, the mortgage application was fraudulent in that it contained misrepresentations did not as a matter of law result in its being a sham transaction as between the respondent and Birmingham Midshires, the mortgagee.
+She and Birmingham Midshires intended that the money should be borrowed and secured on her registered legal title to the property.
+Furthermore, Birmingham Midshires had no knowledge of the misrepresentations or the true intentions of the respondent and Mitchell.
+Accordingly, the transaction was intended to take effect between the respondent and Birmingham Midshires and was not a sham. (Cf Snook v London and West Riding Investments Ltd [1967] 2 QB 786 at 802 per Diplock LJ.) Secondly, the fact that the sale agreement between Mitchell and the respondent was tainted with illegality because it was entered into with the object of deceiving Birmingham Midshires, did not mean that Mitchell and the respondent did not intend legal title to pass to her.
+On the contrary, the whole purpose of the arrangement between them (whatever the position in relation to retention of beneficial ownership might be) was that legal title should vest in the respondent so that she could obtain a loan from Birmingham Midshires and grant a charge in favour of Birmingham Midshires to secure the loan.
+The Supreme Court refused an application by the appellants for permission to appeal on the grounds that the Court of Appeal erred in (1) overturning the judges conclusion that the sale between Mitchell and the respondent was a sham; (2) holding that there was an intention to transfer legal title in the property; and (3) failing to analyse adequately the relevance of the transfer of legal title.
+Permission to appeal was limited to the issue of the application of the Patel v Mirza guidelines.
+In my view, this reasoning of the Court of Appeal is clearly correct.
+The intention of Mitchell and the respondent was that the appellants should register the Form TR1 executed by Mitchell at the Land Registry.
+Had the appellants done so, in accordance with their retainer, legal title in the property would have passed to the respondent under section 27(1), Land Registration Act 2002.
+In the event, no legal title passed to the respondent but, as Mitchell had executed and delivered the Form TR1 and had done everything which he could do to effect the legal transfer, the respondent was entitled to an equitable interest in the property, namely an equitable right to be registered as proprietor of the registered legal title. (See section 24(b), Land Registration Act 2002; Mortgage Business plc v OShaughnessy [2012] 1 WLR 1521 per Etherton LJ at para 58.) The fact that the law recognises this equitable property right vested in the respondent gives rise to an important countervailing policy which requires to be brought into consideration.
+Once an equitable interest in the property has passed to the respondent, she should have available to her as the holder of that interest the remedies provided by law for its protection.
+It would, in my view, be incoherent for the law to accept on the one hand that an equitable interest in the property passed to the respondent, notwithstanding that the agreement for sale was tainted with illegality, while on the other refusing, on the basis of the same illegality, to permit proceedings against a third party in respect of their failure to protect that equitable interest by registering the Form TR1 at the Land Registry.
+I pause at this point in the process of addressing Lord Toulsons trio of relevant considerations.
+To permit the respondents claim in the particular circumstances of this case would not undermine the public policies underlying the criminalisation of mortgage fraud and could, indeed, operate in a way which would protect the interests of the victim of the fraud, ie the mortgagee.
+Furthermore, to deny the respondents claim would run counter to other important public policies.
+It would be inconsistent with the policy that the victims of solicitors negligence should be compensated for their loss.
+It would be a disincentive to the diligent performance by solicitors of their duties.
+It would also result in an incoherent contradiction given the laws acknowledgment that an equitable property right vested in the respondent.
+In these circumstances, it is not strictly necessary to go on to consider the third of the trio of considerations, namely whether denial of the claim would be a proportionate response to the illegality, but I shall nevertheless do so.
+(c) Proportionality of the response to the illegality
+On behalf of the respondent Mr Warnock draws attention to a series of features of the present case which the Court of Appeal (at para 39) considered represented the reality of the situation and which it accepted would make it entirely disproportionate to deny the respondents claim.
+First, it is submitted that, while the victim of the fraudulent misrepresentations was Birmingham Midshires and not the appellants, Birmingham Midshires has made no complaint of this against the respondent in its recovery proceedings or otherwise.
+In the view of the Court of Appeal, Birmingham Midshires adopted the transaction.
+It is, however, difficult to attach any significant weight to this consideration.
+Even if it was aware of the fraud at any material time, which is unclear, Birmingham Midshires had no need to complain of the fraud in order to recover its money as it could simply rely on its entitlement to arrears and its right to payment under the respondents personal covenant.
+To have pleaded fraud in its claim against the respondent would have been an unnecessary complication.
+In any event, the respondents central role in the fraud was clearly established.
+Secondly, it is submitted that it is surprising that the conveyancing solicitor who acted for Mitchell and the respondent did not address the issue of fraud at all in any statement of evidence, given that the appellants now maintain that his role was essential to the fraud and that his retainer was not legitimate and proper.
+In my view, Mr Warnock was right not to press this point.
+It was accepted by the respondent and the Court of Appeal that the solicitor was not aware of the fraud at the time of the transaction.
+Moreover, the respondents part in the fraud was established on the objective evidence at the trial.
+Thirdly, Mr Warnock submits that this was not a case where, money having been obtained by fraud, there was never any intention to repay it.
+On the contrary, payments were made under the mortgage for some years.
+Once again, this submission does not assist the respondent because this does not detract from the fraudulent nature of the mortgage transaction.
+There is, however, much more substance in Mr Warnocks fourth submission which relates to the centrality of the respondents illegal conduct.
+It is undoubtedly the case that it was necessary to retain a solicitor in order to maintain the dishonest pretence that the respondent was borrowing to purchase the property and in order to obtain a loan secured by a mortgage.
+However, this simply provides the background to the claim by the respondent against her solicitors for negligent breach of their retainer.
+The appellants breach of duty related to the registration of title and the way in which the respondent had procured the finance to obtain that title was irrelevant to the appellants obligation to register the title.
+Two features of the present case, to which reference has already been made, demonstrate the lack of centrality of the illegality to the breach of duty of which the respondent complains.
+First, by the time the appellants were required to register the transactions the loan had been advanced and used to discharge the pre existing BM Samuels charge.
+The defrauding of Birmingham Midshires had been achieved.
+Secondly, by that time equitable title to the property had already passed to the respondent.
+Although legal title could pass to her only on registration of the transfer, she was already the owner in equity because once Mitchell had executed and delivered the Form TR1 he had done everything which he could do in order to effect the transfer of legal title.
+These matters serve to distance the appellants negligence from the respondents fraud.
+Some light is cast on the issue of centrality by the decision of the Court of Appeal (Schiemann, Waller and Dyson LJJ) in Sweetman v Nathan [2003] EWCA Civ 1115; [2004] PNLR 7.
+For present purposes the facts may be summarised as follows.
+Sweetman borrowed 1.6m from Coutts Bank in order to purchase property.
+He subsequently induced Coutts Bank to make a second loan to him by a fraudulent misrepresentation that the full amount of the second loan was needed to discharge an existing claim against the property which Sweetman proposed to sell to an identified purchaser.
+In fact, only a smaller sum was required for that purpose.
+Sweetman instructed his solicitor, Nathan, to carry out the necessary conveyancing on the sale of the property.
+The purchaser proved to be a worthless shell company with the result that Sweetman could not repay either of the loans to the bank.
+Sweetman sued Nathan and his firm for their negligence in failing to discover this.
+Sweetman contended that if Nathan had not been negligent Sweetman would not have taken out the second loan because he would have known that there was no genuine purchaser.
+Moreover, he had been prevented from repaying the second loan with the purchase price from the resale of the land and had made payments which were irrecoverable.
+Nathan contended that all of the losses claimed had been caused by the deception of the bank by Sweetman, alternatively that he was a party to a deliberate deception and that the claim was barred by illegality.
+The Court of Appeal declined to strike out the claim on this ground.
+In its view the claim by Sweetman against Nathan was conceptually entirely separate from the fraud against the bank.
+Schiemann LJ asked (at para 60) whether Sweetman would have any prospect of successfully suing Nathan for his assumed negligence in carrying out the conveyancing.
+Proceeding on the assumptions that Nathan and Sweetman were jointly engaged in falsely representing to the bank that Sweetman was going to use the second loan to pay off a prior interest in the property and that there was some prospect of Sweetman showing that he had suffered substantial damage as a result of the negligence, Schiemann LJ observed: What remains is a pure question of public policy.
+Should the courts refuse in principle to lend Mr Sweetman their assistance in suing Nathan when they were jointly engaged on a fraud? If Mr Sweetman were suing Coutts for, say, failing to transfer the money to him, one could see a strong case for refusing him the courts aid.
+However he is suing his fellow fraudster.
+If he were suing him for writing such an incompetent letter that Coutts had grasped in time that there was a fraud going on and had therefore refused to lend the money and that therefore a profitable deal had fallen through, again one could see a strong case for refusing him the courts aid.
+He is however not doing this.
+He is suing his solicitor for negligence which is conceptually entirely separate from the fraud upon which both of them are engaged. (paras 62 63)
+As an authority Sweetman v Nathan has its shortcomings.
+It concerned an application to strike out the claim and the decision was that the claim should not be struck out as it could not be said that it had no serious prospect of success.
+Furthermore, it was decided on the basis of the law as it existed before Patel with its emphasis on reliance on illegality.
+Nevertheless, the factual situation addressed is very much in point as is the following situation posited by counsel for the defendants in that case to which Schiemann LJ referred (at paras 42 and 65).
+A purchaser of a house instructs a solicitor who negligently fails to discover a covenant which renders it worthless.
+The purchaser, in ignorance of this, obtains a mortgage by false representations as to the level of his income.
+Before the fraud comes to light the mortgagee is repaid.
+Counsel submitted that these facts would not prevent the purchaser from suing his solicitor, as the loss was properly described as flowing from the solicitors negligence and not from the purchasers fraud.
+Schiemann LJ found that this analogy had force.
+I respectfully agree and find his reasoning on this point convincing.
+The purchaser had suffered a genuine wrong to which the allegedly unlawful conduct was incidental.
+As a result of the change in the law brought about by Patel v Mirza, the question whether a claimant must rely upon illegal conduct to establish a cause of action is no longer determinative of an illegality defence.
+Nevertheless, the question of reliance may have a bearing on the issue of centrality.
+In the present case it is significant that, as the decision at first instance on the basis of Tinsley v Milligan demonstrates, the essential facts founding the claim can be established without reference to the illegality.
+The respondents claim for breach of duty against her solicitors is conceptually entirely separate from her fraud on the mortgagee.
+Profiting from ones own wrongdoing
+For one branch of the law to enable a person to profit from behaviour which another branch of the law treats as criminal or otherwise unlawful would tend to produce inconsistency and disharmony in the law and so cause damage to the integrity of the legal system.
+In the present case it is not suggested by either party that by suing the appellants the respondent is seeking to profit from her wrongdoing.
+The parties, as I understand them, here use profit in the narrow sense of a direct pecuniary reward for an act of wrongdoing. (See Hall v Hebert, supra, per McLachlin J at p 172.) In their application for permission to appeal the appellants expressly accepted that the respondents claim was in respect of losses suffered rather than to enforce an illegitimate gain.
+In May 2014 the Bank of Scotland (as successor to Birmingham Midshires) obtained summary judgment against the respondent for 70,000 with the balance subject to an account.
+The Bank of Scotland also settled claims against BM Samuels and the appellants, but the amount of the settlements is not known.
+At the trial of the present action the respondent was awarded damages of 78,000 plus interest and that award was upheld by the Court of Appeal.
+The sum of 78,000 represented the value of the property at November 2009.
+In her judgment, the trial judge noted that it was impossible to say what, beyond the 70,000, the Bank of Scotland was seeking against the respondent and noted that the amount outstanding to the Bank of Scotland included a large amount by way of legal fees.
+The Court of Appeal proceeded on the basis that the respondents intention in pursuing the claim was not to profit but to obtain funds to reduce or discharge her liability under the Birmingham Midshires charge.
+In their written cases and in their oral submissions in the present appeal, both parties proceeded on this basis.
+Mr Pooles, on behalf of the appellants, makes a rather different point, however.
+He submits that, while the claim is to reduce or avoid a loss rather than to enforce an illegitimate gain, there is no difference as to the intention and that underlying the fraud into which the respondent willingly entered was the prospect of recovering 50% of the net profits on the sale of the property.
+He submits that the loss results from the respondents wrongdoing and that the policy consideration that a person should not be allowed to profit from her own wrongdoing applies equally in these circumstances.
+No doubt, the respondents motive in entering into the illegal transaction was to make a profit.
+That is likely to be the motive behind most illegal agreements and the same could be said of many such claimants including Mr Patel and Miss Milligan.
+The motive for the wrongdoing which forms the background to this claim must, however, be distinguished from enlisting the courts assistance to make a profit from that wrongdoing.
+The relief sought from the court will be important here. (See Patel v Mirza per Lord Toulson at para 109.) Clearly, it would be objectionable for the court to lend its processes to recovery of an award calculated by reference to the profits which would have been obtained had the illegal scheme succeeded.
+This, however, is not a claim to recover a profit but a claim for compensation for property lost by the negligence of the appellants.
+The award of damages made by the trial judge and upheld by the Court of Appeal was the value of the property as at November 2009 with interest thereon until the date of payment.
+This represented the loss to the respondent arising from the fact that at the date of default she was, as a result of the appellants negligence, unable to provide Birmingham Midshires with an unencumbered registered title to the property in reduction or discharge of the loan to her.
+This is not a case of the court assisting a wrongdoer to profit from her own wrongdoing.
+There is, however, a more fundamental answer to Mr Pooles submission.
+The respondent can indeed be considered to have got something out of her fraudulent transaction; she has an equity of redemption in the property of uncertain value and, if her claim is permitted to succeed, she will acquire the means of meeting a substantial judgment against her.
+However, even if this could properly be considered profiting from ones own wrong, which in my view it cannot, while profiting from ones own wrong remains a relevant consideration it is no longer the true focus of the inquiry.
+As Lord Toulson explained in Patel at paras 99 101 (cited at para 22 above), adopting the reasoning of McLachlin J in Hall v Hebert supra, at pp 175 176, the notion that persons should not be permitted to profit from their own wrongdoing is unsatisfactory as a rationale of the illegality defence.
+It does not fully explain why particular claims have been rejected and it leads judges to focus on the question whether a claimant is getting something out of the wrongdoing, rather than on the question whether to permit recovery would produce inconsistency damaging to the integrity of the legal system.
+The true rationale of the illegality defence, as explained in Patel and in the judgment of McLachlin J in Hall v Hebert, is that recovery should not be permitted where to do so would result in an incoherent contradiction damaging to the integrity of the legal system.
+In the present case, to allow the respondents claim to proceed would not involve any such contradiction, for the reasons I have given.
+Conclusion
+For these reasons, I consider that the Court of Appeal correctly followed the policy based approach adopted by the Supreme Court in Patel v Mirza and was correct in its conclusion that a defence of illegality should not bar the present claim.
+I would, accordingly, dismiss the appeal.

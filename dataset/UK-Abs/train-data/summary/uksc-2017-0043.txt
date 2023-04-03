@@ -1,0 +1,58 @@
+From 2005 to 2009 Mr Mukhtar Ablyazov was the chairman and controlling shareholder of the respondent, a bank incorporated in Kazakhstan.
+He was removed from office when the bank was nationalised in 2009.
+He fled to England where he obtained asylum.
+The bank brought various claims against him in the High Court.
+The bank alleged that he had embezzled some US$6 billion of its funds.
+At the outset of the litigation, the bank obtained an order requiring Mr Ablyazov to identify and disclose the whereabouts of his assets and a worldwide freezing order preventing him from dealing with them.
+In 2010 the High Court appointed receivers over his assets.
+It later transpired that Mr Ablyazov had failed to disclose large numbers of undisclosed assets, which he had sought to place beyond the reach of the claimants through a network of undisclosed companies.
+In 2011 the bank consequently obtained an order committing Mr Ablyazov for contempt of court.
+He was sentenced to 22 months imprisonment.
+By the time the judgment had been handed down, however, Mr Ablyazov had fled the country.
+His whereabouts are unknown.
+Default judgments in the sum of US$4.6 billion have been obtained against him, but very little has been recovered.
+In 2015 the bank brought the present claim against Mr Ablyazov and his son in law, Mr Khrapunov, who lives in Switzerland.
+The bank alleged that Mr Khrapunov, being aware of the freezing and receivership orders, entered into a combination or understanding with Mr Ablyazov to help dissipate and conceal his assets.
+The judge found that it was sufficiently established for the purposes of this application that they entered into it in England.
+Mr Khrapunov is said to have been instrumental in the dealings of assets held by foreign companies and in concealing what became of those assets.
+His actions are said to constitute the tort of conspiracy to cause financial loss to the bank by unlawful means, namely serial breaches of the freezing and receivership orders in contempt of court.
+This appeal concerns only the position of Mr Khrapunov, who unsuccessfully applied to contest the jurisdiction of the High Court.
+The Court of Appeal dismissed his appeal.
+The Supreme Court unanimously dismisses the appeal.
+Lord Sumption and Lord Lloyd Jones give the lead judgment, with which Lord Mance, Lord Hodge and Lord Briggs agree.
+Mr Khrapunovs first argument was that contempt of court cannot constitute the required unlawful means for the tort of conspiracy to cause loss by unlawful means, because contempt is not a wrong which by itself entitles a claimant to sue the contemnor: it is not actionable.
+Therefore, he argued, there was no good, arguable case against him on which to found jurisdiction [5].
+The tort of conspiracy can be divided into lawful means conspiracy and unlawful means conspiracy, although that terminology is inexact.
+A person has a right to advance his own interests by lawful means, even if the foreseeable consequence is damage to the interests of others.
+Where he seeks
+to do so by unlawful means, he has no such right.
+The same is true where the means are lawful but the predominant intention of the defendant is to injure the claimant, rather than to further some legitimate interest of his own.
+In either case, there is no just cause or excuse for the combination with others.
+Conspiracy being a tort of primary liability, rather than simply a form of joint liability, the question what constitutes unlawful means cannot depend on whether their use would give rise to a different cause of action independent of conspiracy.
+The correct test is whether there is a just cause or excuse for the defendants combining with each other to use unlawful means.
+That depends on (i) the nature of the unlawfulness; and (ii) its relationship with the resultant damage to the claimant [8 11].
+Unlike various other legal duties, compliance with the criminal law is a universal obligation.
+The unlawful means relied on in this case are contempt of court, which is a criminal offence.
+For that purpose, the defendant must have intended to damage the bank.
+The damage to the bank need not have been the predominant purpose, but it must be more than incidental.
+The defendants predominant purpose in this case was to further Mr Ablyazovs financial interests as they conceived them to be.
+But the damage to the bank was necessarily intended.
+Their aim was to prevent the bank from enforcing its claims against Mr Ablyazov, and both defendants must have appreciated that the benefit to him was exactly concomitant with the detriment to the bank.
+The damage was not just incidental [15 16].
+It was argued on behalf of Mr Khrapunov that the existence of a claim for conspiracy to commit contempt of court would be inconsistent with public policy because it would substitute a remedy as of right for one which depended on the discretion of the court.
+The Court is satisfied that there is no such public policy [18 23].
+The matters alleged by the bank, if proved, would amount to the tort of conspiracy to injure by unlawful means [24].
+Mr Khrapunovs second argument was that the English courts lacked jurisdiction by reason of the general rule, in article 2 of the Lugano Convention to which both the UK and Switzerland are parties, that a person should be sued in the Convention state in which he or she is domiciled.
+The sole currently relevant exception to that rule is article 5(3), which allows a claim in tort in the Convention state where the harmful event occurred or may occur.
+Article 5(3) is substantially identical to article 5(3) of the Brussels Regulation (Council Regulation (EC) No 44/2001).
+The Court of Justice of the European Union (CJEU) has interpreted the latter to cover both: (a) the place where the damage occurred and (b) the place of the event giving rise to it [26 28].
+As an exception to the general rule, article 5(3) must be interpreted strictly.
+Although there is no basis for interpreting it by reference to national rules of non contractual liability, those national rules are relevant.
+They define the legally relevant conduct and whether an event is harmful.
+The CJEU has repeatedly focused on the relevant harmful event which sets the tort in motion.
+This gives effect to an important policy of the Brussels/Lugano scheme by promoting a connecting factor with the jurisdiction of a court which is particularly close to the cause of the damage.
+In Cartel Damage Claims (CDC) Hydrogen Peroxide SA v Akzo Nobel NV (Case C 352/13) [2015] QB 906 the CJEU identified the formation of a cartel, not its implementation, as the event giving rise to the damage [31 40].
+The Court of Appeal correctly identified the place where the conspiratorial agreement was made as the place of the event which gives rise to and is at the origin of the damage.
+In entering into the agreement, Mr Khrapunov would have encouraged and procured the commission of unlawful acts by agreeing to help Mr Ablyazov to carry the scheme into effect.
+Thereafter, Mr Khrapunovs alleged dealing with the assets the subject of the court order would have been undertaken pursuant to and in implementation of that agreement.
+The making of the agreement should be regarded as the harmful event which set the tort in motion [41].

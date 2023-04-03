@@ -1,0 +1,52 @@
+This appeal concerns the effectiveness of a scheme (Project C) which was designed to minimise the liability to VAT of a group of companies (Oriel) involved in providing motor breakdown insurance (MBI).
+The supply of insurance is exempt from VAT.
+Insurers therefore neither charge VAT on premiums nor account to Her Majestys Revenue and Customs (the Commissioners) for VAT in respect of their insurance business.
+They also bear the VAT element of the costs incurred in the course of their business which are chargeable to VAT, as they may not deduct that VAT element from any VAT that they have received.
+Accordingly when an MBI insurer indemnifies an insured against the cost of repairs, the insurer may not deduct the VAT element of the repairing garages invoice.
+The VAT paid to garages by MBI insurers represents a substantial business cost.
+They perceive themselves to be at a disadvantage relative to competitors whose business is not exempt from VAT, and who can therefore offer car repair services and deduct the VAT element of the costs incurred as input tax.
+Project C sought to remedy that disadvantage by enabling one or other member of Oriel to recover the VAT element of the repair costs.
+NIG is a UK insurer which provides a UK front for an offshore MBI business carried on by Oriel.
+NIGs policies cover the cost of repairs and replacement parts following breakdowns of second hand cars.
+The policies are marketed and sold by another UK company (Warranty), which is a member of the Oriel group.
+Prior to the implementation of Project C, NIG reinsured the risk under the policies with a Gibraltar based member of Oriel (Practical).
+Warranty was appointed by NIG to handle claims made under the policies.
+In the event of a breakdown, the insured contacted Warranty and was directed to a garage approved by Warranty, a garage of the insureds choice or the dealer garage.
+Warranty paid for the repairs carried out by the garages.
+The VAT on such payments was irrecoverable.
+Project C attempted to solve that problem.
+It consisted of two strands.
+The first was based on legislation interpreted by those responsible for Project C as enabling UK insurance claims handlers to recover input tax incurred for the purpose of supplying their services to a non EU recipient.
+WHA Ltd (WHA), a UK member of the Oriel group, therefore began to supply claims handling services to Viscount Reinsurance Company Ltd (Viscount), a member of the group based in Gibraltar, and therefore outside the EU, with which 85% of the risk under NIGs MBI policies was reinsured.
+The intention was that WHA would be regarded as the recipient of a supply of repair services from the garages on which VAT would be charged; would not have to charge output tax on its onwards supply of claims handling services to Viscount as the latter was outside the EU; and as a result would be entitled to recover input tax from the Commissioners under the legislation.
+The second strand of Project C was a fall back line of defence designed to deal with any assertion by the Commissioners that the second stage of the first strand, namely that VAT was not chargeable on WHAs supply of claims handling services to Viscount, was incorrect.
+That conclusion would render the first strand ineffective.
+On the basis of legislation which was interpreted as enabling Viscount to recover the VAT which it paid to WHA so long as Viscount itself made supplies to a non EU recipient, another Gibraltar based member of the Oriel group (Crystal) was installed to reinsure 100% of the risk under NIGs MBI policies, and in turn
+to retrocede 85% of that risk to Viscount.
+Notably, the second strand also proceeded on the basis that WHA would be regarded as the recipient of a supply of repair services from the garages.
+The Commissioners refused to repay tax to WHA and Viscount for several reasons that pertained to either the first, second or both strands of Project C.
+In particular, they argued that the garages did not in fact make a taxable supply of services to WHA, a conclusion that would vitiate both strands.
+They also argued that even if they were wrong in that and other arguments, Project C was so artificial that it fell foul of the EU law doctrine of the abuse of rights.
+The Court of Appeal held that the garages did make a taxable supply to WHA, that the first strand of Project C was ineffective for other reasons, but that under the second strand Viscount was entitled to recover the VAT it had paid to WHA, subject to the question of abuse of rights.
+It subsequently held that the scheme was a breach of the abuse of rights doctrine.
+WHA and Viscount appeal to the Supreme Court, arguing that WHA does receive a taxable supply from the garages and that Project C is not a breach of the abuse of rights doctrine.
+The Supreme Court unanimously dismisses the appeal.
+Lord Reed gives the judgment of the Court.
+For the reasons summarised below, the Supreme Court holds that there is no supply of repair services by the garages to WHA.
+It is therefore unnecessary for the Court to address the other issues raised, as both strands of Project C were predicated on the conclusion that there was such a supply [18].
+Decisions about the application of the VAT system are highly fact sensitive.
+When determining the relevant supply in which a taxable person engages, regard must be had to all the circumstances in which a transaction takes place.
+In cases involving a construct of contractual relationships, the matter must be assessed as a whole to determine the economic reality.
+The transaction between the garages and WHA must be understood in the context of the wider arrangements between the insured, NIG, Crystal, Viscount, WHA and the garage [26].
+Having regard, therefore, to the agreements between NIG and the insured, NIG and Crystal, Crystal and Viscount, and Viscount and WHA, the terms of each contract envisage the role of WHA as encompassing the negotiation, investigation, adjustment, settlement and payment of claims.
+There is no indication that WHAs role included undertaking responsibility for the carrying out of repairs [33].
+Further, the nature of the relationship between the garages and WHA does not suggest that the former provides a service to the latter [35 38].
+NIG undertakes to the insured to meet the cost of repairs to a vehicle falling within the scope of the policy.
+It does not undertake responsibility for the repairs themselves [27, 56].
+The economic reality is that the payments made by WHA to the garages merely discharge the obligation which NIG undertook to the insured to pay for the repair of a vehicle up to the value permitted by the policy in the event of a breakdown.
+The interposition of Viscount and Crystal in the chain of contracts linking WHA to NIG does not alter the position that WHA simply acts as the paymaster of the costs falling within the cover provided by the policies [56 57].
+That conclusion is supported by further considerations.
+First, the deduction of input tax is meant to relieve the trader in question of the VAT payable or paid in the course of his economic activities.
+However, WHAs own profit and loss is unaffected by VAT as it pays the garages out of a float provided by Viscount.
+Secondly, the consequence of input tax deduction should be that VAT is only borne on the supply to the final consumer.
+The effect of dismissing this appeal is that VAT is borne on the supply of services by the garage to the final consumer, namely the insured [58].

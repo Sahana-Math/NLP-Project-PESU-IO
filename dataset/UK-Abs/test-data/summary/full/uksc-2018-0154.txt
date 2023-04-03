@@ -1,0 +1,90 @@
+This appeal concerns whether certain rules of the Visa and Mastercard payment card schemes have the effect of restricting competition, in breach of article 101(1) of the Treaty on the Functioning of the European Union (TFEU) and equivalent national legislation.
+The appellants, Visa and Mastercard, operate open four party payment card schemes.
+Under these schemes, issuers (generally banks) issue debit and/or credit cards to cardholder customers and acquirers (also generally banks) provide payment services to merchants (such as the respondents).
+The scheme operator, Visa or Mastercard, sets the rules of the scheme and allows institutions to join as issuers and/or acquirers.
+The schemes operate as follows.
+A cardholder contracts with an issuer, which agrees to provide the cardholder with a Visa or Mastercard debit or credit card.
+It agrees terms on which they may use the card to buy goods or services from merchants, which may include a fee paid by the cardholder, an interest rate for credit, and incentives or rewards paid by the issuer to the cardholder for using the card (such as airmiles or cashback).
+Merchants contract with an acquirer, which agrees to provide services to the merchant enabling acceptance of the cards for a fee.
+This is known as the merchant service charge (MSC).
+To settle a transaction made between a cardholder and a merchant, the issuer pays the acquirer, who passes the payment on to the merchant, less the MSC.
+The rules of both schemes provide for the payment of a default interchange fee, known as the multilateral interchange fee (MIF), on each transaction, which is payable by the acquirer to the issuer.
+Though under the rules acquirers and issuers are not required to contract based on the MIF, in practice they invariably do so.
+Visa and Mastercard do not receive any part of the MIF or the MSC.
+Their remuneration comes from scheme fees paid by issuers and acquirers.
+For most of the claim period, the MIF typically accounted for some 90% of the MSC.
+Acquirers passed on all of the MIF to the merchants through the MSC, with negotiation between acquirers and merchants in respect of the MSC being limited to the level of the acquirers margin.
+Schemes such as the Visa and Mastercard schemes operate in a two sided market.
+On one side, issuers compete for the business of cardholder customers.
+On the other side, acquirers compete for the business of merchants to whom they seek to offer acquiring services.
+These proceedings concern the effect of MIFs on competition in the acquiring market.
+Article 101(1) TFEU prohibits agreements between companies that may affect trade between member states, and which have as their object or effect the restriction of competition.
+Article 101(3) provides for
+an exemption where the agreement improves the production or distribution of goods or promotes technical or economic progress while allowing consumers a fair share of the resulting benefit.
+These provisions are reflected in sections 2 and 9 of the Competition Act 1998 (the 1998 Act), respectively.
+The Visa and Mastercard schemes have previously been subject to scrutiny by competition authorities.
+In a decision dated 19 December 2007, the European Commission decided that the Mastercard MIFs applicable within the European Economic Area (EEA MIFs) breached article 101(1) (the Mastercard Commission Decision).
+Mastercard applied to the Court of Justice of the European Union (the CJEU) for annulment of the Mastercard Commission Decision, which was dismissed by a judgment of the General Court (Mastercard GC).
+Mastercard appealed this decision to the Court of Justice, which gave judgment dismissing the appeal (Mastercard CJ).
+The present appeal relates to three sets of proceedings.
+In the first, brought by Sainsburys Supermarkets Ltd (Sainsburys) against Mastercard, the Competition Appeal Tribunal (the CAT) held that Mastercard MIFs in the UK (UK MIFs) restricted competition by effect and awarded damages to Sainsburys.
+In the second, brought by Asda Stores Ltd, Argos Ltd and others, and WM Morrison Supermarkets plc (together AAM) against Mastercard, Popplewell J in the Commercial Court found that Mastercards EEA MIFs, UK MIFs and MIFs in the Republic of Ireland (Irish MIFs) did not infringe article 101 and were exempt under article 101(3) in any event.
+In the third, brought by Sainsburys against Visa, Phillips J in the Commercial Court dismissed the claim and found that Visas UK MIFs did not restrict competition in the acquiring market.
+At the request of the parties, Phillips J gave an additional judgment, in which he found that if the MIFs did restrict competition, they were not exempt under article 101(3).
+The appeals in these three sets of proceedings were heard together by the Court of Appeal, which overturned all four judgments given below.
+It held that there was restriction of competition and made various rulings as to the legal effect of article 101(3).
+The Court of Appeal remitted the article 101(3) exemption issue in all three sets of proceedings to the CAT for reconsideration in the light of the legal rulings it had made and based on the evidence adduced in all three cases.
+Visa and Mastercard seek to appeal the Court of Appeals decision on four grounds.
+AAM seek to cross appeal against the order for remittal.
+The Supreme Court unanimously upholds the conclusion of the Court of Appeal that the MIFs infringed article 101(1) and its legal rulings on article 101(3), dismissing the appeal on all grounds except the broad axe issue (defined below).
+The Court allows the cross appeal.
+The full Court gives the judgment.
+Visa and Mastercard appeal on four grounds.
+First, whether the Court of Appeal was wrong to find that there was a restriction of competition in the acquiring market contrary to article 101(1) TFEU and equivalent national legislation (the restriction issue).
+Second, whether the Court of Appeal found, and if so was it wrong in finding, that Visa and Mastercard were required to satisfy a more onerous evidential standard than that normally applicable in civil litigation, in order to establish that their MIFs were exempt under article 101(3) (the standard of proof issue).
+Third, whether the Court of Appeal was wrong to find that in order to show that consumers receive a fair share of the benefits generated by the MIFs, to satisfy the test under article 101(3), Visa was required to prove that the benefits provided to merchants alone as a result of the MIFs outweighed the costs arising from the MIFs, without taking any account of the benefits received by cardholders as a result of the MIFs (the fair share issue).
+Fourth, whether the Court of Appeal found and, if so, was it wrong in finding, that a defendant has to prove the exact amount of loss mitigated in order to reduce damages (the broad axe issue).
+Finally, AAM seek to cross appeal on the issue of whether the Court of Appeal was wrong to remit the AAM proceedings for reconsideration in relation to exemption under article 101(3) (the remission issue) [40] [41].
+The restriction issue The restriction issue raises two issues for consideration: (i) whether the Court is bound by the Mastercard CJ decision; and (ii) if not, whether that decision ought to be followed [48].
+The appellants argue that the Court of Appeal was wrong to conclude that it was bound by Mastercard CJ to find that there was a restriction of competition in the acquiring market contrary to article 101(1) TFEU and equivalent national legislation because Mastercard CJ is factually distinguishable [68] [72].
+The Supreme Court concludes that Mastercard CJ is binding and the Court of Appeal was correct so to hold.
+The essential factual basis upon which the Court of Justice held that there was a restriction on competition in Mastercard CJ is mirrored in these appeals [93] [94].
+Even if the Court were not bound by Mastercard CJ, the Supreme Court would follow it and conclude that there was a restriction on competition in the present cases.
+The effect of the collective agreement to set the MIF is to fix a minimum price floor for the MSC.
+That minimum or reservation price is non negotiable.
+Acquirers have no incentive to compete over it.
+It is a known common cost which acquirers know they can pass on in full and do so.
+Merchants have no ability to negotiate it down.
+A significant portion of the MSC is thereby immunised from competitive bargaining and is determined by collective agreement rather than by competition.
+By contrast, in the counterfactual, in which there is no MIF but settlement at par, the whole of the MSC is open to competitive bargaining and determined by competition [95] [104].
+The Court therefore dismisses the appeal on the restriction issue [105].
+The standard of proof issue On the standard of proof issue, the appellants submit that the Court of Appeal was wrong to conclude that, in relation to article 101(3), there is a specific requirement for robust and cogent evidence, which is a more onerous standard than the normal domestic civil standard of proof on the balance of probabilities, and that there is a legal requirement for facts and empirical data [106].
+It is common ground that to justify the restriction on competition the burden of satisfying that the four conditions set out in article 101(3) lies on the defendant; the present issue relates to the standard of proof [107].
+Visa and Mastercard submit that in the Commercial Court proceedings the judges adopted diverging views on the standard of proof [108].
+The Court of Appeal considered that EU law requires cogent factual and empirical evidence to satisfy article 101(3) [109].
+The Court considers that the essential complaint made by Visa and Mastercard here does not relate to the standard of proof but rather to the nature of the evidence required to meet the standard of proof in this context and, more specifically, the type of evidence needed to establish that the benefits from the MIF rules under consideration outweigh the detriments to merchants [115].
+In the Courts view, article 101(3) imposes requirements as to the nature of the evidence that can discharge the burden to establish an exemption under that provision, which is imported into domestic competition law by the 1998 Act.
+Cogent empirical evidence is required to carry out the required evaluation of the claimed efficiencies and benefits [116].
+The Court therefore dismisses the appeal on the standard of proof issue [138].
+The fair share issue On the fair share issue, Visa challenges the decision of the Court of Appeal, which interpreted Mastercard CJ as meaning that in a two sided market situation such as in the present case, if the restriction causes disadvantages overall to the consumers in the market under consideration (here the merchants in the acquiring market), those disadvantages cannot be compensated by advantages to consumers in the other market (the cardholders in the issuing market), unless the two groups of consumers are substantially the same, which is not the position here [144].
+The Supreme Court finds that the Court of Appeal arrived at the correct decision, albeit by different reasoning.
+The best available guidance from the CJEU on the application of the fair share requirement is the opinion of the Advocate General Mengozzi in Mastercard CJ, which considered that the fair share of the benefits must be received by the consumers in the same market.
+The Court therefore dismisses the appeal on the fair share issue [171] [174].
+The broad axe issue The broad axe issue relates to the degree of precision required in the quantification of mitigation of loss where a defendant to a claim for damages arising out of a breach of competition law asserts that the claimant has mitigated its loss through the passing on of all or part of an overcharge to its customers [175].
+Mastercard submitted that it must prove that the merchants passed on some of the overcharge to their customers but the quantification of the pass on did not have to be precise if precision could not reasonably be achieved [179].
+The claims of the merchants in these appeals are for compensatory damages for loss caused to them by the tortious acts of Visa and Mastercard in breach of their statutory obligations under the 1998 Act [182].
+In such circumstances, EU law allows a member state to lay down procedural rules governing actions that safeguard rights derived from EU law, provided the rules comply with the principles of equivalence and effectiveness.
+The only constraint on national law at the relevant time was the principle of effectiveness, which requires that the domestic rules do not make it practically impossible or excessively difficult to exercise rights guaranteed by EU law [188].
+In the UK, pass on is an element in the quantification of damages that is required by the compensatory principle and required to prevent double recovery through claims in respect of the same overcharge by a direct purchaser and by subsequent purchasers in a chain [196] [197].
+Visa and Mastercard have the burden of establishing that the merchants have recovered the costs incurred in the MSC but, once the defendants have raised the issue of mitigation, in the form of pass on, there is a heavy evidential burden on the merchants to provide evidence [216].
+The degree of precision requires a balance between achieving justice by precisely compensating the claimant and dealing with disputes at a proportionate cost [217].
+The law does not require unreasonable precision in the proof of the amount of the loss that the merchants have passed on to suppliers and customers [225].
+The Supreme Court does not interpret the Court of Appeal as having held that the defendants had to prove the exact amount of the loss mitigated, but insofar as the Court of Appeal required a greater degree of precision in the quantification of pass on from Visa and Mastercard than from the merchants, the Court erred.
+As a result, the appeal succeeds on the broad axe issue [226].
+The remission issue The cross appeal relates only to the AAM proceedings [227].
+AAM submit that the Court of Appeal erred in remitting the AAM proceedings for reconsideration of the exemption under article 101(3).
+Despite reaching the correct conclusion that Mastercards defence based on article 101(3) should have been dismissed, the Court of Appeal made an order remitting the AAM proceedings to the CAT, alongside the other two sets of proceedings, for reconsideration of whether Mastercards case under article 101(3) should have succeeded in whole or in part [232] [233].
+AAM submit that it was not open to the Court of Appeal to so order and to permit the issue to be re opened by Mastercard, and that it offended against the principle of finality in litigation [235].
+In the Supreme Courts judgment, the Court of Appeal was wrong to allow Mastercard to re open this issue, which it had lost after a full and fair trial.
+It offends against the strong principle of public policy and justice that there should be finality in litigation [237].
+Accordingly, AAMs cross appeal is allowed [247].

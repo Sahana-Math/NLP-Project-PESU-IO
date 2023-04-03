@@ -1,0 +1,46 @@
+National Savings and Investments (NS&I) is a non ministerial Government department offering retail savings and investments to UK customers.
+It also provides support functions to other public bodies, referred to as business to business services or B2B services [2].
+NS&I has outsourced its own operational services.
+In 2013 it entered into a contract with Atos IT Services Limited (Atos) to purchase support services including transaction management, printing, accounting, IT and customer services [3].
+The award of the Atos contract followed a competitive tender process which complied with EU law on public procurement, as implemented in domestic law by the Public Contract Regulations 2006 (the 2006 Regulations).
+It was envisaged in the tender documents and in the Atos contract that it could be extended to support new B2B services provided by NS&I [13].
+The Government announced it would replace tax relief for employers who contribute to their employees child care costs with a new scheme of tax free childcare (TFC).
+The TFC scheme involves parents setting up childcare accounts into which HMRC contributes a 20% top up, capped at 2,000 per year [16].
+On 29 July 2014 HM Treasury decided that NS&I would deliver the new TFC policy for HMRC by providing and administering the childcare accounts and supporting services [21].
+The arrangements between HMRC and NS&I were to be set out in a memorandum of understanding.
+NS&I proposed to modify its contract with Atos to include services related to TFC [23], without any government body undertaking a public procurement process in relation to this work.
+The appellants are Edenred (UK Group) Limited, a company which provided services to employers under the old tax relief scheme, and the Childcare Voucher Providers Association [1].
+They considered that EU procurement law required a new tender process [6].
+They commenced proceedings seeking declarations that the proposed TFC arrangements were unlawful under the 2006 Regulations and an order restraining the modification of the Atos contract.
+On 27 October 2014 they were granted an interim order preventing the implementation of TFC [25].
+An expedited trial took place before Andrews J in November 2014.
+She dismissed the claim, holding that the proposed variation of the Atos contract would not breach EU procurement law [26].
+The appellants appealed to the Court of Appeal, but their appeal was dismissed on 31 March 2015 [26].
+The Supreme Court heard the appellants application for permission to appeal at the same time as their substantive appeal, in order to provide a prompt determination [5].
+The Supreme Court grants the appellants permission to appeal but unanimously dismisses their appeal.
+The interim order preventing the implementation of TFC is set aside [50].
+Lord Hodge, with whom Lord Neuberger, Lord Mance, Lord Sumption, Lord Carnwath agree, gives the judgment.
+The principal purpose of EU procurement law is to develop effective competition in the field of public contracts.
+Public contracts over a threshold value must be advertised and awarded according to fair and transparent procedures to ensure equality of treatment between potential service providers [28].
+Amendments to an existing public contract will fall within the procurement regime and be treated in substance as the award of a new contract if they involve a material variation of the contract [29].
+The 2006 Regulations were replaced by the Public Contracts Regulations 2015 (implementing Directive 2014/24/EU) which came into force on 26 February 2015.
+The 2015 Regulations will govern the amendment of the Atos contract if the respondents proceed with that amendment [6], and represent an updated statement of EU procurement law [30].
+Therefore, the judgment refers to reg.72 of the 2015 Regulations which sets out the circumstances in which a contracting authority may modify a public contract without a new procurement process [31].
+A fresh procurement is not required where the modifications to the contract are not substantial (reg.72(1)(e)).
+The appellants argued that the proposed amendments to the Atos contract were substantial because they extended the scope of the contract considerably (reg.72(8)(d)), encompassing services not initially covered [33].
+This argument did not succeed.
+The original contract covered operational services to support both NS&Is existing functions and (as an object of the contract) the expansion of B2B services [34].
+The prohibition on modification to encompass services not initially covered does not preclude expansion that is envisaged and advertised in the initial procurement process.
+The question is whether the services were covered by the original contract, including its provisions for contractual variation.
+Otherwise, outsourced services would not be able to accommodate the events and policy changes that are part of public life [36].
+Although contracts may not be designed to avoid EU law obligations, the expansion provided for in this case was within a reasonable compass.
+It did not alter the essential nature of the operational services provided and included restrictions to maintain the economic balance of the contract and Atos profit margin [37].
+A new tendering process may also be dispensed with if the proposed contractual variation has been provided for in the initial procurement documents in clear, precise and unequivocal review clauses (reg.72(1)(a)).
+Lord Hodge inclines to the view that this criterion is also satisfied [43] but comments that the nature of the review clauses covered by the regulation is open to debate [44]; such debate was not necessary to resolve in order to determine the appeal [45].
+The appellants argued alternatively that there was in substance a public service contract between HMRC and Atos [46], on the basis that provisions in the memorandum of understanding between HMRC and NS&I were legally binding and were repeated in the proposed modification to the Atos contract, and that HMRC was the service recipient of B2B services provided by, and discussed with, Atos [47].
+However, NS&I is an existing public body with an established remit apart from the TFC scheme, using outsourced resources to provide B2B services to other public bodies.
+There is no legal basis for airbrushing it out of the picture.
+The memorandum of understanding and the Atos contract are legally distinct.
+It is NS&I, not HMRC, that can enforce the Atos contract.
+The appellants contention that NS&I would be under a statutory legal obligation to comply with the memorandum of understanding (which is not in itself an enforceable contract) by virtue of s.16 of the Childcare Payments Act 2014 misinterpreted the effect of that section.
+Any public body receiving B2B services from NS&I may discuss those services with the outsourced provider, but that does not alter the substance of the transaction [48].

@@ -1,0 +1,119 @@
+The question at issue on this appeal is what connection must a foreign company have with the United Kingdom to entitle an English court to wind it up, if its centre of main interests (or COMI) is in another member state of the European Union.
+The answer depends on the meaning of two words, economic activity, in EU Regulation 1346/2000 on Insolvency Proceedings.
+The legal framework
+Under section 221 of the Insolvency Act 1986, the English court has jurisdiction under its domestic law to wind up a foreign company.
+However, in the case of companies whose COMI is in another member state of the EU, the exercise of this power is constrained by the Regulation.
+Article 3 of the Regulation provides as follows: Article 3 International jurisdiction 1.
+The courts of the Member State within the territory of which the centre of a debtor's main interests is situated shall have jurisdiction to open insolvency proceedings.
+In the case of a company or legal person, the place of the registered office shall be presumed to be the centre of its main interests in the absence of proof to the contrary. 2.
+Where the centre of a debtor's main interests is situated within the territory of a Member State, the courts of another Member State shall have jurisdiction to open insolvency proceedings against that debtor only if he possesses an establishment within the territory of that other Member State.
+The effects of those proceedings shall be restricted to the assets of the debtor situated in the territory of the latter Member State.
+Where insolvency proceedings have been opened under paragraph 1, any proceedings opened subsequently under paragraph 2 shall be secondary proceedings.
+These latter proceedings must be winding up proceedings. 3.
+The COMI is not a term of art, and is not defined in the body of the Regulation.
+Recital (13), however, recites what is perhaps implicit in the phrase, namely that it should correspond to the place where the debtor conducts the administration of his interests on a regular basis and is therefore ascertainable by third parties.
+Jurisdiction to begin secondary insolvency proceedings in another European jurisdiction is established on a very different basis.
+It depends on the existence of an establishment within its territory.
+An establishment is defined in article 2(h) as any place of operations where the debtor carries out a non transitory economic activity with human means and goods.
+Goods is hardly a satisfactory English word to use in this context.
+It is apparent from the equivalent term in the other language versions that it means the same as assets (biens, Vermgen) in article 3(2).
+The facts
+Olympic Airlines SA was wound up on the direction of the Athens Court of Appeal on 2 October 2009.
+Since then, the main liquidation proceedings have been in progress in Greece.
+The appellants are the trustees of the companys pension scheme.
+Olympic is the principal employer in the scheme and the only employer currently participating in it.
+Under the rules of the scheme, it must be wound up upon the liquidation of Olympic Airlines.
+Upon its winding up, a deficit was ascertained of (in round numbers) 16m, which Olympic is bound to make good under section 75 of the Pensions Act 1995.
+On 20 July 2010, the trustees presented a winding up petition against the company in England on the ground that it was unable to meet this liability.
+The size of Olympics deficiency means that they are unlikely to recover much.
+But the winding up order was necessary in order that the scheme should qualify for entry into the Pension Protection Fund under section 127 of the Pensions Act 2004.
+One of the conditions of entry was that a qualifying insolvency event should have occurred, and the only available one was that the company should have been ordered to be wound up under the Insolvency Act 1986: see Pensions Act 2004, section 121(3)(g).
+Accordingly, the question arises whether Olympic had an establishment in the United Kingdom on 20 July 2010 so as to justify the presentation of a winding up petition on that date.
+Olympic had had a number of offices in the United Kingdom, but the only ones which it still occupied on 20 July 2010 were its former UK head office at 11 Conduit Street in London, which it leased from an associated company.
+The Chancellor heard evidence about the status of 11 Conduit Street and the activities that were carried on there at the relevant time.
+He and the Court of Appeal made the following findings: (1) On 28 September 2009, shortly before the commencement of the liquidation proceedings in Greece, the area manager for Olympic in London was instructed that the company would cease all commercial operations as from 00.01 on the following day.
+From that time all flight operations were undertaken by an unrelated company. (2) On 17 June 2010, the Greek liquidator informed the trustees of the pension fund that the employment of the 27 remaining UK staff would be terminated with effect from 14 July 2010.
+Three persons, Mr Savva the General Manager, Mr Platanias the Finance and Purchasing Manager, and an accounts clerk, were retained thereafter on short term ad hoc contracts.
+At the time of the English winding up petition, they were the only persons still working there. (3) Mr Savva attended the office at Conduit Street as required.
+In practice this was about three or four times a week.
+His function was to deal generally with anything requiring attention, principally instructions and requests from the liquidator and staff in Athens retained by him. (4) Mr Platanias arranged the payment of bills for his own salary and Mr Savvas, council tax, electricity and cleaning, and for minor repairs following a break in.
+He reconciled bank statements, copied and sent relevant documents to the liquidator and his staff in Athens and dealt generally with post and telephone calls.
+He supervised the disposal of the companys assets in England, a process which had begun before the winding up petition and continued for some time afterwards.
+These comprised a current and deposit account, computers and office furniture, fixtures and fittings and computerised accounting records.
+They had no substantial realisable value.
+The Chancellor found that Mr Platanias functions were exactly what is to be expected from one responsible to an overseas liquidator for winding up the affairs of a foreign branch of a formerly substantial overseas trading company. (5) The clerk assisted in these activities under the direction of Mr Savva or Mr Platanias.
+The decisions of the courts below
+The Chancellor considered that to be economic an activity did not have to amount to external market activity: [2013] 1 BCLC 415.
+He found that these activities constituted non transitory economic activities for the purpose of the definition of establishment and made the winding up order.
+The Court of Appeal (Moore Bick LJ, Sir Stephen Sedley and Sir Bernard Rix) overruled him: [2014] 1 WLR 1401.
+In summary, they thought that the relevant economic activity had to consist of more than the activity involved in winding up the companys affairs, and that the three remaining employees were doing no more than that.
+After the Court of Appeal handed down its decision, the law was changed.
+A statutory power under the Pensions Act 2004 was exercised so as to prescribe an additional insolvency event for the purpose of section 121.
+The additional event was defined in such a way as to apply only to cases in which insolvency proceedings had been commenced in another member state of the EU in respect of an employer whose COMI was located in that state, and secondary proceedings had been begun in the United Kingdom but had subsequently been set aside for want of jurisdiction: see the Pension Fund (Entry Rules) (Amendment) Regulations 2014 (SI 2014/1664).
+This appears to be a class of one: the present case.
+However, for technical reasons, the present issue remains important even though the effect of the amendment is to enable the Olympic pension scheme to qualify for the Pension Protection Fund on the basis of the Greek proceedings.
+The reason is that where the new insolvency event applies it is deemed to occur on the fifth anniversary of the commencement of the Greek proceedings, ie on 2 October 2014.
+This is rather more than four years after the date of the winding up order made by the High Court.
+This matters, because of the possibility that the Board of the Pension Protection Fund might require the trustees of the Olympic scheme to claw back any overpaid benefits between the commencement of the Greek liquidation proceedings and the relevant insolvency event.
+If that event occurred on 2 October 2014 instead of 29 May 2012, the period over which the benefits may be clawed back will be longer.
+Authorities
+The text of the Regulation is largely derived from the Convention on Insolvency Proceedings which was opened for signature in Brussels on 23 November 1995, but failed for want of a sufficient number of signatories.
+The Convention had been the subject of an authoritative commentary by Professor Miguel Virgos and M Etienne Schmit.
+According to the Virgos Schmit Report (3 May 1996, OJL 6500/96), the definition of establishment reflected a compromise between universalist states, who favoured a single liquidation with universal effect, and territorialist states, who wished to recognise a jurisdiction to open national territorial proceedings based on the mere presence of local business assets whether or not there was any local place of business.
+The compromise consisted in the acceptance by the territorialists that jurisdiction to open secondary proceedings should be founded on the existence of a local establishment, but with a broad definition of the activities that must be carried on there.
+At para 71, the Report commented on the resultant definition as follows: 71.
+For the Convention on insolvency proceedings, establishment is understood to mean a place of operations through which the debtor carries out an economic activity on a non transitory basis, and where he uses human resources and goods.
+Place of operations means a place from which economic activities are exercised on the market (ie externally), whether the said activities are commercial, industrial or professional.
+The emphasis on an economic activity having to be carried out using human resources shows the need for a minimum level of organization.
+A purely occasional place of operations cannot be classified as an establishment.
+A certain stability is required.
+The negative formula (non transitory) aims to avoid minimum time requirements.
+The decisive factor is how the activity appears externally, and not the intention of the debtor.
+The rationale behind the rule is that foreign economic operators conducting their economic activities through a local establishment should be subject to the same rules as national economic operators as long as they are both operating in the same market.
+In this way, potential creditors concluding a contract with a local establishment will not have to worry about whether the company is a national or foreign one.
+Their information costs and legal risks in the event of insolvency of the debtor will be the same whether they conclude a contract with a national undertaking or a foreign undertaking with a local presence on that market.
+Naturally, the possibility of opening local territorial insolvency proceedings makes sense only if the debtor possesses sufficient assets within the jurisdiction.
+Whether or not these assets are linked to the economic activities of the establishment is of no relevance.
+This provides much the most useful source of guidance.
+By comparison, there is very limited help to be had from decided cases.
+Decisions on the location of a companys COMI are addressed to a different test.
+Decisions on what constitutes an establishment can rarely be more than illustrative given the fact sensitive nature of the inquiry.
+In (Case C 396/09) Interedil Srl (in liquidation) v Fallimento Interedil Srl [2011] ECR I 9939: [2012] BUS LR 1582, the Court of Justice of the European Union dealt with the question whether the presence of immovable property was enough to confer jurisdiction to open secondary insolvency proceedings.
+The court did not specifically address the question what constituted economic activity, but it dealt generally with the definition of establishment at paras 61 63 as follows:
+61. Article 2(h) of the Regulation defines the term establishment as designating any place of operations where the debtor carries out a non transitory economic activity with human means and goods. 62.
+The fact that that definition links the pursuit of an economic activity to the presence of human resources shows that a minimum level of organisation and a degree of stability are required.
+It follows that, conversely, the presence alone of goods in isolation or bank accounts does not, in principle, satisfy the requirements for classification as an establishment. 63.
+Since, in accordance with article 3(2) of the Regulation, the presence of an establishment in the territory of a member state confers jurisdiction on the courts of that State to open secondary insolvency proceedings against the debtor, it must be concluded that, in order to ensure legal certainty and foreseeability concerning the determination of the courts with jurisdiction, the existence of an establishment must be determined, in the same way as the location of the centre of main interests, on the basis of objective factors which are ascertainable by third parties.
+Two English decisions illustrate the application of the test to particular facts.
+In Shierson v Vlieland Boddy [2005] 1 WLR 3966, the Court of Appeal was concerned with an English debtor whose COMI was in Spain but who let and managed premises in England.
+It cited and implicitly adopted para 71 of the Virgos Schmit Report, and concluded that the letting and management of the premises themselves was enough to make them an establishment.
+In In re Office Metro Ltd [2012] BCC 829, Mann J was concerned with secondary proceedings in England in respect of an English company whose COMI was in Luxembourg and which was in liquidation there.
+It used an office in England, at which it handled the settlement of liabilities on guarantees of leases to associated companies, dealt with Companies Act filings, forwarded post, and occasionally took legal and accountancy advice.
+Perhaps wisely, the judge did not attempt a general definition of economic activity, but expressed the view that the activities carried out at the relevant premises were not economic activities and that in any event they were transitory.
+Application to the present case
+The definition in article 2(h) must be read as a whole, not broken down into discrete elements, for each element colours the others.
+The relevant activities must be (i) economic, (ii) non transitory, (iii) carried on from a place of operations, and (iv) using the debtors assets and human agents.
+This suggests that what is envisaged is a fixed place of business.
+The requirement that the activities should be carried on with the debtors assets and human agents suggests a business activity consisting in dealings with third parties, and not pure acts of internal administration.
+As the Virgos Schmit Report suggests, the activities must be exercised on the market (ie externally).
+I am inclined to think that the same point was being made by the Court of Justice when it observed in Interedil that the activities must be sufficiently accessible to enable third parties, that is to say in particular the companys creditors, to be aware of them.
+I do not think that this can sensibly be read as requiring that the debtor should simply be locatable or identifiable by a brass plate on a door.
+It refers to the character of the economic activities.
+They must be activities which by their nature involve business dealings with third parties.
+Manifestly, some activities which a company in liquidation might carry on, may satisfy the definition.
+This may happen not only where the liquidator carries on the business with a view to its disposal but also, for example, where he disposes of stock in trade on the market.
+On the other hand, where a company has no subsisting business it is clearly not the case that the mere internal administration of its winding up will qualify.
+Such activity would not be exercised on the market; moreover, if it were enough to establish
+jurisdiction then the requirement for economic activities would add little
+or nothing to the rest of the definition.
+Indeed, the definition would almost always be satisfied by a debtor who retained premises in the United Kingdom with inevitable outgoings such as the payment of rent, business rates, and so on.
+It is unnecessary in the present case to undertake the difficult task of drawing a precise boundary between these extremes because, on any reasonable view of the meaning and purpose of the definition, the facts of this case are on the wrong side of it.
+Olympic was not carrying on any business activity at 11 Conduit Street on the relevant date.
+The last of the companys business activities had ceased some time before.
+All that Mr Savva and Mr Platanias were doing was handling matters of internal administration associated with the final stages of the companys disposal of the means of carrying on business.
+The company cannot therefore be said to have had an establishment in the United Kingdom.
+Reference under Article 267 TFEU
+In my opinion, the necessity for showing at least some subsisting business with third parties before the definition can be satisfied is acte clair, even if the exact nature of that business and the degree to which it must be visible to outsiders may be open to argument.
+Since in this case no external business at all was carried on from 11 Conduit Street, there is no point of principle calling for a reference.
+Disposal
+I would dismiss the appeal.

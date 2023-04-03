@@ -1,0 +1,135 @@
+This appeal concerns the interpretation of provisions of the Taxes Management Act 1970 (the TMA).
+The principal issue is whether the Commissioners of HM Revenue and Customs (HMRC) were entitled to open an enquiry into the claims for relief from income tax, which the appellants (Mr De Silva and Mr Dokelman or collectively the taxpayers) had made in their tax return forms to carry back losses to earlier tax years, and, as a result, amend their tax returns to deny the taxpayers the full relief which they claimed or had been given.
+The taxpayers argue that HMRC were entitled to inquire into their claims only under Schedule 1A and that, because the statutory time limit for such an enquiry had expired, their claims had become unchallengeable.
+Factual background
+The taxpayers were limited partners in various limited partnerships established under the Limited Partnerships Act 1907.
+The general partner of the partnerships was Investing in Enterprise Ltd (IEL).
+The taxpayers became partners in these partnerships in implementation of marketed tax avoidance schemes which were aimed at accruing trading losses through investment in films in order to set off those losses against income of the same or earlier years.
+The taxpayers invested in the partnerships in part by using their own money but principally by taking out non recourse or limited recourse loans.
+The schemes aimed to take advantage of tax incentives under section 42 of the Finance (No 2) Act 1992 (as amended) (the 1992 Act) to encourage investment in the production and acquisition of qualifying films.
+It is not necessary to give details of the tax incentives.
+In the early years of trading a limited partner could use the provisions of sections 380 and 381 of the Income and Corporation Taxes Act 1988 (ICTA) to set off his allocated share of trading losses of a partnership in a particular year against his general income for that year of assessment or any of the previous three years of assessment.
+The ability to carry back the losses in this way allowed the partner to choose to set off the losses against his taxable income in one or more of those years in a way which gave him the greatest advantage.
+The relevant film partnerships lodged tax returns, which IEL completed, for the tax years 1998/99, 1999/2000, 2000/01 and 2001/02, in which the partnerships claimed that they had suffered substantial trading losses, in relation to which they claimed relief for film expenditure under section 42 of the 1992 Act.
+HMRC did not accept those claims, but initiated inquiries into the partnerships tax returns under section 12AC(1) of the TMA.
+After extensive investigations, HMRC determined that the claims for losses should not be accepted and issued closure notices on the inquiries in about July 2003.
+In substance, HMRC disallowed the partnerships claims for expenditure funded by the non recourse or limited recourse loans to individual partners and also the expenditure paid as fees to the promoters of the schemes.
+The partnerships appealed to the Special Commissioners of Income Tax (the predecessors of the First tier Tribunal (Tax Chamber)) in August 2003.
+Those appeals and the partnerships claims for losses and relief were compromised by an agreement dated 22 August 2011 under section 54 of the TMA (the partnership settlement agreement) under which the partnerships losses were stated at much reduced levels.
+Mr De Silva in his self assessment tax return form for 1998/99 included a claim to set off his share of trading losses of certain partnerships in other years, including 1999/2000, against his general income in several tax years, including 1998/99, with the intention of reducing his payment in respect of tax due for 1998/99 by 16,800.
+He included that figure in box 18.9 on the return form against an entry, 1999 2000 tax you are reclaiming now.
+Under the heading additional information in his return he explained the detail of the carry back claims which he was making to give rise to that figure.
+The losses which supported his claim to reduce his tax payment by 16,800 were his share of partnership trading losses in the year 1999/2000, which it had already been estimated that the relevant partnership would incur in that tax year.
+In his self assessment tax return form for 1999/2000, Mr De Silva made amended carry back claims to set off his share of partnership losses in 1999/2000 against his general income in previous years so as to claim a repayment of tax for those years.
+Mr Dokelman also claimed tax relief in a similar manner.
+In his self assessment tax return form for 2000/01 he made a claim for the losses which he had incurred as a partner in some of the partnerships in the tax year 2000/01 against his general income in 1999/2000 and 1997/98.
+In each case the taxpayer claimed relief for his share of the partnership losses as those losses had been stated in the partnership tax returns before they were substantially reduced when HMRC amended the partnership tax returns after entering into the partner settlement agreement.
+HMRC had initially accepted Mr De Silvas claims for relief and credited him with 22,400 and 42,000.
+After the partnership claims were determined in the partnership settlement agreement, HMRC wrote to the taxpayers to intimate that their carry back claims in their personal tax returns would be amended in line with the lower figures for the partnership losses which had been agreed in the partnership settlement agreement.
+HMRC informed Mr De Silva that he had to pay additional tax of 17,176.80 and 32,400.
+HMRC informed Mr Dokelman, who had not been given credit for the partnership losses, that those losses available for a claim for 2000/01 were reduced to the levels agreed in the partnership settlement agreement.
+HMRCs letters to Mr De Silva were dated 16 September 2011 and 17 November 2011.
+Their letter to Mr Dokelman was dated 28 October 2011.
+The legal proceedings
+The taxpayers have challenged HMRCs decisions which were set out in those letters by a claim for judicial review.
+They assert that HMRC are obliged to give effect in full to their claims to carry back the partnership losses because HMRC did not open an enquiry into the claims under Schedule 1A to the TMA in order to challenge them and are now barred by the passage of time from doing so.
+They submit that their case is supported by a judgment of this court in Revenue and Customs Comrs v Cotter [2013] UKSC 69; [2013] 1 WLR 3514; [2013] STC 2480 (Cotter).
+The Upper Tribunal (Sales J) in a decision dated 15 April 2014 ([2014] UKUT 170 (TCC); [2014] STC 2088) rejected their claim.
+The Court of Appeal (Arden, Gloster and Simon LJJ) in a judgment dated 2 February 2016, in which Gloster LJ gave the leading judgment, dismissed the taxpayers appeal ([2016] EWCA Civ 40; [2016] STC 1333).
+The taxpayers challenge
+The taxpayers now appeal to this court.
+Their submission in summary is that their claims for relief by carrying back losses are not claims made in their self assessment tax returns under section 8 of the TMA but are to be regarded as stand alone claims for relief which are not made in tax returns and which HMRC could challenge only under Schedule 1A to the TMA.
+They renew their submission that HMRC had failed to operate those procedures to challenge their claims and are now out of time to do so.
+They submit that their claim for relief is not affected by the power of HMRC to amend the partnerships tax returns or their individual tax return forms to give effect to the partnership settlement agreement.
+Discussion
+The answer to this appeal lies in the provisions of the TMA (i) which deal with the making and processing of claims for relief and (ii) which specify what a taxpayer must include in his tax return.
+I will look first at those provisions before summarising what HMRC have done in these cases.
+When I refer to sections or Schedules below without specifying the Act, I refer to sections of and Schedules to the TMA.
+The provisions of the TMA in so far as they concern income tax are dealing with an annual tax and this court has held in Cotter that a tax return in the context of sections 8(1), 9, 9A and 42(11)(a) refers to the information in the tax return form which is submitted for the purpose of establishing the amounts in which a person is chargeable to income tax and capital gains tax for the relevant year of assessment and the amount payable by him by way of income tax for that year (section 8(1) TMA).
+I will return to section 8(1) when I address the provisions mentioned in (ii) in para 11 above.
+The making and processing of claims
+The provisions which deal with the making and processing of claims for relief are section 42 and Schedules 1A and 1B.
+Section 42(1) provides that, unless otherwise provided, section 42 shall have effect in relation to a claim for relief to be given.
+Subsection (2) provides that where an officer of HMRC has given a notice to a person, whether an individual (section 8), a trustee (section 8A) or the partner of a partnership (section 12AA), requiring him to make and deliver a tax return, a claim shall not at any time be made otherwise than by being included in a return under that section if it could, at that or any subsequent time, be made by being so included.
+This requirement that a claim be included in a tax return was an innovation in the Finance Act 1994, which amended the TMA extensively to provide for the introduction of self assessment.
+Section 42 as initially enacted had provided as a general rule that claims should be made to an inspector of taxes within time limits specified in section 43, also as initially enacted.
+Section 42(6) requires that in the case of a trade, profession or business carried on by persons in partnership a claim under the provisions specified in subsection (7), which include section 42 of the 1992 Act under which the claims have been made in this case, shall, where subsection (2) applies, be made by being included in a partnership return and in any other case, by such one of those persons as may be nominated by them for the purpose.
+Section 42(11) provides: Schedule 1A to this Act shall apply as respects any claim or election which (a) is made otherwise than by being included
+in a return under section 8, 8A or 12AA of this Act
+Section 42(11A) provides: Schedule 1B to this Act shall have effect as respects certain claims for relief involving two or more years of assessment.
+As a claim to carry back losses is a claim for relief involving two or more years of assessment and as the taxpayers claims are of that nature, I will examine Schedule 1B first.
+Schedule 1B is headed Claims for relief involving two or more years and paragraph 2 of the Schedule addresses loss relief, which is the subject of the claims in this case.
+Paragraph 2 provides so far as relevant: (1) This paragraph applies where a person makes a claim requiring relief for a loss incurred or treated as incurred, or a payment made, in one year of assessment (the later year) to be given in an earlier year of assessment (the earlier year). (2) Section 42(2) of this Act shall not apply in relation to the claim. (3) The claim shall relate to the later year. (4) the claim shall be for an amount equal to the difference between (a) the amount in which the person is chargeable to tax for the earlier year (amount A); and (b) the amount in which he would be so chargeable on the assumption that effect could be, and were, given to the claim in relation to that year (amount B). (6) Effect shall be given to the claim in relation to the later year, whether by repayment or set off, or by an increase in the aggregate amount given by section 59B(1)(b) of this Act, or otherwise. (The aggregate amount given by section 59B(1)(b) is the aggregate of payments on account of income tax deducted at source in respect of that tax year.)
+Paragraph 2 of Schedule 1B thus is concerned with relief sought for a loss incurred in the later year (which I will call Year 2) by carrying it back to the earlier year (Year 1).
+Significantly, paragraph 2(3) makes it clear that the claim relates to Year 2.
+The quantification of the claim is governed by paragraph 2(4): the claim is the difference between amount A and amount B on the counterfactual assumption that effect could have been and was given to the claim in Year 1.
+That assumption is counterfactual because paragraph 2(3) and paragraph 2(6) relate the claim and the giving effect to the claim to Year 2.
+Paragraph 2(2) of Schedule 1B disapplies section 42(2) in relation to such a claim.
+That has the effect that a claim may be made under Schedule 1A, notwithstanding that an officer of HMRC has required the provision of a tax return, for example in Year 1 outside a tax return.
+But I agree with Sales J and the Court of Appeal that HMRC are correct in their submission that that disapplication does not mean that the taxpayer is released from making the claim in his tax return in Year 2.
+As I will seek to show (paras 23 29 below), section 8(1) imposes that requirement.
+Schedule 1A is headed Claims etc not included in returns.
+Paragraph 2 provides for a claim to be made to an officer of HMRC in such form as HMRC may determine, but HMRC have not specified any particular form of claim and accept claims made by letter.
+Paragraph 4(2) requires an officer of HMRC to give effect as soon as practicable after a partnership claim is made under section 42(6) by a nominated person to such a claim as respects each of the relevant partners by discharge or repayment of tax, unless HMRC inquire into the claim.
+Similar provision is made in paragraph 4(1) for the prompt processing of non partnership claims.
+Schedule 1A therefore requires HMRC to respond promptly to claims for relief and thus assist the cash flow of taxpayers who have relevant and valid claims.
+But HMRC are also empowered to challenge claims: paragraph 5 provides for inquiries into Schedule 1 claims and contains time limits for the opening of such inquiries.
+Such an enquiry postpones the obligation to give effect to the claim (paragraph 4(3)) and on completion of the inquiry HMRC may by closure notice amend the claim (paragraph 7(1)).
+It is, as I have said, the taxpayers assertion that their claims were stand alone claims which were governed only by Schedule 1A and that HMRC, by failing to open a paragraph 5 inquiry have allowed the claims to become unchallengeable.
+I am satisfied that that assertion is incorrect because of the provisions of the TMA which specify what a taxpayer must include in his return.
+The content of a tax return
+Section 8 sets out what a person must produce when given a notice to make and deliver a tax return.
+So far as relevant the section provides: (1) For the purpose of establishing the amounts in which a person is chargeable to income tax and capital gains tax for a year of assessment, and the amount payable by him by way of income tax for that year, he may be required by a notice given to him by an officer of the Board (a) to make and deliver to the officer a return containing such information as may reasonably be required in pursuance of the notice, and to deliver with the return such accounts, (b) statements and documents, relating to information contained in the return, as may reasonably be so required. (1AA) For the purposes of subsection (1) above (a) the amounts in which a person is chargeable to income tax and capital gains tax are net amounts, that is to say, amounts which take into account any relief or allowance a claim for which is included in the return; and (b) the amount payable by a person by way of income tax is the difference between the amount in which he is chargeable to income tax and the aggregate amount of any income tax deducted at source and any tax credits to which section 231 of the principal Act [ie ICTA] applies. (The tax credits to which section 231 of ICTA referred were tax credits for advance corporation tax which the recipient of qualifying distributions from a UK resident company could claim.) It is noteworthy that under subsection (1)(a) the information which is required is not simply the amounts in which the person is chargeable to income tax and the amounts payable by him for the year of assessment but information for the purpose of establishing those amounts.
+That information includes the persons share of partnership income or losses for the period which falls within the year of assessment as section 8 provides: (1B) In the case of a person who carries on a trade, profession, or business in partnership with one or more other persons, a return under this section shall include each amount which, in any relevant statement, is stated to be equal to his share of any income, loss, tax, credit or charge for the period in respect of which the statement is made. (1C) In subsection (1B) above relevant statement means a statement which, as respects the partnership, falls to be made under section 12AB of this Act for a period which includes, or includes any part of, the year of assessment or its basis period.
+A person must therefore include in the return for Year 2 his share of the losses of a partnership, of which he was a partner, which have been stated in a relevant statement relating to Year 2.
+Section 9 provides for self assessment.
+Unless the taxpayer makes and delivers his tax return within time limits specified in section 9(2) and subject to an exception in section 9(1A) which is not relevant, section 9(1) provides: every return under section 8 or 8A of this Act shall include a self assessment, that is to say (a) an assessment of the amounts in which, on the basis of the information contained in the return and taking into account any relief or allowance a claim for which is included in the return, the person making the return is chargeable to income tax and capital gains tax for the year of assessment
+Claims, reliefs and tax returns
+Whether a taxpayer submits his tax return for Year 2 within the time limits of section 9(2), so that HMRC assess the sums in which he is chargeable to income tax and the amount payable, or includes in the return the self assessment in terms of section 9(1)(a), he must provide information in his return for Year 2 to establish what proportion, if any, of his share of the partnership loss incurred in Year 2 is to be offset against his other income in Year 2.
+If a taxpayer wished to claim to offset all of his share of partnership losses in Year 2 against his other income in Year 2 by invoking section 380(1)(a) of ICTA, he would have to include that claim in his return for Year 2.
+Schedule 1B would not apply as the claim for relief would involve only one year of assessment.
+Section 8(1AA)(a) would allow him relief, for which he had included a claim in the return, giving rise to the net sum in which he would be chargeable to income tax for that year.
+If a taxpayer wished to carry back part of the losses incurred in Year 2 to set off against his income of Year 1 by invoking section 380(1)(b) of ICTA, he would also have to make the claim in his return for Year 2.
+This is the combined effect of section 8(1AA)(a) and Schedule 1B paragraphs 2(3) and (6).
+As shown in para 18 above, those paragraphs provide that the claim for relief relates to Year 2 and effect is to be given to that claim in relation to Year 2.
+If HMRC had already given effect to part of the claim under Schedule 1A in Year 1 by giving relief, for example by repayment, the return for Year 2 would still have to state the loss, the claim and the relief already given in order to establish the amounts in which the taxpayer is chargeable to income tax in Year 2.
+Similarly, if the taxpayer had already received full relief under Schedule 1A in Year 1, he would have to state the same information as to the loss, the claim and the relief already given.
+By so doing he enables the return to take into account, as section 8(1AA)(a) requires, both the relief which is claimed in the return and that which he has already received.
+In each case that information is a necessary part of his return for Year 2 as it is information required for the purpose of establishing the amounts in which the taxpayer is chargeable to income tax for that year of assessment: section 8(1).
+In summary, section 8(1AA)(a) defines the amounts in which a person is chargeable to income tax in a year of assessment as net amounts taking account of any relief, a claim for which has been included in the return.
+The claims to carry back losses relate to Year 2 and effect is given to them in relation to that year: Schedule 1B paragraph 2(3) and (6).
+It follows, therefore, that the taxpayer must make a claim in his tax return in respect of Year 2 and state the extent to which the relief claimed has already been given in order to establish the amounts in which he is chargeable to income tax for that year of assessment.
+If too much has already been given as relief, the self assessment can take that into account by adjusting the amount in which the taxpayer is chargeable to income tax for Year 2: section 9(1)(a).
+HMRC may inquire into a return under section 8 or 8A if an officer gives notice of his intention to do so (section 9A(1)) and that enquiry may extend to anything contained in the return, or required to be contained in the return, including any claim: section 9A(4).
+HMRC were therefore empowered under section 9A to inquire into the taxpayers carry back claims contained in their Year 2 tax returns.
+HMRC were not required to institute an enquiry under Schedule 1A in order to challenge the taxpayers claims.
+In a written intervention Cotter Solutions Ltd have argued that the interpretation of the relevant provisions of the TMA which Sales J and the Court of Appeal favoured, by contrast with the straightforward provisions of Schedule 1A, would not allow HMRC either to postpone giving effect to the claim or to recover any tax relief which was subsequently found, following enquiry, not to have been due.
+I do not agree for three reasons.
+First, in relation to a Schedule 1B claim, the obligation in paragraph 4 of Schedule 1A to give effect to the claim as soon as practicable after the claim is made applies to a claim to which effect is given in relation to Year 2 and in relation to which HMRC can institute an enquiry under section 9A. Schedules 1A and 1B operate in tandem in this context.
+A claim to carry back loss relief made early under Schedule 1A may need the Year 2 losses to be established before effect is given to the claim.
+The relevant time limit for enquiring into the claim in paragraph 5 of Schedule 1A operates from Year 2, to which the claim relates, and what is practicable in giving prompt effect to a claim must be assessed in that context.
+Secondly, the mechanisms in paragraph 2(6) of Schedule 1B for giving effect to a claim in Year 2 are not confined to repayment, set off and the increase in the aggregate of payments on account, none of which would alter the tax chargeable for Year 2.
+Paragraph 2(6) includes the words or otherwise, which open the door to an adjustment of the amount chargeable to income tax by virtue of both section 8(1AA)(a), which provides that the amounts in which a person is chargeable take into account any relief a claim for which is included in the return and section 9(1)(a) which makes similar provision for the self assessment.
+Where relief has already been given in error, it would in my view be open to HMRC, in completing an enquiry, to amend the return (for example, under section 28A(2) TMA) by altering the amount chargeable to income tax for Year 2 in order to recover the sums which were wrongly paid as relief.
+Thirdly, section 59B(5) provides for payment of income tax which is payable as a result of an amendment of a self assessment under section 28A on completion of an enquiry into a personal tax return.
+What HMRC did
+HMRC gave notice under section 12AC(1) of the opening of inquiries into the partnerships tax returns for the tax years 1998/99, 1999/2000, 2000/01 and 2001/02.
+By virtue of section 12AC(6)(a), the giving of notice opening an enquiry into a partnership return is deemed to include the giving of a notice of enquiry under section 9A(1) of this Act to each partner who at that time has made a return under section 8 or 8A of this Act or at any subsequent time makes such a return.
+There were therefore deemed inquiries into the partners personal tax returns in respect of what I have called Year 2.
+Following the closure of the inquiries under section 28B, the partnerships appealed under section 31 against the conclusions and amendments made by the closure notices.
+Their compromise of the appeals by agreements under section 54 had the same consequences as if the Special Commissioners (now the First tier Tribunal) had determined the appeal in the manner set out in the agreement: section 54(1).
+The agreement therefore operates as if it were a determination by the special commissioners under section 50(7).
+That deemed decision by the special commissioners empowered HMRC to alter the taxpayers personal tax returns because section 50(9) provides: Where any amounts contained in a partnership statement are reduced under subsection (6) above or increased under subsection (7) above, an officer of the Board shall by notice to each of the relevant partners amend the partners return under section 8 of this Act (a) or (b) the partners company tax return, so as to give effect to the reductions or increases of those amounts.
+HMRCs letters, to which I referred in para 8 above and which are the subject of this judicial review challenge, amended the taxpayers tax returns in this way.
+Section 59B(5)(b) provides for the payment by the taxpayer of sums payable as a result of the amendment of a partners tax return under section 50(9) and Schedule 3ZA paragraph 11 specifies the time limit for that payment.
+HMRCs amendment of the taxpayers individual tax returns and the decisions in the letters under challenge were therefore lawful and the judicial review challenge fails.
+Cotter
+Cotter was concerned with a claim made by an amendment of a tax return form relating to Year 1 which intimated a claim for a loss that would occur in Year 2.
+That claim had, and could have, no bearing on the amount of tax chargeable and payable by Mr Cotter in respect of Year 1: paras 16 and 17 of Cotter.
+At that stage it was a stand alone claim to which Schedule 1A applied.
+The case did not address the possibility of a section 9A enquiry into the tax return in Year 2.
+HMRC commenced their Schedule 1A enquiry into the claim before the end of Year 2, thereby precluding any enquiry into the claim under section 9A if it were (as it ought to have been) contained in the Year 2 tax return at a later date: Schedule 1A, paragraph 5(3)(b).
+By contrast, in this case the taxpayers claims were made in their tax returns for Year 2 (paras 5 and 6 above).
+Cotter gives no support to the taxpayers in this appeal.
+Conclusion
+I would dismiss this appeal.

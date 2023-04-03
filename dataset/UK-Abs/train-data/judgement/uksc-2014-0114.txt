@@ -1,0 +1,85 @@
+The issue raised on this appeal concerns the extent to which the jurisdiction of the First tier Tribunal to make an order for costs is fettered by the provisions of the Rules regulating the procedure of the Tribunal.
+Although the Rules in question govern the procedure of the Tax and Chancery Chamber, we were told that our conclusion will apply to the other Chambers of the First tier Tribunal (FTT).
+Subsections (1) and (2) of section 29 of the Tribunals, Courts and Enforcement Act 2007 provide that the costs of and incidental to any proceedings in the FTT shall be in the discretion of the Tribunal in which the proceedings take place, and that the Tribunal has full power to make orders for costs.
+However, subsection (3) of the same section stipulates that the preceding two subsections have effect subject to Tribunal Procedure Rules.
+The Rules
+The Rules which governed the instant proceedings are the Tribunal Procedure (First tier Tribunal) (Tax Chamber) Rules 2009 (SI 2009/273) (L1) (the Rules).
+Rule 2 describes the overriding objective of the Rules as being to enable the FTT to deal with cases fairly and justly, which includes dealing with cases proportionately.
+Rule 5 is headed Case management powers and it is in these terms: (1) Subject to the provisions of the 2007 Act and any other enactment, the Tribunal may regulate its own procedure. (2) The Tribunal may give a direction in relation to the conduct or disposal of proceedings at any time, including a direction amending, suspending or setting aside an earlier direction. (3) In particular, and without restricting the general powers in paragraphs (1) and (2), the Tribunal may by direction (i) require a party to produce a bundle for a hearing In addition to sub paragraph (i), rule 5(3) has eleven other sub paragraphs, which include powers to (a) extend or shorten time for complying with the Rules, (c) permit or require an amendment, (f) hold a case management hearing, (h) adjourn a hearing, and (k) transfer proceedings to another tribunal.
+Rule 10 is headed Orders for costs.
+Rule 10(1) is somewhat convoluted, and it is in these terms: The Tribunal may only make an order in respect of costs (or, in Scotland, expenses) (a) under section 29(4) of the 2007 Act (wasted costs) ; (b) if the Tribunal considers that a party or their representative has acted unreasonably in bringing, defending or conducting the proceedings; (c) if the proceedings have been allocated as a (i) Complex case under Rule 23 (allocation of cases to categories); and (ii) the taxpayer (or, where more than one party is a taxpayer, one of them) has not sent or delivered a written request to the Tribunal, within 28 days of receiving notice that the case had been allocated as a Complex case, that the proceedings be excluded from potential
+liability for costs or expenses under this sub paragraph
+With one exception, it would therefore appear that, at least under rule 10(1), the FTT can only make two types of costs order.
+The first is a wasted costs order under sub para (a), and the other is an order for costs where a party has behaved unreasonably under sub para (b).
+The one exception is under sub para (c), which envisages that there will be no such limitation on the FTTs jurisdiction to award costs if two conditions are satisfied namely (i) the proceedings are a Complex case under Rule 23, and (ii) the taxpayer has not served a request (within the requisite 28 day period) that there should be no potential liability under rule 10(1)(c).
+Rule 10(3) sets out how an application for costs under rule 10(1) is to be initiated.
+Rule 10(4) provides that such an application must be made within 28 days of the FTTs decision disposing of the proceedings.
+Rule 10(5) forbids the FTT from making an order for costs under rule 10(1) without first giving notice to the potential payer and enabling him to make representations.
+Rule 10(6) sets out three different ways in which costs under rule 10(1) can be assessed (summary assessment, agreement and normal assessment).
+Rule 10(7) provides that the sum so assessed can be recovered through proceedings in the County Court or the Costs Office of the High Court.
+The only other reference to recovery of costs or expenses to which we were taken to in the Rules is in Rule 16, which is concerned with Summoning or citation of witnesses and orders to answer questions or produce documents.
+Rule 16(2)(b) provides that a summons issued by the Tribunal requiring a person to attend proceedings (other than a party to the proceedings) must make provision for the persons necessary expenses of attendance to be paid, and state who is to pay them.
+The facts
+Eclipse Film Partners No 35 LLP (Eclipse) filed a tax return in respect of the period which ended on 5 April 2007.
+The Revenue issued a closure notice determining that Eclipse did not carry on a trade or business, which, if correct, would have had severely adverse tax consequences for Eclipse.
+Accordingly, Eclipse appealed to the FTT against the closure notice.
+The appeal was allocated as a Complex case under Rule 23, and, within the 28 day period specified therein, Eclipse served a request under rule 10(3), that the proceedings be excluded from potential liability for costs or expenses under rule 10(1)(c).
+Thereafter, Eclipse and the Revenue agreed directions for the procedure leading up to the hearing.
+The FTT duly made those directions, which included in para 13 a direction that the parties should try and agree an appropriate bundle of documents, which should be prepared by Eclipse, who were to serve three copies on the Revenue and three copies on the FTT.
+Paragraph 13 of the agreed Directions also provided that, if the parties were unable to agree the Bundle, each party was to prepare its own bundle of documents and serve three copies on the other party and on the FTT.
+The parties were unable to agree a Bundle, and there was a hearing before the FTT, at which, among other issues, that problem was discussed.
+The upshot of the hearing so far as this problem was concerned was an oral direction by the FTT that Eclipse prepare the Bundle, and that the costs should be shared.
+Eclipses solicitors accordingly prepared the Bundle, which was very extensive indeed (the total for the parties ran to over 700 lever arch files), and its size was in part attributable to requests by the Revenue for the inclusion of documents of what some might think were of marginal relevance.
+In due course, the hearing took place, and, after some fourteen days of evidence and argument, the FTT gave a reserved decision dismissing Eclipses appeal on the substantive issue of the validity of the closure notice [2012] UKFTT 270 (TC). (That decision was subsequently affirmed by the Upper Tribunal, [2014] BTC 503, whose decision was in turn upheld by the Court of Appeal, [2015] BTC 10, and we refused Eclipse permission to appeal to the Supreme Court on 13 April 2016).
+Following the hearing before the FTT, Eclipses agents sent the Revenue invoices for a total of 108,395.48 (inclusive of VAT), representing half the cost to Eclipse of preparing the Bundles.
+After some discussion between the parties, and after the FTT had given its decision, the Revenue applied to the FTT to set aside the oral direction that the parties should share the costs of preparing the Bundles (the Order), on the ground that the FTT had no jurisdiction to give such a direction, in the light of Rule 10.
+The FTT held that it had had such jurisdiction and therefore dismissed the Revenues application.
+The Revenue appealed, and the Upper Tribunal took a different view, and held that the Order was made without jurisdiction, and consequently set it aside [2013] UKUT 1041 (TCC).
+Eclipses appeal to the Court of Appeal failed [2014] EWCA Civ 184.
+Eclipse now appeals to this court.
+Discussion
+The reasoning of the Court of Appeal and the Upper Tribunal, which is reflected in the Revenues argument before us, is very simple, and it is as follows.
+This was a Complex case under Rule 23, and therefore the FTT would have had a broad jurisdiction as to costs if no request (Request) under rule 10(1)(c)(ii) had been served, but, as such a Request was served by Eclipse, the effect of rule 10(1)(c) is that the FTT could only make an order for costs if, and to the extent that, rule 10(1)(a) (wasted costs) and/or rule 10(1)(b) (unreasonable behaviour) could be invoked, and neither of those provisions applied here.
+Two arguments are advanced on behalf of Eclipse to counter this analysis.
+As an initial point, it is said that the Order was not really an order for the payment of costs; it was on analysis an order for the sharing of costs.
+The flaw in that argument is that it assumes that the sharing of costs cannot involve the payment of costs.
+On the facts of this case, even though the result of the payment of half Eclipses expenses in preparing the Bundles could fairly be described as the Revenue sharing those costs, it would also undoubtedly involve the Revenue paying costs, in the sense that they would be reimbursing Eclipse half the expenses which it had incurred in having the Bundles prepared.
+What the Order plainly envisaged was (i) Eclipse incurring the expense of the preparation of the Bundles and (ii) then recovering half the expense from the Revenue.
+Step (ii) is plainly an order, albeit a partially proleptic order, for the recovery of costs.
+The second, and main, argument advanced on behalf of Eclipse is that it is inherent in rule 5(3) that the orders that the FTT makes thereunder can include terms as to costs.
+For instance, it is said that it would be unrealistic to suggest that the FTT might grant permission to one party to amend its case under rule 5(3)(c) or to have an adjournment under rule 5(3)(h), without being able to do so on terms as to costs which compensate the other party for any prejudice suffered as a result.
+Despite its initial attraction, I do not find that argument convincing, for a number of reasons.
+First, Eclipses interpretation of rule 5(3) robs rule 10(1) of much of its force.
+The purpose of rule 10(1) is to shut out the FTT from making cost shifting orders in all ordinary cases save in those where a party or a partys legal advisers have behaved unreasonably or worse, and even in Complex cases the taxpayer can opt to avoid cost shifting.
+While this would prevent a taxpayer from recovering costs from the Revenue, its principal purpose is no doubt to protect a taxpayer from a costs exposure which goes beyond having to pay his own lawyers.
+Warren J said in Atlantic Electronics Ltd v Revenue and Customs Comrs [2012] STC 931, para 8, that the policy that in cases other than Complex cases the inability to recover costs is not seen as likely to lead to a denial of access to justice but that in Complex cases, the choice of the taxpayer is to prevail.
+The only quarrel I have with that is that it seems to me that in non Complex cases, the normal inability of either the taxpayer or the Revenue to recover costs is positively intended to improve access to justice in the majority of such cases.
+The logic of Eclipses argument means that every time that the FTT makes a direction, not merely under one of the subparagraphs of rule 5(3), but under the more general powers contained in rule 5(2), it can attach an order for costs, even where neither the party against whom the order is made, nor its legal advisers, have behaved unreasonably.
+While this would not, of course, mean that the FTT could deal with costs as if there was no fetter on its powers, it would very significantly cut down the effectiveness of the no costs shifting scheme in rule 10(1).
+Secondly, Eclipses argument is inconsistent with rules 10(3) to 10(7).
+As explained in para 7 above, those paragraphs contain rules as to how any costs awarded by the FTT pursuant to rule 10(1) are to be assessed and recovered.
+If there is a power to award costs under Rule 5, as Eclipse effectively argues, there would appear to be a lacuna in the Rules, because there are no such provisions governing the assessment and recovery of such costs.
+I appreciate that this argument has limited force in relation to paras 10(3) to 10(5), as the paying party would normally (but not always) be expected to have the opportunity to make submissions about costs at the hearing at which such costs could, on Eclipses case, be awarded.
+However, that point does not, I think, apply to rules 10(6) and 10(7).
+Thirdly, rejecting Eclipses case does not mean that the FTT cannot give permission to amend, or grant an adjournment, on terms as to costs.
+If, for instance, a party wishes to amend its case or be granted an adjournment, there is nothing in the Rules which would prevent the FTT from deciding that it will only give permission to amend, or grant the adjournment, on terms that that party pays the other partys costs wasted or incurred as a result of the proposed amendment or adjournment.
+However, that is not what happened in this case.
+Fourthly, while of very slender force, there is rule 16(2)(b), which enables, indeed requires, the FTT to provide for the costs of a witness, who is required to attend a hearing, to be paid for by one or other party.
+It was suggested on behalf of Eclipse that it showed that rule 10(1) did not amount to an absolute code.
+To my mind, if anything, rule 16(2)(b) supports the Revenues case: it shows that, where the Rules intend to enable or require the FTT to render a party liable for costs, they say so.
+Some supplementary points
+Four other points should be mentioned.
+First, I have only referred to the basic facts of this case.
+Although Moses LJ, who gave the only reasoned judgment in the Court of Appeal thought otherwise (see paras 19 22 of his judgment), I agree with Mr Maugham QC, for Eclipse, that, in connection with the point at issue, it is inappropriate to consider the detailed facts of this case relating to the preparation of the Bundle and which led to the making of the Order.
+This case raises an issue of principle, which turns on the interpretation of the Rules.
+Secondly, there was some suggestion that, given that they relate to the procedure of a tribunal rather than a court, the Rules should be interpreted on a somewhat looser basis than Rules of court.
+I accept that the procedure of the tribunals is intended to be less formal and more flexible than that of the traditional courts.
+While that consideration can, indeed should, properly be taken into account when interpreting the Rules, I do not believe that it justifies a different result.
+Indeed, if anything, it is a point which supports the conclusion I have reached, based as it is on the fact that the Rules point strongly against costs shifting in the tribunal, whereas costs shifting in litigation in traditional courts is still the norm.
+Thirdly, the fact that things could have been arranged so as to achieve the same result as the Order is irrelevant to the outcome of this appeal.
+As Moses LJ pointed out in para 22 of his judgment, the FTT could have ordered both parties to prepare the Bundles jointly, in which case there would have been a powerful argument for saying that Eclipse could have recovered the 108,395.48 which they now claim, simply on the basis of a contribution between two jointly liable parties.
+But that is not what happened here: Eclipse were liable for the preparation of the Bundles, and it is not sensibly possible to characterise the Order as having any effect other than requiring the Revenue to pay some of Eclipses costs, an order which was precluded by rule 10(1).
+Finally, it is perhaps worth recording that, during the hearing of this appeal, Lord Toulson mentioned the possibility of Eclipse having a claim against the Revenue for 108,395.48 based on restitution, in the same way that a restitutionary claim may be made where services are performed under a contract which is for some reason unenforceable or void.
+That argument could not be pursued before us, and therefore I should say no more about it.
+Conclusion
+In the event, for the reasons given in paras 17 to 21 above, I would dismiss this appeal.

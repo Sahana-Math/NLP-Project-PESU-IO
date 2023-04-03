@@ -1,0 +1,458 @@
+This case raises important issues about the meaning and application in practice of section 115(7) of the Police Act 1997 as to the information that is to be provided by the chief officer of a police force to the Secretary of State for inclusion in an enhanced criminal record certificate (ECRC).
+The section in which this subsection appears provides for enhanced criminal record checks to be carried out in various specified circumstances, such as where people are applying to work with children or vulnerable adults, for various gaming and lotteries licences, for registration for child minding and day care or to act as foster parents or carers.
+The check is enhanced in the sense that it will involve a check with local police records as well as the centralised computer records held by the Criminal Records Bureau.
+As well as information about minor convictions and cautions, it will reveal allegations held on local police records about the applicants criminal or other behaviour which have not been tested at trial or led to a conviction.
+If the information satisfies the tests that section 115(7) lays down, it must be given to the Secretary of State and the Secretary of State for his part must include it in the ECRC.
+The question is whether, as it has been interpreted, section 115(7) of the 1997 Act is compatible with the applicants right to respect for his or her private life under article 8 of the European Convention on Human Rights.
+The leading authority on the meaning and effect of the subsection is R (X) v Chief Constable of the West Midlands Police [2004] EWCA Civ 1068; [2005] 1 WLR 65.
+Lord Woolf CJ said in para 36 that, having regard to the language of section 115(7), the Chief Constable was under a duty to disclose if the information might be relevant, unless there was some good reason for not making such disclosure.
+In para 37 he added these words: This was obviously required by Parliament because it was important (for the protection of children and vulnerable adults) that the information should be disclosed even if it only might be true.
+If it might be true, the person who was proposing to employ the claimant should be entitled to take it into account before the decision was made as to whether or not to employ the claimant.
+This was the policy of the legislation in order to serve a pressing social need.
+In para 41 he said that, as long as the chief constable was entitled to form the opinion that the information might be relevant, it was difficult to see that there could be any reason why the information that might be relevant ought not to be included in the certificate.
+The problem with this approach, it is said, is that it involves a disproportionate interference with the article 8 right, bearing in mind the damaging effects to the applicant that the disclosure of such information might give rise to.
+It goes further than is reasonably necessary for the legitimate object of protecting children and vulnerable adults, and it fails to strike a reasonable balance between the interests of the applicant and the wider social interests that the system was designed to serve.
+The appellant seeks the quashing of the respondents decision to disclose information about her on her ECRC, and a declaration that section 115(7) is incompatible with article 8.
+Alternatively she submits that section 115(7) should be read down so as to avoid the incompatibility.
+The legislation
+Part V of the Police Act 1997 introduced a legislative framework for the disclosure of criminal records to meet a growing need for the release of such information for employment and other purposes.
+Previously the arrangements were governed by a series of Home Office Circulars on the Disclosure of Criminal Records.
+It was designed to implement proposals contained in the White Paper On the Record: The Governments Proposals for Access to Criminal Records for Employment and Related Purposes in England and Wales (1996) (Cm 3308) following an earlier Home Office Consultation Paper Disclosure of Criminal Records for Employment Vetting Purposes (1993) (Cm 2319).
+Among these proposals was one for enhanced criminal record checks, the details of which were set out in Part VI of the White Paper.
+It was already the practice, in certain particularly sensitive areas of work or licensing where vetting took place, for additional information to be provided from local police records.
+In the light of responses to the consultation paper it was proposed that information from local police records would be available for prospective employees, trainees and volunteers having regular, unsupervised, contact with children and young people under 18, and those applying for gaming, betting and lottery licences.
+It was noted in para 29 that the local records held by most police forces contain a range of information about individuals, including convictions and cautions for minor offences as well as information going beyond the formal particulars of convictions but which might nonetheless be of legitimate interest to those considering employing individuals for particularly sensitive posts.
+Para 30 of the White Paper was in these terms: After very careful consideration the Government has concluded that it is right for such information to continue to be disclosed where there are particularly strong grounds for it, such as to combat the risk of paedophile infiltration of child care organisations.
+It accepts that stricter guidelines on what may be disclosed would provide reassurance to those subject to checking in this way and that they should normally be able to see any information of this kind which may be made available on them.
+Part V of the 1997 Act provided for the issue of three types of certificates.
+Section 112 dealt with the issue of a criminal conviction certificate.
+This is a certificate which gives prescribed details of every conviction of the applicant which is recorded on central records, or states that there is no such conviction.
+Section 113 dealt with the issue of a criminal record certificate.
+This is a certificate which gives the prescribed details of every conviction within the meaning of the Rehabilitation of Offenders Act 1974 and a caution, or states that there is no such matter.
+A certificate of this kind may only be issued where the application is countersigned by a registered person and is accompanied by a statement by that person that the information is required for a question in relation to which section 4(2)(a) or (b) of the Rehabilitation of Offenders Act 1974 has been excluded by an order of the Secretary of State.
+Section 115 dealt with the issue of an enhanced criminal record certificate.
+Sections 113 and 115 were repealed with effect from 6 April 2006 and replaced by sections 113A and 113B, inserted in the 1997 Act by section 163(2) of the Serious Organised Crime and Police Act 2005.
+This case concerns an ECRC that was issued under section 115 before it was repealed.
+To avoid confusion I shall concentrate on the wording of that section.
+Section 115, as amended by the Criminal Justice Act 2003 and so far as material for present purposes, provided: (1) The Secretary of State shall issue an enhanced criminal record certificate to any individual who (a) makes an application under this section in the prescribed manner and form countersigned by a registered person (2) An application under this section must be accompanied by a statement by the registered person that the certificate is required for the purposes of an exempted question asked (a) in the course of considering the applicants suitability for a position (whether paid or unpaid) within subsection (3) or (4), or (b) for a purpose relating to any of the matters listed in subsection (5) (3) A position is within this subsection if it involves regularly caring for, training, supervising or being in sole charge of persons aged under 18. (4) A position is within this subsection if (a) it is of a kind specified in regulations made by the Secretary of State, and (b) it involves regularly caring for, training, supervising or being in sole charge of persons aged 18 or over.
+In subsection (5) a list was given of applications for various gaming and lotteries licences, for registration for child minding or providing day care and the placing of children with foster parents.
+This list has been extended by subsequent amendments to include, among others, applications for registration as a social worker or a social service worker and registration as a teacher under section 3 of the Teaching and Higher Education Act 1998.
+Section 115(10) provided that the expressions central records, exempted question and relevant matter had the same meaning as in section 113, subsection (5) of which was in these terms:
+Sections 115(6) and 115(7) provided as follows: In this section central records means such records of convictions and cautions held for the use of police forces generally as may be prescribed; exempted question means a question in relation to which section 4(2)(a) or (b) of the Rehabilitation of Offenders Act 1974 (effect of rehabilitation) has been excluded by an order of the Secretary of State under section 4(4); relevant matter means (i) the the meaning of a conviction within Rehabilitation of Offenders Act 1974, including a spent conviction, and a caution. (ii) (6) An enhanced criminal record certificate is a certificate which gives (a) (i) the prescribed details of every relevant matter relating to the applicant which is recorded in central records, and (ii) any information provided in accordance with subsection (7), or states that there is no such matter or information. (b) (7) Before issuing an enhanced criminal record certificate the Secretary of State shall request the chief officer of every relevant police force to provide any information which, in the chief officers opinion (a) might be relevant for the purpose described in the statement under subsection (2), and (b) ought to be included in the certificate.
+These provisions have been re enacted in virtually the same terms by sections 113B(3) and 113B(4) which were inserted into the 1997 Act by section 163(2) of the Serious Organised Crime and Police Act 2005.
+Section 124 provides that it is an offence for information provided for criminal record checks and enhanced criminal record checks to be disclosed by members and staff of registered bodies and by members and staff of unregistered bodies and individuals and their employees who receive the information following an application which those bodies or individuals have countersigned, unless the disclosure is made in the course of their duties for the purposes authorised by that section.
+The facts
+The appellant L is the mother of X who was born on 21 April 1989.
+He has a much older sister.
+The family has come to the attention of both the police and social services.
+Due to concerns about X the local authority arranged a child protection conference which took place on 29 January 2002.
+At that time X was living with his father and not with the appellant.
+At that conference a number of concerns were expressed about Xs behaviour.
+The social worker reported concerns that X might be exposed to drugs and that the appellant was not prepared to work with social services.
+She said that the general view of all the professionals was that X was at risk within his family because the appellant had very little control of his behaviour and knowledge of his whereabouts for the large part of the day.
+The conference also received detailed reports from his school of his poor attendance and his poor behaviour at school.
+It was told that he was currently excluded from school for having assaulted his learning support teacher.
+The police child protection officer said that there had been a lot of police involvement with X due to his offending and because he had been reported missing on numerous occasions by the appellant.
+The police felt that many of the issues stemmed from Xs older sister Y who was involved in drugs and prostitution, as X was a frequent visitor to Ys home.
+As for the appellants contribution to the discussion, the minutes recorded that she refused to accept that Xs behaviour was a concern and targeted the social worker as the cause of all her problems.
+The decision of the conference was that Xs name should be placed on the child protection register, under the category of neglect.
+The conference made fourteen recommendations for further action by the authorities, most of which were not implemented.
+A review conference took place on 26 April 2002, and on 22 November 2002 there was a second review conference.
+Further recommendations were made, again mostly not implemented, and it was confirmed that X should remain on the child protection register.
+It was noted at the conference on 22 November 2002 that X was assaulted by his father on 25 September 2002 and that he had returned to live with the appellant.
+On 27 September 2002 he was arrested for a robbery that was carried out on 12 September 2002.
+He was charged with this offence on 2 October 2002, and on 31 March 2003 he was convicted and sentenced to three years detention in a young offender institution.
+In June 2003 his name was removed from the child protection register as he was in detention.
+He was released on 28 February 2004.
+From February to December 2004 the appellant was employed by an employment agency, Client Services Education, which provides staff to schools.
+Between March and July 2004 she worked as a midday assistant at a secondary school.
+Her job involved supervising children in the lunchtime break both in the canteen and in the playground.
+She was required to ensure that the children did not go outside the school gates, hurt themselves and get into fights.
+She shared these responsibilities with four other assistants.
+At the start of her employment the agency applied for an ECRC in accordance with section 115 of the 1997 Act.
+The application was countersigned by Isabelle Logerot of the Registered Body Education (Waltham Forest Ltd), which was the registered person for the purposes of that section.
+The position that the appellant had applied for was described in the application as a casual midday assistant.
+The police were not given any other details about the work that this post would involve.
+The appellant signed the application to indicate her consent.
+Having done so, she returned it to the agency so that they could apply for the police check.
+On 16 December 2004 the ECRC was issued in response to the police check.
+It recorded that the appellant had no criminal convictions and that no information on her was recorded either on the list held under section 142 of the Education Act 2002 or on the Protection of Children Act 1999 list.
+But in the box entitled Other relevant information disclosed at the Chief Police Officers discretion the Secretary of State disclosed the following information as having been supplied by the Metropolitan Police Service: [L], born [date], came to police notice in January 2002 when her son, aged 13, was put on the child protection register under the category of neglect.
+It was alleged that the applicant had failed to exercise the required degree of care and supervision in that her son was constantly engaged in activities including shoplifting, failing to attend school, going missing from home, assaulting a teacher at school and was excluded from school.
+Additionally, it was alleged that during this period the applicant had refused to co operate with the social services.
+Her son was removed from the child protection register in June 2003 after he had been found guilty of robbery and receiving a custodial sentence.
+Shortly afterwards the appellant was informed by the agency that her services were no longer required.
+The appellant then sought judicial review of the Commissioners decision to disclose the information contained in the ECRC.
+Her application was dismissed by Munby J on 19 March 2006: [2006] EWHC 482.
+The Court of Appeal granted leave to appeal on 14 July 2006, and on 21 August 2006 the Secretary of State made an application to intervene which was granted on 18 September 2006.
+On 1 March 2007 the Court of Appeal (Longmore, Smith and Moore Bick LJJ) dismissed the appeal: [2008] 1 WLR 681.
+On 5 March 2008 the appellants solicitors wrote to the Commissioner to enquire whether he would consider removing the records which were the subject of the appeal from the information held by the Criminal Records Bureau.
+The Commissioner replied on 13 March 2008 in these terms: We have only one record of an application from your client and that was in 2004.
+The disclosure that was made then will be made in the future if she applies for a job that requires a CRB enhanced criminal record certificate.
+The disclosure could only change if new information concerning your client came to light.
+We cannot accede to your request to remove the information we hold in our records.
+I accept that the nature of the disclosure effectively cuts your client off from working with children and vulnerable adults, but this does not necessarily affect her employment prospects.
+The vast majority of jobs available do not require enhanced disclosure.
+The issue
+As the appellants exchange of correspondence with the Commissioner shows, the current approach to the disclosure follows the guidance that was given in R (X) v Chief Constable of the West Midlands Police [2005] 1 WLR 65.
+It gives priority to the interests of children and vulnerable adults.
+The appellants complaint is that it gives insufficient weight to the interests of the applicant, for whom disclosure will not infrequently lead to loss of employment and to long term inability to work in any form of employment involving care for or contact with children or vulnerable adults.
+The reality will often be, as Baroness Hale of Richmond said in R (Wright) and others v Secretary of State for Health [2009] UKHL 3; [2009] 2 WLR 267, para 22, that the particular job will be lost to the applicant for good and that she will be most unlikely to be able to obtain any other job of that kind.
+The way the system is operated ensures that the same information will always be disclosed whenever she applies for one.
+This has all the hallmarks of a rather rigid, mechanistic system, that pays too little attention to the effects of disclosure on the applicant.
+In R (Wright) and others v Secretary of State for Health the statutory provisions that were under scrutiny related to a list, known as the POVA list, which the Secretary of State was required to keep of persons who were considered unsuitable to work with vulnerable adults under section 81 of the Care Standards Act 2000.
+If a care workers case was referred to the Secretary of State together with information from which it appeared that it might be appropriate for her to be included on that list, the Secretary of State was required by section 82(4)(b) of the Act to include her name on the list provisionally pending the determination of the reference.
+The effect of listing was to prevent any new employer from employing the listed person in a care position or to deprive her of such a position if she already had one.
+By reason of section 92 of the Act the worker was also listed provisionally on the list, known as the POCA list, of persons considered to be unsuitable to work with children.
+No provision was made for the worker to be accorded a hearing before she was provisionally listed, and once the worker was provisionally listed it could take months before a decision whether or not to confirm that person on the list was made.
+The result was that the care worker might suffer irreversible damage to her right to work in her chosen profession, as a result of allegations which might turn out to be unfounded or at the very least blown out of all proportion.
+The House held that the denial of an opportunity to make representations before her name was included in the list was incompatible with the care workers rights under article 6(1).
+It also held that the low threshold for provisional listing was a disproportionate interference with her article 8 rights.
+Baroness Hale explained the basis for this finding in para 36: There will be some people for whom the impact upon personal relationships is so great as to constitute an interference with the right to respect for private life and others for whom it may not.
+The scope of the ban is very wide, bearing in mind that the worker is placed on both the POVA and POCA lists.
+The ban is also likely to have an effect in practice going beyond its effect in law.
+Even though the lists are not made public, the fact is likely to get about and the stigma will be considerable.
+The scheme must therefore be devised in such a way as to prevent possible breaches of the article 8 rights.
+A declaration was made that section 82(4)(b) was incompatible with the appellants rights under article 6 and article 8 of the Convention.
+The appellant does not suggest that her rights under article 6(1) are in issue in this case.
+The scheme that section 115 of the 1997 Act provides for is not directly comparable with that under the 2000 Act.
+Unlike the scheme for provisional listing under the 2000 Act, the provision of information in an ECRC does not automatically lead to the loss or denial of employment.
+The issue as to its effect is left to the judgment of the employer.
+The statute does not prevent the applicant from making representations at any stage to the police or to a prospective employer.
+Section 117 provides that an applicant who believes that the information contained in a certificate is inaccurate may make an application in writing to the Secretary of State for a new certificate.
+Nevertheless she submits that, for the same reasons that provisional listing under the scheme established under the Care Standards Act 2000 was capable of causing a breach of article 8 rights, so too is disclosure of information about an applicant on an ECRC.
+As Mr Cragg put it, the state has a duty to provide a scheme which complies with article 8(2).
+Section 115 was enacted for a legitimate purpose.
+But he submitted that, as currently interpreted, it is not a measure which can be regarded as proportionate.
+The threshold for disclosure is too low, the description of the information that can be disclosed is too broad and there are insufficient protections in the scheme.
+Article 8(1)
+Article 8(1) provides that everyone has the right to respect for his private life, his home and his correspondence.
+The right that the appellant invokes in this case is her right to respect for her private life.
+Ms Barton for the Commissioner submitted that the appellants rights under article 8 were not engaged at all by the scheme that section 115 sets out.
+This was because much of the information that was included in an ECRC was quite properly in the public domain anyway, and because it was the appellant herself who had applied for the certificate.
+Mr Eadie QC for the Secretary of State adopted a more nuanced approach to these issues.
+He said that the answer to the question whether there was an interference with the applicants article 8 rights had to take account of the fact that the system was not dealing wholly with the private sphere and of the nature and type of the information that was made available.
+He did not suggest that the applicants consent on its own provided an answer to it.
+But account had to be taken of the fact that the regime left it to the police to judge what was relevant, that the final decision on relevance was left to the employer, that the system was less draconian than that which was under consideration in R (Wright) and others v Secretary of State for Health and that there were strict controls on what could be done with the information in the hands of the employer as further disclosure was prohibited.
+The word engaged, which Ms Barton used when she said that article 8 was not engaged in this case at all, requires to be examined with some care.
+It does not form part of the vocabulary of the European Court and, as Laws LJ said in Sheffield City Council v Smart [2002] EWCA Civ 04, [2002] HLR 639, para 22, its use is liable to be misleading and unhelpful.
+In Harrow London Borough Council v Qazi [2003] UKHL 43, [2004] 1 AC 983, para 47 I said that I would not for my part regard its use as objectionable, so long as there was no doubt what it means in this context.
+I drew attention to the words of Sir Gerald Fitzmaurice in his dissenting opinion in Marckx v Belgium (1979) 2 EHRR 330, in which he said that the question was whether the provision was applicable a concept which is juridically distinct from that of whether the provision has been breached.
+In other words, the question is whether the issue that has been raised is within the scope of the article.
+If it is not within its scope, the question of a possible breach of it does not arise at all.
+If it is, the question whether there is an interference with it which requires to be justified under article 8(2) is a separate question.
+The question whether something falls within the ambit of any of the rights or freedoms set forth in the Convention for the purpose of the prohibition of discrimination in article 14 reflects this approach.
+The issue as to what does and does not lie within the scope of the article 8 right to respect for private life has been examined in some detail in R (Wright) v Secretary of State for Health, paras 30 32 and in In re British Broadcasting Corporation [2009] UKHL 34, [2009] 3 WLR 142, paras 18 20.
+In the context of this case it is sufficient to note that it has been recognised that respect for private life comprises, to a certain degree, the right to establish and develop relationships with other human beings: X v Iceland (1976) 5 DR 86; Niemietz v Germany (1992) 16 EHRR 97, para 29.
+Excluding a person from employment in her chosen field is liable to affect her ability to develop relationships with others, and the problems that this creates as regards the possibility of earning a living can have serious repercussions on the enjoyment of her private life: see Sidabras v Lithuania (2004) 42 EHRR 104, para 48.
+She is entitled also to have her good name and reputation protected: see Turek v Slovakia (2006) 44 EHRR 861, para 109.
+As Baroness Hale said in R (Wright) v Secretary of State for Health, para 36, the fact that a person has been excluded from employment is likely to get about and, if it does, the stigma will be considerable.
+There is another aspect of the right to respect for private life that needs to be brought into account, as it is directly relevant to the effect on a persons private life of the release of information about him that is stored in public records.
+In R v Chief Constable of the North Wales Police, Ex p AB [1999] QB 396 Lord Bingham of Cornhill CJ said in the Divisional Court that he was prepared to accept (without deciding) that disclosure of personal information that the applicants wished to keep to themselves could in principle amount to an interference with the right protected by article 8: [1999] QB 396, 414.
+At p 416 Buxton J put the point more strongly when he said: I do however consider that a wish that certain facts in ones past, however notorious at the time, should remain in that past is an aspect of the subjects private life sufficient at least to raise questions under article 8 of the Convention.
+Buxton Js observations were endorsed by Lord Woolf MR, delivering the judgment of the Court of Appeal: [1999] QB 396, 429.
+The Convention was not, of course, then part of domestic law and Buxton Js observations in Ex p AB were not supported by reference to any decisions in Strasbourg.
+But subsequent decisions by the European Court do, I think, provide support for them.
+In Rotaru v Romania, (2000) 8 BHRC 449 Application no 28341/95, 4 May 2000, the applicant who was a lawyer by profession complained of a violation of his right to respect for his private life on account of the use against him by the Romanian Intelligence Service of a file which contained information about his conviction for insulting behaviour because, when he was a student, he had written two letters of protest against the abolition of freedom of expression when the communist regime was established in 1946.
+In para 43 the court, referring to its judgment in Leander v Sweden (1987) 9 EHRR 433, para 48, said that the storing of information relating to an individuals private life in a secret register and the release of such information come within the scope of article 8(1): Moreover, public information can fall within the scope of private life where it is systematically collected and stored in files held by the authorities.
+This is all the truer where such information concerns a persons distant past.
+In Segerstedt Wiberg and others v Sweden, Application no 62332/00, 6 June 2006, para 72 and Cemalettin Canli v Turkey, Application no 22427/04, 18 November 2008, para 33, referring to its previous decision in Rotaru, the court again said that public information can fall within the scope of private life when it is systematically collected and stored in files held by the authorities.
+This line of authority from Strasbourg shows that information about an applicants convictions which is collected and stored in central records can fall within the scope of private life within the meaning of article 8(1), with the result that it will interfere with the applicants private life when it is released.
+It is, in one sense, public information because the convictions took place in public.
+But the systematic storing of this information in central records means that it is available for disclosure under Part V of the 1997 Act long after the event when everyone other than the person concerned is likely to have forgotten about it.
+As it recedes into the past, it becomes a part of the persons private life which must be respected.
+Moreover, much of the other information that may find its way into an ECRC relates to things that happen behind closed doors.
+A caution takes place in private, and the police gather and record information from a variety of sources which would not otherwise be made public.
+It may include allegations of criminal behaviour for which there was insufficient evidence to prosecute, as in R v Local Authority and Police Authority in the Midlands, Ex p LM [2000] 1 FLR 612 where the allegations of child sexual abuse were unsubstantiated.
+It may even disclose something that could not be described as criminal behaviour at all.
+The information that was disclosed on the appellants ECRC was of that kind.
+The ECRC disclosed that the appellants son X was put on the child protection register and that he was removed from it after he had been found guilty of robbery and received a custodial sentence.
+His conviction could be seen as public information because his trial was held in public.
+But the fact that the appellant was the mother of the person who had been convicted and sentenced to detention was private information.
+So too was information about the proceedings in which it was alleged that she failed to exercise the required degree of care and supervision of her son and that she had refused to co operate with the social services.
+They were recorded in the minutes of the child protection conference on 29 January 2002.
+But the conference did not take place in public, nor were the minutes open to public scrutiny.
+These were aspects of her private life which had to be respected when the decision was taken as to whether or not details
+which had been stored in the police files should be released
+For these reasons I would reject Ms Bartons submission that article 8(1) is not engaged in this case.
+It seems to me that the decisions which the chief officer of police is required to take by section 115(7) of the 1997 Act are likely to fall within the scope of article 8(1) in every case, as the information which he is considering has been stored in files held by the police.
+It follows that its disclosure is likely to affect the private life of the applicant in virtually every case.
+The question in these cases will be whether the interference with her private life can be justified.
+How the system works in practice
+The evidence that was before the judge included statements by Detective Chief Inspector Stuart Gibson and by Chief Superintendent Graham Morris.
+The notes on the relevant case management system (known as CEC) attached to DCI Gibsons statement show that information that the police held in the appellants case was passed to him by a team leader at the end of September 2004 so that he could make a recommendation as to whether any of its contents should be included in the ECRC.
+He had available to him notes of guidance as to the approach which he was expected to follow.
+Among other things such as the quality and age of the information, he was expected to have regard to human rights issues.
+For this purpose he had available to him the guidance that was given in a document headed MP9 Human Rights Guidelines.
+MP9 sets out the steps that the police officer is expected to take to establish whether or not he believes that the impact of disclosure on the applicants private life outweighs the potential impact on the vulnerable group if the information was not disclosed.
+Those steps are the subject of a risk/human rights rating table, in which four human rights categories are compared with three risk categories.
+The human rights categories are graded according to the extent to which disclosure would cause disruption to the private life of the applicant or a third party: none, little, moderate or severe.
+The risk categories are graded according to the degree of risk that failure to disclose would cause to the vulnerable group: severe, moderate or little.
+The first task is to determine the human rights category of the statement that is being considered for disclosure.
+The second is to determine its risk category.
+The third and crucial stage is to check the content of the cell on the table which forms the intersection of the risk and human rights categories.
+These cells contain either a tick, which indicates that in such a case the information will always be disclosed, or the words carefully consider which indicate that careful consideration is needed to ensure that the rationale for disclosure makes it very clear why the human rights infringement outweighs the risk posed to the vulnerable group.
+A striking feature of the rating table is that a tick appears in every cell where it is said that a failure to disclose would cause a severe risk to the vulnerable intersects with a human rights category, however severe the disruption that disclosure in that category would cause to the private life of anyone.
+Where the risk that a failure to disclose would cause is moderate, careful consideration is only required if the disruption to the private life of anyone would be one grade higher: severe.
+It is only where the risk that a failure to disclose would cause little quantifiable risk to the vulnerable group that careful consideration is required if the corresponding human rights category of little disruption to private life applies.
+In all other cases the corresponding human rights category is trumped by an equivalent risk category.
+On 30 November 2004 DCI Gibson wrote a minute to Det.Supt.
+Morris (as he then was) on the CEC notes informing him that, having considered what he described as a mountain of information a large part of which was rumour, conjecture and uncorroborated allegations, the only part of it that he considered it safe to disclose was that surrounding the appellants son being the subject of inclusion on the child protection register under the category of neglect.
+He said that he considered this to be highly relevant as the appellant had consistently displayed a lack of ability to adequately care for and supervise her own child and the registered body should be made aware of her history when considering her employment application.
+On 2 December 2004 Det.Supt.
+Morris entered a minute on the CEC agreeing with DCI Gibson.
+It included the following determination of the human rights issue: The HRA requires a balance to be struck between the right to private life and protecting the vulnerable from moral harm, mental or physical abuse.
+While individuals should not be at the risk of being for ever hounded, if a person chooses to seek this kind of employment then they put themselves forward into public life and by that choice accept that information may be released.
+The impact of disclosure may result in his not being employed.
+While it would not be in societys interest to exclude an applicant from employment, social outlets, etc as this may be a moderating factor on behaviour, the welfare of the vulnerable in respect of whom the risk may exist is of paramount importance, as is their rights that legislation seeks to protect.
+The decision is one for police and there is no presumption against disclosure, the position is more in favour of disclosure unless there is a good reason for not doing so. (X v WM)
+It is plain, both from the terms of Det.Supt.
+Morriss minute and the way the rating table is set out, that the treatment of the human rights issue by the police has been closely modelled on what Lord Woolf CJ said in R (X) v Chief Constable of the West Midlands Police [2005] 1 WLR 65.
+This impression is reinforced by the approach to this issue of the Home Office circular 5/2005 Criminal Records Bureau: Local Checks by Police Forces.
+In para 6 it states that a decision on whether information should be disclosed will turn to a large extent on considerations of relevancy, although other facts need to be weighed too, in particular whether the nature of the information and its degree of relevance to the case in hand are such that its disclosure would be reasonable and proportionate, having regard to the applicants right to respect for his or her private life.
+Para 55 states, under the heading Case Law, that forces and their solicitors will be aware of the Court of Appeals judgment in that case.
+So it is now necessary to look more closely at that case, and to consider whether the Court of Appeal struck the balance in the right place as proportionality requires if section 115(7) is to be applied compatibly with article 8.
+R (X) v Chief Constable of the West Midlands Police
+This was a case where a man who applied for a job as a social worker had no previous convictions.
+He had been charged with indecent exposure, but the proceedings were discontinued when the alleged victim failed to identify him.
+The social work agency which was dealing with his job application applied for an ECRC.
+The Chief Constable, as he was required to do, issued an ECRC to the agency relating to the applicant.
+It contained details of the allegations of indecent exposure under the heading of other relevant information.
+When the Chief Constables decision to disclose this information came before him for judicial review, Wall J held that the duty to act fairly required the Chief Constable to permit the claimant to make representations as to what was proposed to be disclosed and that, on the facts, there had not been a pressing need for disclosure: [2004] EWHC 61 (Admin), [2004] 1 WLR 1518.
+Wall J referred in paras 71 to 80 of his judgment to what was said R v Chief Constable of the North Wales Police, Ex p AB [1999] QB 396 by Lord Bingham of Cornhill CJ in the Divisional Court where at p 410 he stressed the importance of considering each case carefully on its own facts and by Lord Woolf MR in the Court of Appeal where at p 428 he too said that each case must be judged on its own facts.
+He referred also to Dyson Js judgment in R v Local Authority and Police Authority in the Midlands, Ex p LM [2000] 1 FLR 612 in which the approach that was to be taken to section 115(7) of the 1997 Act was directly in issue, where he said at p 622: In my view, the guiding principles for the exercise of the power to disclose in the present case are those enunciated in R v Chief Constable of the North Wales Police, Ex p AB.
+Each of the respondent authorities had to consider the case on its own facts.
+A blanket approach was impermissible.
+Having regard to the sensitivity of the issues raised by the allegations of sexual impropriety made against LM, disclosure should only be made if there is a pressing need.
+Disclosure should be the exception, and not the rule.
+In para 84 Wall J said that, while section 115(7) defined the parameters of the Chief Constables discretion, it did not exclude the operation of the common law principles as to its exercise.
+In para 85 he said that, as all parties in those proceedings accepted, the discretion must also be exercised in compliance with article 8(2) of the Convention and that it seemed to him to be only a very short step to an acceptance that the common law principles set out in Ex p AB as accepted by Dyson J in Ex p LM also applied.
+In para 89 he said: The disclosure of information which (as here) has not been the subject of judicial adjudication, which is highly contentious and which, if disclosed is likely to render the claimant permanently unemployable in his chosen profession plainly requires what the European court described as a pressing need to made disclosure appropriate.
+In para 90, however, he accepted that the need to protect children and vulnerable adults from abuse by those employed to care for them is a pressing social need and in para 91, having noted that it was at least highly arguable that the effect of section 115(7) was to displace the common law presumption against disclosure, he said that he proposed to approach the question on the basis that there was no presumption against disclosure and that the circumstances identified in section 115(7) did identify a pressing need: As will become apparent, however, this does not mean that disclosure of additional, non conviction information under section 115 is automatic, or that it is not surrounded by the stringent conditions of natural justice and procedural fairness.
+He held that there had been no proper assessment of the effect on the claimant of disclosure being given, and that the information ought not to have been disclosed.
+Wall Js decision was reversed in the Court of Appeal: [2005] 1 WLR 65.
+In para 36 Lord Woolf CJ said that the position was more in favour of disclosure than Wall J had indicated: Having regard to the language of section 115, the Chief Constable was under a duty to disclose if the information might be relevant, unless there was some good reason for not making such a disclosure.
+In para 37, as I noted in para 2 above, he then added these words: This was obviously required by Parliament because it was important (for the protection of children and vulnerable adults) that the information should be disclosed even if it only might be true.
+If it might be true, the person who was proposing to employ the claimant should be entitled to take it into account before the decision was made as to whether or not to employ the claimant.
+This was the policy of the legislation in order to serve a pressing social need.
+In my judgment it imposes too heavy an obligation on the Chief Constable to require him to give an opportunity for a person to make representations prior to the Chief Constable performing his statutory duty of disclosure.
+In para 41 he considered the effect of article 8(2), on the assumption that article 8 had a role to play in the decision of the Chief Constable: on that assumption, how can the Chief Constables decision to disclose be challenged under article 8.
+As already indicated, the Chief Constable starts off with the advantage that his statutory role is not in conflict with article 8, because the statute meets the requirements of article 8(2).
+It follows also, that as long as the Chief Constable was entitled to form the opinion that the information disclosed might be relevant, then absent any untoward circumstance which is not present here, it is difficult to see that there can be any reason why the information that might be relevant, ought not to be included in the certificate.
+I accept that it is possible that there could be cases where the information should not be included in the certificate because it is disproportionate to do so; the information might be as to some trifling matter; it may be that the evidence made it so unlikely that the information was correct, that it again would be disproportionate to disclose it.
+These were not, in my judgment, the situations on the facts before the Chief Constable.
+It is plain that the effect of this approach is to encourage disclosure of any information that might be relevant, and to give priority to the social need that favours disclosure over respect for the private life of the applicant and of any third party who may be affected by the disclosure.
+It was also a significant departure from the way the White Paper envisaged the scheme would be operated: see para 5, above.
+Discussion
+Section 115(7) requires the Chief Constable to form an opinion as to whether any information (a) might be relevant for the purpose described in the statement under subsection (2), and (b) ought to be included in the certificate.
+The question whether the information is relevant will depend on the facts of the case.
+As Richards LJ said in R (Pinnington) v Chief Constable of Thames Valley Police [2008] EWHC 1870 (Admin), para 47, by the terms of the statute it is for the chief constable or his delegate to form an opinion on that issue.
+In forming his opinion on relevance, the officer must ask himself whether the information might be true, and if it might be true he must consider the degree of connection between the information and the purpose described.
+It has not been suggested that DCI Gibson and Det.Supt.
+Morris, who undertook their task with commendable care, were not entitled to conclude that the information that was disclosed on the appellants ECRC might be relevant for the purpose disclosed in the statement that the employment agency provided under section 115(2).
+The question whether the information might be relevant is not, however, the end of the matter.
+An opinion must also be formed as to whether it ought to be included in the certificate.
+It is here, as the guidance that is available to the police correctly recognises, that attention must be given to the impact that disclosure may have on the private lives of the applicant and of any third party who is referred to in the information.
+For the reasons I have already given (see paras 22 29), I consider that the decisions which the chief officer of police is required to take by section 115(7) of the 1997 Act will fall within the scope of article 8(1) in every case.
+So in every case he must consider whether there is likely to be an interference with the applicants private life, and if so whether that interference can be justified.
+This raises the question whether in R (X) v Chief Constable of the West Midlands Police [2005] 1 WLR 65, paras 36 and 37 and especially in para 41, Lord Woolf CJ struck the balance in the right place.
+Before he addressed himself to this issue, however, Lord Woolf noted in para 20 of the judgment that it had not been suggested in that case that the legislation itself contravenes article 8: No doubt this is because disclosure of the information contained in the certificate would be in accordance with the law and necessary in a democratic society, in the interests of public safety and for the prevention of crime and for the protection of the rights and freedoms of others.
+This country must, through its legislature, be entitled to enable information to be available to prospective employers, where the nature of the employment means that particular care should be taken to ensure that those who are working with the appropriate categories of persons can be relied on to do so, without those in their care coming to harm if they are under the age of 18 or vulnerable adults.
+I would respectfully endorse those remarks.
+Here too it was not suggested by Mr Cragg that the legislation itself contravened article 8, so long as it was interpreted and applied in a way that was proportionate.
+So the issue is essentially one of proportionality.
+On the one hand there is a pressing social need that children and vulnerable adults should be protected against the risk of harm.
+On the other there is the applicants right to respect for her private life.
+It is of the greatest importance that the balance between these two considerations is struck in the right place.
+As the many additions that have been made to the list of matters in section 115(5) show, the use that is being made of the requirement to obtain an ECRC has increased substantially since the scheme was first devised.
+The number of disclosures of information by means of ECRCs has exceeded 200,000 for each of the last two years (215,640 for 2007/2008; 274,877 for 2008/2009).
+Not far short of ten per cent of these disclosures have had section 115(7) information on them (17,560 for 2007/2008; 21,045 for 2008/2009).
+Increasing use of this procedure, and the effects of the release of sensitive information of this kind on the applicants opportunities for employment or engaging in unpaid work in the community and their ability to establish and develop relations with others, is a cause of very real public concern as the written intervention submitted by Liberty indicates.
+As Liberty also point out, it is no answer to these concerns that the ECRC is issued on the application of the persons concerned.
+It is true that they can choose not to apply for a position of the kind that requires such a certificate.
+But they have, in reality no free choice in the matter if an employer in their chosen profession insists, as he is entitled to, on an ECRC.
+The answer to the question whether there is any relevant information is likely to determine the outcome of their job application.
+If relevant information is disclosed they may as a result be cut off from work for which they have considerable training and experience.
+In some cases they could be excluded permanently from the only work which is likely to be available to them.
+They consent to the application, but only on the basis that their right to private life is respected.
+In my opinion the effect of the approach that was taken to this issue in R (X) v Chief Constable of the West Midlands Police has been to tilt the balance against the applicant too far.
+It has encouraged the idea that priority must be given to the social need to protect the vulnerable as against the right to respect for private life of the applicant.
+This is clearly shown by the way the rating table in MP9 is constructed and by Det.Supt.
+Morriss minute of 2 December 2004.
+The words ought to be included in section 115(7)(b) require to be given much greater attention.
+They must be read and given effect in a way that is compatible with the applicants Convention right and that of any third party who may be affected by the disclosure: Human Rights Act 1998 Act, section 3(1).
+But in my opinion there is no need for those words to be read down or for words to be added in that are not there.
+All that is needed is to give those words their full weight, so that proper consideration is given to the applicants right to respect for her private life.
+The correct approach, as in other cases where competing Convention rights are in issue, is that neither consideration has precedence over the other: Campbell v MGN Ltd [2004 ] UKHL 22, [2004] 2 AC 457, para 12, per Lord Nicholls of Birkenhead.
+The rating table in MP9 should be restructured so that the precedence that is given to the risk that failure to disclose would cause to the vulnerable group is removed.
+It should indicate that careful consideration is required in all cases where the disruption to the private life of anyone is judged to be as great, or more so, as the risk of non disclosure to the vulnerable group.
+The advice that, where careful consideration is required, the rationale for disclosure should make it very clear why the human rights infringement outweighs the risk posed to the vulnerable group also needs to be reworded.
+It should no longer be assumed that the presumption is for disclosure unless there is a good reason for not doing so.
+In cases of doubt, especially where it is unclear whether the position for which the applicant is applying really does require the disclosure of sensitive information, where there is room for doubt as to whether an allegation of a sensitive kind could be substantiated or where the information may indicate a state of affairs that is out of date or no longer true, chief constables should offer the applicant an opportunity of making representations before the information is released.
+In R (X) v Chief Constable of the West Midlands Police Lord Woolf CJ rejected Wall Js suggestion that this should be done on the ground that this would impose too heavy an obligation on the Chief Constable [2005] 1 WLR 65, para 37.
+Here too I think, with respect, that he got the balance wrong.
+But it will not be necessary for this procedure to be undertaken in every case.
+It should only be resorted to where there is room for doubt as to whether there should be disclosure of information that is considered to be relevant.
+The risks in such cases of causing disproportionate harm to the applicant outweigh the inconvenience to the chief constable.
+Conclusion
+In my opinion it is possible for section 115(7) to be read and given effect in the way that I have indicated so that decisions are taken which are compatible with the applicants article 8 right.
+It must follow that it would not be appropriate for a declaration to be made under section 4 of the Human Rights Act 1998 that the subsection is incompatible.
+I would also decline the appellants request that the decision that was made in her case should be quashed.
+There is no doubt that the information that was disclosed about her was relevant for the purpose for which the ECRC was being required.
+As for the question whether it ought to have been disclosed, insufficient weight was given to the appellants right to respect for her private life.
+But there is no doubt that the facts that were narrated were true.
+It was also information that bore directly on the question whether she was a person who could safely be entrusted with the job of supervising children in a school canteen or in the playground.
+It was for the employer to decide what to make of this information, but it is not at all surprising that the decision was that her employment should be terminated.
+The consequences that disclosure will have for her private life are regrettable.
+But I can see no escape from the conclusion that the risk to the children must, in her case, be held to outweigh the prejudicial effects that disclosure will give rise to.
+I would dismiss the appeal.
+LORD SAVILLE
+reasons that he gives I would dismiss this appeal.
+I have had the advantage of reading in draft the judgment of Lord Hope.
+For the
+LORD SCOTT
+The appellant, L, is a lady who wanted to obtain employment in a school as a casual midday assistant.
+The duties associated with this position involved supervising the schoolchildren during the lunchtime break both in the school canteen and in the school playground.
+The appellant hoped to obtain this employment via an agency, Client Services Education (CSE), whose business was to provide staff to schools.
+For the purposes of furthering the prospects of her success in obtaining the desired employment she made an application for an enhanced criminal record certificate pursuant to section 115 of the Police Act 1997 (as amended).
+My noble and learned friend, Lord Hope, whose opinion on this appeal I have had the advantage of reading in draft, has explained in para 1 and paras 4 to 11 of his opinion the background to and the purpose of section 115 and has set out the terms of the section.
+I gratefully adopt what he has said and it suffices for present purposes for me to say that whereas a criminal record certificate gives details of any recorded convictions of the individual to whom the certificate relates, an enhanced criminal record certificate (an ECRC) gives, in addition, any information which in the opinion of the chief officer of the relevant police force might be relevant for the purpose described in the application for the certificate and ought to be included in the certificate (see section 115(7)).
+The chief officer is not expected to embark upon an investigatory inquiry regarding the individual in question but simply to consult the records maintained by the police.
+It is clear that additional information disclosed under subsection (7) in an ECRC may be information that does not involve any criminal behaviour on the part of the individual in question.
+It may, for example, as in the present case, relate to the relationship of the individual with some other person who does have a criminal record.
+In the previous paragraph I said that the appellant had made an application for an ECRC.
+In para 7 of the Statement of Facts and Issues, prepared for the purposes of this appeal and signed by the respective counsel for the appellant and the respondent, the Secretary of State, it is stated that the application was made by CSE.
+Lord Hope, in para 14 of his opinion, has repeated that it was CSE that applied for the ECRC.
+However, subsections (1) and (2) of section 115 seem to me to make it clear that an application for an ECRC must be made by the individual in question.
+Subsection (1) says that The Secretary of State shall issue an enhanced criminal record certificate to any individual who (a) makes an application under this section in the prescribed form countersigned by a registered person The registered person in the present case was CSE.
+Subsection (2) says that the application must be accompanied by a statement by the registered person that the certificate is required for the purposes of an exempted question asked (a) in the course of considering the applicants suitability for a position (whether paid or unpaid) within subsections (3) or (4) (emphasis added) Subsection (3) refers to a position which involves regularly supervising or being in sole charge of persons under 18.
+Subsection (3) clearly covers the position for which the appellant was hoping to be employed and it is she who must have been the applicant whose suitability was under consideration.
+The statutory obligation imposed on the Secretary of State by subsection (1) is an obligation to issue the ECRC to the individual who makes the application.
+Subsection (8) imposes a statutory obligation on the Secretary of State to send a copy of the ECRC to the registered person, CSE in the present case.
+I think, therefore, that it must be wrong to say that the application for the ECRC had been made by CSE.
+It must have been made by the appellant.
+It may be that not very much turns on this point for, as Lord Hope has pointed out, also in para 14, The appellant signed the application to indicate her consent.
+The ECRC issued in response to the application recorded that the appellant had no criminal convictions but under the heading other relevant information disclosed at the chief police officers discretion the Secretary of State included the details regarding the appellants 13 year old son that are recited by Lord Hope in para 15 of his opinion.
+It is plain that it was the chief police officers opinion that these details were relevant to the employment of the appellant as a casual midday assistant at a school and that they ought to be included in the certificate.
+The appellant has challenged the chief police officers decision to include the details in question in the certificate.
+The decision, it is submitted, violates her rights under article 8 of the European Convention on Human Rights.
+Article 8 entitles everyone to the right to respect for his or her private life.
+The ECRC, issued in response to the appellants application, undoubtedly contained details about her private life but these were details that, in my opinion, had a clear relevance to the suitability of the appellant to be employed in a capacity that involved the supervision of schoolchildren, whether in the school canteen or in the school playground.
+The only remaining question, in my opinion, is whether the decision of the chief police officer that the details ought to be included in the certificate is vulnerable to an article 8 attack.
+It would be easy to understand a complaint by the appellant of an article 8 breach of her right to respect for her private life if details with no arguable relevance to the employment position in question had been gratuitously included in the ECRC.
+But that is not the case here.
+Nor is it suggested that the compilation and retention by the police of the details in question constituted a breach of her article 8 rights.
+If the compilation and retention by the police of the details was unexceptionable and if it cannot be suggested that the details were irrelevant to the suitability of the appellant for the employment position for which she had applied, I find it difficult to see on what basis her attack on the inclusion of the details in the certificate could succeed.
+She does not say that they are untrue nor that they are irrelevant.
+She simply says, as I understand it, that the decision to include them in the certificate showed a lack of the respect for her private life to which she is entitled under article 8.
+It is at this point, as it seems to me, that it becomes necessary to remember that it was she who applied for the certificate.
+I do not doubt that the need for the certificate would have been impressed on her by CSE and that she would have realised that unless she agreed to make the application her chances of obtaining the employment position she desired would be reduced.
+She may or may not have had in mind the full implications of subsection (7) of section 115 and it would probably not have occurred to her that the history of her delinquent 13 year old son and her failure to have controlled his delinquency would be known to the police and might be considered relevant information.
+But it cannot, in my opinion, possibly be said that the police response showed a lack of respect for her private life.
+It was she who, in making the application for an ECRC, invited the exercise by the chief police officer of the statutory duty imposed by section 115(7).
+In para 43 of his opinion Lord Hope has commented that those in respect of whom an ECRC are sought consent to the application but only on the basis that their right to private life is respected.
+This proposition seems to me, with the greatest respect, to be an impossible one.
+The any information to which subsection (7) refers is almost bound to be information about private life.
+An application for subsection (7) information cannot be on the basis that no private information on the police files about the individual in question will be included in the certificate.
+If an application were ever made on that express basis it would rightly be rejected by the Secretary of State.
+If the private information is relevant and the decision that it ought to be included in the ECRC is a reasonable one, having regard to the reason why the certificate is being sought, there is, in my opinion, no objection to its inclusion that the applicant for the certificate can make.
+A decision reasonably reached that relevant information should be included in an ECRC cannot, in my opinion, be attacked by the applicant for the ECRC on the ground that the decision showed an article 8 lack of respect for his or her private life.
+It follows from what I have said that I would, for my part, endorse the approach taken by Lord Woolf CJ in R (X) v Chief Constable of the West Midlands Police [2005] 1WLR 65, referred to by Lord Hope in paragraphs 41 and 44 of his opinion.
+I agree that the approach accords priority to the social need to protect the vulnerable as against any article 8 rights the applicant for a section 115(7) ECRC may otherwise be entitled to.
+The applicant, by making the application, authorises the issue of the certificate in accordance with the criteria prescribed by paragraphs (a) and (b) of the subsection.
+If the decision of the chief police officer to include in the certificate the additional information is a decision which cannot be challenged as being unreasonable, having regard to the purpose described in the application (see section 115(7)), an article 8 challenge to the decision is not, in my opinion, open to the applicant.
+I would, therefore, dismiss this appeal.
+LORD BROWN
+I have had the advantage of reading in draft the opinions of Lord Hope and Lord Neuberger.
+I agree with both of them and there is really very little that it might be helpful to add.
+Instinctively though one rails against a nanny state, there are occasions when nannying is justified and section 115 (7) of the Police Act 1997 seems to me just such a case.
+As already comprehensively explained by my Lords, it provides a mechanism whereby those considering the employment of someone applying to work with children may be the better informed as to that persons suitability for the post more particularly as to whether there is anything known to the police about the person such as should give the prospective employer, at the very least, pause for thought.
+That said, there can be no doubting the impact an enhanced criminal record certificate (ECRC) containing any adverse information is likely to have on the persons prospects of obtaining the desired employment and it therefore seems to me imperative in every case to ensure that the public interest in safeguarding children really does justify the relevant disclosure.
+In short, I wholeheartedly concur with my Lords in concluding that the balance struck by the Court of Appeal in R (X) v Chief Constable of the West Midlands Police [2005] 1 WLR 65 needs to be re struck less unfavourably to the prospective employee.
+This is to be achieved in the first place by the chief officer of police giving no less weight to the section 115(7) (b) requirement that in his opinion the information ought to be included in the certificate than to the section 115(7)(a) requirement that he thinks it might be relevant (rather than presuming that any potentially relevant information should ordinarily be disclosed); and secondly by requiring the chief officer in any borderline case, before issuing the certificate, to give the prospective employee an opportunity to state why the information which the officer proposes disclosing ought not in fact to be disclosed.
+Lord Scott takes issue with Lord Hopes statement at para 43 of his opinion that applicants for ECRCs consent to the disclosure of relevant information about them but only on the basis that their right to private life is respected.
+Assuming, as I do, that all that Lord Hope means by this is that applicants are consenting to the disclosure of relevant information to the extent that this is proportionate to the damage this will cause to their interests in privacy but no more, it seems to me plainly right.
+As Lord Neuberger puts it at para 73 of his opinion, were it otherwise, legislation could all too easily be devised so as to circumvent Convention rights.
+The above criticisms of the existing approach to disclosure under section 115(7) notwithstanding, in common with all of my Lords I regard the position in the present case to be clear.
+The Commissioners decision to make the disputed disclosure here cannot in my opinion be criticised.
+The appeal must accordingly be dismissed.
+LORD NEUBERGER
+Lord Hope has clearly set out the legislative provisions and history, the factual and procedural background and the appellants contentions in paragraphs 4 to 21 of his judgment, and I gratefully adopt what he there says.
+The appellants contentions raise two principal issues.
+The first is whether the appellants complaint about the operation of section 115 of the Police Act 1997, as summarised by Lord Hope in paragraph 21, is one which properly falls within the reach of article 8 of the Convention, i.e. whether article 8 is engaged.
+The second issue, which only arises if the Article is engaged, is whether the operation of the section in a case such as the present infringes article 8.
+There is also a separate contention that the decision in this particular case should be quashed.
+As to the first issue, I am firmly of the view that article 8 is engaged in this case.
+An enhanced criminal record certificate (an ECRC) which contains particulars of any convictions (potentially including spent convictions) or cautions (under section 115(6)(a)(i) and 113(5) of the 1997 Act), or any other information which might be relevant and which ought to be included in the certificate (under section 115(6)(a)(ii) and 115(7) of the 1997 Act), will often have a highly significant effect on the applicant.
+In the light of the wide ambit of section 115 (extending as it does to social workers and teachers, as well as to those regularly caring for, training, supervising or being in sole charge of children), an adverse ECRC (i.e. an ECRC within section 115(6)(a), rather than section 115(6)(b)) will often effectively shut off forever all employment opportunities for the applicant in a large number of different fields, for the reasons given, in relation to other legislation, by Baroness Hale of Richmond in R (Wright) and others v Secretary of State for Health [2009] UKHL 3, [2009] 2 WLR 267, para 22.
+An ECRC must be sought for each job application, but, once an adverse ECRC has been issued in relation to one application, it is, in the absence of special factors, likely to be issued in the same terms in relation to all future applications for posts falling within the ambit of section 115.
+Even where the ECRC records a conviction (or caution) for a relatively minor, or questionably relevant, offence, a prospective employer may well feel it safer, particularly in the present culture, which, at least in its historical context, can be said to be unusually risk averse and judgmental, to reject the applicant.
+The same point applies to an ECRC which only contained material falling within section 115(6)(a)(ii) and (7), even where the chief officers opinion that the material should be included, while rational, was not one which many chief officers would have shared. (Having said that, there will no doubt be cases where the employer will conclude that the information in the adverse ECRC is irrelevant or has been satisfactorily explained or disposed of by the applicant, but such cases would, I suspect, be comparatively rare.)
+The view that this feature of the 1997 Act means that Article 8 is engaged derives support from Sidabras v Lithuania (2004) 42 EHRR 104, para 48.
+An applicants exclusion from a large sector of the job market (especially, it seems to me, a socially important and vocationally driven sector) will frequently have a significant effect on her private life, in terms of career satisfaction, development of personal relationships and ability to earn a living.
+No reason has been advanced for thinking that this does not apply to the appellant in the present case, and accordingly, unless there is any other reason for holding otherwise, it appears to me that article 8 is engaged here.
+Quite apart from this reason, while it may be said to be a little artificial to treat it as a separate reason, I consider that article 8 will, at least frequently, be engaged by an adverse ECRC, because it will involve the release of information about the applicant, which is stored on public records.
+Even where the information released in the ECRC is already in the public domain (as will be the case with almost all convictions), it seems to me that re publication of the information can often engage article 8: see, in the domestic context, R v Chief Constable of the North Wales Police ex p AB [1999] QB 396, 416 and 429 (per Buxton J in the Divisional Court and Lord Woolf MR in the Court of Appeal, respectively), and, in Strasbourg, Segerstedt Wiberg v Sweden Application No 62332/00, 6 June 2006, para 72, and Cemalettin Canli v Turkey, Application No 22427/04, 18 November 2008, para 33.
+Where the information, or a substantial part of the information, released in the ECRC is not in the public domain, as will very often be the position in relation to information falling within section 115(6)(a)(ii) and (7), the case for Article 8 engagement, as I see it, is self evidently even stronger see Leander v Sweden (1987) 9 EHRR 433, para 48, and Rotaru v Romania, Application no 28341/95, 8 BHRC 449 4 May 2000, para 43.
+In the present case, as Lord Hope has explained in para 28, the information contained in the ECRC pursuant to section 115(6)(a)(ii) and (7), in so far as it related to the appellant (as opposed to her son), was not publicly available and was not even based on events which had taken place in public.
+Accordingly, for this reason as well, it appears to me that, subject to any other argument raised to the contrary, article 8 is engaged in this case.
+Counsel for the Commissioner of Police argued that, despite this reasoning, article 8 was not engaged, because, under section 115(1)(a), an ECRC is issued only on the application of the applicant.
+The argument amounts to this, that a person cannot complain that disclosure of information about her infringes her article 8 rights where she has consented to the disclosure, and a fortiori where she has applied for the disclosure, as happened in this case, pursuant to section 115(1).
+I have no hesitation in rejecting this argument.
+Where the legislature imposes on a commonplace action or relationship, such as a job application or selection process, a statutory fetter, whose terms would normally engage a persons Convention right, it cannot avoid the engagement of the right by including in the fetters procedural provisions a term that the person must agree to those terms.
+Apart from this proposition being right in principle, it seems to me that, if it were otherwise, there would be an easy procedural device which the legislature could invoke in many cases to by pass Convention rights.
+I turn, then, to the second issue, namely, given that applicants article 8 rights are engaged in this case, do the provisions of section 115(6)(a)(ii) and (7) infringe those rights? This question raises a problem which the courts have not infrequently had to face since the Human Rights Act 1998 came into force.
+In order to protect the members of a particular group of people, Parliament has enacted legislation, the effect of which is to encroach on the Convention rights of members of another group.
+When, as in this case, a member of the latter group, who is adversely affected by the legislation, complains that her Convention rights have been infringed, the task of the court is to decide whether the legislation concerned has struck an appropriate balance between the interests of the two groups.
+When deciding whether the balance is appropriate, it is for the court to form its own judgment, but, in doing so, it should accord proper deference to the fact that the legislation represents the view of by the democratically elected legislature as to where the balance should be struck.
+In addition, the court is, of course, bound to try, if possible, to construe the legislation in such a way as to achieve compatibility with the Convention: a declaration of incompatibility is very much of a last resort.
+Part V of the 1997 Act has the unexceptionable aim of protecting vulnerable people (for present purposes children, but also, in certain circumstances, vulnerable adults), from being harmed by those working with them.
+It does so by requiring relevant information available to the police, about an applicant for a post involving responsibility for such vulnerable people, to be vouchsafed in an ECRC to the prospective employer.
+It is then for that employer to decide whether the information is relevant, and, if so, whether it justifies refusing to employ the applicant.
+As already mentioned, however, it seems to me realistic to assume that, in the majority of cases, it is likely that an adverse ECRC, i.e. one falling within section 115(6)(a), will represent something close to a killer blow to the hopes of a person who aspires to any post which falls within the scope of the section.
+Further, the vouchsafing of the information in an adverse ECRC will of itself normally (and where, as here, it is pursuant to section 115(6)(a)(ii), almost inevitably) impact on the applicants private life.
+Given that, in relation to children related posts, the section is limited to those seeking employment involving regular. responsibility for young people, I am prepared to proceed on the basis that there is nothing objectionable in the requirement that an ECRC must contain the information referred to in section 115(6)(a)(i), as expanded by the definition of relevant matter in section 113(5), even though it may on occasions be rather harsh on the applicant concerned.
+As Lord Woolf MR said in R(X) v Chief Constable of the West Midlands Police [2005] 1 WLR 65, para 20, Parliament must be entitled to enable information to be available to prospective employers, where the nature of the employment means that particular care should be taken to ensure that those who are working with the appropriate categories of persons can be relied on to do so .
+Whether as a result of a conviction or a caution (which involves the person concerned having admitted committing the offence in question), there can be little doubt that the information in question will be accurate, and will have been sufficiently grave as to amount to a crime.
+However, section 115(6)(a)(ii), as expanded by section 115(7)(a), requires the inclusion of a different category of material, which raises very different considerations.
+First, it may frequently extend to allegations of matters which are disputed by the applicant, or even to mere suspicions or hints of matters which are disputed by the applicant.
+Secondly, the threshold for inclusion in the ECRC is subjective and very low: information must be included in an ECRC if, in the opinion of the chief officer, it might be relevant.
+So, information would often properly fall within section 115(7)(a) if it was not in fact relevant, or was only very peripherally relevant, to the applicants suitability for the post in question.
+It could be information which would unfairly blacken her name, unjustly prejudice her prospects of obtaining the post or any other post for which an ECRC was required (e.g. a spent conviction for dishonesty), or simply embarrass her.
+In my view, if section 115(7)(a) was the sole criterion for the inclusion of information under section 115(6)(a)(ii), it would be impossible to justify.
+Although its general purpose, namely protection of vulnerable people from potential harm from those with posts involving responsibility for them, is unexceptionable, there would simply be insufficient, indeed effectively no real, countervailing protection for the article 8 rights of applicants for such posts.
+Although not on all fours with the facts in R (Wright) and others v Secretary of State for Health [2009] 2 WLR 267, I consider that the thrust of the reasoning in that case supports such a conclusion.
+There would be too many cases where the inclusion in an ECRC of material falling within section 115(7)(a) would represent an unwarranted invasion of an applicants article 8 rights for the statutory provisions to survive an incompatibility assault.
+However, the test for inclusion of material under section 115(6)(a)(ii) is not limited to paragraph (a) of section 115(7).
+Information cannot be included in an ECRC under section 115(6(a)(ii) unless it also satisfies paragraph (b).
+Section 115(7) sets out two requirements which are separate in principle, although they may well frequently involve overlapping factors in practice.
+The way section 115(7) is worded makes it quite clear that information can only be included in an ECRC under section 115(6)(a)(ii) if the chief officer considers both that (a) it might be relevant for the purposes of section 115(2), and that (b) it ought to be included in the certificate.
+Both requirements must be satisfied, and therefore both requirements must be separately considered by the chief officer.
+While paragraph (a) of section 115(7) sets a low hurdle for the inclusion of material under section 115(6)(a)(ii), indeed a hurdle which, if it were the sole hurdle, would be too low to satisfy the article 8 rights of applicants, paragraph (b) provides for the requisite balancing exercise that justifies the conclusion that there is no article 8 infringement.
+In other words, the legislation, through the medium of section 115(7)(b), rightly acknowledges that the relevant public authority, namely the chief officer, must balance the need to protect those vulnerable people whom an ECRC is designed to assist with the article 8 rights of those in respect of whom an ECRC is issued.
+Having decided that information might be relevant under section 115(7)(a), the chief officer then has to decide under section 115(7)(b) whether it ought to be included, and, in making that decision, there will often be a number of different, sometimes competing, factors to weigh up.
+Examples of factors which could often be relevant are the gravity of the material involved, the reliability of the information on which it is based, whether the applicant has had a chance to rebut the information, the relevance of the material to the particular job application, the period that has elapsed since the relevant events occurred, and the impact on the applicant of including the material in the ECRC, both in terms of her prospects of obtaining the post in question and more generally.
+In many cases, other factors may also come into play, and in other cases, it may be unnecessary or inappropriate to consider one or more of the factors I have mentioned.
+Thus, the material may be so obviously reliable, relevant and grave as to be disclosable however detrimental the consequential effect on the applicant.
+In a nutshell, as Lord Hope has said, the issue is essentially one of proportionality.
+In some, indeed possibly many, cases where the chief officer is minded to include material in an ECRC on the basis that he inclines to the view that it satisfies section 115(7)(b), he would, in my view, be obliged to contact the applicant to seek her views, and take what she says into account, before reaching a final conclusion.
+Otherwise, in such cases, the applicants article 8 rights will not have been properly protected.
+Again, it is impossible to be prescriptive as to when that would be required.
+However, I would have thought that, where the chief officer is not satisfied that the applicant has had a fair opportunity to answer any allegation involved in the material concerned, where he is doubtful as to its potential relevance to the post for which the applicant has applied, or where the information is historical or vague, it would often, indeed perhaps normally, be wrong to include it in an ECRC without first giving the applicant an opportunity to say why it should not be included.
+This conclusion is at odds with what was said by Lord Woolf MR in R(X) v Chief Constable of West Midlands Police [2005] 1 WLR 65, para 41.
+He said that absent any untoward circumstance ., it is difficult to see that there can be any reason why the information that might be relevant ought not to be included in the certificate (although it is only fair to add that he did, correctly, refer to the issue as being one of proportionality).
+In my view, that approach is wrong, even if one ignores the fact that article 8 is engaged.
+Section 115(7) contains two tests which have to be satisfied, and there is no reason to think that the second test was intended to be of only marginal relevance and rare application.
+On the contrary: given the low threshold of the first test and the importance of an ECRC to an applicant, one would expect the second test to be important, and this point receives some support from the para 30 of the White Paper which preceded the 1997 Act (see para 5 of Lord Hopes judgment).
+The point is heavily reinforced, of course, once the impact of article 8 is taken into account.
+In R (X) v Chief Constable of West Midlands Police [2005] 1 WLR 65, para 67, Lord Woolf MR, disagreeing with the view to the contrary of Wall J at first instance ([2002] EWHC 61 (Admin), [2004] 1 WLR 1518), said that it would be inappropriate to interpret section 115(7)(b) as imposing a duty on a chief officer to contact applicants where he was proposing to include material under section 115(6)(a)(ii) in an ECRC.
+Lord Woolf thought that this would involve imposing too heavy a burden on chief officers.
+I disagree.
+While far from suggesting that the duty would arise in every case, it seems to me that the imposition of such a duty is a necessary ingredient of the process if it is to be fair and proportionate.
+The widespread concern about the compulsory registration rules for all those having regular contact with children, as proposed by the Government in September 2009, demonstrates that there is a real risk that, unless child protection procedures are proportionate and contain adequate safeguards, they will not merely fall foul of the Convention, but they will redound to the disadvantage of the very group they are designed to shield, and will undermine public confidence in the laudable exercise of protecting the vulnerable.
+The procedures currently adopted by chief officers have been described by Lord Hope in paras 30 to 34, and they are plainly, and sensibly, based on the observations of Lord Woolf MR in R (X) v Chief Constable of West Midlands Police [2005] 1 WLR 65.
+It is apparent that, as one would hope, chief officers and their staff take their responsibilities under Part V of the 1997 Act very seriously.
+However, it is also clear that the current procedures will need to be adapted to accord considerably greater weight to section 115(7)(b) and considerably greater recognition to the article 8 rights of applicants.
+For these reasons, which are little more than an echo of those more fully expressed by Lord Hope, with whose judgment I agree, I conclude that sections 115(6)(a)(ii) and 115(7) of the 1997 Act can and should be given an effect which is compatible with the article 8 rights of those who make applications under section 115(1).
+I also consider that, for the reasons given by Lord Hope in para 48, the decision in this particular case cannot be faulted.
+Accordingly, I too would dismiss this appeal.

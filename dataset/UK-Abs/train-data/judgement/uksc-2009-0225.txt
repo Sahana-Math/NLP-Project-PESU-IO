@@ -1,0 +1,248 @@
+What does article 5 of the European Convention on Human Rights mean by deprivation of liberty in the context of control orders made under the Prevention of Terrorism Act 2005 (the 2005 Act)? This was the central question before the House of Lords in Secretary of State for the Home Department v JJ [2008] 1 AC 385 and, by a majority of three to two, it was held that deprivation of liberty might take a variety of forms other than classic detention in prison or strict arrest; . the courts task was to consider the concrete situation of the particular individual and, taking account of a whole range of criteria including the type, duration, effects and manner of implementation of the measures in question, to assess their impact on him in the context of the life he might otherwise have been living .
+So states the head note to the report, to my mind entirely accurately.
+Lord Hoffmanns view, shared by Lord Carswell, that the concept of deprivation of liberty [should be confined] to actual imprisonment or something which is for practical purposes little different from imprisonment (para 44) did not prevail.
+Nevertheless, as Lord Bingham pointed out in Secretary of State for the Home Department v E [2008] 1 AC 499, 553 (para 11) one of the two associated appeals also then before the House what principally must be focused on is the extent to which the suspect is actually confined: other restrictions (important as they may be in some cases) are ancillary and [can] not of themselves effect a deprivation of liberty if the core element of confinement . is insufficiently stringent.
+The Committee in both cases recognised that Guzzardi v Italy (1980) 3 EHRR 333 was still the leading Strasbourg authority on the question and so it remains to this day; no subsequent decision of the ECtHR casts the least doubt upon the correctness of the majority view in JJ.
+In the context of control orders, it therefore follows that within what has been described as the grey area between 14 hour and 18 hour curfew cases, other restrictions than mere confinement can tip the balance in deciding, as in every case the judge has to decide as a matter of judgment, whether the restrictions overall deprive the controlee of, rather than merely restrict, his liberty.
+It is true that some passages in my own opinion in JJ notably those stating (para 105) that, [p]ermanent home confinement beyond 16 hours a day on a long term basis necessarily to my mind involves the deprivation of physical liberty, and (para 108) that provided the core element of confinement does not exceed 16 hours a day, it is insufficiently stringent as a matter of law to effect a deprivation of liberty suggest that (subject to any future Strasbourg ruling on the point (para 106)) a curfew up to and including 16 hours will always be permissible, a longer curfew never.
+The fact is, however, that neither Lord Bingham nor Lady Hale, the other members of the Committee constituting the majority, subscribed to this suggestion and, indeed, my own express acceptance of the relevance of a whole range of criteria such as the type, duration [and] effects of the order was hardly consistent with the curfew length being the sole criterion of loss of liberty.
+I nevertheless remain of the view that for a control order with a 16 hour curfew (a fortiori one with a 14 hour curfew) to be struck down as involving a deprivation of liberty, the other conditions imposed would have to be unusually destructive of the life the controlee might otherwise have been living.
+Mitting J suggested how that might be in Secretary of State for the Home Department v AH [2008] EWHC 1018 (Admin), in a summary of the principles emerging from JJ which Keith J adopted in his judgment in the present case: Social isolation is a significant factor, especially if it approaches solitary confinement during curfew periods.
+Quite how to balance on the one hand the precise length of curfew and on the other hand the degree of social isolation involved in any particular case presents a difficulty: the two are essentially incommensurable.
+But that problem, the inescapable consequence of the majority view having prevailed in JJ, is not, in fact, the particular problem arising in the present appeal.
+Rather the issues for the Courts determination here have been formulated as follows: (a) Whether conditions which are proportionate restrictions upon article 8 rights can tip the balance in relation to article 5, ie whether they can be taken into account in holding that a control order is a deprivation of liberty when, absent those restrictions, it would not have been held to be such. (b) Whether the judge can take into account subjective and/or person specific factors, such as the particular difficulties of the subjects family in visiting him in a particular location, when considering whether or not a control order amounts to a deprivation of liberty. (c) Whether it was permissible for the Court of Appeal to interfere with the first instance judgment on the ground that the judge had relied on findings of fact in respect of article 5 which were inconsistent with his findings of fact in respect of article 8.
+With those few introductory paragraphs let me turn to the facts of the present appeal although not in any great detail.
+Where, as here, no appeal lies from the judge at first instance except on a question of law (section 11(3) of the 2005 Act), it is seldom necessary to explore the facts in detail.
+Still less is that necessary where not only are the few nominated judges who hear control order appeals properly to be regarded as expert tribunals in this difficult and sensitive field (and so not readily open to challenge see the judgment of Lord Phillips at para 118 and that of Lord Hope at paras 218 219, in RB (Algeria) v Secretary of State for the Home Department [2009] 2 WLR 512) but (rather like SIAC in the context of expulsion cases) they are vested with particular powers and procedures above all the use of closed material under the special advocate scheme which make [their] determinations peculiarly inappropriate for further factual reappraisal and appeal (para 253 of my judgment in RB (Algeria)).
+This very case was the subject of a six day hearing before Keith J. Anyone interested in its detailed facts will find them in his open judgment [2008] EWHC 2001 (Admin); his closed judgment is not, of course, in the public domain.
+Put shortly the facts are these.
+The appellant (AP) is an Ethiopian national.
+He came to this country with other members of his family in 1992 at the age of 14.
+On 6 October 1999 he, his siblings and their mother were granted indefinite leave to remain.
+In May 2005 he travelled to Somalia and then Ethiopia.
+On 22 December 2006, upon his detention by the authorities in Ethiopia, the Secretary of State decided to exclude him from the UK: he was by then suspected of involvement in terrorism.
+On APs return to the UK on 28 December 2006 he was duly refused leave to enter and, pending removal, detained under immigration powers until July 2007 when he was released on bail under stringent conditions.
+The Secretary of State, however, withdrew her decision to exclude AP from the UK when, on 10 January 2008, she was granted permission to make a control order against him.
+The control order subjected AP to a 16 hour curfew and electronic tagging, together with a number of other restrictions on association and communication such as are usually imposed in these cases, and at first required AP to live at an address in Tottenham, North London.
+APs family, friends and associates had always lived in the London area.
+Subsequently, on 21 April 2008, the Secretary of State modified the terms of the control order, requiring AP to move to an address in a Midlands town some 150 miles away.
+It was that modification and APs appeal against it which has given rise to these proceedings.
+Even when the matter was before the Court of Appeal there was no dispute about the need for a control order, only about its terms.
+On 12 August 2008 Keith J allowed APs appeal against the modification and, pursuant to section 10(7)(b) of the 2005 Act, quashed the obligation to live in the Midlands [2008] EWHC 2001 (Admin).
+On 15 July 2009 the Court of Appeal (Wall and Maurice Kay LJJ, Carnwath LJ dissenting) allowed the Secretary of States appeal against Keith Js determination [2009] EWCA Civ 731.
+As it happens, the appeal was by then academic.
+Not only had the Secretary of State, on the very day after Keith Js order, served a modified control order on AP reducing his curfew from 16 to 14 hours albeit maintaining the obligation to reside in the Midlands but, on 2 July 2009, she had actually revoked the control order having in the meantime decided once again that AP should be deported on national security grounds and until then detained under immigration powers.
+In fact, since 20 July 2009, AP has been on bail pending deportation on conditions, including residence in the Midlands, similar to those of the control order save that the curfew period is now 18 hours.
+Whilst, however, the outcome of the appeal is no longer relevant for AP himself, the points it raises are said to be of some general importance with regard to control orders.
+This further appeal is brought by leave of the Supreme Court granted on 4 March 2010.
+Such additional facts as are material to the issues now arising appear from the following critical paragraphs in Keith Js determination (quoted also by the Court of Appeal): 86.
+The justification for relocating him outside London was to make it more difficult for him to see his extremist associates .
+Given that there has been a concentration of Islamist extremists in London, there is a need to remove AP from that milieu. 87.
+This justification has to be balanced against the incontestable hardship for AP in being isolated from his mother and his brother.
+His evidence was that while he was in Tottenham, they would visit him about twice a week, and that every week he would see his sisters three children who he would take to the park.
+His move has had a profound impact on how often he sees them.
+His mother has not visited him at all, and his brother has visited him just the twice.
+That is just as upsetting for his mother as it is for him, because at present she needs AP around more than ever.
+That is compounded by the fact that he does not know anyone in the town where he now lives, and sometimes speaks to no one in the course of the day other than short calls to his solicitors or to his mother and his brother. 88.
+It is true that the town where he now lives is not that far from London.
+The journey by rail takes about 1 hours, and trains travel every half hour or so.
+It is also true that there is no limit on the length of time APs mother and brother can spend with him if they choose to visit him, and there is . no need for them to seek prior Home Office approval.
+But the practical difficulties of visiting him are not inconsiderable, bearing in mind that his mother now looks after his sisters three young children.
+She cannot go to the town where AP now lives on those days when she has to take the children to, or collect them from, school, and if she was to go to that town, she would have to take the children with her.
+It is said that she cannot go to that town without APs brother, because she has never left London alone.
+The only day of the week he could go when the children are not at school would be on Sundays.
+But these practical difficulties are not insuperable.
+The fact is that they could visit AP en famille on Sundays, as well as on other days of the week outside the school terms, and they could travel at off peak times to get the advantage of lower fares. 89.
+Having said that, there is unquestionably another significant hardship for AP in having to live in the town where he now lives.
+It is difficult for him to feel part of the local community.
+He claims that the local Muslim population comes for the most part from Bengal and Pakistan.
+They are a close knit and closed culture.
+No one in the mosque has welcomed him into the community, or asked him how he finds the area or even what his name is.
+The Imam shows no interest in him, though that may be the product of language differences.
+The mosque has simply become a place to pray.
+It has not become either the spiritual or social focus of his life.
+He has spotted the occasional Ethiopian or Eritrean, but he has not tried to befriend them because he does not want to burden them with his problems.
+He goes to the gym, but people there see his tag and naturally think that he is a criminal.
+Although he has tried to explain what a control order is, that tends to make things worse.
+All in all, these experiences merely serve to reinforce his sense of alienation. 93.
+At the end of the day, the issue boils down simply to a matter of judgment.
+Moving him out of London altogether is the most effective way of reducing the chances of him maintaining personal contact with those of his associates in London who are or may be Islamist extremists.
+Giving due, but not undue, deference to the view of the Secretary of State on the topic, my opinion is that, but for the view I have reached on the impact of article 5 of the Convention, the need to ensure that AP does not maintain personal contact with those of his associates in London who are or may be Islamist extremists would have made it necessary, in order to prevent or restrict his involvement in terrorism related activity, for him to be removed from London altogether.
+Balancing that need against the undoubted hardship which AP experiences as a result of having to live in the town where he now lives, the view I would have reached is that the move was not a disproportionate response to that need. 95. although the paradigm examples of deprivation of liberty are detention in prison and house arrest, deprivation of liberty can take many other forms, and the courts function is to look at the package of measures as a whole . a sense of social isolation would be felt particularly acutely where the controlled person was required to live in an area unfamiliar to him in which he had no family, friends or contacts.
+If he was cut off from his old haunts and acquaintances, his ability to lead any kind of normal life during non curfew hours as well as curfew ones would be affected .
+I would characterise it as a form of internal exile . 97.
+It is the combination of the equivalent of house arrest up to the maximum period identified by Lord Brown [viz 16 hours], and the equivalent of internal exile which makes AP so socially isolated during the relatively few hours in the day when he is not under house arrest, coupled with his inability to make even social arrangements because pre arranged meetings (otherwise than with his mother and his brother) are prohibited, which lead me to conclude that the obligations imposed on him fall on the side of the line which involves the deprivation of liberty rather than the restriction of movement . [Had] he remained in London, so that he could still see and be visited by his mother, his brother and his sisters three children, my view would have been different.
+In summary, Keith J rejected APs case under article 8 on the ground that the interference with his family life was justified and proportionate in the interests of national security but decided that the overall effect of a 16 hour curfew and APs social isolation (particularly through his being separated from his family) constituted an article 5 deprivation of liberty.
+As Maurice Kay LJ was later to note, the element of social isolation . is rather greater in the present case than in the JJ cases, where the relocations were within or close to London.
+But for the difficulties of the family visiting AP in the Midlands, the judge made plain, he would not have found that the control order involved a deprivation of liberty.
+Maurice Kay LJ, giving the leading judgment in the Court of Appeal, held Keith J to have been wrong in law to permit the issue of family visits to tip the balance. [H]e was wrong . to allow the failed article 8 case to prove decisive in the article 5 case (para 32). Wall LJ agreed with that and (para 37) described it as the contradiction at the heart of the judgment.
+Whilst recognising (para 38) that it was established law that a restriction relevant to an article 8 claim, even if not such as to establish a breach of that article, may be relevant to a claimed breach of article 5, he nevertheless concluded (para 39): There is, in my judgment, a substantial difference between taking article 8(1) factors into account when discussing article 5 on the one hand, and, on the other, of treating them as determinative of, or, as Maurice Kay LJ puts it, as tipping the balance in relation to an article 5 determination.
+In my judgment, the judge has done the latter, and it is principally for this reason that I find myself in respectful disagreement with him.
+It is these holdings of the majority which give rise to the first of the issues now identified for decision (para 4(a) above) and with the best will in the world the answer to it is surely an obvious yes.
+If an article 8 restriction is a relevant consideration in determining whether a control order breaches article 5, then by definition it is capable of being a decisive factor capable of tipping the balance.
+The weight to be given to a relevant consideration is, of course, always a question of fact and entirely a matter for the decision maker subject only to a challenge for irrationality which neither has nor could have been advanced here.
+All this is trite law and indeed the contrary was not argued before us.
+Issue 2 asks whether the judge can take into account subjective and/or person specific factors, such as the particular difficulties of the subjects family in visiting him.
+Oddly, this was not a question addressed by the Court of Appeal although it had been touched on in the Secretary of States grounds of appeal before them.
+As I understand Mr Tam QCs submission for the Secretary of State, it is that in assessing the weight to be given to the restrictive effects of a condition such as that imposed on AP here to reside in the Midlands, the judge should ignore everything that depends on the individual circumstances of the family for example, on the facts of this case, that APs mother has never left London alone and that during term time, because of the children, Sunday is the only day the family can travel.
+Any health problems suffered by the family (frailty to use Mr Tams word) must be ignored; so too poverty.
+If a differently organised and wealthier family could readily have visited, runs the argument, it cannot avail the controlee that his own particular family could not.
+Mr Tam sought to find support for this argument in the judgments of the majority in JJ such as Lord Binghams statement (para 15) that the Courts task is to assess the impact of the measures in question on a person in the situation of the person subject to them.
+The point Lord Bingham was making there, however, as the immediately following citation from Engel v The Netherlands (No 1) (1976) 1 EHRR 647 showed, was that certain people in Engels case soldiers are in an inherently different situation from others: A disciplinary penalty or measure which on analysis would unquestionably be deemed a deprivation of liberty were it to be applied to a civilian may not possess this characteristic when imposed upon a serviceman.
+That passage says nothing about ignoring the controlees or his familys individual circumstances and, indeed, Lord Bingham earlier in the paragraph had stated that what has to be considered is the concrete situation of the particular individual.
+There is nothing in the Secretary of States argument.
+By the same token that it is relevant that, whilst AP must live in the Midlands, his family are in London, so too it is relevant whether their circumstances are such that their distance away so disrupts contact between them as to cause or substantially contribute to APs social isolation.
+Plainly the family could not be allowed to thwart what would otherwise be an appropriate residential requirement by unreasonably failing to take the opportunities open to them to visit AP and so save him from social isolation.
+The correct analysis, however, is that in those circumstances it would be the familys unreasonable conduct and not the residence condition which was the operative cause of APs isolation.
+In short, the judge must disregard not the particular difficulties of the subjects family in visiting him but rather any lack of contact resulting from the familys unreasonable failure to overcome these difficulties in order to visit him.
+It is not suggested here that the family behaved unreasonably in failing to overcome more effectively the practical difficulties they faced in visiting AP on a more regular basis, only that their particular difficulties should have been ignored.
+That submission cannot be accepted.
+The third and final issue for our determination arises from the apparent conclusion of the majority in the Court of Appeal that Keith J had committed a second error of law in making inconsistent findings of fact.
+Maurice Kay LJ (para 30) contrasted the judges finding (para 88) that The fact is that they could visit AP en famille on Sundays, as well as on other days of the week outside the school terms, and they could travel at off peak times to get the advantage of lower fares. with his conclusion (para 97) that . had [AP] remained in London, so that he could still see and be visited by his mother, his brother and his sisters three children, my view would have been different. and in the result held: On that basis, the judge erred in law in treating as decisive something that was at variance with his earlier finding of fact.
+Wall LJ expressly agreed with all of Maurice Kay LJs reasoning.
+For my part, however, I see no contradiction between the quoted two paragraphs from Keith Js judgment.
+Of course, as Maurice Kay LJ pointed out, AP could [original emphasis] still see and be visited by those members of his family, although there were logistical and, no doubt, financial difficulties.
+But to suggest that this is inconsistent with paragraph 97 of Keith Js judgment is to my mind to place altogether too much weight upon the word could in the latter paragraph.
+To understand paragraph 97 as suggesting that, now that AP had left London, it was impossible for him to see and be visited by his family, is not to give it a fair reading.
+It is hardly to be thought that by paragraph 97 the judge had forgotten what he had said in paragraph 88.
+The former must be understood as merely encapsulating in shorthand the judges findings as to the practical difficulties in visiting which he had made in paragraph 88.
+It follows that all three issues fall to be determined in the appellants favour and that his appeal succeeds.
+Carnwath LJ was in my opinion right in his analysis of the House of Lords judgments in JJ and the other two associated cases, right as to how they applied to the present case, and right also to emphasise (as, indeed, Wall LJ had done) the importance of respecting the decisions of the judges in the Administrative Court dealing with these difficult cases.
+They have developed, as he put it, special expertise and experience, not generally shared by members of the Appellate Courts and are also much better placed to develop consistent practice for dealing with orders of this kind, and to provide continuing supervision of their making, variation, and implementation.
+We were shown a series of first instance decisions in control order cases following the JJ trilogy: Secretary of State for the Home Department v AH [2008] EWHC 1018 (Admin) (where Mitting J just upheld a 14 hour curfew notwithstanding that AH was required to reside in a wholly unfamiliar city and was subject to a high degree of social isolation); Keith Js determination in the present case; Secretary of State for the Home Department v AU [2009] EWHC 49 (Admin) (where Mitting J upheld a 16 hour curfew albeit indicating that he would have reached the same conclusion as Keith J on the facts of the present case); and Secretary of State for the Home Department v GG [2009] EWHC 142 (Admin) (where Collins J upheld a 16 hour curfew where a relocation from Derby to Chesterfield presented no difficulties for family visits).
+It would be inappropriate to discuss here the detailed reasoning in each of these determinations; suffice it to say that they seem to me to justify Carnwath LJs confidence in the nominated I would allow this appeal, set aside the decision of the Court of Appeal and Administrative Court judges and the wisdom of generally not interfering with their decisions in control order cases.
+restore the order of Keith J at first instance.
+At the start of the hearing the court raised the question of whether to maintain the respondents anonymity in this case.
+Following the hearing written submissions on this question were made by the parties.
+The court has considered these and decided that there are good reasons for preserving the respondents anonymity.
+These will be the subject of a further judgment of the court.
+LORD RODGER
+Given the rejection of Lord Hoffmanns approach by the majority of the House of Lords in Secretary of State for the Home Department v JJ [2008] 1 AC 385, the question whether someone has been deprived of his liberty for the purposes of article 5 depends on the evaluation of a host of different factors.
+Keith J carried out the exercise of weighing these factors.
+For the reasons given by Lord Brown, I am satisfied that there was no proper basis for the majority of the Court of Appeal interfering with his conclusion.
+I also agree with Sir John Dyson that the Secretary of States argument, supposedly based on Shtukaturov v Russia (Application No 4409/05), 27 March 2008, is without foundation.
+I would accordingly allow the appeal.
+SIR JOHN DYSON SCJ
+I agree that this appeal should be allowed for the reasons given by Lord Brown.
+I only wish to add a few words on the second issue identified at para 4.
+As Lord Brown has said, the courts task is to consider the concrete situation of the particular individual taking account of a whole range of criteria such as the type, duration, effects and manner of implementation of the measure in question: see Guzzardi at para 92 and, for example, paras 15 and 18 of Lord Binghams speech in JJ.
+Mr Tam submits that the reference to an individuals concrete situation is a reference to those factors which are the necessary consequences of the measures concerned, rather than factors which may or may not be present depending on the individuals personality or choices, or on the personality or choices of his family or friends (Case for the Secretary of State at para 9.6).
+What is required is an objective and not a subjective approach when one considers the effects or impact of the measures on the individual.
+It is the objective impact of the measures on a person in the situation of the controlee that is relevant, not the consequences of his subjective response or that of his family and friends.
+In support of his submissions he relies on the decision of the ECtHR in Shtukaturov v Russia (Application No 44009/05), 27 March 2008.
+I can find no support for Mr Tams approach in the jurisprudence.
+Shtukaturov does not provide it.
+In that case, the applicant was placed in a locked facility, tied to his bed, given sedative medication and not permitted to communicate with the outside world.
+Consent was relevant because it could have prevented those measures from being a deprivation of liberty within the meaning of article 5 of the Convention.
+At para 106, the ECtHR said: The Court further recalls that the notion of deprivation of liberty within the meaning of article 5.1 does not only comprise the objective element of a persons confinement in a particular restricted space for a not negligible length of time.
+A person can only be considered to have been deprived of his liberty if, as an additional subjective element, he has not validly consented to the confinement in question (see, mutatis mutandis, HM v Switzerland, no 39187/98, para 46, ECHR 2002 II).
+In this paragraph, the court was not saying that no subjective elements other than lack of consent could be relevant.
+Indeed, it is clear from Guzzardi and JJ that the objective element of a persons confinement may not be enough to give rise to a deprivation of liberty within the meaning of article 5.1.
+The other elements, when considered in conjunction with the confinement, may make all the difference.
+In Shtukaturov, absent consent, the core element of confinement was sufficient to establish a breach of article 5.1.
+I do not find it helpful to use the subjective/objective terminology in the present context.
+Take this case.
+APs mother chose to look after her daughters young children.
+Practically speaking, she was faced with the choice of not visiting AP or of taking the children on her visits.
+She chose not to visit AP at all.
+No doubt, that was a difficult choice for her to make.
+In a sense, it was a subjective decision as are all choices.
+But that does not mean that the isolating effect of the choice made by APs mother is to be disregarded when an assessment is made of the effect on AP of the modification of the control order.
+The focus of the article 5 inquiry is on the actual effect of the measures on the controlee in the circumstances in which he finds himself.
+Prima facie, the actual isolating effect resulting from choices made by the controlee, his family and friends in response to the measures should be taken into account.
+But I agree with Lord Brown that isolation attributable to unreasonable conduct on the part of the controlee or his family or friends should be disregarded because unreasonable conduct cannot be said to be caused by the measures.
+To use the language of Guzzardi, in such a case the measures do not have the isolating effect on the controlee.
+In further support of his argument, Mr Tam submits that, if the question of whether or not a measure constitutes a deprivation of liberty turned on the effect of personal choices, the answer to the question would vary unpredictably and would turn on matters outside the control and knowledge of the Secretary of State at the time of imposing the control order, such as what child care arrangements the family members of an individual subject to a control order might prefer or how those family members might feel about travelling outside their home area.
+But the Secretary of State must always seek to find out what the likely effect will be of the control order (or the modification) that she is proposing to make.
+She cannot make or modify control orders without considering their effect.
+It is now clearly established that in a case where the confinement is not sufficiently long of itself to amount to a deprivation of liberty, an assessment of the effect of the measures on the controlee may be decisive.
+If the Secretary of State fails to ascertain what the effect of an order will be, she runs the risk that there will be breach of article 5.1.
+This is the price that she must pay if she wishes to impose a control order.
+In some cases, there may be practical difficulties in finding out in advance what the effect of an order (or modification of an order) is likely to be.
+But that is not a good reason for saying that the Secretary of State is free to make an order without regard to its effect on the controlee.
+To return to the facts of the present case, it is not suggested that AP or his family have behaved unreasonably.
+It follows that the judge was right to take into account the isolating effect, in particular, of the lack of contact between AP and his mother.
+JUDGMENT Secretary of State for the Home Department (Respondent) v AP (Appellant) (no. 2) before Lord Phillips, President Lord Saville Lord Rodger Lord Walker Lord Brown Lord Clarke Sir John Dyson SCJ JUDGMENT GIVEN ON 23 June 2010 Heard on 5 May 2010 Appellant Edward Fitzgerald QC Kate Markus (Instructed by Wilson Solicitors LLP) Respondent Robin Tam QC Tim Eicke Rory Dunlop (Instructed by Treasury Solicitor) LORD RODGER (with whom all members of the court agree) 1.
+On 16 June 2010 the Court gave judgment in Secretary of State for the Home Department v AP [2010] UKSC 24.
+As Lord Brown explained, the appeal concerned a control order imposed on AP under the Prevention of Terrorism Act 2005.
+In April 2008 the Secretary of State had modified the order to include a condition that AP, who had previously lived in London, should now live in a town some 150 miles away.
+In August 2008 Keith J quashed the residence requirement and the following day the Secretary of State served a modified control order in similar terms, except that the curfew had been reduced to 14 hours.
+By a majority, the Court of Appeal allowed the Secretary of States appeal against Keith Js order.
+In its judgment of 16 June, this Court allowed APs appeal and restored the order of Keith J quashing the residence requirement. 2.
+In fact, as Lord Brown also explained, the appeal was academic, so far as AP himself was concerned, since on 2 July 2009 the Secretary of State had revoked the control order and decided that AP should be deported on national security grounds.
+AP appealed to the Special Immigration and Asylum Commission (SIAC) against the decision to make the deportation order.
+On 20 July 2009 AP was granted bail pending deportation, on conditions, including residence in the Midlands, broadly similar to those of the previous control order, except that the curfew period is 18 hours. 3.
+It appears that an anonymity order was made at the outset of the proceedings in the Administrative Court and has been in force ever since.
+A similar anonymity order was made in APs appeal to SIAC and it remains in force pending the Commissions decision. 4.
+At the outset of the hearing of APs appeal to this Court, the Court made an order continuing the anonymity order for the duration of the hearing.
+The Court also invited submissions from AP and the Secretary of State as to whether the anonymity order should cover the publication of its judgment.
+No submissions were invited from the media and they did not seek to intervene to make submissions.
+In their submissions counsel for AP informed the Court that there had been press interest in the proceedings before SIAC and that a representative of a national newspaper had attended those proceedings to make submissions about the exclusion of the press and public from parts of the proceedings.
+It had not been suggested, however, that SIAC should reveal APs identity in its judgment or that it should be open to the media to reveal his identity in any report of the proceedings or judgment. 5.
+In the present case the submissions for both AP and the Secretary of State favour the continuation of the anonymity order.
+That is by no means conclusive, however: on the contrary, the Court has borne in mind Sir Christopher Staughtons warning, in R v Westminster City Council, Ex p P (1998) 31 HLR 154, 163, that when both sides agreed that information should be kept from the public, that was when the court had to be most vigilant. 6.
+In In re Guardian News and Media Ltd [2010] 2 WLR 325 an application was successfully made by various media to set aside anonymity orders in proceedings relating to orders freezing the assets of suspected terrorists.
+In that case counsel made some reference to anonymity orders in proceedings relating to control orders.
+While not making any ruling on control orders none of which was before it the Court observed, at p 348, para 78: Many of the same issues would obviously arise if an application were made to set aside the anonymity orders made in any outstanding control order proceedings.
+The same principles would also have to be applied, but there may be arguments and considerations in those cases which were not explored at the hearing in this case.
+Conceivably, also, the position might not be the same in all of the cases. 7.
+In In re Guardian News and Media Ltd the Court heard full submissions from both the media and the parties involved in the substantive proceedings.
+The Court reviewed the relevant authorities on the application of articles 8 and 10 of the European Convention on Human Rights and Fundamental Freedoms.
+There is no call to repeat that exercise in the present case.
+Rather, so far as articles 8 and 10 are concerned, applying Lord Hoffmanns guidance in Campbell v MGN Ltd [2004] 2 AC 457, 473 474, paras 55 and 56, and the conclusions reached in In re Guardian News and Media Ltd, at pp 340 341, paras 50 52, the Court must ask itself whether there is sufficient general, public interest in publishing a report of the proceedings which identifies [AP] to justify any resulting curtailment of his right and his familys right to respect for their private and family life.
+The Court emphasised that the answer will depend on the facts of the particular case.
+No issue under article 3 arose in that case. 8.
+In the present case both the Secretary of State and AP pointed out that, where proceedings are taken to challenge a control order, the person affected may well wish to argue that, for particular reasons, his identity should not be revealed.
+He may require time to muster the relevant information and evidence.
+It therefore makes sense for an interim anonymity order to be made at the ex parte permission stage.
+Reference was made to the observations of Ouseley J in Times Newspapers Ltd v Secretary of State for the Home Department and AY [2008] EWHC 2455 (Admin) to that effect.
+I refer to those observations in para 11 below.
+The Court accepts that, at least as a general rule, an interim anonymity order will indeed be appropriate at that initial stage.
+It is important, however, that such an order should not just be continued automatically, but that the need for the order in the particular circumstances should be reviewed at the earliest suitable opportunity. 9.
+The submissions on behalf of the Secretary of State relied to a considerable extent on rather generalised assertions about the effect of setting aside an anonymity order: for example, it might result in harassment of the controlled person or his family, they might be threatened with violence, there might be disorder in the local community and friends and relatives might be reluctant to associate with the controlled person for fear of being identified with an extremist, publicity might prejudice any future prosecution.
+Experience with the freezing order cases suggests that, when the anonymity order is set aside, these hypothetical fears may well turn out to be exaggerated in the particular case.
+In line with the approach outlined in In re Guardian News and Media Ltd, the Court has therefore preferred to concentrate on the available information about the circumstances of this particular case. 10.
+The Secretary of State put forward an argument which did not arise in connexion with freezing orders.
+She pointed out that, when a control order is imposed, the police have to take steps to monitor and enforce the order, for instance, by visiting and searching the persons residence.
+Other officials, such as those involved in providing housing and in electronic monitoring, may also have to attend.
+The Secretary of State argues that an anonymity order allows the police and the other officials to carry out their duties without attracting significant attention or any possible hostility from the local community.
+In this way the officials can perform their duties more effectively. 11.
+It is not altogether easy to know just how much weight to attach in any given case to these somewhat general points.
+But the Court notes that, with his experience of the jurisdiction, in Times Newspapers Ltd v Secretary of State for the Home Department and AY [2008] EWHC 2455 (Admin) Ouseley J was prepared to give some weight to them, in the context of other general considerations.
+He said, at para 5: Such public identification may lead to harassment of and the risk of violence to the individual and his family by groups or individuals.
+The individual may continue to live where he was living already, and may remain in his job which could be put at risk.
+A media thirst for detailed and accurate news, in the public interest, may generate persistent investigative reporting alongside highly intrusive watching and besetting.
+There may be a risk of disorder in any given local community.
+The knowledge that he is subject to a Control Order may conversely make him attractive to extremists in the area where he lives.
+It may make the provision of a range of services, including housing, to the individual or his family rather more difficult.
+If the individual believes that he faces these sorts of problems, he has a greater incentive to disappear, to live elsewhere in the UK or abroad.
+All of this can make monitoring and enforcement of the obligations more difficult, and increase significantly the call on the finite resources which the police or Security Service have to devote to monitoring the obligations.
+This all occurs in circumstances where the Secretary of State has been satisfied that serious criminal prosecution is not presently realistically possible, though not permanently excluded.
+There may therefore be an impact on other proceedings not yet underway.
+In his view, such considerations justified the making of an interim anonymity order at the application stage.
+In the absence of any competing view, the Court considers that some weight should indeed be given to the Secretary of States submissions that anonymity helps to make the administration of control orders more effective. 12.
+But the Court has been more influenced by the submissions of counsel for AP about the particular circumstances in this case.
+It would be counter productive to go into the detail of the submissions which might serve to identify the town where AP is required to live. 13.
+In brief, counsel point out that the town where AP has to live is one where there are already considerable community tensions.
+There is organised racist activity in the town which has achieved not insignificant local support.
+There have been racist attacks, including physical violence, on members of the Muslim community in the town.
+There have also been attempts by racist groups to associate Muslims with terrorism. 14.
+Given these particular circumstances, the Court considers that there is force in APs submission that, if he were revealed to be someone who was formerly subject to a control order and is now subject to deportation proceedings for alleged matters relating to terrorism, then he would be at real risk not only of racist and other extremist abuse but of physical violence.
+In other words there is at least a risk that APs article 3 Convention rights would be infringed. 15.
+AP also makes the point that he has been forced to live in a town where he has no friends and no real social life.
+A difficult situation would be made very much worse if the anonymity order were lifted and he found that he was ostracised by members of his mosque and subjected to abuse by members of the public.
+Again, it is hard to assess the precise risk of this happening.
+But the Court has to weigh that risk in the context of the isolated situation in which AP finds himself due to the requirement that he should live in this particular town. 16.
+Finally, the Court has had regard to medical evidence to the effect that the bail conditions represent a significant and constant challenge to [AP]s psychological and emotional integrity.
+Again, this is a matter which has to be taken into account when considering the impact on AP of setting aside the anonymity order. 17.
+The absence of any submissions on behalf of the media means that, unlike in In re Guardian News and Media Ltd, the Court is not aware of any special circumstances which might point to a particular public interest in publishing a report of the proceedings which identifies AP.
+On the other hand and, again, unlike in the Guardian News case for the reasons which it has given, the Court is unable to discount the risk that AP might indeed be subjected to violence if his identity were revealed.
+The Court also has regard to the potential impact on his private life. 18.
+For all these reasons, the Court has concluded that, in this particular case, the public interest, in publishing a full report of the proceedings and judgment which identifies AP, has to give way to the need to protect AP from the risk of violence.
+Similarly, in this particular case, that public interest would not justify curtailing APs right to respect for his private and family life.
+The anonymity order should accordingly be maintained and the Courts judgment, and any reports of that judgment, should not reveal the appellants identity.
+He should continue to be referred to as AP. 19.
+The Court is conscious that it has reached this decision without hearing submissions from the media which might, conceivably, have cast a different light on the situation.
+Therefore, except in relation to interim orders at the application stage, the judgment should not be regarded as laying down any general rule as to the way that applications for anonymity orders should be determined in control order cases.
+For these reasons, as well as those given by Lord Brown, I would allow the appeal.
+Trinity Term [2010] UKSC 26 On appeal from: [2009] EWCA Civ 731

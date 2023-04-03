@@ -1,0 +1,184 @@
+This appeal raises a question of contractual interpretation.
+Its significance lies in the fact that the contractual condition in question forms part of the Loan Market Association standard terms and conditions for par trade transactions (the LMA terms), which are a recommended set of terms published by the LMA and commonly used in the secondary loan market.
+There is no dispute as to the relevant legal principles.
+Loan agreements normally entitle the lender to charge interest on the principal sum.
+They may also entitle the lender to the payment of a further lump sum at the time when the principal is repaid.
+This is sometimes known as a payment premium.
+If the lender assigns his rights to an assignee for value, provision will normally be made as to whether the assignee should account to the assignor for any interest which may have accrued but be unpaid at the date of the assignment.
+If a payment premium is due on the repayment of the loan, a question may also arise as to whether the assignee should account to the assignor for any part of the premium which can be said to be attributable to the period prior to the assignment.
+That depends on the terms of the assignment.
+In the present case, the appellant, Tael, was one of a number of lenders under a loan agreement.
+During the currency of the loan, it assigned its rights in respect of part of its lending (or, in the jargon, transferred part of its participation) to the respondent, Morgan Stanley, under a contract which incorporated the LMA terms.
+The loan was subsequently repaid, together with a payment premium.
+Tael claims that, under the terms of the transfer to Morgan Stanley, it is entitled to be paid the part of the payment premium which relates to the amount transferred, to the extent that (as Tael argues) it pertains to the period prior to the date of the transfer.
+Whether it is so entitled depends on the construction of the LMA terms.
+The factual background
+In terms of a facility agreement concluded in 2009, Tael agreed to participate, together with a number of other lenders, in the advance of a US $100m syndicated loan to Finspace SA.
+The loan facility was for a period of 24 months.
+The facility agreement provided for payment of interest at the rate
+of 11.25% per annum, accruing daily but payable three monthly in arrears.
+also provided for a payment premium, to be paid by the borrower at the same time as prepayment or repayment of the principal of the loan, which enhanced the rate of return to the lenders to a total of either 17% or 20% per annum, depending on the circumstances in which the loan was prepaid or repaid.
+Clause 24 of the facility agreement permitted a lender to transfer part or all of its participation in the loan facility.
+In January 2010 Tael transferred US $11m, out of its total US $32m participation, to Morgan Stanley.
+The parties documented the transfer in a transfer certificate and a LMA trade confirmation which incorporated the LMA terms.
+The confirmation defined the trade date and the settlement date as being 14 January 2010.
+A purchase price letter was also executed on 14 January 2010 by both parties.
+It provided that in accordance with the LMA terms the amount payable by Morgan Stanley was agreed to be as set out in the schedule.
+The schedule provided that the total purchase price due to Tael from Morgan Stanley was US $11m plus accrued interest for the period between 16 October 2009 and 14 January 2010 in an amount of US $309,375.
+The purchase was also conditional on Taels lending US $11m to a third party.
+The purchase price letter did not provide for any further payment by Morgan Stanley, and in particular did not provide for any payment to be made in respect of the payment premium.
+In March 2010 Morgan Stanley sold its participation in the facility agreement to Spinnaker Global Strategic Fund Limited.
+On 16 December 2010 the borrower refinanced the loan under the facility agreement, prepaying it in full.
+In accordance with the facility agreement, the borrower paid the payment premium to all lenders as at that date.
+Those lenders included Tael, which was still a participant in the loan, and Spinnaker, but not Morgan Stanley.
+Tael claims that Morgan Stanley is required by the LMA terms to pay it the payment premium in respect of Taels US $11m participation in the facility agreement that was transferred to Morgan Stanley, so far as it had accrued as at 14 January 2010.
+Those being the facts in summary, it is necessary next to examine the relevant contractual terms.
+The facility agreement
+Clauses 10 and 11 of the facility agreement provide that interest is payable on the outstanding principal at a rate of 11.25% per annum three months in arrears.
+Clause 11.1(a) provides that interest accrues from the date of advance of funds.
+By clause 34.3: Any interest, commission or fee accruing under a Finance Document will accrue from day to day and is calculated on the basis of the actual number of days elapsed and a year of 360 days .
+The facility agreement also provides for a payment premium, defined in clause 1 as follows: Payment Premium means, in relation to any repayment or prepayment of any Loan in full, or any repayment or prepayment of a Lenders participation in any Loan in full, an additional amount in US dollars in respect of a Lender and its share of such Loan which, together with the repayment or prepayment of principal, payment of accrued interest and payment of any applicable Break Costs at such time, if any, equates to an internal rate of return for that Lender on its share or participation in or funding of the relevant Original Loan Amount equal to the Loan IRR calculated, with respect to each Lender, from the date of disbursement by such Lender up to the date of repayment or prepayment in full .
+For the avoidance of doubt, (i) the applicable Payment Premium for each Lender shall be calculated based on its share or participation in or funding of the relevant Original Loan Amount and taking into account any partial repayment or prepayment of the Loan in respect thereof and (ii) in relation to any assignment or transfer of a Lenders rights pursuant to Clause 24 (Changes to the Lenders), the applicable Payment Premium for each Transferee Lender shall be equal to the proportion of the Payment Premium otherwise due to the Existing Lender which had assigned or transferred its rights to the Transferee Lender to the extent such Payment Premium is attributable to such assigned or transferred rights.
+The definition of Loan IRR is as follows: Loan IRR means: (a) in respect of a Lender that has not exercised the Lender Prepayment Option, 20% per annum; and (b) in respect of a Lender that has exercised the Lender Prepayment Option, 17% per annum, being in each case the applicable percentage equal to the internal rate of return with respect to the Loans for each Lender.
+The reference to the Lender Prepayment Option is to clause 8.2, which permits a lender to call upon the borrower to prepay that lenders share on 90 days notice.
+The facility agreement provides for the payment premium to be paid at the same time as, and together with, repayment of the principal of the loan in all circumstances in which the loan may come to be repaid or prepaid, including where there is acceleration by reason of default.
+This is the effect of clauses 6.1, 7.3(a), 8.1(b), 9.2(c) and 23.2(b), which set out the different circumstances in which a payment premium is payable.
+The amount of the payment premium may vary, depending on which clause is operative and when the repayment or prepayment of capital comes to be made.
+Clause 6.1 provides: The Borrower shall repay the Loans in full on [the date 24 months from utilisation] together with the Payment Premium relating to such amount.
+Clause 7.3(a) provides: . the Borrower may . prepay the whole or any part of a Loan, plus accrued and unpaid interest, if any, up to the prepayment date, together with the Payment Premium relating to such amount in the case of prepayment of the Loans in full, [upon 10 days notice].
+Clause 8.1 imposes an obligation on the borrower to prepay the loan in full, including the payment premium, in the event of a change of control.
+Clause 8.2 contains the lender prepayment option.
+Such a prepayment requires payment of the payment premium pursuant to clause 9.2, but in this case it is calculated so as to give an internal rate of return of 17% per annum, rather than the 20% per annum which the lender receives in all the other circumstances in which repayment or prepayment of the principal is made.
+Clause 9.2 provides: Interest, Payment Premium and other amounts (a) Any prepayment (including principal and Payment Premium) under this Agreement shall be made together with accrued interest on the amount prepaid, Break Costs and all other amounts accrued under the Finance Documents. (b) In the case of any repayment or prepayment . of any Loan prior to the date falling 9 months after the Initial Utilisation Date, the Payment Premium payable shall be calculated as if such repayment or prepayment had been made on the date falling 9 months after the Initial Utilisation Date. (c) For the avoidance of doubt, the Payment Premium shall be paid by the Borrower to each relevant Lender: (i) in the case of any repayment or prepayment of the Loans in full, at the time of and together with such repayment or prepayment; and (ii) in the case of any repayment or prepayment of any Lenders participation in any Loan in full (including any prepayment pursuant to Clause 7 (Illegality and voluntary prepayment) and Clause 8 (Mandatory prepayment), at the time of and together with any such repayment or prepayment.
+Clause 23.2 deals with acceleration of the loan upon the occurrence of events of default.
+Under clause 23.2(b), the lenders are entitled on such events to the payment premium, in addition to principal and accrued and unpaid interest, Break Costs (if any) and any other amounts due under the finance documents. 22.
+Condition 7.3 provides: The action necessary to complete a transaction shall include the payment for the Purchased Assets on the Settlement Date . 25.
+Condition 11 deals with interest and fees.
+Condition 11.1 provides: All interest and fees referred to in this Condition 11 which are expressed to accrue by reference to time elapsed are based on the rates contained in the Credit Agreement [ie the facility agreement]. 26.
+Conditions 11.2, 11.3, 11.5 and 11.6 deal with each of the four bases on which, in terms of the trade confirmation, the parties can agree that the transfer should be settled.
+In the present case, the agreed basis was Paid on settlement date, which is addressed in condition 11.3.
+It will however be necessary to refer also to the other conditions in order to understand how condition 11.9 is intended to operate. 27.
+Condition 11.2 applies where the agreed basis is Settled without accrued interest.
+It provides: (a) if "Settled Without Accrued Interest" is specified in the Agreed Terms then, subject to paragraph (b) of Condition 7.2 (Delayed Settlement) if applicable, upon receipt by the Buyer of any interest or fees accrued up to but excluding the Settlement Date in respect of the Purchased Assets (other than (i) PIK Interest and (ii) the fees referred to in paragraph (b) of Condition 11.9 (Allocation of interest and fees) which are payable after the Trade Date), the Buyer shall promptly pay to the Seller an amount equal to the amount of such interest or fees. (b) If the Buyer pays any amount to the Seller in accordance with paragraph (a) above and the Buyer does not receive all or part of such amount [from the borrower] then the Seller shall promptly, after demand by the Buyer, repay to the Buyer the whole or a proportionate part of such payment.
+PIK interest is defined as meaning any interest, fees or other amounts which are either: (a) automatically deferred or capitalised; or (b) deferred or capitalised at the option of any Obligor, and is dealt with separately in condition 11.11. 28.
+Where, as in this case, the parties have specified Paid on Settlement Date in their trade confirmation, condition 11.3 provides: (a) . the Buyer shall pay to the Seller on the Settlement Date an amount equal to the amount of any interest or fees accrued up to but excluding the Settlement Date in respect of the Purchased Assets (other than (i) PIK Interest and (ii) the fees referred to in paragraph (b) of Condition 11.9 (Allocation of interest and fees) which are payable after the Trade Date). (b) . if, on or after the Settlement Date, any interest or fees accrued up to but excluding the Settlement Date in respect of the Purchased Assets are paid to the Seller, the Seller shall promptly after receipt pay a corresponding amount to the Buyer. (c) The Buyer shall have no right of recourse to the Seller in relation to any amounts paid to the Seller in accordance with paragraph (a) above including, without limitation, in circumstances where the Buyer does not receive all or part of any interest or fees on their due date 29.
+Condition 11.5 provides for the situation where the parties have specified Discounted from next roll over date in the trade confirmation.
+It provides: any interest or fees accrued up to but excluding the Settlement Date in respect of the Purchased Assets (other than PIK Interest) but which are not payable until the next roll over date applicable under the Credit Agreement shall be discounted from such roll over date back to the Settlement Date at IBOR. 30.
+Condition 11.6 provides for the situation where the parties have specified N/A in the trade confirmation.
+It provides: subject to Condition 11.10 [sic: condition 11.11 is meant] (PIK Interest), the Buyer shall not be obliged to make any payment to the Seller in respect of accrued interest or accrued fees, either on the Settlement Date or on receipt of any such interest or fees. 31.
+Condition 11.9, headed Allocation of interest and fees, provides: Unless these Conditions otherwise provide . (a) any interest or fees (other than PIK Interest) which are payable under the Credit Agreement in respect of the Purchased Assets and which are expressed to accrue by reference to the lapse of time shall, to the extent they accrue in respect of the period before (and not including) the Settlement Date, be for the account of the Seller and, to the extent they accrue in respect of the period after (and including) the Settlement Date, be for the account of the Buyer; and (b) all other fees shall, to the extent attributable to the Purchased Assets and payable after the Trade Date, be for the account of the Buyer.
+The proceedings below 32.
+Tael commenced proceedings against Morgan Stanley and applied for summary judgment.
+Morgan Stanley responded by also applying for summary judgment.
+Both applications came before Popplewell J, who granted Taels application and dismissed Morgan Stanleys: [2012] EWHC 1858 (Comm); [2013] 1 CLC 879.
+He considered that the payment premium was similar to interest and performed an analogous function.
+The cost of the borrowing was more than the interest of 11.25% per annum, but only that amount required to be paid out of cash flow three monthly in arrears.
+The remainder of the cost of borrowing was deferred and became payable, in the form of the payment premium, whenever the loan was repaid to a particular lender or all the lenders.
+The payment premium was therefore part of the consideration for the loan, and was calculated by reference to the period for which the borrower had the use of the money in just the same way as was the entitlement to interest described as such. 33.
+Since the payment premium was incapable of quantification on 14 January 2010, it could not be said to have accrued up to that date, and therefore did not fall within condition 11.3(a) of the LMA terms.
+That condition was concerned with something which had accrued at an identified point of time, namely the settlement date.
+It was to be distinguished from condition 11.9(a), which was concerned with interest and fees which might only accrue at a later date but which accrued in respect of an earlier period.
+The payment premium fell in his view within the scope of condition 11.9(a), as fees which are expressed to accrue by reference to the lapse of time.
+The portion of the payment premium which was attributable to the US $11m transferred to Morgan Stanley, and was in respect of the period prior to 14 January 2010, was therefore due by Morgan Stanley to Tael under condition 11.9(a), since fees falling within the scope of that condition shall, to the extent they accrue in respect of the period before (and not including) the Settlement Date, be for the account of the Seller. 34.
+The judge reached that conclusion principally on the basis of an analysis of the language of the LMA terms.
+In his view, accrual, in the sense in which the term (or its cognates) are employed in conditions 11.3(a) and 11.9(a), is concerned with the vesting of rights.
+A fee accrued, in his view, when there was a vested right to an ascertained or ascertainable sum.
+The fee could accrue notwithstanding that it was payable at a future date which was uncertain.
+It could not however accrue if the existence of the right to payment, or the amount payable, was contingent upon an uncertain future event.
+In response to the argument that, adopting that approach, the payment premium could not be said to accrue by reference to the lapse of time, the judge stated that those words were apposite to describe a right to payment of a sum which is earned to some extent from day to day but at a rate which cannot be calculated until a future event which then vests the right to payment of a sum calculated by reference to that period of time.
+The judge also observed that, if condition 11.9(a) was to add anything to condition 11.3(a), it must cover a wider range of fees and interest: It must therefore envisage that something may accrue by reference to the lapse of time and accrue in respect of the period prior to the settlement date, but not have accrued up to the settlement date.
+The two conditions must be construed as using the word accrue in the same sense and giving the word its natural meaning of the vesting of rights.
+It follows that condition 11.9(a) must treat accrual by reference to the lapse of time as addressing the nature of the right which accrues, rather than its time of vesting. (original emphasis) 35.
+An appeal against that decision was allowed by the Court of Appeal: [2013] EWCA Civ 473; [2013] 1 CLC 879.
+Longmore LJ, with whose judgment Rimer and Tomlinson LJJ agreed, observed that the words which are expressed to accrue by reference to the lapse of time, in condition 11.9(a), echo the introductory condition 11.1, which provides that the interest and fees which are expressed to accrue by reference to time elapsed are based on the rates contained in the credit agreement (in this case, the facility agreement).
+Like the judge, Longmore LJ considered that the payment premium was an amount which was expressed to accrue by reference to time elapsed, since it was an additional amount which together with [other sums] equates to an internal rate of return equal to the Loan IRR calculated from the date of disbursement up to the date of payment or prepayment. 36.
+Longmore LJ considered however that condition 11.9(a) did not confer any additional entitlement beyond what was said to be payable in condition 11.3(a): the words expressed to accrue by reference to the lapse of time were merely words of description designed to encompass the interest and fees that were payable by reference to those parts of condition 11 which imposed obligations.
+Condition 11.9(a) was headed Allocation of interest and fees and, in contrast to other conditions of the LMA terms, did not use the words shall pay, payment, be payable or paid, but used the phrase shall . be for the account of .
+That phrase was in his view apt to describe how sums already payable, by reason of obligations imposed by other conditions, should be dealt with in any accounting exercise undertaken by the parties.
+In that connection, Longmore LJ observed that, if condition 11.9(a) were intended to confer an extra entitlement in respect of sums not accrued by the settlement date but only accruing thereafter (albeit accruing by reference to a period before the settlement date), the contract specified no mechanism for the implementation of such an entitlement.
+It so happened that, in the present case, Tael retained part of the loan it originally made, and therefore knew when the loan was repaid.
+If Tael had sold the whole of the loan, it would not have known when the loan was repaid.
+It would be necessary to imply into the sale and purchase agreement a term that the buyer would inform the seller when the loan was repaid; otherwise the seller would not know when he could make a claim for the payment premium.
+If, moreover, as in the present case, 37. the buyer had disposed of the whole loan to another party (such as Spinnaker), one would have not only to imply a term into that sub sale contract to the same effect but also a further term into the Tael/Morgan Stanley agreement that Morgan Stanley would enforce the implied term in their own sub sale contract.
+It was, in his view, difficult to think that this series of implications could have been intended.
+This of itself militated against condition 11.9(a) constituting an entitlement to sums not accrued at the settlement date. 38.
+A further difficulty, in his view, was that the payment premium might not in fact be paid at the termination of the loan, for example because there was an earlier default or because the borrower had insufficient funds to pay when payment was due.
+On Taels argument, the payment premium would be due and would to some extent have accrued in respect of the period before the settlement date.
+It would then be for the account of the Seller.
+If that phrase meant that the buyer must pay it when it fell due, the buyer would be accountable for (and would have to pay out) money he had never received.
+That consequence could be avoided only if there were some implication that the words for the account of the Seller extended only to sums if and when they were received by the Buyer.
+But it was more natural not to read the words of condition 11.9(a) as giving rise to any entitlement beyond that which was conferred by condition 11.3(a), rather than as giving rise to an entitlement which then had to be restricted by some implication. 39.
+Longmore LJ acknowledged that, on his reading of condition 11.9(a), it probably added little or nothing to the rights conferred on the seller by condition 11.3(a), but observed that that was not altogether surprising in a 20 page document of some complexity.
+In the light of the difficulties resulting from the alternative construction, he did not regard the argument from redundancy as particularly compelling.
+Discussion 40.
+Although the arguments presented in the appeal ranged somewhat more widely than the judgments of the courts below, the most important points remain those which were discussed in those judgments.
+I can therefore proceed directly to a discussion of those points. 41.
+The starting point is the words the parties have used in condition 11.9(a): any interest or fees (other than PIK interest) which are payable under the Credit Agreement in respect of the Purchased Assets and which are expressed to accrue by reference to the lapse of time shall, to the extent they accrue in respect of the period before (and not including) the Settlement Date, be for the account of the Seller and, to the extent they accrue in respect of the period after (and including) the Settlement Date, be for the account of the Buyer .
+There is room for argument as to whether the payment premium would naturally be described, in the context of this agreement, as interest or fees, or whether it might fall within the definition of PIK interest.
+What appears to me to be clear, however, is that it is not expressed to accrue by reference to the lapse of time.
+It is true that a period of time enters into the calculation of the amount of the payment premium.
+Counsel for Tael argued that that was sufficient: expressed to accrue by reference to the lapse of time should, he submitted, be understood as meaning calculated by reference to the lapse of time.
+But that is not what the condition says; and it is not the natural meaning of what it says. 42.
+The word accrue is generally used to describe the coming into being of a right or an obligation (as, for example, in Aitken v South Hams District Council [1995] 1 AC 262), so that the person in question then has an accrued right, or is subject to an accrued liability, as the case may be.
+That is the meaning which accrual usually bears, in particular, in relation to interest and other payments.
+The amount to which there is an entitlement may not be payable until a future date, but an entitlement may nevertheless have accrued.
+For example, under section 2 of the Apportionment Act 1870, rents, annuities, dividends and other periodical payments may be considered as accruing from day to day, although they may be payable at longer intervals (In re Howell [1895] 1 QB 844); and a bequest of an accruing dividend carried the dividend for the period during which the death occurred, although the dividend was not declared until a later date (In re Lysaght [1898] 1 Ch 115).
+Situations can readily be envisaged in which interest or fees might accrue, in that sense, by reference to the lapse of time: indeed, interest invariably accrues by reference to the lapse of time, as do recurring fees such as commitment fees.
+This is not however such a situation.
+An entitlement to a payment premium under the facility agreement accrues on a defined event.
+It can of course be said that the purpose of the payment premium is to reward the lender for the borrowers use of the money over a period of time.
+But that does not mean that the payment premium is expressed to accrue by reference to the lapse of time.
+It is expressed as an amount equal to the difference between the total of several other amounts, on the one hand, and an amount 43. equal to interest calculated at a given rate, on the other hand.
+So interest, and therefore time, enter into the calculation.
+That being so, there is a sense in which it might be said that part of the payment premium relates to the period before the settlement date.
+That does not however mean that the payment premium can be regarded, retrospectively, as having notionally accrued over that period.
+The method of calculation of the payment premium should not be confused with the accrual of the right to the premium. 44.
+That conclusion, derived from the text of condition 11.9(a), is reinforced by the commercial context, and in particular by the first of the considerations to which Longmore LJ referred (para 37 above).
+The LMA terms are intended for use in a market in which loans are traded.
+A loan may be traded many times, between many different parties, over a number of years.
+One would not readily infer that a contract for the sale of a loan in a market of that nature was intended to create continuing rights and obligations between the parties to that contract, in respect of payment, which might exist over a substantial period of time.
+In that regard, it is significant that the LMA terms do not make provision for any mechanism enabling the holder of the putative right to a payment premium, following the sale of his interest in the loan, to know when his right has vested, or in what amount.
+Unless he happened to have retained some participation in the loan in question, as in the present case, he would not normally know when he had become entitled to payment, or how much he was entitled to be paid.
+It would be more natural, in such circumstances, to expect the potential value of the right to receive the payment premium to be reflected in the consideration for which the loan was transferred. 45.
+That conclusion is sufficient to dispose of the appeal.
+It leaves open, however, two related questions which may be of significance.
+First, does this construction of condition 11.9(a) render it redundant? In my view, it does not.
+As I shall explain, condition 11.9(a) can be seen to have a purpose if it is read together with the provision made as to the payment of interest and fees in conditions 11.2, 11.3, and 11.9(b).
+Secondly, does condition 11.9(a) provide a right to payment, additional to that conferred by the other provisions of condition 11? In my view, it does not.
+It is necessary to note, in the first place, that fees falling within condition 11.9(b) are expressly excluded from the scope of conditions 11.2(a) and 11.3(a).
+Condition 11.9(b) is however dependent on condition 11.9(a): it applies to all other fees which are payable after the trade date: that is to say, the date when the contract for the transfer of the loan is concluded.
+Other fees are fees other than those falling within the scope of condition 11.9(a). 46. 47.
+Condition 11.2(a) therefore requires the buyer to pay to the seller, promptly on receipt, any interest or fees accrued prior to the settlement date, other than (i) PIK interest and (ii) fees not falling within condition 11.9(a), which are payable after the date when the contract was concluded.
+Condition 11.3(a) requires the buyer to pay to the seller, on the settlement date, any interest or fees accrued prior to the settlement date, subject to the same exceptions.
+The result is that conditions 11.2(a) and 11.3(a) (and also condition 11.4) can only be applied together with conditions 11.9(a) and (b).
+The conditions have to be taken together in order to determine the amount or amounts to be paid in respect of interest and fees. 48.
+This can be illustrated by taking condition 11.9 as the starting point.
+It divides interest and fees between those which are for the account of the seller and those which are for the account of the buyer.
+In the former category are any interest and fees (other than PIK interest) which are expressed to accrue by reference to the lapse of time, to the extent that they accrue in respect of the period prior to the settlement date (condition 11.9(a)).
+Any such interest and fees which accrue in respect of the period on or after the settlement date, and all other fees which are payable after the trade date, are for the account of the buyer (conditions 11.9(a) and (b)).
+This must be intended to be an exhaustive allocation (other than in respect of PIK interest).
+Putting the matter broadly, the practical effect is that interest and recurring fees (other than PIK interest) which accrue prior to the settlement date are for the account of the seller, whereas if they accrue in a later period they are for the account of the buyer.
+All other fees payable after the trade date (other than PIK interest) are for the account of the buyer. 49.
+That allocation under condition 11.9 is reflected in the provisions as to payment.
+Where condition 11.2(a) applies, its practical effect is to require the buyer to pay the seller, on receipt, an amount equal to any interest or fees accrued prior to the settlement date, other than PIK interest and non recurring fees which are payable after the trade date.
+The practical effect of condition 11.3 is similar, except that the buyer pays the relevant amount on the settlement date and bears the risk that he may not receive that amount from the borrower.
+Condition 11.5 provides a variant on the same principle.
+Condition 11.6 applies where the parties have opted for no payments to be made by the buyer in respect of accrued interest or fees, and therefore has the practical effect of discharging the buyer from any liability which might otherwise have arisen.
+Is it however possible for condition 11.9(a) to confer a right to payment of an amount to which there is no right to payment under conditions 11.2(a) or 11.3(a)? That question arises because of the difference in wording between accrued up to the Settlement Date (the words used in conditions 11.2(a) 50. and 11.3(a)), and accrue in respect of the period before the Settlement Date (the words used in condition 11.9(a)).
+Notwithstanding that difference in wording, the language used elsewhere in condition 11.9 suggests that it is not intended to confer an additional right to payment.
+It allocates interest and fees (as the heading indicates) as being for the account of one party to the transaction or the other.
+Other conditions then impose an obligation to pay in accordance with that account (or, in the case of condition 11.6, make it clear that no such obligation is imposed).
+The absence from condition 11.9 of any provision for payment is therefore one indication that it is not intended to impose such an obligation.
+The absence of any provisions addressing the possibility of default by the borrower, such as one finds in conditions 11.2(b) and 11.3(c), is a further indication that it is not intended to confer a right to additional payment.
+Conclusion 51.
+I would therefore uphold the decision of the Court of Appeal, although for somewhat different reasons, and dismiss the appeal.
+The Break Costs referred to in clauses 9.2 and 23.2(b) are defined to comprise the difference between (a) interest at 11.25% per year for the remainder of any three month period since the last interest payment, and (b) the amount the lender would earn on deposit in the relevant interbank market for the remainder of that interest period.
+It follows that the total cost of borrowing, and the return to a lender, may vary in amount depending on the circumstances in which repayment or prepayment falls to be made.
+There are three variables in particular.
+One is that if the lender prepayment option under clause 8.2 is exercised, the applicable total rate of return will be 17% per annum rather than the 20% per annum payable in other circumstances.
+The second is that if the prepayment or repayment occurs in the first nine months, the rate of return is calculated over a nine month period (clause 9.2(b)).
+Thirdly, some of the circumstances giving rise to repayment or prepayment involve the payment of break costs.
+The calculation of the payment premium falls to be undertaken after such break costs have been taken into account.
+The calculation of the payment premium is therefore only capable of being performed by applying the internal rate of return of 17% or 20% respectively to figures which are ascertainable by reference to the events giving rise to the repayment or prepayment.
+The LMA terms 23.
+Condition 7.1 provides: The transaction shall be settled on the Settlement Date by the taking of all necessary action to complete the transaction.

@@ -1,0 +1,39 @@
+This appeal is concerned with distributions made and to be made by the administrators of Kaupthing Singer & Friedlander Ltd (KSF), a bank.
+In particular, the appeal turns on what function, if any, the equitable rule in Cherry v Boultbee has to perform in the operation of the rule against double proof as it applies in situations involving guarantees and other sureties [9].
+Singer & Friedlander Funding plc (Funding) is a wholly owned subsidiary of KSF and its sole function was to raise funds for use by KSF and other group companies.
+In 2005 Funding issued 250m floating rate notes constituted under a trust between KSF, Funding and HSBC Trustee (CI) Ltd (the Trustee).
+Under the trust KSF guaranteed payment of the principal and interest on the notes [2].
+The net proceeds of the notes were advanced by Funding to KSF by way of an unsecured loan [3].
+Both KSF and Funding went into administration in October 2008.
+When KSF went into administration on 8 October 2008 it owed Funding approximately 242.6m pursuant to the loan.
+When Funding went into administration on 15 October 2008 approximately 240.3m was prospectively owing on the notes and on 23 March 2009 the Trustee gave notice of an event of default upon which the notes became immediately due and payable and the obligations of Funding (as principal debtor) and KSF (as guarantor) came into immediate effect [3].
+On 28 April 2009, the Trustee submitted to each of Fundings and KSFs administrators proofs of debt in respect of the loan notes in the sum of approximately 248.1m.
+On 8 May 2009, Funding submitted a proof in respect of its loan to KSF in the sum of approximately 242.6m [4].
+On 20 May 2009, KSFs administrators gave notice of their intention to make distributions in the administration, including to ordinary unsecured creditors.
+KSF has numerous creditors who have already received dividends amounting to 58p in the pound [5].
+KSFs administrators applied to the Chancery Division for directions.
+At the hearing the Trustee recognised that the Chancellor was bound by the Court of Appeal decision in In re SSSL Realisations (2002) Ltd [2006] Ch 610 (SSSL) but the Trustee made clear its intention to argue that SSSL was wrongly decided if granted permission to appeal.
+Accordingly, the Chancellor declared that the rule in Cherry v Boultbee was not excluded and directed that the administrators of KSF might rely on it unless and until KSFs right of indemnity (as a surety) had been satisfied in full.
+This is a leapfrog appeal direct from the Chancellor, who certified that there was a point of law of general public importance on which he was bound by a fully considered judgment of the Court of Appeal [6] [7].
+The Supreme Court unanimously allows the appeal.
+The rule in Cherry v Boultbee is excluded in this case by the rule against double proof.
+Accordingly the Trustee must be paid in full before there can be any proof against Funding as the principle debtor by KSF as guarantor.
+Lord Walker gives the leading judgment with which Lady Hale, Lord Clarke and Lord Collins agree.
+Lord Hope delivers a short judgment agreeing with Lord Walkers reasons and the result.
+The rule against double proof is a rule to prevent the double proof of what is in substance the same debt being made against the same estate, leading to the payment of a double dividend out of one estate.
+In the simplest case of suretyship there is a triangle of rights and liabilities between the principal debtor (PD), the surety (S) and the creditor (C).
+PD has the primary obligation to C and a secondary obligation to indemnify S if and so far as S discharges PDs liability.
+But if PD is insolvent S may not enforce that right in competition with C. S has an obligation to C to answer for PDs liability and the secondary right of obtaining an indemnity from PD.
+C can proceed against either or both of PD and section If both PD and S are in insolvent liquidation, C can prove against each for 100p in the pound but may not recover more than 100p in the pound in all [11].
+The rule protects other creditors of PD against unfair treatment by an arrangement under which there are multiple creditors in respect of the same debt.
+The effect is that so long as C has not been paid in full, S may not compete with C either directly by proving against PD for an indemnity, or indirectly by setting off his right to an indemnity against any separate debt owed by S to PD.
+The rule in Cherry v Boultbee is a technique of netting off reciprocal monetary obligations, even where there is no room for legal set off [9].
+A person who owes an estate money, that is, who is bound to increase the general mass of the estate by a contribution of his own, cannot claim a share given to him out of that mass estate without first making the contribution that completes it [13].
+In SSSL, the Court of Appeal considered that there are good reasons why the rule against double proof should not have the same effect on the equitable rule in Cherry v Boultbee as it does on statutory set off.
+The Court of Appeal considered that the contrary view involved three misunderstandings.
+Lord Walker finds much of the reasoning of the Court of Appeal in SSSL difficult to follow [49].
+For example, the Court of Appeals suggestion that in a double insolvency the rule in Cherry v Boultbee and the rule against double proof can and should both apply, as this would strike a fair balance between the competing interests of creditors, would lead to many doubts and difficulties [51] [52].
+The equitable rule in Cherry v Boultbee may be said to fill the gap left by disapplication of set off, but it does not work in opposition to it.
+It produces a similar netting off effect except where some cogent principle of law requires one claim to be given strict priority to another.
+The rule against double proof is one such principle.
+It would be technical, artificial and wrong to treat the rule against double proof as trumping set off but as not trumping the rule in Cherry v Boultbee [53].

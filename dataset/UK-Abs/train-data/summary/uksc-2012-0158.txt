@@ -1,0 +1,34 @@
+This appeal is about the meaning of turpitude in the ex turpi causa defence.
+This defence allows a defendant to resist a claim which is founded on the claimants own illegal or immoral acts.
+The appellants (collectively Servier) hold a number of patents for perindopril erbumine (a drug used for treating hypertension and cardiac insufficiency).
+European patent protection for the compound itself expired in June 2003, but a UK patent protecting a crystalline form continued and Serviers UK subsidiary was the exclusive licensee.
+Canadian patent protection for the compound itself will not expire until 2018.
+The respondents (collectively Apotex) are a Canadian group specialising in the manufacture and marketing of generic pharmaceutical products.
+The parties agreed that, for the purposes of this appeal, each group of companies could be treated as one legal entity each.
+Apotex began to import and sell generic perindopril erbumine tablets in the UK at the end of July 2006.
+Servier obtained an interim injunction against Apotex to stop it from doing this.
+In order to get the injunction, Servier had to give a cross undertaking in damages, meaning that it promised to compensate Apotex for any loss caused by the injunction if it later turned out that the injunction should not have been granted.
+In the event, the court found that the UK patent was invalid, and so Apotex became entitled to compensation from Servier.
+It is agreed that such compensation should be calculated on the basis that Apotex would have sold an additional 3.6m packs of tablets in the UK if there had been no injunction.
+These packs would have been manufactured in Canada but sold in the UK.
+Meanwhile, the parties were also litigating in Canada about the Canadian patent.
+That patent was found to be valid and infringed.
+Damages have not yet been assessed.
+The illegality issue arises because Servier argues that it is contrary to public policy for Apotex to recover damages for being prevented from selling a product whose manufacture in Canada would have been unlawful there as an infringement of Serviers Canadian patent.
+Servier won on this point at first instance before Arnold J but lost in the Court of Appeal.
+The Court of Appeal thought that the infringement of the Canadian patent did not count as turpitude for the purposes of the illegality defence, because: (i) Apotex honestly and reasonably believed that the Canadian patent was invalid too; (ii) it was important that Servier should pay once it had been discovered that it was enjoying a monopoly it was not entitled to; and (iii) the effect of the Canadian patent was limited to Canada, where (iv) the Canadian court had refused to grant an injunction and (v) Apotex was paying damages which would be taken into account when calculating Serviers liability on the cross undertaking.
+Servier appealed to the Supreme Court.
+The Supreme Court unanimously dismisses Serviers appeal, but on grounds which differ from those of the Court of Appeal.
+It holds that the infringement of the Canadian patent by Apotex does not constitute turpitude for the purposes of the ex turpi causa defence.
+Lord Sumption, with whom Lord Neuberger and Lord Clarke agree, gives the main judgment.
+Lord Mance agrees with Lord Sumption and offers some further comments.
+Lord Toulson also dismisses the appeal but agrees with the approach taken by the Court of Appeal.
+The majority of the House of Lords in Tinsley v Milligan [1994] 1 AC 340 rejected the public conscience approach on the ground that it imported a discretionary element into what was in reality a rule of law [13 18].
+The Court of Appeal was wrong to treat the question as depending on the culpability of the illegality, the proportionality of the application of the defence or the general merits of the particular case [19].
+Turpitude involves a breach of the public law of the state (or in some cases its public policy).
+The paradigm case of turpitude is a criminal act.
+In addition, the category of turpitude includes certain quasi criminal acts, such as: (i) dishonesty or corruption; (ii) certain anomalous acts (such as prostitution) which, while not criminal, are contrary to public policy and commonly involve criminal liability on the part of others; and (iii) the infringement of statutory rules enacted for the protection of the public interest and attracting civil sanctions of a penal character [23 30; 34].
+The grant of a patent gives rise to private rights, the infringement of which does not engage the public interest so as to give rise to the ex turpi causa defence [30].
+Lord Toulson agrees that the appeal should be dismissed, but he says that the Court of Appeal was right to take public policy considerations into account, because the defence is based on public policyas a majority of the Supreme Court recognised in Hounga v Allen [2014] UKSC 47 [62].
+The public interest in the enforceability of cross undertakings in damages is an important factor pointing in favour of the recovery of damages by Apotex [63].
+It may, however, be necessary to re analyse Tinsley v Milligan [1994] 1 AC 340 in a future case [64].

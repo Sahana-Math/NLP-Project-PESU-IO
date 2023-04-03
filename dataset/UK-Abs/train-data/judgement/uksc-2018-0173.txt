@@ -1,0 +1,516 @@
+Allegations that a bribe was paid to procure a contract are by no means unknown in international business disputes heard by the Commercial Court in London.
+Allegations that evidence was procured by torture are thankfully rare.
+In this case allegations of both bribery and torture were made.
+A claim under a guarantee of a contract to charter a vessel was met with a defence that the contract was procured by bribery, with the consequence that the guarantee was therefore unenforceable.
+The allegation of bribery was founded on evidence of confessions made by the individuals who had allegedly paid and received the bribe.
+The claimant in turn alleged that the confessions were obtained by torture and for that reason were inadmissible as evidence in legal proceedings.
+The relevant events all took place in the Peoples Republic of China (the PRC) and the judge was faced with a difficult task of having to assess the truth of the allegations on the basis of limited evidence.
+In particular, no one with first hand knowledge of the alleged bribery or torture gave evidence and the documentation available at the trial was substantially incomplete.
+The judge concluded that torture could not be ruled out as a reason for the confessions and that in any case the allegations of bribery had not been proved.
+He therefore found that the contract was enforceable and awarded damages to the claimant.
+The Court of Appeal allowed an appeal from that decision and remitted the case for redetermination.
+They did so on the grounds that the judge failed to ask and answer the correct legal question as to what weight should be accorded to the confession evidence and, in those circumstances, fell into legal error in failing to take all the appropriate matters into account and failing to exclude irrelevant matters in considering whether the alleged bribe was paid.
+Those irrelevant matters included, in the Court of Appeals view, the judges finding that torture could not be ruled out as a reason for the confessions.
+The Court of Appeal decided that, as a matter of law, if an allegation that a statement was made as a result of torture has not been proved on the balance of probabilities, a court when estimating the weight to be given to the statement as hearsay evidence in civil proceedings must entirely disregard the possibility that the statement was obtained by torture, even if on the evidence given at trial the court considers this to be a serious possibility which it cannot rule out.
+In this judgment we explain our reasons for concluding that the Court of Appeal was wrong to interfere with the factual findings made by the trial judge in this case and was also wrong in its approach to the question whether evidence had been obtained by torture.
+On the latter question we explain why, as matter of principle and authority, the judges finding that torture could not be ruled out as a reason for confessions of bribery was a factor that he was entitled to take into consideration in deciding whether the confessions were reliable evidence that bribery had in fact occurred.
+Factual background
+The contract in dispute is a charterparty concluded on 6 August 2008 between the appellant, Shagang Shipping Company Ltd (Shagang), as disponent owner and Grand China Shipping Company Ltd (Grand China) as charterer.
+Under the charterparty Grand China agreed to charter from Shagang a capesize bulk carrier, then under construction, for a period of 82 to 86 months to run from when the vessel was delivered in 2010.
+A few months earlier, Shagang had itself chartered the vessel from head owners, Dong A Tanker Corporation, on similar terms save for the rate of hire.
+Grand China was a new company.
+Its ultimate parent company was the respondent, HNA Group Company Ltd (HNA), which guaranteed the performance of Grand Chinas obligations under the charterparty.
+The guarantee, also dated 6 August 2008, is governed by English law and provides that any dispute arising from it is subject to the exclusive jurisdiction of the English courts.
+Shagang, Grand China and HNA are all companies based in the PRC.
+Shagang, which is now in liquidation, is based in Hong Kong, as is Grand China (also now in liquidation).
+HNA is based in Haikou, which is the capital of Hainan province.
+In August 2008 the relevant chartering market was at its height.
+It was an
+active market in which owners (including disponent owners like Shagang) held the dominant bargaining position.
+The rates of hire for the vessel agreed in the charterparty were in line with the market.
+The vessel, named Dong A Astrea, was delivered to Grand China in April 2010.
+By that time market rates were very considerably lower than in August 2008, the financial crisis in the autumn of 2008 having changed things dramatically.
+From September 2010 onwards, Grand China defaulted in making payments of hire under the charterparty.
+Shagang commenced arbitration proceedings against Grand China and obtained a series of interim final awards for unpaid hire.
+Some payments were made by Grand China but it remained in arrears, and on 17 January 2012 Shagang In the meantime, on 13 September 2012 Shagang commenced the present terminated the charterparty on the basis of Grand Chinas default in paying hire and consequent repudiatory breach of the charterparty.
+The claim for unpaid hire was settled in May 2012 but Shagang pursued its claim in arbitration for damages for the loss caused by Grand Chinas repudiatory breach of the charterparty.
+On 1 November 2012 the arbitral tribunal issued a partial final award for damages in a sum of US$58,375,709.
+On 8 April 2013 Grand China was wound up in Hong Kong.
+action in the Commercial Court against HNA under its guarantee.
+The PSB investigation and allegations of bribery
+HNA filed its defence to Shagangs claim on 4 November 2013, initially without making any allegation of bribery.
+On 23 June 2014, however, HNA amended its defence to allege that the charterparty had been procured by the payment of bribes by or on behalf of Shagang to senior employees of Grand China.
+In support of this allegation, HNA relied on confessions made during an investigation undertaken by the Chinese Public Security Bureau (the PSB).
+At the time when the charterparty was concluded in August 2008, Mr Jia Hongxiang (Mr Jia H) was a general manager within HNA and the chief executive officer of Grand China.
+On 11 November 2013, Mr Jia H was detained by the Haikou PSB on suspicion of embezzlement.
+On 29 November 2013, Mr Jia Hs son, Mr Jia Tingsheng (Mr Jia T), was detained on bribery charges.
+Mr Jia T was not employed directly by either Grand China or HNA but was employed by an associate company, GCS Development Company.
+Mr Jia T knew from college Mr Xu Wenzhong (Mr Xu) who in August 2008 had been employed by Shagang.
+Both men lived in Shanghai.
+On 22 January 2014, Mr Xu was detained by officers of the Haikou PSB on the charge of bribing a non public servant.
+He was flown to Haikou (over a thousand miles away), where he was questioned by PSB officers from the Meilan district branch overnight and during 23 January 2014.
+According to the PSBs interrogation record, Mr Xu gave an account of being asked by the general manager of Shagang, Mr Shen Wenfu (Mr Shen), to use his relationship with Mr Jia T to cause Mr Jia Ts father, Mr Jia H, to charter the vessel from Shagang as soon as possible.
+Mr Xu is recorded as saying that Mr Shen gave him RMB 100,000 (equivalent to around US$16,000 at that time) in cash, which Mr Xu delivered to Mr Jia T at Mr Jia Ts home in a single instalment.
+The interrogation record states that Mr Xu was willing to confess his crime for leniency.
+Also on 23 January 2014, Mr Jia T was questioned by the same PSB officers who had interrogated Mr Xu.
+The only interrogation record disclosed is described as the 4th.
+It records Mr Jia T as saying that Mr Xu gave him RMB 150,000 in the hope that Mr Jia Ts father would communicate with HNA to arrange the guarantee as quickly as possible.
+The money was said to have been handed over by Mr Xu in cash in the cafeteria of a hotel near Mr Jia Ts home.
+When Mr Jia T told his father about this payment, Mr Jia H said that he could only communicate with HNA according to the companys normal rules and told Mr Jia T to send the money back.
+Mr Jia T did not do so and, shortly after the charterparty was concluded, met Mr Xu again at a restaurant near Mr Xus house where he received another RMB 150,000.
+He did not tell his father about this payment.
+The interrogation record states that Mr Jia T was asked whether his confession had been extorted by torture or deceit, to which he replied no.
+A confession note dated 24 January 2014 in Mr Xus name gives a similar account to that given in Mr Jia Ts 4th interrogation record.
+It describes Mr Xu paying Mr Jia T a sum of RMB 300,000 in two instalments, one before and one after the signing of the charterparty.
+Another interrogation record dated 4 March 2014 refers to Mr Xu being asked why he had initially stated that he had bribed Mr Jia T with RMB 100,000, when he was now saying that the amount was RMB 300,000.
+He answered that in his initial confession he had lied and deliberately given a lower amount because he was trying to escape punishment.
+However: Being educated by the police officers, I realised the mistakes I made.
+Now, I am willing to truthfully confess, for leniency.
+Mr Xu was also asked why he and Mr Shen would want to bribe HNA if, as he had told the PSB, the pricing of the charterparty was reasonable in any event.
+Mr Xu is recorded as answering that it would otherwise have been difficult to charter the vessel quickly.
+Mr Shen was also detained on bribery charges and on 16 February 2014 was questioned by the PSB.
+According to the PSBs interrogation record, Mr Shen said that he had given Mr Xu RMB 300,000 in two instalments to pay Mr Jia T.
+The money was said to have been provided at Mr Xus request to make sure that HNA would provide a guarantee of Grand Chinas performance of the charterparty.
+The same account is contained in an undated confession note.
+On 17 February 2014, the PSB sent a letter to HNA summarising the confessions made by the individuals accused of bribery.
+This letter was sent in response to a request made by HNA on 10 February 2014 for information about the criminal investigation to enable HNA to explain and prove the facts in the English court proceedings.
+Allegations of torture and Mr Xus guilty plea
+On 1 May 2014 Mr Zhang Jie (Mr Zhang), who had by then replaced Mr Shen as the general manager of Shagang, made a formal complaint to the Peoples Procuratorate (the entity that has supervisory responsibility for the PSB) of Haikou.
+The complaint alleged that the confessions of Mr Xu and Mr Shen had been procured by torture and that HNA had wrongly used the PSB to manufacture false charges with a view to interfering in an economic dispute.
+Mr Zhang requested the Procuratorate urgently to investigate these allegations.
+On 23 June 2014, the Procuratorate made a report on the outcome of its investigation into this complaint.
+The report stated that the Procuratorate had visited the [PSB], interviewed the concerned suspects, [and] retrieved from the detention centre relevant materials.
+It concluded that the allegations made in the complaint were not supported by the facts. (Copies of the complaint and report were not available at the trial and were admitted as new evidence in the Court of Appeal.)
+On 23 July 2014 Mr Xu (who in the meantime had been under a form of house arrest at a hotel in Hainan province) was arrested for bribery of a non public servant and transferred to a detention centre in Haikou.
+On 21 August 2014 he was visited and interviewed at the detention centre by Mr Guo, a lawyer retained by his wife.
+Mr Guos interview notes record that Mr Xu maintained that he was innocent and gave the following account of his interrogations: I was brought to Hainan on 23 January this year [2014], Initially there werent any charges.
+I was taken to the basement of the [PSB].
+It was around 11pm and I was definitely there for over 48 hours.
+I came out on the afternoon of the 26 [January].
+The least serious methods used against me were fists and truncheons.
+I was stripped of my clothes and cold air was blown on me.
+They covered my mouth with their hands after water was poured into me.
+I was also burnt with a cigarette butt.
+At first I said that there had been no such thing [bribery], but then they tortured me and I couldnt take it any longer.
+On the morning of 24 [January], I said I had paid out 100,000 yuan.
+I made this up.
+On the afternoon of 24 [January] they tortured me again and poured water into me.
+I couldnt bear it any more.
+They told me it had been 300,000 and it had been paid in two batches 150,000 each time.
+In the end, I had no other way out but to say what I was told to say .
+I definitely never did it.
+At that time, the market was dominated by shipowners and we didnt have to ask any favours of [Grand China].
+They had to ask help from us.
+Their company was a new company and we were an established company.
+Despite what Mr Xu had told Mr Guo in this interview, on 22 August 2014 Mr Guo made an application for bail on behalf of Mr Xu on the basis that Mr Xu had given a true account in his confessions and had repented.
+Bail was refused.
+On 15 September 2014, in a further interview, Mr Xu gave Mr Guo a detailed account of all his interrogations by the PSB and of the visit by the Procuratorate in June.
+As well as describing how he had allegedly been tortured by the PSB, Mr Xu said that, before he was interrogated again on 24 January 2014, he had heard Mr Jia T screaming from another room.
+He also said that he was later told that Mr Shen had confessed and was taken to see Mr Shen.
+He said that Mr Shens whole face was red and it was obvious that he had had water poured into him.
+On 14 November 2014 Shagang amended its reply in the Commercial Court proceedings to plead an allegation that the confessions of bribery relied upon by HNA in its defence had been obtained by torture, with the consequence that they were inadmissible as evidence in the proceedings.
+In response, on 3 December 2014, HNA wrote to the Haikou PSB accusing Mr Xu, his wife, Mr Zhang, Mr Guo and two solicitors acting for Shagang in the Commercial Court proceedings of crimes involving interference with the PSBs investigation and fabricating evidence.
+HNA asked the PSB to handle the case legally and punish the criminals severely so as to realise the fairness and justice of our society and maintain judicial authority.
+On 17 and 19 December 2014, Mr Xu was visited by two lawyers from Mr Guos firm.
+According to their notes of these meetings, Mr Xu said that he had been interrogated again on two consecutive days at the end of November.
+At first he had not admitted to bribery but he was told that, if he admitted the offence, the sentence would be two years at most; otherwise he would be imprisoned for much longer.
+Mr Xu was recorded as telling the lawyers that he had already been detained for almost a year and that, in order to get out as soon as possible, he had decided to repeat the fabricated account of events he had previously given to the PSB officers.
+He said that he had then given a video recorded interview in which he repeated that account.
+The case against Mr Xu came before the Meilan District Peoples Court of Haikou City in Hainan province on 22 September 2015.
+Before the hearing Mr Xu instructed Mr Guo that he wanted to admit the allegations against him in order to be released sooner.
+In his submissions Mr Guo relied on Mr Xu having made a voluntary confession in asking the court for leniency.
+Mr Xu was sentenced on 16 November 2015 to a term of imprisonment of one year and eight months.
+With credit given for the time he had already spent in detention, this led to his release the following month.
+No prosecution was brought against Mr Shen or Mr Jia H.
+In late 2015 Mr Guo met Mr Jia Hs lawyer, who gave him a copy of an unsigned document said to have come from Mr Jia Ts wife.
+The document is entitled Report on torture suffered by [Mr Jia T] during the period detained in Hainan.
+This report contains a detailed account written in the first person of three interrogations of Mr Jia T, in each of which torture was allegedly used: the first, lasting 46 hours, from 29 November to 1 December 2013; the second, lasting 24 hours, on 19 and 20 December 2013; and the third, lasting 42 hours, on 23 and 24 January 2014.
+The torture alleged to have occurred during the last of these interrogations, in which the confession recorded in the 4th interrogation record was made, included: sleep deprivation; putting a cover over Mr Jia Ts head so that it was difficult to breathe and then pouring wasabi oil on his head near his mouth and nose as he lay on his back so that he was forced to inhale it; and covering his face with a sweater soaked in iced water until he could hardly breathe, then loosening the sweater as water was poured into his nose (a procedure said to have been continued over a period of around four hours).
+The report also contains the following passage, which occurs at the point in the narrative in the early hours of 24 January 2014 after the alleged torture had ended and just before the confession that Mr Jia T had given was written down: [The PSB team leader] came in and said: Actually, you do not know to what stage this situation has developed.
+Shagang recently wound up Grand China, and took over USD20m, now they are preparing to wind up our HNA.
+We are undoubtedly not interested in you people as individuals, our HNA Group just wants to solve a problem.
+So really it is no big deal, you need not worry, just co operate and write down a confession, and strive to return home for Chinese New Year.
+After you go home do not ever recant your confession or you know what the consequence will be.
+The trial
+The trial of Shagangs claim against HNA in the Commercial Court took place over ten days between 26 January and 9 February 2016 before Robin Knowles J.
+By the time of the trial it was agreed that, unless HNA succeeded in its defence that the charterparty was procured by bribery, Shagang was entitled to judgment on its claim under the guarantee in a sum of US$68,641,712.
+Only three witnesses gave oral evidence at the trial.
+They were Mr Guo and Mr Zhang for Shagang and the general manager of HNAs audit and legal affairs department, Mr Wu.
+None of the witnesses had first hand knowledge of the alleged bribery or torture, although (as mentioned) Mr Guo had interviewed Mr Xu and represented him in the criminal proceedings against him.
+Each party also relied at the trial on expert evidence of Chinese criminal law and procedure and of experience of confession evidence in China.
+Neither party sought to cross examine the others experts but each party provided (at the judges request) a list of key propositions to be derived from this evidence.
+The expert evidence showed that, in a high proportion of criminal cases in the PRC (as many as 95% according to Shagangs expert), the suspect confesses, and also that it is the almost invariable practice of the PSB to interrogate suspects and obtain their confessions on multiple occasions.
+It is normal for suspects to plead guilty and innocent verdicts are very rare.
+Torture is illegal in the PRC and legislative reforms of criminal procedure were introduced in 2012 with the aim of giving greater protections to suspects and seeking to eradicate a perceived problem of the use of torture to coerce confessions.
+However, there have continued to be reported instances of torture being used.
+The experts were also agreed that it is by no means unknown for local PSBs to interfere in commercial disputes in favour of locally powerful economic interests, although over the years the Chinese authorities have issued various promulgations seeking to clamp down on this practice.
+The judgment of the trial judge
+In his judgment given on 16 May 2016, the judge noted that there was little first hand oral evidence available at the trial.
+None of Mr Xu, Mr Jia T, Mr Jia H or Mr Shen was available to give evidence.
+Nor was there any evidence from any officer of the PSB.
+The judge declined to draw any adverse inference against Shagang from the absence of Mr Xu, Mr Xus wife (who had made a witness statement) and Mr Shen.
+He noted that Shagang was now in liquidation and found that Shagang could not realistically be expected to procure their presence at trial.
+With regard to the witnesses who gave oral evidence, the judge commented unfavourably on the evidence of Mr Wu, finding that he chose to attempt to avoid giving straightforward answers.
+In relation to Mr Guo, the judge said that, whilst he was able to accept substantial parts of his evidence, there were other parts that he found unconvincing.
+He observed that it was to Mr Guos credit that he was prepared to attend the trial and said that there was nothing in the suggestion that he was looking to help Shagang.
+The judge also said that he did not doubt the essential accuracy of the notes made by Mr Guo of his interviews with Mr Xu.
+The judge found that the expert evidence relating to Chinese criminal law and procedure, and experience in China of confession evidence, was valuable context or background evidence.
+The documentation available was found by the judge to be substantially incomplete.
+He rejected the suggestion that Shagang had deliberately withheld or deleted documents.
+The judge said that the evidence available was limited in many respects when compared with the evidence that would be desirable for conclusions on the issues in this case, observing at para 85 that: many of the documents require caution before reliance can be put on what they appear to say.
+The evidence of those few factual witnesses the court has seen has its shortcomings.
+Accounts of the same key people (Mr Xu in particular) are used both to support and to deny the case of bribery, and both to support and to deny the case of torture.
+Accounts are altogether missing from other key people.
+The judge summarised the evidence under the following headings: Commercial Context (paras 18 22); Approval of the Charterparty within Grand China and HNA (paras 23 24); Confession by Mr Xu (paras 25 44); Confession by Mr Jia T (paras 45 50); Confession by Mr Shen (paras 51 55); Mr Jia H (paras 56 57); the Sun bribe (paras 58 62); and Confession evidence and torture (paras 63 82). (The Sun bribe was a separate allegation of bribery made by HNA against a broker, which HNA accepted did not give it a defence and which the judge found was not relevant to Shagangs claim.)
+The judge then proceeded straight to his conclusions.
+Under the heading Conclusions on bribery he found at para 87 that: On the limited evidence at this trial, and after careful consideration, on the balance of probabilities I find that there was no bribe by Mr Xu.
+At paras 88 93 he set out his principal reasons for reaching that conclusion.
+Because criticisms made of the judges reasoning are at the centre of this appeal, we quote these paragraphs in full: 88.
+I fully acknowledge that the Meilan District Peoples Court of Haikou City found Mr Xu guilty of bribery and sentenced him.
+On the material put before that Court I can entirely follow its finding.
+However, material has been put before this Court that was not put before the Meilan District Peoples Court.
+In particular, the Meilan District Peoples Court had evidence of Mr Xu (and others) admitting the alleged bribery, but did not have the evidence of his (and their) also denying the alleged bribery. 89.
+When Mr Xu, Mr Jia T and Mr Shen each first referred to a bribe they did so without a lawyer or representative present.
+Although it appears Mr Guo was not his first lawyer, when Mr Xu had access to Mr Guo as his lawyer Mr Xu denied that there was a bribe. 90.
+There is no evidence that any account of the officers of PSB who were present at any interrogation has been tested with them in China.
+I appreciate the practical difficulties, but there has been no opportunity to test an account from them at this trial. 91.
+The reason given for the alleged bribing concluding the charterparty quickly rather than the pricing of the charterparty is unconvincing, in my judgment.
+Even if there was a desire for a quick conclusion I am unpersuaded, on the evidence, that bribes were introduced to achieve that end.
+On the documents, Mr Xu at one point suggested it as a reason for bribing.
+The same appears to be the case for Mr Shen.
+But both have also denied any such bribe.
+Further, the state of the market was not such as to provide an objective reason for a quick conclusion being so important, or being other than achievable in ordinary course in any event.
+The relevant chartering market was active and an owners market.
+As for the facts that the charter period would commence in 2010 and be of some length, it is hard to accept these would have made a difference: Shagang itself had recently agreed a charterparty for the Vessel of identical commencement and duration to the Charterparty. 92.
+Even when Mr Jia T gave an account consistent with receiving a bribe, that account supported the fact that Mr Jia Hs response was to insist on normal procedures.
+I do not overlook HNAs point that a requirement for board approval was lifted and the charterparty was not submitted for a required legal and financial review, but in the result the charterparty was approved by, among others, a main board director of HNA, and by the Chairman of HNA.
+I do not overlook Mr Wus own evidence that he did not become aware of the charterparty until 2011, but in the next several years following the agreement of the charterparty in 2008 I do not see anyone at HNA bringing out the point that the charterparty was agreed too quickly so as to cause suspicion of bribery. 93.
+Further, I have seen no records to show withdrawal of funds used for the alleged bribe or expenditure of funds by Mr Jia T.
+At para 94 the judge observed that the reasons I have given would alone cause me to reach the conclusion that there was no bribe.
+He then addressed various contrary arguments advanced by HNA as follows: I am not led to a different conclusion by the fact that Mr Xu pleaded guilty at trial, when I consider that plea in context.
+Further my conclusion is not disturbed by Mr Xus admission of accepting a watch as a bribe in connection with an unrelated matter. 95.
+I have considered carefully a challenge by HNA to the reliability of Mr Xus apparent accounts by reference to the dates and times, and sequence of events, in January 2014, including by comparison with the Jia T report.
+I do not find these points affect the substance of the matter, and I would have been surprised not to find some possible discrepancies in the circumstances that obtained. 96.
+HNA argues that an unequivocal confession is sufficient to convict an accused even on the criminal standard of proof.
+But the question in the present case is not whether a confession by an accused may lead to a conviction of that accused.
+In these proceedings HNA relies on the alleged confessions against Shagang and not against the individuals said to have made them. [Counsel for HNA] refers to R v Tippet (1823) Russ & Ry 509 and R v Sykes (1913) 8 Cr App 233 at 236 but those were cases where confessions were relied upon against the individuals said to have made them. 97.
+HNA argues that, in the absence of torture, there is no credible reason why Mr Xu, Mr Jia T and Mr Shen should falsely confess to crimes which they did not commit.
+However, the possibility of a large difference between the sentence that might follow an admission and the sentence that might follow a conviction was referenced expressly by Mr Xu in his exchanges with Mr Guo, and on his account reflected what had been indicated to him by officers of the PSB. 98.
+HNA argues that the prospect of a lighter sentence cannot be a reason for a false confession.
+I do not accept that argument.
+In the following section the judge set out his conclusions on torture: 101.
+But what of the allegations of torture? I have considered the evidence available at this trial for and against the allegations of torture, and the limitations of that evidence, including the absence emphasised by HNA of medical evidence.
+Having done so, I find that torture cannot be ruled out as a reason for the confessions. 102.
+The fact that I cannot rule out torture further reduces the confidence that I can put in the confessions, although it will be apparent from my conclusions on bribery (above) that I already have insufficient confidence in the confessions to allow a finding of bribery. 103.
+HNA distinguishes the confessions from later admissions (including in bail applications) and pleas of guilty, at which later points torture is not alleged to have been practised.
+But in the present case the matters are interconnected.
+Once the confessions had been made, a departure from them, in the form of a denial or a not guilty plea, would likely require reference back to the torture allegations. 104.
+In the present case, in the circumstances of my conclusion that there was no bribe, it is not necessary to express a definitive conclusion on whether there was torture.
+I have said that I cannot rule it out; the evidence available does not equip me well to reach a firmer conclusion. 105.
+That I should so confine my view at this trial is also in the interests of leaving proper room for investigation in China by the appropriate authorities, to include questioning of the officers who were on duty.
+I have not set out in this judgment the full extent and nature of the torture alleged to have occurred, but if the allegations were all true it would be hard to imagine a more comprehensive breach of the duties and responsibilities of the officers.
+In the light of his conclusions, the judge found that HNA was liable to pay
+damages to Shagang and judgment was entered in the agreed principal sum of US$ 68,597,049.59.
+The judge refused permission to appeal to the Court of Appeal, as did Davis LJ when he considered HNAs application for permission on the papers.
+Permission to appeal was granted by Longmore LJ, however, following an oral hearing.
+On the appeal HNA contended that the judges conclusion on bribery was unsustainable and that, having accepted that the confession evidence was admissible, the judge should have held that the charterparty was procured by bribery.
+The Court of Appeals judgment
+For reasons given in a joint judgment dated 23 July 2018 [2018] EWCA Civ 1732, the Court of Appeal (Sir Geoffrey Vos, Chancellor of the High Court, Newey LJ and Dame Elizabeth Gloster DBE) allowed the appeal.
+The Court of Appeal recognised that it was concerned with an appeal on questions of fact but observed that there was no appeal against the findings of primary fact made by the judge.
+The challenge made was to the manner in which the judge reasoned and his conclusion, drawn from his unchallenged findings of primary fact, that there was no bribe (para 53).
+In these circumstances, it was common ground that the proper approach to the appeal was that set out in Clarke LJs judgment in Assicurazioni Generali SpA v Arab Insurance Group (Practice Note) [2002] EWCA Civ 1642; [2003] 1 WLR 577, as approved by the House of Lords in Datec Electronics Holdings Ltd v United Parcels Service Ltd [2007] UKHL 23; [2007] 1 WLR 1325, and that the relevant questions were whether the judge made an error of law in reaching his ultimate conclusion and/or whether it was a conclusion that no reasonable judge could have reached (para 53).
+The Court of Appeals answer to those questions was that the judges decision was unsustainable for reasons summarised in para 79 as follows: The judge did not follow the logical steps necessary to reach a proper evaluation of the admissible evidence.
+He failed to ask and answer the correct legal question as to what weight should be accorded to the admissions evidence.
+The judge ought to have said why he was unable to place any reliance on the admissions, if that was his view.
+The judge also fell into legal error in failing to take all the appropriate matters into account in deciding the crucial bribery issue.
+As we have also said, the judge failed to exclude irrelevant matters (including his lingering doubt as to whether the admissions were procured by torture) in considering whether the alleged bribe was paid.
+The Court of Appeal decided that the case should be sent back for reconsideration of the issue of the weight to be attached to the admissions and of the issue of bribery in the light of this judgment, and on the basis that the issue of torture has already been decided (para 88).
+It directed that these issues be determined by a different Commercial Court judge.
+This appeal
+As encapsulated in para 79 of its judgment (quoted above), the Court of Appeal made four main criticisms of the judges reasoning: The judge failed to follow the logical steps necessary to reach a proper i) evaluation of the admissible evidence. ii) The judge failed to ask and answer the correct legal question as to what weight should be accorded to the confession evidence. iii) The judge fell into legal error in failing to take all the appropriate matters into account in deciding the bribery issue. iv) The judge fell into legal error in failing to exclude irrelevant matters, including what the Court of Appeal described as his lingering doubt as to whether the confessions were procured by torture, in considering whether the alleged bribe was paid.
+The central issue on this further appeal is whether these criticisms were justified and, to the extent that they were, whether they warranted overturning the judges decision and remitting the case for a fresh determination.
+If the Court of Appeal was right to remit the case, a further question arises as to whether the basis on which it did so was appropriate.
+Although not all aspects of these issues were covered by Shagangs original grounds of appeal, they are fully covered by the statement of issues agreed between the parties and by the parties written cases.
+To answer an objection raised by HNA that some of the arguments advanced by Shagang fall outside the scope of the original grounds, Shagang has applied for permission to amend its grounds of appeal to add a ground, in similar terms to the first agreed issue, that there was no basis in law for the Court of Appeal to interfere with the judges conclusions in light of the facts found by the judge (which are not in themselves challenged by either party).
+We would grant this application, as the amendment ensures that all the important points in dispute are properly before the court and causes no prejudice to HNA.
+It is convenient to consider each of the four key criticisms of the judges reasoning made by the Court of Appeal in turn.
+(i) Alleged failure to address issues in the logical order
+The Court of Appeal considered that the judge approached the issues in the wrong order and that he ought to have decided the issue of torture first.
+As stated at para 63: In our view, the judge ought to have decided the issue of torture first.
+It was the sole basis on which the admissibility of the admissions was resisted.
+All the other arguments went only to the weight that should be accorded to them.
+Thus, the judges first task was to decide on the facts whether or not torture had taken place in order to extract each of the three main admissions (leaving aside Mr Jia H) relied upon by HNA.
+Once he had done that exercise, the judge should have stated his conclusion that, since torture had not been proved, the admissions were admissible as evidence of their contents.
+In the view of the Court of Appeal, having decided that the confession evidence was admissible, the judge should next have determined the weight to be given to that hearsay evidence, having regard in particular to the considerations set out in section 4(2) of the Civil Evidence Act 1995.
+Only then should the judge have moved on to decide whether there had been bribery.
+The Court of Appeal summarised at para 65 the approach which it said should have been taken: In our judgment, therefore, the proper approach in a case of this kind is to decide first whether torture is proved.
+If it is not proved, as in this case, the statements are admitted as hearsay evidence.
+The next step is to decide the weight that can be attached to that evidence in all the circumstances, including those in section 4 of the 1995 Act.
+Only then could the court properly move on to an evaluation of all the evidence, including the hearsay statements of admission, in order to decide the primary factual issue in the case, which was whether the alleged bribery occurred.
+We can quite see that the second and third stages of the process might be undertaken together, but it must be clear that both have actually been considered.
+We fully accept that, where there is an issue as to whether important hearsay evidence is admissible, it is a logical approach to decide that issue first before going on, if the evidence is held to be admissible, to consider its weight and its evidential impact on the substantive issues to be determined.
+We do not, however, accept that such an approach is mandatory, either generally or in this particular case.
+How and in what order questions concerning the admissibility and weight of evidence are dealt with is very much a matter for the trial judge.
+There is no one size fits all approach.
+The judge will consider how best to deal with such matters in the light of the issues, the evidence and the arguments in the case as a whole.
+There will usually, if not invariably, be more than one legitimate approach which can be taken.
+In many cases, for example, issues of admissibility can be dealt with
+efficiently by admitting the evidence de bene esse.
+This means taking the evidence into account on the assumption, without deciding, that the evidence is admissible.
+Unless the evidence turns out to be critical to the decision to be reached, the issue of admissibility may never need to be determined.
+This is often a convenient approach to adopt, as resolving issues of admissibility can be complex and time consuming.
+Mr Brown for HNA realistically accepts that it would have been a permissible approach in this case.
+To make his reasoning clear the judge ought to have stated at the start of his conclusions on bribery that this was what he was doing.
+Nevertheless, when his conclusions are read as a whole, it is apparent that this is in fact the approach which the judge took.
+The judge was clearly aware that the issue of torture was a sensitive one and that any findings that he made about whether torture had occurred might have ramifications beyond the confines of the case, as he indicated at para 105 of his judgment.
+In these circumstances, it is understandable that he should have preferred not to determine that issue unless it was necessary to do so.
+This explains why he proceeded, as he manifestly did, by treating the confession evidence as admissible before coming to the issue of torture.
+If, as was the case, he reached the conclusion that notwithstanding the confession evidence there was no bribery, then the question whether that evidence was inadmissible because obtained by torture did not have to be decided.
+This also explains why the judge did not find in terms whether there was or was not torture, but instead left the matter open.
+Thus, he stated in para 101 that: I find that torture cannot be ruled out as a reason for the confessions.
+Similarly, in para 104 he stated that: it is not necessary to express a definitive conclusion on whether there was torture.
+I have said that I cannot rule it out.
+At para 105 he gave reasons why he considered that he should so confine my view.
+The Court of Appeal considered that, since the judge treated the confessions as admissible, he must have held that torture had not been proved on the balance of probabilities.
+We disagree.
+In our judgment, it is clear that the judge deliberately refrained from deciding that question.
+He considered that he did not need to decide it because he was in any event satisfied that there was no bribery.
+It is common for judges not to make findings on particular issues where to do so is unnecessary for the disposal of the case.
+As Davis LJ stated in refusing permission to appeal on the papers, in circumstances where the judge had decided that there was no bribery notwithstanding the confession evidence: there was no further requirement for the judge to make an express finding of whether or not there was also torture.
+He clearly had doubts on the matter; but he in terms stated that it was not necessary to reach a conclusion.
+We also note that the judges approach was consistent with the way in which Shagang put its case at trial.
+Its primary case was that, even taking the confession evidence at face value, it did not support HNAs pleaded case since it did not demonstrate the requisite inducement.
+Its secondary case was that such evidence was internally inconsistent, made no sense in the commercial context, and provided no or no sufficient basis for a finding of bribery.
+Its tertiary case was that if, contrary to both these arguments, the evidence did support a prima facie case of bribery, then it should be ruled inadmissible as having been procured by torture.
+In all the circumstances we do not consider the Court of Appeals criticism that the judge made an error by not deciding the issue of torture first to be justified.
+The approach taken was both legitimate and consistent with the way the case was put before him.
+We deal under the next heading with the Court of Appeals further criticism that the judge ought to have decided the weight to be given to the confession evidence before moving on to decide the primary factual issue of whether the alleged bribery occurred.
+(ii) Alleged failure to assess the weight of the confession evidence
+The Court of Appeal considered that the judge did not adequately address the weight to be given to the confession evidence, stating at para 77 that: he did not really address the point at all.
+He seems to have omitted that step in the argument.
+Once he found that the admissions had not been obtained by torture, if he was going to reject them as unreliable, he needed in our judgment to say why he was doing so.
+The nine factors relied upon by the judge in his conclusions on bribery may be summarised as follows: the confessions had been made without a lawyer present (para 89); the PSB officers present at the interrogations had not given any the fact of the confessions and the guilty plea of Mr Xu (para 88); the fact that all three individuals accused of bribery had retracted their i) ii) admissions and asserted their innocence privately (para 88); iii) iv) account which could be tested (para 90); v) the reason for the bribe given in the confessions, namely the need to conclude the charterparty speedily, was unconvincing, and the bribe made no sense commercially (para 91); vi) there was no evidence that the alleged bribe was ever received by Mr Jia H and the account of Mr Jia T in his confession on which HNA relied was that Mr Jia H had told him to return the bribe and abide by normal procedures (para 92); vii) and the chairman of HNA (para 92); viii) there was no evidence of withdrawal of funds used to pay the bribe or expenditure of those funds by Mr Jia T (para 93); and ix) confessions (paras 97 98).
+It is correct that the judge did not address the question of what weight should be given to the confession evidence as a separate step in his reasoning before going on to decide whether the alleged bribery had occurred.
+He did not refer to section 4 of the 1995 Act or to any of the considerations there set out.
+It is also fair to say that the charterparty was approved by an unconnected HNA board director the prospect of leniency was a credible reason for making false the judge stated his conclusions in what may be described as thumbnail terms without any detailed discussion of the evidence underlying them.
+It would have been much more satisfactory if he had dealt in more detail with the content of the confessions, the circumstances in which the confessions were made and other factors bearing directly on their reliability, such as the evidence that each of the individuals had told others their confessions were false, before bringing into consideration other factors bearing on the likelihood or otherwise that the confessions were truthful, such as the lack of any plausible commercial reason for paying a bribe.
+We do not accept, however, that the judge failed to address the question of what weight should be given to the confession evidence or to say why he rejected it as unreliable.
+The confession evidence was the first matter to which he referred in the reasons given for his conclusion that no bribe was paid.
+Furthermore, the judges second, third and fourth factors listed above all directly relate to the reliability and weight of that evidence.
+The third factor is of obvious importance.
+The right in most circumstances to consult a lawyer before police questioning is well recognised in this jurisdiction and under the European Convention on Human Rights.
+It is an important safeguard and incriminating evidence obtained without affording that opportunity will generally be inadmissible see section 58 of the Police and Criminal Evidence Act 1984 (PACE); Cadder v HM Advocate (HM Advocate General for Scotland intervening) [2010] UKSC 43; [2010] 1 WLR 2601.
+The judge was also entitled to attach weight to the fact that none of the PSB officers present at the interrogations had given any account which could be tested (his fourth factor).
+The Court of Appeal considered that this factor could only have been relevant to the question of whether the confessions were obtained by torture, and not to the question whether the confessions were otherwise reliable evidence of bribery.
+We disagree.
+It seems to us that there were many questions that it would have been relevant to ask the PSB officers had there been an opportunity to do so and the fact that such questions were unanswered was relevant, not only to the allegation of torture, but more generally to the reliability of the confession evidence and the weight that should be accorded to it.
+One obvious area of enquiry is what caused officers of the Haikou PSB to detain Mr Jia T and Mr Xu on bribery charges in the first place and whether they had any information to suggest that a bribe had been paid before Mr Jia T and Mr Xu made their confessions.
+There was no evidence at the trial that they did.
+Mr Wu in his testimony accepted that HNA had no evidence that Shagang had bribed anyone in relation to the charterparty when the PSB began its investigation.
+Nor did HNA ever acquire any such evidence apart from the confessions.
+None of the interrogation records and other documents relating to the PSB investigation and to the subsequent criminal proceedings against Mr Xu refers to any reason for suspecting Mr Jia T, Mr Xu or Mr Shen of bribery apart from their confessions, or records any question confronting any of them with any reason for suspicion.
+According to the first interrogation record of Mr Xu, for example, his initial confession came about in the following way.
+Having been asked about his personal details and background and told that he was under suspicion of bribery, Mr Xu was asked: Question: Do you have any criminal action, please explain? Answer: Yes, I have criminal action of bribery.
+Question: Please describe in detail your behaviour of bribery.
+Answer: Sure.
+In June 2008 [The confession then follows]
+While there are no doubt cases where individuals confess to crimes including crimes of dishonesty entirely of their own initiative, when there is no evidence to implicate them, such an occurrence raises questions about how the individual had come to be suspected of a criminal action of bribery, whether the interrogation records are complete and whether the suspect was offered any inducement or given any motive to confess.
+Quite apart from its relevance to the allegation of torture, the judge was entitled to regard the inability to test any account from any officer of the PSB of how the confessions had come about as tending to reduce the reliance he could reasonably place on the confession evidence.
+It is also important to bear in mind that the question whether the confession
+evidence was reliable and the question whether bribery had taken place were not merely inter related but, in the circumstances of this case, were simply different ways of framing the same issue.
+It was not disputed that Mr Xu, Mr Jia T and Mr Shen had made the confessions attributed to them in the interrogation records and that Mr Xu had pleaded guilty to an offence of bribing a non public servant.
+The issue was whether or not, when they made the confessions, these individuals were telling the truth.
+Furthermore, the confessions were the only evidence to support the allegation of bribery made by HNA.
+There was no evidence apart from the confession evidence to suggest that a bribe had been paid.
+In addressing the issue of bribery, the judge was therefore necessarily engaged in estimating the weight to be given to the confession evidence.
+It was the only matter to be put into the evidential scale on behalf of HNA.
+As part of the exercise of evaluating the weight to be given to the confession evidence, it was appropriate for the judge to consider the plausibility of the alleged bribe.
+The more implausible it was that a bribe had been paid, the less likely the confessions were to be true and therefore the less weight he should give to that evidence.
+A number of the factors identified by the judge went to the implausibility of any bribe and/or the alleged bribe having been paid, in particular his fifth to eighth factors.
+In summary, the explanation given for the bribe was unconvincing; bribery made no sense in the commercial context; the charterparty went through normal approval procedures; no one complained about the fixture for a considerable period of time and there were no documents to support the allegation, despite the fact that there had been a criminal investigation.
+The fact that the confession evidence may have been induced by the prospect of a lenient sentence was also relevant to the weight which it was appropriate to give that evidence the judges ninth factor.
+As already noted, there was evidence that all three individuals had offers of leniency made to them and of both Mr Xu and Mr Jia T saying: I am willing to truthfully confess, for leniency.
+In the interrogation record dated 4 March 2014 Mr Xu was recorded as stating: Being educated by the police officers, I fully realised my crimes.
+I am willing to truthfully confess my problems, for leniency.
+And I would like to give my appreciation to the Public Security Bureau for its lawful acts and protection of my rights.
+There was also the striking evidence of Mr Xu deciding, for reasons of leniency, to adhere to his original confession even after he had told his lawyer that it was false.
+As the judge found at para 38: Mr Xu explained a decision to adhere to his earlier account accepting guilt because it would lead to a much reduced sentence than if he contested the allegations and was found guilty.
+This evidence fell to be considered against the background evidence that in the region of 95% of criminal cases in China involve a confession, that it is normal for suspects to plead guilty and that Chinese courts very rarely hand down innocent verdicts.
+The attractions of leniency are clear if allegations are believed to be highly likely to lead to conviction in any event and to much greater punishment if they are denied.
+Whilst the Court of Appeal recognised that leniency could certainly have been a relevant factor, it pointed out that the judge had not found that the prospect of leniency was in fact a reason for false confessions having been made.
+It was not, however, necessary for the judge so to find.
+That it may have been a reason is sufficient for it to be relevant to an assessment of weight.
+The Court of Appeal also found it difficult to see why someone might make up something which was untrue in order to obtain a more lenient sentence.
+False confessions are, however, a known problem for criminal justice systems, and are a reason why in this jurisdiction there are important safeguards governing the admission of confession evidence see section 76 of the Police and Criminal Evidence Act 1984 (PACE).
+Indeed, as Davis LJ observed when refusing permission to appeal, under English law an indication of leniency such as those given in the present case would render the alleged confessions vulnerable under section 76 of PACE 1984 even as against the accused.
+It is a fortiori with regard to a third party (Shagang).
+For all these reasons, it is in our judgment clear that the judge did address the question of the weight to be given to the confession evidence.
+He also answered that question.
+In circumstances where that evidence was the only evidence of bribery, in finding that there was no bribery the judge was necessarily finding that the confession evidence was of little or no weight, as confirmed by his statement in para 102 that it will be apparent from my conclusions on bribery (above) that I already have insufficient confidence in the confessions to allow a finding of bribery.
+Moreover, it cannot be said that such a conclusion was unreasonable or unsustainable.
+There were ample grounds to support it.
+(iii) Alleged failure to take all appropriate matters into account
+The principal matters which HNA contended, and the Court of Appeal appears to have considered, that the judge failed to take into account are the details of the confessions made, including such matters as the content of each confession made by each individual, their timing, surrounding circumstances and how they tallied with one another.
+It is said, in particular, that the judge should have addressed each confession made by each of the three individuals rather than simply dealing with the matter compendiously.
+We agree that it would have been much more satisfactory for the judge to have addressed the confession evidence in greater detail.
+It is, however, apparent that those of his factors which went to the circumstances of the confessions (retraction, no lawyer present, no PBS evidence and offers of leniency) applied to all three individuals.
+His conclusions also have to be read together with the earlier part of his judgment, at paras 25 55, where he dealt in some detail with the confessions made by each individual.
+In assessing the reliability of the confession evidence, the judge can fairly be taken to have had this detail well in mind.
+Further, he addressed some issues relating to how the confession evidence tallied together at para 95.
+He also referred to the importance of the initial confessions, and the difficulty of formally resiling from them once they had been made, at para 103.
+This is not therefore a case in which it can be said that the judge failed to have any regard to material evidence.
+He clearly did consider the confession evidence of all three individuals.
+The real complaint is as to the degree of depth in which he did so and that he did not do so in a sufficiently systematic way.
+Such a shortcoming, whilst regrettable, does not involve an error of law or otherwise justify intervention by an appellate court.
+(iv) Whether the possibility of torture was irrelevant
+As mentioned, when he came to consider the allegations of torture, the judge found that torture cannot be ruled out as a reason for the confessions.
+He said that this further reduces the confidence that I can put in the confessions (para 102).
+The possibility that the confessions may have been obtained by torture therefore provided an additional ground for his conclusion that the confession evidence could not be relied on.
+The most striking criticism of the judges reasoning made by the Court of Appeal is that, in considering whether the alleged bribe was paid, the judge failed to exclude his lingering doubt as to whether the confessions were procured by torture.
+The Court of Appeal described the possibility of torture as an irrelevant matter (para 79) and considered that the judge ought not to have allowed his doubts about whether torture had occurred to infect his findings on the central issue in the case (para 69).
+The judge was clearly very troubled by the evidence of torture and, although he did not find it necessary to express a definitive conclusion on the question, his emphasis on his finding that he could not rule out torture as a reason for the confessions made it clear that he considered there to be at least a serious possibility that torture had been used.
+It is a general principle of the law of evidence that, in assessing what weight (if any) to give to evidence, a court should have regard to any matters from which any inference can reasonably be drawn as to the reliability or otherwise of the evidence.
+In the case of hearsay evidence in civil proceedings this principle is embodied in section 4 of the Civil Evidence Act 1995.
+Circumstances specifically listed in section 4(2) to which regard may be had include whether any person involved had any motive to conceal or misrepresent matters.
+It is difficult to think of a motive which would more seriously undermine the reliability of a confession than a desire to escape intense physical pain and suffering caused by torture.
+The Court of Appeal nevertheless held that to take account of such a possible motive is an error of law and contrary to the established rules of evidence in civil proceedings.
+In re B
+The argument made by HNA which persuaded the Court of Appeal to reach this conclusion was founded on passages in the judgments in In re B (Children) (Care Proceedings: Standard of Proof) (CAFCASS intervening) [2008] UKHL 35; [2009] AC 11, a decision of the House of Lords.
+Lord Hoffmann said (at para 2): If a legal rule requires a fact to be proved (a fact in issue), a judge or jury must decide whether or not it happened.
+There is no room for a finding that it might have happened.
+The law operates a binary system in which the only values are zero and one.
+The fact either happened or it did not.
+If the tribunal is left in doubt, the doubt is resolved by a rule that one party or the other carries the burden of proof.
+If the party who bears the burden of proof fails to discharge it, a value of zero is returned and the fact is treated as not having happened.
+If he does discharge it, a value of one is returned and the fact is treated as having happened.
+To similar effect, Baroness Hale observed (at para 32): In our legal system, if a judge finds it more likely than not that something did take place, then it is treated as having taken place.
+If he finds it more likely than not that it did not take place, then it is treated as not having taken place.
+He is not allowed to sit on the fence.
+He has to find for one side or the other.
+HNA argued and the Court of Appeal accepted that, applying this binary principle, the fact that the judge in the present case did not find that on the balance of probabilities the confessions had been obtained by torture was, in law, a finding that there was no torture (para 60).
+Hence, in estimating the weight to be attached to the confession evidence, the judge was bound entirely to disregard the possibility that the admissions had been obtained by torture and, to the extent that he took this possibility into account, he made an error of law.
+As already discussed, the judge expressly said that he had not reached any definitive conclusion on whether there was torture.
+He did not have to find for one side or the other on that question because he had already concluded that, notwithstanding the confession evidence, no bribe was paid.
+It was therefore unnecessary for him to decide one way or the other whether torture had occurred and he did not do so.
+The absence of a finding on that question is not the same as a finding that torture had not been proved on the balance of probabilities.
+Even if the binary principle operated in this context, therefore, the judge could not be treated as having, in law, made a finding that there was no torture.
+Nor, as the transcript makes clear, was it common ground that he had done so, as the Court of Appeal appears to have erroneously assumed (see para 3 of its judgment).
+This is a short answer to HNAs argument.
+Even if, however, the judge had reached a definite conclusion that the use of torture had not been proved on the balance of probabilities, there would have been no inconsistency between that conclusion and the judges finding that torture was a real possibility which affected the reliance that should be placed on the confessions.
+It is of course true that, as Lord Hoffmann observed in In re B, if a legal rule requires a fact to be proved, the law operates a binary system.
+So where it is necessary to prove a fact for the purpose of a rule governing the admissibility of evidence, there are only two possibilities: either the evidence is admissible or it is not, which depends on whether the fact has been proved or not.
+There is no room for a finding that the fact might have happened.
+But not all legal rules do require relevant facts to be proved in this binary way.
+In particular, the rule governing the assessment of the weight to be given to hearsay evidence in civil proceedings does not.
+It requires the court to have regard to any circumstances from which any inference can reasonably be drawn as to the reliability or otherwise of the evidence: see section 4(1) of the Civil Evidence Act 1995.
+Such circumstances are not limited to facts which have been proved to the civil standard of proof.
+HNAs argument depends on an assertion that, if failure to prove a fact to the requisite standard of proof requires a value of zero to be returned for the purpose of a particular legal rule, then that fact must be treated as not having happened for the purpose of other legal rules as well.
+But there is no logical reason why that should be so.
+Nor is there anything in In re B (or any other authority cited in these proceedings) which lends that notion any support.
+What was decided in In re B was that section 31(2)(a) of the Children Act 1989 requires any facts used as the basis of a prediction that a child is likely to suffer significant harm to be proved on the balance of probabilities, and that the assessment of the childs welfare required in care proceedings once the threshold in section 31(2) has been crossed must be conducted on the same factual basis as the determination of whether that threshold has been crossed.
+Hence, if a particular fact (in that case an allegation of sexual abuse) has not been proved, it must be treated as not having happened for the purposes of both section 31(2) and the assessment of the childs welfare.
+That is a decision about the meaning and effect of particular provisions of the Children Act.
+It does not establish any general principle that failure to prove that a fact happened for the purpose of a particular legal rule has the legal consequence that the fact must be treated as not having happened for all other purposes in the litigation.
+In particular, it provides no support for the proposition that failure to prove that a fact happened for the purpose of determining whether evidence is admissible has the legal consequence that the fact must be treated as not having happened for the purpose of assessing the weight to be given to the evidence, if it is admissible.
+Facts in issue
+Some confusion seems to have arisen in the arguments in this case from the use by Lord Hoffmann in the passage quoted above of the expression fact[s] in issue.
+This phrase commonly and in our view most usefully refers to those facts which as a matter of law it is necessary to prove in order to establish a claim or a defence: see eg Phipson on Evidence, 19th ed (2018), para 7 02; Cross and Tapper on Evidence, 13th ed (2018), p 30.
+That is how we shall use the expression in this judgment.
+Thus, for example, in the present case the facts that the charterparty and the guarantee were entered into and that Grand China failed to pay hire in accordance with the terms of the charterparty were all facts in issue which Shagang had to prove in order to establish its claim (until those facts were formally admitted by HNA).
+The fact that a bribe was paid by an employee of Shagang to an individual connected with HNA was also, and remained throughout the trial, a fact in issue which it was necessary for HNA to prove in order to establish a defence that the charterparty (and therefore its guarantee) was unenforceable by reason of bribery.
+Indeed, this was the key fact in issue in the case.
+On the other hand, the fact that torture was used to procure the confessions of Mr Xu, Mr Jia T and Mr Shen was not a fact in issue as we are using the term.
+There was no claim for relief made by Shagang for which it was legally necessary, in order for the claim to succeed, to prove that torture had been used by the PSB.
+It was therefore unnecessary for the judge to make any finding as to whether on the balance of probabilities torture had taken place in order to decide the facts in issue in the case.
+The requirement to discharge the legal burden of proof, which operates in a binary way, applies to facts in issue at a trial, but it does not apply to facts which make a fact in issue more or less probable.
+Lord Hoffmann was alert to this point in In re B as, immediately after the passage quoted above, he contrasted facts in issue with facts which merely form part of the material from which a fact in issue may be inferred, which need not each be proved to have happened (para 3).
+So, for example, in the present case (as already discussed) it was not necessary to prove that the prospect of leniency in fact caused the confessions to be made.
+That it may have done is sufficient to make it relevant to take into account in deciding whether a bribe had been paid.
+Judges need to take account, as best they can, of uncertainties and degrees of probability and improbability in estimating what weight to give to evidence in reaching their conclusions on whether facts in issue have been proved.
+It would be a mistake to treat assessments of relevance and weight as operating in a binary, all or nothing way.
+Preliminary facts
+In the present case the allegations of torture were relevant in two different ways.
+One was in assessing the likelihood or otherwise that the confessions were reliable and hence whether it was proved as a fact that a bribe had been paid.
+The other was in order to determine whether the confession evidence was admissible.
+Whilst the core purpose for which evidence is admissible in legal proceedings is that of proving or disproving facts in issue at a trial, it is also often necessary for a court to decide factual questions for the purpose of applying procedural and evidential rules.
+Facts which must be proved for such purposes have been called preliminary facts: see R Pattenden, The proof rules of pre verdict judicial fact finding in criminal trials by jury (2009) 125 LQR 79.
+The distinction between finding preliminary facts and finding facts in issue is embodied in criminal proceedings by the division of responsibilities between judge and jury.
+Although in civil proceedings both functions may be performed by the same person, the distinction is conceptually no less important.
+Examples of preliminary facts which may need to be determined in civil proceedings are: the fact that a communication between a lawyer and client was made in confidence for the purpose of giving or receiving legal advice (in order to decide whether the communication is protected by legal professional privilege); the fact that a person is capable of understanding the nature of an oath and of giving rational testimony (in order to decide whether the person is competent to testify as a witness); and facts which it is necessary to determine for the purpose of deciding whether evidence is admissible.
+In criminal proceedings where there is a division of function between judge and jury a factual finding made by the judge for a preliminary purpose such as determining whether evidence is admissible is not binding on (nor even generally known to) the jury when it is performing its task of deciding facts in issue in proceedings.
+So if, for example, the defence alleges that a confession was obtained by an improper threat and the judge finds that the prosecution (on whom the burden of proof lies) has proved beyond reasonable doubt that the confession was not so obtained, evidence of the confession will be admissible; but the jury at the trial will be free to make its own assessment of the facts and to reach a different conclusion on whether the alleged threat was or might have been made.
+In civil proceedings, at least in cases where both functions are performed by the same decision maker in the course of a single hearing, it seems to us that unlike at a jury trial there is a requirement of consistency in performing these functions.
+A judge could not rationally reach one factual conclusion for the preliminary purpose of deciding whether evidence is admissible and then, on the same evidence, reach a different factual conclusion for the purpose of deciding a fact in issue in proceedings.
+That would be illogical.
+But there is no inconsistency in finding that a factual allegation may well be true but has not been established on the balance of probabilities.
+Nor is there any reason why the fact that such a finding results in the admission of evidence (by reason of the burden and standard of proof governing its admissibility) should require the finding to be ignored when assessing the weight to be given to the evidence in deciding a fact in issue in proceedings.
+That would also be illogical.
+Evidence obtained by torture
+In the modern law of evidence relevance is the paramount consideration.
+The general test of whether evidence is admissible is whether it is relevant (or of more than minimal relevance) to the determination of any fact in issue in the proceedings.
+In the days when facts in civil as well as criminal cases were found by juries and there was fear that more weight would be given to certain kinds of evidence than they deserved, rules were developed to exclude reliance on evidence notwithstanding its relevance.
+The rule against hearsay is a classic example.
+The tendency of the law has been and continues to be towards the abolition of such rules.
+Thus, the rule excluding hearsay evidence has been abolished in civil proceedings.
+The modern approach is that judges (and, increasingly, juries) can be trusted to evaluate evidence in a rational manner, and that the ability of tribunals to find the true facts will be hindered and not helped if they are prevented from taking relevant evidence into account by exclusionary rules.
+There are now very few categories of relevant evidence which are inadmissible in civil proceedings, but one such category is evidence obtained by torture.
+Article 15 of the United Nations Convention Against Torture 1984 imposes an international obligation on state parties to ensure that any statement which is established to have been made as a result of torture shall not be invoked as evidence in any proceedings, except against a person accused of torture as evidence that the statement was made.
+In A v Secretary of State for the Home Department (No 2) [2005] UKHL 71; [2006] 2 AC 221 a seven member appellate committee of the House of Lords unanimously held that it is also a rule of the common law that evidence obtained by torture is inadmissible in judicial proceedings.
+A minority (of three members of the committee) would have held that it was sufficient to render evidence inadmissible that there was a real risk that it was obtained by torture.
+However, it was decided by the majority that the test for this purpose is proof on a balance of probabilities.
+It is accordingly settled law, and common ground in this case, that if it is proved on a balance of probabilities that a confession (or other statement) on which a party wishes to rely in legal proceedings was made as a result of torture, evidence of the statement is not admissible and must be excluded from consideration altogether when deciding the facts in issue.
+The total exclusion of evidence shown to have been obtained by torture is not justified on grounds of relevance alone.
+As the judgments in In re A (No 2) make clear, the exclusion is founded also on reasons of public policy and morality.
+In the words of Lord Hope at para 112: The use of such evidence is excluded not on grounds of its unreliability if that was the only objection to it, it would go to its weight, not to its admissibility but on grounds of its barbarism, its illegality and its inhumanity.
+The law will not lend its support to the use of torture for any purpose whatever.
+It does not follow, and there is no rule, that if it is not proved on a balance of probabilities that a statement was made as a result of torture, evidence that torture was used is not admissible and must be ignored when deciding the facts in issue.
+There is no legal or logical reason for treating such evidence as inadmissible and good reason to treat it as admissible given its obvious relevance.
+We go further.
+A rule that required a court, in assessing the reliability of a confession, to disregard entirely evidence which discloses a serious possibility that the confession was made as a result of torture would not only be irrational; it would also be inconsistent with the moral principles which underpin the exclusionary rule.
+As Mr Jaffey QC observed in his helpful submissions on behalf of Liberty as an intervenor on this appeal, even when there are reasonable grounds for suspecting that torture has been practised, its use is often inherently difficult to prove because it tends to happen in secret, where there are no safeguards such as the recording of interviews or the presence of a legal representative, and often involves techniques which leave no lasting marks.
+A rule which excluded evidence that a confession has been obtained by torture unless this has been proved on a balance of probabilities would be calculated positively to encourage the practice of torture to obtain evidence for use in legal proceedings, provided that it is done in a way which is deniable.
+It would also put evidence that may have been obtained by torture in a uniquely advantageous position, since as counsel for HNA rightly accepted no such rule applies to a possibility that a confession was obtained by ill treatment less severe than torture or by other forms of oppression or inducement.
+Granting a special dispensation for evidence that may have been obtained by torture would turn the law in this area upside down.
+In In re A (No 2) the majority of the House of Lords who did not accept that a real risk that evidence was obtained by torture was sufficient to justify its exclusion nevertheless made it clear that such a risk would need to be taken into account in evaluating the evidence.
+Thus, Lord Hope said (at para 118): So SIAC should not admit the evidence if it concludes on a balance of probabilities that it was obtained by torture.
+In other words, if SIAC is left in doubt as to whether the evidence was obtained in this way, it should admit it.
+But it must bear its doubt in mind when it is evaluating the evidence. (Emphasis added) The other judges in the majority agreed with this observation: see paras 141 142 and 145 (Lord Rodger), para 158 (Lord Carswell) and para 173 (Lord Brown).
+There has been much argument devoted in this case to whether, as HNA contended and the Court of Appeal thought, the relevant passages in the judgments in In re A (No 2) were confined to the context of proceedings in the Special Immigration Appeals Commission (SIAC).
+We accept that there were conclusions reached in In re A (No 2), including conclusions about the applicable burden and standard of proof, which were specific to that context.
+However, the observations that, when evaluating evidence which although admissible may have been obtained by torture, a tribunal should bear that possibility in mind are not related to any special feature of SIAC and are no more, in our view, than a reminder of the approach which should rationally be adopted in evaluating such evidence.
+Conclusion on evidence of torture
+We conclude that the Court of Appeal was wrong to hold that, if the use of torture has not been proved on the balance of probabilities, a serious possibility that a statement was obtained by torture must be ignored by a court in estimating the weight to be given to the statement.
+Such an approach is contrary to principle.
+The true position is that, where there are reasonable grounds for suspecting that a statement was obtained by torture, this is a matter which a judge can and should take into account, along with all other relevant circumstances, in assessing the reliability of the statement as evidence of the facts stated.
+It follows that in the present case the judge was entitled to rely, as he did, on his finding that torture could not be ruled out as providing further support for the conclusion he had already reached that there was no bribe paid by Mr Xu.
+Evidence admitted on appeal
+The Court of Appeal allowed an application by HNA to adduce new evidence in the form of a complaint made by Mr Zhang to the Peoples Procuratorate of Haikou City and the report of the Procuratorate in June 2014 into the outcome of its investigation into this complaint (referred to at paras 20 and 21 above), together with a report of a medical examination of Mr Xu on his arrival at a detention centre on 23 July 2014 (which did not record any injury).
+The Court of Appeal did not find that this new evidence was a reason to overturn the judges decision.
+Having reviewed this evidence ourselves, we can see that it would have been relevant to consider it in deciding whether torture had been proved on the balance of probabilities.
+However, as discussed, the judge did not decide that question.
+We think it inconceivable that, if this evidence had been available at the trial, it might have affected the judges conclusion that torture could not be ruled out.
+The most material new document was the investigation report.
+The report is, however, written in very general terms and adds little or nothing of substance to the record of the interrogation of Mr Xu on 6 June 2014 carried out for the purpose of that investigation and Mr Xus own account of the same occasion given to Mr Guo on 15 September 2014, both of which were in evidence at the trial.
+The fact that further evidence was admitted in the Court of Appeal therefore makes no difference to our conclusions.
+The causation issue
+In the Court of Appeal Shagang argued that, even if the judges finding that no bribe had been paid could not be sustained, his decision should be upheld on the ground that there was no sufficient causal connection between the alleged bribe and Grand Chinas entry into the charterparty.
+The Court of Appeal rejected that argument.
+On this appeal it was common ground that, if it became necessary to decide that issue, it would have to be determined at a further trial.
+As it is unnecessary to remit the case for any further hearing, the issue does not arise.
+Had it arisen, it was common ground that the observations at paras 84 85 of the judgment of the Court of Appeal had not decided the question.
+Overall conclusion
+The judgment which has given rise to an appeal and second appeal in this case is short, running to 16 pages.
+As Males LJ observed in Simetra Global Assets Ltd v Ikon Finance Ltd [2019] EWCA Civ 1413; [2019] 4 WLR 112 at para 46: succinctness is as desirable in a judgment as it is in counsels submissions, but short judgments must be careful judgments.
+In this case it is right to observe that the judges reasoning is not merely succinct but sparse.
+The judgment contains no sustained analysis of the main evidence and arguments.
+In particular, the judge did not spell out the fact that he was admitting the confession evidence de bene esse, did not in his essential reasoning discuss the confession evidence in any detail and did not directly address the reliance placed by HNA on the fact that three individuals had separately confessed.
+It is important to make it plain to the losing party that its case has been fully considered and to leave no doubt about the reasons which have led to its rejection.
+In this case the judge approached this task in too cursory a manner.
+This can only encourage appeals.
+The question on an appeal, however, is whether the decision was wrong.
+For the reasons we have given, none of the key criticisms which led the Court of Appeal to decide that the judges decision is unsustainable and ought to be set aside has been made out.
+In the final analysis the judge did identify reasons for reaching the conclusion that bribery had not been established and those reasons are sufficient to support that conclusion.
+It has not been shown that the judge made an error of law or that he reached a conclusion in his evaluation of the facts which no reasonable judge could have reached.
+Furthermore, the approach adopted by the Court of Appeal to reliance on evidence that statements were made as a result of torture was itself erroneous.
+The judge was entitled to rely on his finding that torture could not be ruled out as a reason for the confessions as providing additional support for his conclusion that no bribe had been paid.
+The appeal must therefore be allowed and the judgment in favour of Shagang restored.

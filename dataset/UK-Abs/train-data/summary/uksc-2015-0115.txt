@@ -1,0 +1,41 @@
+This appeal arises from the fact that the foundation structures of two offshore wind farms at Robin Rigg in the Solway Firth, which were designed and installed by the respondent, MT Hjgaard A/S (MTH), failed shortly after completion of the project.
+The dispute concerns who bears the remedial costs in the sum of 26.25m.
+In May 2006, the appellants, two companies in the E.ON group (E.ON), sent tender documents to various parties including MTH, who in due course became the successful bidders.
+The tender documents included E.ONs Technical Requirements.
+The Technical Requirements laid out minimum requirements that were to be taken into account by the contractor, i.e. ultimately MTH.
+Amongst other things, the Technical Requirements called for the foundations to be in accordance with a document known as J101.
+J101 was a reference to an international standard for the design of offshore wind turbines published by an independent classification and certification agency.
+J101 provides for certain mathematical formulae to calculate aspects of the foundation structures.
+One such formula included , which was given a specific value.
+Only later, a review showed that the value given for was wrong by a factor of about ten.
+This error meant that the strength of the foundation structures had been substantially over estimated.
+Having been selected as the contractor for the works, MTH duly set about preparing its tender in accordance with E.ONs requirements and J101.
+Finally, E.ON and MTH entered into a contract under which MTH agreed to design, fabricate and install the foundations for the proposed turbines.
+Clause 8.1(x) of this contract stated that MTH should carry out the works so that they shall be fit for its purpose.
+Fit for Purpose was ultimately defined in a way that it included adherence to the Technical Requirements.
+The parties agreed to carry out remedial work immediately after the foundation structures started failing.
+These proceedings concern the question as to who should bear the cost of the remedial works.
+The High Court found for E.ON that Clause 8.1(x) of the contract ultimately referred to the Technical Requirements.
+Para 3.2.2.2 of the Technical Requirements and another provision, para 3b.5.1, required the foundations to be designed so that they would have a lifetime of twenty years.
+As they were not, MTH was held liable.
+On appeal, the Court of Appeal found otherwise.
+There was an inconsistency between paras 3.2.2.2 (and para 3b.5.1) of the Technical Requirements on the one hand and other contractual provisions (in particular adherence to J101) on the other hand.
+The Court of Appeal ruled that the other contractual provisions should prevail.
+The Supreme Court unanimously allows E.ONs appeal.
+Lord Neuberger gives the judgment, with which Lord Mance, Lord Clarke, Lord Sumption, and Lord Hodge agree.
+The central issue in this appeal is whether para 3.2.2.2 (and para 3b.5.1) of the Technical Requirements was infringed [27, 33].
+The second limb of para 3.2.2.2 reads: The design of the foundations shall ensure a lifetime of twenty years in every aspect without planned replacement.
+Taking into account other aspects of the Technical Requirements, this can be read in two ways: either as a warranty that the foundations will actually have a lifetime for twenty years, or as an undertaking to provide a design that can objectively be expected to have a lifetime of twenty years.
+Although there is some force in the latter argument, especially in the contracts (exclusive) remedies regime [27 32], the question does not warrant an answer in this appeal.
+The foundations neither had a lifetime of twenty years, nor was their design fit to ensure one [24 32].
+Therefore, the effect of para 3.2.2.2 according to its terms would be to render MTH liable.
+The reference to J101, the international design standard, which included the flawed value attributed to , does not require a different construction which would deviate from the natural language of para 3.2.2.2.
+Both J101 and para 3.2.2.2. are part of the same contract.
+The reconciliation of various terms in a contract, and the determination of their combined effect must be decided by reference to ordinary principles of contractual interpretation [37, 48].
+While each case must turn on its own facts, the courts are generally inclined to give full effect to the requirement that the item as produced complies with the prescribed criteria, even if the customer or employer has specified or approved the design.
+Thus, generally speaking, the contractor is expected to take the risk if he agreed to work to a design which would render the item incapable of meeting the criteria to which he has agreed [38 44].
+The Technical Requirements expressly prescribe only a minimum standard.
+It was the contractor, i.e. MTHs, responsibility to identify areas where the works needed to be designed in a more rigorous way (para 3.1.(1)).
+Further, it was contemplated that MTH might go beyond certain standards, including J101 (para 3.1.2) [45 47].
+Finally, para 3.2.2.2 of the Technical Requirements is not too weak a basis on which to rest a contention that MTH had a liability to warrant that the foundations would survive for twenty years or would be designed so as to achieve twenty years of lifetime.
+Applying the ordinary principles of interpretation, in a complex contract, this interpretation gives way to the natural meaning of para 3.2.2.2 and is not improbable or unbusinesslike [48 51].

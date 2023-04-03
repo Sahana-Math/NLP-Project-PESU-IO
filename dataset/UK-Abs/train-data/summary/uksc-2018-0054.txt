@@ -1,0 +1,53 @@
+This appeal concerns which types of costs incurred in the salvage of a damaged shipping vessel qualify when assessing whether such a vessel is a constructive total loss or not for insurance purposes.
+Section 60(2)(ii) of the Marine Insurance Act 1906 (the Act) provides that in the case of damage to a shipping vessel, there is a constructive total loss where she is so damaged by a peril insured against that the cost of repairing the damage would exceed the value of the ship when repaired.
+On 23 August 2012, the Renos, was seriously damaged by an engine room fire while on a voyage in the Red Sea.
+On the same day, the owners appointed salvors under Lloyds Open Form 2011 (No Cure No Pay).
+The vessel was towed by the salvors to Adabiya, where her cargo was discharged, and then to Suez, where the salvage services ended.
+A tug was hired to stand by the vessel while she was at Suez and for onward towing.
+These proceedings were brought in support of a claim against the hull underwriters for a constructive total loss.
+Notice of abandonment was served on the insurers on 1 February 2013, while the vessel was at Suez.
+The Renos was insured at an agreed value of US$12m under a hull and machinery policy subscribed by the appellants (among others).
+The lead hull and machinery insurer was the first appellant, the Swedish Club.
+In addition, the Swedish Club alone subscribed an Increased Value Policy against the same risks covering certain charges so far as they exceeded those recoverable under the hull and machinery policy, up to a maximum of US$3m.
+In the High Court, it was agreed by both sides that there had been an insured loss.
+The only issue was the amount payable.
+The insurers acknowledged liability for a partial loss, but did not accept the notice of abandonment or a constructive total loss.
+Mr Justice Knowles (Knowles J) held that there was a constructive total loss.
+The Court of Appeal agreed with both his conclusions and his reasons.
+The insurers now appeal to the Supreme Court.
+Issue (1) is whether the cost of repairing the damage to the vessel under section 60(2)(ii) includes expenditure already incurred before the service of notice of abandonment.
+Issue (2) is whether the relevant costs include charges payable to the salvors under the SCOPIC (Special Compensation, Protection and Indemnity) clause of Lloyds Open Form.
+On issue (1), the insurers argue that any pre notice of abandonment expenditure is excluded.
+If correct, they would be liable for a partial loss only.
+As for issue (2), the SCOPIC charges were all incurred before the service of notice of abandonment.
+If the insurers are right on issue (1), these costs will be disregarded.
+The judge found that, if so, the repair costs might make the vessel a constructive total loss.
+The shipowners succeeded on both issues below.
+The Supreme Court unanimously allows the appeal in part (dismissing it on issue (1), but allowing it on issue (2)).
+Knowles Js order is set aside and the matter is remitted to him to determine whether there was a constructive total loss.
+Lord Sumption gives the lead judgment, with which all the Justices agree.
+Issue (1): Expenditure incurred before notice of abandonment The Supreme Court, agreeing with the courts below, does not accept that expenditure incurred before the service of the notice of abandonment falls outside the scope of costs under section 60(2)(ii). [19] First, as a matter of language, the references in section 60 to expenditure which would be incurred reflect the hypothetical character of the whole exercise and not the chronology of the expenditure [8].
+Secondly, as a general rule, the loss under a hull and machinery policy occurs at the time of the casualty and not when the measure of indemnity is ascertained [10].
+This rule applies even if the loss developed after the time of the casualty, unless it developed as a result of a second casualty breaking the chain of causation [10].
+Constructive total loss is a legal device for determining the measure of indemnity [11].
+It is a partial loss which is financially equivalent to a total loss and may be treated as either by the insured [11].
+Whether there has been a constructive total loss depends on the objective facts [12].
+It follows from this objective approach and the fact that the loss is suffered at the time of the casualty, that the damage referred to in section 60(2)(ii) is in principle the entire damage arising from the casualty from the moment that it happens [13].
+The measure of that damage is its effect on the depreciation of the vessel, represented by the entire cost of recovering and repairing it [13].
+Thus, it cannot make any difference when that cost was incurred [13].
+Service of a notice of abandonment is thus irrelevant [14 18].
+Applying this approach, the cost of repairing the damage included all the reasonable costs of salving and safeguarding the Renos from the time of the casualty onwards, together with the prospective cost of repairing her.
+These costs were not reduced by being incurred before the notice of abandonment and are therefore to be taken into account for the purposes of section 60(2)(ii) of the Act. [19] Issue (2): SCOPIC charges The SCOPIC clause is supplementary to the Lloyds Open Form.
+The law on salvage was modified by the International Salvage Convention 1989 (the Convention) [21].
+Article 8(1)(b) provides that in performing salvage services, a salvor had a duty to exercise due care to prevent or minimise damage to the environment [21].
+Article 14(1) entitles the salvors to special compensation from the shipowner amounting to the expenses from performing the article 8(1)(b) duty [21].
+Clauses 5 and 6 are the critical parts of the SCOPIC clause.
+Clause 5 provides for the assessment of the salvors remuneration for the totality of the services provided, including for environmental protection [22].
+Clause 6 reflects the fact that such remuneration is intended to avoid environmental damage which would be liability of the shipowner [22].
+It is well settled that the cost of repairing the damage in section 60(2)(ii) includes some costs not spent directly on actual reinstatement [24].
+The common feature of all the cases in which the cost of preliminary steps have been included is that their objective purpose was to enable the ship to be repaired [25].
+That will generally be true of salvage charges, the cost of temporary repairs, towage and other steps plainly preliminary to permanent repair [25].
+However, the objective purpose of SCOPIC charges is different.
+They protect an entirely distinct interest of the shipowner, namely potential liability for environmental pollution [25].
+It is irrelevant that a prudent uninsured owner might contract with the same contractors for both purposes [25 26].
+It follows that the courts below erred in holding that SCOPIC charges are part of the cost of repairing the damage in section 60(2)(ii) of the Act. [27 28]

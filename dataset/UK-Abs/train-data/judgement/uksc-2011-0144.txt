@@ -1,0 +1,145 @@
+This is an appeal brought by three companies, MVF 3 APS (formerly known as Vestergaard Frandsen A/S), Vestergaard Frandsen SA, and Disease Control Textiles SA, which are effectively in common ownership, and can conveniently be referred to compendiously as Vestergaard.
+Their appeal is against the Court of Appeals reversal of a decision by Arnold J that Mrs Trine Sig was liable to Vestergaard for misuse of their trade secrets after she ceased her employment with them.
+The basic factual background
+A major aspect of Vestergaards business is the development, manufacture and marketing of insecticidal bednets, whose purpose is to prevent the sleeper from being bitten by mosquitos, and also to reduce the mosquito population.
+An important challenge of the relevant technology is to find ways of ensuring that such bednets retain their insecticidal activity over a long period of time, despite vicissitudes such as repeated washing.
+To that end, Vestergaard developed techniques (which I shall call the techniques) which enabled them to manufacture and sell long lasting insecticidal nets, known as LLINs.
+The techniques involved incorporating insecticide and other additives into molten polyethylene, before it is extruded into filaments, which are then knitted to form LLINs.
+Mrs Sig was employed by Vestergaard from late 2000, initially as a sales and marketing assistant, and later as a regional sales manager for Europe and Latin America.
+By clause 8 of her employment contract, she agreed to: keep absolutely confidential all information relating to the employment and any knowledge gained in the course of the employment and which inherently should not be disclosed to any third party.
+The absolute duty of confidentiality also applies after [Mrs Sig] has terminated the employment .
+Mr Larsen, a chemical engineer, was employed by Vestergaard in November 2000 as head of production.
+His employment contract included provisions (i) preventing him from competing with Vestergaard for a period of one year after his employment ceased, and (ii) requiring him to respect the confidentiality of Vestergaards trade secrets.
+Dr Skovmand, a consultant biologist specialising in insect control, started working as a consultant for Vestergaard in 1998 until some time in 2005.
+He had no formal service contract.
+During the time he worked for Vestergaard, Dr Skovmand played a major role in developing the techniques.
+In particular, he helped to identify a way of preventing the insecticide from being lost during the extrusion of the polyethylene.
+At the beginning of 2004, he was seeking to prevent the loss of insecticide by evaporation caused by the high temperature of the polyethylene during manufacturing.
+The information concerning the techniques was contained in a so called Fence database maintained by Vestergaard.
+In the spring of 2004, Mr Larsen and Mrs Sig decided to start a new
+business manufacturing and selling LLINs in competition with Vestergaard.
+They discussed this with Dr Skovmand, who agreed to work with them, on the basis that he would have a financial interest in the new business.
+Accordingly, Mrs Sig resigned from her job with immediate effect in June 2004, and Mr Larsen did so a month later, and his employment ceased at the end of August 2004.
+By this time, the new business had already been under way for some five months, because in early April 2004 Dr Skovmand set about developing a new LLIN for Mr Larsen and Mrs Sig, using a polyester base.
+About a month later, Dr Skovmand informed them that he would be able to develop a LLIN more quickly if he used polyethylene rather than polyester.
+Mrs Sig instructed him to proceed on this basis, because he told her that a polyethylene based LLIN, which was in due course manufactured and called Netprotect, could be placed on the market by the end of 2004.
+In early August 2004, Mr Larsen and Mrs Sig formed a Danish company (Intection), with Mrs Sig as the sole director, for the purpose of developing, manufacturing and marketing the Netprotect product.
+The following month, Mrs Sig and Mr Larsen went to India with a view to finding prospective manufacturers for the product.
+In their discussions with the prospective manufacturers, they stipulated that any agreement with Intection would contain confidentiality provisions in relation to the details of the manufacturing of the product.
+Meanwhile, with the assistance of Mr Larsen, Dr Skovmand was organising the testing of Netprotect products, and those tests proved sufficiently successful for Intection to arrange a launch for October 2005.
+Vestergaard learned of this, and sought to stop the testing and future marketing of the new product.
+They issued proceedings in Denmark against Intection, and, by an amendment to those proceedings made in June 2005, they alleged breach of their trade secrets.
+In October 2005, the day before the proceedings were due to be heard, Mrs Sig resigned as a director of Intection, which then ceased to trade.
+A new English company, Bestnet Europe Ltd (Bestnet), was immediately formed, with Mrs Sig as the sole director, and her father, another investor, and Dr Skovmand, as the main shareholders.
+The Judge found that Mr Larsen and Mrs Sig moved the business to England with the express intention of trying to avoid the consequences of the Danish litigation.
+Mrs Sig and Mr Larsen provided their services to Bestnet through another English company, 3T Europe Ltd (3T), whereas Dr Skovmand worked directly for Bestnet in connection with the testing, development, and projected manufacturing and marketing of Netprotect.
+His work was successful, and Netprotect LLINs were, from some time in 2006, manufactured for and marketed by Bestnet.
+The procedural history
+In early 2007, Vestergaard began the present proceedings seeking damages and other relief for misuse of their confidential information, against Bestnet, 3T, Mr Larsen, and Mrs Sig (and two other companies which need no further mention).
+Following a 16 day hearing, Arnold J gave a judgment on 3 April 2009, in which he had to deal with a large number of issues of fact, expert evidence and law [2009] EWHC 657 (Ch).
+Of particular relevance for present purposes, the Judge made the following findings: (i) Dr Skovmand was under a duty to Vestergaard not to use any confidential information which he had acquired in the course of his consultancy work for Vestergaard; (iii) The contents of the Fence database constituted confidential information, namely trade secrets, owned by Vestergaard; (iv) Dr Skovmand knew of this confidential information as a result of working for Vestergaard, and he had appreciated at all times that it constituted Vestergaards trade secrets; (iv) Dr Skovmand had used such information about the techniques in the Fence database as a starting point for the development of the Netprotect product; (v) By July 2004 at the latest, Mr Larsen was aware of the fact that Dr Skovmand was using confidential information in the Fence database to develop that product; (vi) While in the employ of Vestergaard, Mrs Sig did not have access to the Fence database, and at no time did she have knowledge of any of the trade secrets which it contained; (vii) Although, by September 2004, Mrs Sig was aware that the Netprotect product was based on trade secrets, she believed that they originated from Dr Skovmands work for Intection (and, subsequently, Bestnet); (viii) By June 2005 Mrs Sig was aware of Vestergaards allegations, the Judge did not reject her evidence that she had not appreciated that the Netprotect product was conceived with the assistance of Vestergaards trade secrets; (ix) At trial, Dr Skovmand and Mr Larsen had put forward an untrue account of the development of Netprotect, including the production of forged documents, but there was no suggestion that Mrs Sig was involved in that.
+Unsurprisingly in the light of these findings, the Judge found that Dr Skovmand was liable in breach of confidence to Vestergaard (although there was no question of a judgment against Dr Skovmand, as he was not a party to the proceedings).
+The Judge then stated at [2009] EWHC 657 (Ch), para 625, that, if Dr Skovmand had committed an actionable breach of confidence, it was not dispute[d] that Mr Larsen, Mrs Sig, Bestnet [and] 3T were also liable on one basis or another.
+Counsel for Mrs Sig then challenged the proposition that she did not dispute liability, and the Judge reconsidered her liability at a further hearing concerned with remedies.
+Following that hearing, the Judge gave a second judgment on 26 June 2009, [2009] EWHC 1456 (Ch), in which he said this: 23.
+Mrs Sig was subject to an express obligation of confidentiality contained in clause 8 of her contract of employment.
+This obligation explicitly continued after termination of her employment.
+After termination, however, the obligation is only enforceable in so far as it prevents Mrs Sig from misusing [Vestergaard]s trade secrets.
+In the absence of an express term, Mrs Sig would be subject to an implied term to that effect.
+Although Mrs Sig was not personally involved in devising the initial Netprotect recipes or carrying out the trials, she was closely involved in setting up Bestnet and in the commercial side of the development of Netprotect.
+In my judgment, this is sufficient to render her liable for breach of her own obligation of confidence. 24.
+Counsel submitted that Mrs Sig could not be liable for breach of confidence absent a finding that she knew that the initial Netprotect recipes were derived from the Fence database.
+I do not agree.
+A person can be liable for breach of confidence even if he is not conscious of the fact that what he is doing amounts to misuse of confidential information: see Seager v Copydex Ltd [1967] 1 WLR 923.
+I would agree that a person who is not otherwise subject to an obligation of confidence (eg by contract) will not come under an equitable obligation of confidence purely as a result of the receipt of confidential information unless and until he or she has notice (objectively assessed by reference to a reasonable person standing in the shoes of the recipient) that the information is confidential; but that is a different point.
+A number of the aspects of the two judgments were appealed by the defendants to the Court of Appeal, which, in a judgment given by Jacob LJ (with which Jackson LJ and Sir John Chadwick agreed), upheld Arnold J on all points, save one.
+That point was the Judges conclusion that Mrs Sig was liable in breach of confidence [2011] EWCA Civ 424, paras 44 50.
+Jacob LJ said that Seager [1967] 1 WLR 923 was distinguishable because there the defendants were actually using the information which had been imparted to them, albeit they were doing so unconsciously.
+That is not so in the case of Mrs Sig.
+In the following paragraph, he said that he did not consider that there can be an implied term imposing strict liability.
+There is no business reason to imply a term of that harsh extent.
+All the principles of implication of a term into a contract (which I do not set out here they are too well known) militate against it.
+Vestergaard now appeal to this Court.
+Breach of confidence: preliminary observations
+Vestergaards contention that Mrs Sig is liable for breach of confidence is, as I understand it, put on three different bases.
+First, she is said to be liable under her employment contract, either pursuant to the express terms of clause 8 or pursuant to an implied term.
+Secondly, she is said to be liable on the basis that she was party to a common design, namely the design, manufacture and marketing of Netprotect, which involved Vestergaards trade secrets being misused.
+Thirdly, she is said to be liable for being party to the breach of confidence, as she had worked for Vestergaard, and then formed and worked for the companies which were responsible for the design, manufacture and marketing of Netprotect.
+In my opinion, each of these three arguments must fail because of the combination of two crucial facts.
+The first is that Mrs Sig did not herself ever acquire the confidential information in question, whether during the time of her employment with Vestergaard or afterwards.
+The second crucial fact is that, until some point during the currency of these proceedings (possibly not until Arnold J gave his first judgment), Mrs Sig was unaware that the Netprotect product had been developed using Vestergaards trade secrets.
+It would seem surprising if Mrs Sig could be liable for breaching Vestergaards rights of confidence through the misuse of its trade secrets, given that she did not know (i) the identity of those secrets, and (ii) that they were being, or had been, used, let alone misused.
+The absence of such knowledge would appear to preclude liability, at least without the existence of special facts.
+After all, an action in breach of confidence is based ultimately on conscience.
+As Megarry J said in Coco v A N Clark (Engineers) Ltd [1969] RPC 41, 46, [t]he equitable jurisdiction in cases of breach of confidence is ancient; confidence is the cousin of trust.
+The classic case of breach of confidence involves the claimants confidential information, such as a trade secret, being used inconsistently with its confidential nature by a defendant, who received it in circumstances where she had agreed, or ought to have appreciated, that it was confidential see eg per Lord Goff in Attorney General v Guardian Newspapers Ltd (No 2) [1990] 1 AC 109, 281.
+Thus, in order for the conscience of the recipient to be affected, she must have agreed, or must know, that the information is confidential.
+The decision in Seager v Copydex Ltd [1967] 1 WLR 923, on which Arnold J relied, was an entirely orthodox application of this approach.
+The plaintiff passed on to the defendants a trade secret about his new design of carpet grip, and although the defendants realised that the secret was imparted in confidence, they went on to use that information to design a new form of carpet grip, which they marketed.
+What rendered the case unusual was that the defendants (i) did not realise that they had used the information, as they had done so unconsciously, and (ii) believed that the law solely precluded them from infringing the plaintiffs patent.
+However, neither of those facts enabled them to avoid liability, as, once it was found that they had received the information in confidence, their state of mind when using the information was irrelevant to the question of whether they had abused the confidence.
+Liability for breach of confidence is not, of course, limited to such classic cases.
+Thus, depending on the other facts of the case, a defendant who learns of a trade secret in circumstances where she reasonably does not appreciate that it is confidential, may nonetheless be liable to respect its confidentiality from the moment she is told, or otherwise appreciates, that it is in fact confidential.
+From that moment, it can be said that her conscience is affected in a way which should be recognised by equity.
+Further, while a recipient of confidential information may be said to be primarily liable in a case of its misuse, a person who assists her in the misuse can be liable, in a secondary sense.
+However, as I see it, consistently with the approach of equity in this area, she would normally have to know that the recipient was abusing confidential information.
+Knowledge in this context would of course not be limited to her actual knowledge, and it would include what is sometimes called blind eye knowledge.
+The best analysis of what that involves is to be found in Royal Brunei Airlines Sdn Bhd v Tan [1995] 2 AC 378, especially at pp 390F 391D, where Lord Nicholls approved the notion of commercially unacceptable conduct in the particular context involved, and suggested that [a]cting in reckless disregard of others rights or possible rights can be a tell tale sign of dishonesty.
+Further, even a person who did not know that the information which is being abused is confidential could nonetheless be liable if there were relevant additional facts.
+Thus, if a person who directly misuses a claimants trade secret does so in the course of her employment by a third party, then the third party could (at least arguably) be liable to the claimant for the breach of confidence.
+However, I turn, then, to consider the three grounds upon which it is said that, despite that would simply involve the application of one well established legal principle, vicarious liability, to another, misuse of confidential information.
+In this case, subject to considering Vestergaards arguments in a little more detail, the position would seem to me to be as follows.
+First, unless her employment contract with Vestergaard imposed such a liability, Mrs Sig could not be primarily liable for misuse of confidential information, because she received no confidential information, or at least no relevant confidential information.
+Secondly, subject to the same qualification, she could not be secondarily liable for such misuse, as she did not know that Dr Skovmand was using, or had used, Vestergaards confidential information in order to develop the Netprotect product.
+Thirdly, it was not contended that Mrs Sig could be vicariously liable for any misuse of Vestergaards confidential information by Dr Skovmand (perhaps unsurprisingly, as it would seem that Dr Skovmand worked for Intection and then Bestnet, as did Mrs Sig, either as director, or through 3T).
+these points, Mrs Sig is liable to Vestergaard.
+The first ground: the terms of Mrs Sigs contract
+The express provisions of clause 8 of her employment contract are of no assistance to Vestergaards case.
+The confidential information wrongly used by Dr Skovmand to develop the Netprotect product was plainly neither information relating to [her] employment nor knowledge gained in the course of [her] employment.
+It was knowledge gained by Dr Skovmand in the course of his consultancy work for Vestergaard.
+It is not seriously arguable that a term can properly be implied into Mrs Sigs employment contract to the effect that she would not assist another person to abuse trade secrets owned by Vestergaard, in circumstances where she did not know the trade secrets and was unaware that they were being misused.
+To impose such a strict liability on Mrs Sig appears to me to be wrong in principle as it is (i) inconsistent with the imposition of the more limited express terms of clause 8, (ii) unnecessary in order to give the employment contract commercial effect, and (iii) almost penal in nature, and thus incapable of satisfying either of the well established tests of obviousness and reasonableness.
+The second ground: common design
+I turn, then, to the second, and most strongly advanced, ground upon which Vestergaards case rests, namely that Mrs Sig was liable for breach of confidence on the basis of common design.
+This argument proceeds on the basis that Dr Skovmand, Mr Larsen and Mrs Sig all worked together to design, manufacture and market Netprotect products, and as these products were designed by Dr Skovmand in a way which involved his wrongfully misusing Vestergaards trade secrets so as to render him liable for breach of confidence, Mrs Sig and Mr Larsen are liable together with him.
+I accept that common design can, in principle, be invoked against a defendant in a claim based on misuse of confidential information; I am also prepared to assume that, in the light of the findings made by the Judge, Mr Larsen was liable on that ground (as he knew that Dr Skovmand was misusing, and had used, Vestergaards trade secrets when designing Netprotect).
+However, I cannot see how Mrs Sig could be so liable, in the light of her state of mind as summarised in para 22 above.
+As Lord Sumption pointed out in argument, in order for a defendant to be party to a common design, she must share with the other party, or parties, to the design, each of the features of the design which make it wrongful.
+If, and only if, all those features are shared, the fact that some parties to the common design did only some of the relevant acts, while others did only some other relevant acts, will not stop them all from being jointly liable.
+In this case, Mrs Sig neither had the trade secrets nor knew that they were being misused, and therefore she did not share one of the features of the design which rendered it wrongful, namely the necessary state of knowledge or state of mind.
+Accordingly, although she was party to the activities which may have rendered other parties liable for misuse of confidential information, she cannot be liable under common design.
+A driver of the motor car who transports a person to and from a bank to enable him to rob it, would be liable in tort for the robbery under common design or some similar principle, but only if she knew that her passenger intended to rob, or had robbed, the bank.
+So, in this case, given the ingredients of the wrong of misuse of confidential information, and given that she never had any relevant confidential information, Mrs Sig cannot be held liable in common design for exploiting with others, on behalf of Intection and then Bestnet, a product which, unknown to her, was being and had been developed through the wrongful use of Vestergaards trade secrets.
+We were taken to two decisions, which, it was suggested, are inconsistent with that conclusion.
+The first is Unilever Plc v Gillette (UK) Ltd [1989] RPC 583, 609, where Mustill LJ said that, in order to show that a defendant was secondarily liable for infringement of a patent, there [was no] need for a common design to infringe, as it was enough if the parties combine to secure the doing of acts which in the event prove to be infringements.
+I do not doubt the correctness of that statement, but it has no application here.
+Patent infringement is a wrong of strict liability: it requires no knowledge or intention on the part of the alleged infringer, whose state of mind is wholly irrelevant to the issue of whether she infringes the patent.
+Thus, the fact that the alleged infringer did not know of the existence, contents or effect of the patent is completely irrelevant to the question of infringement, even if she had thought the invention up for herself.
+Accordingly, it is entirely logical that a person who, while wholly innocent of the existence, contents or effect of the patent, is nonetheless secondarily liable if she assists the primary infringer in her patent infringing acts.
+It cannot possibly follow that the same approach is appropriate in a case for a person who assists the primary misuser of trade secrets, given that it is necessary to establish the latters knowledge and/or state of mind (as explained in paras 22 25 above) before she can be liable for the misuse.
+The second case relied on by Vestergaard is Lancashire Fires Ltd v S A Lyons & Co Ltd [1996] FSR 629.
+In that case, an injunction to restrain the misuse of the plaintiffs confidential information was granted against a Ms Magnall on the ground she had had a common design with [another] to manufacture [certain products] and the process used was found to be confidential to the plaintiff p 677.
+It appears that, while she had been aware of the nature of the process, Ms Magnall had not been aware of the fact that the manufacture of those products involved a process which had been wrongly developed with the benefit of the plaintiffs trade secrets.
+Sir Thomas Bingham MR said at p 677, that it was just that Susan Magnall should be precluded from disclosing the information to others and therefore granted an injunction against her.
+As already explained in para 25 above, I have no difficulty with the idea that a person who receives and uses confidential information, but does not appreciate that it is confidential, can be liable for using that information once she appreciates that it is indeed confidential.
+Accordingly, in this case, the grant of an injunction against Mrs Sig, if she was threatening to use or pass on Vestergaards trade secrets, might well be justified, once it could be shown that she appreciated, or, perhaps, ought to have appreciated, that they were confidential to Vestergaard.
+However, I do not see how that can entitle Vestergaard to damages from Mrs Sig in respect of losses suffered from misuse of their trade secrets at a time when Mrs Sig was honestly unaware of the fact that there had been any misuse of their trade secrets.
+I note that in Lancashire, immediately after the short passage I have just quoted, Sir Thomas Bingham MR added that [i]f the plaintiff seeks financial relief against Susan Magnall, we shall need to hear further argument before deciding the point. (I should add that it appears that Lancashire may not have been as fully argued as it might have been in one respect, in that, at least at first instance, it was apparently conceded that the principle in Unilever, as discussed above, applied to confidential information cases, whereas, for the reason I have given in para 37 above, this is wrong.) The third ground: Mrs Sigs unusual position
+In so far as I understand the third way of putting Vestergaards case, (i) it
+involves saying that Mrs Sig had blind eye knowledge of the fact that Dr Skovmand was using Vestergaards trade secrets, or (ii) it amounts to contending that Mrs Sig should be liable for misuse of confidential information, as she must have appreciated that she was, to use a well worn metaphor, playing with fire, when she started up the new business with Mr Larsen, employing Dr Skovmand, in 2004.
+These two alternative ways of presenting Vestergaards third ground are quite close in their import, and in a sense they can both be said to involve an attempt to conflate the first and second grounds, albeit in a somewhat incoherent way.
+In the end they each must fail, essentially because of findings of fact made (or, in many respects, understandably not made) by the Judge.
+So far as argument (i) is concerned, it cannot succeed without a finding against Mrs Sig of dishonesty of the sort characterised by Lord Nicholls in Royal Brunei, as discussed in para 26 above.
+There is no such finding, and it seems to me clear from the conclusions which the Judge did reach, as summarised in para 15 above, that there was no basis for his making any finding of relevant dishonesty on the part of Mrs Sig.
+As to argument (ii), it is not enough to render a defendant secondarily liable for misuse of trade secrets by another to establish that she took a risk in acting as she did.
+The fact that she took a risk might often render it easier to hold that she was dishonest, but, by definition, it is not enough on its own.
+To revert to the metaphor, if one plays with fire, one is more likely to be burnt, but it does not of itself mean that one is burnt.
+Conclusion
+Looking at this case a little more broadly, I would add this.
+Particularly in a modern economy, the law has to maintain a realistic and fair balance between (i) effectively protecting trade secrets (and other intellectual property rights) and (ii) not unreasonably inhibiting competition in the market place.
+The importance to the economic prosperity of the country of research and development in the commercial world is self evident, and the protection of intellectual property, including trade secrets, is one of the vital contributions of the law to that end.
+On the other hand, the law should not discourage former employees from benefitting society and advancing themselves by imposing unfair potential difficulties on their honest attempts to compete with their former employers.
+In my judgment, quite apart from being inconsistent with legal principle for
+the reasons discussed above, it would be inconsistent with maintaining that balance to hold Mrs Sig liable to Vestergaard for misuse of their confidential information on the facts found by the Judge.
+Given that she did not learn of any relevant trade secrets owned by Vestergaard when she was employed by them, and did not appreciate that any such secrets were being used by an employee of the company of which she was a founder and director, it would be oppressive to hold Mrs Sig (as opposed to the employee or the company) liable to Vestergaard for breach of confidential information, whether or not she had previously worked for Vestergaard pursuant to a contract containing a standard sort of provision aimed at protecting Vestergaards trade secrets.
+Accordingly, I would dismiss Vestergaards appeal.

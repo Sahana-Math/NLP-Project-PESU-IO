@@ -1,0 +1,446 @@
+On 11 May 2004 there was an explosion at ICLs factory in Glasgow.
+Nine people were killed and many others were injured.
+Extensive damage was caused to neighbouring properties, including a shop owned by Morrison.
+On 13 August 2009 Morrison began the present proceedings, in which it seeks damages against ICL on the basis that the damage to its shop was caused by ICLs negligence, nuisance and breach of statutory duty.
+The proceedings are defended on the basis that any obligation owed by ICL to make reparation to Morrison had prescribed before the proceedings began.
+The relevant prescriptive period is five years, by virtue of section 6(1) of the Prescription and Limitation (Scotland) Act 1973 (the 1973 Act).
+Morrison argues however that the prescriptive period did not begin to run until long after the explosion occurred, since it was not aware, and could not with reasonable diligence have been aware, that the damage had been caused by negligence, nuisance or breach of statutory duty until a much later date.
+In that regard, Morrison relies upon section 11(3) of the 1973 Act.
+In the courts below, the case proceeded on the footing that section 11(3) was to be interpreted as meaning that the commencement of the prescriptive period was postponed where the creditor in the obligation was not aware, and could not with reasonable diligence have been aware, (1) that loss, injury or damage had occurred, and (2) that it had been caused by the breach of a duty owed to him.
+That interpretation was in accordance with a number of authorities.
+There was no doubt that Morrison knew that damage had occurred on the date of the explosion.
+In order to establish that it also knew or could with reasonable diligence have known at that date, or soon after, that the explosion had been caused by a breach of duty, ICL relied on the principle expressed in the maxim res ipsa loquitur.
+The rationale of that approach is not immediately obvious, since the principle res ipsa loquitur is not concerned with the establishment of knowledge on the part of a pursuer, whether actual or constructive.
+The principle belongs to the law of evidence, and refers to circumstances from the establishment of which an inference of negligence can be drawn, so as to shift the evidential burden of proof to a defender.
+It appears to have been considered relevant in the present context because of a gloss placed in some recent decisions upon the earlier interpretation of section 11(3) as postponing the commencement of the prescriptive period until the creditor is aware, actually or constructively, that the damage has been caused by the breach of a duty owed to him.
+In reality, a creditor often cannot be aware of that until the circumstances and their legal consequences have been established after proof.
+The earlier interpretation of section 11(3) has therefore been refined in some recent decisions, as I shall explain, so as to postpone the commencement of the prescriptive period until the creditor has sufficient knowledge, actually or constructively, to enable a stateable prima facie claim properly to be advanced.
+On that approach, the law of evidence would have a bearing on the matter.
+ICL succeeded before the Lord Ordinary, Lord Woolman, on the basis that
+the principle res ipsa loquitur applied in the circumstances of the explosion: [2012] CSOH 44; 2012 SLT 813.
+Morrison succeeded before the Inner House, on the basis that it did not: [2013] CSIH 19; 2013 SC 391.
+ICL then appealed to this court, where it has been permitted to raise the more fundamental issue of the correct interpretation of section 11(3).
+The statutory provisions governing prescription Section 6(1) of the 1973 Act provides:
+(1) If, after the appropriate date, an obligation to which this section applies has subsisted for a continuous period of five years (a) without any relevant claim having been made in relation to the obligation, and (b) without the subsistence of the obligation having been relevantly acknowledged, then as from the expiration of that period the obligation shall be extinguished.
+The obligations to which section 6 applies include any obligation arising from liability to make reparation (Schedule 1, para 1(d)), subject to specified exceptions.
+The appropriate date, when the five year period begins to run, is defined by section 6(3) as meaning the date when the obligation became enforceable, subject to specified exceptions, none of which is relevant to the present case.
+the 1973 Act provides: In relation to the date when the obligation became enforceable, section 11 of (1) Subject to subsections (2) and (3) below, any obligation (whether arising from any enactment, or from any rule of law or from, or by reason of any breach of, a contract or promise) to make reparation for loss, injury or damage caused by an act, neglect or default shall be regarded for the purposes of section 6 of this Act as having become enforceable on the date when the loss, injury or damage occurred. (2) Where as a result of a continuing act, neglect or default loss, injury or damage has occurred before the cessation of the act, neglect or default the loss, injury or damage shall be deemed for the purposes of subsection (1) above to have occurred on the date when the act, neglect or default ceased. (3) In relation to a case where on the date referred to in subsection (1) above (or, as the case may be, that subsection as modified by subsection (2) above) the creditor was not aware, and could not with reasonable diligence have been aware, that loss, injury or damage caused as aforesaid had occurred, the said subsection (1) shall have effect as if for the reference therein to that date there were substituted a reference to the date when the creditor first became, or could with reasonable diligence have become, so aware.
+Section 11(3): the problem
+The interpretation of section 11 has to begin with the text itself.
+The opening words of section 11(1) (Subject to subsections (2) and (3) below) make it clear that that subsection sets out the general rule, which applies without modification in all circumstances other than those covered by subsections (2) and (3).
+The general rule applies to any obligation to make reparation for loss, injury or damage caused by an act, neglect or default.
+The general rule is that the obligation is to be regarded as having become enforceable on the date when loss, injury or damage occurred.
+The phrase act, neglect or default has appeared in statutory provisions concerned with limitation periods since the Public Authorities Protection Act 1893.
+It appeared, in particular, in section 6(1)(a) of the Law Reform (Limitation of Actions) Act 1954 (the 1954 Act), which was the predecessor of section 17(1) of the 1973 Act.
+The meaning of the phrase in that context was considered by the House of Lords in Watson v Fram Reinforced Concrete Co (Scotland) Ltd 1960 SC (HL) 92.
+Lord Reid construed default as meaning breach of duty (p 109).
+Lord Keith of Avonholm was of the opinion that the phrase did not refer to a historical event, as the Inner House had considered in that case, but referred to negligence or a failure of duty (p 111).
+Lord Denning, echoing the Book of Common Prayer, stated at p 115: The words act, neglect or default are perhaps a little tautologous: for act in legal terminology often includes an omission as well as an act of commission: and default certainly includes neglect.
+But tautologous as they may be, the words are apt to cover all breaches of legal duty, no matter whether it be by leaving undone those things which we ought to have done, or by doing those things which we ought not to have done.
+Given that the phrase had been authoritatively determined to have that meaning in legislation which was repealed and replaced by the 1973 Act, Parliament can be presumed to have intended it to bear the same meaning in section 11(1).
+So understood, section 11(1) establishes a general rule that an obligation to make reparation is to be regarded for the purposes of prescription as having become enforceable on the date when loss, injury or damage has occurred (traditionally denoted by the Latin term damnum) which has been caused by an act, neglect or default (injuria): in other words, when the relevant right of action arises.
+This was explained by Lord Keith of Kinkel in Dunlop v McGowans 1980 SC (HL) 73, 81: The language of section 11(1) affords no warrant for splitting up the loss, injury or damage caused by an act, neglect or default.
+An obligation to make reparation for such loss, injury and damage is a single and indivisible obligation, and one action only may be prosecuted for enforcing it.
+The right to raise such an action accrues when injuria concurs with damnum.
+Some interval of time may elapse between the two, and it appears to me that section 11(1) does no more than to recognise this possibility and make it clear that in such circumstances time is to run from the date when damnum results, not from the earlier date of injuria.
+The words loss, injury and damage in the last line of the subsection refer back to the same words in the earlier part and indicate nothing more than the subject matter of the single and indivisible obligation to make reparation.
+Section 11(2) then sets out a special rule which applies where as a result of a continuing act, neglect or default loss, injury or damage has occurred before the cessation of the act, neglect or default.
+Loss, injury or damage must therefore have been caused by an act, neglect or default, as in subsection (1).
+What is special is that the act, neglect or default is of a continuing nature, and that loss, injury or damage has occurred before the cessation of the act, neglect or default.
+In that situation, the right of action arises as soon as any material loss is suffered as a result of the default.
+The prescriptive period does not however begin to run on that date: the loss, injury or damage is deemed, for the purposes of subsection (1), to have occurred on the date when the default ceased.
+For the purposes of prescription, therefore, the loss is deemed to have occurred on a later date than (some of) it actually did.
+Section 11(3) sets out another special rule, which applies where, on the date when loss, injury or damage occurred (or, in the case of loss, injury or damage resulting from a continuing act, neglect or default, the date of the latters cessation), the creditor was not aware, and could not with reasonable diligence have been aware, that loss, injury or damage caused as aforesaid had occurred.
+In that situation, subsection (1) is to have effect as if for the reference to the date when loss, injury or damage occurred there were substituted a reference to the date when the creditor first became, or could with reasonable diligence have become, so aware.
+As Lady Paton observed, in delivering the opinion of the Inner House, section 11(3) might prima facie be thought to refer solely to latent damage (para 29).
+Just as section 11(2) reflects the view that continuing damage requires some adaptation of the general approach laid down in section 11(1), on the basis that the date when a right of action arises is not in that situation the appropriate date for the commencement of the prescriptive period, so the same is also true of latent damage.
+In that situation, the right of action arises, and may subsist for more than five years, before the creditor is aware that he has suffered damage.
+It therefore makes sense to postpone the commencement of the prescriptive period.
+Section 11(3) does not however say merely that it applies where the creditor was not aware that loss, injury or damage had occurred: it applies where the creditor was not aware that loss, injury or damage caused as aforesaid had occurred (emphasis added).
+The words caused as aforesaid refer back to the words caused by an act, neglect or default in section 11(1).
+Does that therefore mean that section 11(3) applies not merely in cases of latent damage, but in every case where the creditor was not aware, at the time when the loss occurred, that it had been caused by an act, neglect or default?
+The competing interpretations
+Section 11(3) is capable of being read in two different ways.
+One possibility is to read the word aware as referring to the loss, injury or damage, and to treat the phrase caused as aforesaid as adjectival.
+The subsection is then read as if it said: the creditor was not aware that loss, injury or damage, which had been caused as aforesaid, had occurred.
+The creditor has then to be aware only of the occurrence of loss, while the words caused as aforesaid connect the loss to the cause of action.
+The other possibility is to read the word aware as referring not only to the loss, injury or damage but also to the fact that it has been caused as aforesaid.
+The subsection is then read as if it said: the creditor was not aware that loss, injury or damage had occurred, and that it had been caused as aforesaid.
+Since the words caused as aforesaid refer back to section 11(1) and mean caused by an act, neglect or default, the creditor then has to be aware of a composite of fact and law, comprising the occurrence of loss and the act, neglect or default which caused it, actionability being an element of the concept of an act, neglect or default.
+Lord Clyde adopted the latter reading of section 11(3) in Greater Glasgow Health Board v Baxter Clark & Paul 1990 SC 237 and Kirk Care Housing Association Ltd v Crerar & Partners 1996 SLT 150, both decisions in the Outer House.
+The Inner House expressed their agreement with that approach in Glasper v Rodger 1996 SLT 44, in a judgment delivered by Lord President Hope, although that case did not raise any question as to the effect of the words caused as aforesaid.
+Later cases have followed the same approach without further reassessment at the appellate level.
+The views of such distinguished judges as Lord Clyde and Lord Hope deserve great weight and respect.
+Nevertheless, I have reached a different conclusion as to the proper interpretation of section 11(3), for a number of reasons.
+First, I am inclined to think that the first of the interpretations suggested in paras 16 and 17 is the more natural reading as a matter of ordinary English.
+I recognise however that others may take a different view.
+More significantly, I am inclined to think that, if the draftsman had intended to require awareness of the cause of the loss, injury or damage before the prescriptive period would begin to run, that would have been a matter of such importance that he would have been likely to make that intention clearer.
+In that regard, section 11(3) can be contrasted with section 18(3) of the 1973 Act as originally enacted, which postponed the commencement of the limitation period applicable in cases of personal injury where the material facts relating to that right of action were or included facts of a decisive character which were at all times outside the knowledge (actual or constructive) of the pursuer.
+Such facts were defined by section 22(2) as being: (a) the fact that personal injuries resulted from a wrongful act or omission; (b) the nature or extent of the personal injuries so resulting; (c) the fact that the personal injuries so resulting were attributable to that wrongful act or omission, or the extent to which any of those personal injuries were so attributable.
+Although there are significant differences between prescription and limitation, the point can nevertheless be made that sections 18(3) and 22(2) illustrate that where it was intended that the limitation period was not to run so long as there was a lack of awareness of particular matters, the draftsman made it clear, by express language, what those matters were.
+If it had been Parliaments intention, in relation to section 11(3), that the prescriptive period was not to run so long as there was a lack of awareness of matters other than the occurrence of loss, injury and damage, one could reasonably expect that that would have been made equally clear.
+The contrast is equally striking if section 11(3) is compared with section 17(2)(b) of the 1973 Act as amended by the Prescription and Limitation (Scotland) Act 1984.
+The latter provision postpones the commencement of the limitation period until the pursuer was actually or constructively aware of a number of specified facts, including (ii) that the injuries were attributable in whole or in part to an act or omission.
+The effect of Lord Clydes interpretation of section 11(3) is to postpone the commencement of the prescriptive period until the creditor was actually or constructively aware of a more complex matter relating to causation (namely that the loss was caused by an actionable breach of duty) without there being comparably specific statutory language.
+The principal counter argument is that the words caused as aforesaid are unnecessary, on the reading which I prefer, and that statutes should be construed so as to avoid tautology.
+That is not in my opinion a persuasive argument.
+In the first place, as Lord Rodger of Earlsferry remarked, cautious tautologous drafting used to be typical of much of the statute book (Ghaidan v Godin Mendoza [2004] UKHL 30; [2004] 2 AC 557, para 107).
+Secondly, the words in question are not in my opinion truly tautologous, if section 11(3) is interpreted as I have suggested.
+They connect the loss to the cause of action, like the corresponding words in section 11(1) and (2).
+As Lord Keith explained in Dunlop v McGowans, there is a legal nexus between the loss which is the subject matter of the obligation to make reparation and the default causing the loss.
+The words caused as aforesaid make it clear that it is only knowledge of loss caused by the default relied upon by the creditor (as distinct from loss arising from any other cause) which is relevant in determining whether the obligation has prescribed.
+Two other counter arguments were accepted by Lord Clyde in the Greater Glasgow Health Board case.
+One was that the logic of the scheme points to a requirement of knowledge that the right of action exists before the obligation is deemed to be enforceable.
+Lord Clyde did not however explain what he considered the logic of the scheme to be, or the basis on which he arrived at that view.
+The second counter argument was that it was difficult to give much content to the reference to reasonable diligence, if it applied only to knowledge that loss had occurred.
+It is true that the greater the range of matters of which the creditor must be aware, the greater the scope for diligent inquiry.
+That does not however entail that section 11(3) must be given an expansive interpretation.
+Reasonable diligence is an appropriate standard by which to attribute constructive knowledge of the fact that loss, injury or damage has occurred.
+The interpretation of section 11(3) which I prefer is also consistent with my initial impression that the subsection is intended to deal with latent damage.
+So understood, section 11(3) follows the same approach as section 11(1) and (2).
+The general rule laid down by section 11(1) focuses on the occurrence of loss: the timing of its occurrence determines the date on which the prescriptive period begins.
+Section 11(2) addresses the problem which could otherwise arise where loss results from a continuing default, by providing a deemed date for the occurrence of loss, which is to be used instead of the actual date for the purposes of section 11(1).
+Section 11(3) addresses the problem which could otherwise arise where there is latent damage, namely that the creditor is unaware of its occurrence, by requiring the date of actual or constructive knowledge of its occurrence to be used instead for the purposes of section 11(1).
+If section 11(3) is so interpreted, all three subsections share a common focus upon the occurrence and timing of loss.
+There are two further, and in my opinion compelling, reasons for rejecting the interpretation of section 11(3) favoured by Lord Clyde.
+The first is the sheer oddity of postponing prescription according to the creditors knowledge that an act or omission is actionable.
+If he has to be aware that the loss was caused by an act, neglect or default, then it follows from Watson v Fram that he has to be aware that there has been a breach of a legal duty owed to him, as was accepted in the Greater Glasgow Health Board case and the other authorities I have mentioned.
+As it was put in Glasper v Rodger at p 47, the lack of awareness which requires to be established for the purposes of section 11(3) is a lack of awareness that a loss has occurred caused by an act, neglect or default which gives rise to an obligation to make reparation for it.
+That however results in a number of unlikely consequences.
+It means, in the first place, that prescription will run more or less quickly
+according to the creditors awareness of the law.
+If he receives accurate advice from his solicitor, it will begin on one date; if the advice is inaccurate, it will begin on another.
+If there are a number of creditors who suffer loss as a result of the same event, their claims may prescribe on different dates, depending on the legal advice which they receive.
+That runs contrary to the legal certainty which is the objective of prescription, and seems unlikely to have been the intention of Parliament.
+More fundamentally, in what sense can the creditor be aware that there has been a breach of duty, in advance of a judicial determination of the issue? Does being aware require certainty of success in a claim, or probability, or something less? In practice, even if the creditor has received legal advice, he is likely, at best, to be aware only that he has good prospects of success.
+If the advice has been less optimistic, he may be aware that he has reasonable prospects of success, or that he has an arguable case.
+Some recent decisions in the Outer House have sought to address this difficulty by glossing the phrase aware . that loss, injury or damage caused as aforesaid had occurred as meaning aware that a stateable prima facie claim could properly be advanced against someone (AMN Group Ltd v Gilcomston North Ltd [2008] CSOH 90; 2008 SLT 835, para 58; Pelagic Freezing (Scotland) Ltd v Lovie Construction Ltd [2010] CSOH 145, para 111).
+This test is however much less precise than one would expect in a context in which certainty is important, relying as it does on such uncertain standards as what may be regarded as stateable and what could properly be advanced.
+The gloss also seems to me to be reading more into the statutory language than it will bear.
+On the other hand, without some such gloss, it is difficult to see how the problem raised in para 28 can be addressed.
+An approach to the interpretation of section 11(3) which leads to impalement on one branch or other of Mortons Fork is not an attractive starting point.
+Lord Hodge and Lord Toulson, while agreeing with Lord Clyde that section 11(3) requires the creditor to be aware that loss was caused as aforesaid, depart from Lord Clydes approach by not relating those words back to the words caused by an act, neglect or default in section 11(1).
+Instead, they interpret the words caused as aforesaid as meaning caused by an act or omission, without any implication that the act or omission is actionable.
+They suggest that this approach is consistent with the policy of the provision.
+This approach seems to me to be one which might be recommended for adoption as a matter of law reform: indeed, recommendations to that effect were included among those made by the Scottish Law Commission in its Report on Prescription and Limitation of Actions (Latent Damage and Other Related Issues) (1989) (Scot Law Com No 122), paras 2.36 and 2.55.
+Those recommendations have not however been implemented by Parliament.
+It is not possible in my opinion for this court to reach the same result by interpretation of the words used in section 11(3).
+In the first place, Lord Clyde and Lord Hope were in my opinion correct to construe the words caused as aforesaid as referring back to the phrase caused by an act, neglect or default in section 11(1).
+That is to my mind the only possible meaning of the words as aforesaid, since section 11(1) contains the only prior reference in the section to causation.
+If Parliament had intended caused as aforesaid to mean caused by an act or omission, it could not have said as aforesaid, since there are no words with that meaning elsewhere in section 11.
+It also seems to me that it would make little sense to postpone the
+commencement of the prescriptive period until the creditor was aware of one fact which was critical to his bringing proceedings in respect of his loss, namely that it had been caused by an act or omission, but unaware of another, namely the identity of the person responsible.
+Such an arbitrary result would in my view serve no discernible policy.
+While Lord Hodge and Lord Toulson consider that it would be strange if the prescriptive period were to run before the creditor had sufficient awareness of the facts about what had caused him to suffer loss to be able reasonably to raise an action, it would seem to me to be stranger still to postpone the running of time until he knew what had caused him to suffer loss, but not who.
+In so far as Lord Hodge and Lord Toulson suggest that their interpretation is consistent with the policy which they attribute to the provision, I would also comment that I cannot see any basis for inferring such a policy other than their interpretation of section 11(3) itself.
+Such a policy cannot in particular be inferred from the report of the Scottish Law Commission which preceded the 1973 Act: see its report on Reform of the Law Relating to Prescription and Limitation of Actions in Scotland (1970) (Scot Law Com No 15), para 97, and its later memorandum, Prescription and Limitation of Actions (Latent Damage) (1987) (No 74), paras 2.9 and 4.6.
+Legal certainty
+Although all the members of this court agree that the interpretation hitherto placed on section 11(3) does not correctly reflect the intention of Parliament, careful consideration nevertheless has to be given to the overturning, with immediate effect, of an interpretation of a statutory provision relating to prescription which has been followed for many years.
+That is because of the potential impact on persons who may have conducted their affairs on the basis of the existing interpretation and might be prejudiced by the change.
+In the present context, however, counsel were agreed that parties with claims
+falling within the scope of section 11(3) were unlikely to have been advised to delay in initiating proceedings in reliance upon the existing authorities.
+It is also fair to observe that, although the approach adopted in the authorities I have mentioned has been followed for many years, it rests on slender foundations for a matter of such importance (as I have explained at para 18), and its correctness has not gone unquestioned: see, for example, Ghani v Peter T McCann & Co 2002 SLT (Sh Ct) 135; Adams v Thorntons WS 2005 1 SC 30; and particularly Johnston, Prescription and Limitation, 1st ed (1999), para 6.97, 2nd ed (2012), para 6.96 (this interpretation has been adopted in the face of cogent argument to the contrary).
+Like Lord Hodge, I would not regard it as settled law.
+Res ipsa loquitur
+It follows that, on a correct interpretation of section 11(3), the principle expressed by the maxim res ipsa loquitur is of no relevance to the application of the subsection.
+I am however in agreement with Lord Hodges observations on that subject.
+Conclusion
+LORD NEUBERGER
+I agree with the judgment of Lord Reed and would accordingly allow this
+appeal.
+However, in the light of the fact that a different conclusion has been reached by Lord Hodge and Lord Toulson as to the interpretation of section 11(3) of the Prescription and Limitation (Scotland) Act 1973, I will express my reasons on that issue in my own words.
+In these circumstances I would allow the appeal.
+The history of this case is set out by Lord Hodge in paras 59 63, but the basic facts are these.
+A serious explosion at ICLs premises occurred on 11 May 2004, and extensively damaged adjacent premises owned by Morrison.
+Morrison obtained access to its premises in June 2004, and contends that it could not have obtained a reliable expert report on the cause of the explosion until after mid August 2004.
+In August 2007 ICL pleaded guilty to breaches of the health and safety legislation, and in July 2009 a report was published identifying the explosion as an avoidable tragedy resulting from a number of failures by ICL.
+Morrison issued the current proceedings for reparation for the damage to its property and for lost profits against ICL on 13 August 2009.
+ICL admit that, but for one point, it would be liable to pay Morrison such reparation (although the question of quantum is not agreed).
+That one point is that Morrisons claim was extinguished as it was raised more than five years after the date when it could have raised its claim.
+That argument raises a short issue, namely the meaning of section 11, and in particular the meaning of the expression loss, injury or damage caused as aforesaid in section 11(3), of the 1973 Act.
+Section 6(1) of the 1973 Act by virtue of section 6(2) and para 1(d) of Schedule 1, applies to any obligation arising from liability to make reparation.
+It provides that (subject to certain irrelevant exceptions) where such an obligation has subsisted for a continuous period of five years without a claim being brought or a relevant acknowledgment having been made, then as from the expiration of that period the obligation shall be extinguished.
+Section 11 of the 1973 Act is set out in para 66 of Lord Hodges judgment and in para 8 of Lord Reeds judgment.
+Section 11(1) provides that, [s]ubject to subsections (2) and (3), for the purposes of section 6 any obligation to make reparation for loss, injury or damage should be regarded as having become enforceable on the date when the loss, injury or damage occurred.
+Section 11(2) provides that where as a result of a continuing act, neglect or default loss, injury or damage occurs, the loss, injury or damage should be deemed to have occurred when the act, neglect or default ceased.
+Section 11(3) applies to a case where on the date referred to in subsection (1) the creditor was not aware, and could not with reasonable diligence have been aware, that loss, injury or damage caused as aforesaid had occurred.
+In such a case, section 11(3), provides that section 11(1) has effect as if the date there referred to was when the creditor first became, or could with reasonable diligence have become, so aware.
+It is, rightly, common ground that, subject to subsections (2) and (3), under section 11(1), ICLs obligation . to make reparation for loss, injury or damage arose on 11 May 2004, the date of the explosion, as that was the date on which the loss, injury or damage occurred.
+It is also, again rightly, common ground that section 11(2) has no application: the explosion was by no stretch of the imagination a continuing act.
+Accordingly, subject to it being able to rely on section 11(3), Morrisons claim became extinguished on 11 May 2009, and hence it started its claim three months too late.
+The issue therefore turns on section 11(3).
+ICL contends that Morrison must have been aware that loss, injury or damage had occurred on the very day that the explosion took place (or possibly a day later), and, if for some reason it had not been so aware, it seems clear that it could with reasonable diligence have [been] so aware), and accordingly section 11(3) is of no assistance to Morrison.
+Morrison, on the other hand, lays stress on the words caused as aforesaid after the words loss, injury or damage, and contends that those words carry with them a requirement that that the creditor knows the cause of the loss, injury or damage, and that this could not have happened until late August 2004 at the earliest, when a promptly instructed expert would have reported.
+The issue therefore is whether the words caused as aforesaid have the effect contended for by Morrison.
+On ICLs case, the three words merely describe or identify the loss, injury or damage of which the creditor has to be aware.
+On Morrisons case, the three words extend the scope of the creditors required awareness from the loss, injury or damage to the cause of that loss, injury or damage.
+As a matter of ordinary language, the three words simply amount to an adjectival phrase, which serves to describe the words which precede them, rather than being words which add a requirement of causation to the scope of the creditors required awareness.
+The words aware . that loss caused as aforesaid had occurred simply do not naturally mean aware that loss had occurred and that it had been caused as aforesaid.
+They mean aware that loss, which had been caused as aforesaid, had occurred.
+That reading is reinforced by the point that, if the drafter had intended a creditor to be aware of the cause of the injury before time began running, one would have expected that intention to have been spelled out clearly.
+That is not, of course, necessarily the end of the matter, as interpretation of statutes is not merely an exercise in linguistics.
+While the natural meaning of an expression or a provision is as good a place as any (and very often the best place) to start, it is seldom, if ever, the only factor to take into account.
+I would accept that if there were other good reasons to do so, it may well be appropriate to depart from the natural meaning of section 11(3), and in particular the words caused as aforesaid, and to give those words the less natural meaning for which Morrison contends.
+I turn to consider the various reasons put forward by Morrison.
+First, there is the point that the words caused as aforesaid are surplusage on ICLs case.
+I am unimpressed with that point.
+A cautious drafter of the 1973 Act could easily have thought it appropriate to emphasise that in section 11(3) he was referring only to loss, injury or damage which had been caused as described in section 11(1).
+Cautious drafters of statutes and contracts often include protective or qualifying words which are not strictly necessary, and it would hinder clarity and certainty in the law, and seriously risk subverting the parliamentary or contractual intention, if judges started giving such expressions unnatural meanings simply to avoid them being surplusage.
+A second and similar point is that, if the drafter intended the words to have the effect contended for by ICL, he would have simply said the aforesaid loss, injury or damage rather than the more cumbersome and specific loss, injury or damage caused as aforesaid.
+I consider that that argument suffers from the same sort of problem as the first point.
+In addition, the drafter may well have thought that the more simple formulation (which anyway only has one less word) could lead to an ambiguity, as it might be argued that it referred to the immediately preceding reference to loss, injury or damage, namely that in subsection (2).
+By using the phrase that he did, including the word caused, which is not found in subsection (2), the drafter made it clear that he was referring to the loss, injury or damage mentioned in subsection (1).
+A third point is the contrast between section 11(2), which simply refers to loss, injury or damage and section 11(3), which refers to loss, injury or damage caused as aforesaid.
+I am not impressed with that point either.
+It is a big jump to conclude that the distinction justifies a significant and non natural meaning being given to the words caused as aforesaid.
+But, quite apart from that, the very different ways in which subsections (2) and (3) are structured satisfies me that it is unsafe to draw any conclusions from the inclusion of the three words in the latter subsection when they are not in the former.
+In particular the words as a result of in subsection (2) tie the loss, injury or damage to the continuing act, neglect or default, and so, even a cautious draftsman would have regarded it as unnecessary to include the words caused as aforesaid in subsection (2).
+Fourthly, there is section 17, whose provisions are set out and explained by Lord Hodge in para 67.
+Morrison contends that its interpretation of section 11(3) has the merit of consistency of approach with section 17 of the 1973 Act.
+I see no reason why the same principles should apply to prescription under section 11 and section 17: they relate to different types of claim and have different primary prescription periods.
+Indeed, in my view, far from supporting Morrisons case, section 17 assists ICLs case.
+Where the legislature wishes to provide that time does not start running for limitation or prescriptive purposes until an injured party knows or should know that an injury was caused by a defenders act or omission, it is spelled out in clear terms.
+Fifthly, there is the argument as to what, on Morrisons case, a creditor has to be aware of before times starts to run.
+In that connection, the clear provisions of section 17 highlight a problem with Morrisons interpretation: the words caused as aforesaid are ambiguous on its case, as they could mean caused by some actionable wrong or they could mean caused by some act or omission, which may or may not turn out to be an actionable wrong.
+This sort of uncertainty is reflected in the discussion in paras 81 94 of Lord Hodges judgment, as well as in paras 27 29 of Lord Reeds judgment.
+Sixthly, there are policy issues.
+Both parties advanced arguments based on policy, and I am unimpressed with those arguments in this case.
+The imposition of prescription and limitation periods inevitably involve balancing competing public and individual interests.
+In particular, it involves balancing the public interest in valid claims being litigated and legal wrongs being righted with the public interest in claims not lingering over the heads of potential defenders and claims not being difficult to dispose of justly due to their antiquity.
+Similarly, it is an area which throws up another, familiar, tension: on the one hand, it is desirable to have general and clear rules about limitation, even if they occasionally appear to produce a harsh result; on the other hand, it is sometimes appropriate to have specific exceptions to avoid too many unfairnesses.
+I see no particular policy reasons for adopting either interpretation in the present case, as each of them seems to me to result in a defensible and appropriate outcome.
+Seventhly, and connected with the sixth point, there is the alleged unfairness on a potential pursuer if time runs against him from the date he knows of the injury, even though he may not know of the identity of the person who caused the injury or what the cause of the injury was.
+In my view, the legislature could perfectly reasonably have assumed that in almost every case, five years from the date of discovery of loss, injury or damage would represent plenty of time for the injured party to discover all he needs to know to bring proceedings.
+The fact that there may be a very rare case where five years may not be enough is simply an example of the inevitable consequence of the compromise which limitation law involves.
+After all, even under the interpretation favoured by Lord Hodge there could be potential unfairnesses in individual and unusual cases, sometimes to pursuers and sometimes to defenders.
+Finally, there is the fact that there is a number of cases where Scottish judges have held that the interpretation advanced in these proceedings by Morrison is correct.
+Those decisions are discussed by Lord Hodge in paras 69 and 70.
+There are occasions when it is right for a court to accept that a statute should be accorded a meaning which would not otherwise appear to the court to be right, because that meaning has been generally accepted.
+However, in the present case, there is simply the fact that, since 1985, Scottish courts have held that section 11(3) has a certain meaning.
+This is not a case, for instance, where it can be said that Parliament has impliedly approved that interpretation, or assumed that it is correct.
+I do not consider that the mere fact that, over some decades, successive judges, however eminent, have come to, or assumed, a conclusion which a superior court thinks is wrong, justifies that court holding that that meaning is correct.
+Indeed, in the present case, as Lord Hodge explains in para 68, the leading textbook on the topic of prescription and limitation makes it clear, and would have made it clear to practitioners, that the interpretation of section 11(3) is a live issue.
+I also note that as long ago as 1987, the Scottish Law Commission suggested that the interpretation being adopted by the Scottish courts was not in accordance with the Commissions views Consultative Memorandum No 74 (1987).
+For these reasons, which are little more than a summary of Lord Reeds reasons, and differing with diffidence from Lord Hodge and the other distinguished Scottish judges who have consistently taken the opposite view, I would allow this appeal.
+LORD HODGE (dissenting, with whom Lord Toulson agrees)
+This appeal raises two questions concerning the Scots law of prescription, which extinguishes obligations through the passage of time.
+First, what is the nature of the actual or constructive awareness required of a pursuer in order to start the running of the prescriptive period? Secondly, of what is the pursuer to be aware? A third and subordinate question concerns the doctrine of res ipsa loquitur.
+Background facts
+On 11 May 2004 a serious explosion occurred at the factory premises of the appellants (ICL) at Grovepark Mills, Maryhill, Glasgow, causing the substantial collapse of the building.
+Nine people were killed and others were seriously injured.
+The shop owned by the respondent (Morrison), which was adjacent to ICLs premises, suffered extensive damage.
+After the accident the police sealed off the area around ICLs premises, including Morrisons shop.
+Morrison was not allowed access to its premises until June 2004 and had then to deal with its damaged stock and the risk of asbestos contamination.
+ICLs premises remained under the control of the Crown Office.
+On about 21 June 2004 ICL petitioned the Court of Session for judicial review of the procurator fiscals decision to refuse it access to its premises to investigate the cause of and legal responsibility for the explosion.
+The Crown Office released ICLs premises from its control on 12 July 2004.
+Morrison avers that it was unlikely that, having ascertained that the premises had been released, it could have arranged for experts to inspect the fire damaged premises and have obtained an expert report on the cause of the explosion so as to be able to commence legal proceedings before 13 August 2004.
+Morrison avers that speculation about a number of possible causes of the explosion continued and that in late 2005 the media were still reporting that the cause of the accident had not been established.
+In February 2006 the Crown Office announced its intention to bring criminal proceedings against two of the appellants (ICL Plastics Ltd and ICL Tech Ltd), and on 17 August 2007 those companies pleaded guilty to breaches of the Health and Safety at Work etc Act 1974.
+On 1 October 2007 the Lord Advocate announced that a public inquiry would be held into the explosion.
+That inquiry, which Lord Gill chaired, reported in July 2009.
+It pointed to a number of failures, including by ICL companies, which led to what was an avoidable tragedy.
+On 13 August 2009 Morrison raised this action, in which it seeks reparation for the damage to its property, and for lost profits and other costs.
+ICL admitted that it had had a liability to make reasonable reparation to Morrison but pleaded that its obligation to do so had prescribed.
+According to ICL, Morrison had sufficient knowledge to raise an action against it on the day of the explosion, more than five years earlier.
+The legislation
+The Prescription and Limitation (Scotland) Act 1973, as its title shows, covers both prescription and limitation.
+The rules of negative prescription (both the five year short negative prescription and the twenty year long negative prescription) are rules of substantive law and involve the extinction of rights through the passage of time.
+Limitation on the other hand is a procedural rule relating to personal injury claims.
+It has to be pleaded as a defence and a defender can waive it.
+If the plea is successful, it bars an action from proceeding in court after the lapse of the statutorily specified time.
+Negative prescription and limitation are thus conceptually different.
+But the sections of the 1973 Act on the short negative prescription, with which we are concerned in this appeal, and the provisions in that Act on limitation both address the circumstances in which a pursuers lack of actual or constructive knowledge postpones the starting of a clock.
+The basic relevant rule of the short negative prescription, in section 6 of the 1973 Act, is that if an obligation has subsisted for five years after the date when it became enforceable, without a relevant claim having been made or the subsistence of the obligation having been relevantly acknowledged, that obligation is extinguished as from the end of that period.
+That rule applies to any obligation arising from liability (whether arising from any enactment or from any rule of law) to make reparation (para 1(d) of Schedule 1 to the 1973 Act).
+Section 11 sets out the relevant rules in relation to such obligations to make reparation.
+It provides so far as relevant: (1) Subject to subsections (2) and (3) below, any obligation (whether arising from any enactment, or from any rule of law or from, or by reason of any breach of, a contract or promise) to make reparation for loss, injury or damage caused by an act, neglect or default shall be regarded for the purposes of section 6 of this Act as having become enforceable on the date when the loss, injury or damage occurred. (2) Where as a result of a continuing act, neglect or default loss, injury or damage has occurred before the cessation of the act, neglect or default the loss, injury or damage shall be deemed for the purposes of subsection (1) above to have occurred on the date when the act, neglect or default ceased. (3) In relation to a case where on the date referred to in subsection (1) above (or, as the case may be, that subsection as modified by subsection (2) above) the creditor was not aware, and could not with reasonable diligence have been aware, that loss, injury or damage caused as aforesaid had occurred, the said subsection (1) shall have effect as if for the reference therein to that date there were substituted a reference to the date when the creditor first became, or could with reasonable diligence have become, so aware. (my underlining) Thus subsection (3) postpones the start of the five year prescriptive period where the pursuer does not have the specified actual or constructive awareness.
+Section 17 of the Act, which deals with the limitation of personal injury actions, establishes as a general rule that the action must be commenced within a period of three years after the date when the injuries were sustained or, if later, the date when the act or omission, to which the injuries were attributable, ceased (section 17(2)(a)).
+This general rule is again qualified by a provision which postpones the start of the period of limitation when the pursuer does not have the specified actual or constructive knowledge.
+While section 17(2)(b), like section 11(3), uses the concept of awareness, it is much more explicit as to what the pursuer must be aware of.
+It provides that no action shall be brought unless it is commenced within a period of three years after: the date (if later than any date mentioned in paragraph (a) above) on which the pursuer in the action became, or on which, in the opinion of the court, it would have been reasonably practicable for him in all the circumstances to become, aware of all the following facts (i) that the injuries in question were sufficiently serious to justify his bringing an action of damages on the assumption that the person against whom the action was brought did not dispute liability and was able to satisfy a decree; (ii) that the injuries were attributable in whole or in part to an act or omission; and (iii) that the defender was a person to whose act or omission the injuries were attributable in whole or in part or the employer or principal of such a person.
+Unlike section 11(3), this provision makes it clear that the pursuers awareness is of specified factual matters.
+Section 22(3) confirms the irrelevance of legal knowledge of the actionability of the act or omission: see para 80 below.
+The English Law Reform Committee in its 24th report, Latent Damage (November 1984, Cmnd 9390) recognised (at para 4.7) the possibility that section 11(3) might not cover such matters.
+It decided to model what became section 14A of the Limitation Act 1980 on section 14 of that Act rather than section 11(3) of the Scottish Act because it was arguable that section 11(3) did not cover lack of knowledge of the causation of the damage or the identity of the persons responsible.
+Similarly, in its Report on Prescription and Limitation of Actions (Latent Damage and Other Related Issues) (Scot Law Com No 122), the Scottish Law Commission recorded in 1989 that, notwithstanding the first case that I mention below, there was doubt whether the discoverability formula in section 11(3) required knowledge of the cause of the damage.
+It recommended that the law be clarified by amending the legislation to state expressly that the discoverability formula included knowledge (a) that the loss, injury and damage was attributable in whole or in part to an act or omission and (b) of the identity of the defender.
+There has been no legislation to implement that report.
+David Johnston QC in his impressive book, Prescription and Limitation (2nd ed. 2012), also recognises that there are several ways in which section 11(3) can be read: he suggests that it might require awareness of (a) the facts of the loss, its cause and the identity of the defender, or (b) only the fact of the loss, or (c) the facts of the loss and of its being caused by negligence (para 6.96).
+The resolution of this uncertainty is the main issue in this appeal.
+Nonetheless, there has for almost 30 years been a consistent line of Scottish case law which has treated the words caused as aforesaid not as merely adjectival but as imposing a requirement of knowledge of causation.
+The first case was Dunfermline District Council v Blyth & Blyth Associates 1985 SLT 345, in which Lord McDonald said, obiter, that the creditor had to know that the loss which he had suffered occurred in circumstances giving rise to an obligation upon someone to make reparation to him.
+Lord Clyde adopted the same approach in Greater Glasgow Health Board v Baxter Clark & Paul 1990 SC 237 (GGHB), again in an obiter discussion.
+He held that the ordinary and natural meaning of the phrase caused as aforesaid included the distinct ingredient of causation by negligence (p 251).
+This was consistent with the logic of the statutory scheme, which was that a right of action was enforceable only once the pursuer could know that it existed (p 252).
+He also expressed the view that if the section required only knowledge of loss, there would be little content to the reference to reasonable diligence in the discoverability formula.
+But he was not persuaded that that formula required knowledge of the person on whom the obligation lay (also p 252).
+Lord President Hope, delivering the opinion of the First Division in Glasper v Rodger 1996 SLT 44, approved Lord Clydes decision in GGHB and suggested that section 11(3) looked for an awareness, not only of the fact of loss having occurred, but of the fact that it is a loss caused by negligence (p 47G).
+In Kirk Care Housing Association Ltd v Crerar and Partners 1996 SLT 150, Lord Clyde reiterated his view, rejecting a challenge by counsel for the defenders that section 11(3) was concerned only with awareness of loss, a matter of fact, and not with matters of legal liability.
+The courts have applied an interpretation consistent with the approach in GGHB and Glasper in several other cases, including an Extra Division of the Inner House of the Court of Session in Beveridge & Kellas WS v Abercromby 1997 SC 88, Lord MacFadyen in Britannia Building Society v Clarke 2001 SLT 1355 and Lord Menzies in Pelagic Freezing Ltd v Lovie Construction Ltd [2010] CSOH 145.
+In Ghani v Peter T McCann & Co 2002 SLT (Sh Ct) 135 Sheriff Principal Bowen expressed doubts about the soundness of the discussion in GGHB because he considered that knowledge that the loss was caused by negligence was not knowledge of fact and suggested that knowledge of loss was sufficient for time to run.
+Nevertheless, he followed GGHB and Glasper.
+More recently, in AMN Group Ltd v Gilcomston North Ltd 2008 SLT 835, Lord Emslie, addressing an argument that section 11(3) did not require knowledge that the causal act or omission was actionable, held (in para 32) that a construction of the statutory phraseology importing actionability has now been settled law . for nearly a quarter
+of a century
+The Scottish courts have thus required knowledge, actual or constructive, of more than the occurrence of loss.
+But there are doubts at the margins.
+First, there is a question whether awareness of causation extends beyond factual causation to the actionability of the causative act or omission (as in Ghani).
+Secondly, concerns have been expressed whether it is correct that the pursuer need not know of the identity of the defender before time starts to run.
+In Adams v Thorntons WS 2005 1 SC 30 two of the three members of an Extra Division (Lord Marnoch and Sir David Edward) reserved their opinion on whether in section 11(3) the pursuer had to have actual or constructive knowledge not only of his loss and its causation but also of the identity of the wrongdoer.
+David Johnston QC, commenting on the first instance decision in this case (para 72 below), suggested (at para 6.96) that the approach that time runs against a pursuer who does not know the identity of the defender produced what might be thought to be unsatisfactory results.
+The proceedings in this action
+On 9 March 2012 the Lord Ordinary (Lord Woolman) upheld ICLs plea of prescription after a legal debate in which Morrisons averments were taken pro veritate.
+He accepted as correct the approach of the Scottish courts, which I have discussed, as did ICLs counsel at that stage.
+In particular, Lord Woolman held that in section 11(3) it was for the pursuer to show that it did not have actual or constructive awareness that loss caused by negligence had occurred.
+He held (in para 24 of his opinion) that the question was whether Morrison knew, or could using reasonable diligence have found out, that it had a stateable prima facie claim arising out of the explosion.
+The identity of the obligant, the prospects of success and the precise extent of the damage were not relevant.
+Taking that approach, he concluded that the explosion within ICLs factory gave rise to a presumption of negligence in accordance with the principle of res ipsa loquitur.
+In the absence of any explanation for the explosion, Morrison was entitled to infer that the owner and occupier was responsible for the explosion.
+He took a similar approach to Morrisons alternative case of nuisance.
+Thus he held that, from the moment of the explosion, Morrison had the requisite knowledge and the prescriptive period began to run immediately.
+An Extra Division (Lady Paton, Lord Mackay of Drumadoon and Lady Smith) on 14 March 2013 recalled his interlocutor and allowed a proof before answer on prescription and the effect of section 11(3).
+They followed the approach in GGHB and Glasper but rejected the submission that the fact that there had been an explosion in a building meant that it had been caused by negligence.
+Because the maxim of res ipsa loquitur applied where the cause of the accident was not known, an action based on the maxim was the antithesis of the requirement in Glasper, namely awareness, not only of the fact of loss having occurred, but of the fact that it is loss caused by negligence.
+This appeal
+ICL seeks to challenge the established approach of the Scottish courts.
+Its case is that the period of the short negative prescription began to run on the date of the explosion.
+Its primary case is that all the pursuer needs to know, or constructively know, is that he has suffered loss.
+He needs no awareness of what had caused that loss and whether anyone has any legal liability to him for it.
+As a fall back, Mr Keen QC submits that if the Scottish case law were correct, Morrison had constructive knowledge that it had a prima facie case of negligence against the factory owners or someone because of the operation of the doctrine of res ipsa loquitur.
+Morrisons primary case, which adopts the approach of existing case law, is that time did not run against it until it had actual or constructive knowledge that it had suffered loss caused by some actionable wrong.
+As a fall back, Mr Howie QC submits that the requisite knowledge was factual, namely that Morrison had suffered loss, that there had been an act or omission and that there was a causal link between that act or omission and that loss.
+This appeal therefore raises sharply the question of which if any of the three possible interpretations of section 11(3) (para 11 above) is correct.
+Discussion
+(i) The discoverability test
+ICL submits in its written case that when interpreting section 11 it is important to consider the purpose of prescription.
+I agree.
+The law seeks to prevent stale claims both as a question of public interest and also as a matter of balancing the interests of the parties.
+Delay can diminish the quality of justice through both the loss of evidence and the diminution in the quality of the extant evidence.
+There is a public interest in dealing with disputes promptly.
+There is also a need for legal certainty.
+Thus the 20 year long negative prescription runs against a person whatever the state of his actual or constructive knowledge and despite any legal disability (sections 7 and 11(4) of the 1973 Act).
+In balancing the interests of the parties the law seeks to avoid keeping a defender in suspense as to his liability long after the events which might have given rise to such liability.
+It also allows people, including insurers, to organise their affairs and use their financial resources on the basis that after a certain period a claim relating to a past event will not be made.
+The importance of those policy justifications is underlined by the present case.
+They apply equally to the law of limitation in relation to personal injuries: Brisbane South Regional Health Authority v Taylor (1996) 186 CLR 541, McHugh J at pp 552 553.
+The law, by introducing discoverability tests in section 11(3) and section 17(2)(b) of the 1973 Act, has also recognised the injustice of cutting off a claim before the pursuer had or could with reasonable diligence have had sufficient information for a sufficient period to allow him to obtain legal advice and instruct the necessary investigations to raise legal proceedings to assert his right.
+The Scottish law of limitation in relation to actions for damages for personal injury and claims arising out of death through personal injury is a relatively modern innovation.
+Perhaps because claims for personal injury have generated greater political interest than claims for damage to property or financial loss, the Scottish law of limitation has had a different and more extensive history of legislative amendment.
+It was first enacted in section 6 of the Law Reform (Limitation of Actions, etc) Act 1954.
+A discoverability test was introduced by the Limitation Act 1963 and was retained and expanded in the 1973 Act.
+In 1980 section 19A was introduced into the 1973 Act, giving the court an equitable discretion to override the limitation period.
+The Prescription and Limitation (Scotland) Act 1984 amended the discoverability test and abolished the longstop of the 20 year long negative prescription in relation to claims for personal injuries.
+While since 1954 the limitation period has been three years, in 2007 the Scottish Law Commission in its Report on Personal Injury Actions: Limitation and Prescribed Claims (Scot Law Com No 207) recommended assimilating the limitation period with the five year prescriptive period.
+That recommendation has not been implemented.
+Notwithstanding the different legislative histories, there is in my view no obvious policy reason for the legislature to adopt radically different approaches to the substance of a pursuers knowledge in the discoverability tests applicable to claims for damage to property on the one hand and personal injury claims on the other (in sections 11(3) and 17(2)(b) respectively).
+Before 1984 the test for postponing the start of the limitation period was contained in section 18(3) of the 1973 Act.
+It was that the material facts relating to [the] right of action [which] were or included facts of a decisive character were outside the knowledge (actual or constructive) of the pursuer.
+In section 22(2) material facts were defined to include among others the fact that personal injuries resulted from a wrongful act or omission and the fact that they were attributable to that wrongful act or omission.
+Like section 11(3) this provision could be construed as referring to both factual and legal matters.
+This gave rise to conflicting judicial opinions.
+But in McIntyre v Armitage Shanks Ltd 1980 SC (HL) 46 the House of Lords determined that the legal consequences of a defenders act or omission were not a material fact of decisive character.
+In other words, the relevant facts did not include the existence of a right of action arising from the defenders act or omission.
+The provision was concerned with matters of fact, namely (i) the existence of injuries, (ii) their nature and extent and (iii) their cause.
+This exclusion of legal knowledge from the test was confirmed in the 1984 Act, which re worded section 17 of the 1973 Act (para 67 above) and also amended section 22(3) of that Act to provide that knowledge that any act or omission was or was not, as a matter of law, actionable, is irrelevant.
+(a) The meaning of awareness
+Both section 11(3) and section 17(2)(b) speak of the pursuer being actually or constructively aware of certain things.
+While the earlier tests in relation to limitation spoke of the pursuers knowledge, there does not seen to be any substantive difference between that and awareness.
+The word, awareness is a term of colloquial speech and its meaning is to be understood by reference to its context and to the policy of the legislature.
+In Borella v Borden Co (1945) 145 F 2d 63, 64 Justice Learned Hand spoke of words of colloquial speech having fringes of connotation, and unlike the terminology of science, deliberately fabricated for its definite outlines, it is to be expected that interpretation will vary. legislators, like others concerned with ordinary affairs, do not deal in rigid symbols, so far as possible stripped of suggestion, and do not expect their words to be made the starting point for a dialectical progression.
+We can best reach the meaning here, as always, by recourse to the underlying purpose, and, with that as a guide, by trying to project upon the specific occasion how we think persons, actuated by such a purpose, would have dealt with it, if it had been presented to them at the time.
+Such an approach is appropriate here.
+The policy is to fix the time when the pursuer is aware, or could have been aware if he exercised reasonable diligence, of sufficient information to take steps to pursue his claim.
+In AMN Group Ltd (above) Lord Emslie (at para 73) said that awareness went beyond surmising the relevant facts as a mere possibility.
+In Pelagic Freezing Ltd (above), a case which concerned defects in a building, Lord Menzies, in applying the approach set out in GGHB, spoke (at paras 110 and 111) of knowledge of material damage and knowledge that the relevant loss was actionable.
+In relation to the latter he stated that It is not necessary for the [expert] report to link defaults to specific defects any more than it is necessary for the report to explain or identify in minute detail the mechanism of [the] defects.
+Similarly, in the case law on limitation, the courts have drawn a distinction between an awareness of a possibility (which is not sufficient to cause time to run) and awareness of the relevant facts (which is).
+In Comer v James Scott & Co (Electrical Engineers) Ltd 1978 SLT 235 (a case which concerned the wording of the test before it was altered in 1984) Lord Maxwell stated (at p 240): [W]hether a person knows a fact seems to me to involve a question of degree.
+I do not consider it advisable to attempt to define it, but at least I think it involves something approximating more to certainty than mere suspicion or guess.
+Moreover, in my opinion, some information, suspicion or belief falling short of knowledge is not transformed into knowledge if it happens to be correct.
+I accept that a person cannot be said to know a fact if the thing which he believes with whatever conviction is not in accordance with the truth.
+But I do not think that the converse is correct.
+I do not think that any information or belief, however uncertain, necessarily amounts to knowledge merely because it happens to coincide with the truth.
+In Nicol v British Steel Corporation (General Steels) Ltd 1992 SLT 141, a case under the current section 17(2)(b) of the 1973 Act, Lord Coulsfield adopted a similar approach in relation to a pursuers awareness of the cause of his injuries.
+He held that a pursuers awareness that an accident might be attributable to an act or omission of one of a group of persons, as only one of a number of possibilities where there was no reason to choose between them, was not sufficient to start time running against him.
+He also warned against too prescriptive an approach, stating, at p 144: Beyond that, it does not seem to me to be possible to generalise and the question whether the pursuer was aware, or whether it was reasonably practicable for him to become aware, of sufficient facts and circumstances to start the triennium running must depend on the particular facts and circumstances.
+In Agnew v Scott Lithgow Ltd (No 2) 2003 SC 448 an Extra Division held that a pursuer, who had vibration white finger, ought to have made enquiry about his condition once he heard former colleagues talking about making claims arising out of having contracted that condition and time started to run then.
+In the provisions relating to limitation, therefore, a modest level of awareness of the causal link between the act or omission and the injury suffices.
+In my view, awareness in both section 11(3) and section 17(2)(b) does not require certainty but it needs more than mere knowledge of possibilities.
+The pursuer must know the specified facts with sufficient confidence for him to be able to take the necessary steps to prepare a legal claim based on them, by obtaining appropriate legal and other advice and collecting evidence of those facts to present to a court or other tribunal.
+It is not appropriate to draw too much on the English law of limitation,
+is a different statutory regime.
+But I think that the approach to the nature of awareness or knowledge as a starting point when time begins to run is similar in both jurisdictions: see Halford v Brookes [1991] 1 WLR 428, Lord Donaldson MR at p 443E G.
+The question then is: what are the specified facts? (b) Awareness of what?
+I have come to the view that the correct interpretation of section 11(3) is that there needs to be actual or constructive awareness of both (i) loss, (ii) its factual cause through an act or omission.
+I consider that there are three reasons to support this view which is essentially Mr Howies fall back case.
+First, like Lord Clyde in GGHB, I think that the statutory language of section 11 of the 1973 Act points towards giving content to the words, caused as aforesaid.
+In para 9 above I have underlined the words used in sub sections (1) and (2) which refer back to the loss, injury or damage caused by an act, neglect or default.
+All that was required for that reference back was the use of the definite article.
+The words, caused as aforesaid are not needed for that purpose and Parliament must have intended them to have a meaning.
+I also think that section 11(3)s reference to the awareness which the pursuer could acquire through exercising reasonable diligence points to knowledge of more than the fact of loss, injury or damage.
+Secondly, the purpose of the discoverability test in section 11(3) is to ascertain the point at which the pursuer is, or should have been, justified in preparing or instructing the preparation of his legal case.
+It seems to me that this points towards the pursuers knowledge of facts rather than legal rules.
+The starting point should not depend on the competence of the legal advice which he receives.
+Were it otherwise, the pursuer could defeat a plea of prescription on the basis that he had received incompetent legal advice.
+Section 11(1) establishes the general rule that the obligation to make reparation becomes enforceable when the pursuers right of action arises: see Watson v Fram Reinforced Concrete (Scotland) Ltd 1960 SC (HL) 92, Lord Reid (p 109), Lord Keith of Avonholm (p 111) and Lord Denning (p 115); Dunlop v McGowans 1980 SC (HL) 73, Lord Keith of Kinkel (p 81).
+It uses the words act, neglect or default in the context of its description of the obligation to make reparation.
+Those words characterise the acts or omissions that give rise to the obligation to make reparation because they are a breach of statutory duty, a delict or a breach of contract.
+I do not see that characterisation as relevant to the pursuers knowledge in section 11(3).
+It seems to me that in section 11(3) the phrase, loss caused as aforesaid, refers to actual or constructive knowledge of loss caused by an act or a failure to act and not the legal characterisation of the act or omission.
+Thirdly, the object of section 11 is to identify the date when the defenders obligation to make reparation became enforceable.
+It would be strange if prescription were to run before the pursuer had sufficient awareness of the facts (actually or constructively) about what had caused him to suffer loss to be able reasonably to raise an action.
+I do not go so far as Mr Johnston in his first interpretation of the subsection
+(in para 68 above): while there is, as he has said, much to be said for such a policy, on reflection, I do not think that the statutory words extend to require the pursuer to have knowledge of the identity of the defender before the clock starts.
+Clearly, when the pursuer instructs the raising of an action, his legal advisers will have to identify a person or someone within an identified class of persons (such as the employees of an employer) as the person who has caused him loss.
+This should not be difficult if there is awareness of the act or omission.
+If the claim is for breach of contract or breach of promise, there should be little difficulty in identifying the defender.
+In cases of negligence if there is knowledge of the act or omission, the pursuer can readily use section 1 or 1(1A) of the Administration of Justice (Scotland) Act 1972 (the 1972 Act) to apply to recover documents or for the disclosure of information as to the identity of persons who might be the defenders.
+I am comforted by the thought that the interpretation which I favour is not likely significantly to bring forward or postpone the starting point of the prescriptive period from that set by the established line of case law to which I have referred and thereby upset the expectations of litigants.
+The prescriptive period will usually start to run at about the same time as it does on the established line of case law as the pursuer will usually seek legal advice once he has the requisite factual knowledge.
+In any event, the pursuers constructive knowledge is measured objectively.
+By contrast, the start of the prescriptive period would be brought forward significantly in most cases if all that a pursuer needed to know was that he had suffered loss.
+While counsel debated whether the discussion by the Inner House in Glasper was obiter, a point which we need not decide, many in the legal profession have acted on the understanding that section 11(3) required more than knowledge of loss.
+I would not go so far as Lord Emslie in AMN by saying that it was settled law, but I can foresee that some pursuers might suffer loss as a result of this courts acceptance of Mr Keens attractively presented primary submission.
+In reaching my view on this matter I have not attached weight to the
+recommendations of the Scottish Law Commission in their report in 1970, Reform of the Law Relating to Prescription and Limitation of Actions.
+I recognise that the Commission addressed the mischief of latent damage, but they did not prepare a Bill with their report to give effect to their recommendations.
+The courts task is to construe the words which Parliament used unaided by those recommendations.
+(c) Summary
+In summary, the pursuer must have actual or constructive knowledge (in the sense set out in para 84 above) (i) that he has suffered more than minimal loss, and (ii) of the acts or omissions which caused that loss.
+With that awareness he would be justified in preparing or instructing a solicitor to prepare legal proceedings, and the law gives him five years to commence those proceedings.
+In most cases that knowledge would be combined with or readily lead to knowledge of the identity of the defender and, as I have said, there are procedures under the 1972 Act to assist him to acquire that further knowledge.
+I think that the Inner House was correct to require a proof before answer on the issue of prescription and the pursuers knowledge under section 11(3) as Morrisons averments (paras 60 63 above) raise issues of fact about both the state of its actual knowledge and the background against which the court may assess what it could have known in the exercise of reasonable diligence.
+(ii) Res ipsa loquitur
+On this approach, the applicability of the doctrine of res ipsa loquitur to the facts of the case does not arise.
+But as it was the principal matter that engaged both the Lord Ordinary and the Inner House, I comment on it briefly.
+Section 11(3) is concerned with the factual knowledge of the pursuer which justifies his preparation of the legal action: an awareness that an identified persons act or omission caused him loss.
+Res ipsa loquitur is an evidential rule for finding facts.
+Where the facts give rise to an inference of negligence by the defender, the evidential burden shifts onto the defender to establish facts to negative that inference.
+But it is of no relevance if one does not know who the defender is.
+Toulson LJ summarised the doctrine in Smith v Fordyce [2013] EWCA Civ 320, in which he stated (at para 61): The doctrine expressed in the maxim res ipsa loquitur is a rule of evidence based on fairness and common sense.
+It should not be applied mechanistically but in a way which reflects its underlying purpose.
+The maxim encapsulates the principle that in order for a claimant to show that an event was caused by the negligence of the defendant, he need not necessarily be able to show precisely how it happened.
+He may be able to point to a combination of facts which are sufficient, without more, to give rise to a proper inference that the defendant was negligent.
+A car going off the road is an obvious example.
+A driver owes a duty to keep his vehicle under proper control.
+Unexplained failure to do so will justify the inference that the incident was the drivers fault.
+In the words of the Latin tag, the matter speaks for itself.
+In such circumstances the burden rests on the defendant to establish facts from which it is no longer proper for the court to draw the initial inference.
+To show merely that the car skidded is not sufficient, because a car should not go into a skid without a good explanation.
+In Barkway v South Wales Transport Co Ltd [1949] 1 KB 54 the court took the same view about a tyre burst.
+A properly maintained vehicle ought not to suffer a tyre burst.
+It is therefore not surprising that the court held that in such circumstances: the defendants must go further and prove (or it must emerge from the evidence as a whole) either (a) that the burst itself was due to specific cause which does not connote negligence on their part but points to its absence as more probable, or (b) if they can point to no such specific cause, that they used all reasonable care in and about the management of their tyres.
+I agree.
+On the pleadings it appears that, when the explosion occurred, the source of the flammable material which caused it was not known.
+In an urban environment there might have been several possible causes involving the responsibility of different people or bodies.
+The fact of the explosion might cause a reasonable pursuer to suspect that something done or omitted to be done by the owners or occupiers of the factory where it occurred had caused it.
+But, for the reasons I set out when discussing the nature of the needed awareness, suspicion is not enough.
+If, contrary to my view, the doctrine were relevant to ascertaining the starting point of the prescriptive period, I do not think that it could be invoked against Morrison until there was evidence that the facts indeed spoke for themselves against ICL.
+Morrisons case is that the cause of the explosion was capable of being ascertained but that it was not able to carry out the necessary enquiries before 13 August 2004.
+For the same reason I do not accept ICLs argument that Morrison could infer fault on its part to support its case of nuisance.
+Conclusion
+I would therefore dismiss the appeal.
+My view is a minority view.
+It is 25 years since the Scottish Law Commission produced its 1989 report on prescription and limitation to which I referred in para 68 above.
+If the Commissions recommendations had been acted upon, Morrison would have been able to pursue its present claim.
+In the light of the decision in this case, which has changed the law as it was previously understood, I would urge that those recommendations should be given fresh consideration.

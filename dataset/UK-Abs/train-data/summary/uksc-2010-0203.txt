@@ -1,0 +1,49 @@
+Oracle America Inc, formerly known as Sun Microsystems, [Sun] are the manufacturers of computer systems, workstations and related goods.
+Sun is the proprietor of trade marks registered for use in connection with computer hardware [5].
+M Tech Data Limited, is a supplier of computer hardware [5].
+Articles 5 and 7 of Directive 89/104/EC confer upon a trade mark proprietor the exclusive right to control the first marketing in the European Economic Area [EEA] of goods bearing his trade mark, even if the goods are genuine and have previously been put on the market by him or with his consent outside the EEA [4].
+This means that third parties cannot import or sell a product for the first time in the EEA without the trade mark proprietors consent.
+Sun has the right to first market its hardware in the EEA.
+In 2009, a trap order was placed by a UK purchaser called KSS Associates for 64 Sun disk drives [5].
+A trap order is used in litigation to gather evidence as to what a potential defendant supplies in response to a request for a trade mark proprietors products.
+M Tech supplied 64 Sun disk drives sourced from a US broker, which had previously been sold in China, Chile and the USA.
+Sun had never consented to these goods being put on the market in the EEA.
+Consequently, M Tech infringed Suns trade marks contrary to Article 5.1(a) of the Directive [5].
+Sun sought summary judgment for damages for the infringement and an injunction restraining further infringements [6].
+In its defence, M Tech alleged that Sun had sought to secure the secondary market for its hardware, worth US$ 1.07 billion, for itself and its authorised dealers by declining to supply information on whether any particular equipment was first put on the EEA market by or with Suns consent [9].
+This had a chilling effect on independent resellers, including M Tech, as a result of Suns aggressive enforcement of its trade mark rights and withholding of the requisite information, which was not otherwise available and could not be inferred from circumstances [9].
+In fact, the disks had been imported and supplied by M Tech because of internal procedure failures and not due to any alleged policy by Sun to withhold the requisite information [10].
+M Techs defence was that Suns trade marks are not enforceable at all because (i) the object and effect of enforcement would be to partition the EEA market contrary to the free movement of goods within the EU enshrined in Articles 34 to 36 of the Treaty on the Functioning of the European Union; (ii) the exercise of Suns trade marks is connected with its distribution agreements that contained restrictive provisions inconsistent with Article 101 and (iii) enforcement of Suns trade marks would constitute an abuse of rights under EU law [6].
+Kitchin J granted summary judgment, ordering an inquiry into damages, and an injunction that prevented M Tech marketing goods if Sun has confirmed that those goods have not previously been put on the EEA market by Sun or with Suns consent [7, 10].
+The Court of Appeal allowed M Techs appeal and set aside the order [7].
+Sun appeals to the Supreme Court, inviting the court to make a reference to the Court of Justice of the European Union [CJEU'] [7].
+The issue is whether a person who has imported and sold goods in the EEA without the consent of the trade mark proprietor is entitled to defend an action for infringement on the ground that the proprietor of the trade mark is engaged in conduct calculated to obstruct the free movement of goods or distort competition in the EEA market [1].
+If this were an arguable defence in EU law, a reference to the CJEU would be necessary [7].
+The Supreme Court unanimously allows the appeal and restores the order of Kitchin J.
+The Supreme Court declines to make a reference to the CJEU [36].
+Lord Sumption delivers the judgment of the Court.
+The fundamental question is whether, as a matter of construction of Articles 34 to 36 of the EU Treaty, there is an implied limitation on the application of Article 5 of the Directive to preclude any exercise of trade mark rights that would have the object or effect of partitioning the EEA internal market [11].
+Such a limitation would effectively suspend Suns trade mark rights as against the entire EEA market [11].
+The scheme of Articles 5 and 7 of the Directive embodies both the primary provisions of the Treaty governing free movement of goods and the limited exception in Article 36 of the Treaty for the protection of industrial and commercial property [14].
+Reconciliation of the right under Article 5 to prevent the use by others of his own or identical trade mark for the registered class of goods with the Treaty is achieved by Article 7.1, as the right is exhausted as soon as goods are put on the EEA market by or with the consent of the trade mark proprietor [15].
+This is subject to Article 7.2, which permits a proprietor to control the marketing of his goods within the EEA market for legitimate reasons, which naturally do no include restricting trade between member states [16].
+The principle of the free movement of goods is incapable of restricting the right of a trade mark proprietor to prevent the first marketing within the EEA of goods imported from outside the EEA, per EMI Records Ltd v CBS United Kingdom Ltd 9 (Case 51/75) [1976] ECR 811 [18 20].
+The Directive is a definitive statement of the harmonised law concerning the rights of trade mark proprietors that confers on them a right to control the first marketing of their goods in the EEA, save where that right has been unequivocally renounced [20].
+The right affects only the entry of goods onto and not the movement of goods within the EEA market [25].
+Under Article 7.2, when goods have been put on the EEA market, the free movement of goods may be engaged and control of the marketing can only be exercised for legitimate reasons [21].
+Where there are no such legitimate reasons, the right to control the marketing does not exist at all [22].
+This reasoning cannot be applied to the right to control the first marking of goods in the EEA as that right is in every relevant respect unqualified [22].
+National law may place the burden of proving the consent of the trade mark proprietor to put goods on the EEA market on an alleged infringer who asserts it, unless the effect would be to enable the partitioning of national markets, in which case the burden lies with the proprietor [23].
+This rule is of no application in a case where it is admitted or clear that the goods were imported into the EEA without the proprietors consent [23].
+It is clear that the unlawful conduct alleged by M Tech does not amount to a defence, even if proved [24].
+On the agreed facts, the disk drives were never marketed in the EEA until they were imported by M Tech without Suns consent.
+The only right that Sun is seeking to enforce is the right to control the first marketing of goods in the EEA and the exercise of these rights affects only the entry of goods onto the EEA market and thus does not engage the principle of the free movement of goods [25].
+The control of marketing of goods in circulation within the EEA under Article 7.2 is a different and irrelevant situation [25].
+Sun cannot be prevented from enforcing its right to control first marketing, which is entirely lawful and consistent with the principle of the free movement of goods, simply because it is alleged that Sun proposes to withhold information about the provenance of its goods, which is unlawful and inconsistent with that principle [26].
+The case law on Article 7.2 only prevents a trade mark proprietor claiming a right to oppose further commercialisation if the exercise of that right itself would unjustifiably impede the free movement of goods.
+It does not restrain any exercise that does not [27].
+The limitation contended for would have the effect of preventing Sun enforcing its trade mark rights against anyone, which is unnecessary to vindicate the Treaty and contrary to the object and terms of the Directive [28].
+There is no relevant connection between the alleged policy of withholding information about the provenance of goods and the prevention, restriction or distortion of competition, contrary to Article 101 of the Treaty, by means of distribution agreements with a network of authorised Sun dealers.
+The policy had no effect on the choices made by the dealers and neither trade marks nor the right to enforce them can be characterised as the subject, means or result of an agreement or concerted practice [32].
+The exercise of Suns rights was not an abuse of rights in EU law [35].
+A reference to the CJEU is not necessary as the legislative and legal principles that made M Techs case impossible are entirely clear [36].

@@ -1,0 +1,752 @@
+The present appeals involve claims by prisoners sentenced to indeterminate prison sentences (life or IPP) that they were not sufficiently progressed during their sentences towards release on or after the expiry of their tariff periods.
+The principal issue is what the Supreme Court should now hold the law of the United Kingdom to be, taking account of the judgment of the European Court of Human Rights (ECtHR) in James, Lee and Wells v United Kingdom (2012) 56 EHRR 399 (James v UK) disagreeing with the decision of the House of Lords in R (James, Lee and Wells) v Secretary of State for Justice [2009] UKHL 22; [2010] 1 AC 553 (R (James)).
+The House of Lords in R (James) held that no breach of article 5(1) of the European Convention on Human Rights (ECHR) was involved in a failure properly to progress prisoners towards post tariff release.
+The ECtHR in James v UK took a different view.
+Correctly, the courts below, from which the present appeals lie, held themselves bound by the House of Lords reasoning and decision.
+The Supreme Court must now consider whether and how far to modify its jurisprudence.
+Indeterminate prison sentences in English law: summary
+Since the abolition of capital punishment in 1965, the most severe form of sentence imposed under English law has been a sentence of life imprisonment.
+A life sentence does not mean imprisonment for the rest of the defendants natural life; it means a sentence composed of two parts.
+The first part is a minimum term, fixed by the court according to the gravity of the offence and the circumstances of the offender.
+The second is an indefinite term beyond that minimum, in which period the prisoner may be released, not unconditionally but on licence, if he is judged no longer to present an unacceptable risk to the public.
+In modern times the decision on release is committed to the Parole Board, an independent body correctly treated as a court by the ECtHR.
+Release on licence is required by statute when the Parole Board has directed it, but it may so direct only when satisfied that it is no longer necessary for the protection of the public that the prisoner be confined: sections 28(5) and (6) of the Crime (Sentences) Act 1997.
+Such a life sentence may be passed in defined circumstances only: (a) (b) It is required by law for those convicted of murder (a mandatory life sentence).
+It is available as a discretionary penalty (a discretionary life sentence) for a restricted group of offenders convicted of a few of the most serious offences known to the law, for which the maximum sentence available is life imprisonment, where the gravity of the offence warrants a very long sentence and where the risk of grave future harm to the public from the offender cannot reliably be estimated at the time of sentencing (R v Hodgson (1967) 52 Cr App R 113 and R v Chapman [2000] 1 Cr App R 77). (c) Unless its imposition would in the circumstances be unjust it is required in the case of those convicted for a second time of a defined group of very serious violent or sexual offences, where both offences called for determinate terms of ten years or more, or their equivalent: see section 122 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012 (LASPO). (d) Between 1997 and April 2005 it was required, unless in the circumstances its imposition would be unjust because the offender did not pose a risk to the public of serious harm, in the case of a few offenders convicted for the second time of a restricted group of the most serious violent or sexual offences: section 109 Powers of Criminal Courts (Sentencing) Act 2000, repealed by section 303 of and Schedule 37 to the Criminal Justice Act 2003.
+This form of life sentence was generally known as an automatic life sentence. 4.
+In addition to these forms of life sentence, the Criminal Justice Act 2003 created from April 2005, until it was abolished by LASPO, the different form of indeterminate sentence called Imprisonment for Public Protection (IPP).
+As is well known, IPP was available (and for the first three years was in some circumstances mandatory) for a much wider class of offences than was a life sentence.
+It was, however, structured in a similar manner to a life sentence, formed of a minimum term fixed by the court in accordance with the gravity of the offence and the circumstances of the offender, to be followed by an indefinite period with release on licence only when the prisoner was judged by the Parole Board no longer to present an unacceptable risk to the public of serious harm.
+The terms of section 28(5) and (6) of the Crime (Sentences) Act 1997, governing release, apply to IPP prisoners as they do to life sentence prisoners. 5.
+As is also well known, and chronicled in both R (James) and to a lesser extent in James v UK, the advent of IPP in April 2005 put the prison administration in England and Wales under an entirely new strain.
+Previously there had been fairly steady numbers of prisoners serving indeterminate periods, namely those serving one or other of the forms of life sentence set out at (a), (b) and (d) above.
+IPP prisoners were also indeterminate prisoners but their numbers greatly increased the total, which by 2008 was effectively doubled.
+The present claimants 6.
+The four appellants were convicted of various offences and were sentenced as follows: (a) Mr Haney was on 13th November 2003 ordered to serve an automatic life sentence, with a minimum specified term expiring on 13th November 2012, the sentence being passed for robbery committed with others while armed with sawn off shot guns. (b) Mr Robinson was on 2nd October 2006 sentenced to IPP for sexual offences, with a seven year minimum term (to which time on remand counted as usual) expiring on 10th December 2012. (c) Mr Massey was on 15th May 2008 sentenced to IPP for sexual offences, with a minimum term of two years six months (again allowing for time on remand) expiring on 11th September 2010. (d) Mr Kaiyam was on 20th July 2006 sentenced to IPP with a minimum term of two years and 257 days, expiring on 3rd April 2009.
+Mr Haneys life sentence was passed under section 109 of the Powers of Criminal Courts (Sentencing) Act 2000.
+The sentences on Mr Robinson, Mr Massey and Mr Kaiyam were passed under section 225 of the Criminal Justice Act 2003. 7.
+All these sentences were, when passed, outside the scope of the provisions of section 142(1) of the Criminal Justice Act 2003 requiring a sentencing court to have regard to reform and rehabilitation as an express purpose of sentencing.
+As from 14th July 2008, section 142 was amended to require regard to be had to reform and rehabilitation as an express purpose of any life or IPP sentence passed under section 225.
+In R (James) the House on 6 May 2009 held that, prior to this amendment, the only purposes of section 225 were commensurate punishment and public protection.
+It accepted however that the premise of section 225 and the context in which it was enacted were that prisoners would be given a fair chance of rehabilitating themselves; and, consistently with this, the Ministry of Justices National Offender Management Service instruction issued in July 2010 indicated (para 4.1.1) that ISP [indeterminate sentence prisoner] sentence plans will aim to identify the risks the prisoner must reduce and offer the effective and timely delivery of properly identified interventions, having regard to available resources, so that Parole Board reviews can be meaningful; the release of ISPs is facilitated where it is safe to do so; [and] any period of continued detention beyond tariff is necessary because the risk of harm remains too high for release to be appropriate.
+The instruction also recognised (para 4.8.1) that In most mandatory lifer cases, a phased release from closed to open prison is necessary in order to test their readiness for release into the community on life licence.
+In James v UK the ECtHR took a different view from the House of the purposes of IPP sentences in the context of the ECHR.
+It regarded a real opportunity for rehabilitation [as] a necessary element of any part of the detention which is to be justified solely by reference to public protection and on this basis held that one of the purposes of IPP sentences was the rehabilitation of those so sentenced (para 209). 8.
+Each of the appellants now complains that his progress towards post tariff release was hampered by failures relating to his rehabilitation for which the respondent Secretary of State was responsible.
+In summary: (a) Mr Haney complains under article 5 that he was only transferred to open prison conditions on or around 16th July 2012, too close to the expiry date of his minimum term to allow release immediately upon such expiry.
+The Secretary of State conceded that a systemic failure (to provide adequately for the increase in numbers of prisoners serving indeterminate terms) had led to excessive delay in transferring him to open conditions, and Lang J proceeded on that basis.
+But both she and the Court of Appeal dismissed his claim under article 5 in the light of the Houses decision in R (James). (b) Mr Haney also complains under article 14 that he was discriminated against by a decision of the prison authorities, taken in October 2011 in the light of the shortage of available places in open prisons, to prioritise the movement to open conditions of those whose tariff period had already expired.
+Lang J and the Court of Appeal dismissed this complaint, as they were bound to, in the light of the Houses decision in R (Clift) v Secretary of State for the Home Department [2006] UKHL 54, [2007] 1 AC 484, notwithstanding the later judgment of the ECtHR in Clift v United Kingdom (Application No 7205/07) (13 July 2010), disagreeing with this decision of the House. (c) Messrs Robinson and Massey complain that they were unable to commence an extended sexual offenders treatment programme (ESOTP) until, in the case of Robinson, 1st July 2013, over five years after the course was first recommended for him and over nine months after his tariff period expired, and, in the case of Massey, until May 2013, nearly three years after it was first recommended and over three years since his tariff period expired.
+The Divisional Court (Richards LJ and Irwin J) on 4th December 2013 found that the number of IPP prisoners at the relevant times greatly exceeded the number of ESOTP places on courses, and held itself satisfied that there is a continuing failure on the part of the Secretary of State to make reasonable provision of systems and resources, specifically the reasonable provision of ESOTP courses, for the purpose of allowing IPP prisoners a reasonable opportunity to demonstrate to the Parole Board, by the time of the expiry of their tariff periods or reasonably soon thereafter, that they are safe to be released. (para 62) Having dismissed the claims in the light of R (James) but stating also that it did not consider that they would have succeeded under the principles indicated in James v UK the Divisional Court certified the cases as suitable for leapfrog appeal to this Court. (d) Mr Kaiyams complaint under article 5 is not based on any allegation of systematic failure by the Secretary of State.
+It is a complaint about various decisions and delays which he says affected him individually and meant that he was not offered or put on various courses during the period 2010 to 2013, after his tariff period expired.
+Supperstone J and the Court of Appeal dismissed his claim in the light of R (James).
+Analysis of the duty of the Secretary of State 9.
+Article 5 of the ECHR reads: the lawful detention of a person after conviction by a 1.
+Everyone has the right to liberty and security of person.
+No one shall be deprived of his liberty save in the following cases and in accordance with a procedure prescribed by law: (a) competent court; (b) the lawful arrest or detention of a person for noncompliance with the lawful order of a court or in order to secure the fulfilment of any obligation prescribed by law; (c) the lawful arrest or detention of a person effected for the purpose of bringing him before the competent legal authority on reasonable suspicion of having committed an offence or when it is reasonably considered necessary to prevent his committing an offence or fleeing after having done so; (d) the detention of a minor by lawful order for the purpose of educational supervision or his lawful detention for the purpose of bringing him before the competent legal authority; (e) the lawful detention of persons for the prevention of the spreading of infectious diseases, of persons of unsound mind, alcoholics or drug addicts or vagrants; (f) the lawful arrest or detention of a person to prevent his effecting an unauthorised entry into the country or of a person against whom action is being taken with a view to deportation or extradition. 2.
+Everyone who is arrested shall be informed promptly, in a language which he understands, of the reasons for his arrest and of any charge against him.
+Everyone arrested or detained in accordance with the provisions of para 1(c) of this article shall be brought promptly before a judge or other officer authorised by law to exercise judicial power and shall be entitled to trial within a reasonable time or to release pending trial.
+Release may be conditioned by guarantees to appear for trial.
+Everyone who is deprived of his liberty by arrest or detention shall be entitled to take proceedings by which the lawfulness of his detention shall be decided speedily by a court and his release ordered if the detention is not lawful.
+Everyone who has been the victim of arrest or detention in contravention of the provisions of this article shall have an enforceable right to compensation. 10.
+The cases of R (James) and James v UK concerned mandatory IPP sentences with tariffs of respectively two years, 12 months and nine months, at the expiry of which the three applicants still remained in their local prisons without access to recommended rehabilitative courses.
+Messrs James, Wells and Lee were only transferred to first stage lifer prisons five months, 21 months and 25 months after their respective tariffs expired.
+The Divisional Court and Court of Appeal in R (James) held the Secretary of State to have been in systemic breach of his public law duty, and granted a declaration to that effect.
+In the House of Lords there was no appeal against that declaration, but explicit reference was made to its correctness (see per Lord Hope, para 3).
+However the House of Lords dismissed the claims for breach of articles 5(1) and (4).
+It held that continued detention remained lawful until the Parole Board was satisfied that it is no longer necessary for the protection of the public that the prisoner should be confined, as provided by section 28(6)(b) of the Crime (Sentences) Act 1997 and in accordance with the principles since considered by this Court in R (Sturnham) v Parole Board (No 2) [2013] UKSC 47, [2013] 2 AC 254. 11.
+The only possible exception that the House contemplated was for the (hypothetical) case of detention continuing for a very lengthy period in circumstances where the system of review had completely broken down or ceased to be effective: per Lord Hope at para 15 and Lord Brown at para 51.
+This exception reflected case law of the ECtHR (to which we will return in greater detail) to the effect that compliance with article 5(1)(a) requires more than that the detention is in compliance with domestic law.
+As the European court stated in Weeks v United Kingdom (1987) 10 EHRR 293, para 42: "The 'lawfulness' required by the Convention presupposes not only conformity with domestic law but also conformity with the purposes of the deprivation of liberty permitted by sub paragraph (a) of article 5(1).
+Furthermore, the word 'after' in sub paragraph (a) does not simply mean that the detention must follow the 'conviction' in point of time: in addition, the 'detention' must result from, 'follow and depend upon' or occur 'by virtue of' the 'conviction'.
+In short, there must be a sufficient causal connection between the conviction and the deprivation of liberty at issue." On that basis, the ECtHR in Weeks went on in relation to a discretionary life sentence imposed for the purpose of public protection (para 49): "The causal link required by sub paragraph (a) might eventually be broken if a position were reached in which a decision not to release or to re detain was based on grounds that were inconsistent with the objectives of the sentencing court. 'In those circumstances, a detention that was lawful at the outset would be transformed into a deprivation of liberty that was arbitrary and, hence, incompatible with article 5'." In relation to article 5(4), the House in R (James) held that article 5(4) required a system providing for assessment at reasonable intervals which meets the requirements of procedural fairness: per Lord Hope at para 21.
+As such a system existed on the facts, it held that there was no breach of article 5(4). 12.
+The ECtHR took a different view from the House of Lords on article 5(1).
+It concluded that following the expiry of the applicants tariff periods and until steps were taken to progress them through the prison system with a view to providing them with access to appropriate rehabilitative courses, their detention was arbitrary and therefore unlawful within the meaning of article 5(1) of the Convention. (para 221) It regarded the complaints under article 5(4) regarding the failure to provide relevant courses as raising no separate issue (para 226).
+The ECtHR later commented that it had found the applicants post tariff detention to have been arbitrary and therefore in breach of article 5(1) during the periods in which they were not progressed in their sentences and has no access to relevant courses to help them address the risk they posed to the public. (para 231) and that It cannot be assumed that, if the violations had not occurred, the applicants would not have been deprived of their liberty.
+It also logically follows that once the applicants were transferred to first stage prisons and had timeous access to relevant courses, their detention once again became lawful. (para 244) 13.
+The ECtHR was not concerned with life sentence prisoners in James v UK, but it is clear from cases decided under article 5(4) that it would adopt similar reasoning.
+As Lord Reed explained in R (Faulkner) v Secretary of State for Justice, R (Sturnham) v The Parole Board (No 1) [2013] UKSC 23 [2013] 2 AC 254, paras 9 10, the ECtHR held in Thynne, Wilson and Gunnell v The United Kingdom (1990) 13 EHRR 666 that, since the need for public protection was likely to change over time, discretionary life prisoners whose tariff periods had expired were entitled to invoke article 5(4): 9.
+Since there was a question whether their continued detention was consistent with the objectives of the sentencing court, it followed that they too were entitled under article 5(4) to have the question determined.
+The subsequent judgment in Stafford v United Kingdom (2002) 35 EHRR 1121 confirmed that a mandatory life prisoner was also entitled to the protection of article 5(4), by means of regular reviews of the risk which he presented, once the punitive period of his sentence had expired. 10.
+The implications of these judgments were then reflected in domestic case law.
+In relation to automatic life prisoners, in particular, it was held in R (Noorkoiv) v Secretary of State for the Home Department [2002] 1 WLR 3284 that article 5(4) requires a review by the Board of whether the prisoner should continue to be detained once the tariff period has expired, and therefore requires a hearing at such a time that, whenever possible, those no longer considered dangerous can be released on or very shortly after the expiry date.
+In practice, that meant that the Board should hold hearings prior to the expiry of the tariff period.
+Since Noorkoiv's case had not been heard until two months after the expiry of his tariff period, he was therefore the victim of a violation of article 5(4).
+That approach has been followed in the subsequent case law. 14.
+James v UK has subsequently been applied by the 4th section of the ECtHR in Dillon v UK (Application No 32621/11; 4 Nov 2104) and Thomas v UK (Application No 55863/11; 4 Nov 2014), summarily rejecting the Governments submission that it had been wrongly decided.
+However in both cases the claims of the applicants failed on the merits. 15.
+The ECtHRs reasoning in James v UK opens the possibility, discussed in In re Corey [2013] UKSC 76, [2014] AC 516, that it was contemplating that detention could, at least post tariff, fluctuate between the lawful and unlawful, depending upon whether a prisoner serving a sentence of IPP was being offered appropriate opportunity to progress in his or her sentence.
+Not surprisingly, counsel for the appellants on the present appeal were as keen to disclaim such an analysis as counsel for the Secretary of State.
+But common ground between counsel in a particular case cannot avoid the need to address an important point of law, which may arise in other cases in which counsel may take different attitudes.
+In In re Corey, para 62, Lord Mance pointed out that the ECtHR did not directly address the apparent logical consequences of its analysis of article 5(1), when this was questioned by the British Government.
+Instead, it contented itself with saying simply (para 217) that: The Court accepts that where an indeterminate sentence has been imposed on an individual who was considered by the sentencing court to pose a significant risk to the public at large, it would be regrettable if his release were ordered before that risk could be reduced to a safe level.
+However, this does not appear to be the case here. 16.
+It may not have been the case with Messrs James, Wells and Lee that their release was sought or ordered before their risk was reduced to a safe level.
+But the Supreme Court was informed that various life or IPP prisoners are now relying upon James v UK to challenge in the Administrative Court the legitimacy of their continued detention, before the Parole Board has expressed itself satisfied as to their safety for release.
+In these circumstances, Mr James Eadie QC for the Secretary of State invites the Supreme Court to rule on the legal position under United Kingdom law, and submits that, whatever the position in Strasbourg, we should declare life and IPP prisoners continuing detention to be lawful, unless and until the Parole Board determines such detention to be unnecessary subject only to the remote possibility, identified by the House in R (James) that a complete breakdown of the parole system might destroy the causal link between the original sentence of life or IPP and the continuing detention.
+We should in short adhere in this respect to the Houses previous reasoning and decision in R (James). 17.
+The logical starting point of this submission consists in sections 2, 3 and 6 of the Human Rights Act 1998.
+These sections read: judgment, decision, declaration or advisory opinion of 2.
+A court or tribunal determining a question which has arisen in connection with a Convention right must take into account any (a) the European Court of Human Rights, . 3(1) So far as it is possible to do so, primary legislation and subordinate legislation must be read and given effect in a way which is compatible with the Convention rights. 6(1) It is unlawful for a public authority to act in a way which is incompatible with a Convention right. (2) Subsection (1) does not apply to an act if (a) as the result of one or more provisions of primary legislation, the authority could not have acted differently; or (b) in the case of one or more provisions of, or made under, primary legislation which cannot be read or given effect in a way which is compatible with the Convention rights, the authority was acting so as to give effect to or enforce those provisions. 18.
+The Convention Rights are those set out in Schedule 1 to the Act.
+It follows from the wording of the Act that domestic courts in interpreting and applying such rights are not bound by the jurisprudence of the ECtHR, but are bound to take it into account.
+Usually, domestic and Strasbourg jurisprudence march hand in hand, as contemplated by the mirror principle no more, but certainly no less (as put by Lord Bingham in R (Ullah) v Special Adjudicator [2004] UKHL 26, [2004] 2 AC 323, para 20 or no less, but certainly no more (as put by Lord Brown in Al Skeini v Secretary of State for Defence [2007] UKHL 26, [2008] 1 AC 153, para 106).
+But increasingly it has been realised that situations are not always so simple.
+The domestic court may have to decide for itself what the Convention rights mean, in a context which the ECtHR has not yet addressed: see eg Rabone v Pennine Care NHS Foundation Trust [2012] UKSC 2, [2012] 2 AC 72.
+More radically, the domestic court may conclude that such Strasbourg authority as exists cannot be supported, and may decline to follow it in the hope that it may be reconsidered: R v Horncastle [2009] UKSC 14, [2010] 2 AC 373. 19.
+The position was summarised by Lord Neuberger in Manchester City Corporation v Pinnock [2010] UKSC 45, [2011] 2 AC 104, as follows: 48.
+This Court is not bound to follow every decision of the European court.
+Not only would it be impractical to do so: it would sometimes be inappropriate, as it would destroy the ability of the court to engage in the constructive dialogue with the European court which is of value to the development of Convention law (see eg R v Horncastle[2010] AC 373).
+Of course, we should usually follow a clear and constant line of decisions by the European court: R (Ullah) v Special Adjudicator [2004] 2 AC 323.
+But we are not actually bound to do so or (in theory, at least) to follow a decision of the Grand Chamber.
+As Lord Mance pointed out in Doherty v Birmingham City Council [2009] AC 367, para 126, section 2 of the HRA requires our courts to take into account European court decisions, not necessarily to follow them.
+Where, however, there is a clear and constant line of decisions whose effect is not inconsistent with some fundamental substantive or procedural aspect of our law, and whose reasoning does not appear to overlook or misunderstand some argument or point of principle, we consider that it would be wrong for this court not to follow that line. 20.
+More recently in R (Chester) v Secretary of State for Justice [2013] UKSC 63, [2014] AC 271, para 27, Lord Mance said: In relation to authority consisting of one or more simple Chamber decisions, dialogue with Strasbourg by national courts, including the Supreme Court, has proved valuable in recent years.
+The process enables national courts to express their concerns and, in an appropriate case such as R v Horncastle [2010] 2 AC 373, to refuse to follow Strasbourg case law in the confidence that the reasoned expression of a diverging national viewpoint will lead to a serious review of the position in Strasbourg.
+But there are limits to this process, particularly where the matter has been already to a Grand Chamber once or, even more so, as in this case, twice.
+It would have then to involve some truly fundamental principle of our law or some most egregious oversight or misunderstanding before it could be appropriate for this court to contemplate an outright refusal to follow Strasbourg authority at the Grand Chamber level. 21.
+The degree of constraint imposed or freedom allowed by the phrase must take into account is context specific, and it would be unwise to treat Lord Neubergers reference to decisions whose reasoning does not appear to overlook or misunderstand some argument or point of principle or Lord Mances reference to some egregious oversight or misunderstanding as more than attempts at general guidelines, or to attach too much weight to his choice of the word egregious, compared with Lord Neubergers omission of such a qualification. 22.
+The starting point, when considering Mr James Eadie QCs submission, must be the language of article 5.
+Article 5 lists the cases in which a person may, in accordance with a procedure which must be prescribed by law, be deprived of his or her liberty.
+The first (article 5(1)(a)) is lawful detention after conviction by a competent court.
+Article 5(4) entitles anyone detained purportedly pursuant to this or any other of the listed grounds to take proceedings by which the lawfulness of his detention shall be decided speedily by a court and his release ordered if the detention is not lawful. 23.
+On the face of it, the express wording of article 5(1) and of the last ten words of article 5(4) contemplate that any detention not authorised by article 5(1) should lead to release.
+On the reasoning of the ECtHR in James v UK, failure after the tariff period properly to progress a life or IPP prisoner towards release makes detention during the period of such failure arbitrary and therefore unlawful.
+If that reasoning be adopted, then such detention is in breach of the express language of article 5(1)(a), and the prisoner should (in the eyes of the ECtHR) be entitled to an immediate order for speedy release under article 5(4).
+Under United Kingdom domestic law, release would however be impossible, since primary legislation requires such a prisoner to remain in detention unless and until the Parole Board is satisfied that this is no longer necessary for the protection of the public and section 6(2)(a) of the Human Rights Act 1998 would apply.
+But, even so, it would then be open to the prisoner under section 4 of the Act to seek a declaration of incompatibility if domestic courts were to interpret the Convention rights scheduled to the Act in the same way as the ECtHR interprets the ECHR at the international level.
+Considerable importance may therefore attach to the question whether the reasoning of the ECtHR in James v UK is followed and adopted domestically. 24.
+The reasoning in James v UK has, as its premise, that whether detention is lawful is not conclusively decided by the fact that there has been a valid conviction by the domestic court.
+In its previous case law the Court had made clear that, although the primary requirement of article 5(1)(a) is that the detention should have a legal basis in domestic law, the article also relates to the quality of the law, requiring it to be compatible with the rule of law, a concept inherent in all the articles of the Convention: Stafford v United Kingdom (2002) 35 EHRR 1121, para 63; Amuur v France (1996) 22 EHRR 533, para 50; Saadi v United Kingdom (2008) 47 EHRR 427, para 67; Kafkaris v Cyprus (2008) 49 EHRR 877, para 117; M v Germany (2009) 51 EHRR 976, para 90; see also Radu v Germany (Application No 20084/07), para 112.
+In this as in other contexts, the ECHR has not infrequently resorted to a concept of arbitrariness to explain what it means by unlawfulness.
+The natural meaning of this English word connotes some quite fundamental shortcoming.
+But it is also clear that, when used at the international level, its sense can depend on the context.
+Thus, in Saadi v United Kingdom (2008) 47 EHRR 427, the Grand Chamber identified a distinction between arbitrariness in the context of article 5(1)(a) and in the context of other sub paragraphs of article 5(1).
+It said: 25. 69.
+One general principle established in the case law is that detention will be arbitrary where, despite complying with the letter of national law, there has been an element of bad faith or deception on the part of the authorities (see, for example, Bozano v France, 18 December 1986, Series A no 111, and onka v Belgium, Application No 51564/99, ECHR 2002 I).
+The condition that there be no arbitrariness further demands that both the order to detain and the execution of the detention must genuinely conform with the purpose of the restrictions permitted by the relevant sub paragraph of article 5(1) (see Winterwerp, cited above, 39; Bouamar v Belgium, 29 February 1988, 50, Series A no 129; and OHara v The United Kingdom, Application No 37555/97, 34, ECHR 2001 X).There must in addition be some relationship between the ground of permitted deprivation of liberty relied on and the place and conditions of detention (see Bouamar, 50, cited above; Aerts v Belgium, 30 July 1998, 46, Reports 1998 V; and Enhorn v Sweden, Application No 56529/00, 42, ECHR 2005 I). 70.
+The notion of arbitrariness in the contexts of sub paras (b), (d) and (e) also includes an assessment whether detention was necessary to achieve the stated aim.
+The detention of an individual is such a serious measure that it is justified only as a last resort where other, less severe measures have been considered and found to be insufficient to safeguard the individual or public interest which might require that the person concerned be detained (see Witold Litwa, cited above, 78; Hilda Hafsteinsdttir v Iceland, Application No 40905/98, 51, 8 June 2004; and Enhorn, cited above, 44).
+The principle of proportionality further dictates that where detention is to secure the fulfilment of an obligation provided by law, a balance must be struck between the importance in a democratic society of securing the immediate fulfilment of the obligation in question, and the importance of the right to liberty (see Vasileva v Denmark, Application No 52792/99, 37, 25 September 2003).
+The duration of the detention is a relevant factor in striking such a balance (ibid, and see also McVeigh and Others v The United Kingdom, Applications Nos 8022/77, 8025/77, 8027/77, Commissions report of 18 March 1981, Decisions and Reports 25, p 15 at pp 37 38 and 42). 71.
+The court applies a different approach towards the principle that there should be no arbitrariness in cases of detention under article 5(1)(a), where, in the absence of bad faith or one of the other grounds set out in para 69 above, as long as the detention follows and has a sufficient causal connection with a lawful conviction, the decision to impose a sentence of detention and the length of that sentence are matters for the national authorities rather than for the Court under article 5(1) (see T v The United Kingdom [GC], Application No 24724/94, 103, 16 December 1999, and also Stafford v The United Kingdom [GC], Application No 46295/99, 64, ECHR 2002 IV). 26.
+According to Saadi, the arbitrariness which might at an international level affect lawfulness under article 5(1) is relatively confined.
+The main examples which the European Court gave of situations in which detention might, although lawful under domestic law, be unlawful under the Convention, were: (a) Detention following upon the unlawful kidnapping or luring within the domestic jurisdiction of a person wanted for trial can render a persons detention following his or her subsequent conviction unlawful: see the citation of Bozano v France (1986) 9 EHRR 297 and onka v Belgium (2002) 34 EHRR 1298 in footnote 50 to para 69 of the Courts judgment in Saadi.
+Under English common law a similar result would follow: such conduct would call for a stay of the criminal proceedings and the release of the defendant on the grounds of abuse of process: R v Horseferry Road Magistrates Court, Ex p Bennett [1994] 1 AC 42. (b) The deprivation of liberty must genuinely be for one of the purposes permitted by article 5(1) and must, in the case of a sentence, retain a sufficient causal connection with the original conviction: see eg van Droogenbroeck v Belgium (1982) 4 EHRR 443, paras 35 and 40 (referring to detention based on grounds that had no connection with the objectives of the legislature and the court or on an assessment that was unreasonable in terms of those objectives), Weeks v The United Kingdom (1987) 10 EHRR 293, Kafkaris, para 118 and the Houses reasoning in R (James), paras 15 and 49. 27.
+However, other authority indicates a tendency on the part of at least some sections of the court to expand the concept of unlawfulness under article 5(1).
+Thus, in M v Germany, para 90, the fifth section said on 17 December 2009 in a context where article 5(1)(a) was in issue that: Quality of the law in this sense implies that where a national law authorises deprivation of liberty it must be sufficiently accessible, precise and foreseeable in its application, in order to avoid all risk of arbitrariness (see Amuur v France, 25 June 29. 1996, 50, Reports 1996 III; Nasrulloyev v Russia, Application No 656/06, 71, 11 October 2007; and Mooren v Germany [GC], Application No 11364/03, 76, 9 July 2009).
+The standard of lawfulness set by the Convention thus requires that all law be sufficiently precise to allow the person if need be, with appropriate advice to foresee, to a degree that is reasonable in the circumstances, the consequences which a given action may entail (see Steel and Others v The United Kingdom, 23 September 1998, 54, Reports 1998 VII, and Baranowski v Poland, Application No 28358/95, 52, ECHR 2000 III). 28.
+In contrast, the First Section in Zagidulina v Russia (Application No 11737/06) (02 May 2013) appears to have deliberately limited itself to article 5(1)(e), when it stated (para 51) that: the notion of lawfulness in the context of article 5(1)(e) of the Convention might have a broader meaning than in national legislation.
+Lawfulness of detention necessarily presumes a fair and proper procedure, including the requirement that any measure depriving a person of his liberty should issue from and be executed by an appropriate authority and should not be arbitrary (see Winterwerp, cited above, 45, Johnson v The United Kingdom, 24 October 1997, 60, Reports of Judgments and Decisions 1997 VII, and more recently Venios v Greece, Application No 33055/08, 48, 5 July 2011 with further references).
+Even in the context of article 5(1)(e), the dictum seems to have been unnecessary for the decision, since it is clear from para 61 of the First Sections judgment that the claimants detention on the ground that she was of unsound mind, when she had neither been present in person nor represented at the hearing ordering such detention, was not in accordance with a procedure prescribed by law within the express language of article 5(1), even if attention was confined to domestic law.
+The extent to which the concept of lawfulness may require a domestic law authorising detention to meet some higher international standard of procedural fairness did not require attention at all.
+In neither situation covered by points (a) and (b) mentioned in paragraph 26 above does there appear domestically to be any difficulty about accepting that the prisoner should not have been detained and should be, or have been, released.
+That is subject to the important proviso that the possibility of a break in the chain of causation envisaged by point (b) is understood as we consider that it must and should be in domestic law in the remote and restricted sense indicated by the House in R (James).
+A requirement that any law authorising detention should be sufficiently accessible, precise and foreseeable (see para 27 above) would probably also be capable of being accommodated within domestic law, again provided that it was understood as directed to situations where the relevant law was palpably defective.
+As to the reasoning in Zagidulina v Russia (para 28 above), the requirement that any deprivation of liberty be in accordance with a procedure prescribed by law is general to all the heads covered by article 5(1).
+It is directed primarily to domestic law, but, if one assumes that it may also connote satisfaction of a certain standard of procedural fairness set at the international level, the implications of this have not been worked out in any case law, and it does not follow that any shortfall in procedural fairness must lead to immediate release. 30.
+The present appeal does not in any event concern procedural fairness.
+It concerns alleged failures in the provision of appropriate opportunities to prisoners to progress towards release from sentences about the imposition of which, as such, no complaint is or can be made.
+In this context, there is a real difficulty about accepting a proposition that the Convention rights require a life or IPP prisoners release, before the Parole Board is satisfied that his detention is no longer required for the protection of the public.
+Not only would this in the United Kingdom context mean that primary legislation section 28(6)(b) of the Crime (Sentences) Act 1997 (para 10 above) was in conflict with the Convention rights.
+It would also involve the release of someone whose safety for release had not been established; and, as soon as he could be offered appropriate facilities to make progress towards eventual release, it would involve re detaining him always assuming that he either surrendered voluntarily or could be found and rearrested.
+In In re Corey, paras 63 69 Lord Mance questioned whether the ECtHR could have meant this.
+He identified certain features of its reasoning which suggest that it did not.
+We will treat them as repeated here, without setting them out.
+However, if the ECtHR did not mean this, that seems to undermine the central part of its reasoning that detention becomes arbitrary and unlawful under article 5(1) after the expiry of the tariff period, if the prisoner is not given the facilities to enable him to progress towards release.
+Detention which is unlawful under the express wording of article 5(1) is, as we have said, detention from which a person is under article 5 entitled on the face of it to be released. 31. 32.
+The central part of the Courts reasoning in James v UK under article 5(1) finds little if any support in the previous Strasbourg authority.
+The need for a coherent framework for progression towards release of persons subject 33. to a measure of preventive detention is mentioned in M v Germany, at para 129, but in a quite different part of the judgment from that dealing with the lawfulness of detention namely in the context of considering whether the extension of such a measure from ten years to an unlimited period after six years in preventive detention constituted the introduction of a retrospective penalty.
+In Grosskopf v Germany (2010) 53 EHRR 280, paras 50 52 the Court again expressed concern about the apparent absence of any special measures, instruments or institutions to address the danger presented by persons subject to preventive detention and to limit the duration of their detention, but did so purely in the context of considering whether a sufficient causal connection existed between the applicants original conviction and his continuing preventive detention.
+If anything, the courts reference to its concern, coupled with its decision to uphold the continuing detention as not unreasonable in terms of the objectives of the preventive detention order, suggest that the court did not see the absence of any special measures as capable of affecting the lawfulness of the detention, so long as the causal connection based on danger to the public existed.
+In James v UK the Fourth Section of the ECtHR did however unequivocally identify the absence of measures to assist progression through the prison system as arbitrariness making the detention unlawful.
+It treated the situation as falling within the language of article 5(1)(a), despite the continuing existence of sufficient causal link between sentence and detention (see para 198).
+On this basis, it had also to identify the period of detention which was unlawful.
+It did so by referring, in its holding, to the detention following the expiry of their tariff periods and until steps were taken to progress them through the prison system.
+That exposes a problem.
+Particularly where a tariff is of a relatively long period, a prisoners progression towards release through courses and experience in open conditions should, where and to the extent feasible, be facilitated not merely after but also in advance of the tariff period, so as to keep open the possibility of release on or shortly after its expiry.
+That is indeed Mr Haneys complaint in the present case.
+Yet, on the ECtHRs approach, treating the present issue as falling within the text of article 5(1)(a), no complaint can apparently arise until the expiry of the tariff period, and any complaint can then only arise if the failure to provide courses, etc continues after the expiry of the tariff period. 34.
+The second, much more substantial problem about the Fourth Sections approach is that logically it would, if followed in the United Kingdom, mean, as we have stated, that any prisoner not being progressed through the system should be released, and that the Crime (Sentences) Act 1997 section 28(6)(b) should be declared incompatible with the Convention rights insofar as it precludes this.
+As noted in para 15 above, the ECtHR in para 217 of its judgment avoided, rather than addressed, this difficulty.
+Mr Southey QC for the appellants suggested, ingeniously, that the difficulty could not arise, because, as soon as a prisoner gets to court and establishes that he is not being duly progressed towards release, the courts order would redress the situation.
+This does not however follow.
+Many of the failings revealed by the cases which have come before the courts to date are simply incapable of being redressed at the drop of a hat or wig.
+Systems failed, due to lack of resources and facilities, and it takes time to mend such failures, whatever order a court might make.
+Moreover, in a case where the failure was repaired, as it might be by the time a court came to consider the case, by the provision of adequate opportunity to the prisoner, then the court would be left, on this view of the ECtHR decision, with detention which had been unlawful for a time but was no longer. 35.
+For the reasons which we have given, we do not think that it is possible to follow the reasoning of the Fourth Section of the ECtHR in James v UK.
+It appears to us to be based on an over expanded and inappropriate reading of the word unlawful in article 5(1)(a), which would not give rise to a sensible scheme.
+That does not however mean that we would revert to the Houses decision in R (James).
+The Fourth Section has underlined the link which should be recognised between preventive detention and rehabilitation, and has also concluded that there should be an individual remedy in damages under the ECHR for failure to provide prisoners serving indeterminate sentences with proper means of progression towards release.
+The Houses refusal of a Convention remedy in R (James) was based on a contrary conclusion that the aim of a life or IPP sentence does not include rehabilitation, at least for the purposes of the ECHR, as well as upon the Houses view that the continuing causal link between sentence and detention prevented any breach of article 5. 36.
+We consider that the Supreme Court should now accept the Fourth Sections conclusion, that the purpose of the sentence includes rehabilitation, in relation to prisoners subject to life and IPP sentences in respect of whom shorter tariff periods have been set.
+We also consider that the Supreme Court can and should accept as implicit in the scheme of article 5 that the state is under a duty to provide an opportunity reasonable in all the circumstances for such a prisoner to rehabilitate himself and to demonstrate that he no longer presents an unacceptable danger to the public.
+But we do not consider that this duty can be found in the express language of article 5(1).
+Treating it as an aspect of the duty to avoid arbitrariness under article 5(1)(a) has unacceptable and implausible consequences which we have already identified.
+The Grand Chamber decision in Saadi also remains important authority that arbitrariness has a confined meaning, when used as a test of lawfulness in the context of article 5(1)(a). 37.
+Article 5(4) would be a more satisfactory home for any duty of the nature identified in the previous paragraph, if its language covered it (which it does not).
+Article 5(4) gives rise to an ancillary duty on the state, breach of which does not directly impact on the lawfulness of detention.
+The duty is to make available access to judicial review by a court or here the Parole Board, which will consider whether the information put before it justifies continued detention or release.
+Speedy access to the Parole Board like reasonable access to proper courses and facilities represents an important aspect of a prisoners progression towards release.
+But the language of article 5(4) is in terms confined to access to judicial review by the Parole Board on the basis of the information available from time to time.
+It does not cover the prior stage of provision of courses and facilities in prison, which gives rise to the information necessary on any Parole Board review. 38.
+The duty to facilitate the progress of such prisoners towards release by appropriate courses and facilities cannot therefore be brought, in our opinion, within the express language of either article 5(1)(a) or article 5(4).
+But it is on any view closely analogous, at an earlier stage, to the duty involved under article 5(4), and it is far more satisfactory to treat it as an analogous duty arising by implication at an earlier stage than that covered by article 5(4), rather than to treat article 5(1)(a) as incorporating it.
+We consider that a duty to facilitate release can and should therefore be implied as an ancillary duty a duty not affecting the lawfulness of the detention, but sounding in damages if breached.
+Such a duty can readily be implied as part of the overall scheme of article 5, read as a whole, as suggested in In re Corey. 39.
+The appropriate remedy for breach of such duty is, for the reasons explained, not release of the prisoner, for his detention remains the direct causal consequence of his indefinite sentence until his risk is judged by the independent Parole Board to be such as to permit his release on licence.
+The appropriate remedy is an award of damages for legitimate frustration and anxiety, where such can properly be inferred to have been occasioned.
+Except in the rarest cases it will not be possible to say what might have been the outcome of an opportunity by way of a prison programme which was not provided or was provided late.
+It will thus not, except in the rarest cases, be possible to establish any prolongation of detention.
+Such a breach is likely to attract relief similar to that recognised as appropriate under article 5(4) in frustration/anxiety cases where a Parole Board hearing has been wrongly delayed: we refer to the very full analysis of Strasbourg awards in R (Faulkner) v Secretary of State for Justice, R (Sturnham) v The Parole Board (No 1) [2013] UKSC 23, [2013] 2 AC 254, and we note that in some of them the award needed to reflect not only delay but also procedural unfairness.
+It may be legitimate to infer rather greater frustration in at least some cases when the point of impending decision, which may be for release, has been arrived at, than at the more speculative earlier stage of delay in the provision of prison treatment.
+The round figure levels of damages awarded by the ECtHR in James v UK, para 244, do not appear to us to offer appropriate general guidance for future cases under the ancillary duty now recognised.
+The general approach set out by Lord Reed at points 10 15 in para 13 of R (Faulkner) and R (Sturnham) and the detailed examination of authority later in his judgment should however provide valuable guidance as to the appropriate approach to damages in respect of any such breach of the ancillary duty. 40.
+This approach will be more satisfactory in result than that which would, apparently, follow from the ECtHRs analysis in James v UK.
+There would be no risk of detention fluctuating between the legitimate and illegitimate, no requirement to release before the Parole Board is satisfied that this would be safe, and no risk therefore to public safety.
+But, equally, the prisoner will be able (a) to complain and to seek mandatory orders if and when any breach of such duty occurs and (b) to claim damages in respect of any period of extended detention or other loss which he or she can establish (and this could often prove a very difficult task, bearing in mind the speculative nature of the exercise) to have flowed from the failure properly to progress him or her towards rehabilitation.
+These rights would exist and damages would be recoverable in respect of any period of extended detention which could be shown to have resulted after the expiry of the tariff period whether the failure occurred before or after the expiry of the tariff period.
+The prisoners rights would not therefore depend upon showing an overlap between a period during which such a failure occurred and a period of increased detention post tariff, as the ECtHRs approach in James v UK appears to require.
+The content of the duty 41.
+On that basis the question arises in what precise terms and in particular at what precise level the duty should be put.
+As a matter of domestic public law, complaint may be made in respect of any systemic failure, any failure to make reasonable provision for an individual prisoner so egregious as to satisfy the Wednesbury standard of unreasonableness or any failure to apply established policy.
+The question is whether liability for breach of article 5 is similarly limited.
+In our opinion, it is not.
+The express rights conferred by article 5 are individual rights.
+The ancillary right which we identify as existing under article 5 is also a right in favour of each individual prisoner and its satisfaction or otherwise depends upon the particular circumstances of the individual case.
+Although the ECtHR was concerned in James v UK with circumstances in which there had been systemic failures in the United Kingdom, the ECtHRs decision was based on a careful individual analysis of each applicants prison history: see eg paras 218 222. 42.
+The ECtHR does not however insist at the international level on standards of perfection that would be unrealistic, bearing in mind the numbers of prisoners involved and the limits on courses, facilities and resources in the prison system.
+Nor should domestic courts do so.
+In Hall v The United Kingdom (Application No 24712/12) (12 November 2013), the ECtHR was concerned with a complaint by an IPP prisoner sentenced on 13 June 2006 with (after appeal) a 30 month tariff expiring on 13 December 2008.
+Although the ECtHR said that it appears that there may have been some delay from around March 2008 [when the Extended Sex Offenders Treatment Programme ESOTP was identified as a course he should take] until early 2010 [when he completed that programme], it passed over this delay with the comment that it seems that the applicant was able to access the Cognitive Skills Booster programme in the meantime (para 33).
+It appears that this Booster programme was in fact undertaken in or around 2008, that he was on 23 February 2009 transferred to HMP Usk in order to complete the ESOTP and that he in fact completed the ESOTP in early 2010: paras 10 13.
+The ECtHR was therefore prepared to look at the matter overall, and to accept that no system is likely to be able to avoid some periods of waiting and delay, especially for a highly intensive course such as the ESOTP.
+Similarly, a delay from 1 March 2012 when transfer to open conditions was recommended by the Parole Board (or from 20 March 2012 when the Secretary of State accepted the recommendation, saying that such a transfer was envisaged in about three months) until July 2012, when transfer actually occurred was not regarded as unreasonable.
+Black v The United Kingdom (Application No 23543/11; 1 July 2014) was another admissibility decision where the court had regard to the period of detention as a whole. 43.
+We turn to the individual cases, considered in the light of the ancillary obligation under article 5 which we have identified.
+Whether there has been a breach of the duty is a highly fact sensitive question in each case.
+Haney article 5 44.
+In November 2003 Haney was 43 years old.
+He had previous convictions for robbery, firearms, dishonesty and violence.
+On 13 November 2003 he was sentenced for a very serious armed bank robbery, carried out by himself and two other masked men armed with sawn off shotguns.
+He had untruthfully denied he was guilty.
+At the time he committed this robbery, Haney was on parole from an earlier sentence, also for robbery, having not long been released.
+In other words, he appears to have been a professional criminal, committing offences for high stakes which carried a grave risk to the public of death or serious injury. 45.
+He was sentenced to an automatic life sentence, then required (unless such would be unjust) by section 109 of the Powers of Criminal Courts (Sentencing) Act 2000 for a few criminals convicted for a second time of a small number of specified grave offences.
+The minimum term attached to that sentence was nine years.
+At that stage, sentencing practice was to set the minimum term associated with a life sentence at between half and two thirds of what the punitive determinate term would have been if a life sentence had not been passed.
+Generally the proportion adopted was one half.
+This was to reflect the then prevailing arrangements for early release of long term determinate prisoners, which could be allowed at half of their term and became mandatory at two thirds.
+Thus, the nine year minimum term represented a determinate term of something like 18 years, which would indeed have been the kind of term to be expected for a recidivist of Haneys history committing a further armed robbery on parole and receiving no credit for admitting what he had done.
+The nine year minimum term (or tariff) expired on 13 November 2012.
+In prison, Haneys progress was a great deal better than might have been expected.
+After some years in HMP Frankland prison he was moved to HMP Blundeston, which has a therapeutic community designed to facilitate rehabilitation.
+Well before then he had admitted his most recent offence.
+After about a year there, the reports on him were favourable.
+He was judged to be confronting his criminal lifestyle.
+There had been some adjudications for misbehaviour but the last was two to three years previously in July 2008 for possession of drugs, and since then he had achieved enhanced status as a prisoner.
+A sentence plan formulated in March 2010 foresaw the prospect of onward transfer to an open prison, as an essential stage in assessing whether the risk which Haney presented could be managed, first there and, if successfully there, then afterwards on licence in the community.
+Critically, a year later, in June 2011, the Secretary of State wrote formally to him approving a transfer to an open prison for this purpose, and indeed without the need for a Parole Board assessment upon that issue.
+Haney was accepted in principle by a suitable open prison (HMP Kirklevington Grange) in the summer of 2011. 46. 47.
+The proposed transfer did not, however, then happen.
+His transfer eventually occurred about a year later on or about 16 July 2012, and thus not long before his tariff was due to expire in November of that year.
+This was not Haneys fault.
+The reason lay in the intervening logjam to which the introduction of IPP sentences in April 2005 had led, and which is so clearly chronicled in the judgments of the House of Lords in R (James).
+Although Haney is not an IPP prisoner, and his sentence pre dated the introduction of the IPP system, he was a life prisoner competing with other life prisoners and, importantly, also with IPP prisoners for resources in the prison service which were, temporarily at least, greatly under supplied.
+In response to the excess of demand over supply, the prison service had to introduce a new practice in October 2011, under which priority was given, amongst indefinite prisoners of one kind or another, to those whose tariffs had expired, and then to those who were nearest to tariff expiry.
+A separate common law challenge to the reasonableness and lawfulness of that expedient rightly failed before Lang J in the Administrative Court, for it was a perfectly sensible and lawful response to the unanticipated backlog.
+The common law claims which then failed are not before this court.
+A further challenge is, however, mounted to the October 2011 policy in this court, invoking article 14 ECHR (discrimination) but as explained below this must also fail. 48.
+However, the failure of the challenges to the October 2011 remedial policy adopted by the ministry leaves untouched the question whether there was a failure to meet the requirements set out in James v UK, and thus a breach of the ancillary obligation contained in article 5.
+This ancillary obligation clearly exists throughout the prisoners detention, and is separate from any obligation to release, whether under domestic law or the Convention.
+It is geared towards the prisoner having a reasonable opportunity to establish that he is safe to release at or within a reasonable time after the expiry of the tariff period.
+A failure before tariff expiry may thus constitute a breach if it remains uncorrected so that he is deprived of such reasonable opportunity, which he ought to have had.
+Such a breach may sound in modest damages if the impact on the prisoner warrants it.
+It cannot of itself give rise to a duty to release, for whilst the prisoner remains unsafe to the public, there is ample justification under article 5(1)(a) for his continued detention.
+The question is accordingly this: was Haney afforded a reasonable opportunity to reform himself and (crucially in his case) to demonstrate that he no longer presented an unacceptable risk to the public? 49.
+The answer to this question is, in Haneys case, given by the letter to him from the Secretary of State of June 2011.
+By this letter the Secretary of State identified what a reasonable opportunity was for Haney to demonstrate that he was no longer a danger that is to say a transfer to open conditions and adjudged that he should have that opportunity there and then.
+Unlike the cases of other appellants, there was no other opportunity which could be afforded to him to demonstrate this.
+That he did not have this reasonable opportunity was the result of the systemic failures identified in R (James) and in James v UK.
+It is clear that but for those failures, Haney would have been transferred to open conditions in or about late Summer 2011.
+What he would have made of that opportunity cannot be known, nor can it be known when or whether the Parole Board would have adjudged him safe for release on licence which would endure for the rest of his life.
+But that he was deprived of the reasonable opportunity which the Secretary of State himself said that he 50. should have is clear.
+Worrying as his criminal history is, career criminals may change course, and the middle years are ones sometimes characterised by such change.
+There could have been no reasonable claim to actual release on licence before tariff expiry, even if such is technically possible.
+But depending on his response, there might have been some prospect of release on licence sometime after tariff expiry in November 2102.
+It follows that in Haneys case there was a breach of the ancillary obligation in article 5.
+The delay in transfer was of about a year.
+He would have known that he could not realistically expect release at least until after his tariff expired, and it would not follow that any postponement of release would follow or, if it did, be of the same period as the delay.
+But the delay in transfer until just before the expiry of the tariff period is sufficient, applying the principles explained in R (Faulkner and Sturnham) (No 2) set out in para 39 above, to justify the inference of legitimate frustration.
+An appropriate award is 500.
+Haney discrimination 51.
+We turn to Mr Haneys alternative case that he was discriminated against, by the decision taken by the prison authorities in October 2011 to resolve the crisis arising from the shortage of course and facilities to progress prisoners towards release by prioritising the movement to open prisons of those whose tariff periods had already expired.
+Mr Haneys had not.
+It is not clear what practical impact this issue could have, particularly in the light of the ancillary duty to afford prisoners a reasonable opportunity to rehabilitate themselves and to demonstrate that they no longer present an unacceptable danger to the public, which we have now recognised.
+To the extent that there was a continuing systemic failure, which affected Mr Haney because it meant that he could not be transferred to open conditions at a time pre tariff when this should, but for such failure, have occurred, the ancillary duty should afford him a remedy, independently of any case based on discrimination. 52.
+For completeness, however, we consider his case on discrimination.
+The question of law is whether the Supreme Court should recognise the difference between those whose tariff periods had and had not expired as a difference of status for the purposes of article 14 of the ECHR.
+The House in R (Clift) v Secretary of State of the Home Department [2006] UKHL 54, [2007] 1 AC 484 was, in the absence of clear Strasbourg authority, not prepared to accept the difference between prisoners serving determinate sentences over 15 years and life prisoners or prisoners serving determinate sentences of less than 15 years as a difference in status.
+The ECtHR in Clift v The United Kingdom (Application No 7205/07) took a different view, and expressed itself at one 53. point (at the end of para 60) in terms which might, literally read, eliminate any consideration of status.
+In the light of the ECtHRs decision, we see some force in the submission that the difference between pre and post tariff prisoners should now be taken to represent a relevant difference in status.
+But we need not determine that finally.
+That is because the difference in treatment appears to us to have been clearly justified on the basis of the evidence put before and findings made by the judge.
+Her findings were in the context of a complaint at common law that the difference in treatment was irrational and unfair, but they appear to us relevant and decisive in the present context also: 69.
+The defendant's [the Secretary of States] response was that he considered the various options for clearing the backlog and made a rational decision to prioritise the post tariff prisoners, because they were eligible for release and continued detention could only be justified if they represented a risk to the public.
+It was not feasible to transfer all the ISPs at one go, because of the need to ensure that sufficient resources were in place to manage and support ISPs at open prisons.
+The defendant denied that he was applying an inflexible policy; there was provision for exceptional cases.
+The defendant also denied that he was operating an unpublished policy which conflicted with published policy.
+The published policy related to categorisation and allocation, whereas these were merely arrangements for clearing the backlog of transfers.
+Rationality, fairness and taking into account relevant considerations 70.
+In my judgment, the defendant's evidence was cogent and convincing.
+Mr Mercer said in his first witness statement: Prioritisation criteria 2.
+A system of prioritisation was required to address the backlog, because it would not be possible or safe, to transfer all the ISPs awaiting transfer at the same time.
+Whilst NOMS aims to transfer prisoners who are identified as being part of the backlog into open conditions as soon as possible, it is extremely important, given the numbers involved, together with the complexity of individual cases and the risks and needs which offenders concerned present, that transfers are managed with care.
+Thus it is necessary to consider both the needs of the prisoners and the pace at which transfers are operationally manageable for individual establishments.
+For these reasons, the process of identifying and allocating suitable establishments and effecting transfers is being phased, with prisoners' cases being dealt with by PMS in tranches, initially of 50 at a time, since increased to 100, and potentially increasing still further. 3.
+For purposes of clearing the backlog, prisoners whose tariff has expired were considered to be a higher priority than pre tariff prisoners because they have served the punitive part of their sentence and progression through their sentences is now entirely focused on reducing their risk to the point where the Parole Board determines that they may be safety released.
+The decision was taken to prioritise post tariff prisoners over pre tariff prisoners because the earliest pre tariff prisoners can be released is at tariff expiry.
+The view was taken that the further away from tariff expiry a prisoners is, the less likely it is that they would be prejudiced by a non immediate transfer to open conditions after the Secretary of State's approval. 4.
+When considering how to prioritise pre tariff prisoners, considerations included: i. the need to ensure fair treatment between prisoners, including that prisoners who were often difficult to place (such as sex offenders) were not disadvantaged compared to those with less complex needs; ii. to take account of the length of time for which prisoners had waited for transfer; iii. to take account of the amount of time remaining prior to tariff expiry; iv. to provide a transparent system so that prisoners could be given reasonable estimate as to when they were likely to move; vs to set up a system that was straightforward and would avoid complex and resource intensive administration; and vi. to permit exceptional circumstances to be considered on request in individual cases. 5.
+Among pre tariff prisoners, it was decided, after considering various alternative means of prioritisation, that the fairest solution was to prioritise prisoners in orders of proximity to tariff expiry.
+This solution also had the benefit of being transparent, straightforward and practical.
+There were a number of prisoners approaching tariff expiry and we considered these prisoners to be of the highest priority and wanted to ensure that the criteria did not allow them to be leapfrogged by other prisoners.
+Prisoners who had a year or two to go until their tariff expiry would have plenty of time to utilise open conditions to demonstrate to the Parole Board a reduction in risk even if there was a delay in transferring them.
+Consideration was given to other way of prioritising pre tariff prisoners, such as proximity to next parole review; individual circumstances; length of tariff; and date of Secretary of State approval; but these options would disadvantage many prisoners who were approaching their tariff expiry date, leading to anomalous and unfair treatment: i. Proximity to parole review date: Once a pre tariff prisoner is approved for open conditions by the Secretary of State their parole review will take place on tariff expiry.
+Therefore there is not much difference between prioritisation using next parole review or tariff expiry date.
+However, parole reviews can be subject to delay for a number of reasons including late submission of reports; awaiting completion of offending behaviour work; or availability of panel members or witnesses.
+Parole reviews may also be deferred whereas tariff expiry dates remain the same.
+In cases where there is a delay or a deferral, prisoners placement on the list would have to be revised to take account of the new timetable.
+As parole review dates vary from one prisoner to the next in this manner, a waiting list organised by reference to this would be extremely fluid and the result of this would be that prisoner's positions on the waiting list would be subject to continual change.
+Re consideration and prioritisation of each case would have to be repeated on an unacceptably frequent basis as ISPs were added to, or removed from the list, or otherwise reprioritised following deferral or delay.
+It would, therefore, be impossible to give a meaningful estimate of the likely period a prisoner would have to wait for transfer.
+We therefore believe that this solution would be unfair, as well as lacking in transparency and being difficult to manage. ii.
+Length of tariff was considered to be irrelevant to the prioritisation process as it has no bearing on the Secretary of State's approval for a transfer to open conditions, which is based on risk pertaining at the time rather than either of these factors.
+The Secretary of State's decision to allow an ISP to transfer to open conditions is the earliest point at which this progressive move can take place. iii.
+Considering each case individually on its merits: Consideration was also given to prioritising each prisoner's position on a case by case basis rather than using specific criteria.
+It was decided that this would have been extremely time consuming and resource intensive, as well as making it hard to ensure fairness.
+It would have involved very difficult judgments about the relative merits of each case against all other case.
+In addition, fresh judgments would have been required about each case in the backlog every time a new case came through where a prisoner had been approved for transfer to open prison by the Secretary of State.
+Having said that, notwithstanding the prioritisation criterion outlined above, exceptional circumstances are considered upon request, and are reviewed on an individual basis. iv.
+Date of Secretary of State approval: Prioritising pre tariff prisoners in this way would mean that prisoners who were approaching tariff expiry could be leapfrogged by other prisoners who were not approaching tariff expiry but who had been approved by the Secretary of State for transfer earlier.
+This was considered to be unfair to those prisoners approaching tariff expiry who could potentially be released on tariff.
+ISPs who had been approved for their transfers earlier but whose tariff expiry date was further away had not yet reached the point where they could be considered for release and would not be disadvantaged by waiting longer for a move.
+Therefore, although NOMS accepts that the criterion of proximity to tariff expiry is not sensitive to some individual factors it was considered to be the fairest, most transparent and most practical means of establishing an order in which to transfer pre tariff ISPs to open conditions.
+Implementation of the October 2011 policy . 9.
+We reviewed the approach we were planning to take with pre tariff prisoners early in 2012 in light of progress made with transferring post tariff prisoners and began the process of referring pre tariff prisoners to PMS for transfer on 3 July.
+Prioritisation of pre tariff prisoners is determined by proximity to tariff expiry date; the closer to tariff expiry a prisoners is the higher will be the priority to transfer them.
+We have increased the amount of referrals made to PMS each month and will continue to monitor progress. 10.
+At the beginning of the new process, there were around 300 post tariff ISPs located in closed conditions awaiting transfer to open.
+At the beginning of December 2011 this figure had risen to 405 however as at 30 June this figure had fallen to 243.
+The current list of post tariff prisoners contains those who have been approved by the Secretary of State for a move to open conditions from late May 2012 onwards.
+The average waiting time for post tariff prisoners was, prior to the implementation of the central process in October 2011, around eight to nine months; this has been reduced to around three to four months now.
+The original backlog of post tariff prisoners has been virtually cleared and the majority have either now transferred to open conditions or are unable to transfer due to medical reasons, imminent parole hearings, courses or re categorisation to category C.
+The Secretary of State has approved 927 ISPs (both pre and post tariff) for open conditions between the months of October 2011 and June 2012.
+The number of ISPs being released continues to rise with 173 releases in the first quarter of 2012.
+This is in comparison with 543 releases during the whole of 2011, 258 in 2010 and 195 in 2009. 11.
+Turning to the rate at which ISPs are transferred under this exercise, at present the policy remains to refer a minimum of one tranche per month to PMS for action.
+The estimate of the rate at which the backlog will be reduced was based on the assumption that PMS would be able to organise a transfer for all prisoners in the tranche within a month of submission.
+We have been monitoring progress carefully and have reviewed this arrangement on a regular basis; if more that 50 prisoners could be safely transferred per month then more would be referred.
+That has now been reviewed and, beginning in March 2012, we increased the number of referrals to PMS each month to 100 prisoners; in May 2012, over 200 prisoners were transferred.
+As at 20 June, 914 post tariff prisoners had transferred under the central process.
+We will continue to monitor progress carefully and review this arrangement on a regular basis; if more than 100 prisoners can be safely transferred per month, as was the case in May 2012, then more be referred. 71.
+Mr Read added, at paras 28 and 29 of his statement: 28.
+In respect of individual prisoners, it is important to progress at the right pace.
+This means ensuring that any ISP sent to open conditions can be managed safely and given appropriate support to help make the progression from restrictive, closed conditions to relaxed, open conditions, often after a long time in custody.
+In respect of the overall prison population, our primary responsibility is to protect the public.
+Any measures which resulted in large waves of ISPs being moved into open conditions in an unmanaged way could result in an increase in prisoners absconding and seriously undermine what we are looking to achieve.
+In addition, NOMS must be mindful of the needs of determinate sentence prisoners, some of whom benefit from a period in an open prison before release, even though their release is not contingent on the direction of the Parole Board. 29.
+I believe that NOMS made a good response to the problems associated with the lack of movement for ISPs into the open estate.
+We have taken back central control of the management for ISPs so that they are moved in a transparent and fair way; we have increased the rate of transfers to from approximately 50 per month approximately 150 per month over the past 5 months and will continue at this rate for the immediate future; and we are increasing capacity significantly to allow more opportunity for ISPs to move. 3.
+It became clear to us in early 2012 that the initial rate of transfer was not having the desired effect as the rate of movement was not keeping pace with the number of new ISPs being approved for Category D conditions.
+From February 2012, PMS therefore increased the transfer rate to a target of 100 per month and this was maintained or surpassed through to the end of April 2012.
+With a view to clearing the backlog as rapidly as could safely be achieved, PMS decided to establish whether there was a tipping point beyond which open establishments found it difficult to manage.
+We moved a total of 211 prisoners during the course of May 2012.
+When we did so, however, we began to receive telephone calls from a number of open establishments raising concerns about the 72.
+Mr Hay, Head of PMS, said in his second witness statement, at paras 3 and 4: increased number of ISPs that they were being required to receive.
+In particular, concern was raised at the increase in initial Offender Management (OM) work on reception into open prisoners and whether these prisons were able to provide reassurance that all relevant OM work was being undertaken. 4.
+As a result, we decided to reduce the rate of moves to a target of 150 per month from June onwards.
+This decision was reached on the basis of the anecdotal evidence available to PMS which indicated that this was the maximum rate at which establishments could safely manage prisoners without putting the public at risk.
+This rate was maintained through November with the effect that the backlog was cleared by the end of August 2012. 73.
+I am satisfied, on this evidence, that the Defendant carefully considered all available options, took into account all relevant considerations, and reached a rational conclusion.
+I consider it is important to bear in mind that this was a temporary arrangement, which lasted for only about 10 months.
+From the end of August 2012, when the backlog was cleared, the transfers of post tariff and pre tariff prisoners were being processed at the same rate.
+The strategy achieved the desired result within a reasonable timescale.
+Prioritisation of post tariff prisoners was rational and fair because they were already eligible for release, and administrative delay might result in a prisoner being detained when he should be free, in breach of both article 5 and arguably his article 8 rights (considered in more detail below).
+As Buxton LJ said in Noorkoiv, at para 25, the post tariff prisoners were at least presumptively detained unlawfully and the legality of their detention was subject to article 5(4) ECHR.
+In my view, there was a pressing need for the Defendant to address their position.
+The way in which the Defendant prioritised pre tariff prisoners, according to their tariff expiry date, was also rational and fair, bearing in mind the significance of the tariff expiry for prisoners. 74.
+The only other alternative immediately available, namely, ceasing the transfer of determinate prisoners and thus increasing the number of ISPs transferred, would have resulted in unacceptable pressures on the management of the prisoners in open prisons, as described in the evidence. 75.
+It may well have been desirable for the Defendant to have changed the policy in relation to ROTL at an earlier date, so as to make ISPs eligible for ROTL from closed conditions, but I cannot find any basis upon which to hold that he acted unlawfully in not doing so sooner.
+The Defendant's decision, and the timescale within which the change of policy was implemented, was a lawful exercise of his discretion. 54.
+In the light of this evidence and the judges findings, we do not consider that the Secretary of States policy can realistically be regarded as anything other than a proportionate and realistic reaction to the crisis with which the prison system was faced.
+We would reject Mr Haneys complaint under article 14 accordingly.
+Kaiyam 55.
+Kaiyam (formerly Fish) was born in February 1981.
+By 2006 (aged 25) he had accumulated convictions for a variety of offences, including robbery (four different offences) possession of firearms and several cases of assault.
+He had been sent to prison and released on licence, but had broken the terms of his licence and so had been recalled.
+He was a regular abuser of a variety of drugs and of alcohol and an habitual dealer in cannabis.
+On 20 July 2006 he was sentenced for two groups of offences.
+First, he hi jacked a valuable car, intending to sell it to finance his drug use.
+The car was being driven by a young woman alone, whom he ejected, apparently bruising her in the process.
+He drove dangerously when chased by the police, and repeated this the following day in a different car when en route to try to sell the stolen vehicle.
+Secondly, and when on bail for these offences, he arranged to supply drugs to others, but was spotted by the police in a car; further dangerous driving followed until he crashed the car; a gun and ammunition were found in it, which it seems had been brought to the meeting by his intended purchasers. 56.
+For these offences a combination of determinate and IPP sentences were passed, but the lead sentence was IPP for the robbery, with a minimum term of three years.
+Allowing for time spent on remand, this period expired on either 3 or 5 April 2009. 57. 58.
+Initially Kaiyam was classified as a category B prisoner in the four level system employed throughout the prison service.
+In June 2008 (just on two years after sentence) he was reduced in category to C.
+However, his behaviour in prison was very poor.
+He was disciplined on no less than 23 occasions for offences which included disobedience, assault, drugs and the possession of mobile telephone parts.
+The latter is particularly serious in prison, since it not only has security implications but involves the possession of a very important item of prison currency and power.
+In January 2009, as a result of his misbehaviour, Kaiyam was reverted to the higher security category B. Later, also as a result of his misbehaviour, and following an assessment at HMP Dovegate (which has extensive rehabilitation experience) as being involved in the drug subculture, he was transferred to a high security prison at HMP Long Lartin in January 2010.
+In the meantime, efforts had been made to provide him with appropriate rehabilitative courses.
+There were regular sentencing planning meetings at which there was discussion as to how best to progress him.
+He completed a six week Enhanced Thinking Skills (ETS) course in July 2008.
+He also completed a drug awareness course in July 2008 and a victim awareness course in October 2008.
+He was assessed as having made some progress on the ETS course, but there was doubt about his ability to carry the lessons into practice, and about his honesty, self control in prison and drug use.
+Once he was placed at HMP Long Lartin, he was at a prison where the priority is security and rehabilitative courses are comparatively few.
+He nevertheless had the benefit of continuing one to one anger management consultations with his Offender Manager, which lasted for more than two years from July 2009 to October 2011, until they came to an end when the officer concerned moved on.
+Although there were few courses available at HMP Long Lartin, there were regular sentencing planning meetings in May 2010, June 2011, August 2012 and October 2012.
+His behaviour underwent a significant improvement.
+The most suitable course for him was considered to be a Prison Addressing Substance Abuse (PASRO) course, with further anger management work.
+HMP Long Lartin does not offer either kind of course.
+Efforts were made to find a prison which did have such courses and which could accept him, but without success.
+At one stage, a transfer was planned and would have taken place but for the fact that he was accused of a further disciplinary offence in May 2011, which as a matter of general practice normally means that the prisoner must remain where he is until the accusation is resolved.
+In the end, this particular allegation (of assault on an officer) was not proceeded with, but only because the officer who made it fell ill and could not continue.
+In October 2012 a new managing officer suggested a different course, known as the Self Change Programme (SCP) in addition to PASRO, and by December 2012 the former was begun, being available in HMP Long Lartin.
+In the meantime, his tariff had expired in April 2009.
+As at the time of the hearing before this court, he had been transferred to HMP Lindholme, categorised as C, and was undertaking a course which had replaced PASRO, namely the Building Skills for Recovery Programme (BSR). 59.
+Kaiyam disclaimed any complaint of the systemic failure, such as had been evident in the James cases.
+There was no question of his being left in limbo without sentencing planning and without any attempt to provide an opportunity to rehabilitate himself.
+Nor was there any question of his being left for an unconscionable time in a local prison without access to any courses.
+The logjam which the introduction of IPP sentencing had occasioned after April 2005 was not suggested to have had any impact on him.
+On the contrary there were courses provided and completed, regular planning meetings throughout and efforts made to find appropriate rehabilitative work for him, and, latterly, to transfer him to that end.
+The complaint made on his behalf was of delays in applying acceptable systems to him.
+The principal complaint was that it took the prison authorities too long to think of the SCP course.
+That course or its predecessor (Cognitive Self Change Programme or CSCP) had been available in HMP Long Lartin throughout his time there.
+It was further said that time was wasted considering a CALM course when he had been assessed early on as unsuitable for it since, although he had been prone to lose self control in prison, his offences were not characterised by such loss.
+Similarly it was said that there had been mistakes made in considering him for an intensive drug course (FOCUS) when he was unsuitable for it, rather than for the differently emphasised PASRO targeted on those who misused drugs in prison.
+Lastly it was said that there was delay and muddle in the efforts which were undoubtedly made to find a prison to which he could be transferred away from HMP Long Lartin.
+Time spent considering a transfer to HMP Garth was particularly criticised because HMP Garth did not offer SCP. 60.
+The careful witness statement of Mr Dennehy, the prison service manager who reviewed the history after the issue of proceedings, accepted that there had been regrettable delays at some points in it.
+It is no doubt the case that the prison system could have achieved what would have been, for Kaiyam, a more extensive provision of courses, for example if the possibility of an SCP course had been identified sooner than it was.
+However, to say that more extensive coursework could have been made available to him is a very long way from saying that he has not been provided with a reasonable opportunity to rehabilitate himself and to demonstrate that he no longer presented an unacceptable risk of serious harm to the public, and thus that there has occurred a breach of the implied ancillary obligation in article 5.
+Article 5 does not create an obligation to maximise the coursework or other provision made to the prisoner, nor does it entitle the court to substitute, with hindsight, its own view of the quality of the management of a single prisoner and to characterise as arbitrary detention (in the particular sense of James v UK) any case which it concludes might have been better managed.
+It requires that an opportunity must be afforded to the prisoner which is reasonable in all the circumstances, taking into account, among all those circumstances, his history and prognosis, the risks he presents, the competing needs of other prisoners, the resources available and the use which has been made of such rehabilitative opportunity as there has been.
+It is plain that Kaiyam was not denied a fair or reasonable opportunity to rehabilitate himself or to demonstrate that his risk is acceptable.
+In the three years of his minimum term he was provided with courses in enhanced thinking, drug awareness and victim awareness.
+Sadly, his response was poor, there was doubt about his honesty, and his behaviour in prison attracted the many disciplinary adjudications mentioned above, all of which demonstrated that the risk he presented was far from removed.
+The transfer to HMP Long Lartin somewhat reduced the availability of rehabilitative courses, but there will inevitably be differences between prisons which can give emphasis to rehabilitation and those where the priority is security.
+It was his own misbehaviour which led to his transfer there, over a year after the expiry of his minimum term.
+The consequence was that PASRO, which was the course judged, plainly bona fide, as that most suitable for him, was not available.
+Even without PASRO, there was sustained one to one anger management work for over a year after transfer to HMP Long Lartin.
+Even if, with the benefit of hindsight, consideration of CALM and FOCUS courses involved some misjudgement, it was perfectly understandable.
+He very plainly had anger problems, whether or not his index offences were the result of loss of temper, and he very plainly had a drug use and drug supply background.
+The advice to take an SCP course was plainly a sensible expedient, given that transfer to a place where the first choice PASRO was available had proved unavailable despite considerable efforts.
+Once it was identified, SCP was begun within about two months.
+The attempts to find a transfer were clearly persisted in; they were complicated by Kaiyams wish to be in a prison near to his family, by the pending adjudication in May 2011 and by a parole window in Spring Summer 2012, quite apart from the competing needs of other prisoners in a large prison population.
+His case does not begin to approach the kind of failure of provision considered and chronicled in R (James).
+He was afforded reasonable opportunity to rehabilitate himself and to demonstrate that he was no longer a risk to the public, but did not do either.
+There was no breach in his case of the ancillary obligation under article 5.
+Massey 61.
+Geoffrey Massey is now 55 (born October 1959).
+He has been convicted from time to time of offences which include robbery with a knife, burglary and benefit fraud.
+For the first of these offences he was sent to prison at the age of 20 for three years.
+He appears to have worked from time to time, chiefly as a driver, and latterly as a train guard.
+He was married for approximately twenty years from the early 1980s until separation in 2001.
+He has been a heavy abuser of drink for many years and was assessed by a psychiatrist at the time of his most recent sentence as meeting the criteria for alcohol dependence. 62.
+He also had, before the present convictions, two previous sex related offences.
+In 1986 he was convicted of indecent assault of an 18 year old male passenger in his taxi.
+The allegation was that he had lured the young man to a secluded spot by telling him that his girlfriend had been injured, and that he there locked him in the car and masturbated him against his will, afterwards obtaining a signed promise to tell no one.
+Massey denies that these were the facts.
+In 2005 he was convicted of using threatening/harassing words. 63.
+He was then convicted in May 2008 of a total of five sexual assaults on four unrelated young men, committed over an extended period, the first in 1992 and the last in 2005.
+The first victim was a 12 year old boy who had run away from home.
+The second offence, in about 1998 2000, involved promising to find a job for a learning disabled 17 year old and engineering an opportunity to persuade him that a test involving masturbation was required.
+The third and fourth counts involved an attempt to masturbate a work experience boy of 15 when Massey was a train guard.
+The last offence consisted of an assault over clothing against a 22 year old whom Massey had previously pestered with some hundreds of text messages.
+All the victims were either young or vulnerable.
+In each case he manipulated them to create an opportunity to molest them.
+All were significantly affected by what Massey did.
+He pleaded guilty to three counts and was convicted of the other two, which he continues to deny.
+The sentence passed was imprisonment for public protection with a minimum term of two and a half years.
+Allowing for time on remand to count in the usual way, that minimum term expired in September 2010. 64.
+Massey gave a detailed self history at the time of his conviction.
+His account of his own sexuality appears to be confusing.
+He attributes his offences to alleged multiple homosexual abuse from the age of seven onwards, involving, he has asserted, a family friend, a schoolteacher and later, when he was an adult, two unconnected clergymen.
+Since the details given have not always been consistent, there may be some room for doubt about what occurred.
+His own account of his offending against the young men has involved, more than once, the perhaps surprising suggestion that he committed the offences because he wanted to see what his own abusers had got out of the experience. 65.
+Massey was placed on the Enhanced Thinking Skills (ETS) programme which he completed in April 2009.
+He then completed the Core Sexual Offender Treatment Programme (CSOTP) in November of the same year.
+In addition, he has completed an alcohol awareness course, a cognitive skills booster course and a proof reading course with a view to post release employment.
+He is a well behaved prisoner, and has taken on leadership roles as Activities Co ordinator, organising games and events, and as editor of the Prison Magazine.
+In July 2010 a long and thoughtful Structured Assessment of Risk and Need (SARN) report was prepared upon him by a forensic psychologist.
+It recorded some progress in recognising his pattern of sexual thoughts and fantasies and towards a degree of victim empathy.
+On the other hand, concern was noted that he asserted that he now had no sexual thoughts about teenage males, which was unlikely since sexual interests are hard to change.
+There had been an apparently dramatic shift in his attitude towards his offending in a very short time as a consequence of the CSOTP, whereas the view was taken that three decades of behaviour and interests were unlikely to be reversed by a single programme.
+The SARN report recommended assessment to see whether the ESOTP would be suitable, as well as suggesting the likely desirability of a following Better Lives Booster (BLB) programme and a PCL R assessment for psychopathy to inform responsivity.
+In due course the Offender Manager concurred and offered tight suggested licence terms for release when it occurred. 66.
+Shortly after the SARN, the National Offender Management Service wrote formally to Massey in October 2010, accepting its recommendations.
+Whilst cautioning him that the Secretary of State could not guarantee to place him on the specific courses recommended, given the limits on resources, the letter formally set the time for his Parole Board review at 24 months, and set out a timetable on which this was based, namely two months for the PCL R assessment, 10 months to complete ESOTP including assessment and waiting list, six months for the BLB, again including assessment and waiting list, and six months afterwards for post programme testing and the completion of reports.
+That would have meant a Parole Board hearing in or about June 2012, already nearly two years beyond the expiry of his short minimum term or tariff. 67.
+Assessment for ESOTP followed in April 2011, and it was at this stage that he completed the Cognitive Skills Booster (CSB) programme.
+In the meantime the Parole Board had recorded in March 2012 that the ESOTP could only be completed in closed conditions.
+There was, however, no place on the ESOTP for him until May 2013.
+It is apparent that the wait for ESOTP was attributable to excess of demand over supply and to the need to make difficult choices about who to prioritise.
+It was not until September 2013 that he completed the ESOTP and subsequently was afforded further behavioural work known as the Wheel of Life. 68.
+Has Massey been denied a reasonable opportunity to reform himself and to demonstrate by or within a reasonable time after tariff expiry that he is no longer a danger? It is apparent that the less than two and a half years of his tariff (somewhat shortened, properly, by time spent on remand awaiting trial and sentence) was as well furnished with offender behaviour work as one could reasonably expect.
+He first completed the ETS course, which is a frequent if not conventional first step, and he was placed on the CSOTP within his comparatively short tariff period.
+He completed the CSOTP in November 2009, and since it is a six month course it would appear that he must have been placed on it almost immediately after completing the ETS in April of that year.
+The SARN report which first mooted the ESOTP was in July 2010, so that there could never have been any prospect of his being both assessed for, and completing, the ESOTP by the time of his tariff expiry in September 2010.
+The chronology illustrates the fact that if standard, intensive, course work such as the CSOTP does not succeed and if lack of risk is not demonstrated at the end of it, it will be inevitable that a prisoner with this kind of tariff period will pass the end of the tariff without being able to be offered every course which the system has. 69.
+However, it is important to note that, no doubt mindful of the comparative brevity of his tariff, the Secretary of State by the formal letter of October 2010 effectively defined what was regarded as a reasonable opportunity for Massey to build on the partial progress which he had made and to demonstrate (if he could) that he was safe to release, namely over a two year period.
+Neither this timetable nor anything approximating to it was honoured.
+Instead, it was not until after that period had come and gone that he was able to begin the ESOTP, and the letter shows that even if this produced a successful outcome, a further year or thereabouts was contemplated.
+We conclude that in Masseys case there was a failure to provide him with the opportunity to try to demonstrate that he was safe for release which the Secretary of State regarded as reasonable.
+The assessment for ESOTP was in Spring 2011.
+If there had been a plentiful supply of places he might have been on it by about Autumn of that year, but no real complaint could have been made merely because this kind of course was not immediately available; if it had been provided in or about Spring 2012, there would we conclude have been no breach.
+There is thus an unacceptable delay of about a year, and all post tariff.
+The inference of legitimate frustration is justified and that period calls for an award of damages.
+Given that it was post tariff we assess it at 600.
+Robinson 70.
+There is a difference of opinion between members of the court as to the appropriate disposition of Robinsons appeal.
+But before explaining the difference in separate judgments, we can set out the facts about which there is no dispute. 71.
+Andrew Robinson is now 53 (born November 1961).
+The papers before this court do not include his formal record of convictions, but their gist is reasonably clear.
+In the background are convictions between 1977 (aged 15 16) and 1981 (aged 19 20) which consist of four offences of arson (two pairs), seven offences of theft and two of criminal damage.
+Thereafter and from at least his mid twenties, he has been a repetitive sex offender.
+He says that he has never had a cohabiting relationship with an adult woman.
+In about 1988 (aged 26 27) he was convicted of unlawful sexual intercourse with a girl of 15 (C).
+He asserted that he was protecting her from her father whom he said was violent.
+The sentence was a conditional discharge.
+The sexual relationship seems to have continued afterwards for a few years during which time he lived with C, now just past 16. 72. 73.
+When this relationship was ended by the girl, Robinson befriended a mother who was a passenger on a bus he drove, and who had a teenage daughter (K).
+In due course he committed sexual offences against K when she was 14.
+Subsequently he befriended a second mother, who was alcoholic, and who had a daughter (L).
+At around this time he began a sexual relationship with a young woman of 19 who had learning difficulties, and she gave birth to his daughter.
+Social services became concerned about the relationship and intervened on the young womans behalf.
+Robinson then abused L, aged 14; subsequently he has said that he did this as an act of revenge against the social workers.
+In 1998 he was prosecuted for the offences against both K and L and sentenced to 15 months imprisonment. 74.
+On his release he obtained a job driving schoolchildren to an afterschool club, dishonestly concealing his conviction in order to do so.
+He indecently assaulted a 12 year old girl whom he met in this way.
+He was sentenced to six months imprisonment, and it would appear that subsequently a Sexual Offences Prevention Order (SOPO) was made in an effort to restrict his contact with teenage girls.
+In breach of this Order, he befriended two further vulnerable families.
+The first consisted of a single mother with three young children.
+He took on 75. decorating at their house, arranging to be there when the children came home from school.
+In due course he was found to have made a video recording of one of the little girls in her night clothes.
+The second family consisted of an alcoholic single father with learning difficulties and his young daughter (N).
+Robinson was repeatedly warned by the Police to keep away but did not do so.
+He groomed the family, giving the father money for drink.
+He committed a series of offences of digital and attempted penile penetration of this girl when she was 13; they were committed in her home while her father slept downstairs.
+He was found to be in possession of a CS gas canister and of a DVD of teenage girls engaged in ballet and yoga.
+He was convicted also of breach of the SOPO.
+On this last occasion he was sentenced, on 2 October 2006, to imprisonment for public protection, with a minimum term of seven years.
+Allowing for time on remand to count in the usual way, that minimum term (tariff) expired in December 2012. 76.
+Robinson has never admitted that he committed the offences for which he was last sentenced, which are much the most serious of which he has been convicted.
+He asserts that he was set up by the police and that N was bullied into giving false evidence against him.
+Denial of offending is an obvious impediment to therapeutic treatment but need not be a bar to it.
+Robinson was provided with treatment on the basis of the earlier, albeit less serious, offences, which he admitted.
+In the first year of his sentence he completed the cognitive behaviour programme ETS, which is designed to confront offenders with what leads to their criminal behaviour and to help them address it.
+In 2008 he completed the Core Sexual Offenders Treatment Programme (CSOTP).
+This is a sustained course consisting of some 90 sessions at the rate of three or four per week over a period of six to eight months.
+Targeted specifically at sexual offending, it is designed to challenge thinking patterns which lead to sex offending and to the offenders justification for it, to help prisoners to see things from the perspective of the victim, and to devise strategies to avoid being in positions of temptation in future.
+In July 2008 a long psychologists report (Structured Assessement of Risk and Need or SARN) recorded the position after this work had been done.
+The author was able to identify some encouraging signs.
+Robinson had begun to see the possible relevance of his own childhood abuse when in care as a teenager, although he described it as affectionate.
+He was able to suggest not offering to drive teenagers as a way of avoiding temptation.
+He said that he was now aware of the harm his conduct had caused and that he now realised that he was not in a relationship with his victim, since they were too young.
+He appeared to have made some progress in self esteem and in recognising his strong desire for intimacy.
+His behaviour in prison was generally good.
+On the other hand, there was considerable cause for concern.
+Although at the conclusion of the CSOTP, his scores on assessment of child abuse supportive 77. beliefs had been adjudged to be below the threshold for treatment, the psychologist found that he continued to harbour such beliefs; for example he believed that whereas rape was a sexual offence, other offences contain more affection and care.
+He was deeply suspicious of those trying to help him; he reported them as twisting what he said and he said that he would be very wary of any further such course.
+He remained very angry about the social workers who had dealt with his daughter and offered such resentment as a justification for some of his offences.
+While he said that the cause of his offending was inability to relate to adults, his history demonstrated that he was adept at gaining the confidence of the parents whose children he abused.
+Manipulative behaviour and his sense of grievance were reported to have impeded his progress.
+He continued to deny the more serious offences, and for that matter all or some of the arson offences.
+The wing staff reported a tendency to manipulative behaviour, surreptitiously encouraging others to complain.
+The various risk measurement tests applied to him all concluded that the risk to the public remained high. 78.
+This report concluded with the recommendation that there should be a full psychopathy assessment (PCL R) and that, so long as that did not provide contra indications, he was suitable for the extended sexual offences treatment programme (ESOTP).
+This latter course is designed for only nine prisoners at a time.
+It lasts for about six months and involves 74 sessions plus some individual work, at roughly three per week.
+Each such course needs a staff of four, one supervisor who must be a chartered psychologist, plus three facilitators (officers, group workers or forensic psychologists in training and preferably a mixture of disciplines).
+Each such team can deliver only one such course per year, no doubt because of the members other commitments.
+The ESOTP can be provided at only a limited number of prisons specialising in sexual offenders; the judgment of the Divisional Court records at para 7 that over the relevant period it was available at some ten such prisons. 79.
+The recommendation for consideration of an ESOTP was consistent with published Prison Service indicia of the courses which are likely to be suitable for different prisoners.
+The prison service runs a variety of programmes for sexual offenders.
+They include, as well as the CSOTP, a Rolling Sexual Offenders Treatment Programme (for those presenting mild risk), Becoming New Me, Better Lives Booster, Healthy Sexual Functioning (now replaced by the Healthy Sex Programme), Adapted Better Lives Booster (for those with intellectual difficulties), and the ESOTP.
+Reference to the ESOTP may be justified, inter alia, by an assessment of high or very high risk and, more particularly, by severe grievance thinking, severe sexual entitlement thinking and severe lack of intimacy.
+Robinson fitted those criteria, although less obviously others, and, since the risk remained after completion of the CSOTP, ESOTP was a justified suggestion.
+There was and is a substantial waiting list for the ESOTP, as also for other programmes.
+Apart from life or IPP prisoners, there are numbers of determinate sentence sexual offenders, who are likewise recommended for this programme in the hope that they will not present an unacceptable risk to the public when their release is mandatory, under the Criminal Justice Act 2003, at the half way stage in their sentences.
+The ESOTP in particular is clearly very resource intensive. 80.
+Robinson was moved to HMP Whatton, which specialises in sexual offenders, in February 2010.
+The PCL R psychopathy test, involving nine hours of interviews, was conducted in February/March 2011.
+Although he was showing limited signs of accepting that the children were victims, the assessment of him was not encouraging.
+He was found to see himself as a victim, the manipulative behaviour was noted, and he was recorded as asserting that he had not harmed the children but was only seeking a relationship with them.
+Nevertheless, the foregoing apart, he did not display psychopathic traits; he was comparatively controlled and his offences were planned rather than impulsive.
+There was no psychopathy based obstacle to participation in the ESOTP.
+A final assessment of suitability for the ESOTP followed in April 2012, undertaken by the Deputy Treatment Manager for the programme.
+She pointed out that the ESOTP would not address his sexual interest in teenage girls, but could and would target his feelings of inadequacy, his lack of adult relationships and his marked distrust of others.
+She observed that he might yet need also a Healthy Sexual Functioning course, which does directly address unsuitable sexual interests.
+In the end, an ESOTP became available for him only in July 2013, when he was specially transferred to HMP Risley which could provide it earlier than HMP Whatton.
+By this time, his minimum term of seven years had recently expired in December 2012. 81.
+The evidence from HMP Whatton, the specialist prison for sexual offenders, makes it clear that the delay was caused by excess of demand over supply.
+The prison authorities were operating on a budget set by the Ministry in a time of general national financial stringency, although course provision targeted at sexual offending cost just under 1m per year at that prison alone.
+They were obliged to prioritise amongst those who had been assessed as suitable for the ESOTP.
+As between them, priority was given to those who were determinate sentence prisoners within six months of release and to those longest past the end of their minimum terms. 82.
+The Divisional Court examined the national evidence relating to the availability of the ESOTP.
+It concluded that there was overall under provision of this course and accordingly a breach of the Secretary of States public law duty.
+There was no appeal against that finding, which must be accepted.
+It is not, however, to be taken as meaning that the Secretary of State is under an obligation to provide an ESOTP to every prisoner for whom it may be suggested, and the court said no such thing.
+Nor does it mean that the court took the view that, assuming that James v UK fell to be applied rather than R (James), there had been the kind of breach of article 5 which the Strasbourg court identified; on the contrary, the Divisional Court specifically adverted to the opportunities which Robinson had had to demonstrate his safety and rejected the assertion of breach of article 5. 83.
+Accepting that there was a national shortfall in the provision of ESOTP courses, the question under article 5 remains: did the Secretary of State afford Robinson a reasonable opportunity to reform himself and to demonstrate to the Parole Board, by the time of tariff expiry or within a reasonable time thereafter, that he no longer presented an unacceptable risk to the public? On the answer to this question, different members of the court take different views, which are therefore set out in separate judgments.
+Outcome 84.
+In the result, the appeals of Haney and Massey should be allowed, and there should be awards of 500 for Haney and of 600 for Massey, reflecting in each case the inference of justifiable frustration and anxiety.
+The appeals of Kaiyam and, and in the light of the opinion of the majority set out in their separate judgment, of Robinson must be dismissed.
+The findings in the two cases of Haney and Massey of breach of the duty ancillary to article 5 are a further regrettable consequence of the manner in which the seriously flawed system of Imprisonment for Public Protection came to be introduced without sufficient funding to cope with it.
+It was a system subsequently reformed and it has since been altogether removed from the sentencing regime provided by statute for courts charged with the trial of criminal cases.
+LORD HUGHES: (with whom Lord Neuberger, Lord Toulson and Lord Hodge agree) 85.
+This separate judgment addresses the appropriate disposition of appeal by Robinson, the one matter left outstanding by the main judgment delivered by Lord Mance and Lord Hughes.
+The facts have been set out in paras 70 83 of the main judgment.
+The critical question identified in para 83 is whether the Secretary of State afforded Robinson a reasonable opportunity to reform himself and to demonstrate to the Parole Board, by the time of tariff expiry or within a reasonable time thereafter, that he no longer presented an unacceptable risk to the public.
+This critical question must not be transmuted into the different question, namely did the Secretary of State make reasonable provision for a particular course which might have been relevant to Robinson? Once the right question is identified, the answer given by the Divisional Court is plainly correct.
+It should in passing be made clear that the Divisional Court was not basing its conclusion upon doubts about what was meant in James v UK by characterising the detention as arbitrary.
+On the contrary, it was assuming for the sake of addressing the question that in the particular sense there used the detention would be arbitrary if a breach of the duty there identified was established, and it was contrasting the kind of wholesale failing found in James with the kind of delays identified in the cases before it. 86.
+The breach of the ancillary obligation under article 5, which the Strasbourg court identified in James v UK involved a wholesale failure to address rehabilitation.
+It was of a quite different order from the complaint made by Robinson.
+Whereas the prisoners James, Lee and Wells in James v UK were left for a long time to languish in local prisons with no sentence planning and no rehabilitative work at all, no little effort was made with Robinson, who was provided with successive courses and had ample opportunity to change himself and to demonstrate that he was no longer a predatory sexual offender.
+The ETS and CSOTP courses with which he was provided supplied ample reasonable opportunity to do so.
+The latter in particular lasted six months or more and involved three or four sessions per week.
+Unfortunately, what was demonstrated was that Robinson remained a serious risk, since the initial scores for child abuse supportive beliefs proved false positives, and he remained manipulative, mistrustful and denying his principal offences, seeing himself as the real victim It was contended on behalf of Robinson that the Parole Board had recommended an ESOTP in March 2010 and again in December 2012.
+As a matter of accuracy, on neither occasion did it do so, although on both occasions it recorded the extant proposal for such a course which had been made within the Prison Service.
+The Parole Board decision of March 2010 was that Robinson was not suitable for transfer to an open prison.
+It included the following: 87.
+There are a number of risk assessments in the dossier.
+OGRS 3 assesses the risk of reconviction as 14% at 12 months and 25% at 24 months.
+OASys assesses the risk of general and violent offending as low with a very high risk of harm to children in the community.
+RM2000 assesses Mr Robinson as posing a very high risk of sexual reconviction and the SARN concluded that he has a high level of dynamic risk as a result of having strongly characteristic risk factors in the sexual interests, offence supportive attitudes and relationship domains.
+Specific risk factors include having offence related sexual interests, child abuse supportive beliefs, suspicious, angry and vengeful attitudes and not having an intimate relationship.
+Mr Robinson's dossier states that he is a standard prisoner on the IEP, although for much of his sentence he has been enhanced.
+He has completed ETS and the core SOTP, although the latter was on the basis of admissions to previous convictions.
+Mr Robinson maintains his innocence of the index offences, stating that he was set up by the Police.
+The post programme report from the SOTP indicates that some progress was made but the report writer notes that Mr Robinson could be manipulative in a group, still held child abuse supportive beliefs and that his suspicious thinking (against staff) had impacted upon his development.
+It was recommended that Mr Robinson complete the ESOTP in order to address his interest in pubescent girls and that a full psychopathy assessment be completed.
+The panel noted that whilst he is willing to do further offending behaviour work, denial of the index offences may make it difficult to transfer Mr Robinson to an appropriate establishment to undertake ESOTP and that as a result completion of this sentence plan target remains extant. 88.
+The Boards written reasons were duly sent to Robinson by the Secretary of State who added that the next reference to the Board would be shortly before tariff expiry, to allow for completion of the ESOTP if assessed as suitable and a full psychopathy assessment [and] to further assess your outstanding risk factors.
+That was by no means to make completion of the ESOTP a condition of future consideration of release, still less to lay down a timetable for it, as was done in the case of Massey.
+If a case were to arise in which the Parole Board made it, in effect, a condition of consideration for release that a particular piece of behavioural work be undertaken, that would no doubt be relevant to the question of whether the prisoner was thereafter afforded a reasonable opportunity to rehabilitate himself and to demonstrate absence of risk.
+Even then, such a Parole Board decision would not mean that the prisoner had not had reasonable opportunity before then, nor would it necessarily justify prioritising that prisoner over others for scarce resource intensive courses.
+However, this was not in any event Robinsons case. 90.
+There is a great danger, in considering Robinsons case, of classifying the ESOTP as the acid test by which alone he could demonstrate his safety for release.
+Even if it were, it would not mean that he had not had reasonable opportunity to demonstrate this already.
+But it was not.
+The fact that the psychological recommendation that Robinson should take part in this programme did not have spoken conditions attached to it, does not mean that it was the only way in which he could demonstrate his safety.
+It was in fact neither a necessary nor a sufficient means of doing so.
+It was not sufficient since it is not designed to address the offenders sexual interest in pre pubescent girls; even if made available, it would have been only part of the possible programmes which Robinson might have needed in the absence of his accepting that his behaviour, which he continued to characterise as innocent victimhood, was in fact a considerable danger to children, and in the absence of his recognition that it needed to alter.
+It was not necessary, because by this time he had had ample confrontation with his failings, and if he had recognised them and shown real willingness to change, for example in the course of the nine hours of interviews for the PCL R assessment, then there may well have been no occasion for six months of ESOTP work. 91.
+The concomitant danger lies in treating Robinsons case as if the ancillary duty under article 5 involves a positive duty on the prison service in England and Wales to furnish an ESOTP course.
+That is not the law, and there is nothing in James v UK which entitles any court to go so far.
+Indeed, if it were, it would presumably follow that any other European country which imposes any form of indefinite sentence would be under a similar duty to provide either it or its equivalent.
+The responsibility for deciding what form of rehabilitative assistance is to be afforded to the prisoner must rest with the individual State, providing that the minimum standard is met of a reasonable opportunity to him to demonstrate his safety.
+The availability of limited resources, particularly at a time of the kind of national financial stringency which characterised the years of delay in Robinsons case (2008 2013) is an unavoidable factor.
+The Core Sex Offenders Treatment Programme (CSOTP) administered in the prisons of England and Wales is of considerable intensity and makes extensive psychological demands on those offenders who take part in it.
+It is very likely that if it stood by itself it would meet the duty contemplated by James v UK and even more likely that it would do so if coupled, as it is, with the EST, BLB, HSP and other programmes, which are available.
+There is no legal obligation to provide an ESOTP course in the first place.
+It is simply one possible way of tackling recalcitrant attitudes in some prisoners and a welcome arrow in the quiver for the case of those who prove very difficult to change.
+To hold that a delay (including an unacceptable delay) in providing it constitutes a breach of article 5, via the ancillary duty recognised, would be likely to have the perverse effect of discouraging the prison service from providing it at all, and/or of discouraging recommendations for courses unless and until they are known to be shortly available, and/or of discouraging the prison service from devising and suggesting new forms of programme, especially if they are extremely expensive, as clearly the ESOTP is.
+All these effects would be an impediment to individualised prisoner assessment and management, and to eventual rehabilitation of those for whom it is possible. 92.
+Coursework is important and may succeed, but it holds no guarantees.
+In order for Robinsons article 5 ancillary duty claim to succeed, that duty would have to go beyond the duty to afford an indeterminate prisoner a reasonable opportunity to reform himself and to demonstrate, by or within a reasonable time after tariff expiry, that he is no longer a danger.
+It would have to be a duty to provide, or at least to take reasonable steps to provide, within such time frame, any specific coursework for which the prisoner has been judged eligible.
+That is not the content of the duty. 93.
+This conclusion is illuminated by the decision of the ECtHR in Hall v UK (Application No 24712/12, referred to at para 42 above).
+Like Robinson, Hall had completed the ETS and then the CSOTP courses but remained a risk and was recommended for further work in the form of the ESOTP.
+Halls recommendation was in March 2008, and he experienced the same unavailability as did Robinson, at much the same time and doubtless for the same reasons.
+The delay in finding a place on the ESOTP in Halls case was certainly not as long as it was in the case of Robinson, but the delay has to be put in the context of his tariff, which at 30 months, was less than a third as long as Robinsons.
+Halls was a plainer case, as the threshold decision of inadmissibility by the Strasbourg court demonstrates.
+He had undertaken some other courses, which Robinson had not, such as victim awareness and alcohol awareness and when, after the ESOTP, concerns remained, he had been provided with the Better Lives Booster.
+But the essential point is that the court was satisfied that he had (beyond argument) been provided with a reasonable opportunity to rehabilitate himself by courses throughout his detention, and this despite the delay in finding space on the ESOTP for some eighteen months after it was recommended, which had had the result that he was not able to complete it until he had served more than a year beyond his tariff of 30 months, that is to say getting on for half as long again (see para 33).
+Lord Mance 94.
+I have the misfortune to differ from Lord Hughes and the majority on the disposition of Robinsons appeal.
+The basic facts are set out in paras 71 83 of the joint judgment written with Lord Hughes.
+The test is whether Robinson was supplied with a reasonable opportunity to demonstrate that he was no longer a risk.
+It was of the nature of his offending that he received a sentence involving a relatively long tariff period which expired on 10 December 2012.
+It was of the nature of his character and propensities that, despite some encouraging signs, he remained in identified respects a high risk after completing the CSOTP in 2008.
+The psychologists report dated 9 July 2008 made a recommendation in the body of her report, that a full psychopathy assessment [PCL R] is competed prior to Mr Robinson undertaking any further treatment (para 4.6), but ended the report with unqualified recommendations and a conclusion dealing exclusively with the ESOTP as follows: 95. 7.
+Recommendations for continued risk management My recommendations are as follows: To successfully complete the Extended SOTP in order to address outstanding treatment needs in offence supportive attitudes and suspicious thinking and provide further opportunities to develop his intimacy skills.
+Upon completion of this, to re assess the extent of Mr Robinsons suspicious thinking and the appropriateness of further treatment for his sexual interest in pubescent girls.
+Conclusion: I recommend that Mr Robinson is moved to an establishment where he can access the Extended SOTP and continue working on his risk factors for future sexual offending.
+The psychologists combined recommendations that Robinson undertake a PCL R followed by an ESOTP were both therefore unconditional. 96.
+The Administrative Court further found (para 6) that The ESOTP became a formal sentence objective by at least February 2009.
+The psychologists recommendation was referred to without demur in the Parole Boards reports dated 31 March 2010 and 8 November 2012, the latter confirming expressly that it is acknowledged that all parties accept ESOTP to be necessary. 97.
+The Administrative Court further noted that ESOTP courses are courses which many sex offenders serving an IPP need to complete before they can have any realistic prospect of demonstrating to the Parole Board that they are safe for release. (para 59) This is borne out by the Ministry of Justices publication Suitability for Accredited Interventions (June 2010), which tabulates such a course as a requirement for all high or very high risk offenders, as well as for one category of medium risk offender with three or four domains of strong treatment need (p 42).
+It adds (p 43): Some offenders, particularly high risk offenders, are likely to attend more than one SOTP so that their combination of dynamic risk factors can be fully addressed. (Eg a high risk offender with both offence supportive attitudes and grievance thinking would likely need to attend both Core and Extended SOTPs). 99. 98.
+The Administrative Court had no hesitation about finding the Secretary of State in breach of the public law duty accepted in R (James).
+As Lord Hope there said, it was and is implicit in the legislative scheme for IPPs that the Secretary of State would make provision which allowed IPP prisoners a reasonable opportunity to demonstrate to the Parole Board that they should be released, and that, on the facts of those cases, he failed deplorably in that public law duty in that he failed to provide the systems and resources that prisoners serving those sentences needed to demonstrate to the Parole Board by the time of the expiry of their tariff periods, or reasonably soon thereafter, that it was no longer necessary for the protection of the public that they should remain in detention: [2010] 1 AC 553, para 3.
+In summary, a legislative scheme like that for IPPs must allow a reasonable opportunity to demonstrate safety, and must be accompanied by reasonable systems and resources to enable offenders to change and develop so as to be able to demonstrate that they are now safe and to achieve release by the tariff expiry date or reasonably soon thereafter.
+I stress the word reasonable, since it is clear that a realistic and flexible approach should be taken regarding prison resources and the specialist, time intensive and costly nature of some courses provided in prison: see also paras 100 101 below.
+But, as an element of this duty, there should in my opinion be a reasonable degree of access for IPP prisoners to the ESOTPs which many prisoners will need before they can hope to show that they are now safe.
+That is the consequence of the scheme itself, under which it was otherwise inevitable (and entirely predictable) that prisoners would (as has happened) languish in gaol long after the tariff periods set by reference to the seriousness of their actual offending.
+It is a consequence of the rehabilitative purpose which must in this context be accepted as having always attached in the light of the provisions of the ECHR to an IPP sentence: see paras 205 209 of the European Court of Human Rights judgment in James v UK, as well as paras 7 and 36 above. 100.
+The European Court of Human Rights further observed in James v UK, para 194 that: for reasons linked to the efficient management of public funds, a certain friction between available and required treatment and facilities is inevitable and must be regarded as acceptable and a reasonable balance must be struck between the competing interests involved.
+But it added that in striking this balance, particular weight should be given to the applicants right to liberty, bearing in mind that a significant delay in access to treatment is likely to result in a prolongation of the detention and noted that in Brand v The Netherlands (Application No 49902/99) (11 May 2004) the court had held (para 66) that even a delay of six months in the admission of the applicant to a custodial clinic could not be regarded as acceptable in the absence of evidence of an exceptional and unforeseen situation on the part of the authorities. 101.
+In the present case, the Administrative Court also noted that the public law duty was only to make reasonable provision of services and resources for the relevant purpose and was not an absolute one (para 55).
+It went on: 59.
+It is clear from the factual circumstances of the claimants' own cases, and from the general evidence we have summarised concerning systems and resources, that a serious problem still exists in relation to the provision of ESOTP courses which many sex offenders serving an IPP need to complete before they can have any realistic prospect of demonstrating to the Parole Board that they are safe for release.
+The delays experienced by these two claimants are troubling in themselves.
+Despite pressure over a lengthy period, neither claimant managed to get admitted to an ESOTP course until after the expiry of his tariff period (in Mr Massey's case, almost three years after its expiry); and since, after completion of the course, each of them has to wait for a substantial further period until their next Parole Board review, their first reasonable opportunity to demonstrate to the Parole Board that they are safe to be released will come long after the expiry of their tariffs. 60.
+It is clear that the claimants' experience is far from exceptional.
+The evidence summarised at paras 34ff. above shows that the number of IPP prisoners with a requirement for an ESOTP greatly exceeds the number of placements available on ESOTP courses and that many such prisoners are failing to get onto courses until after the expiry of their tariff periods.
+In some cases the delay can no doubt be explained by reasons specific to the individual prisoner, but the under provision of courses appears to us to be the primary reason for delay and to be accurately described as a systemic problem.
+Nor is there any immediate prospect of improvement.
+On the contrary, we have noted at para 45 above that at HMP Whatton demand for places on ESOTP courses is set to rise as the provision of places has fallen. 61.
+We understand the tight financial situation across the entire prison estate and the difficulty of allocating limited resources between a range of competing demands.
+But the duty is to make reasonable provision, and that duty plainly requires sufficient resources to be made available for its fulfilment. 62.
+In conclusion, we are satisfied that there is a continuing failure on the part of the Secretary of State to make reasonable provision of systems and resources, specifically the reasonable provision of ESOTP courses, for the purpose of allowing IPP prisoners a reasonable opportunity to demonstrate to the Parole Board, by the time of the expiry of their tariff periods or reasonably soon thereafter, that they are safe to be released.
+In this respect the Secretary of State is in continuing breach of the R (James) public law duty. 102.
+When it came to considering whether there had been a breach of article 5, the Administrative Court was in an odd position.
+The European Court of Human Rights had in James v UK disagreed with the reasoning and conclusions of the House of Lords in R (James), but the Administrative Court remained bound by R (James) and, moreover, the European Courts own reasoning, based on arbitrariness and consequent unlawfulness, presented obvious problems, which have been addressed in the main judgment written by Lord Hughes and myself. 103.
+In these circumstances, the Administrative Court reasoned as follows: 78.
+We have held in relation to issue (1) that the Secretary of State is in continuing breach of the R (James) public law duty.
+That breach, however, is less serious than the deplorable default that was of such concern to the House of Lords in R (James).
+Yet even the factual circumstances under consideration in R (James) were regarded by the House of Lords as falling far short of a situation rendering continued detention arbitrary and unlawful under article 5(1).
+Thus, applying the approach laid down by the House of Lords, it is clear that the circumstances of the present case come nowhere near to rendering the claimants' continued detention arbitrary for the purposes of article 5(1). 79.
+Although the ECtHR in R (James) (Strasbourg) differed from the House of Lords in finding arbitrariness on the facts of that case, the default in the present case is again less serious.
+The ECtHR laid stress on the complete failure to progress the applicants through the prison system with a view to providing them with access to appropriate rehabilitative courses.
+In the case of each of the present claimants, by contrast, a great deal was done to progress them through the system and to provide them with access to appropriate rehabilitative courses.
+The one real failure was in providing them with timely access to the ESOTP.
+Whilst that was an important failure, given the practical importance of the ESOTP for their ability to satisfy the Parole Board of their safety for release, it was in our judgment insufficient to render their detention arbitrary even on the approach that the ECtHR took in applying the concept of arbitrariness in R (James) (Strasbourg). 104.
+The first paragraph, loyally applying R (James), cannot stand in the light of our judgment on the present appeal.
+The second paragraph appears, clearly and not surprisingly, to have been influenced by the oddity in the present context of reasoning based on arbitrary detention, which, again in the light of our judgment on this appeal, is no longer an issue. 105.
+In reality, a conclusion that there was no breach of the ancillary duty which we have identified in our judgment on this appeal, cannot stand with a finding clearly correct on the facts of this case that the Secretary of State was in breach of the public law duty to make reasonable provision of systems and resources for the purpose of allowing not merely Massey, but also Robinson a reasonable opportunity to demonstrate to the Parole Board, by the time of the expiry of his tariff period on 10 December 2012 or reasonably soon thereafter that he was safe to be released: see para 62 of the Administrative Courts judgment, quoted above. 106.
+The majority disagree with this conclusion, and in para 91 (above) advance the following propositions: (a) There is no legal obligation to provide an ESOTP course in the first place; (c) (b) if [there] were, it would presumably follow that any other European country which imposes any form of indefinite sentence would be under a similar duty to provide either it or its equivalent; to hold that a delay in providing it constitutes a breach of article 5, via the ancillary duty recognised, would be likely to have the perverse effect of discouraging the prison service from providing it at all, and/or of discouraging recommendations for courses and/or of discouraging the prison service from devising and suggesting new forms of programme, especially if they are extremely expensive. 107.
+As to these propositions: (a) No one suggests that there is an absolute obligation to provide an ESOTP course.
+But it may be identified as appropriate in a particular case by psychiatric or other professionals and then be required in conjunction with a system of indefinite detention which would otherwise mean that a particular prisoner would remain in gaol long past the expiry of his or her tariff date, without hope of release, perhaps for ever.
+I do not see how a contrary proposition is reconcilable with the ECtHRs approach in James v UK and much other Strasbourg authority, including Hall v UK.
+Quite apart from this, since the prison service in fact operates a system which provides and holds out the prospect of undertaking ESOTP courses as part of a process of promoting progress towards release, it seems to me incumbent on the state to resource and operate it efficiently, in a way which enables all prisoners who prison service professionals conclude should have such a course to have a fair opportunity of undertaking one within a reasonable time frame. (b) This proposition assumes information about other European countries, which we do not have.
+It is commonly believed that British sentencing is comparatively more rigorous that that in most other European countries, though that must for present purposes also be regarded as an anecdotal statement.
+For all that we know, indefinite detention may be a rarity the English experience certainly suggests that other European countries might have been wise to avoid it.
+Those like Germany (and I believe Austria and Switzerland) which do have a form of indefinite detention (Sicherungsverwahrung) which has at least in its original form, also occupied the time of the ECtHR may well have equivalent courses to ESOTP.
+We cannot assume the contrary. (c) This is another proposition which I regard as speculative.
+I question how many of the psychiatrists and other professionals and staff who work in our prison service think in this way.
+If they do, there may well also be incentives in the form of prisoners ability to complain to the ECtHR if they are detained indefinitely without access to courses which would very likely be required if they are to progress through the system towards release. 108.
+Turning to the facts of this particular case, as the Administrative Court noted in para 31, and adverted to again in para 59, also quoted above, the successful completion of an ESOTP programme would not itself lead to release.
+Before any question of release, there would need to be further work, which the Secretary of State in a programme set in April 2012 put as lasting a further 16 months. 109.
+In the upshot, Robinson only commenced an ESOTP in July 2013, some eight months after expiry of his tariff, the ESOTP would last for some six months, and then he would have to do further work lasting around 16 months.
+His release was not going to occur for around two and a half years after the expiry of his seven year tariff period.
+In my opinion, that involved a breach of the ancillary duty.
+It was far in excess of any delay arising from the inevitable and acceptable friction between available and required treatment which the European Court of Human Rights acknowledged would also exist in James v UK, para 194.
+This is clear both from the Administrative Courts conclusions on breach of the public law duty in this case and from the European Court of Human Rights reference to Brand v The Netherlands in James v UK, para 194. 110.
+Each case must turn on its own facts, and the case of Hall v UK, cited by Lord Hughes, involved shorter delays with regard to the provision of an ESOTP, a delay of at most about 18 months from March 2008 when an ESOTP was identified as appropriate to some time, probably, in autumn 2009 when the six to eight month course must have been commenced (judgment, paras 8 and 13).
+The applicants detention had been coupled over the course of the time spent in detention with regular access to a wide range of courses designed to assist him in addressing his offending behaviour and demonstrating a reduction of his risk to the satisfaction of the Parole Board (Hall v UK, para 33) and it had also been complicated by a continuing series of minor offences committed in prison (Hall v UK, paras 7, 18 and 19). 111.
+In my opinion, therefore, Robinson is entitled to succeed in his complaint about delays in the Secretary of States performance of the ancillary duty which we have recognised and so to recover a modest award of damages, of at least the same amount as, and probably higher than, Haney has received, to compensate for the inevitable frustration and anxiety which he thereby suffered. 89.
+The strongest part of Robinsons claim under article 5 is no doubt the passage of time after the psychologists report of July 2008 before the ESOTP was begun in July 2013.
+But given that his tariff was not due to expire until December 2012, there could have been very little complaint before at least the Secretary of State recognised the course as an objective in August 2010, and perhaps not until well after that.
+Moreover in the meantime, in March 2011, still well before the expiry of his tariff, there had been the further detailed PCL R sessions.
+These were of course principally assessment rather than therapy, but they provided ample opportunity over nine hours to demonstrate that there had been a change, or at least encouraging understanding of the true nature of what he had done.
+Sadly, what those sessions revealed was that he still saw himself as the victim, denied his principal offences, believed that he had not harmed any of the children and remained manipulative.
+There could be no clearer demonstration of the risk he continued to present.
+There has certainly been considerably greater delay in putting him onto the even more intensive ESOTP than one would choose to see in an ideal prison management system, but that is not the same as saying that he has not had a fair opportunity to reform himself or to demonstrate that he is no longer a danger.
+Despite the delay he was able to begin the ESOTP quite shortly after the expiry of his tariff.

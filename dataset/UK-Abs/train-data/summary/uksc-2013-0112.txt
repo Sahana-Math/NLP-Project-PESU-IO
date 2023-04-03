@@ -1,0 +1,47 @@
+In domestic law, the polices power to retain data is controlled by the Data Protection Act 1998 and by a mandatory Code of Practice and accompanying Guidance issued under the Police Act 1995.
+Individuals also have a right to respect for their private lives under Article 8 of the European Convention on Human Rights (ECHR).
+The Code of Practice limits the handling of police information to police purposes, limits the circumstances under which data can be shared between police forces, and requires that information originally recorded for police purposes must be reviewed for deletion at prescribed intervals.
+The Guidance says that the object of such reviews is to ensure that there is a continuing policing purpose for holding the record, the record is accurate, up to date and not excessive, the Data Protection Act has been complied with, and the assessment of the risk level presented by the data subject is correct.
+Mr Catt, a 91 year old man from Brighton, participates in political protests, including with a group called Smash EDO.
+Mr Catt is a peaceful protestor, but some members of Smash EDO commit violent offences.
+The police overtly collect information from Smash EDO public demonstrations.
+Because Smash EDO has associations with violent crime, information is retained even where no crime has been committed.
+Events are recorded in Information Reports and some individuals are the subject of a nominal record.
+These records are stored on a Domestic Extremism Database.
+At one point there was a nominal record and a photograph for Mr Catt, but both were deleted in separate reviews before these proceedings began.
+However, information about Mr Catt, including his presence, date of birth, and address, is contained in 107 Information Reports primarily directed to the activities of other people (including at mainstream non Smash EDO protests).
+Ms T is alleged to have said a homophobic insult to her neighbours friend in July 2010.
+The police made a Crime Reporting Information System (CRIS) record about the incident and sent her a Prevention of Harassment Letter notifying her that she may be liable for arrest and prosecution should she commit any act or acts amounting to harassment.
+The practice of the Metropolitan Police is to retain a copy of the letter in their electronic records for seven years, and the corresponding CRIS for 12 years.
+The police deleted the materials in January 2013 in the course of preparing for this appeal.
+Mr Catt and Ms T accept that it was lawful for the police to make records of the events as they occurred.
+However, they contend that the Metropolitan Polices policy in thereafter retaining the data on a searchable database is unlawful because it is contrary to their rights under Article 8 ECHR.
+Both of their claims failed at first instance.
+Their claims were heard together in the Court of Appeal, which allowed both appeals.
+In the case of Mr Catt, the Supreme Court allows the appeal by a majority of 4 1 and restores the first instance judgment.
+Lord Sumption (with whom Lord Neuberger agrees) gives the leading judgment.
+Lady Hale delivers a concurring judgment, agreeing with Lord Sumption, and Lord Mance agrees with both Lady Hale and Lord Sumption.
+Lord Toulson would have dismissed the appeal.
+In the case of Ms T, the Supreme Court unanimously allows the appeal and restores the first instance judgment.
+Lady Hale and Lord Toulson (with whom Lord Mance agrees) say that the policy was lawful.
+Lord Sumption (with whom Lord Neuberger agrees) says that the policy was not originally lawful but became so in this case.
+Lord Sumption explains that the states systematic collection and storage in retrievable form even of public information about an individual is clearly an interference with private life under Article 8(1) ECHR [3 5].
+These appeals therefore turn on whether the retention of the data can be justified under Article 8(2), and in particular whether the retention is (i) in accordance with the law and (ii) proportionate to its objective of securing public safety or preventing of disorder and crime [6].
+The in accordance with the law condition under Article 8(2) requires that the applicable rules not be so wide or indefinite as to permit interference with the right on an arbitrary or abusive basis and that their application be reasonably predictable [11].
+The retention of data in police information systems in the United Kingdom is in accordance with the law: there are some discretionary elements in the scheme, but this is inevitable, and the space of discretionary judgment is limited and subject to judicial review; further, future disclosure is limited by comprehensive restrictions [13 17].
+Lady Hale [47 49], Lord Mance [58 59] and Lord Toulson [60] all agree that the real issue in these appeals is proportionality.
+Proportionality: Mr Catt Lord Sumption holds that the interference with Mr Catts private life is minor: the information stored is personal but not intimate or sensitive; the primary facts recorded have always been in the public domain, and it is known that the police records them; there is no stigma attached to the inclusion of his information in the database as part of reports primarily directed to the activities of other people; the material is usable and disclosable only for police purposes and in response to requests made by Mr Catt himself under the Data Protection Act; and the material is regularly reviewed for deletion according to rational and proportionate criteria contained in the publicly available Code of Conduct and accompanying Guidance [26 28].
+There are numerous proper policing purposes to which the retention of evidence of this kind makes a significant contribution.
+The longer term consequences of restricting the availability of this method of intelligence gathering to the police would potentially be very serious, and the amount of labour required to excise information relating to persons such as Mr Catt from the database would be disproportionate [29 31].
+Lady Hale agrees with Lord Sumptions analysis of the case of Mr Catt [56], though adds that it would have been disproportionate to keep a nominal record about Mr Catt since he has not been and is not likely to be involved in criminal activity himself and the keeping of such records has a potentially chilling effect on the right to engage in peaceful public protest [50 52].
+Lord Mance agrees with both Lord Sumption and Lady Hale [58].
+Lord Toulson would have dismissed the appeal in the case of Mr Catt.
+He does not think that the evidence given by the police explains why it is necessary to retain for many years after the event information about someone about whom they have concluded that he was not known to have acted violently.
+He notes in particular that information was retained about Mr Catts attendance at mainstream political protest events and does not see how this could be thought necessary and proportionate [65 66].
+The suggestion that it would be over burdensome for the police to have to review information about individuals such as Mr Catt was not supported by the evidence, especially since the police already conduct regular reviews [67 68].
+Proportionality: Ms T Lady Hale [54 56] and Lord Toulson [76] both say that retaining information about previous harassment complaints serves a vital purpose, particularly in domestic abuse cases, and it is not unlawful for the police to adopt a standard practice of retaining such information for several years, provided that the policy is flexible enough to allow it to be deleted when retention no longer serves any useful policing purposesas in fact happened in this case [76].
+Lady Hale notes that the Information Commissioner could not have secured the withdrawal of the Prevention of Harassment Letter and that is presumably why these proceedings were launched [53].
+Lord Mance agrees with Lady Hale and Lord Toulson, but adds that even if the policy were originally inflexible, he would still have allowed the appeal for the reasons given by Lord Sumption [59].
+Lord Sumption says that the Prevention of Harassment Letter, while in this case unnecessarily accusatorial, clearly serves a legitimate policing purpose, but the standard period of retention applied by the Metropolitan Police is wholly disproportionate in light of the trivial nature of the incident in this case.
+However, Ms Ts Article 8 rights have not been violated because the material was in fact retained for only two and a half years, a period at the far end of the spectrum but not disproportionate [42 44].
+The dispute could have been more appropriately resolved by applying to the Information Commissioner [45].

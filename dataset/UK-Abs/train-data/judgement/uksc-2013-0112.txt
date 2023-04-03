@@ -1,0 +1,486 @@
+This appeal is concerned with the systematic collection and retention by police authorities of electronic data about individuals.
+The issue in both cases is whether the practice of the police governing retention is lawful, as the appellant Police Commissioner contends, or contrary to article 8 of the European Convention on Human Rights, as the respondents say.
+A particular feature of the data in question is that they consist entirely of records made of acts of the individuals in question which took place in public or in the common spaces of a block of flats to which other tenants had access.
+The information has not been obtained by any intrusive technique such as bugging or DNA sampling.
+In the first appeal, Mr John Catt objects to the retention on a police database of records of his participation in political demonstrations going back to 2005.
+In the second appeal, Ms T objects to the retention on a police database of a record of a minor altercation with a neighbour which the latter reported to the police.
+Each of them accepts that it was lawful for the police to make a record of the events in question as they occurred, but contends that the police interfered with their rights under article 8 of the European Convention on Human Rights by thereafter retaining the information on a searchable database.
+I shall have to say more about the facts of these cases in due course.
+Both applications failed at first instance.
+In the Court of Appeal, they were heard together, and both appeals were allowed: [2013] 1 WLR 3305.
+Historically, one of the main limitations on the power of the state was its lack of information and its difficulty in accessing efficiently even the information it had.
+The rapid expansion over the past century of mans technical capacity for recording, preserving and collating information has transformed many aspects of our lives.
+One of its more significant consequences has been to shift the balance between individual autonomy and public power decisively in favour of the latter.
+In a famous article in the Harvard Law Review for 1890 (The Right to Privacy, 4 Harvard LR 193), Louis Brandeis and Samuel Warren drew attention to the potential for recent inventions and business methods to undermine the autonomy of individuals, and made the case for the legal protection not just of privacy in its traditional sense but what they called the more general right of the individual to be let alone.
+Brandeis and Warren were thinking mainly of photography and archiving techniques.
+In an age of relatively minimal government they saw the main threat as coming from business organisations and the press rather than the 4. state.
+Their warning has proved remarkably prescient and of much wider application than they realised.
+Yet although their argument was based mainly on English authority, the concept of a legal right of privacy whether broadly or narrowly defined fell on stony ground in England.
+Its reception here has been relatively recent and almost entirely due to the incorporation into domestic law of the European Convention on Human Rights.
+Is article 8 engaged?
+Article 8 of the Convention confers on everyone a qualified right to respect for his private and family life, his home and his correspondence.
+It has proved to be the most elastic of the rights protected by the Convention and, as Lord Rodger pointed out in R (Countryside Alliance) v Attorney General [2008] AC 719, para 92, has for many years extended well beyond the protection of privacy in its narrower sense.
+A long series of individual decisions, each in itself of limited scope, culminated in the following statement of the European Court of Human Rights in Pretty v United Kingdom (2002) 35 EHRR 1, para 61: As the court has had previous occasion to remark, the concept of private life is a broad term not susceptible to exhaustive definition.
+It covers the physical and psychological integrity of a person .
+It can sometimes embrace aspects of an individual's physical and social identity .
+Elements such as, for example, gender identification, name and sexual orientation and sexual life fall within the personal sphere protected by article 8 .
+Article 8 also protects a right to personal development, and the right to establish and develop relationships with other human beings and the outside world .
+Though no previous case has established as such any right to self determination as being contained in article 8 of the Convention, the court considers that the notion of personal autonomy is an important principle underlying the interpretation of its guarantees.
+In common with other jurisdictions, including the European Court of Human Rights and the courts of the United States, Canada and New Zealand, the courts of the United Kingdom have adopted as the test for what constitutes private life whether there was a reasonable expectation of privacy in the relevant respect: see Campbell v MGN Ltd [2004] 2 AC 457, para 21 (Lord Nicholls) and Kinloch v HM Advocate [2013] 2 AC 93, paras 19 21 (Lord Hope).
+In one sense this test might be thought to be circular.
+It begs the question what is the privacy which may be the subject of a reasonable 5. expectation.
+Given the expanded concept of private life in the jurisprudence of the Convention, the test cannot be limited to cases where a person can be said to have a reasonable expectation about the privacy of his home or personal communications.
+It must extend to every occasion on which a person has a reasonable expectation that there will be no interference with the broader right of personal autonomy recognised in the case law of the Strasbourg court.
+This is consistent with the recognition that there may be some matters about which there is a reasonable expectation of privacy, notwithstanding that they occur in public and are patent to all the world.
+In this context mere observation cannot, save perhaps in extreme circumstances, engage article 8, but the systematic retention of information may do.
+In Rotaru v Romania (2000) 8 BHRC 449, para 43, the Grand Chamber held that public information can fall within the scope of private life where it is systematically collected and stored in files held by the authorities.
+Cf SegerstedtWiberg v Sweden (2006) 44 EHRR 14, para 72.
+In PG v United Kingdom (2001) 46 EHRR 1272, the court found a violation of article 8 by covertly recording the applicants voices at a police station in the presence of police officers, for the purposes of future voice recognition.
+At para 57 the court said: There are a number of elements relevant to a consideration of whether a persons private life is concerned by measures effected outside a person's home or private premises.
+Since there are occasions when people knowingly or intentionally involve themselves in activities which are or may be recorded or reported in a public manner, a person's reasonable expectations as to privacy may be a significant, although not necessarily conclusive, factor.
+A person who walks down the street will, inevitably, be visible to any member of the public who is also present.
+Monitoring by technological means of the same public scene (for example, a security guard viewing through closed circuit television) is of a similar character.
+Private life considerations may arise, however, once any systematic or permanent record comes into existence of such material from the public domain.
+It is for this reason that files gathered by security services on a particular individual fall within the scope of article 8, even where the information has not been gathered by any intrusive or covert method.
+In Bouchacourt v France, 17 December 2009, Application No 5335/06, a case concerning the inclusion of persons in a register of convicted sex offenders, it was held at para 57 that the mere storing by a public authority of data relating to the private life of an individual engaged article 8 of the Convention so as to require to be justified.
+In S v United Kingdom (2008) 48 EHRR 1169 the Strasbourg court held that article 8 was engaged by the mere storage of cellular samples, DNA profiles and fingerprints: see paras 77, 86.
+This was because of the sensitivity and amount of the personal information in question, and the uses to which it might conceivably be put: paras 70 86.
+The same principle has been recognised and applied in English case law.
+As Lord Hope of Craighead DPSC observed in R (L) v Comr of Police of the Metropolis (Secretary of State for the Home Department intervening) [2010] 1 AC 410, para 27, even public information such as a criminal conviction may become part of a persons private life once it recedes into the past and other people are likely to have forgotten about it. 6.
+These cases, and others like them, all have particular features which differentiate them both from each other and from the present cases.
+But it is clear that the states systematic collection and storage in retrievable form even of public information about an individual is an interference with private life.
+For that reason I think that the Court of Appeal was right to hold (overruling the Divisional Court in Catt) that article 8(1) was engaged.
+It follows that the present appeals turn on article 8(2) of the Convention, and in particular on whether the retention of the data is (i) in accordance with law, and (ii) proportionate to its objective of securing public safety or preventing disorder or crime.
+The domestic legal framework 7.
+At common law the police have the power to obtain and store information for policing purposes, ie broadly speaking for the maintenance of public order and the prevention and detection of crime.
+These powers do not authorise intrusive methods of obtaining information, such as entry upon private property or acts (other than arrest under common law powers) which would constitute an assault.
+But they were amply sufficient to authorise the obtaining and storage of the kind of public information in question on these appeals. 8.
+The exercise of these powers is subject to an intensive regime of statutory and administrative regulation.
+The principal element of this regime is the Data Protection Act 1998.
+The Act was passed to give effect to Directive 95/46/EC on the protection of individuals with regard to the processing of personal data, a harmonisation measure designed to produce a common European framework of regulation ensuring a high level of protection satisfying (among other standards) article 8 of the Convention: see recitals 10 and 11.
+On ordinary principles of statutory construction the Act will as far as possible be interpreted in a manner consistent with that objective.
+It is primarily concerned to regulate the processing of data by any data controller or any other person who processes data on behalf of a data controller.
+For this purpose, personal data means data relating to a living individual identifiable from the data (whether or not in conjunction with other information or data available to the controller).
+Processing means obtaining, recording or holding information or data or carrying out any operation upon it including retrieval, consultation, use or disclosure.
+For present purposes, the relevant provisions can be summarised as follows: (1) Subject to exceptions of no present relevance, a data controller is required by section 4(4) to comply with the data protection principles in Schedule 1.
+So far as they are relevant to the present appeals, the data protection principles are as follows: Principle 1 is that personal data may not be processed at all unless it is necessary for a relevant purpose.
+In the case of the police, the relevant purposes are the administration of justice and the exercise of any other function of a public nature exercised in the public interest.
+Principle 2 is that personal data may be obtained only for lawful purposes and may not be further processed in a manner incompatible with those purposes.
+Principle 3 is that the data must be adequate, relevant and not excessive for the relevant purpose.
+Principle 5 is that the data may not be kept for longer than is necessary for those purposes.
+Principle 7 is that proper and proportionate measures must be taken against the unauthorised or unlawful processing of the data. (2) There is a statutory right in any data subject on request to be given access to any personal data concerning him: section 7.
+This is subject to an exception under section 29 for personal data processed for the purpose of (among other things) preventing or detecting crime or apprehending or prosecuting offenders.
+The effect of the exception is to protect information relating to current police investigations or operations. (3) There is a statutory right in a data subject to require a data controller not to process personal data, on the ground that it is causing or is likely to cause unwarranted and substantial damage or substantial distress to him or to someone else: section 10(1).
+This right would not apply to processing which is necessary for the administration of justice or for the exercise of other public functions in the public interest.
+But it would apply in any case where that limitation has been exceeded: section 10(2) and Schedule 2, para 5. (4) Complaints about breach of a data controllers obligations may be pursued in the courts or by way of complaint to the regulator, the Information Commissioner: sections 13 and 14.
+The relief available includes damages. 9.
+These provisions are supplemented in the case of the police by published administrative codes.
+Under section 39A of the Police Act 1996 the Secretary of State is empowered to issue codes of practice for the purpose of promoting the efficiency and effectiveness of police forces.
+A Code of Practice on the management of police information was issued by the Secretary of State in July 2005.
+The Code follows fairly closely the provisions of the Data Protection Act, while relating them more directly to the particular functions of the police.
+The central concept underlying it is the limitation of the handling of police information to police purposes.
+These are defined at paragraph 2.2 as protecting life and property, preserving order, preventing crime, bringing offenders to justice and performing any legal duty or responsibility of the police.
+Subsequent provisions of the Code deal with the use, review and deletion of information originally recorded for police purposes.
+Paragraph 4.7 provides for the sharing of information within the United Kingdom police service if it is required for police purposes and the recipient observes the Code.
+Paragraph 4.8 provides for the sharing of information outside the service on the authority of a chief officer of police if he is satisfied that it is reasonable and lawful to do so for police purposes.
+Paragraph 4.10 imposes a duty directly on those receiving information in these ways to use it only for the purpose for which it was supplied.
+Under paragraphs 4.5 and 4.6, information originally recorded for police purposes must be reviewed at intervals.
+At each review the likelihood that it will be used for police purposes should be assessed, and it should be considered for retention or deletion. 10.
+The Code of Practice provides for more detailed provision to be made by way of guidance which will (among other things) identify minimum standards of information management to be observed.
+Guidance on the Management of Police Information (or MOPI) was originally issued by the Association of Chief Police Officers in 2006, and updated by a new edition in 2010.
+This was in turn superseded by the Authorised Professional Practice: Information Management Retention, review and disposal, published by the College of Policing in 2013.
+Section 7 of the 2010 document deals with the review of information for retention or disposal.
+It requires police information to be managed in compliance with the Convention, the Human Rights Act and the Data Protection Act.
+Paragraph 7.1 begins: Reviewing information held by forces to determine its adequacy and continuing necessity for a policing purpose is a reliable means of meeting the requirements of the Data Protection Act.
+Review procedures should be practical, risk focused and able to identify information which is valuable to the policing purpose and needs to be retained.
+Review procedures should not be overly complex but should be as straightforward as is operationally possible.
+Paragraph 7.4 provides: All records which are accurate, adequate, up to date and necessary for policing purposes will be held for a minimum of six years from the date of creation.
+This six year minimum helps to ensure that forces have sufficient information to identify offending patterns over time, and helps guard against individuals efforts to avoid detection for lengthy periods.
+Beyond the six year period, there is a requirement to review whether it is still necessary to keep the record for a policing purpose.
+The review process specifies that forces may retain records only for as long as they are necessary.
+Paragraph 7.3.1 provides that the object of the review is to ensure that there is a continuing policing purpose for holding the record, that the record is adequate, up to date and not excessive, that the Data Protection Act is complied with, and that the assessment of the level of risk that the person presents is correct.
+A number of detailed criteria for carrying out this exercise are then set out.
+Records are required to be subjected to an initial evaluation, and then kept for a minimum of six years.
+Thereafter, they are subject to: (i) triggered reviews, when information is added about the person in question or a statutory demand for access or disclosure is received or a request for information is made by another law enforcement agency; and (ii) scheduled reviews, which occur automatically at intervals varying with the nature of the information and the gravity of the risk: paragraphs 7.6.2 and 7.6.3.
+The criteria for retention or deletion are directed to the risk of harm to the public or to vulnerable sections of the public.
+Only in the case of persons convicted or suspected of involvement in offences involving the highest level of danger to the public are records to be retained indefinitely.
+Information which is no longer required must be irretrievably deleted.
+Substantially similar provisions appear in the current Guidance of 2013.
+In accordance with the law 11.
+The requirement of article 8(2) that any interference with a persons right to respect for private life should be in accordance with the law is a precondition of any attempt to justify it.
+Its purpose is not limited to requiring an ascertainable legal basis for the interference as a matter of domestic law.
+It also ensures that the law is not so wide or indefinite as to permit interference with the right on an arbitrary or abusive basis.
+In R (Gillan) v Comr of Police of the Metropolis [2006] 2 AC 307, para 34, Lord Bingham of Cornhill observed that the lawfulness requirement in the Convention addresses supremely important features of the rule of law: The exercise of power by public officials, as it affects members of the public, must be governed by clear and publicly accessible rules of law.
+The public must not be vulnerable to interference by public officials acting on any personal whim, caprice, malice, predilection or purpose other than that for which the power was conferred.
+This is what, in this context, is meant by arbitrariness, which is the antithesis of legality.
+In the context of the retention by the police of cellular samples, DNA profiles and fingerprints, the Grand Chamber observed in S v United Kingdom (2008) 48 EHRR 1169, para 99, that there must be clear, detailed rules governing the scope and application of measures, as well as minimum safeguards concerning, inter alia, duration, storage, usage, access of third parties, procedures for preserving the integrity and confidentiality of data and procedures for its destruction, thus providing sufficient guarantees against the risk of abuse and arbitrariness.
+For this purpose, the rules need not be statutory, provided that they operate within a framework of law and that there are effective means of enforcing them.
+Their application, including the manner in which any discretion will be exercised, should be reasonably predictable, if necessary with the assistance of expert advice.
+But except perhaps in the simplest cases, this does not mean that the law has to codify the answers to every possible issue which may arise.
+It is enough that it lays down principles which are capable of being predictably applied to any situation. 12.
+The Data Protection Act is a statute of general application.
+It is not specifically directed to data obtained or stored by the police.
+But it lays down principles which are germane and directly applicable to police information, and contains a framework for their enforcement on the police among others through the Information Commissioner and the courts.
+It deals directly in section 29 and in Schedule 2, paragraph 5 with the application of the principles to law enforcement.
+The Data Protection Principles themselves constitute a comprehensive code corresponding to the requirements of the EU Directive and the Convention.
+The effect of the first principle, read in conjunction with the requirements of Schedule 2, is that data cannot be obtained, recorded, held or used by the police unless it is necessary for them to do so for the purpose of the administration of justice or the performance of their other functions.
+The fifth principle prevents the retention of data for any longer than is necessary for this purpose.
+These principles are supplemented by a statutory Code of Conduct and administrative Guidance compliance with which is mandatory.
+The relevant functions of the police are limited to policing functions which are clearly and narrowly defined in para 2.2 of the statutory Code of Practice. 13.
+There are discretionary elements in the statutory scheme as there must inevitably be, given the great variety of circumstances that may give rise to allegations that personal data have been improperly processed.
+But their ambit is limited.
+In the first place, the Code of Practice governing police information is an administrative document whose contents are determined by police organisations subject to the approval of the Home Secretary.
+It leaves room for discretionary judgment by the police within specified limits, notably in the area of the duration of retention.
+But both the Code and the Guidance issued under it are subordinate instruments which are subject to the Data Protection Principles.
+Neither the Information Commissioner nor the courts are bound or indeed entitled to apply them in a manner inconsistent with those principles.
+Secondly, the Commissioner has a discretion whether to take action.
+He need not, for example, necessarily issue an enforcement notice in a trivial case or one in which a contravention has caused no appreciable damage or distress.
+But he is bound to enforce the Act, and his performance (or non performance) of his functions is subject to judicial review in the ordinary way. 14.
+Much of the argument advanced on behalf of Mr Catt and Ms T on this point amounted to a complaint that this material did not enable them to know precisely what data would be obtained and stored or for how long.
+But these arguments were not in my opinion realistic.
+The infinite variety of situations in which issues of compliance may arise and the inevitable element of judgment involved in assessing them make complete codification impossible.
+However, any person who thinks that the police may hold personal information about him may call for access to it under section 7 of the Act, subject (in the present kind of case) only to the exception in section 29.
+Armed with the information any person who objects to its retention or use can bring the matter before the Information Commissioner. 15.
+Before leaving this aspect of the current appeals, I should say something about two cases on which the respondents particularly relied.
+They are the decision of the European Court of Human Rights in MM v United Kingdom, 13 Nov 2012, Application No 24029/07, and the decision of this court in R (T) v Chief Constable of Greater Manchester Police (Liberty intervening) [2015] AC 49.
+Both cases concerned the disclosure of information from police records under the Police Act 1997 to potential employers and regulatory bodies, as a result of which the complainants were unable to obtain employment involving contact with children or vulnerable adults.
+Section 113A of the Police Act 1997 required the disclosure of convictions (including cautions), and section 113B required the disclosure of other information on police records which the relevant chief officer of police reasonably believed to be relevant and which in his opinion ought to be disclosed.
+Since these disclosures were required by statute, the provisions of the Data Protection Act 1998 restricting their disclosure had no application: see section 35(1) of that Act.
+In MM, the European Court of Human Rights held that disclosure in accordance with sections 113A and 113B was not in accordance with law because it was mandatory.
+The relevant provisions involved no rational assessment of risk and contained no safeguards against abuse or arbitrary treatment of individuals.
+In T, the Supreme Court, on materially indistinguishable facts, applied the same principle.
+The present appeals, however, come before us on a very different basis.
+There has been no disclosure to third parties, and the prospect of future disclosure is limited by comprehensive restrictions.
+It is limited to policing purposes, and is subject to an internal proportionality review and the review by the Information Commissioner and the Courts.
+In MM, the Strasbourg court criticised the generous approach of the law of the United Kingdom to the exercise of police power to retain personal data even before disclosure (para 170).
+It does not, however, follow from these criticisms that retention of personal data in the United Kingdom is not in accordance with law.
+In the first place, at the time which was relevant to the 16. applicants complaint in MM, challenges to the retention of data were seriously inhibited by the decisions of the House of Lords in R (S) v Chief Constable of the South Yorkshire Police [2004] 1 WLR 2196, which concerned the statutory power of the police to retain DNA profiles taken from persons who had been arrested but who were subsequently acquitted or not prosecuted, and Chief Constable of Humberside Police v Information Comr (Secretary of State for the Home Department intervening) [2010] 1 WLR 1136, which concerned the retention of records of minor convictions.
+In both cases, the courts had doubted whether article 8 of the Convention was even engaged, but on the footing that it was engaged considered that the interference with private life was minor and justified.
+Things have moved on since then.
+There is no longer any doubt about the application of article 8 to the systematic retention of processable personal data, and the test of justification has become more exacting since the decision of the Strasbourg court in S v United Kingdom (2008) 48 EHRR 1169.
+The decisions of this court in R (GC) v Comr of Police for the Metropolis [2011] 1 WLR 1230 and R (L) v Comr of Police of the Metropolis (Secretary of State for the Home Department intervening) [2010] 1 AC 410 were important milestones.
+Secondly, the purpose for which the rules and practices about data retention were reviewed by the Strasbourg court in MM was not to ascertain the legality of the retention but to assess the adequacy of domestic remedies having regard to the applicants alleged failure to exhaust them before petitioning the Strasbourg court.
+Thirdly, it is clear that the retention of the data in MM was relevant not so much in itself as because it exposed the applicant to future disclosure.
+The problem with which the Strasbourg court was concerned was that once the data were entered into the system, there was no way of preventing their disclosure under the mandatory provisions of the Police Act.
+It followed that the only legal protection against disclosure consisted in the restrictions on the obtaining or retention of the data in the first place.
+The point is well captured in the courts conclusion, at para 207.
+It was not satisfied that there were, and are, sufficient safeguards in the system for retention and disclosure of criminal record data to ensure that data relating to the applicant's private life have not been, and will not be, disclosed in violation of her right to respect for her private life.
+The retention and disclosure of the applicant's caution data accordingly cannot be regarded as being in accordance with the law. 17.
+In my opinion, the retention of data in police information systems in the United Kingdom is in accordance with law.
+The real question on these appeals is whether the interference with the respondents article 8 rights was proportionate to the objective of maintaining public order and preventing or detecting crime.
+For this purpose, it is necessary to look separately at the two cases before us, for the relevant considerations are very different.
+Proportionality: Mr Catt 18.
+Mr Catts complaint relates to the recording and retention of information relating to his participation in political protests.
+Before addressing his own position, it is necessary to summarise, so far as it is relevant to these proceedings, how and why information of this kind is dealt with by the police. 19.
+Political protest is a basic right which the common law has always recognised, within broad limits directed to keeping the peace and protecting the rights and property of others.
+It is also a right protected by articles 10 and 11 of the Convention.
+It is an unfortunate but inescapable fact that some extremist groups deliberately adopt tactics which are likely to involve serious criminal damage to property, assaults against police officers and others, and serious acts of aggravated trespass, harassment and intimidation.
+This case is mainly concerned with one such group, called Smash EDO.
+Its object is to close down the activities in the United Kingdom of EDO MBM Technology Ltd, a US owned company which manufactures weapons and weapon components and has a factory in Brighton.
+Not all of those who attend demonstrations organised by Smash EDO are intent on violence, but the evidence is that some are.
+Recorded crimes associated with the groups operations against EDO include assault on police officers, sometimes by organised groups (black blocs) who arrive with missiles and other weapons, padding and body armour.
+They also include: extensive and repeated criminal damage to EDO premises by smashing windows, blocking air conditioning units, throwing fireworks and glass bottles of red oxide paint, forcibly entering premises and breaking equipment; damage to cars belonging to their employees; harassment and intimidation of staff both at their place of work and at home; and conducting secondary campaigns by similar methods against companies supplying services to EDO, such as couriers and banks.
+In his witness statement, Detective Chief Superintendent Tudway of the Metropolitan Police describes Smash EDO as amongst the most violent in the UK and the only one that would be attended by anarchists prepared to use black bloc tactics. 20.
+The local organisation of police forces in England makes it necessary for police forces to create organisations to coordinate their response to threats which transcend the limits of individual police areas.
+At the time when he wrote his witness statement, Detective Chief Superintendent Tudway was the National Coordinator for Domestic Extremism, an office established in 2004 under the auspices of the Association of Chief Police Officers (ACPO) but which subsequently became part of the Metropolitan Police.
+The National Coordinator is responsible for a number of units whose function is to coordinate the police response to domestic extremism, which is currently defined by ACPO as the planning or commission of crimes motivated by a political or ideological point of view.
+One of these is the National Domestic Extremism and Disorder Intelligence Unit, formerly known as National Public Order Intelligence Unit (or NPOIU).
+The Unit was created in 1999 but has its origins in an organisation created in 1986 to coordinate police intelligence about animal rights extremists who were responsible during the 1980s and 1990s for a particularly violent and destructive campaign of criminality directed against the use of animals in research institutions.
+The Unit exists to support local police forces by gathering, evaluating and disseminating among police forces intelligence relating to threats to public order, including those arising from domestic extremism.
+The police routinely collect information at public demonstrations.
+Much of this is done overtly, no intrusive techniques being employed.
+Very often, they do not retain the information if no offences have occurred and the demonstration was a one off event.
+However, where a demonstration is part of a regular and long running campaign which gives rise to repeated acts of crime and disorder, the practice is to retain it even if offences have not been committed on that particular occasion or at any rate not by the individual whose presence or activities are recorded.
+Each incident is recorded on Information Reports, which generally contain a brief description of what occurred, with the names of those attending, so far as recognised.
+Some individuals are the subject of a nominal record, which will collect together Information Reports referring to them.
+These records are stored on a database which has been referred to in these proceedings as the Domestic Extremism Database.
+Its formal title is the National Special Branch Intelligence System. 21.
+Nominal records, and Information Reports, are reviewed for retention or deletion in accordance with current MOPI recommendations, which I have already summarised.
+More stringent procedures are followed in the case of photographs, which until recently were reviewed automatically every three years, and are now reviewed every year.
+These processes were, however, accelerated as a result of a report by HM Inspectorate of Constabulary published in January 2012 on undercover police operations designed to obtain intelligence about protest movements.
+The report concluded (among other things) that information was being unnecessarily retained in police records.
+Although the report was concerned with covertly obtained intelligence, it led to an extensive review of the existing database covering overtly obtained intelligence as well, so as to ensure that its continued retention was justified.
+This resulted in the deletion of a large number of nominal records and associated Information Reports. 22.
+Mr Catt is a 91 year old man living in Brighton.
+By his own account, he has been active in the peace movement since 1948, and has been a regular attender at public demonstrations throughout that period.
+Since 2005, he has frequently participated in demonstrations organised by Smash EDO, generally in Brighton.
+Mr Catt has twice been arrested at Smash EDO demonstrations for obstructing the public highway, but he has never been convicted of any offence.
+For my part, I am happy to take at face value his statement that he believes in peaceful protest and practises it. 23.
+From March 2005, Mr Catt began to appear in police information reports relating to Smash EDO protests in Brighton.
+As a result of his being identified on these occasions, he occasionally appeared in addition in Information Reports relating to other protests in which he participated, some of them away from Brighton.
+In March 2010, Mr Catt made an access request under section 7 of the Data Protection Act 1998 for information relating to him.
+As a result of the disclosure made in response to that request, and of the evidence in these proceedings, the position in relation to Mr Catt can be summarised as follows.
+There had at one stage been a nominal record for Mr Catt, but it was deleted some time before these proceedings were begun (November 2010).
+Presumably it had already been deleted when Mr Catt made his access request in March 2010, or its existence would have been disclosed.
+Nominal records for other persons and Information Reports concerning demonstrations, which incidentally mention Mr Catt had been retained.
+Some entries from these documents relating to incidents between March 2005 and October 2009 were retrieved which referred to Mr Catt, and these were disclosed to him in response to his access request, in addition to a photograph of him taken at a demonstration in September 2007.
+In January 2012, information was supplied about three further reports mentioning Mr Catt, which were received in July 2011.
+In the great majority of cases, all that was recorded about Mr Catt was his presence, date of birth and address.
+In some cases his appearance is also described. 24.
+Mr Catt believes that he was specifically targeted by the police.
+There is, however, no evidence of this.
+His name appears along with the names of other participants about whom the same sort of information is recorded, together with the names of witnesses and victims.
+Nominal records about other people which mention Mr Catt were reviewed for deletion or retention in accordance with the criteria which I have summarised.
+The intervals between scheduled reviews will depend on the category of risk to which the subject of the nominal record belongs.
+Mr Catts photograph came up for automatic review in July 2010, and was deleted.
+Subsequently, as a result of the general review of the database undertaken since 2012, the number of nominal reports and Information Reports which mentioned Mr Catt was reduced to two. 25.
+Do these considerations justify the retention of information including some which relates to persons such as Mr Catt against whom no criminality is alleged? In my opinion, they do. 26.
+The starting point is the nature and extent of the invasion of privacy involved in the retention of information of this kind.
+I am conscious that the Strasbourg court has in the past taken exception to the characterisation of interferences by English courts with private life as being minor (see, notably, MM, at para 170), but the word seems to me to be appropriate to describe what happened in this case.
+The information stored is personal information because it relates to individuals, but it is in no sense intimate or sensitive information like, for example, DNA material or fingerprints.
+It is information about the overt activities in public places of individuals whose main object in attending the events in question was to draw public attention to their support for a cause.
+Although the collation of the information in the form in which it appears in police records is not publicly available, the primary facts recorded are and always have been in the public domain.
+No intrusive procedures have been used to discover and record them, another marked contrast with DNA material.
+The material records what was observed by uniformed police officers in public places. 27.
+The retention in a nominal record about a particular person or in an Information Report about a demonstration of information about other persons such as Mr Catt who were participating in the same event does not carry any stigma of suspicion or guilt.
+Mr Catt takes exception to what he regards as the inference that all those mentioned as participating in events such as Smash EDO protests are extremists.
+But that is not a fair inference.
+The relevant police units are concerned with extremism, in the sense of the pursuit of a political cause by criminal means, but it does not follow that all those who are recorded as attending these events are being characterised as extremists in that or any other sense.
+Unlike the records of criminal convictions or cautions, the information would not be regarded as discreditable to those who were merely recorded as attending an event at which they were not alleged to have committed offences.
+But in fact, the material is not usable or disclosable for any purpose other than police purposes, except as a result of an access request by the subject under the Data Protection Act.
+It is not used for political purposes or for any kind of victimisation of dissidents.
+It is not available to potential employers or other outside interests.
+There are robust procedures for ensuring that these restrictions are observed.
+Finally, the material is periodically reviewed for retention or deletion according to rational and proportionate criteria based on an assessment of danger to the public and value for policing purposes. 28.
+Mr Catt has characterised the practice of retaining such information on a database as secret, but to my mind this is somewhat extravagant.
+The retention by the police of personal data about persons and events of interest to them is the subject of a statutory Code of Practice and administrative Guidance.
+These are public documents.
+With limited exceptions relating mainly to current investigations or operations, any personal data in the possession of the police can be accessed by the subject by a request under the Data Protection Act.
+The existence of specialised police units dealing with political demonstrations which are thought liable to degenerate into criminality is widely known.
+The fact that they record information about them and those who participate in them has never been concealed from those who wish to know about these matters.
+They have been referred to in the press and in reports of HM Inspectorate of Constabulary.
+Our attention was drawn to a report on the BBC News web site dating from 2002 and an HMIC report of 2003.
+Given the high profile of some protest groups and their association with criminality, these are the kind of matters which, even in the absence of specific information, most people would expect the police to record and retain. 29.
+Even a comparatively minor interference with a persons right to respect for private life calls for justification.
+I turn therefore to the question why is it necessary to retain such material at all, especially in the case of a person like Mr Catt who has a clean record and for whom violent criminality must be a very remote prospect indeed.
+The purposes for which the evidence about participants in demonstrations is retained are described in Detective Chief Superintendent Tudways witness statement, with a fair amount of specific illustrative detail: (1) (2) (3) It is retained in order to enable the police to make a more informed assessment of the risks and the threats to public order associated with demonstrations forming part of an identifiable campaign, and the scale and nature of the police response which may be necessary in future.
+It is retained in order to investigate criminal offences where there have been any, and to identify potential witnesses and victims.
+It is retained in order to study the leadership, organisation, tactics and methods of protest groups which have been persistently associated with violence, and other protest groups associated with them.
+Links between protest groups are potentially important.
+There is a significant correlation between participation in a group such as Smash EDO and other extremist groups such as animal rights activists.
+The evidence is that out of 242 Smash EDO activists recorded in the database at the time when these proceedings were begun, 42 also had links with animal rights protest groups.
+There is considerable cross fertilisation of ideas between different extremist causes on tactics and methods. 30.
+These are all proper policing purposes.
+The evidence of the police is that a significant contribution is made to all of them by the retention of information of this kind.
+That evidence is supported by illustrative examples, and this court has no evidential basis or personal experience on which to challenge that assessment.
+And, to put it at its lowest, the evidence is credible.
+The proper performance of these functions is important not only in order to assist the prevention and detection of crime associated with public demonstrations, but to enable the great majority of public demonstrations which are peaceful and lawful to take place without incident and without an overbearing police presence. 31.
+These points need to be considered in the light of some basic, and perhaps obvious, facts about the nature of intelligence gathering.
+Most intelligence is necessarily acquired in the first instance indiscriminately.
+Its value can only be judged in hindsight, as subsequent analysis for particular purposes discloses a relevant pattern.
+The picture which is thus formed is in the nature of things a developing one, and there is not always a particular point of time at which one can say that any one piece in the jigsaw is irrelevant.
+The most that can be done is to assess whether the value of the material is proportionate to the gravity of the threat to the public.
+This is the principle on which the review procedures are required to be conducted by the Code of Practice and the successive editions of the Guidance.
+The fact that some of the information recorded in the database relates to people like Mr Catt who have not committed and are not likely to commit offences does not make it irrelevant for legitimate policing purposes.
+The composition, organisation and leadership of protest groups who are persistently associated with violence and criminality at public demonstrations is a matter of proper interest to the police even if some of the individuals in question are not themselves involved in any criminality.
+The longer term consequences of restricting the availability of this resource to the police would potentially be very serious.
+It would adversely affect police operations directed against far less benign spirits than Mr Catt.
+Organised crime, terrorism, drug distribution and football hooliganism are all obvious examples.
+One cannot look at an issue of this kind simply in relation to Mr Catt. 32.
+Even if it were consistent with the purpose and proper use of the database to exclude people like Mr Catt from it, the labour involved would be disproportionate to the value of the exercise to them.
+The current weeding process in relation to nominal records involves an assessment of the threat posed by the subject of each such record.
+Mr Catt is not the subject of a nominal record, but merely appears as part of the cast in incidents with which the subjects of nominal records are associated.
+To fillet all the nominal records not simply in order to review the retention of information relating to the subject of the record but to examine the individual position of every other person mentioned in it would be a major administrative exercise.
+The alternative of not retaining information in a nominal record about any other members of the cast would significantly undermine the value of the record. 33.
+Although the jurisprudence of the European Court of Human Rights is exacting in treating the systematic storage of personal data as engaging article 8 and requiring justification, it has consistently recognised that (subject always to proportionality) public safety and the prevention and detection of crime will justify it provided that sufficient safeguards exist to ensure that personal information is not retained for longer than is required for the purpose of maintaining public order and preventing or detecting crime, and that disclosure to third parties is properly restricted: see Bouchacourt v France, 17 December 2009, Application No 5335/06, paras 68 69, and Brunet v France, 18 September 2014, Application No 21010/10, para 36.
+In my opinion, both of these requirements are satisfied in this case.
+Like any complex system dependent on administrative supervision, the present system is not proof against mistakes.
+At least in hindsight, it is implicit in the 2012 report of HMIC and the scale on which the database was weeded out over the next two years that the police may have been retaining more records than the Code of Practice and the MOPI guidelines really required.
+But the judicial and administrative procedures for addressing this are effective, as the facts disclosed on this appeal suggest. 34.
+Mr Catt could have complained about the retention of his personal data to the Information Commissioner.
+He has in fact chosen to proceed in court by way of application for judicial review.
+The result of that process, in my opinion, is that the police have shown that the retention of data about his participation in demonstrations in the nominal records of other persons and in other event reports is justified by the legitimate requirements of police intelligence gathering in the interests of the maintenance of public order and the prevention of crime. 35.
+This was substantially the view taken by Gross LJ, delivering the judgment of the Divisional Court.
+He dealt with the point quite shortly, because he regarded it as plain that the retention of the data concerning Mr Catt was both in accordance with law and justifiable as a proportionate measure for proper policing purposes.
+The Court of Appeal (Lord Dyson MR, and Moore Bick and McCombe LJJ) disagreed.
+They expressed no view on the question whether it was in accordance with law, because they were satisfied that it was disproportionate to the admittedly legitimate purpose of proper policing of the community.
+But they considered that the information retained about Mr Catt had been indiscriminately collected and that it had not been shown to have any value for policing purposes.
+They thought that while Detective Chief Superintendent Tudway had state[d] in general terms that it is valuable to have information about Mr Catts attendance at protests because he associates with those who have a propensity to violence and crime, he did not explain why, given that Mr Catt was not alleged to have committed crimes himself or encouraged others to do so (para 44).
+In my view, this does not do justice to the points made by Detective Chief Superintendent Tudway, which I have summarised at para 29, nor does it take account of the reality of police intelligence work, which I have addressed at para 31.
+It also misses the point that the material is relevant not primarily for the purpose of establishing criminality against Mr Catt but for the purpose of studying the methods and organisation of a violent organised group whose demonstrations he attends.
+I would therefore allow the appeal in Mr Catts case, and dismiss his claim.
+Proportionality: T 36.
+Section 1(1) of the Protection from Harassment Act 1997 makes it a civil wrong and a criminal offence for a person to pursue a course of conduct (a) which amounts to harassment of another, and (b) which he knows or ought to know amounts to harassment of the other. 37.
+Ms T lives in a block of flats in London managed by a housing association.
+On 20 July 2010 a minor incident occurred there.
+Ms T had previously complained about the noise coming from the flat of a neighbour, Mr B.
+On leaving the flat, she saw Mr S, a friend of Mr B.
+There is a dispute about what happened next.
+Mr S later reported to the police that she had called him a faggot.
+He said that he associated this with insulting remarks which she had made to him on earlier occasions, which he had interpreted as homophobic.
+A Crime Reporting Information System record (CRIS) was completed, recording the facts as alleged by Mr S and that a decision had been made to serve on Ms T a Prevention of Harassment Letter.
+The police made a number of attempts to visit Ms T at home, but no one answered the door.
+Finally, the letter was pushed through her letter box on 7 October 2010.
+It was a standard form on Metropolitan Police headed paper in the following terms: 38.
+An allegation of harassment has been made against you: Details of alleged conduct (specific actions that are cause for complaint): On the 20/07/2010 you went outside Flat 5 and told a visitor who was making a phone call YOU FAGGOT HARASSMENT IS A CRIMINAL OFFENCE under the Protection from Harassment Act 1997.
+A person must not pursue a course of conduct which amounts to harassment of another and which he/she knows, or ought to know, amounts to harassment of the other.
+Harassment can take many forms and examples can include: wilful damage to property, assault, unwarranted verbal or physical threats, abusive communication or repeated attempts to talk to or approach a person who is opposed to this.
+It is important that you understand that should you commit any act or acts either directly or indirectly that amount to harassment, you may be liable to arrest and prosecution.
+A copy of this letter which has been served on you will be retained by police but will not be disclosed now to the alleged victim.
+However a copy could be disclosed in any subsequent criminal proceedings against you as proof that police have spoken to you about this allegation.
+This does not in any way constitute a criminal record and will only be referred to should further allegations of harassment be received. 39.
+The service of such notices appears to be a common practice by police forces across the country, although they are not all in this form.
+Moreover, different police forces retain the original hard copy of the Harassment Letter for different periods, in some cases as short as eight months.
+The current practice of the Metropolitan Police is to retain a copy of the Harassment Letter on their electronic records for at least seven years, and the corresponding CRIS for 12 years.
+The issue of the letter is not tantamount to a criminal conviction, like a caution, but it would in theory be disclosable to a potential employer in response to a request for an Enhanced Criminal Record Certificate under section 113B of the Police Act 1997, if the relevant chief officer considered that the allegation was sufficiently relevant. 40.
+Ms Ts complaint was originally directed mainly at the issue of the notice.
+She was outraged, because she regarded it as an accusation which treated Mr Ss allegation as true, when her side of the story had not been heard.
+This was the main point made by her solicitors when, on 3 December 2010, they wrote to the Metropolitan Police in accordance with the pre action protocol for judicial review.
+But they added that they had also advised that the retention of the information was a violation of Ms Ts article 8 rights.
+They called for the withdrawal of the notice and the removal of any reference to it in police records.
+Proceedings were begun on that basis on 23 December 2010.
+Before us, however, Ms T was unsuccessful in her application for permission to cross appeal on the question whether the letter was lawfully issued, and has founded her case only on the retention of the information on police records.
+That point has, however, lost much of its practical substance, since January 2013, when the Metropolitan Police wrote to her solicitors notifying them that, having re examined the materials in the course of preparing for the appeal, they had decided to delete the material in any event.
+The reason was that there have been no ongoing concerns regarding risk and there are no reports of any further incidents.
+It is now retained solely for the purpose of these proceedings.
+As a result both the nature of Ms Ts complaint and its factual basis have significantly changed in the course of these proceedings. 41.
+Against this background, Ms Ts appeal can be dealt with quite shortly. 42.
+The purpose of the Prevention of Harassment letter is plain enough from its terms.
+Under the Act, harassment requires a course of conduct, not just a single incident.
+The Prevention of Harassment Letter is intended to warn the recipient that some conduct on his or her part may, if repeated, constitute an offence.
+It also seeks to prevent the recipient from denying that he or she knew that it might amount to harassment.
+It therefore serves a legitimate policing function of preventing crime and, if a repetition occurs, it may also assist in bringing the accused to justice.
+It is, however, impossible to conceive how, in the circumstances of this case, that purpose could justify the retention of the letter in police records for as long as seven years or of the corresponding CRIS for 12.
+It seems obvious that within a few months the incident on 20 July 2010 would have become too remote to form part of the same course of conduct as any further acts of harassment directed against Mr S It is not suggested that the material has any relevance to the investigation or prevention of possible offences by others. 43.
+It may well be that longer periods, even much longer periods, of retention would have been justified in a more serious case arising under the Protection from Harassment Act 1997: for example in a case of stalking (section 2A) or putting people in fear of violence (sections 4 and 4A).
+These kinds of offence are often characterised by the development of abusive behaviour over a long period of time.
+This is especially true of domestic violence, a difficult and sensitive area in which the protection of persons at risk may require sensitive monitoring over a considerable period.
+However, this is a long way away from that kind of case.
+It arises, if the allegation is true, from a relatively trivial act of rudeness between neighbours who did not get on.
+The real problem is that the period of retention seems to be a standard period which applies regardless of the nature of the incident and regardless of any continuing value that the material may have for policing purposes.
+It was only because of these proceedings that the retention of the material was reviewed and the decision made in January 2013 to delete it.
+This is in my view difficult to reconcile with the Data Protection Principles in the Act.
+Nonetheless, I do not think that Ms Ts article 8 rights have been violated, because although the Metropolitan Polices policy envisages the retention of the material for seven or 12 years, it was in fact retained for only two and a half years before the decision to delete it was made.
+The latter period can be justified by reference to the need to relate the incident of 20 July 2010 to future incidents, bearing in mind that some time may elapse after a repetition before a complaint is made to the police. 44.
+The Court of Appeal considered that the retention of the material for seven or 12 years, or indeed for any period of more than a year or so at the most was disproportionate (para 61).
+They therefore overruled Eady J, who had held, with some hesitation, that the standard periods of seven and 12 years were justifiable.
+It follows from what I have said that I agree that seven or 12 years could not be justified, but I would not wish to lay down a limit of one year, because the circumstances which may give rise to harassment notices are too varied to permit such a generalisation.
+The time which elapsed before the police in fact deleted the material was in my view at the far end of the spectrum.
+But I am not prepared to say that it was too long. 45.
+The main lesson of this case is that a minor incident has been allowed to get out of hand by a heavy handed response on both sides.
+The form of Prevention of Harassment Letter used by the Metropolitan Police is unnecessarily menacing and accusatorial, given that no crime has been committed and that the facts have not always been fully investigated.
+The form used by Dyfed Powys Police is an example of the far clearer and more reasonable documentation used by some other police forces.
+On Ms Ts side, the decision to proceed by way of application for judicial review may have made sense on the footing that the object was to have the original notice quashed, but that permission to pursue that objective was refused by this court.
+What remained was a straightforward dispute about retention which could have been more appropriately resolved by applying to the Information Commissioner.
+As it is, the parties have gone through three levels of judicial decision, at a cost out of all proportion to the questions at stake.
+Much of that cost will have been incurred after Ms Ts object had been achieved as a result of the polices agreement to delete the material in January 2013.
+I would accordingly allow the appeal in Ms Ts case also. 46.
+LADY HALE: 47.
+I too agree that the systematic collection and retention of information about Mr Catt and Ms T constitutes an interference with their right to respect for their private life protected by article 8, even though, in the case of Mr Catt, the information collected related to his activities in public.
+I also agree that, as Lord Sumption has explained, the combination of the requirements of the Data Protection Act 1998, coupled with the Code of Practice issued by the Secretary of State under the Police Act 1996 and the detailed Guidance on the Management of Police Information issued by the Association of Chief Police Officers, provided sufficient protection against arbitrary police behaviour, so that the collection and retention of this information was in accordance with the law for the purpose of article 8(2) of the Convention. 48.
+No one doubts that this information was collected and kept for several of the important purposes permitted by article 8(2): certainly for the prevention of disorder or crime and probably also for the protection of the rights and freedoms of others.
+We do not need any reminding, since the murder of two little girls by a school care taker in Soham and the recommendations of the Report of the Bichard Inquiry which followed (2004, HC 653), of the crucial role which piecing together different items of police intelligence can play in preventing as well as detecting crime. 50.
+However, it has been clear since at least the decision in S v United Kingdom (2008) 48 EHRR 1169 that the police may not be able to retain information indefinitely (indeed in that case even if it could very well be useful, even vital, in the prevention and detection of crime).
+Safeguards are certainly needed against the keeping of personal information for longer than is reasonably necessary.
+Such general guidance as the Strasbourg court was able to give was based on the Council of Europe Convention for the protection of individuals with regard to automatic processing of personal data of 1981 (the Data Protection Convention) and Recommendation R (87) 15 of the Committee of Ministers regulating the use of personal data in the police sector: 103.
+The domestic law should notably ensure that such data are relevant and not excessive in relation to the purposes for which they are stored, and preserved in a form which permits the identification of the data subjects for no longer than is required for the purpose for which those data are stored.
+The domestic law must also afford adequate guarantees that retained personal data was [sic] efficiently protected from misuse and abuse 51.
+Applying those principles to Mr Catt, I can well understand that it would be more objectionable if the police were to retain a nominal record collecting together all the information that they currently hold about him.
+Such dossiers require particular justification, not least because of their potentially chilling effect upon the right to engage in peaceful public protest.
+Mr Catt may be a regular attender at demonstrations, some of which are organised by a group which resorts to extreme tactics, but he himself has not been involved in criminal activity at those or any other demonstrations, nor is he likely to be in the future.
+Had the police kept a nominal record about him, therefore, I would have been inclined to agree with Lord Toulson that it could not be justified. 52.
+However, as I understand it, the nominal record relating to Mr Catt was deleted some time ago.
+All that remained, until recently, were the incidental references to his presence at certain demonstrations in information reports about those demonstrations and nominal records relating to other people.
+The same limited information is kept about other participants in the 53. demonstrations, along with the names of witnesses and victims.
+The police keep such information for three main purposes: to make informed assessments about the risk to public order associated with particular campaigns; to investigate any criminal offences which have been committed; and to study the leadership, organisation, tactics and methods of protest groups which have been persistently associated with violence and their links with other such groups.
+Among other things, this enables the police to concentrate their resources on those campaigns and demonstrations where disorder can be predicted, while enabling the great majority of demonstrations to take place without an over bearing police presence.
+Demonstration based reports containing the names of the people taking part, even those who have not committed any criminal offences in the course of the protest, can assist the police with these important aims.
+They can indeed be said to facilitate rather than impede the right of peaceful protest in a democratic society.
+There is absolutely no reason to believe that this information will be passed on to others to whom it should not be revealed or used to victimise people like Mr Catt.
+I therefore agree with Lord Sumption that retaining this information in this form is not a disproportionate interference with his right to respect for his private life.
+In relation to Ms T, I quite agree that the Prevention of Harassment letter used by the Metropolitan Police was, as Lord Sumption puts it, unnecessarily menacing and accusatorial.
+For whatever reason, the police had been unable to interview her about the allegation, which on any view was of minor importance, and yet the letter (wrongly) gives the impression that the police had accepted the complainants version of events and that it amounted to harassment.
+It is not surprising that Ms T was affronted or that she should try and find some way of obliging the police to withdraw it.
+A complaint to the Information Commissioner might have secured the deletion of the police record of the incident, but it could not have secured the withdrawal of the letter.
+That, no doubt, is why these proceedings were launched. 54.
+However, I agree with Lord Toulson that there are often very good reasons for making and keeping records of incidents such as these.
+It is not just that, if found to have occurred and to have been repeated within a short enough period for the incidents to be connected, it can form part of a course of conduct for the purpose of proving an offence under the Protection from Harassment Act 1997.
+And it must be recalled that many harassment cases are a great deal more serious than this (if this happened at all).
+It is also that, particularly in disputes between neighbours and in cases of domestic ill treatment and abuse, the police response to a new complaint will be affected by knowing whether other complaints have been made in the past against the same person.
+It is well known that, for a variety of reasons, complaints of domestic violence are often not followed through to prosecution and conviction.
+But it is vital for the police, when responding to any new complaint, to know whether there have been similar complaints in the past.
+Domestic violence often escalates in seriousness with each new incident, and the police have to be aware of this when considering how to respond.
+It is not too dramatic to say that lives have been saved as a result. 55.
+For these reasons, I agree with Lord Toulson that the policy of the Metropolitan Police in relation to these records was not unlawful, provided that it was flexible enough to allow for information to be deleted when retaining it would no longer serve any useful policing purpose, as in fact happened here.
+I would therefore allow both appeals, in the case of Mr Catt broadly for the reasons given by Lord Sumption and in the case of Ms T for the reasons given by Lord Toulson.
+The result is that both claims are dismissed. 56.
+LORD MANCE: 57. 58. 59.
+I have come to the conclusion that the appeals should be allowed in the cases of both Mr Catt and Ms T.
+I reach this conclusion in the case of Mr Catt for the reasons which have been set out by Lord Sumption and Lady Hale.
+I reach it in the case of Ms T primarily for the reasons set out by Lord Toulson and Lady Hale.
+However, even if one proceeds on an opposite assumption (namely that the polices policy of retention was originally inflexible and was to retain for a standard period whatever the nature of the incident or the value of the material), I would still conclude that the appeal should be allowed for the reasons set out by Lord Sumption.
+The policy, even if not originally flexible, became so and the material regarding her was in the event only retained for two and a half years, which was not in context disproportionate.
+LORD TOULSON: 60.
+I agree that the systematic collection and retention by the police of data about the two respondents impacts on their rights to respect for their private lives protected by article 8, and that it is in accordance with the law within the meaning of article 8.2, for the reasons given by Lord Sumption.
+The critical issue in each case is that of proportionality.
+Mr Catt 61.
+Mr Catts case is about information relating to him which was stored on a database established by the National Public Order Intelligence Unit (NPOIU), a national policing unit set up under the aegis of the Association of Chief of Police Officers, now run by the Metropolitan Police Service.
+The Commander of the NPOIU, Detective Chief Superintendent Adrian Tudway, explained in a witness statement dated 6 June 2011, that the main function of the NPOIU is to gather, evaluate, analyse, develop and disseminate intelligence in relation to domestic extremism and single issue campaigning where a substantial threat of criminal activities or public disorder arises.
+He said that the NPOIU carries out regular reviews in order to decide what information should be retained.
+In particular, every three years it reviews all photographic images on its database. 62.
+Mr Catts claim was issued on 17 November 2010.
+A review four months earlier had resulted in a decision to delete Mr Catts photograph from the database.
+Mr Tudway explained the reasons: Mr Catt was not known to have organised or been involved in any actions resulting in arrests since the photograph was taken (the date of which is unclear); he had no recorded convictions; and he no longer appeared to be involved in the coordination of Smash EDO events or actions.
+It should be added that there is no evidence before the court that he was ever involved in the coordination of Smash EDO events or actions or ever displayed any propensity for violence.
+However, the NPOIU retained over 60 written database entries relating to Mr Catts presence at demonstrations dating back for over five years.
+Most of them related to demonstrations at the offices of EDO, but 13 related to other demonstrations.
+They included, for example, the recording of his attendance at the TUC Conference in Brighton in September 2006, at a Voices in the Wilderness demonstration at the Labour Party Conference in Bournemouth in September 2007, at a pro Gaza demonstration and march in Brighton in January 2009 and at a demonstration against New Labour organised by a number of trade unions in September 2009. 63.
+Mr Catt is 91 years old.
+Because he has been an attender at protest events for many years he is obviously well known to the police.
+The question is whether it is proportionate for the police to keep details on a database of the mere attendance of an elderly peaceful demonstrator at all these events. 64.
+Mr Tudway said in his statement that the police often collect information and intelligence at events and incidents including local protest events.
+Very often, it is not considered necessary to retain such information because no offences have occurred and the event may be a one off.
+However, where a protest event such as the Smash EDO campaign becomes established, regular and long running, and where on occasion crime and disorder feature, then the need to collect information to make more informed assessments about risks, threats, public safety and the scale and nature of policing operations increases.
+I have no difficulty in accepting all of that in general terms, but there must be limits, particularly in the case of someone who has never been accused of violence or organising violence and who has been assessed not to be a threat. 65.
+Mr Tudway said that it is accepted that many of the people at these events do not commit criminal offences, but it is important for police to seek to identify those who are associated with criminal activity (whether as offenders or as witnesses) for the purpose of investigating any instance of criminality, for the purposes of ensuring that both prosecution and defence are provided with names of potential witnesses in the event of a prosecution, and for intelligence purposes to assist the policing of further events.
+However, that does not explain to my mind why it should be thought necessary to maintain for many years after the event information on someone about whom the police have concluded (as they did in July 2010) that he was not known to have acted violently and did not appear to be involved in the coordination of the relevant events or actions.
+Nor is it explained why it was thought necessary and proportionate to keep details of Mr Catts attendance at other political protest events.
+Mr Tudway said that there can be a cross fertilisation of tactics and strategies from one domestic extremist organisation to another.
+That does not explain why it is thought proportionate to keep, sometimes years after the event, a record of the fact that Mr Catt, who is not suspected of being an organiser or coordinator of Smash EDO, peaceably attended protest events at the Labour Party conference, the TUC conference and so on.
+I agree with the opinion of the judges of the Court of Appeal that the appellant has not shown on the evidence that the value of the information relating to Mr Catt was sufficient to justify its continued retention.
+It was suggested that it would place too great a burden on the police to have to review constantly the information retained on individuals whose names appear in their database to see whether there was sufficient cause to keep the information.
+As the Court of Appeal observed, there was no evidence from the police that this would be over burdensome.
+On the contrary, the thrust of the evidence was that they do carry out regular reviews.
+As I have said, a review was carried out a few months before these proceedings were begun. 67. 66.
+The police obviously had to review their information about Mr Catt in deciding whether to retain his photograph.
+We know what view they formed.
+There is no evidence from the police to suggest, and I see no basis to conclude, that there would have been any real burden in deleting their historic records of his attendances at protest events. 68.
+More significantly, it was submitted on behalf of the appellants that the decision of the Court of Appeal would have a grave impact on the polices ability to combat crime.
+The purpose of the Bichard Review of police recordkeeping was to enhance its effectiveness as a way of preventing and detecting crime.
+There is no doubt that when investigating serious organised crime, including narcotics, gang violence, people trafficking and extortion, and conspiracies aimed at the destruction of lawful businesses by violence, intimidation and threats, it is necessary for the police to be able to collate and keep records of the details of their investigations.
+The records naturally include names of people apparently involved as suspects, witnesses or victims.
+I do not accept that there need be any risk of that being hampered by the court upholding the decision of the Court of Appeal in the case of Mr Catt.
+After all, the police accept that they need to have periodic reviews of the information which they have obtained in order to decide whether there is any real purpose to be gained by keeping it.
+I also accept that the court should be slow to disagree with the evaluation of the potential usefulness of evidence by the police if a clear reason for it has been advanced.
+But on the facts of this case, I cannot see what value they have identified by keeping indefinitely a record of Mr Catts attendances at these various events, where he has done no more than exercise his democratic right of peaceful protest. 69.
+One might question why it really matters, if there is no risk of the police making inappropriate disclosure of the information to others.
+It matters because in modern society the state has very extensive powers of keeping records on its citizens.
+If a citizens activities are lawful, they should be free from the state keeping a record of them unless, and then only for as long as, such a record really needs to be kept in the public interest.
+I would therefore dismiss the appeal in the case of Mr Catt. 70.
+Ms T 71.
+Ms Ts complaint relates to the retention by the police of a copy of a warning notice under the Protection from Harassment Act 1997 sent to her by the police after the friend of a neighbour had complained that she had used a homophobic insult towards him (a claim which she denies), and a corresponding entry about the matter in police records (a CRIS report). 72.
+Ms Ts complaint in her application for judicial review was that the notice had been issued at all.
+She sought a declaration that it had been unlawfully issued and a mandatory order requiring the police to withdraw the notice and to remove information about it from their records.
+The detailed grounds of judicial review made only brief reference to the proportionality of the continued retention of the information. 73.
+Her claim was dismissed by Eady J [2012] EWHC 1115 (Admin), [2012] 1 WLR 2978.
+As Lord Sumption has recorded, it is the standard practice of the appellant to retain a copy of the notice for seven years and the CRIS entry for 12 years.
+Eady J said in his judgment, at para 99, that it seemed surprising to him that such information needed to be retained for such a length of time.
+He observed that if the sole purpose were to lay the ground for establishing a course of conduct under the 1997 Act, only a much shorter period could be justified, but he recognised that a longer period of retention might well be appropriate for other purposes, such as assisting in resolving later allegations.
+He added that it was largely a matter of expert judgment with which the court should be slow to interfere, and that it was better to have a transparent and clearly expressed policy than to have repeated ad hoc applications for judicial review.
+He noted also, at para 102, that it was the appellants case that the seven year period was not fixed rigidly and that he was prepared to entertain requests for earlier deletion. 74.
+By the time that the case reached the Court of Appeal, two and a half years after the event, the entries relating to Ms T had been expunged from the police records on the grounds that there have been no ongoing concerns regarding risk and there are no reports of any further incidents.
+Rather than regarding that fact as supporting what had been said by the police to Eady J about the policy not being inflexible, the Court of Appeal regarded this as making it only too clear that the continued retention of the information would have been unnecessary, disproportionate and unjustifiable (para 61).
+That seems to me, with respect, to be an example of hindsight.
+I doubt whether the courts reaction would have been the same if in the meantime the police had received similar complaints either from the original complainant or from somebody else. 75.
+The Court of Appeal allowed Ms Ts appeal and made a declaration in the following terms: The respondents decision to retain the Warning Notice on file for a minimum period of seven years, and to retain details of the underlying allegation for a minimum of 12 years, was unlawful and in breach of the appellants right to respect for her private life, contrary to section 6 of, and article 8 of Schedule 1 to, the Human Rights Act 1998. 76.
+In my view the Court of Appeal erred in granting that declaration.
+By the time Ms Ts claim came before Eady J the police had made it clear that their policy was not inflexible, as later events have confirmed.
+I am not persuaded that the policy, with that flexibility, was unlawful.
+The Protection from Harassment Act covers a wide spectrum of offensive behaviour which may occur in a variety of circumstances.
+It has been useful particularly, but not exclusively, in the context of domestic abuse and problems between neighbours.
+The response of the police to complaints about abusive conduct may well be affected by knowing whether similar earlier complaints have been made against the same person, either by the same or by other complainants.
+In those circumstances I do not consider it to be unlawful for the police to adopt a standard practice of retaining a record of such complaints for several years, but with a readiness to be flexible in the application of the practice. 77.
+For those reasons I agree that the appeal in the case of Ms T should be allowed. 49.
+The real issue in this case is whether keeping the information about these two people is necessary in a democratic society in the sense in which that phrase is now understood: is the means used, and the interference with privacy which it involves, a proportionate way of achieving those legitimate aims? In particular, is it proportionate to keep the information which the police have collected about Mr Catt and Ms T, in the form in which it was kept, and for the length of time for which it was kept? These are not easy judgments to make.
+If society can trust the police to behave properly, and not therefore to misuse the information which they have, there is much to be said for allowing the police to keep any information which they reasonably believe may be useful in preventing or detecting crime in the future.
+Safeguards are needed against the misuse of the information they have rather than against simply having it.
