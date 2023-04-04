@@ -1,0 +1,795 @@
+The liability of employers for deaths caused by mesothelioma has pre occupied courts and legislators over recent years.
+The present appeals concern claims to pass the burden of this liability on to insurers, made either by employers or in the case of insolvent employers by the personal representatives of former employees using the mechanism of the Third Party (Rights against Insurers) Act 1930.
+The appeals concern employers liability insurance.
+This is in contrast with Bolton MBC v Municipal Mutual Insurance Ltd [2006] EWCA Civ 50, [2006] 1 WLR 1492 where public liability insurance was in issue.
+Employers liability focuses necessarily upon the relevant employment relationships and activities.
+Public liability relates to any of the insureds relationships and to activities affecting the world at large.
+Another feature of employers liability is that, under the Employers Liability (Compulsory Insurance) Act 1969 (the ELCIA), it has since 1 January 1972 been compulsory for every employer other than local authorities carrying on any business in Great Britain to insure, and maintain insurance, under one or more approved policies with an authorised insurer or insurers against liability for bodily injury or disease sustained by his employees, and arising out of and in the course of their employment in Great Britain in that business, but except in so far as regulations otherwise provide not including injury or disease suffered or contracted outside Great
+Britain
+The appeals arise because the relevant insurers maintain that the employers liability insurances which they issued respond (or, better, could only have responded) to mesothelioma which developed (or, possibly, manifested itself) as a disease during the relevant insurance periods all long past.
+In contrast, the relevant employers and personal representatives maintain that the insurances respond to mesothelioma which develops and manifests itself later; all that is required, they say, is exposure of the victim during the insurance period to asbestos in circumstances where the law attributes responsibility for the mesothelioma to such exposure.
+These alternative bases of response (or triggers of liability) have been loosely described as an occurrence (or manifestation) basis and an exposure (or causation) basis.
+It is in issue whether the ELCIA, after it came into force, mandated any particular basis of response.
+A secondary issue, arising if the insurances only respond on an occurrence basis, is whether the aetiology of mesothelioma justifies a conclusion that there was during the relevant insurance period an occurrence sufficient to trigger liability under the insurances.
+Burton J, [2008] EWHC 2692 (QB), concluded that the relevant insurances all responded on an exposure basis.
+The Court of Appeal, [2010] EWCA Civ 1096, by a majority (Rix and Stanley Burnton LJJ), upheld the judge in relation to some of the insurances (particularly those covering disease contracted during the relevant insurance period); but they concluded that others (particularly those covering disease sustained during the insurance period) responded only on an occurrence or manifestation basis.
+Smith LJ would have upheld the judges judgment in its entirety.
+The full judgments in both courts repay study.
+They have been of great assistance to this court and make it possible to go directly to the heart of the issues.
+Mesothelioma is a hideous disease that is inevitably fatal.
+In most cases, indeed possibly in all cases, it is caused by the inhalation of asbestos fibres: Sienkiewicz v Greif (UK) Ltd [2011] UKSC 10, [2011] 2 AC 229, para 1, per Lord Phillips.
+It is a cancer of the pleura, which are thin linings around the lungs and on the inside of the rib cage.
+It is usually undetectable until shortly before death.
+Its unusual features include what Burton J in this case at para 30 described as the unknowability and indescribability of its precise pathogenesis.
+In particular, it is impossible to know whether any particular inhalation of asbestos (at least any occurring more than ten or so years prior to diagnosability) played any or no part in such development.
+Because of this unusual feature, the law has developed a special rule.
+The special rule was the product of judicial innovation in Fairchild v Glenhaven Funeral Services Ltd [2002] UKHL 22; [2003] 1 AC 32 and in Barker v Corus UK Ltd [2006] UKHL 20; [2006] 2 AC 572.
+It was modified by statutory intervention in the form of the Compensation Act 2006, section 3.
+Leaving aside exposures occurring within the ten or so years prior to diagnosability, the rule can now be stated as being that when a victim contracts mesothelioma each person who has, in breach of duty, been responsible for exposing the victim to a significant quantity of asbestos dust and thus creating a "material increase in risk" of the victim contracting the disease will be held to be jointly and severally liable in respect of the disease.
+Burton Js findings in the present case justify certain further propositions, mostly also corresponding with the summary in Lord Phillips judgment in Sienkiewicz (para 19): (i) A significant proportion of those who contract mesothelioma have no record of occupational exposure to asbestos.
+The likelihood is that (vi) in their case the disease results from inhalation of asbestos dust that is in the environment.
+There is, however, a possibility that some cases of mesothelioma are "idiopathic", i.e. attributable to an unknown cause other than asbestos. (ii) The more fibres that are inhaled, the greater the risk of contracting mesothelioma. (iii) There is usually a very long period between the exposure to asbestos and the development of the first malignant cell.
+Typically this can be at least 30 years. (iv) For a lengthy period (perhaps another five years) after the development of the first malignant cell, there remains a possibility of dormancy and reversal, but at a point (Burton J thought a further five years or so before the disease manifested itself, and was thus diagnosable) a process of angiogenesis will occur.
+This involves the development by malignant cells of their own independent blood supply, so assuring their continuing growth. (v) The mechanism by which asbestos fibres cause mesothelioma is still not fully understood.
+It is believed that a cell has to go through 6 or 7 genetic mutations before it becomes malignant, and asbestos fibres may have causative effect on each of these.
+It is also possible that asbestos fibres have a causative effect by inhibiting the activity of natural killer cells that would otherwise destroy a mutating cell before it reaches the stage of becoming malignant.
+Mesothelioma currently claims about 3000 lives a year in the United Kingdom.
+This speaks to the common use of asbestos materials up to the 1960s and 1970s.
+In Annex I to his judgment Rix LJ set out the insuring clauses of the various forms of policy wording in use from time to time.
+Subject to re ordering to reflect the development of the language, Annex A to this judgment includes the same and some further wording.
+It can be seen that the Excess policies and the first two MMI policies promise to indemnify the insured employer against liability if at any time during the period of insurance (or of any renewal) any employee shall sustain under the earlier policies personal injury by accident or disease or under the later policies [any] bodily injury or disease in the case of the first Excess policy while engaged in the service of the Employer or in other cases arising out of and in the course of [his] employment by the insured employer.
+In the case of the Independent policy, the insurer, under the recital, promised to indemnify the employer during the period of insurance or of any renewal.
+The insuring clause itself contains no express limitation to any period.
+It promises indemnity against all sums for which the employer shall be liable for damages for such injury or disease if any employee shall sustain bodily injury or disease arising out of and in the course of his employment by the Insured in connection with the Contract specified or type of work described in the Schedule.
+The third MMI policy and the BAI policies were in more developed form.
+The former promises indemnity in respect of legal liability for sums payable as compensation for bodily injury or disease (including death resulting from such bodily injury or disease) suffered by any employee when such injury or disease arises out of and in the course of employment by the Insured and is sustained or contracted during the currency of this Policy.
+The latter promised indemnity against all sums which the Insured may become liable to pay to any Employee . in respect of any claim for injury sustained or disease contracted by such Employee during the period of insurance or any renewal.
+The insurers party to the present appeals have at all times represented only a small part of the employers liability insurance market.
+By far the larger part of the market consists of companies who until the late 1960s (when competition rules intervened) operated a tariff system which bound them to adopt a specified policy form and specified rates.
+Until 1948 tariff insurance was focused on Workmens Compensation Act claims, but in 1948 legislative changes (in particular the abolition by the Law Reform (Personal Injuries) Act 1948 of the doctrine of common employment) made a common law claim for future accruing causes of action much more attractive.
+It may well have been in anticipation of these changes that the tariff companies introduced a new form of policy in May 1948, still in widespread use today, providing indemnity if any employee shall sustain any personal injury by accident or disease caused during the period of insurance.
+Under this tariff wording, sustain looks to the occurrence of an accident or development of a disease at any time, while caused makes clear that the trigger to cover is that the accident or disease has been caused during the insurance period.
+The present insurers were non tariff companies, and have always been free to set their own wordings.
+From dates after the insurances the subject of this appeal, three of the insurers in fact ceased to use the wordings set out in Annex A, and themselves moved expressly to causation based wordings Excess in about 1976, Independent in the mid 1980s, and BAI in 1983.
+As a matter of insurance practice, however, until the decision in Bolton in 2006, all these wordings, whether tariff or non tariff and whether using the language caused, sustain or sustained or contracted, paid out on long tail claims (including the mesothelioma claims which became increasingly frequent in the 1980s) by reference to the date(s) of exposure.
+Where successive employers with different insurers had exposed a particular employee victim to asbestos, liability was in practice apportioned between the employers, and so insurers, broadly according to the extent of exposure for which each employer was responsible.
+The rival cases
+Insurers submit that all the wordings in Annex A require the injury or disease to occur during the period of insurance or of any renewal.
+In the alternative, if the use of the word contracted in the third MMI policy and the BAI policies or the different formulation of the Independent policy leads to any different conclusion in any of such cases, they submit that this leaves unaffected the clear meaning of the Excess and first two MMI policy wordings.
+The employers and interested employees contend that all these policies are to be understood as operating on an exposure or causation basis.
+The implications of these alternative interpretations are clear.
+On insurers primary contention, the policies set out in Annex A would not respond to current mesothelioma claims.
+It is unlikely that most of them would have responded to many, if any, mesothelioma claims, since it was only in the 1980s that such claims began to emerge to any great extent.
+Policies written on a causation basis since the dates indicated in paragraph 10 above would also not respond to current mesothelioma claims.
+Insurers response is that any insurance must be read according to its terms.
+Until 1 January 1972, when the ELCIA came into force, it was not obligatory for employers to have any form of employers liability insurance.
+Further, viewed on an occurrence or manifestation basis, the policies would pick up long tail claims arising from exposure occurring at any time in the past.
+In this connection, it is to be noted that various long tail diseases were well recognised perils from the era of Workmens Compensation legislation before 1948.
+Instances were scrotal cancer, pneumoconiosis and more specifically (from the time of Merewether and Prices 1930 Report on Effects of Asbestos Dust on the Lungs and Dust Suppression in the Asbestos Industry) asbestosis.
+All these would only develop over and could manifest themselves after considerable periods of years.
+Following upon the 1930 report, The Asbestos Industry Regulations 1931 (SI 1931/1140) were introduced to regulate factories handling and processing raw fibre, and in 1969 The Asbestos Regulations 1969 (SI 1969/690) extended this regulation more widely it appears in the light of an appreciation that mesothelioma could result from exposure to small quantities of asbestos dust (see In re T & N Ltd (No 3) [2006] EWHC 1447 (Ch), [2007] 1 All ER 851, para 118).
+The Court of Appeals conclusions
+The force of insurers case rests in the use of the word sustain, whether in connection with the phrase personal injury by accident or disease or bodily injury or disease or in the conjunction injury or disease . sustained or contracted or injury sustained or disease contracted.
+Rix and Stanley Burnton LJJ concluded that the word sustain looked prima facie at the experience of the suffering employee rather than its cause (paras 232 and 343).
+Insurances responding to injury or disease sustained during the insurance period would not, on this basis, cover mesothelioma sustained long afterwards.
+Rix LJ had some compunction about the result because of what he (though not Stanley Burnton LJ) felt was a tension with the commercial purpose of employers liability insurance in the extraordinary context of mesothelioma (para 235).
+Rix LJ would have liked to hold that mesothelioma sufferers sustained sufficient injury on exposure to asbestos to trigger the insurances in force at the date of such exposure, but felt bound by Bolton to conclude the contrary (paras 277 289).
+However, Rix LJ, though not Stanley Burnton LJ, considered that the particular wording of the Independent insurances did not explicitly require the injury or disease to be sustained during the insurance period, and could be read as covering the sustaining of injury at any time arising out of and in the course of employment during the insurance period (paras 300 and 350).
+Rix and Stanley Burnton LJJ differed as to the significance of the ELCIA extension provisions included in the Independent wording, the third MMI wording and the second BAI wording, as quoted in Annex A. Rix LJ thought that the ELCIA required employers to insure on a causation basis (paras 184 and 186) although, since he also expressed the view that an insurance arranged and maintained on a sustained basis could comply with the ELCIA, he may perhaps only have meant required in practice.
+At all events, he held that the ELCIA extension provisions covered liability incurred to the personal representatives of employees on a causation basis, while enabling insurers to recoup themselves so far as possible from the relevant employers in respect of liability they would not otherwise have had to meet (paras 292, 300 and 302).
+Stanley Burnton LJ did not agree that the ELCIA required causation wording (para 342), but considered that it required insurance to be taken out and maintained in respect of ex employees, or at least those who were or had been employed at any time after the coming into force of ELCIA (para 342; and see Rix LJs comments at paras 305 307).
+Rix, Smith and Stanley Burnton LJJ were all agreed that, where provision was made for disease contracted, this could and should be construed as introducing cover on a causation basis, even if or though wording such as injury (or disease) sustained could only respond on an occurrence basis.
+Analysis
+Annex A sets out the insuring clauses.
+Insurers case is, as I have said, rooted most strongly in the word sustain, particularly when it is used by itself, rather than in conjunction with a more ambivalent alternative in the phrase sustained or contracted.
+The natural meaning of the word sustain, taken in isolation and as defined in the Shorter Oxford English Dictionary from an appropriate date (1965, 3rd ed), is, with respect to injury, undergo, experience, have to submit to, or, possibly, to have inflicted upon one, suffer the infliction of.
+But the insurance cover granted (and no doubt required) extended expressly beyond injury by accident to embrace disease.
+This was achieved by less natural conjunctions, such as sustain [any] personal injury by accident or disease or sustain [any] bodily injury or disease.
+Conscious perhaps that the verb sustain does not fit naturally with the concept of disease, some companies (MMI in its third wording and BAI in its first and second wordings) introduced the different verb contracted in the formulations sustained or contracted or injury sustained or disease contracted.
+This use of contracted with respect to disease is considerably more natural, but is clearly open to an interpretation that it looks back to the initiating or causative factor of the disease, and (whatever the answer on that point) highlights a question whether any substantial difference exists in this connection between such wordings and other wordings referring more awkwardly to the sustaining of personal injury by disease or the sustaining simply of disease.
+To resolve these questions it is necessary to avoid over concentration on the meaning of single words or phrases viewed in isolation, and to look at the insurance contracts more broadly.
+As Lord Mustill observed in Charter Reinsurance Co Ltd v Fagan [1977] AC 313, 384, all such words must be set in the landscape of the instrument as a whole and, at p 381, any instinctive response to their meaning must be verified by studying the other terms of the contract, placed in the context of the factual and commercial background of the transaction.
+The present case has given rise to considerable argument about what constitutes and is admissible as part of the commercial background to the insurances, which may shape their meaning.
+But in my opinion, considerable insight into the scope, purpose and proper interpretation of each of these insurances is to be gained from a study of its language, read in its entirety.
+So, for the moment, I concentrate on the assistance to be gained in that connection.
+A first point, made very clearly below by Rix LJ (para 263), is that the wordings on their face require the course of employment to be contemporaneous with the sustaining of injury.
+This leaves open what is meant either by sustaining or by injury.
+Rix LJ thought that the Independent wording could be understood differently in effect, as if it had expressly read: If any person who is under a contract of service or apprenticeship with the Insured shall at any time sustain bodily injury or disease arising out of and in the course of his employment by the Insured during the policy period in connection with the Contract specified or type of work described in the Schedule .
+That interpretation assumes that sustain in this context equates with the occurrence, rather than causation, of the injury or disease, and only arises for consideration if that assumption is correct.
+A second point is that the insurance wordings demonstrate a close link between the actual employment undertaken during each insurance period and the premium agreed to be payable for the risks undertaken by insurers in respect of that period.
+Premium is linked expressly to actual wages, salaries and earnings during the insurance period under the Excess policies, the first MMI wording and the BAI policies.
+The second and third MMI wordings contemplate that premium may be linked to wages, salaries and earnings, and, to the extent that any inference regarding the general nature and scope of cover under these standard wordings can be drawn from such a link, it must be capable of being drawn whether or not premium was actually so linked in any particular case.
+As to the Contractors Combined Policy issued by the Independent, it is a probable inference that the estimates which were provided and were to be updated will have included, in respect of the employers liability cover in section 1, wages, salaries and other earnings paid.
+Finally, the Independent cover is linked to the actual contract or work which the employer is undertaking during the insurance period.
+These links are in my view significant.
+True, premium may sometimes be calculated on a rough and ready basis.
+Minor discrepancies between the premium calculation and the risk may be understandable: see e.g. Ellerbeck Collieries, Ld v Cornhill Insurance Co [1932] 1 KB 401, 418, per Greer LJ (who pointed out that any such discrepancy there was more apparent than real, since workmen not earning wages because off work would not actually be at risk of any fresh accident, even though they would remain susceptible to certification for disablement).
+Here the position is quite different.
+Great care is taken in all the policies to tie premium to the actual employment undertaken during the insurance period, and in the case of the Excess, Independent and MMI policies to tie cover to a business, contract or activities described in the schedule.
+The natural expectation is that premium is measured by reference to actual employment or work during the insurance period because it is the risks attaching to such employment or work which are being undertaken by insurers.
+At the very least, the drawing of this link makes improbable the contention advanced by some of the insurers that the present insurances were apt to pick up liabilities emerging during the insurance period which could be attributable to employment and activities undertaken and negligent conduct committed at times long past.
+The number of employees, their employment activities and the risks involved at those times could be very different.
+The significance which attaches to the employment current during the insurance period is underlined by legal and practitioner texts.
+As long ago as 1912, MacGillivray on Insurance (1st ed), pp 966 wrote: The nature and scope of the employers business must be clearly defined in the insurance policy, and workmen employed outside the scope of the assureds business as described in the policy will not be covered In the section on Employers Liability Insurance in Stone & Coxs Accident, Fire and Marine Year Book (1957), pp 688 689, the authors stressed the importance of identifying any special hazards, such as signs of careless management or lack of control or careless workmen, and observed: The surveying of Employers Liability risks has probably become more general than formerly.
+Apart from the question of the possibilities of accident, there is now the serious question of disability due to disease and in particular the disease known as pneumoconiosis.
+In 1974 MMI produced a Guide to Insurance Officers in Local Government, which it said that it would like to see on the desk of every insurance officer for ready reference at any time; this, after noting that employers liability was almost invariably dealt with by a separate policy and that its importance had been increased by the ELCIA, went on: "7.
+Premiums are usually based on wages and salaries this is not only a convenient yardstick but is logical since loss of earnings usually represents a substantial part of claims.
+Rates of premiums vary according to the nature of the work of the labour force, and the claims experience. 8.
+A feature of employers liability claims is the length of time which often elapses between the date of the accident and the final settlement, and the cost of servicing claims tends to be high.
+Injury caused at work during the period of insurance even though it may not be diagnosed till years afterwards can be a liability under the policy." I note in parenthesis that 1974 was the year in which MMI changed from a pure sustain form of wording to a form covering bodily injury or disease suffered, when sustained or contracted during the currency of the policy.
+Yet there is no suggestion in the Guide of any change in substance.
+It is in this light improbable that the present insurances can or should be read as offering cover in respect of ancient, as opposed to current, employment and activities.
+But there is a third point.
+If insurances in the present form only address risks arising from employment during the insurance period, then, on insurers case, there is a potential gap in cover as regards employers breaches of duty towards employees in one period which only lead to injury or disease in another later period.
+If the employment relationship spans both insurance periods and the employer remains insured with the same insurers in both periods, there may be no problem.
+The employee is employed at all relevant times and the insurance may be viewed as a single continuing contract.
+The policy wordings set out in Annex A, with their references to insurance during the period of insurance or during any subsequent renewal period, would support the latter view.
+But, even in the days of more stable long term employment and insurance relationships, employees could and would move employment or retire, or employers would cease business, or change insurers.
+On the basis that the insurances only cover risks arising from employment during the insurance period, there would be no cover unless the liability arose from and in the course of and involved injury or disease during the currency of the same employment and the same insurance (including any renewal).
+Fourthly, on insurers case, employers would as a result be vulnerable to any decision by insurers not to renew; and such a decision might arise from the simple performance by employers of their common law duty to disclose past negligence to insurers upon any renewal.
+Employers who discovered or came to appreciate that they had been negligent in the course of past activities in respects that had not yet led to any manifest disease (e.g. by exposing their employees to asbestos) would have such a duty.
+Insurers could then, on their own case, simply refuse any renewal or further cover.
+Employers could then have to disclose that refusal also to any further insurers to whom they made a proposal for cover.
+One response made by insurers to such problems is that they would not arise in the large bulk of cases.
+That is no doubt true.
+Most employers liability cases involve short tail claims: typically, an accident involving injury.
+It is not surprising if the language of the insurances fits more easily with situations in which cause and effect coincide in time.
+But, by the same token, this does not mean that the underlying risk being assumed was in either partys mind limited to circumstances in which a cause gave rise to an effect during one and the same insurance period.
+Rix LJ, in accepting that cover depended upon injury being sustained in the sense of experienced during the insurance period, was influenced by the thought that this was not an absurd or meaningless interpretation.
+The insurance could operate entirely successfully in some 99% of cases (para 235).
+In the light of this Courts recent decision in Rainy Sky SA v Kookmin Bank [2011] UKSC 50, [2011] 1 WLR 2900, para 30, this, in my view, gives too little weight to the implications of the rival interpretations and to the principle that where a term of a contract is open to more than one interpretation, it is generally appropriate to adopt the interpretation which is most consistent with business common sense.
+The 1% of cases in which there might be no cover could not be regarded as insignificant.
+Well before 1948, there was general awareness of the existence of long tail diseases which would only develop and manifest themselves after considerable periods of years (see para 12 above; and see also Cartledge v E Jopling & Sons Ltd [1963] AC 758).
+The connection between asbestos exposure and mesothelioma became generally known in the mid 1960s, following the publication in 1965 of Newhouse and Thompsons report on Mesothelioma of pleura and peritoneum following exposure to asbestos in the London area and a Sunday Times article.
+Yet on insurers case, the present insurances would not cover any situation where, after the termination of employment or the expiry of an insurance, injury or disease developed from an employers breach of duty to a relevant employee during an insurance period.
+A fifth point concerns the way in which the policies deal with the issue of extra territorial scope.
+The first Excess wording stands apart from the others in its treatment of that issue.
+Cover only exists in respect of any employee in the employers service who shall sustain any personal injury by accident or disease while engaged in the service of the employer in Great Britain, Northern Ireland, the Isle of Man or Channel Islands, in work forming part of the process in the employers business.
+As soon as one postulates a delay in time between the causation and experiencing of a disease, it becomes apparent that this wording could operate to very curious effect if sustain looks to the latter rather than the former.
+A disease (e.g. a cancer) experienced during employment could be covered although caused by pre employment exposure, while a disease caused by employment would not be covered if only experienced while working abroad.
+The natural inference to draw from the references to being engaged in the employers service and in work forming part of the employers business process is that it was envisaged that the accident or disease would and should arise out of such service and work, rather than merely occur during it.
+That points to an underlying focus on causation, even if the assumption was that in the majority of cases causation and experiencing of any injury by accident or disease would coincide.
+As to the other policies, at the very least, the way they deal with territorial issues throws doubt on any proposition that their wordings are so carefully or well chosen that a court should be careful to stick literally to whatever might be perceived as their natural meaning.
+They address territorial scope by specific exclusions, but the cover and the exclusions use different language.
+Thus, although the second and third Excess wordings cover liability to employees who sustain personal injury by accident or disease, the territorial exclusion is in respect only of accidents occurring outside Great Britain, etc, leaving it unclear how disease, whether caused or developing outside Great Britain, should be dealt with.
+The Independent wording also covers liability to employees who sustain bodily injury or disease, while the territorial exclusion is for injury, illness, loss or damage caused elsewhere than in Great Britain, etc.
+While the contrast in language is capable of lending some support to a view that sustain looks to experiencing, rather than to causation, an alternative possibility is that the two words were understood as having the same effect and that the cover was understood as focused on causation.
+The language of this exclusion thus cuts both ways, as Rix LJ recognised (para 297).
+A similar position applies to the contrast between injury or disease sustained and injury or disease caused outside Great Britain, etc. under the first two MMI wordings.
+Under the third wording, the language of the cover and the exclusion have been deliberately matched.
+Under the BAI wordings, however, there is an incongruity between cover for injury sustained or disease contracted and the exclusion in respect of liability for accidents . arising outside the United Kingdom.
+Again, this leaves the position in respect of disease unclear, and the difference between injury sustained and accidents arising can be read either as deliberate or as suggesting that no significance was attached to the difference or that the real concern was with causation.
+The history and Workmens Compensation Acts
+Much attention was, both below and before the Supreme Court, paid to the development of employees rights to compensation in respect of personal injury and disease, at common law and under the scheme of the Workmens Compensation Acts (WCAs).
+The WCAs were in force from 1897 until replaced in 1948 under the National Insurance (Industrial Injuries) Act 1946.
+The history and a number of the decisions under the WCAs were examined by Rix LJ in paras 126 to 165 of his judgment.
+He concluded that such an examination yields in the present context not a lot.
+To a considerable extent, I agree and I shall not repeat the whole exercise, but identify some potentially relevant aspects.
+Etymologically, some of the language presently in issue can be traced back to statutory language found in the Employers Liability Act 1880 and the WCA 1897.
+The 1880 Act modified the common law doctrine of common employment, by entitling employees to recover common law compensation for injury caused by specified matters for which employers were responsible, provided that they gave notice, within six weeks of sustaining the injury of its cause and the date at which it was sustained.
+The 1897 Act, applying to personal injury by accident arising out of and in the course of employment, also required notice to be given of the accident as soon as it occurred, stating the cause of the injury and the date at which it was sustained.
+These Acts therefore distinguished the causation and the sustaining of an injury, but not in any presently relevant context.
+Further, any reference to sustaining disappeared from the Workmens Compensation scheme in the 1906 Act, which amended the scheme to require a notice stating the cause of the injury and the date at which the accident happened.
+The 1906 WCA also expressly extended the scheme to cover certain diseases specified in section 8.
+In that context, it provided that, where a workman was certified as disabled or suspended from employment or died due to a disease and the disease is due to the nature of any employment in which the workman was employed at any time within the twelve months previous the date of the disablement or suspension, whether under one or more employers, then he or his dependants shall be entitled to compensation under this Act as if the disease or such suspension . were a personal injury by accident arising out of and in the course of that employment .
+Section 8(a) provided: The disablement or suspension shall be treated as the happening of the accident.
+Under section 8(c), the compensation was recoverable from the employer last employing the employee within the previous twelve months, providing the employee furnished that employer with particulars of all his other employers in the employment to the nature of which the disease was due.
+It was not necessary to prove that the disease actually arose from the last employment, merely to prove that the relevant employment gave rise to a risk of such a disease: Blatchford v Staddon and Founds [1927] AC 461.
+The 1906 Act may be regarded in this respect as involving an early statutory instance of the kind of liability recognised in Fairchild v Glenhaven Funeral Services Ltd [2002] UKHL 22, [2003] 1 AC 32 and Barker v Corus UK Ltd [2006] UKHL 20, [2006] 2 AC 572.
+However, failing such particulars, the last employer could excuse himself upon proving that the disease was not contracted whilst the workman was in his employment (section 8(c)(i)).
+The last employer might also join any other employer (within the last twelve months) and it was provided that upon proof that the disease was in fact contracted whilst the workman was in the employment of that other employer, that other employer shall be the employer from whom the compensation is to be recoverable (section 8(c)(ii)).
+Finally, section 8(c)(iii) provided that: if the disease is of such a nature as to be contracted by a gradual process, any other employer within the last twelve months was liable to make such contributions as might be agreed or determined by arbitration under the Act.
+Under this scheme, therefore, compensation for disease was initially based upon the nature of the employment and its potential for causing, rather than upon proof that it caused, such a disease.
+The paternal benevolence of the Legislature (as Visc Sumner put it in Blatchford: p 469) is well known, and if the price of that benevolence is paid by the last employer, who thus has to bear others burdens, that is nothing new in this kind of legislation.
+However, the last relevant employer could seek, in specified circumstances, to avoid or to pass on to another employer responsibility by proof that the disease was not actually contracted in his employment.
+Alternatively, in the case of a disease of such a nature as to be contracted by a gradual process, all relevant employers within the last twelve months would be liable to contribute.
+The scheme was, as I see it, concerned with either the risk of or actual causation, and in its use of the word contracted it appears to me to have been directing attention to the causation, rather than the mere experiencing or manifestation, of disease.
+The WCA scheme was the subject of further amendment by the 1925 Act.
+Section 43 superseded section 8 of the 1906 Act as regards scheduled diseases, while section 47 made specific provision for the introduction of a parallel scheme covering silicosis.
+Effect was given to this by inter alia the Metal Grinding Industries (Silicosis) Scheme which came into force in July 1927, making provision for obtaining compensation from the last employer within the previous three years, and giving such employer rights to look to other such employers within the last five years.
+An insurance covering employers liability in this connection was considered in Smith & Son v Eagle Star (1933) 47 Ll.
+L.R. 88, (1934) 48 Ll.
+L.R. 67.
+Mr Hill had been employed in processes giving rise to silicosis for some 20 years.
+For the last two of these years, from 31 March 1928 to 16 June 1930, he worked for Smith & Son.
+From 30 June 1927 to 17 June 1930, Smith & Son had an insurance against WCA liability in respect of any personal injury or disease which at any time during the continuance of this policy shall be sustained or contracted by any workmen .
+The policy was expressly extended to cover any liability in connection with any claim made by employees in respect of silicosis, and the decision of the Court of Appeal rested on this ground.
+But Scrutton LJ also examined the main policy language, and in particular what was meant by contracted.
+He noted that there has been a good deal of discussion in the Courts about a disease which is gradually contracted commencing at some stage and through the process going on increasing the disease until at last it results in total disablement (p 70), and concluded that the word was not to be read as first contracted, but in the sense of influenced or increased until it ultimately comes to total disablement.
+This, although not directly focusing on the first development of a disease from some earlier cause, suggests a flexible view of the word contracted, directed once again to the employments responsible for causing the disease.
+Confirmation that this was Scrutton LJs view can be found in the earlier case of Ellerbeck Collieries Ltd v Cornhill Insurance Co [1932] 1 KB 401.
+Two workmen who had been in the colliery companys service for many years were on respectively 11 and 12 March 1929 (dates they were actually off work) certified as suffering from miners nystagmus.
+The Cornhill had on 8 March 1929 issued the colliery company with a three month provisional cover note insuring in terms matching the wording of the insuring clause in the first Excess wording (i.e. against liability in respect of any employee who shall sustain any personal injury by accident or disease while engaged in the service of the employer).
+Failing a satisfactory survey, the cover note actually expired on 18 March 1929.
+The first point decided was whether the employees had sustained personal injury by accident or disease during the period of validity of the cover note (8 to 18 March 1929).
+It was held that they did.
+The judgments in the Court of Appeal are of interest for a number of reasons.
+First, both Scrutton LJ (p 408) and Greer LJ (p 417) approached the question of construction on the basis that the policy was intended to protect the employers against their liability to their workmen under the WCAs.
+Scrutton LJ added that it seems to me that the policy was intended to cover the liability of the employers for the results of industrial diseases caused by the employment (p 409).
+His description of the policy, covering in terms any employee sustaining personal injury by accident or disease in service, as intended to cover liability . for the results of diseases caused by the employment fits precisely with the analysis which I consider correct (paragraphs 18 28 above).
+Second, Scrutton LJ went on to refer to the difficulties in saying when an industrial disease, such as miners nystagmus or lead poisoning, begins, and in these circumstances the difficulty for an employee to pick the proper employer to sue.
+He described the way in which Parliament, by what became section 43 of the WCA 1925, had addressed such difficulties by providing a conventional and artificial means for enabling the workman to get compensation, leaving the various employers to fight out their proportion of the liability between themselves (p 409).
+He said that the last employer, liable under the WCA scheme, then claims on the insurance company on the ground that he is liable to make compensation for an injury by disease, and the date of the injury or disablement is by statute and certificate fixed as happening between the dates for which he is provisionally covered (p 411).
+On this basis, and in the light of the House of Lords decision in Blatchford, Scrutton LJ concluded that he was bound to hold that an accident has happened within the period of the provisional cover against the consequences of which the insurance company is bound to indemnify the employer (p 413).
+In short, the conventional and artificial provisions of the WCA defined what constituted an accident and when personal injury by accident or disease was sustained for the purposes of the insurance.
+Greer LJ, more shortly, adopted the same approach (p 418).
+Only Slesser LJ (p 421) expressed a reservation about the possibility that the artificial deeming provisions of section 43(a) of the WCA 1925 might only apply as between employee and employer, and that it might have been necessary to consider separately the date of the sustaining of injury as between the employer and the insurer, had there been any admissible evidence that the two employees had actually contracted the scheduled disease before the granting of the statutory medical certificate.
+Commercial purpose and practice
+Much general evidence was directed or elicited before Burton J in relation to the commercial purpose of the present insurances, and to practice relating to their operation in the years before the present issue arose.
+It was argued that there was, prior to the decision in Bolton, a universal usage of the insurance industry to pay out mesothelioma or similar claims under [employers liability] policies by reference to the date of inhalation/exposure whatever the wording, or an estoppel by convention to like effect.
+Burton J rejected the argument (paras 180 to 201, esp. para 201), for the reasons that, first, there was no evidence relating to years earlier than the 1980s which could be put down to any kind of arguable usage, second, any usage was not certain, not least because of the multiplicity of approaches to or bases for it and, third, it was not binding.
+It was not incorporated into the insurance contracts.
+No issue of estoppel by convention was pursued to the Court of Appeal (Rix LJ, para 24, and Stanley Burnton LJ, paras 332 and 335) and the issue of a universal custom was only pursued by Zurich Insurance Company (Rix LJ, para 24).
+By a multiplicity of approaches to or bases for insurers practice, Burton J was referring to evidence that insurers followed the practice they did in some cases because they believed that their contracts were to be interpreted on a causation/exposure basis, in others because they believed that the aetiology of diseases such as mesothelioma was such that injury was in fact sustained (in the sense of experienced) at the date of inhalation, while yet others may have failed to realise that their historically relevant wordings had been on a different basis to the causation wordings to which they had since switched or may have failed to address their minds to any relevant issue at all in relation to an insured who was usually a longstanding repeat client.
+Rix LJ (para 228) contented himself with agreeing with Burton Js reasoning on this aspect, while Stanley Burnton LJ noted and agreed in particular with Burton Js second reason, relating to the believed aetiology of mesothelioma (para 335).
+Smith LJ, on the other hand, treated the commonly held understanding that diseases such as mesothelioma involved injury at the date of inhalation as part of the factual matrix of all the insurance contracts (paras 322 323), and considered against that background that no difference in meaning should be held to exist between policies using sustained and causation wording, until the time when the two sides of the insurance industry should be considered to have appreciated that some diseases, including mesothelioma, do not occur until many years after exposure to the causative agent (para 327).
+She put that as around the time of the decision in Bolton, after which parties using a sustained wording must be taken to have meant only to cover injuries actually occurring during the policy period (para 327).
+The argument of a binding usage was not pursued before the Supreme Court, rightly so for the reasons given by the judge and the majority in the Court of Appeal.
+Equally, there has been no suggestion of estoppel by convention, along the lines recognised as possible in Chartbrook Ltd v Persimmon Homes Ltd [2009] UKHL 38, [2009] 1 AC 1101, para 47.
+However, on the issues of policy interpretation, Mr Stuart Smith QC for Zurich Insurance, maintained before the Supreme Court an argument that there was a consensus based on market practice, whereby, for one reason or another, such policies would respond to long tail diseases by reference to the date of exposure, and that this could constitute relevant background to their construction.
+Assuming that, short of a binding usage or estoppel by convention, a practice, if known to or shared by the relevant parties, could in some circumstances be relevant background (see e.g. Reardon Smith Line Ltd v Yngvar Hansen Tangen [1976] 1 WLR 989), still, in my opinion the argument fails in the present case.
+It fails in particular in the light of the judges findings, even in relation to policies made in and after the 1980s.
+A practice based on a mistaken understanding, by only some insurers, that the policies operated on a causation basis cannot be relevant background to the interpretation of every policy; on the judges findings other insurers do not appear to have understood that the policies operated on that basis.
+A practice based on a mistaken understanding by others in the market as to when long tail diseases could be said to have been experienced or to involve injury is likewise an unpromising start for construing all policies; if the understanding were good, it would mean that such diseases fell within the policies, even though the policy cover was restricted to injury or disease experienced during the policy period.
+The understanding would not therefore carry any imperative to read a sustained wording as meaning caused.
+Before the Supreme Court, both employers and employees continued to rely upon the evidence given at trial regarding the general purpose of employers liability insurance as part of the background to the interpretation of the present insurances.
+Rix LJ (paras 223 to 235) gave it some weight as such, but Stanley Burnton LJ thought that there was little if any assistance to be gained by reference to the commercial purpose of EL insurance, as this was simply to provide the cover defined in the policy (para 333).
+The Supreme Court was provided with a useful summary of the considerable volume of evidence relied upon in this connection.
+It consisted in general of answers given by insurers, two at least of them with experience going back to the 1940s.
+They were asked (frequently in response to leading though not inadmissible on that score questions in cross examination) about their or others views, understandings or perceptions as to the purpose of the policies, and the way in which these would or should respond, in relation to injuries arising from exposure in the course of activities during the policy period.
+In my judgment, Stanley Burnton LJ was right to reject such evidence as inadmissible.
+The parties cannot be asked what they meant by their contract, and, failing any binding usage, it is equally inadmissible to ask other persons operating in the market to give general evidence as to what they would have understood the parties to have meant by the words used in the context in which they were used.
+The evidence does not seem to have amounted to more than that.
+However, I do not agree with Stanley Burnton LJs suggestion that no useful conclusions can be drawn about the commercial purpose of the policies, save that it was to provide the defined cover.
+In my opinion, relevant conclusions about the general nature and purpose of the individual policies can be drawn in this case, just as they could in the case of the different (and wordier) instrument in issue in In re Sigma Finance Corporation [2009] UKSC 2, [2012] 1 All ER 571 (see especially paras 10, 12 and 37).
+They can be drawn from an overall consideration of the individual insurance wordings, and particularly from the features which tie cover to the employees and activities during the relevant policy period and the five points considered in paragraphs 18 to 28 above.
+Further, if the policies are on any view apt to cover employers liability for long tail diseases which initiate during, but only manifest themselves years after, the original policy period, one may look with scepticism at an interpretation which distinguishes this situation from other situations where a long tail disease is caused but does not strictly begin during the policy period, and only manifests itself years later.
+This is particularly so if a conclusion that the latter diseases fell outside the policy cover meant that they would or might well not fall within any subsequent employers liability policy.
+ELCIA 1969
+Section 1 of the ELCIA provides: 1. (1) Except as otherwise provided by this Act, every employer carrying on any business in Great Britain shall insure, and maintain insurance, under one or more approved policies with an authorised insurer or insurers against liability for bodily injury or disease sustained by his employees, and arising out of and in the course of their employment in Great Britain in that business, but except in so far as regulations otherwise provide not including injury or disease suffered or contracted outside Great Britain (3) For the purposes of this Act (a) approved policy means a policy of insurance not subject to any conditions or exceptions prohibited for those purposes by regulations. 4. (1) Provision may be made by regulations for securing that certificates of insurance in such form and containing such particulars as may be prescribed by the regulations, are issued by insurers to employers entering into contracts of insurance in accordance with the requirements of this Act . (2) . the employer shall during the currency of the insurance and such further period (if any) as may be provided by regulations (a) comply with any regulations requiring him to display copies of the certificate of insurance for the information of his employees; .
+The only conditions or exceptions ever prohibited were certain exemptions from liability.
+Under section 3, the ELCIA did not however apply to local authority employers, such as most of MMIs insureds.
+Under section 4, provision might be made for certificates of insurance to be issued to employers, and in that event the employer was, obliged during the currency of the insurance and such further period (if any) as may be provided by regulations to comply with any regulations requiring him to display copies of the certificate of insurance for the information of his employees.
+In reaching his conclusions on the ELCIA (para 16 above), Rix LJ engaged in an impressive analysis, to which I would refer (paras 166 to 186).
+The only doubt this leaves is how, if the ELCIA requires a causation wording, an employer could properly insure on a wording which only covered injury sustained in the sense of experienced (see para 186 and paragraph 16 above).
+The scope of the ELCIA is, as Rix LJ indicated, open to three alternative analyses: that it requires cover in respect of (i) all future liability incurred during the insurance period, whenever the negligence or injury, or (ii) liability for all future injury or disease sustained (in the sense of experienced) by employees during the insurance period, whenever the negligence, or (iii) liability for all negligence or breach of statutory duty during the insurance period giving rise to liability as in (ii).
+The retrospectivity of cover involved in (i) and (ii) is unlikely to have been intended.
+The only one of the three possibilities not involving a degree of retrospectivity is (iii).
+A duty on every employer to insure, and maintain, insurance is consistent with a requirement to have the insurance in place during, though to maintain it after, the relevant insurance period.
+The provision, contemplated by section 4, for copies of insurance certificates to be issued by insurers and to be displayed by any employer for the information of his employees during the currency of the insurance and such further period as may be provided by regulations indicates, first, a desire to assure employees of their insurance protection during the relevant insurance period, and, secondly, an awareness that this assurance might need to remain in place after such insurance period; it is therefore suggestive of (iii), rather than (i) or (ii).
+As Rix LJ observed, it is only cover in accordance with (iii) that can give an employee the assurance that any injury or disease suffered as an employee and arising out of and in the course of [his] employment will be covered by insurance, the benefit of which would, if necessary, be available to him at the time under the Third Party (Rights against Insurers) Act 1930.
+An obligation to have a policy in force only at or by the time when injury is actually experienced would leave employees or ex employees at the mercy of compliance with the statute by their employers or ex employers at uncertain future dates.
+It would also leave such employees or ex employees at the mercy of employers who, for whatever reason, ceased to carry on business either in Great Britain or (for example due to insolvency) at all.
+Further, if injury or disease suffered or contracted bears the same meaning as insurers suggest that injury or disease sustained or contracted bears, then an employee, who had the misfortune to succumb to a disease abroad caused by his employment or previous employment in Great Britain, would not be covered (unless regulations intervened to ensure that he was).
+Stanley Burnton LJ thought that any issue as to the nature of the insurance required under ELCIA was resolved by its use of the word sustained, rather than caused.
+He went on to conclude that the ELCIA covered any injury sustained (in the sense of experienced) during a period of insurance, by anyone who was then or had at any previous time been an employee.
+However, that latter conclusion introduces a retrospectivity into the scope of the ELCIA, which, as already indicated, I think unlikely to have been intended.
+The statute could have used the tariff wording of causation instead of sustained.
+But in the statutory language the word sustained is not coupled with a phrase such as during the period of the insurance.
+Even if sustained means experienced in the context of the statute, the statute may require insurance on what is effectively a causation basis; the words sustained by his employees may well mean sustained at any future time by his current employees.
+The key to the meaning of the statutory language seems to me the combination of the phrases arising out of and in the course of their employment in Great Britain and not including injury or disease suffered or contracted outside Great Britain.
+Together, and for reasons given in the last two paragraphs, they indicate a statutory requirement to insure in respect of activities during the course of employment in Great Britain which may in the future give rise in or out of Great Britain to liability to the employees involved in such activities.
+In my judgment, therefore, the conclusion which gives proper effect to the protective purpose of the legislation is that the ELCIA requires insurance on a causation basis.
+The ELCIA extension provision to the Independent and second BAI wordings (see Annex A), as well as a similar extension provision to the MMI policy intended for insureds who were not local authorities, achieved this result expressly in relation to policies written subsequent to the coming into force of the ELCIA, at least for the purpose of ensuring that employees claims were covered by insurance.
+Any other subsequent insurances not containing that extension provision should, if possible, be read as providing the relevant employers cover required by statute.
+This is a powerful tool in the interpretation of such insurances.
+Bolton M.B.C. v Municipal Mutual Insurance Ltd
+The Court of Appeal in the present case was bound by its previous decision in Bolton MBC v Municipal Mutual Insurance Ltd [2006] EWCA Civ 50, [2006] 1 WLR 1492 on public liability policies.
+The majority regarded that case as, in effect, determining the meaning which must be put on the word sustained in the present employers liability policies: see paras 284, per Rix LJ, and 339, per Stanley Burnton LJ, who however also found the logic of Longmore LJs judgment convincing in relation to the latter type of policies.
+Smith LJ on the other hand considered that public liability and employers liability insurances gave rise to different considerations (para 328).
+In my opinion, that is right.
+Employers liability policies are subject to particular terms and considerations, analysed above (particularly in paragraphs 18 28 and, in the case of policies effected after the coming into effect of the ELCIA, paragraphs 41 46).
+These considerations are not or certainly not necessarily applicable to public liability insurances.
+The present case was concerned with employers liability not public liability insurances, and it may well be that not all the relevant facts relating to the latter are before us.
+We certainly have not heard full argument on the proper conclusions which may be drawn regarding the basis of liability or trigger generally applicable under the latter.
+In these circumstances, I would proceed on the basis that we are not bound by Bolton, that this does not involve any view about the correctness or otherwise of Bolton, but only that it is unnecessary to consider what the position generally may be under public liability policies.
+Assuming that, in relation to public liability insurance, the position generally is as stated in Bolton, that does not alter the conclusions which I reach.
+It merely means, in their light, that public liability insurance generally and the present employers liability policies operate on different bases, because of their different backgrounds, terms and purposes.
+Contracted
+There is no difficulty about treating the word contracted as looking to the causation or initiation of a disease, rather than to its development or manifestation.
+In relation to the two BAI wordings and the third MMI wording, this interpretation obtains strong support from the general nature and purpose of the relevant policies, derived from their immediate context and terms and analysed in paragraphs 18 to 28 and 41 above.
+To the limited extent that the WCA background may assist to inform the meaning of later policies, it can be seen overall as a legislative scheme which was concerned with either the risk of or actual causation (para 32 above).
+Even if, in the phrase sustained or contracted or injury sustained or disease contracted, the word sustained is to be understood as meaning experienced, that would reflect no more than the fact that the cause and effect of an injury commonly coincide; I would still unhesitatingly conclude, as did the Court of Appeal, that the word contracted used in conjunction with disease looks to the initiating or causative factor of the disease.
+Sustained
+The majority of the Court of Appeal considered that it was impossible to view policies with pure sustained wordings as operating by reference to the initiating or causative factor of a disease.
+They did so primarily by reference to the wording of the insuring clauses.
+In my view, as indicated in paragraphs 18 19 above, a broader approach is necessary.
+The general nature and purpose of these policies can be derived from their immediate context and terms, analysed in paragraphs 18 to 28 and 41 above.
+It is true, as Rix LJ said, that phrases such as injury sustained by an employee or an employee who shall sustain injury, in either case by accident or disease, appear to address the impact of the accident or disease on the employee.
+But the underlying focus of the insurance cover is on the employees and activities current during the insurance period.
+The cover would be potentially incomplete, and employers would be potentially exposed to uninsured risks, were sustained to be understood as meaning developed or manifested.
+This is so, even before the ELCIA came into force.
+Any policies written subsequent to the coming into force of the ELCIA either afford cover consistent with the Acts requirements by virtue of an ELCIA extension provision, or, to the extent that this is not the case, should be construed, if at all possible, as meeting employers obligations under that Act.
+In my view, such obligations included taking out insurance in respect of negligence during the insurance period affecting an employee in a manner giving rise to bodily injury or disease then or at any subsequent time.
+On this basis, I consider that, although the word sustained may initially appear to refer to the development or manifestation of such an injury or disease as it impacts employees, the only approach, consistent with the nature and underlying purpose of these insurances both before and after the ELCIA, is one which looks to the initiation or causation of the accident or disease which injured the employee.
+The disease may properly be said to have been sustained by an employee in the period when it was caused or initiated, even though it only developed or manifested itself subsequently.
+Disease sustained, read as meaning experienced or incurred
+Rix LJ was attracted by the submission that, even if sustaining disease meant experiencing or incurring it during the period of the insurance, long tail diseases could be said to have been sustained during the period of insurance in this sense.
+He asked rhetorically whether an employee who had inhaled asbestos had not sustained an injury in the form of an assault of the fibres, as a result of which he was worse off through having dangerous fibres in his lungs (para 280).
+He noted that, although there was at most trivial injury or damage, and nothing that could create actionable damage, nevertheless, when mesothelioma develops, it is the risk of mesothelioma created by the exposure which is the damage (see .
+Barker ) and it is the exposure, and the risk of mesothelioma, that is the damage (para 281).
+He only felt bound to reject this analysis (para 284) because of the Court of Appeals previous decision in Bolton.
+It may be that in the case of some long tail diseases, the victim can be said to have incurred or caught them at the same time as the initial ingestion or scratch giving rise to them.
+But it is clear that this is not the position with inhalation of asbestos in relation to either asbestosis or mesothelioma.
+No cause of action arises from exposure or inhalation alone: Rothwell v Chemical & Insulating Co Ltd [2007] UKHL 39, [2008] 1 AC 281.
+Further, for reasons which I develop in paragraphs 64 65 below, the exposure and risk are not by themselves damage in any sense known to the law.
+Damage is only incurred when mesothelioma develops.
+Only when it develops does the victim incur damage which is legally relevant, and even then this is not because any physical link necessarily exists or can be proved between the mesothelioma and the original exposure.
+The rule in Fairchild and Barker imposes liability for the mesothelioma upon persons who have exposed the victim to asbestos, and so created a risk of mesothelioma.
+But it is not a rule which, even as between employers and employees, deems the latter to have suffered injury or disease at the time of any exposure.
+And, even if it were viewed simply as a rule imposing retrospective liability on employers for exposing their employees to the risk of mesothelioma, the insurance policies do not insure risks of physical injury or disease, but only actual injury or disease.
+The application of the insurances in respect of mesothelioma
+At the outset of these appeals, the application of the insurances in respect of mesothelioma suffered by employees exposed to asbestos during their employment by an insured employer did not appear controversial.
+This changed after a question from Lord Phillips on day 4 of the hearing, followed by a later written note.
+All the same, the transcript pages containing any argument on the point numbered only 40 out of a total of some 1140.
+So far as Mr Edelman made any submissions on this point, in his written case or orally, they were to this effect: if the correct analysis of the Houses decision in Fairchild be that an employer who exposes an employee to asbestos is deemed to have caused that employees mesothelioma, then employers liability insurances held by the employer on a causation basis should respond; but, if the policies do not respond on a causation basis, there is no justification for treating the employee as having suffered injury or a disease during their currency, because employers cannot prove that any particular inhalation caused any injury.
+This led to some discussion, particularly with counsel for employers and employees, of the points which I have already addressed in paragraphs 50 52 above.
+The point now expressed forcefully by Lord Phillips in his judgment is that exposure to the risk of mesothelioma is the correct analysis of the Fairchild principle, at least as subsequently interpreted, and that such exposure can satisfy neither the concept of injury nor the concept of causation for the purposes of the policies.
+If that is right, then the present insurance claims must all fail.
+Indeed, the great bulk of insurance claims settled by other insurers (e.g. former tariff insurers) or by the present insurers under the causation policies they have issued in more recent years (paragraph 10 above) should presumably also have failed.
+The only exception may be the case of an employee exposed to asbestos in only one employment by an employer holding insurance throughout with only one insurer.
+In such a case it might (perhaps) be said that, whichever particular inhalation(s) may have been responsible for the employees mesothelioma, it (or they) must have been insured.
+Even then, the logic of the Supreme Courts reasoning in Fairchild and Sienkiewicz v Greif (UK) Ltd [2011] UKSC 10, [2011] 2 AC 229 might lead to the conclusion that causation was still unprovable in the light of the possibilities of environmental or idiopathic causation of mesothelioma.
+Rules regarding causation are created by the courts for the purpose of determining when liability arises in particular contexts.
+Normally, they reflect a common sense understanding of what is ordinarily understood when we speak of a cause in a particular context.
+In their leading work on Causation in the law (Clarendon Press, 2nd ed 1985) Professor H. L. A. Hart and Tony Honor examined both this understanding and its relationship to legal decision making.
+Generally, but not always, a cause must involve an act or omission that was at least a sine qua non of the injury in respect of which responsibility attaches (the but for test).
+But sometimes two separate acts or omissions may each independently have been sufficient to give rise to that injury (as when A and B simultaneously, but independently shoot C dead), and then we may as a matter of legal policy accept a weaker causal relationship for the imposition of responsibility: see p lxv in the preface to and p 123 of the 2nd edition.
+Other cases where causal requirements have been relaxed include Bonnington Castings Ltd v Wardlaw [1956] AC 613; there, materially contributing to part of an accumulation of dust which cumulatively led to pneumoconiosis gave rise to liability for the whole disease (although it has been suggested that some apportionment might now be possible in fact and law).
+Another relevant authority is McGhee v National Coal Board [1973] 1 WLR 1; there, liability for dermatitis was held to exist because the defendant had materially contributed to part of the claimants exposure to dirt, any part of which might, independently of any other, have given rise to the abrasion leading to the claimants dermatitis.
+It was recognised that this involved liability based on materially contributing to the risk of the injury.
+Lord Reid at p.4G H described the result as reached taking a broader view of causation, and Lord Wilberforce at p 5G viewed it as involving a conclusion as to the causal connection that had to exist between the default and the disease complained of.
+The contrary view (viz, that proof of risk was insufficient without proof that the risk caused or materially contributed to the disease) had a logic which Lord Wilberforce acknowledged, but rejected for policy and evidential reasons set out at p.6C F.
+In Fairchild, McGhee was seen as a precursor of the decision there reached.
+Putting aside the possibility of an idiopathic or environmental cause, a Fairchild type situation exists when (a) there are two separate potential causes exposing the claimant to the same risk, one involving an act or omission by the defendant, (b) either one of which causes would have been sufficient to give rise to the injury, and (c) one of which did so, but (d) neither of which can as a matter of probability be shown to have done so.
+Taking into account the later decisions in Barker v Corus and Sienkiewicz, the Fairchild principle extends to any case where there has been an act or omission exposing a person to asbestos, which exposure may have caused the mesothelioma, but which cannot be shown as a matter of probability to have done so.
+On that basis, the House held in Barker v Corus that each or any persons liability should only be proportionate to the extent that he had exposed another to the risk of mesothelioma.
+Parliament by the Compensation Act 2006 reversed that conclusion and made each such person liable in respect of the whole of the damage caused by the mesothelioma.
+Lord Phillips in his judgment addresses the basis of Fairchild in the light of Barker v Corus, the 2006 Act and Sienkiewicz.
+He accepts that, if Fairchild is now correctly to be understood as a special rule deeming employers who have exposed an employee to asbestos to have caused any subsequently suffered mesothelioma, then the insurance policies should apply (para 109).
+But he concludes that Fairchild must be understood as creating liability not for the disease, but for the creation of the risk of causing the disease.
+It follows in his view that employers and employees gain no assistance from the special rule in asserting that mesothelioma suffered by any person was caused or initiated in any particular policy period.
+On this basis, even though the insurances respond to injuries caused or initiated during their periods, the employers and employees fail for want of proof.
+It is not fruitful to repeat the exercise undertaken in Barker v Corus of examining in detail the significance of the speeches in Fairchild.
+The House was not agreed about this in Barker, but the majority speeches of Lords Hoffmann, Scott and Walker were at pains to reject any analysis of Fairchild as proceeding upon a fiction that each exposure had caused or materially contributed to the disease: see paras 31, 61 and 104; they each also referred to the liability created by Fairchild as being not for causing the disease, but for materially increasing the risk of the mesothelioma which was in fact suffered: paras 31, 36 and 40, 53, 61 and 113.
+Lord Rodger (dissenting) perceived the majority to be misinterpreting Fairchild by failing to acknowledge that it was based on an equation of materially increasing risk with materially contributing to causation, an equation which he thought had been accepted as sufficient causation in Bonnington Castings Ltd v Wardlaw [1956] AC 613 and McGhee v National Coal Board [1973] 1 WLR 1.
+It is on the apparently bright line distinction said to have been drawn by the majority in Barker between materially contributing to increasing the risk of, and causing, a disease that Lord Phillips now founds his judgment in these appeals.
+The Compensation Act 2006 applies where a person who has exposed someone to asbestos is liable in tort in connection with damage caused to the latter by mesothelioma whether by reason of having materially increased a risk or for any other reason (section 3(1)(d)).
+It makes the former person liable in respect of the whole of the damage (section 3(2)(a)).
+On its face, the Act assumes rather than creates the liability, and only alters the measure of recovery.
+That was the view expressed in Sienkiewicz by Lords Phillips, Rodger and Brown (paras 70, 131 and 183).
+However, on further analysis, the distinction identified in paragraphs 58 59 above proves more elusive.
+Even in Barker itself, Lord Walker described exposing the employee to the risk of mesothelioma as being equated with causing his injury and the result as an explicit variation of the ordinary requirement as to causation (para 104), and spoke of the rule as one by which exposure to the risk of injury is equated with legal responsibility for that injury (para 109).
+However, it is conceivable that he meant that the ordinary requirement of causation of the disease was entirely replaced by another liability creating rule.
+It is in the later authority of Sienkiewicz that the difficulty of drawing any clear cut distinction between creating a risk and causation of the disease becomes most apparent.
+Lord Phillips there stated that the rule in its current form was that the person responsible for the exposure and thus creating a material increase in risk of the victim contracting the disease will be held to be jointly and severally liable for causing the disease (para 1).
+Later, he said that the law was presently contained in Fairchild and Barker which had developed the common law by equating materially increasing the risk with contributing to the cause in specified and limited circumstances (para 70).
+That was the analysis of Fairchild advanced by Lord Rodger in Barker v Corus (paras 73 and 83) but rejected there by the majority.
+Lord Brown in Sienkiewicz spoke of a more relaxed approach to causation (para 178) and flexibility in the approach to causation (para 187).
+I referred to Fairchild and Barker as involving a special rule of causation (para 188), and Lord Kerr referred to them as involving a modification of the previously applicable legal rules in relation to the causation element in employers liability claims (para 196) and to adjustments in the burden of proof (paras 198 and 200).
+Lord Rodger was, on the other hand, loyal to the majority view in Barker by referring to liability as based on materially increas[ing] the risk (para 113), and Lord Dyson was cautious in speaking of materially increasing the risk of contracting the disease as sufficient to satisfy the causal requirements for liability (para 207).
+Lord Phillips has in para 123 set out a passage from an extra judicial commentary written by Lord Hoffmann in Perspectives on Causation (2011), p 8.
+In it, Lord Hoffmann describes the two ways in which the changes introduced by Fairchild and Barker could be characterised, one as changing the causal requirements for an action for damages for mesothelioma ; all that is necessary is to prove that the risk has been increased and that the specific exposure may have provided the actual agent; the other as creat[ing], exceptionally, a cause of action for the increased risk of mesothelioma, rather than for the disease itself.
+Lord Hoffmann notes that the House in Barker (Lord Rodger dissenting) adopted the second explanation of what had happened in Fairchild.
+But in the next sentence, not quoted by Lord Phillips, Lord Hoffmann went on: Parliament almost immediately reversed this decision by a statute giving effect to the first explanation, which had been advocated by Lord Rodger in his dissenting speech.
+Lord Hoffmanns extra judicial (or judicial) words cannot by themselves alter the true effect of a statute, but his comments do again show that the suggested distinction is more fluid than might at first appear.
+It is relevant to look more closely at what Barker decides.
+In Barker, Lord Hoffmann spoke of Fairchild as applying an exceptional and less demanding test for the necessary causal link between the defendants conduct and the damage (para 1) and of the requirement of a sufficient causal link between the defendants conduct and the claimants injury (para 17).
+In his note in Perspectives on Causation, he picked up this language with references to the causal requirements of the relevant rule and to the issues in cases of mesothelioma and analogous situations as involving the causal requirements for an action for damages for mesothelioma.
+Lady Hale in Barker also viewed the common law rules governing the measure of recovery as closely linked to the common laws approach to causation, and said that there was no reason in principle why the former rules should not be modified as the latter approach is courageously developed to meet new situations (para 122).
+In paras 123 and 124, she made clear that in her view the issue in Barker could be seen as arising from the expanded perceptions or developed concept of causation which the law had accepted.
+These citations all suggest that it is both possible and appropriate to characterise the position achieved by the common law after Barker v Corus as one concerned with the issue of the causal requirements or causal link, as between the defendants conduct and the disease, which the common law requires in order for there to be an action for mesothelioma.
+But analysis of the rule arrived at after Fairchild and Barker justifies further propositions.
+Despite the apparent clarity of the suggested distinction between liability for a risk and for a disease, no cause of action at all exists unless and until mesothelioma actually develops.
+Neither the exposure to asbestos nor the risk that this may one day lead to mesothelioma or some other disease is by itself an injury giving rise to any cause of action: see Rothwell v Chemical & Insulating Co Ltd [2007] UKHL 39, [2008] 1 AC 281; the House there decided that not even the emergence of pleural plaques marking the past exposure to asbestos constituted injury for the purpose of giving a cause of action.
+In order to fall within the principle in Fairchild and Barker, the development of mesothelioma is a pre condition: see Barker, per Lord Hoffmann (para 48) and Lord Scott (para 53).
+Lady Hale went further, stressing that she in fact agreed with Lord Rodgers view that the damage which is the gist of these actions is the mesothelioma and its physical and financial consequences.
+It is not the risk of contracting mesothelioma (para 120).
+In reality, it is impossible, or at least inaccurate, to speak of the cause of action recognised in Fairchild and Barker as being simply for the risk created by exposing someone to asbestos.
+If it were simply for that risk, then the risk would be the injury; damages would be recoverable for every exposure, without proof by the claimant of any (other) injury at all.
+That is emphatically not the law: see Rothwell and the statements in Barker itself, cited above.
+The cause of action exists because the defendant has previously exposed the victim to asbestos, because that exposure may have led to the mesothelioma, not because it did, and because mesothelioma has been suffered by the victim.
+As to the exposure, all that can be said (leaving aside the remote possibility that mesothelioma may develop idiopathically) is that some exposure to asbestos by someone, something or some event led to the mesothelioma.
+In the present state of scientific knowledge and understanding, there is nothing that enables one to know or suggest that the risk to which the defendant exposed the victim actually materialised.
+What materialised was at most a risk of the same kind to which someone, who may or may not have been the defendant, or something or some event had exposed the victim.
+The actual development of mesothelioma is an essential element of the cause of action.
+In ordinary language, the cause of action is for or in respect of the mesothelioma, and in ordinary language a defendant who exposes a victim of mesothelioma to asbestos is, under the rule in Fairchild and Barker, held responsible for and in respect of both that exposure and the mesothelioma.
+This legal responsibility may be described in various ways.
+For reasons already indicated, it is over simple to describe it as being for the risk.
+Another way is to view a defendant responsible under the rule as an insurer, but that too is hardly a natural description of a liability which is firmly based on traditional conceptions of tort liability as rooted in fault.
+A third way is to view it as responsibility for the mesothelioma, based on a weak or broad view of the causal requirements or causal link appropriate in the particular context to ground liability for the mesothelioma.
+This third way is entirely natural.
+It was adopted by Lords Reid and Wilberforce in McGhee, by Lord Hoffmann, Lady Hale and (possibly) Lord Walker in Barker and by Lord Hoffmann in his extra judicial commentary.
+It seems to have received the perhaps instinctive endorsement of a number of members of this Court, including myself, in Sienkiewicz.
+Ultimately, there is no magic about concepts such as causation or causal requirements, wherever they appear.
+They have the meanings assigned to them and understood in ordinary usage in their context.
+A logician might disagree with a reference to causation or a causal link in a particular context, but that is not the test of meaning: see Lord Wilberforces words in McGhee, p 6C F (cited in para 56 above).
+The present appeals concern the meanings we assign to the concept of causation, first in the context of considering employers liability to their employees and then in considering the scope of employers insurance cover with respect to such liability.
+It is instructive in this connection to look more closely at the Compensation Act 2006.
+Section 3(3) states that section 3(2) does not prevent (a) one responsible person from claiming a contribution from another, or (b) a finding of contributory negligence.
+Section 3(4) goes on to provide that [I]n determining the extent of contributions of different responsible persons in accordance with subsection (3)(a), a court shall have regard to the relative lengths of the periods of exposure for which each was responsible .
+Section 3(3) necessarily relates to the legal bases for claiming contribution or asserting contributory negligence, which are to be found in, respectively, the Civil Liability (Contribution) Act 1978 and the Law Reform (Contributory Negligence) Act 1945.
+The 1978 Act addresses the situation where two or more persons are liable in respect of the same damage (section 1(1)), while section 2(1) provides for contribution in such situations to be such as may be found by the court to be just and equitable having regard to the extent of that persons responsibility for the damage in question.
+Although under section 3(4) of the 2006 Act, the court must have regard to the relative lengths of the exposure for which each was responsible, the same damage which is a pre condition to the application of the 1978 Act must be the mesothelioma.
+It cannot be the risk created by the person by or from whom contribution is sought, because each person and exposure creates a separate risk, and no one person or exposure creates the total risk resulting from all exposures.
+The 2006 Act, by its reference to the 1978 Act, thus assumes that every person, who has exposed to asbestos a victim who later experiences mesothelioma, incurs responsibility for the mesothelioma.
+That language again fits an analysis whereby the rule in Fairchild and Barker identifies the appropriate weak or broad causal link between the exposure and the mesothelioma.
+A similar position applies under the 1945 Act.
+Under section 1(1), that Act applies [w]here any person suffers damage as the result partly of his own fault and partly of the fault of any other person or persons.
+In that event, the damages recoverable are to be reduced to such extent as the court thinks just and equitable having regard to the claimants share in the responsibility for the damage.
+The application of this section, as contemplated by the 2006 Act, is only possible on the basis that a mesothelioma sufferer may be said to have suffered the mesothelioma partly as the result . of the fault of anyone who has exposed him to asbestos. In other words, the rule in Fairchild and Barker must have been viewed by the drafters in my opinion entirely understandably as establishing a causal link, between the exposure and the mesothelioma, sufficient for it to be said that the mesothelioma was the result of each (and every) exposure.
+A similar view is also implicit in the provisions of the Act drafted on the basis that insurers who would commonly of course be employers liability insurers would be among the persons by or for whose benefit or against whom contribution would be sought in cases of multiple responsible persons: see section 3(7)(b) and (10)(a) of the 2006 Act.
+Those provisions necessarily assume that employers liability insurances, written generally on a causation basis, would respond to Fairchild/Barker type liability incurred by employers.
+Ultimately, the present appeals raise the questions how the present employers liability insurance policies respond as a matter of construction in circumstances within the rule in Fairchild and Barker.
+Where two contracts are linked, the law will try to read them consistently with each other.
+This is so with language in a bill of lading, incorporated from a charterparty: The Njegos [1936] P 90.
+A similar approach applies to language in a reinsurance incorporated from the insurance: Forsikringsaktieselskapet Vesta v Butcher [1989] AC 852 and Groupama Navigation et Transports v Catatumbo CA Seguros [2000] 2 Lloyds Reports 350, even though there is no guarantee that a reinsurance will in every possible circumstance that may develop pick up every liability that may be held to exist under an insurance: see Wasa International Insurance Co Ltd v Lexington Insurance Co [2009] UKHC 40, [2010] 1 AC 180.
+The intention under the present insurances must be taken to have been that they would respond to whatever liability the insured employers might be held to incur within the scope of the risks insured and within the period in respect of which they were insured.
+Thus, as Scrutton and Greer LJJ accepted in the Ellerbeck Collieries case (paragraph 34 above), an employers liability insurance could have been expected to respond to the conventional and artificial definition in the WCAs as to what constituted an accident and when personal injury by accident or disease was sustained for the purposes of employers liability to employees.
+Furthermore, if the common law during or even after the currency of an insurance develops in a manner which increases employers liability, compared with previous perceptions as to what the common law was, that is a risk which the insurers must accept, within the limits of the relevant insurance and insurance period.
+Eady J correctly identified this in Phillips v Syndicate 992 Gunner [2003] EWHC 1084 (QB), [2004] Lloyds Insurance and Reinsurance Reports 426, 429 (left).
+The declaratory theory does not presume the existence of an ideal system of the common law, which the judges from time to time reveal in their decisions.
+But it does mean that, when judges state what the law is, their decisions do . have a retrospective effect in the sense that the law as stated will, generally speaking, be applicable not only to the case coming before [them] but, as part of the common law, to other comparable cases which come before the courts, whenever the events which are the subject of those cases: Kleinwort Benson Ltd v Lincoln CC [1999] 2 AC 349, 378G H, per Lord Goff.
+The declaratory theory is a pragmatic tool, essential when cases can only come before the court some time, perhaps some years after the relevant events occurred, and when the law [must] be applied equally to all, and yet be capable of organic change (p 379A).
+A similar principle must, generally speaking, apply in relation to a statute such as the Compensation Act 2006, which changes or corrects the common law to what Parliament perceives to be a more appropriate result for the purposes of all future cases coming before the courts, whenever the events giving rise to them.
+In the case of that Act, the result was one which the courts might as a matter of common law well have themselves accepted (and which indeed Lord Rodger in his powerful dissent in Barker v Corus believed that the common law had accepted) in Fairchild.
+Concluding, as I have done, that the present insurances covered employers liability for injuries or diseases caused during the relevant insurance periods, the question is whether they cover employers liability for mesothelioma arising under the rule in Fairchild and Barker from having exposed employees to asbestos during such periods.
+It is not in dispute that, if the rule is characterised as a rule of deemed causation, then the policies must respond.
+A parallel example, so familiar that it is easy to overlook, is the vicarious liability to an employee, A, which rests on any employer, B, who has not himself been negligent but must answer vicariously for the negligence of another employee, C.
+We have no hesitation in saying that the employer B has in such a case caused the injury or disease suffered by A.
+But this is so in reality only because a rule of law requires us to equate the acts or omissions of C with those of B.
+The argument, accepted by Lord Phillips, is that the rule in Fairchild and Barker is not one of deemed causation of or, therefore, liability for the disease, but one of liability for the risk created by the exposure.
+For reasons which I have set out, I regard this distinction as too simple.
+The liability arises only because of the incurring of the disease and is for the disease.
+A condition of such liability is that the employer (negligently) exposed the victim to asbestos.
+The insurance policies, read as operating on a causation basis, are aimed at covering liability generated by employers activities during their insurance periods: see paragraphs 18 28 and 41 above; unless liability for mesothelioma flowing from negligent exposure during an insurance period is covered by the policies, this aspect of employers activities will not in practice be covered at all.
+In my view, these considerations justify a conclusion that, for the purposes of the insurances, liability for mesothelioma following upon exposure to asbestos created during an insurance period involves a sufficient weak or broad causal link for the disease to be regarded as caused within the insurance period.
+It would, I think, have been anomalous and unjust if the law by deeming there to have been causation of the disease could have created policy liability (which is common ground), but the law by insisting that the liability in respect of mesothelioma was for the risk of causation achieved a quite different result.
+As I have sought to show, it is not in any event accurate to treat the liability as being either solely or strictly for the risk.
+The risk is no more than an element or condition necessary to establish liability for the mesothelioma.
+The reality, reinforced by provisions in the 2006 Act, is that the employer is being held responsible for the mesothelioma.
+For this purpose, the law accepts a weak or broad causal link.
+The link is to exposure which may but cannot be shown on the ordinary balance of probabilities to have played a role in the actual occurrence of the disease.
+But for the purposes of the policies the negligent exposure of an employee to asbestos can properly be described as having a sufficient causal link or being sufficiently causally connected with subsequently arising mesothelioma for the policies to respond.
+The concept of a disease being caused during the policy period must be interpreted sufficiently flexibly to embrace the role assigned to exposure by the rule in Fairchild and Barker.
+Viewing the point slightly more broadly, if (as I have concluded) the fundamental focus of the policies is on the employment relationship and activities during the insurance period and on liability arising out of and in course of them, then the liability for mesothelioma imposed by the rule in my opinion fulfils precisely the conditions under which these policies should and do respond.
+Conclusion
+I would therefore dismiss the appeals by insurers so far as they concern the policies with contracted wordings.
+I would allow the appeals against insurers, and dismiss the appeal by the Independent, so far as they concern policies with sustained wordings.
+ANNEX A The policy wordings (dates are approximate) (1) Excess First Wording (late 1940s): Whereas . (hereinafter called The Employer) carrying on the business of . has made a proposal . this Policy witnesseth that in consideration of the payment of . as premium to the Company on the estimated total amount, as set forth in the Schedule hereto, of the wages, salaries, and other earnings of Employees, a description of whom is set forth in the said Schedule (which premium is subject to adjustment as hereinafter provided) the Company agrees to indemnify the Employer in the manner following, namely That if at any time during the period commencing on theday of19 , and ending on theday of19 (both days inclusive) and for such further period or periods as may be mutually agreed upon, any employee in the Employer's immediate service shall sustain any personal injury by accident or disease while engaged in the service of the Employer in Great Britain, Northern Ireland, the Isle of Man or the Channel Islands, in work forming part of or process in the business above mentioned, and in case the Employer shall be liable to damages for such injury, either under or by virtue of the Common Law, the Fatal Accidents Acts 1846 to 1908, or the Law Reform (Miscellaneous Provisions) Act 1934, the Company will indemnify the Employer The Schedule required a description of the insured companys employees and their estimated total wages, salary and other earnings.
+Condition 1 of the policy further provided that: the Employer shall truly record in a wages book the name of every employee and the amount of wages, salary and other earnings paid to him.
+Second Wording (late 1950s to 1960s): Whereas the Employer . carrying on the business described in the .
+Schedule has made . a written proposal and declaration, containing particulars and statements which it is hereby agreed are the basis of this Contract . and has paid the premium mentioned in the Schedule, which premium is subject to adjustment as hereinafter provided, this Policy witnesseth that if at any time during the period of the indemnity as stated in the Schedule or during any subsequent period for which the Company may accept premium for the renewal of this Policy any person of a description mentioned in the Schedule who is under a contract of service or apprenticeship with the Employer shall sustain personal injury by accident or disease arising out of and in the course of employment by the Employer in work forming part of the process in the business mentioned in the Schedule, the Company will indemnify the Employer against liability at law for damages in respect of such injury or disease The policy provided that the Company should not be liable under it in respect of accidents occurring elsewhere than in Great Britain, Northern Ireland, the Isle of Man or the Channel Islands.
+The policy provided that premiums were to be regulated by the amount of wages, salaries, or other earnings paid to employees by the employer during each period of insurance, with a wages book being kept open to inspection for that purpose and the employer supplying the correct amounts within one month of the expiry of each insurance period.
+Condition 1 and the Schedule were in similar form to those in the first wording.
+Third Wording (1970 to 1976) After a recital in the same form as the second wording, this wording provided: that if at any time during the period of the indemnity as stated in the Schedule or during any subsequent period for which the Company may accept premium for the renewal of this Policy any person of a description mentioned in the Schedule who is under a contract of service or apprenticeship with the Employer shall sustain personal injury by accident or disease arising out of and in the course of employment by the Employer in the business mentioned in the Schedule, the Company will indemnify the Employer against liability at law for damages in respect of such injury or disease Under the third wording, there was the same territorial limitation as under the second wording in relation to accidents occurring elsewhere than in Great Britain, etc.
+Premiums were also regulated by reference to wages, salaries, etc. and condition 1 and the Schedule were in the same terms as in the second wording. (2) Independent Sole wording in Issue (1972 to 1987): This was a Contractors Combined Policy, covering Employers Liability (section 1), Public Liability (section 2) and Loss of or Damage to Contract Works (section 3).
+It provided: NOW THIS POLICY WITNESSETH that during the Period of Insurance or during any subsequent period for which the Company may accept payment for the continuance of this Policy and subject to the terms, exceptions and conditions contained herein and or endorsed hereon, the Company will indemnify the Insured as hereinafter specified.
+SECTION 1 EMPLOYERS' LIABILITY If any person who is under a contract of service or apprenticeship with the Insured shall sustain bodily injury or disease arising out of and in the course of his employment by the Insured in connection with the Contract specified or type of work described in the Schedule the Company will indemnify the Insured against all sums for which the Insured shall be liable at law for damages for such injury or disease The Policy provided that the Company was not to be liable for injury, illness, loss or damage caused elsewhere than in Great Britain, the Isle of Man or the Channel Islands.
+As a result of the ELCIA 1969 making insurance in respect of employers liability compulsory, the Independent wording also contained the further provision (the ELCIA extension provision): "AVOIDANCE OF CERTAIN TERMS AND RIGHT OF RECOVERY The indemnity granted by section 1 of this Policy is deemed to be in accordance with the provisions of any law relating to compulsory insurance of liability to employees in Great Britain.
+It is agreed the Insured shall repay to the Company all sums paid by the Company which the Company would not have been liable to pay but for the provisions of such law. " The policy Schedule contains spaces for entry of first, annual and minimum premium, as well as of the name of the Principal for whom the insured is undertaking work, the details of the contract or type of work covered by the policy and its situation.
+Condition 7 provides that the premium is based on estimates provided by the Insured, for record keeping, for the supply of updated information as required by the Company within one month of the expiry of each insurance period and for adjustment of the premium on that basis. (3) MMI First Wording (1949 to 1958) the Company hereby agrees that if at any time during the period of insurance specified in the schedule or thereafter during any subsequent period for which the Insured shall agree to pay and the Company shall agree to accept a renewal premium of the amount specified in the said schedule, or of such other amount as the Company shall from time to time require, any person under a contract of service with the Insured shall sustain any personal injury by accident or disease arising out of and in the course of his employment by the Insured in their activities described in the schedule and if the Insured shall be liable to pay damages for such injury or disease then, subject to the terms and conditions contained herein or endorsed hereon, the Company shall indemnify the Insured against all sums for which the Insured shall be so liable The policy was expressed not to apply to or include liability in respect of injury or disease caused elsewhere than in Great Britain, Northern Ireland, the Isle of Man or the Channel Islands.
+Condition 5 regulated premiums by reference to wages, salaries, etc, and made provision for a wages book and adjustment to like effect to the Excess second wording.
+The policy Schedule provided for the classification of staff and employees according to departments and job description, with corresponding figures for estimated total remuneration.
+Second Wording (1958 to 1974) the Company hereby agrees that if at any time during the First Period of Insurance specified in the said Schedule or during any subsequent period for which the Insured shall agree to pay and the Company shall agree to accept a renewal premium of the amount specified as the Renewal Premium in the said Schedule or of such other amount as the Company shall from time to time require, any person under a contract of service with the Insured shall sustain any bodily injury or disease arising out of and in the course of his employment by the Insured in the Insured's activities described in the said Schedule and if the Insured shall be liable to pay damages for such injury or disease or for death resulting from such injury or disease then, subject to the terms, exceptions and conditions contained herein or endorsed hereon or set out in the Schedule to this Policythe Company will indemnity the Insured against all sums for which the Insured shall be so liable.
+Like the first wording, this wording contained a territorial exclusion of liability in respect of injury or disease caused elsewhere than in Great Britain, etc.
+The policy Schedule provided for the entry of the Estimates (if any) on which the premium is calculated, including in particular any such estimate of wages, salaries, etc. paid to staff, and cross referred to condition 7, which provided that, if the premium had been based on any estimates, an accurate record should be kept (of actual amounts), the insured should provide insurers with such particulars and information as might be required within one month of the expiry of the policy period and the premium adjusted accordingly.
+Third Wording (1974 to 1992) The Company agrees to indemnify the Insured in respect of all sums without limit as to amount which the Insured shall be legally liable to pay as compensation for bodily injury or disease (including death resulting from such bodily injury or disease) suffered by any person under a contract of service or apprenticeship with the Insured when such injury or disease arises out of and in the course of employment by the Insured and is sustained or contracted during the currency of this Policy.
+The policy Schedule contemplated a premium adjustable in accordance with condition 5, which in turn provided (in like manner to condition 7 of the second wording) for the adjustment of any premium so calculated by reference to actual amounts at the end of the policy period. (4) BAI First Wording (1953 to 1974) . the Company willindemnify the Insured against all sums of money which the Insured may become liable to pay to any Employee engaged in the direct service of the insured or any dependent of such Employee in respect of any claim for injury sustained or disease contracted by such Employee betweenandboth inclusive The policy carried the note: This policy does not cover the insureds liability for accidents to workmen arising outside the United Kingdom.
+Conditions 1 and 2 made elaborate provision for the regulation of premiums by the amount of wages, salaries, or other earnings paid to employees by the employer during each period of insurance, with pay sheets and books of account being kept open to inspection for that purpose and the employer making a return, and the premium being adjusted, subject to a minimum, at the end of each insurance period.
+Second Wording (1974 to 1983) the Company willindemnify the Insured against all sums of money which the Insured may become legally liable to pay in respect of any claim for injury sustained or disease contracted by any person engaged in and upon the service of the Insured and being in the Insured's direct employment under a Contract of Service or Apprenticeship between theday ofand theday ofboth inclusive This wording also excluded insurers from liability in respect of accidents to employees arising outside the United Kingdom.
+Like the Independent and third MMI wordings, the BAI second wording also included the ELCIA extension provision.
+Conditions 1 and 2 provided for the regulation and adjustment of premiums by reference to actual wages, salaries, etc. during each insurance period, in like terms to conditions 1 and 2 in the first wording. (5) Zurich The Municipal First Select wording (1993 to 1998) The INSURER will indemnify the INSURED in respect of all sums which the INSURED may become legally liable to pay as damages and claimants' costs and expenses in respect of Injury sustained during the Period of Insurance by any EMPLOYEE arising out of and in the course of employment by the INSURED in the BUSINESS within the Geographical Limits.
+The Municipal Second Select wording (1998 ) The INSURER will indemnify the INSURED in respect of all sums which the INSURED may become legally liable to pay as damages and claimants' costs and expenses in respect of Injury caused during the Period of Insurance to any EMPLOYEE arising out of and in the course of employment by the INSURED in the BUSINESS within the Geographical Limits.
+The tariff wording (1948 ) if any person under a contract of service or apprenticeship with the Insured shall sustain any personal injury by accident or disease caused during the period of insurance and arising out of and in the course of his employment by the Insured in the business above mentioned and if the Insured shall be liable to pay damages for such injury or disease the Association shall indemnify the Insured against all sums for which the Insured shall be so liable.
+LORD CLARKE
+Like other members of the Court, I agree with Lord Mance on the construction issue.
+Thus I agree that, for the purposes of the EL policies, mesothelioma is sustained or contracted when the process that leads to the disease is initiated as a result of the wrongful exposure of the employee to the asbestos fibre or fibres which cause the disease.
+I do not wish to add to Lord Mances reasoning on the construction issue.
+I do however wish to add some words of my own on the causation issue which sharply divides Lord Phillips and Lord Mance.
+I wish to say shortly why I prefer the conclusion of Lord Mance to that of Lord Phillips.
+As I see it, the effect of Fairchild, Barker and Sienkiewicz may be summarised in this way.
+An employer who, in breach of duty, has exposed an employee to asbestos is liable in damages if the employee subsequently suffers the disease.
+The employees cause of action is not that he was exposed to the risk of mesothelioma.
+He has no claim unless he in fact suffers the disease.
+It is the disease which represents the damage which completes the cause of action and it is only then that his cause of action accrues and the relevant time limit begins to run.
+It is axiomatic that, in order to succeed in tort, the employee must show a sufficient causal link between the breach of duty, namely the exposure to asbestos, and the disease which represents the damage, namely mesothelioma.
+The effect of the majority opinion in Barker is that, where there are two or more employers who have exposed the claimant to the risk of mesothelioma, they are not jointly and severally liable to the claimant for the whole of the consequences of the disease but only severally liable for an aliquot part.
+That decision was reversed by the Compensation Act 2006, so that such employers are jointly and severally liable for the whole of the consequences.
+The question in this appeal is whether the employers liability insurers are liable to indemnify the employers in respect of that liability.
+It would in my opinion be a remarkable result if they were not.
+Lord Phillips notes at para 109 that Mr Edelman QC accepted that, if the correct analysis of the special rule, which (using Lord Phillips definitions) was the result of the combined effect of the special approach in Fairchild and Barker and the Compensation Act 2006, was that the employers were deemed to have caused mesothelioma by exposing the employees to asbestos dust, the insurers would be liable.
+Lord Phillips accepts that that concession was correctly made.
+I agree, for the reasons he gives at paras 109 to 114.
+The question is therefore whether the correct analysis of the special rule is indeed that the employers were deemed to have caused the mesothelioma.
+I accept that in such a case the employee cannot show on the balance of probabilities that the employers negligence caused the disease.
+The effect of Fairchild and Sienkiewicz was however that the employer is liable where the exposure contributed to the risk that the employee would suffer the disease and where the employee in fact suffers the disease.
+That is not in dispute.
+Lord Phillips says at para 124 that the majority in Barker drew the vital distinction between being liable for contributing to the cause of the disease and being liable for the creation of the risk of causing the disease.
+He quotes para 2 of Lord Hoffmanns speech as follows: Is any defendant who is liable under the exception deemed to have caused the disease? On orthodox principles, all defendants who have actually caused the damage are jointly and severally liable.
+Or is the damage caused by a defendant in a Fairchild case the creation of a risk that the claimant will contract the disease? In that case, each defendant will be liable only for his aliquot contribution to the total risk of the claimant contracting the disease a risk which is known to have materialised.
+Lord Phillips further notes that at para 125 Lord Hoffmann advanced the thesis that the basis of liability was the wrongful creation of the risk or chance of causing the disease and that the damage that the defendant should be regarded as having caused was the creation of such risk or chance.
+See also the passages to like effect referred to by Lord Mance at para 61.
+I accept that Lord Hoffmann and others did indeed advance that view of Fairchild but it is I think important to note that it was in the context of the question whether, in a case of two or more employers, each was severally liable for a proportion of the consequences of the mesothelioma or whether each was jointly and severally liable for the whole.
+Lord Hoffmann cannot have intended to hold, without more, that the basis of liability was the wrongful creation of the risk or chance of causing the disease because there would be no liability at all but for the subsequent existence of the mesothelioma.
+It seems to me that, whether the majority in Barker were correct or not, there is no escape from the conclusion that, in all these cases, where it is not possible to show that the particular employer caused the claimant to suffer mesothelioma, the underlying question is who should be held responsible for causing the mesothelioma which in fact struck down the employee.
+None of the cases is authority for the proposition that causation is irrelevant.
+On the contrary, the quest is for the employer who can fairly be held liable for the consequences of the disease and therefore for the employer who can fairly be said to have caused the disease.
+The courts have embarked on similar quests over the years.
+Lord Mance has given a number of examples.
+As Lord Mance shows at para 56, they include Bonnington and McGhee, where Lord Reid was prepared to take a broad view of causation and Lord Wilberforce rejected a traditional approach for policy or evidential reasons.
+In my opinion the reasoning in Sienkiewicz is of some significance in this context.
+Lord Mance has given the relevant references in para 61.
+Thus, as Lord Mance observes, at para 61 Lord Phillips said that Fairchild and Barker had developed the common law by equating materially increasing the risk with contributing to the cause in specified and limited circumstances.
+Lord Mance further refers to Lord Brown speaking of a more relaxed approach to causation and flexibility in the approach to causation at paras 178 and 187.
+Lord Mance had himself referred to Fairchild and Barker as involving a special rule of causation at para 188, and Lord Kerr referred to them as involving a modification of the previously applicable legal rules in relation to the causation element in employers liability claims at para 196 and to adjustments in the burden of proof at paras 198 and 200.
+Again, as Lord Mance observes at para 61 above, Lord Dyson referred (at para 207) to materially increasing the risk of contracting the disease as sufficient to satisfy the causal requirements for liability (para 207).
+Both Mr Beloff QC and Mr Stuart Smith QC addressed these issues in their oral submissions.
+They both in effect submitted that the effect of Fairchild, Barker and Sienkiewicz was that the employers were deemed to have caused mesothelioma by exposing the employees to asbestos dust.
+They both recognised that the ordinary rule of causation could not apply and that some element of policy or doctrine was required in order to explain Fairchild.
+Mr Stuart Smith submitted that the effect of Fairchild was that each material exposure to asbestos dust is doctrinally held responsible for the mesothelioma.
+Mr Beloffs submission was to much the same effect.
+He relied upon a dictum of Lord Walker in Barker at para 109: A rule of law by which exposure to risk of injury is equated with legal responsibility for that injury entails the possibility that an employer may be held liable for an injury which was not in fact caused by that exposure (though in the present state of medical science, that fact can be neither proved nor disproved).
+The injury is of course the mesothelioma, which is necessary to complete the cause of action.
+On that basis it seems to me that Lord Walkers statement that the risk of injury is equated with legal responsibility for the injury is in effect to say that, by creating the risk of mesothelioma in the future, the employer is deemed to have caused the mesothelioma, if it should develop in the future.
+It appears to me that these conclusions are supported by Lord Mances analysis of section 3 of the Compensation 2006 at paras 67 and 68, with which I agree and to which I do not wish to add anything.
+Given Mr Edelmans concession that, if that is correct, the employers are liable under the policies (and this Courts acceptance of it) I would hold that the causation point does not assist the insurers.
+I would only add this.
+It appears to me that, once it is held that, on these facts, the employers are liable to the employees, it would be remarkable if the insurers were not liable under the policies.
+Rather as in AXA, the whole purpose of the policies was to insure the employers against liability to their employees.
+That purpose would be frustrated if the insurers submissions on this point were accepted.
+I agree with Lord Mance, for the reasons he gives at paras 69 73 that these policies respond to these claims.
+For these reasons, I too would dismiss the appeals by insurers so far as they concern the policies with contracted wordings.
+I would allow the appeals against insurers, and dismiss the appeal by the Independent, so far as they concern policies with sustained wordings.
+LORD DYSON
+I too agree with Lord Mance on the construction issue.
+As to the causation issue, I agree with the reasoning of Lord Mance and Lord Clarke.
+Accordingly, I would dismiss the appeals by insurers in so far as they concern the policies with contracted wordings.
+I would allow the appeals against insurers, and dismiss the appeal by the Independent, so far as they concern policies with sustained wordings.
+LORD PHILLIPS
+Introduction
+So called long tail industrial diseases have raised peculiar difficulties in the field of tort.
+These diseases result from the effect on the body of exposure to noxious substances.
+The effect can be long, drawn out and mysterious, in as much as medical science has not yet identified the precise mechanism, or chain of causation, by which the noxious substance causes the disease.
+Mesothelioma is a long tail disease in which the problems raised have been particularly acute.
+The problems arise in the application of principles of law that do not ordinarily give rise to difficulty.
+An employer will be liable in damages if by an act or omission that is negligent or in breach of statutory duty he causes physical harm to an employee.
+In the vast majority of cases there will be no difficulty in identifying the moment at which the negligence or breach of duty causes the physical harm, for the harm will take the form of an obvious injury.
+This is not the position in respect of mesothelioma.
+Asbestos dust, inhaled into the lungs, is the agency that causes mesothelioma, but as long as forty or fifty years may elapse before the effects on the body of dust inhaled culminate in symptoms of mesothelioma.
+Once the symptoms are felt, the disease will develop swiftly to bring about an inevitable and extremely unpleasant death.
+Where a victim of mesothelioma was exposed to asbestos dust over a period of years it is impossible, even with hindsight, to determine on balance of probabilities whether dust inhaled in a particular year caused or contributed to the development of the mesothelioma.
+It follows that, where the victim worked for a series of employers, each of whom exposed him to asbestos dust, it is impossible to prove on balance of probability that any particular employer caused or contributed to the victims mesothelioma.
+This means that the normal principles of the law of tort provide no remedy to the employee or his dependants.
+The manifest injustice of this position led the House of Lords in Fairchild v Glenhaven Funeral Services Ltd [2002] UKHL 22; [2003] 1 AC 32 and Barker v Corus UK Ltd [2006] UKHL 20; [2006] 2 AC 572 to create what I shall describe as a special approach to causation in respect of mesothelioma, whose effect was immediately varied by Parliament by section 3 of the Compensation Act 2006.
+I shall describe the composite result achieved by the House of Lords and Parliament as the special rule.
+I shall examine the nature of this special rule in due course.
+Its effect was, however, to place each employer in the same position as that employer would have been under at common law if it were proved, on balance of probability, that its negligence or breach of duty in exposing the employee to asbestos dust had contributed to causing the employees mesothelioma.
+These developments of the law of tort have formed the backdrop to the issue that has occupied almost all of the eight days that this Court has devoted to this appeal.
+I shall call this issue the construction issue.
+The construction issue relates to the true construction of a number of policies of insurance against employers liabilities (EL policies) with similar, but not identical, provisions as to the cover provided.
+The EL policies provided cover by reference to specific periods usually of a year.
+The central issue relates to the event or events that, on true construction of each policy, had to occur within the period of the policy in order to render the insurer liable to indemnify the employer in respect of liability for causing an employees mesothelioma.
+The policies provided cover in respect of diseases sustained or contracted during the period of the policy.
+The meaning of each of those words, in its context, lies at the heart of the construction issue.
+It does not seem that the construction issue initially received a great deal of consideration.
+Insurers treated the policies as if they covered an employer whose breach of duty within the period of the policy had contributed to causing the disease and regarded this requirement as satisfied if the employer was held liable because he had exposed the employee to asbestos dust during that period.
+Where more than one insurer was liable on this basis, they apportioned liability according to the period of exposure covered by each.
+The attitude of four of the five insurers party to this appeal changed as a result of the decision of the Court of Appeal in Bolton Metropolitan Borough Council v Municipal Mutual Insurance Ltd [2006] EWCA Civ 50; [2006] 1 WLR 1492.
+Those insurers are MMI, Excess, BAI and Independent, each of which is in run off.
+I shall describe them collectively as the insurers.
+Their opponents I shall describe collectively as the employers, although they embrace solvent employers, individuals claiming under the Third Party (Rights against Insurers) Act 1930, and Zurich, which has a community of interest with these.
+Bolton concerned the scope of cover of a public liability policy (PL policy) in relation to liability for causing mesothelioma.
+The policy provided cover in respect of an injury that occurs during the currency of the policy.
+The argument proceeded on the premise that the chain of causation of mesothelioma, once it was diagnosed, could be traced back to the initial inhalation of asbestos dust.
+The issue was whether the mesothelioma could properly be said to have occurred at the time of the initial inhalation.
+The Court of Appeal held that it could not.
+The injury only occurred, at earliest, at the stage of development of the disease at which malignancy occurred.
+This was, on the evidence, ten years, give or take a year, from the date on which it became possible to diagnose the existence of the tumour but very many years after the initial inhalation of asbestos dust.
+This decision led the insurers to take the point that a similar approach should be taken to the interpretation of the cover afforded by the EL policies.
+Mesothelioma was not, on true construction of the policies, sustained or contracted at the time of the initial inhalation of asbestos dust.
+It was only sustained or contracted at the much later stage when, as a consequence of the process initiated by asbestos dust, an actionable injury in the form of malignancy, developed.
+Before Burton J, the Court of Appeal and this Court the construction issue has been argued at great length and in great detail.
+I agree, as do the other members of the Court, with the conclusions reached by Lord Mance on the construction issue.
+These conclusions have application not merely to mesothelioma but to employers liabilities in relation to other long tail industrial diseases such as asbestosis and pneumoconiosis.
+For the purpose of EL policies, these diseases are sustained or contracted when the process that leads to the disease is initiated as a result of the wrongful exposure of the employee to the noxious substance that causes, or contributes to the cause or the extent of, the disease.
+Throughout the hearing of this appeal there has lurked a second issue.
+It has not been the subject of argument below, nor does it feature in the agreed Statement of Facts and Issues.
+This is, perhaps, because it relates to a point that does not arise out of Bolton.
+It has always been there for the taking, but insurers have not hitherto chosen to raise it, perhaps because its consequences are unattractive.
+It arises out of a problem that is similar to that which led the House of Lords to formulate the special approach in Fairchild and Barker.
+It is not possible for an employer to prove that an employees mesothelioma was, in fact, caused in whole or in part by any particular period of exposure to asbestos dust.
+Thus the employer cannot prove, on balance of probability, that the mesothelioma for which he has been held liable under the special rule was, in fact, initiated in any particular policy year.
+How, then, can he prove that his liability falls within the scope of the cover, even if the policy bears the construction contended for by the employers and upheld by this Court? How can he prove that his liability arises out of disease sustained or contracted within the policy period, giving these words the same meaning as initiated? I shall call this issue the causation issue.
+The causation issue and the judgments below
+Although the causation issue was not raised in argument below, it was dealt with, at least implicitly, in the judgments of both courts.
+Burton J at first instance, and Rix and Stanley Burnton LJJ in the Court of Appeal proceeded on the basis that, in the case of a mesothelioma victim, exposing the victim to asbestos dust could be treated as equivalent to causing his disease.
+This approach was based on the special rule.
+Thus Burton J at paras 42 to 58 summarised, without significant comment, what he described as the special mesothelioma jurisprudence as it was at the time of his judgment.
+This included Fairchild, Barker and the 2006 Compensation Act.
+He thereafter proceeded on the basis that exposing a mesothelioma victim to asbestos dust could be treated as having been equivalent to causing the victim to contract the disease.
+Thus, when summarising his conclusions at para 243 he said: I conclude, in relation to the policies in issue before me, that they respond, just as would policies with caused wording, to claims against insurers where employers are liable on the basis of inhalation by employees during the policy period.
+They respond, consistently with other EL policies, in respect of mesothelioma claims, on an exposure basis.
+For the purposes of these policies, injury is sustained when it is caused and disease is contracted when it is caused, and the policies fall to be so construed.
+Rix LJ drew a distinction between the meaning of contracted and sustained.
+Contracted referred to the time of the diseases causal origins para 245.
+He felt constrained by Bolton, however, to hold that no injury was sustained until the disease reached the malignant stage.
+Implicit in his judgment was the premise that exposure to asbestos dust during the period of the policy could be treated as the causal origin of the disease see for example his comments at para 244.
+A difficult passage in his judgment at paras 280 283, when considering the meaning of injury, suggests that this premise was founded on the special rule.
+Thus he was able to conclude that the disease was contracted at the time that the victim was exposed to asbestos dust albeit that injury was not sustained at that point.
+In a short judgment Stanley Burnton LJ adopted similar reasoning.
+He stated, at para 338: We are agreed that in any year in which there was substantial exposure to asbestos, mesothelioma was caused by that exposure during that year.
+The fact that the disease did not develop for some years does not break the chain of causation.
+Submissions on the causation issue
+The causation issue was not raised by the insurers as a discrete issue.
+It none the less surfaced in a passage of the written case for Excess that was addressing the employers case that personal injury by disease was sustained at the moment of inhalation of asbestos dust that triggered the process of sustaining personal injury by disease.
+One of the arguments advanced by Excess in answer to this submission read as follows: Medically and empirically, one cannot be said to have suffered an injury on a particular day because it cannot be known in (say) a 10 year occupational exposure period on which of the 3652 days the fatal dose was inhaled (and it may be on more than one).
+It is likely that any ingestion on a particular day was irrelevant to the development of the final condition.
+There has been a tendency on the part of the claimants to treat inhalation as a single event from which an unbroken line can be drawn to malignancy.
+It is not.
+Inhalation (and hence on this theory) injury may occur over several thousands of days.
+Each day does not bring injury.
+Any particular day cannot therefore be selected as injury day.
+To overcome problems of medical causation in a personal injury action against an employer, the House of Lords extended the McGhee principle to mesothelioma in Fairchild.
+However this was a rule of causation and not definition.
+There is no such rule in insurance policies which defines what amounts to an injury.
+The Supreme Court in Sienkiewicz stressed the limits of the Fairchild exception in no uncertain terms, and it is submitted that it would be quite wrong for it now to invade the law of contract.
+A liability policy responds only to indemnify against a liability (i.e. actionable injury).
+There is no such liability on inhalation.
+Injury occurs when the claimant has a personal injury by disease.
+Thus Excess took the point that the special rule could not properly be invoked to establish that, on true construction of the contracts of insurance, injury was sustained upon inhalation of asbestos dust.
+This passage appeared after a submission at para 209 that it was only possible to equate the inhalation of a culpable quantity of asbestos dust with sustaining personal injury by disease by, inter alia, creating a special rule governing the response of EL policies in respect of mesothelioma, and possibly other long tail diseases.
+This proved to be what counsel for the employers sought to do when invited by the Court to address the causation issue.
+They did so in short oral submissions that cannot, when taken together, have occupied more than half an hour of the eight day hearing.
+The relevant submissions made by Mr Beloff QC for Akzo and AMEC and the Local Authorities are reported at pp 120 122 of the transcript for 15 December 2011.
+He started by observing that we had to cut the Gordian knot.
+He suggested that we should do so by equating creation of a risk with causing bodily injury.
+This he submitted was permissible because the object of the policy was to provide cover to an employer who, in breach of duty to employees, caused them compensatable damage.
+Were this approach not adopted, it would be impossible to show that any of a number of insurers providing cover over a period of years was liable.
+The law should rebel against such a result.
+In support of this submission Mr Beloff cited a statement by Lord Walker of Gestingthorpe in Barker at para 109 suggesting that the special approach to mesothelioma equated the exposure to the risk of injury with legal liability for the injury.
+Mr Stuart Smith QC for Zurich dealt with the causation issue at rather greater length in a passage reported at pp 126 to 131 of the same transcript.
+He started by accepting that it was impossible to know when the metabolic changes that led to the development of mesothelioma in fact occurred.
+Fairchild dealt with this problem by creating a doctrinal rule under which each significant exposure to asbestos dust was held to be responsible for the mesothelioma.
+Thus doctrinally the process of developing mesothelioma started upon inhalation.
+This doctrinal framework for the application of the law of tort was that within which policies of insurance against tortious liability had to operate.
+Mr Stuart Smith agreed with this summary of his argument advanced by Lord Mance: If the law of tort treats someone, an employee, as having sustained a personal injury and treats the employer as liable to pay damages for such personal injury, then the policy answers.
+These submissions on behalf of the employers raise the following questions: i) Will the policies respond to fictional or doctrinal events that are deemed to have occurred under the special rule? If so: ii) Does the special rule deem that events have occurred to which the policies should respond? If not: iii) Can this Court properly reformulate the special rule in such a way as to require the policies to respond? Will the policies respond to fictional or doctrinal events?
+On the premise that he failed on the construction issue, Mr Edelman accepted that, if the correct analysis of the special rule was that the employers were deemed to have caused the mesothelioma by exposing the victims to asbestos dust, then the policies should properly respond.
+Because of the view that I take of the next two questions I do not need to decide whether the concession was properly made.
+I have, however, concluded that it was.
+The policies exist to provide protection against employers liability in tort.
+If the law of tort, whether laid down by the courts or by Parliament, resorts to legal or doctrinal fictions, it seems logical that the policies should respond as if the fictions were facts.
+A purposive approach to construction of the policies would lead to this result.
+Two examples illustrate this approach.
+Ellerbeck Collieries Ltd v Cornhill Insurance Co Ltd [1932] 1 KB 401 involved a policy of insurance against liability under the Workmens Compensation Act 1925.
+The terms of the policy entitled the employer to indemnity if at any time during the currency of the insurance any employee sustained any personal injury by accident or disease.
+The 1925 Act imposed a fictitious test for identifying when an industrial disease was sustained, namely the date on which a certifying surgeon issued a certificate that the employee was suffering from the disease.
+On the strength of a certificate issued within the currency of a policy of insurance an employer was held liable to two workmen who had, in fact, sustained the relevant disease before the period of the insurance began.
+The Court of Appeal held that this liability fell within the cover of the policy.
+The argument for applying the fictional date was a strong one because, as Greer LJ observed at p 417, the policy was intended to cover the employers liability under the Act.
+The parallel between Ellerbeck and the present case would have been stronger had the relevant policies been taken out after the special rule had been created.
+In Rothwell v Chemical & Insulating Co Ltd [2007] UKHL 39, [2008] AC 281 the House of Lords held that pleural plaques caused by exposure to asbestos dust did not constitute actionable injury because they produced no adverse physical effects.
+The Scottish Parliament responded to this decision by introducing the Damages (Asbestos related Conditions) (Scotland) Act 2009 (the Scottish Act).
+That Act provides by section 1 that asbestos related pleural plaques constitute a personal injury which is not negligible and that accordingly they constitute actionable harm for the purpose of an action for damages for personal injury.
+In AXA General Insurance Ltd v HM Advocate [2011] UKSC 46, [2011] 3 WLR 871 the Supreme Court rejected a challenge by insurers to the lawfulness of this Act.
+The Scottish Act effected a limited alteration to the common law in decreeing that asymptomatic pleural plaques constituted non negligible personal injury and thus actionable damage.
+Lord Mance at para 88 suggested that the main target of the legislation was employers insurers.
+He went on at para 89 to consider whether the Act would, in fact, alter the meaning to be given to bodily injury under a policy of insurance: A Scottish Act will not on the face of it change the legal effect of an English insurance contract, even in Scotland.
+However, depending upon the particular policy language, the scope of the concept of bodily injury under a worldwide policy may respond to different conceptions of bodily injury in different parts of the world.
+Here, the question would be whether it would respond to a development or change, such as that introduced retrospectively by the 2009 Act, in the conception of bodily injury.
+I say no more about the answer, which may be elicited in another context or suit.
+While Lord Mance left open the effect of the Scottish Act on the construction of policies of liability insurance, Lord Brown was in no doubt that the effect of the Scottish Act was to subject insurers to liabilities to which they would not have been subject prior to that Act.
+He referred at para 80 to the undoubted, and deliberate, impact of the legislation upon pending claims.
+Earlier, at para 77, he drew an analogy with the effect of the decision in Fairchild on EL insurers liability: Had the House of Lords in Rothwell decided that asymptomatic pleural plaques of themselves constitute a non negligible personal injury and thus actionable damage decided in other words that in this particular context the common law should develop in this admittedly novel way the appellants would doubtless have deplored the decision but they could certainly not have questioned its legitimacy.
+No doubt they would have resented the fact that, as a consequence of the decision, they would unexpectedly have had to pay out on claims resulting from the employees exposure to asbestos upwards of 20 years (quite likely up to 40 years) previously.
+But they could no more have advanced an [article 1, Protocol 1] challenge to this development of the law than they could have challenged the House of Lords decision some four years earlier in Fairchild v Glenhaven Funeral Services Ltd [2003] 1 AC 32 to adopt a less stringent than the usual but for test for establishing the necessary causal connection between an employers negligence and a claimants condition in, most notably, mesothelioma cases.
+Employers (and their liability insurers) necessarily take the risk of the common law developing in ways which may adversely affect them with regard to personal injury claims.
+In this passage Lord Brown assumed that the effect of Fairchild was to bring employers liabilities in respect of mesothelioma within the scope of the cover afforded by EL policies.
+I am about to consider whether he was correct in this.
+I agree, however, with the general principle expressed in the last sentence of the extract from his judgment that I have just cited.
+It is for this reason that I would give an affirmative answer to the first of the three questions posed at para 108 above.
+I turn to the second.
+What is the special rule?
+The employers submissions on the causation issue proceed on the premise that the special rule deems exposure to asbestos dust of an employee who is subsequently diagnosed with mesothelioma to have been a cause of the mesothelioma.
+I have reached the conclusion that that premise is unsound.
+In Sienkiewicz v Greif (UK) Ltd [2011] UKSC 10; [2011] 2 AC 229 I summarised the special rule as follows at para 1: When a victim contracts mesothelioma each person who has, in breach of duty, been responsible for exposing the victim to a significant quantity of asbestos dust and thus creating a material increase in risk of the victim contracting the disease will be held to be jointly and severally liable for causing the disease.
+This is certainly the effect of the special rule, but in order to discover the juridical basis of the rule it is necessary first to identify the basis of the special approach adopted by the House of Lords in Fairchild and Barker and then to consider the effect of section 3 of the Compensation Act, which adapted the special approach into the special rule.
+The special approach
+In Sienkiewicz, at para 70, I stated that Fairchild and Barker developed the common law by equating materially increasing the risk with contributing to the cause in specified and limited circumstances, which include ignorance of how causation in fact occurs.
+As I shall show, this was not an accurate summary of the special approach adopted in those cases.
+In Fairchild the House of Lords confronted the position where a mesothelioma victim had worked consecutively for a number of employers, each of which had exposed him to asbestos dust.
+One or more of these had caused his mesothelioma, but because of the limits of medical knowledge it was not possible, on balance of probability, to identify which.
+In these circumstances their Lordships adopted a special approach that enabled them to find that each of the employers was jointly and severally liable for the mesothelioma.
+In doing so they purported to be following a similar approach adopted by the House of Lords in McGhee v National Coal Board [1973] 1 WLR 1.
+They were not, however, all agreed as to the basis of that approach.
+Lord Hutton, at para 109, held that it was based on the drawing of a factual or legal inference leading to the conclusion that the breach of duty [in exposing the employee to asbestos dust] was a cause of the disease.
+The majority of the House did not agree.
+Lord Bingham said, at para 35: I prefer to recognise that the ordinary approach to proof of causation is varied than to resort to the drawing of legal inferences inconsistent with the proven facts.
+Lord Nicholls of Birkenhead said, at para 42: So long as it was not insignificant, each employer's wrongful exposure of its employee to asbestos dust, and, hence, to the risk of contracting mesothelioma, should be regarded by the law as a sufficient degree of causal connection.
+This is sufficient to justify requiring the employer to assume responsibility for causing or materially contributing to the onset of the mesothelioma when, in the present state of medical knowledge, no more exact causal connection is ever capable of being established."
+Lord Hoffmann at para 65 rejected the suggestion that the House in McGhee held that materially increasing the risk of the disease should be treated as equivalent to material contributing to the injury.
+He concluded: I would respectfully prefer not to resort to legal fictions and to say that the House treated a material increase in risk as sufficient in the circumstances to satisfy the causal requirements for liability.
+Lord Rodger of Earlsferry did not agree.
+His reasoning was close to that of Lord Hutton.
+He held, at para 168: Following the approach in McGhee I accordingly hold that, by proving that the defendants individually materially increased the risk that the men would develop mesothelioma due to inhaling asbestos fibres, the claimants are taken in law to have proved that the defendants materially contributed to their illness.
+What then happened has been summarised by Lord Hoffmann in Perspectives on Causation (2011) at p 8: There are two ways in which one could characterise this change in the substantive law of negligence.
+One is to say that the causal requirements for an action for damages for mesothelioma have been changed; all that is necessary is to prove that the risk has been increased and that the specific exposure may have provided the actual agent.
+The other is to say that the House created, exceptionally, a cause of action for the increased risk of mesothelioma rather than for the disease itself.
+In the former case, satisfying the new causal requirement would entitle the claimant to sue for the whole injury caused by contracting the disease.
+In the latter case, he would be able to sue only for the loss caused by the risk of his contracting the disease having been increased.
+That would be a proportion of the injury caused by the disease, depending on the extent to which the risk had also been created by other causes.
+In Barker v Corus the House of Lords (Lord Rodger of Earlsferry dissenting) adopted the second explanation of what had happened in Fairchild.
+I believe that this summary of the position is essentially correct.
+The majority in Barker were persuaded that justice would best be served if the special approach adopted in Fairchild were applied in such a way as to render each defendant who had wrongfully exposed the claimant to asbestos dust severally liable for that proportion of the mesothelioma that represented the proportion of the wrongful exposure attributable to that defendant.
+This was achieved by holding that the liability of each defendant resulted from adding to the risk that the employee would contract mesothelioma.
+It did not result from an implication that each defendant had actually contributed to the cause of the disease.
+At the start of his speech at para 2 Lord Hoffmann drew the vital distinction between being liable for contributing to the cause of the disease and being liable for the creation of the risk of causing the disease: Is any defendant who is liable under the exception deemed to have caused the disease? On orthodox principles, all defendants who have actually caused the damage are jointly and severally liable.
+Or is the damage caused by a defendant in a Fairchild case the creation of a risk that the claimant will contract the disease? In that case, each defendant will be liable only for his aliquot contribution to the total risk of the claimant contracting the disease a risk which is known to have materialised.
+Lord Hoffmann went on to adopt the latter analysis as the basis of liability in Fairchild.
+At para 31 he held that the majority in Fairchild had not proceeded upon the fiction that a defendant who had created a material risk of mesothelioma was deemed to have caused or materially contributed to the contraction of the disease.
+The creation of a material risk of mesothelioma was sufficient for liability.
+At para 35 he advanced the thesis that the basis of liability was the wrongful creation of the risk or chance of causing the disease and that the damage that the defendant should be regarded as having caused was the creation of such risk or chance.
+Liability for the mesothelioma that developed should be apportioned according to the contribution that each defendant made to the risk that mesothelioma would be contracted.
+Lord Scott of Foscote and Lord Walker of Gestingthorpe expressly agreed with both Lord Hoffmanns conclusion that liability for the mesothelioma fell to be apportioned and with his reasons for so concluding.
+Lord Scott held at para 53 that it was essential to keep firmly in mind that liability in Fairchild was not imposed on any of the defendant employers on the ground that the employers breach of contract had caused the mesothelioma.
+That causative link had not been proved against any of them.
+It was imposed because each, by its breach of duty, had materially contributed to the risk that the employee would contract mesothelioma.
+At para 61 he emphasised that the Fairchild principle was not based on the fiction that each defendant had actually caused the eventual outcome.
+It was based on subjecting the victim to a material risk.
+Lord Walker, having stated that he was in full agreement with Lord Hoffmanns reasons went on at para 104 to make a statement that was inconsistent with them, this being to the same effect as the statement relied on by Mr Beloff see para 106 above.
+Lord Walker stated that the decision in Fairchild equated exposing the victim to the risk of injury with causing his injury.
+This was the same mistake as I made in Sienkiewicz see para 117 above.
+Had this been the case, each defendant would have been jointly and severally liable for the injury.
+Lord Walker went on to say, however, that the result in Fairchild was achieved, not by some fiction, but as an explicit variation of the ordinary requirement as to causation.
+At para 113 he stated that Fairchild was decided by the majority, not on the fictional basis that the defendants should be treated as having caused the victims damage, but on the factual basis that they had wrongfully exposed him to the risk of damage.
+Lady Hale did not adopt Lord Hoffmanns thesis that the creation of risk constituted the damage for which each defendant was liable.
+In general, however, she agreed with the majority.
+She held that in Fairchild, for the first time in our legal history defendants were made liable for damage even though they might not have caused it at all.
+It was not said that the defendants had caused or materially contributed to the harm.
+All that could be said was that each had contributed to the risk of harm.
+In these circumstances it was sensible and fair to apportion liability for the harm in proportion to the contribution that each had made to the risk of harm.
+Lord Rodger of Earlsferry vigorously dissented from the reasoning of the majority and from the result in so far as it apportioned liability.
+He observed at para 71 that the majority were not so much reinterpreting as rewriting the key decisions in McGhee and Fairchild.
+At para 85 he stated that the new analysis that the House was adopting would tend to maximise the inconsistencies in the law.
+I have some sympathy with the observations of Lord Rodger.
+It would, I think, have been possible for the House in Barker to have defined the special approach in Fairchild as one that treated contribution to risk as contribution to the causation of damage.
+The important fact is, however, that the majority did not do so.
+They were at pains to emphasise that the special approach was not based on the fiction that the defendants had contributed to causing the mesothelioma.
+Liability for a proportion of the mesothelioma resulted from contribution to the risk that mesothelioma would be caused and reflected the possibility that a defendant might have caused or contributed to the cause of the disease.
+This was no obiter expression of opinion.
+It formed the basis of the substantive decision that liability was severable and not joint.
+The special rule
+The special approach rendered each employer who had wrongfully exposed a mesothelioma victim to asbestos dust liable for a proportion of the mesothelioma without creating any inference or legal fiction that the employer in question had actually contributed to causing the disease.
+Section 3 of the Compensation Act altered the position by imposing joint and several liability on those who were only severally liable under the special approach.
+Did the special rule that resulted involve a different basis of liability to that which formed the basis of the special approach? This question is considered by Jonathan Morgan in his interesting Chapter 4 of Perspectives on Causation headed Causation, Politics and Law: The English and Scottish Asbestos Saga.
+At p 79 he poses the following question: Has Parliament, by implication, therefore also reversed Lord Hoffmanns principled reinterpretation of Fairchild? Is the nature of Fairchild liability now after all for causing mesothelioma and not increasing risk?
+Mr Morgan gives a negative answer to this question, expressing the view that Barker has altered the jurisprudential basis of the Fairchild liability irrevocably.
+I agree that section 3 of the Compensation Act did not alter the jurisprudential basis of the special approach laid down by the House of Lords in Fairchild and Barker.
+All that it did was to alter the effect of the special approach by making each defendant jointly and severally liable for the whole of the injury sustained.
+Section 3(1) provides that the section applies where (c) because of the nature of mesothelioma and the state of medical science, it is not possible to determine with certainty whether it was the exposure [for which the defendant was responsible]or another exposure which caused the victim to become ill, and (d) the responsible person is liable in tort(whether by reason of having materially increased a risk or for any other reason).
+It is not possible to read section 3 as imposing a different basis of liability to that identified by the majority in Barker.
+The consequence of the special rule
+Having regard to its jurisprudential basis I cannot see how the employers can found upon the special rule as identifying the policy year or years in which a victims mesothelioma is initiated.
+The position is that it is impossible to prove on balance of probability when mesothelioma is initiated, or contracted, or sustained, giving each of those words the same meaning.
+The special rule does not fill the gap for it raises no implication or fictional assumption as to when mesothelioma is initiated.
+The consequence is that if claimants have to show that mesothelioma was initiated in a particular policy year in order to establish that insurers are liable they are unable to do so.
+Should this Court redefine the special rule in order to engage the EL policies?
+The special approach of the majority in Barker had the object of ensuring that employers who had wrongfully subjected their employees to asbestos dust should bear what the majority considered to be a fair share of responsibility for their wrongdoing.
+It does not seem likely that the majority gave consideration to the implications for the responsibility of EL insurers of the manner in which this object was achieved.
+Should this Court now redefine the special rule with the object of enabling claims to be brought under the EL policies? This would, I think, involve holding that the majority in Barker erred in their analysis and that the true basis of the special approach in Fairchild was that contribution to risk should be deemed to be contribution to causation.
+I would give a firm No to this question.
+The adoption of the special approach in Fairchild has provoked considerable criticism, both judicial and academic.
+An example of the former is to be found in the judgment of Lord Brown in Sienkiewicz.
+An example of the latter is Mr Morgans closely reasoned Chapter 4 of Perspectives on Causation.
+But the object of the special approach in Fairchild and Barker was at least to ensure that those who had breached the duties that they owed to their employees did not escape liability because of scientific uncertainty.
+It would be judicial law making of a different dimension to create a legal fiction as to the policy years in which cases of mesothelioma were initiated in order to render liable insurers who could not otherwise be shown to be liable.
+The Secretary of State has intervened in this appeal and has submitted that, should the claims of employees or their dependants not be met by insurers, they are likely to be a burden on the public purse.
+It is open to question whether this is a proper consideration, even when considering whether the special rule should be redefined for what are essentially reasons of policy.
+In any event it seems to me that the position is somewhat more complex than the Secretary of State suggests.
+The burden of claims in respect of mesothelioma on a scale that was never anticipated is reducing both employers and insurers to insolvency.
+If this Court were to redefine the special rule so as to impose liability for mesothelioma claims on EL insurers where it could not otherwise be made out, this would in many cases be at the expense of others with claims on the same insurers founded on facts and not legal fictions.
+The liabilities in respect of mesothelioma will increase the overall shortfall on the part of insurers and this is also likely to have implications for the public purse.
+So far as I am concerned, however, these considerations have little relevance.
+Even if there were a compelling case for contending that a means should be found to render EL insurers liable, my reaction would be that this was a matter for Parliament not the courts.
+It would be wrong in principle for this Court to depart from the reasoning of the majority in Barker for the sole purpose of imposing liability on EL insurers.

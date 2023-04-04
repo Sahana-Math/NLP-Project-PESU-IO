@@ -1,0 +1,54 @@
+This case concerns the scope for justifying indirect discrimination against men in the allocation of Child Tax Credit (CTC).
+CTC was introduced by the Tax Credits Act 2002 and replaced the previous separate systems of tax credits and benefit supplements for people looking after children, separately administered by the tax and benefits authorities.
+CTC is a benefit payable in respect of each child irrespective of whether the applicant is employed.
+It is administered solely by HMRC.
+The amount of CTC payable depends on the income of the applicant.
+Under the Child Tax Credit Regulations 2002 (SI 2002/2007), CTC in respect of each child is payable to only one person, even where the care of the child is shared between two or more persons.
+Entitlement to CTC depends on who is deemed responsible for the child.
+Regulation 3(1) creates a set of rules for determining this.
+Rule 1 provides that where the child lives with one person, that person is treated as responsible.
+Rule 2 provides that where a child lives with two or more persons in different households, the person having main responsibility for the child is treated as being responsible.
+The Appellant is a father of two children.
+Between January 2004 and December 2005 both children lived with their mother but retained substantial contact with the Appellant, spending most weekends and half of all school holidays with him.
+The Appellant applied for CTC which was considered under Rule 2, above.
+The Respondent determined that the mother had main responsibility for the children and the Appellants application was rejected.
+The CTC was paid solely to the mother.
+The Appellant appealed the refusal of CTC arguing that the legislative scheme breached article 14 read with article 1 of the First Protocol to the European Convention on Human Rights (the ECHR) in that it indirectly discriminates against men because, on the whole, fathers are more likely than mothers to have secondary, but nonetheless significant, responsibility for the care of their children.
+Entitlement to CTC falls within the scope of the right to protection of property under article 1 of the First Protocol to the ECHR.
+Article 14 of the ECHR provides that the enjoyment of rights and freedoms under the ECHR shall be secured without discrimination on grounds of, amongst others, sex.
+The HMRC now accepts that the legislative scheme indirectly discriminates against men.
+The key issue was whether that discrimination was objectively justified.
+The appeal tribunal held that it was not and therefore that denying CTC to the father was a breach of article 14 of the ECHR read with article 1 of the First Protocol.
+The Upper Tribunal held that the discrimination was justified and that decision was upheld by the Court of Appeal.
+The Supreme Court unanimously dismisses the appeal.
+Lady Hale gives the lead judgment with which Lord Walker, Lord Clarke, Lord Wilson and Lord Reed agree.
+The Appellant relied upon the Court of Appeal decision in Hockenjos v Secretary of State for Social Security [2004] EWCA Civ 1749, [2005] EuLR 385 in which it was held that the denial of child supplements to a fathers jobseekers allowance where he and the mother shared roughly equal care of the children was unjustified indirect discrimination [12].
+The case was brought under European Union anti discrimination law rather than the ECHR.
+Following that decision HMRC conducted a review of the no splitting rule in CTC, the results of which helped persuade both the Upper Tribunal and the Court of Appeal that there were features of the instant case distinguishing it from Hockenjos.
+The specific test under the ECHR for justifying discrimination in the context of state benefits is set out in Stec v United Kingdom (2006) 43 EHRR 1017, a decision of the Grand Chamber of the European Court of Human Rights [15].
+The benefits in that case were for people who were required to stop work because of injury.
+Entitlement reduced upon reaching retirement age which had a discriminatory effect on women who reached that age five years before men.
+The Court repeated that A difference in treatment is discriminatory if it has no objective and reasonable justification; in other words, if it does not pursue a legitimate aim or if there is not a reasonable relationship of proportionality between the means employed and the aim sought to be realised (para 51).
+However, when it comes to general measures of economic and social strategy, a wide margin of appreciation is allowed to member states.
+The Court will generally respect the legislatures policy choice unless it is manifestly without reasonable foundation [16].
+Hence this particular measure was justified.
+The test in Stec has been applied in other direct discrimination cases.
+If it applies to direct discrimination cases, then it must also apply to indirect discrimination cases such as this.
+In the context of state benefits, under the ECHR the normally strict test for justification of sex discrimination gives way to the manifestly without reasonable foundation test [19].
+This does not mean however that the justifications put forward will escape careful scrutiny by the courts [22].
+The Appellants main complaint is that the scheme leaves him with nothing to provide for the needs of his children when they stay with him [23].
+Although the mother could choose to share the CTC, neither HMRC nor the courts can compel her to do so.
+Against this, HMRC points out that the aim of the scheme is to reduce child poverty.
+It is paid to the main carer on the expectation that that person incurs most of the expenditure in looking after the child [25].
+Splitting the CTC between two carers of modest means could result in neither of them being able to provide for the childs needs [25].
+Furthermore, splitting CTC on the basis of means would introduce administrative complexities and increase costs [25].
+Finally, the Appellant is asking for an exception to be made to an otherwise justifiable rule.
+It has been previously established that generally justifiable rules are not unreasonable or without foundation merely because they result in hardship in some cases [26].
+The scheme in this case is geared towards reducing child poverty.
+The current definitions of child poverty rely upon household income, which means that targets will be easier to meet if support is given to single households rather than split [28].
+However, the state is entitled to conclude that children will in fact be better off if CTC is distributed in this way rather than divided between two households with modest means [29].
+That method is also simpler and less expensive to administer, thereby maximising the funds available for distribution [29].
+It was an integral part of the move to combine tax allowances and social security benefits into a seamless tax credit system [30].
+It is also reasonable for the state to regard the way in which it delivers support for children and families as a separate issue from the way in which children spend their time [31].
+It is perhaps unfortunate that the courts making orders about where children are to live no longer have the power to make consequential orders about benefit sharing, where appropriate [32].
+However, the no splitting rule is a reasonable rule for the state to adopt and the indirect discrimination in this case is justified [33].

@@ -1,0 +1,708 @@
+Biometric data such as DNA samples, DNA profiles and fingerprints is of enormous value in the detection of crime.
+It sometimes enables the police to solve crimes of considerable antiquity.
+There can be no doubt that a national database containing the data of the entire population would lead to the conviction of persons who would otherwise escape justice.
+But such a database would be controversial.
+It is not permitted by our law.
+Parliament has, however, allowed the taking and retention of data from certain persons.
+The questions raised by these appeals are whose data may be retained and for how long.
+originally enacted, provided: Section 64 of the Police and Criminal Evidence Act 1984 (PACE), as (1) If (a) fingerprints or samples are taken from a person in connection with the investigation of an offence; and (b) he is cleared of that offence, they must be destroyed as soon as is practicable after the conclusion of the proceedings. (3) If (a) fingerprints or samples are taken from a person in connection with the investigation of an offence; and (b) that person is not suspected of having committed the offence, they must be destroyed as soon as they have fulfilled the purpose for which they were taken.
+Section 64(1A) of PACE was enacted by section 82 of the Criminal Justice
+and Police Act 2001.
+It is still in force.
+It provides: (1A) Where(a) fingerprints, impressions of footwear or samples are taken from a person in connection with the investigation of an offence, and (b) subsection (3) below does not require them to be destroyed, the fingerprints, impressions of footwear or samples may be retained after they have fulfilled the purposes for which they were taken but shall not be used by any person except for purposes related to the prevention or detection of crime, the investigation of an offence, the conduct of a prosecution or the identification of a deceased person or of the person from whom a body part came.
+It will be seen at once that section 64(1A) does not specify any time limit for the retention of the data or any procedure to regulate its destruction.
+These are matters which are addressed in guidelines issued by the Association of Chief Police Officers (the ACPO guidelines) entitled Exceptional Case Procedure for Removal of DNA, Fingerprints and PNC Records and published on 16 March 2006.
+So far as is material, these provide: it is important that national consistency is achieved when considering the removal of such records.
+Chief Officers have the discretion to authorise the deletion of any specific data entry on the [Police National Database] owned by them.
+They are also responsible for the authorisation of the destruction of DNA and fingerprints associated with that specific entry.
+It is suggested that this discretion should only be exercised in exceptional cases.
+Exceptional cases will by definition be rare.
+They might include cases where the original arrest or sampling was found to be unlawful.
+Additionally, where it is established beyond doubt that no offence existed, that might, having regard to all the circumstances, be viewed as an exceptional circumstance.
+In R (S) v Chief Constable of the South Yorkshire Police and R (Marper) v Chief Constable of the South Yorkshire Police [2004] 1 WLR 2196 (Marper UK) the claimants sought judicial review of the retention by the police of their fingerprints and DNA samples on the grounds inter alia that it was incompatible with article 8 of the European Convention on Human Rights (ECHR).
+The majority of the House of Lords held that the retention did not constitute an interference with the claimants article 8 rights, but they unanimously held that any interference was justified under article 8(2).
+The ECtHR disagreed: see its decision in S and Marper v United Kingdom (2008) 48 EHRR 1169 (Marper ECtHR).
+In considering whether retention of data in accordance with the ACPO guidelines was proportionate and struck a fair balance between the competing public and private interests, the court said at para 119: In this respect, the Court is struck by the blanket and indiscriminate nature of the power of retention in England and Wales.
+The material may be retained irrespective of the nature or gravity of the offence with which the individual was originally suspected or of the age of the suspected offender; fingerprints and samples may be takenand retainedfrom a person of any age, arrested in connection with a recordable offence, which includes minor or non imprisonable offences.
+The retention is not time limited; the material is retained indefinitely whatever the nature or seriousness of the offence of which the person was suspected.
+Moreover, there exist only limited possibilities for an acquitted individual to have the data removed from the nationwide database or the materials destroyed; in particular, there is no provision for independent review of the justification for the retention according to defined criteria, including such factors as the seriousness of the offence, previous arrests, the strength of the suspicion against the person and any other special circumstances.
+The court concluded at para 125: that the blanket and indiscriminate nature of the powers of retention of the fingerprints, cellular samples and DNA profiles of persons suspected but not convicted of offences, as applied in the case of the present applicants, fails to strike a fair balance between the competing public and private interests and that the respondent State has overstepped any acceptable margin of appreciation in this regard.
+Accordingly, the retention at issue constitutes a disproportionate interference with the applicants right to respect for private life and cannot be regarded as necessary in a democratic society.
+On 16 December 2008, the Secretary of the State for the Home Department announced the Governments preliminary response to the ECtHR decision.
+The data of children under the age of 10 would be removed from the database immediately and the Government would issue a White Paper and consult on bringing greater flexibility and fairness into the system by stepping down some individuals over timea differentiated approach, possibly based on age, or on risk, or on the nature of the offences involved.
+The White Paper, Keeping the Right People on the DNA Database, was published on 7 May 2009.
+It contained a series of proposals for the retention of data, the details of which are immaterial for present purposes.
+On 28 July 2009, ACPOs Director of Information wrote to all chief constables (including the respondent Commissioner) saying that the final draft for publication of new guidelines was not expected to take effect until 2010 and that until that time the current retention policy on fingerprints and DNA remains unchanged.
+On 11 November 2009, after the consultation period had ended, the Secretary of State made a written ministerial statement outlining a revised set of proposals.
+Again, the details are not material.
+It was decided to include these proposals in the Crime and Security Act 2010 (the 2010 Act) which had its first reading on 19 November 2009.
+The 2010 Act received the Royal Assent on 8 April 2010, but the relevant provisions (sections 14, 22 and 23) have not been brought into effect.
+Section 23 provides that the Secretary of State must make arrangements for a National DNA Database Strategy Board (Database Board) to oversee the operation of the National DNA Database (section 23(1)); the Database Board must issue guidance about the immediate destruction of DNA samples and DNA profiles which are or may be retained under PACE (section 23(2)); and any chief officer of a police force in England and Wales must act in accordance with any such guidance issued (section 23(3)).
+The Coalition Government stated in the Queens Speech on 25 May 2010 that it intended to seek amendment of the 2010 Act by bringing forward legislative proposals (in Chapter 1 of Part 1 of the Protection of Freedoms Bill) along the lines of the Scottish system.
+This system permits retention of data for no more than three years if the person is suspected (but not convicted) of certain sexual or violent offences, and permits an application to be made to a Sheriff by a Chief Constable for an extension of that period (for a further period of not more than two years, although successive applications may be made): see sections 18 and 18A of the Criminal Procedure (Scotland) Act 1995, as inserted by sections 83(2) and 104 of the Police, Public Order and Criminal Justice (Scotland) Act 2006.
+GC and C issued proceedings for judicial review of the retention of their data on the grounds that, in the light of Marper ECtHR, its retention was incompatible with their article 8 rights.
+Recognising that there was an irreconcilable conflict between Marper UK and Marper ECtHR and that the former decision was binding on it, the Divisional Court (Moses LJ and Wyn Williams J) dismissed both judicial review challenges on 16 July 2010 and in both cases granted a certificate pursuant to section 12 of the Administration of Justice Act 1969 that the cases were appropriate for a leapfrog appeal to the Supreme Court.
+The facts of these two cases can be stated briefly.
+On 20 December 2007, GC was arrested on suspicion of common assault on his girlfriend.
+He denied the offence.
+A DNA sample, fingerprints and photographs were taken after his arrest.
+On the same day, he was released on police bail without charge.
+Before the return date of 21 February 2008, he was informed that no further action would be taken.
+On 23 March 2009, GCs solicitors requested the destruction of the DNA sample, DNA profile and fingerprints.
+The Commissioner refused to do so on the grounds that there were no exceptional circumstances within the meaning of the ACPO guidelines.
+On 17 March 2009, C was arrested on suspicion of rape, harassment and fraud.
+His fingerprints and a DNA sample were taken.
+He denied the allegations saying that they had been fabricated by his ex girlfriend and members of her family.
+No further action was taken by the police in respect of the harassment and fraud allegations.
+On 18 March 2009, he was charged with rape.
+On 5 May 2009 at Woolwich Crown Court, the prosecution offered no evidence and C was acquitted.
+C requested the destruction of the data and its deletion from the police database.
+On 12 November and again on 2 February 2010, the Commissioner informed C that his case was not being treated as exceptional within the meaning of the ACPO guidelines and his request was refused.
+The issue
+It is common ground that, in the light of Marper ECtHR, the indefinite retention of the appellants data is an interference with their rights to respect for private life protected by article 8 of the ECHR which, for the reasons given by the ECtHR, is not justified under article 8(2).
+It is agreed that Marper UK cannot stand.
+The issue that arises on these appeals is what remedy the court should grant in these circumstances.
+On behalf of C, Mr Fordham QC submits that the court should grant a declaration under section 8(1) of the Human Rights Act 1998 (HRA) that the retention of Cs biometric data is unlawful.
+Section 8(1) provides that In relation to any act (or proposed act) of a public authority which the court finds is (or would be) unlawful, it may grant such relief or remedy, or make such order, within its powers as it considers just and appropriate.
+He seeks no other relief.
+On behalf of GC, Mr Cragg seeks an order quashing the ACPO guidelines and a reconsideration of the retention of GCs data within 28 days.
+The primary submission of Lord Pannick QC (on behalf of the Commissioner of Police of the Metropolis) is that the correct remedy is to grant a declaration of incompatibility under section 4 of the HRA.
+The primary submission of Mr Eadie QC (on behalf of the Secretary of State) is that, although there is no fundamental objection to a declaration of incompatibility, it is not necessary to grant one.
+The arguments in support of a declaration of incompatibility
+Section 6 of the HRA provides: (1) It is unlawful for a public authority to act in a way which is incompatible with a Convention right. (2) Subsection (1) does not apply to an act if (a) as the result of one or more provisions of primary legislation, the authority could not have acted differently; or (b) in the case of one or more provisions of, or made under, primary legislation which cannot be read or given effect in a way which is compatible with the Convention rights, the authority was acting so as to give effect to or enforce those provisions.
+In summary, Lord Pannick and Mr Eadie say that it is not possible to read or give effect to section 64(1A) of PACE in a way which is consistent with Marper ECtHR.
+They accept that section 64(1A) confers a discretionary power on the police to retain the data obtained from a suspect in connection with the investigation of an offence.
+That is why they concede that section 6(2)(a) of the HRA is not in play.
+But they say that it is a power which, save in exceptional circumstances, must be exercised so as to retain the data indefinitely in all cases.
+Section 64(1A) cannot, therefore, be read or given effect so as to permit the power to be exercised proportionately in the way described in Marper ECtHR.
+The hands of the police are tied by section 64(1A) and that position is faithfully reflected in the ACPO guidelines.
+Two arguments are advanced in support of this submission.
+The first (and principal) argument is that to interpret section 64(1A) as requiring police authorities to comply with article 8 would defeat the statutory purpose of establishing a scheme for the protection of the public interest free from the limits and protections required by article 8.
+It would rewrite the statutory provision in a manner inconsistent with a fundamental feature of the legislative scheme which is that, instead of being destroyed, data taken from all suspects shall be retained indefinitely.
+It is this feature of the scheme which leads Lord Rodger to invoke authorities such as Padfield v Minister of Agriculture, Fisheries and Food [1968] AC 997.
+Parliament intended that the discretion conferred by section 64(1A) should be exercised to promote the statutory policy and object that data taken from all suspects in connection with the investigation of an offence should be retained indefinitely.
+Accordingly, any exercise of the discretion conferred by section 64(1A) which does not meet this statutory policy and object would frustrate the intention of Parliament.
+The second argument is that the nature of the changes to the ACPO guidelines that would be required in order to make them compatible with the ECHR is such that, for reasons of institutional competence and democratic accountability, these should be left to Parliament to make.
+The choice of compatible scheme involves a difficult and sensitive balancing of the interests of the general community against the rights of the individual and a number of different schemes would be compatible.
+Neither the police nor the court (in the event of a judicial review challenge to the scheme devised by the police) is equipped to make the necessary policy choices.
+Thus, for example, only Parliament is constitutionally and institutionally competent to decide whether to adopt the Scottish model in preference to the 2010 Act model.
+Discussion
+The first argument
+This argument is based on the premise that it was the intention of Parliament that, save in exceptional cases, the data taken from all suspects in connection with the investigation of an offence should be retained indefinitely.
+It goes without saying that, if that premise is correct, section 64(1A) of PACE can only be interpreted as conferring a discretion which must be exercised so as to give effect to that intention.
+The conclusion necessarily follows from the premise.
+On that hypothesis, a purposive interpretation of the statute inevitably leads to the conclusion that the first argument is correct.
+But I do not accept the premise.
+It is uncontroversial that Parliament intended (i) to abrogate section 64(1) of PACE and remove the obligation to destroy data as soon as practicable after the conclusion of the proceedings if the suspect is cleared of the offence; (ii) to create a scheme for the retention of the data taken from a suspect, whether or not he is cleared of the offence and whether or not he is even prosecuted; and (iii) that the data was to be retained so that it might be used for purposes related to the prevention or detection of crime, the investigation of an offence, the conduct of a prosecution or the identification of a deceased person or of the person from whom a body part came (to use the language of section 64(1A)).
+I shall refer to these purposes as the statutory purposes.
+It is also clear that, in order to promote the statutory purposes, Parliament must have intended that an extended, even a greatly extended, database should be created.
+But in my view that is as far as it goes.
+To argue from the premise that Parliament intended that a greatly extended database should be created to the conclusion that it intended that, save in exceptional circumstances, the data should be retained indefinitely in all cases is a non sequitur.
+Parliament did not prescribe the essential elements of the scheme by which the statutory purposes were to be promoted.
+That task was entrusted to the police, no doubt with the assistance of the Secretary of State.
+If it had been intended to require a scheme whose essential elements included an obligation that, save in exceptional circumstances, the data lawfully obtained from all suspects should be retained indefinitely, that could easily have been expressly stated in the statute.
+If that had been intended, surely section 64(1A) would have said in terms that, save in exceptional circumstances, the fingerprints and samples taken shall in every case be retained indefinitely after they have fulfilled the purpose for which they were taken.
+This would have been the obvious way of expressing that intention.
+The grant of an apparently unfettered discretion (signalled by the unqualified use of the word may) was certainly not the obvious way of expressing that intention.
+The natural meaning of the word may is permissive, not mandatory.
+As I have said, it is clear that Parliament intended to get rid of the requirement to destroy data after it has served its immediate purpose and to permit the retention of data in order to fulfil the statutory purposes.
+But the statute is silent as to how the statutory purposes are to be fulfilled.
+There is no reason to suppose that Parliament must have intended that this should be achieved in a disproportionate way so as to be incompatible with the ECHR.
+Lord Rodger suggests that Mr Fordhams argument entails the proposition that under section 64(1A) the police were free to do what they liked and that the subsection contains nothing to delimit the exercise of their discretion.
+I agree that, if this is the effect of Mr Fordhams argument, it would cast doubt as to its correctness.
+But section 64(1A) clearly delimits the exercise of the discretion.
+It must be exercised to enable the data to be used for the statutory purposes.
+I would add that the discretion must be exercised in a way which is proportionate and rationally connected to the achievement of these purposes.
+Thus, for example, the police could not exercise the power to retain the data only of those suspected of minor offences; or only of serious offences of a particular type; or only of suspects of a certain age or gender; or only for a short period.
+But it is possible to exercise the discretion in a rational and proportionate manner which respects and fulfils the statutory purpose and does not involve the indefinite retention of data taken from all suspects, regardless of their age and the nature of the alleged offence.
+The Commissioner and the Secretary of State assert that a fundamental feature (possibly the fundamental feature) of section 64(1A) is that data should be retained for use from all suspects indefinitely.
+But, although expressed in different words, this is the same as the premise argument that I have already rejected.
+For the reasons I have given for rejecting that argument, it is not possible to extract this fundamental feature from the statute, whether one looks at its language alone or in the context of the mischief which it was intended to cure.
+In my view, the fundamental feature of section 64(1A) is that it gives the police the power to retain and use data from suspects for the stated statutory purposes of preventing crime, investigation of offences and the conduct of prosecutions.
+But that does not justify a blanket or disproportionate practice.
+Neither indefinite retention nor indiscriminate retention can properly be said to be fundamental features of section 64(1A).
+As I have said, following the judgment of the ECtHR the Secretary of State for the Home Department took steps to take the DNA of children under the age of 10 off the database.
+If the meaning of section 64(1A) is that, save in exceptional cases, there is a duty to retain samples taken from all suspects indefinitely, then surely this amendment to the ACPO guidelines was ultra vires section 64(1A).
+That is not, however, suggested by Lord Pannick or Mr Eadie.
+It seems to me that, once it is accepted that section 64(1A) permits a scheme which does not insist on the indefinite retention of data in all cases, then the extreme position advocated by the Commissioner and the Secretary of State cannot be maintained.
+So what did Parliament intend if it was not a scheme of indefinite retention in all cases? The obvious answer is a proportionate scheme which gives effect to the statutory purposes and is compatible with the ECHR.
+The fact that it is possible to create a number of different schemes all of which would meet these criteria does not matter.
+Section 64(1A) gives a power.
+Powers can often be lawfully exercised in different ways.
+The Commissioner and the Secretary of State seek support for the first argument from two sources.
+The first is the Explanatory Notes to the 2001 Act which explained at para 210: An additional measure has been included to allow all fingerprints and DNA samples lawfully taken from suspects during the course of an investigation to be retained and used for the purposes of prevention and detection of crime and the prosecution of offences.
+This arises from the decisions of the Court of Appeal (Criminal Division) in R v Weir and R v B (Attorney General's Reference No 3/199) May 2000.
+These raised the issue of whether the law relating to the retention and use of DNA samples on acquittal should be changed.
+In these two cases compelling DNA evidence that linked one suspect to a rape and the other to a murder could not be used and neither could be convicted.
+This was because at the time the matches were made both defendants had either been acquitted or a decision made not to proceed with the offences for which the DNA profiles were taken.
+Currently section 64 of PACE specifies that where a person is not prosecuted or is acquitted of the offence the sample must be destroyed and the information derived from it can not be used.
+The subsequent decision of the House of Lords overturned the ruling of the Court of Appeal.
+The House of Lords ruled that where a DNA sample fell to be destroyed but had not been, although section 64 of PACE prohibited its use in the investigation of any other offence, it did not make evidence obtained as a failure to comply with that prohibition inadmissible, but left it to the discretion of the trial judge.
+The Act removes the requirement of destruction and provides that fingerprints and samples lawfully taken on suspicion of involvement in an offence or under the Terrorism Act can be used in the investigation of other offences.
+This new measure will bring the provisions of PACE for dealing with fingerprint and DNA evidence in line with other forms of evidence.
+But this does not advance matters.
+It shows that Parliament intended to remove the requirement of destruction of data and that fingerprints and samples lawfully taken on suspicion of involvement in an offence . can be used in the investigation of other offences.
+But that sheds no light on whether it was intended that there should be a policy of blanket indefinite retention.
+The Commissioner and the Secretary of State draw attention to the words an additional measure has been included to allow all [data]to be retained (emphasis added).
+But in my view this is an insufficient foundation on which to base a conclusion that the true meaning of section 64(1A) is that, save in exceptional circumstances, biometric data must be retained indefinitely in all cases.
+Even if all means all data taken from all suspects, the Explanatory Notes do not say that data must be retained in all cases, still less do they say anything about how long the data must or may be kept.
+There is no indication in the Notes that Parliament intended all material to be kept indefinitely even if it was not necessary to do so in an individual case within the meaning of article 8(2) of the ECHR.
+The second source is certain passages in speeches of the House of Lords in Marper UK.
+The issue there was whether section 64(1A) and the ACPO guidelines were compatible with article 8 and 14 of the ECHR: see para 6 of the speech of Lord Steyn.
+At para 2, Lord Steyn said: But as a matter of policy it is a high priority that police forces should expand the use of such evidence where possible and practicable.
+But that is a statement at a high level of generality.
+Lord Steyn was not purporting to define the statutory purpose with any precision.
+At para 39 Lord Steyn addressed the submission on behalf of the appellants that the legislative aim (of assisting in the investigation of crimes in the future) could be achieved by less intrusive means.
+He considered the conclusion of Sedley LJ in the Court of Appeal that the degree of suspicion should be considered in individual cases before a decision was made whether or not to retain the data.
+He rejected this suggestion saying: this would not confer the benefits of a greatly expanded database and would involve the police in interminable and invidious disputes (subject to judicial review of individual decisions) about offences of which the individual had been acquitted.
+I have already accepted that Parliament intended that the exercise of the section 64(1A) power should lead to a greatly expanded database and that Lord Steyn was rejecting the idea that the scheme contemplated by section 64(1A) should involve assessment of the degree of suspicion on a case by case basis.
+But he was not saying that, subject to exceptional circumstances, section 64(1A) required the introduction of a scheme under which the data taken from all suspects would be retained indefinitely, since any other interpretation would undermine the statutory purpose.
+At para 78, Lady Hale said that the whole community (as well as the individuals whose samples are collected) benefits from there being as large a database as it is possible to have.
+The present system is designed to allow the collection of as many samples as possible and to retain as much as possible of what it has.
+That is undoubtedly true.
+But the system included the ACPO guidelines.
+It was, therefore, not contentious that the system was designed to catch and retain as many samples as possible.
+Moreover, leaving ECHR issues aside, section 64(1A) does allow the collection and retention of as many samples as possible.
+Lady Hale was not, however, saying that section 64(1A) required the collection and retention of as many samples as possible.
+Similarly, at para 88 Lord Brown said that the benefits of the larger database brought about by the now impugned amendment to PACE were manifest.
+The more complete the database, the better the chance of detecting criminals and of deterring future crime.
+But here too, Lord Brown was not considering the question whether section 64(1A) conferred a power which, save in exceptional circumstances, could only be exercised by requiring the retention of the data taken from all suspects indefinitely.
+The question whether, leaving ECHR issues aside, section 64(1A) required the retention of the data taken from all suspects indefinitely was not in issue in Marper UK.
+The focus of the argument in Marper UK was on whether section 64(1A) and the ACPO guidelines were compatible with the ECHR.
+In particular, it was on whether article 8(1) was engaged and whether the ACPO scheme was justified under article 8(2).
+The context of the observations relied on to support the first argument was the practice of the police, save in exceptional cases, to retain all data indefinitely.
+There was no debate on whether, if article 8(1) was engaged and the ACPO guidelines could not be justified under article 8(2), section 64(1A) could be read and given effect in a way compatible with the ECHR.
+So I reject the submission that Marper UK provides support for the submission that underpins the first argument, namely that it was the intention of Parliament that, save in exceptional cases, the data of all suspects should be retained indefinitely.
+In my view, section 64(1A) permits a policy which (i) is less far reaching than the ACPO guidelines; (ii) is compatible with article 8 of the ECHR; and (iii) nevertheless, promotes the statutory purposes.
+Those purposes can be achieved by a proportionate scheme.
+It is possible to read and give effect to section 64(1A) in a way which is compatible with the ECHR and section 6(2)(b) of the HRA cannot be invoked to defeat the claim that the ACPO guidelines are unlawful by reason of section 6(1) of the HRA.
+For the reasons that I have given, to interpret section 64(1A) compatibly with article 8 does not impermissibly cross the line where, to use the words of Lord Bingham in Sheldrake v Director of Public Prosecutions [2005] 1 AC 264, para 28, it would be incompatible with the underlying thrust of the legislation, or would not go with the grain of it, or would call for legislative deliberation, or would change the substance of a provision completely, or would remove its pith and substance, or would violate a cardinal principle of the legislation.
+This conclusion is consistent with the decision in R (L) v Commissioner of Police of the Metropolis [2010] 1 AC 410.
+The claimant was employed by an agency providing staff for schools.
+The agency required her to apply under section 115(1) of the Police Act 1997 for an enhanced criminal record certificate giving the prescribed details of every relevant matter relating to her which was recorded in central records, since she was a prospective employee who was being considered for a position involving regularly being involved with persons under the age of 18.
+Section 115(7) provided that, before issuing a certificate, the Secretary of State shall request the chief police officer of every relevant police force to provide any information which, in the chief officers opinion (a) might be relevant for the purpose described in the statement under subsection (2), and (b) ought to be included in the certificate.
+The Commissioner of Police of the Metropolis disclosed certain information about the claimant which was included in the certificate.
+She sought judicial review of the decision to disclose the information on the ground that her article 8 rights had been violated.
+On behalf of the Secretary of State, it was submitted that the words any information and ought to be included in section 115(7) showed that Parliament intended widespread disclosure of relevant material and a narrow exception.
+This interpretation was supported by the protective purpose of the legislation: see p 416G.
+That was the practice under the relevant police guidelines.
+It is true that there was no issue in that case about section 6(2) of the HRA.
+That is why the analogy cannot be pressed too far.
+But in essence it was being argued in the context of article 8(2) of the ECHR that it was a fundamental feature of the Police Act 1997 that all relevant information could (and should) be disclosed in a criminal record certificate, since anything less would defeat the fundamental protective purpose of the statute.
+These submissions are similar to those advanced in the present case.
+But they were rejected.
+Despite the protective purpose of the legislation and the use of the word any, at para 44, Lord Hope said that the words ought to be included should be read and given effect in a way that was compatible with the applicants article 8 rights.
+At para 81, Lord Neuberger MR adopted a broad interpretation of section 115(7)(b) and said that, in deciding whether the information ought to be included, there would be a number of different, sometimes competing, factors to weigh up.
+For all these reasons, I would reject the first argument advanced on behalf of the Commissioner and the Secretary of State.
+The second argument
+The second argument is that Parliament could not have intended to entrust the creation of a detailed scheme pursuant to section 64(1A) to the police (with or without the assistance of the Secretary of State) subject only to the judicial review jurisdiction of the court.
+It is said that the creation of guidelines for the exercise of the section 64(1A) power is a matter for Parliament alone and that it could not have been intended that section 64(1A) should grant a broad discretion to the police such as is contended for by Mr Fordham.
+This is because the context involves high policy, balancing the public interest in the effective detection, prosecution and prevention of crime against individual freedoms.
+It is a matter of political controversy, as evidenced by the different policy solutions of the previous and present Government.
+There are choices to be made between a variety of compatible legislative schemes.
+These choices are for Parliament alone.
+The police are in no position, constitutionally or institutionally, to choose between them.
+It is important to note the scope of this argument.
+It is not that Parliament could not have granted the police a discretionary power to retain data otherwise than on a blanket indefinite basis.
+If it had wished to grant such a power to the police, Parliament obviously could have done so.
+Rather, the argument is that the constitutional and institutional limits on the competence of the police are such that Parliament could not have intended to grant such a power to them.
+I cannot accept this argument.
+No question of constitutional competence arises here.
+Parliament is entitled to give the police the power to create a scheme.
+No doubt it would have envisaged that a national scheme would be produced such as the ACPO guidelines.
+The Secretary of State is accountable to Parliament for the scheme so that the democratic principle is preserved.
+There are circumstances in which institutional competence is a factor in the courts deciding the extent to which it should pay deference to a decision of the executive and allow a discretionary area of judgment.
+But we are not concerned with the courts judicial review jurisdiction in the present context.
+We are concerned with a question of statutory interpretation.
+There is no reason in principle why the police (together with the Secretary of State) should be less well equipped than Parliament to create guidelines for the exercise of the section 64(1A) power.
+In creating a proportionate scheme, they have to strike a balance.
+That is inherent in any exercise of this kind, whether it is performed by the executive or Parliament.
+The police guidelines that were in play in L were not the product of work by Parliament.
+Policy and guidance documents of this kind, often in areas of acute sensitivity, are frequently created by the executive.
+Provided that they fulfil the purposes of the enabling statute, they are valid and enforceable.
+In my view, the fact that difficult decisions would have to be made in producing guidelines for the exercise of the section 64(1A) power is not a sufficient reason for concluding that Parliament could not have intended to give the power to produce them to the police and the Secretary of State.
+What relief, if any, should be granted?
+The Biometric Data
+In deciding what relief to grant, it is important to have regard to the present state of play.
+As previously stated, Chapter 1 of Part 1 of the Protection of Freedoms Bill includes proposals along the lines of the Scottish model.
+The history of the varying responses to Marper ECtHR shows that it is not certain that it will be enacted.
+But we were told by Mr Eadie that it is the present intention of the Government to bring the legislation into force later this year.
+In shaping the appropriate relief in the present case, I consider that it is right to proceed on the basis that this is likely to happen, although not certain to do so.
+In these circumstances, in my view it is appropriate to grant a declaration that the present ACPO guidelines (amended as they have been to exclude children under the age of 10), are unlawful because, as clearly demonstrated by Marper ECtHR, they are incompatible with the ECHR.
+It is important that, in such an important and sensitive area as the retention of biometric data by the police, the court reflects its decision by making a formal order to declare what it considers to be the true legal position.
+But it is not necessary to go further.
+Section 8(1) of the HRA gives the court a wide discretion to grant such relief or remedy within its powers as it considers just and appropriate.
+Since Parliament is already seised of the matter, it is neither just nor appropriate to make an order requiring a change in the legislative scheme within a specific period.
+The ECtHR has recently decided that, where one of its judgments raises issues of general public importance and sensitivity, in respect of which the national authorities enjoy a discretionary area of judgment, it may be appropriate to leave the national legislature a reasonable period of time to address those issues: see Greens and MT v United Kingdom (Application Nos 60041/08 and 60054/08) (ECtHR, 23 November 2010) at paras 113 115.
+This is an obviously sensible approach.
+The legislature must be allowed a reasonable time in which to produce a lawful solution to a difficult problem.
+Nor would it be just or appropriate to make an order for the destruction of data which it is possible (to put it no higher) it will be lawful to retain under the scheme which Parliament produces.
+In these circumstances, the only order that should be made is to grant a declaration that the present ACPO guidelines (as amended) are unlawful.
+If Parliament does not produce revised guidelines within a reasonable time, then the appellants will be able to seek judicial review of the continuing retention of their data under the unlawful ACPO guidelines and their claims will be likely to succeed.
+The Photographs of GC
+Mr Cragg raises a discrete issue about the photographs that were taken of GC when he was arrested.
+Section 64A of PACE confers a power to take, use and retain photographs of arrested persons who are not subsequently convicted of the offence for which they were arrested.
+In the application for judicial review, the issue of whether the retention of the photographs violated GCs article 8 rights was mentioned in what Moses LJ described as a passing reference in the claim form and in paragraph 20 of the grounds.
+At para 43, Moses LJ said: the issues of justification for their retention cannot now properly be considered where the Commissioner has had no opportunity to give evidence as to justification.
+Lord Pannick submits that, in view of the manner in which the issue was raised in the Divisional Court, the consequent absence of any evidence as to justification and the absence of any substantive judgment on the issue from the Divisional Court, the Supreme Court should express no opinion on this part of the appeal, but leave the matter to be determined if and when the point is properly raised in another case.
+I accept these submissions.
+I should also mention that Mr Fordham raises a discrete point about information held on the Police National Computer about C.
+This was the subject of two agreed issues which were dealt with by the Divisional Court at paras 24 26 and 46 47 of the judgment of Moses LJ.
+It is common ground that the retention of this information raises no separate issues from those raised by the retention of Cs DNA material and his fingerprints.
+Conclusion
+For the reasons that I have given, I would allow the appeals and grant a declaration that the present ACPO guidelines are unlawful because they are incompatible with article 8 of the ECHR.
+I would grant no other relief.
+I agree with the judgment of Lord Dyson.
+I have, however, a little that
+LORD PHILLIPS
+would add to his reasoning.
+Section 3 of the Human Rights Act 1998 (the HRA) requires this Court, in so far as it is possible to do so, to interpret legislation in a way which is compatible with Convention rights.
+Sometimes this results in the Court according to a statutory provision a meaning that conflicts with the natural meaning of a statutory provision see Ghaidan v Godin Mendoza [2004] UKHL 30; [2004] 2 AC 557.
+In summarising the effect of that decision in Sheldrake v Director of Public Prosecutions [2004] UKHL 43; [2005] 1 AC 264, para 28 Lord Bingham of Cornhill stated that the interpretative obligation under section 3 was very strong and far reaching and might require the court to depart from the legislative intention of Parliament.
+This is not a case where the HRA requires the Court to accord to a statutory provision a meaning which it does not naturally bear.
+There is no difficulty in giving section 64(1A) of PACE, set out in para 3 of Lord Dysons judgment (section 64(1A)), an interpretation which is compatible with article 8 of the Convention, as interpreted by the Strasbourg Court in S and Marper v United Kingdom (2008) 48 EHRR 1169.
+The section gives a discretionary power to the police to retain samples taken from a person in connection with the investigation of an offence.
+Section 3 of the HRA imposes a duty on the police, as a public authority, in so far as it is possible to do so, to give effect to the power conferred on them in a way which is compatible with Convention rights.
+There is nothing in the wording of section 64(1A), giving it its natural meaning, which either requires or permits the police to exercise the power conferred on them in a manner which is incompatible with article 8.
+In order to hold that section 64(1A) is incompatible with the Convention it is thus necessary to identify some matter, extrinsic to the wording of the section itself, that compels one to interpret the section as either requiring or permitting the police to exercise the power conferred on them in a manner incompatible with article 8.
+Such a matter needs to be extraordinarily cogent in order to overcome the effect of section 3 of the HRA.
+I have not been able to identify any such matter.
+In R (S) v Chief Constable of the South Yorkshire Police; R (Marper) v Chief Constable of the South Yorkshire Police [2004] UKHL 39; [2004] 1 WLR 2196 the House of Lords held, wrongly as the Strasbourg Court was to rule, that in so far as section 64(1A) interfered with article 8 rights the interference was justified under article 8(2).
+In so far as Parliament considered the matter when enacting section 64(1A) it is likely to have taken the same view.
+Parliament may well have considered that the Convention did not require any restriction to be placed on the exercise of the power conferred by section 64 (1A).
+It does not follow, however, that Parliament must be presumed to have intended that, if the Convention did require the power to be exercised subject to constraints, the police should none the less be required, or permitted, to disregard those constraints.
+The effect of section 64(1A) was to reverse the requirement of the previous section 64 of PACE that fingerprints and samples should be destroyed when a suspect was cleared of an offence.
+The purpose of this reversal was plainly that the police should be permitted to establish a database of such material obtained from those suspected of criminal activity.
+I see no basis for concluding, however, that Parliament intended that the establishment and maintenance of this database should be untrammelled by any requirements that might be imposed by the Convention.
+While those requirements limit the circumstances in which material can be retained by application of the familiar test of proportionality, they do not prohibit the maintenance of a database that satisfies that test.
+Had Parliament foreseen that the Convention required restrictions on the power conferred by section 64(1A) the likelihood is that Parliament, guided by the executive, would itself have wished to define those restrictions rather than leaving them to be determined by executive action.
+That can be deduced from the fact that Parliaments reaction to Strasbourgs ruling in S and Marper (2008) 48 EHRR 1169 was to pass amending legislation and that the present Government intends to introduce an amending Bill.
+I do not consider, however, that it follows from this that one must interpret section 64(1A) as requiring the police to exercise the power conferred by that section in a manner which infringes the requirements of the Convention, or even as permitting the police to disregard those requirements.
+For these additional reasons I can see no warrant for making a declaration of incompatibility, convenient though this might be, and concur in the order proposed by Lord Dyson.
+LADY HALE
+Whether and in what circumstances the police should be able to keep the DNA samples and profiles, fingerprints and photographs of people who have been arrested but not convicted is a deeply controversial question.
+The Government is promoting the Protection of Freedoms Bill which will adopt in England and Wales the present system in Scotland.
+This allows retention only for a limited period and in respect of certain crimes.
+It reflects a strong popular sentiment that the police should not be keeping such sensitive material relating to innocent people, even if they are only allowed to use it for purposes related to the prevention or detection of crime, the investigation of an offence, the conduct of a prosecution (Police and Criminal Evidence Act 1984, section 64(1A), as substituted by the Criminal Justice and Police Act 2001, section 82).
+If the popular press is any guide to public opinion, the decision of the European Court of Human Rights in S and Marper v United Kingdom (2008) 48 EHRR 1169 is one which captures the public mood in Britain much more successfully than many of its other decisions.
+Among the arguments marshalled against retaining the data are these: (a) The agencies of the state cannot be trusted to use such information only for the permitted purposes, nor can the state be trusted not to enlarge those purposes in future.
+DNA samples, in particular, might be put to many more controversial uses should the state feel so inclined. (b) Serious bodies have cast doubt upon the usefulness of retaining it even for the permitted purposes.
+Both the Human Genetics Commission (Nothing to hide, nothing to fear? Balancing individual rights and the public interest in the governance and use of the national DNA Database, November 2009) and the Nuffield Council on Bioethics (The forensic use of bioinformation: ethical issues, September 2007) suggest that the value of casting the net so wide has not yet been proved. (c) The Equality and Human Rights Commission argue, in their intervention in this case, that the premise on which such data are kept, that people who are arrested are more likely than the general population to be involved in future offending, is unsustainable. (d) Liberty point out, in their intervention, that certain sections of the population, in particular men and people from the black and minority ethnic communities, run a disproportionate risk of arrest and therefore of having their data taken and kept.
+This is a detriment with a discriminatory impact. (e) The detriment is the stigma, certainly felt and possibly perceived by others, involved in having ones data on the database.
+This stigma, together with wider concerns about potential misuse, is sufficient to outweigh the benefits in the detection and prosecution of crime.
+Among the arguments marshalled in favour of retaining the data are these: (a) Those of a more trusting nature find it difficult to imagine that there is a serious risk that the agencies of the state will indeed misuse this information for more sinister purposes.
+The risk would in any event be much reduced if DNA samples were destroyed and only profiles, fingerprints and photographs retained. (b) As to their usefulness, the Chief Constable of the West Midlands gave evidence on 22 March 2011 to the House of Commons Public Bill Committee hearing on the Protection of Freedoms Bill that between 2 and 3 per cent of the 36,000 hits on the database would be lost if the proposals in the Bill became law.
+These may only be a small proportion of the total, but among the 1000 or so crimes which would not be solved some would be very serious. (c) It is not clear that the underlying premise is indeed that people who have been arrested but not charged or convicted are more likely than the general population to commit crimes.
+After all, the Act also allows the police to keep data they have collected from people who have never been arrested, provided that they consent.
+The reality is that arrest gives the police the opportunity compulsorily to collect the data: it is not the reason why they do so. (d) The discriminatory impact of disproportionate arrest rates among male and black and minority ethnic members of the population could as logically be addressed by compiling a national database of everyone, rather than by restricting it to people involved in the criminal justice system.
+There is now a proliferation of national databases holding data on large sections of the population which data can be put to far more detrimental uses than this. (e) Any stigma felt or perceived is irrational, at least if the information is used for its permitted purposes.
+A person who might otherwise have been among the usual suspects arrested for a crime may be eliminated before he even gets to the police station.
+A person who is rightly arrested, prosecuted and convicted because a match is found does not deserve our sympathy.
+We should be concentrating on the quality of the scientific evidence as to sampling and matching rather than on the feelings of those whose samples have been kept.
+The feelings of the victims of crime are at least as important as the feelings of the criminals.
+They too have a human right to have their physical and mental integrity protected by the law, and it is in this context that DNA evidence, in particular, has proved most useful.
+We are not called upon to resolve that debate in this case.
+It is common ground that the decision of the House of Lords in R (S) v Chief Constable of the South Yorkshire Police; R (Marper) v Chief Constable of the South Yorkshire Police [2004] 1 WLR 2196 (Marper UK) cannot stand in the light of the decision of the European Court of Human Rights in S and Marper v United Kingdom (2008) 48 EHRR 1169.
+The only question is what we should do about it in this case.
+This is, as I understand it, a question governed by legal principle and the Human Rights Act 1998 and not by our particular preferences for how the United Kingdom should solve the problem.
+There are three broad options open to the court: (i) We could decide, in the light of the individual facts of the cases before us, whether the retention of data in each case is compatible with the appellants Convention rights.
+If it is not, we could make declarations to that effect and even mandatory orders for the deletion and destruction of the data involved. (ii) We could declare that the current ACPO guidelines, approved in Marper UK, are unlawful, without determining what would be lawful in the cases before us. (iii) We could declare that section 64(1A) of PACE is incompatible with the Convention rights, thus leaving the current guidelines in place and everything done under them lawful until Parliament enacts a replacement either by primary legislation or under the fast track remedial procedure laid down in section 10 of the Human Rights Act.
+The choice between (i) or (ii), on the one hand, and (iii), on the other hand, depends upon the difficult and important question (see Lord Mance in Doherty v Birmingham City Council [2008] UKHL 57, [2009] 1 AC 367, para 141) of the meaning and scope of section 6(2)(b) of the Human Rights Act.
+This, rather than the policy debate outlined above, is the important issue in this case.
+If it is resolved in favour of (i) or (ii) and against (iii), then the choice between (i) and (ii) depends upon what the court considers a just and appropriate remedy under section 8(1) of the 1998 Act.
+I should say at once that on both issues I agree with the conclusions reached by Lord Dyson.
+Under section 6(1) of the Act, it is unlawful for a public authority to act in a way which is incompatible with a Convention right.
+But the sovereignty of Parliament requires that exceptions be made for certain things which are done pursuant to an Act of the United Kingdom Parliament.
+As the annotations to the Act (by Peter Duffy QC and Paul Stanley) in Current Law Statutes explain, the exceptions are all designed to prevent section 6 being used to circumvent the general principle of the Act embodied in sections 3(2)(b) and 4(6)(a), that incompatible primary legislation shall remain fully effective unless and until repealed or modified.
+In that event, the most that the court can do is make a declaration under section 4(2) that the Act is incompatible and leave it to Parliament to decide what, if anything, to do about it.
+It follows, however, that the exceptions must be read along with section 3(1).
+Section 3(1) requires that So far as it is possible to do so, primary legislation and subordinate legislation must be read and given effect in a way which is compatible with the Convention rights.
+This obligation is laid upon everyone, not just upon the courts.
+Two exceptions to the general rule in section 6(1) are provided by section 6(2).
+Section 6(2)(a) has presented little difficulty: it provides that subsection (1) does not apply if as the result of one or more provisions of primary legislation, the authority could not have acted differently.
+This covers situations where the public authority was required by an incompatible Act of Parliament to do as it did (or perhaps where it had a choice between various courses of action, each of which was incompatible with the Convention rights).
+Although section 6(2)(a) does not say so, it must be read subject to section 3(1).
+So both the public authority and the courts, in deciding whether or not the authority could have acted differently, will have first to decide whether the Act of Parliament can be read or given effect in a way which is compatible rather than incompatible with the Convention rights.
+If the Act can be read compatibly, then it follows that the authority could have acted differently and will have no defence if it has acted incompatibly.
+Section 6(2)(b) makes the link with section 3(1) explicit, but has caused much more difficulty in practice.
+It provides that section 6(1) does not apply to an act (or failure to act) if in the case of one or more provisions of, or made under, primary legislation which cannot be read or given effect in a way which is compatible with the Convention rights, the authority was acting so as to give effect to or enforce those provisions.
+So the first question is always whether the primary legislation can be read or given effect in a compatible way.
+If it can, that is an end of the matter: see Manchester City Council v Pinnock [2010] UKSC 45, [2010] 3 WLR 1441, paras 93 to 103.
+In that case, both the provision requiring the court to make a possession order in respect of a demoted tenancy and the provision empowering the local authority to seek one could be read and given effect in a compatible way.
+This bears out the prediction by Beatson and others, in Human Rights: Judicial Protection in the United Kingdom (2008), para 6 23, that cases where legislation cannot be read down under section 3 are likely to be rare.
+However, if the legislation cannot be so read or given effect, the second question is whether the public authority was acting so as to give effect to or enforce it.
+As to this, it is possible to detect some differences of opinion among the judges.
+Some have taken the view that the fact that there may be choices involved in whether or not to give effect to or enforce the incompatible provision makes no difference: the authority was acting so as to give effect to or enforce it.
+Others, most notably Lord Mance in Doherty, would draw a distinction between the court, which might have no choice but to give effect to an incompatible provision, and the public authority bringing the proceedings, which could choose whether or not to do so and should be guided by Convention values when making its decisions.
+Fortunately, we do not have to resolve that debate.
+This case is about the first question: can section 64(1A) be read and given effect compatibly with the Convention rights? In my view it clearly can.
+This is for two principal reasons.
+The first relates to the requirement to read that is, interpret statutory language compatibly with the Convention rights.
+In this case, to say that section 64(1A) cannot be so read involves reading may be retained as must be retained, save in exceptional circumstances.
+This would be doing the reverse of what section 3(1) requires.
+In other words, it would be reading into words which can be read compatibly with the Convention rights a meaning which is incompatible with those rights.
+It would be giving the broad discretion provided in section 64(1A) an unnatural or strained meaning to require it to be given effect in an incompatible way.
+That view is reinforced by the fact that it was the clear intention of Parliament to legislate compatibly rather than incompatibly with the Convention rights.
+Section 64(1A) was introduced into PACE by section 82 of the Criminal Justice and Police Act 2001.
+When the Bill which became that Act was introduced into Parliament, it was prefaced by the ministerial statement required by section 19(1)(a) of the Human Rights Act.
+The Home Secretary, Mr Straw, stated that In my view the provisions of the Criminal Justice and Police Bill are compatible with the Convention rights.
+He was not alone in that view.
+After all, the House of Lords in Marper UK unanimously took the view that section 64(1A) was compatible with the Convention rights.
+But this does not suggest to me that Parliaments intention was that the apparent discretion which it conferred should inevitably be read incompatibly with the Convention rights should that view later prove to be unfounded.
+Quite the reverse.
+The second relates to the requirement in section 3(1) that legislation be given effect compatibly with the Convention rights.
+As Lord Rodger emphasised in Ghaidan v Godin Mendoza [2004] UKHL 30, [2004] 2 AC 557, para 107, section 3(1) contains not one, but two, obligations.
+In retrospect, that is what the Court of Appeal had in mind in the case which became In re S (Minors) (Care Order: Implementation of Care Plan) [2002] UKHL 10, [2002] 2 AC 291: that the courts power to make a care order giving the local authority enhanced (that is, determinative) parental responsibility for a child should be given effect in such a way as to prevent the local authority exercising that responsibility incompatibly with the Convention rights of either the child or his parents.
+Also in retrospect, one can see that the proper remedy for incompatible actions by the local authority is a free standing action under section 7(1)(a) of the Human Rights Act, rather than by the care court adopting powers which contradicted the cardinal principle of the separation of powers between court and local authority in care proceedings.
+In re S is the strongest case in favour of the position adopted by the Chief Constable and the Secretary of State in this case.
+They have to argue that, despite ostensibly giving the police a discretion, the cardinal principle was, not that data may be kept, but that they must be kept.
+The ACPO guidelines could say only one thing.
+Further, they must argue that that principle is so fundamental to the legislative purpose that only Parliament can modify it if it turns out that those guidelines are incompatible with the Convention rights.
+I can readily accept that it may be desirable for Parliament rather than the Association of Chief Police Officers to put something in its place.
+But I cannot see how it was possible for the discretion conferred by section 64(1A) to be exercised in accordance with ACPO guidelines when it was first enacted but it is not possible for it to be so exercised now.
+In other words, if it was possible to read and give effect to section 64(1A) by means of ACPO guidelines when it was first enacted, it must be possible to do so now.
+And ACPO as a public authority has to act compatibly with the Convention rights.
+For these reasons, therefore, section 64(1A) is not incompatible with the Convention rights and cannot be so declared.
+However, the need for a consistent national approach must be relevant to the choice between remedy (i) and remedy (ii).
+The court is empowered by section 8(1) to grant such relief or remedy in relation to an unlawful act as it considers just and appropriate.
+There would be nothing to stop ACPO promulgating some new and Convention compliant guidelines.
+Now that Marper UK has been overruled, they clearly should set about doing so unless Parliament does it for them within a reasonably short time.
+But I certainly accept that the system will not work if different police forces adopt different policies.
+So it would not be appropriate (such a flexible word) for this court to make mandatory decisions in individual cases unless and until it becomes clear that neither ACPO or Parliament is prepared to make the difficult choices involved.
+I therefore agree that we should declare the current guidelines unlawful but grant no further relief.
+LORD JUDGE
+I agree with the reasoning and conclusions of the majority of the members of the Court.
+In deference to the contrary views I shall add some brief words of my own.
+The insertion of section 64(1A) in the Police and Criminal Evidence Act 1984 (the 1984 Act) by section 82 of the Criminal Justice and Police Act 2001 resulted in the promulgation of the Retention Guidelines for Nominal Records on the Police National Computer (the ACPO Guidelines) 2006.
+Thereafter in England and Wales the retention of biometric data (DNA samples) was governed by these guidelines which derived their authority from section 64(1A).
+The judicial examination of these provisions in England and Wales culminated in a decision of the House of Lords in R (S and Marper) v Chief Constable of the South Yorkshire Police [2004] 1 WLR 2196 that the retention of DNA samples did not constitute an interference with the rights granted by article 8 of the European Convention of Human Rights, or if it did, that the interference was modest and proportionate.
+The Grand Chamber of the European Court of Human Rights disagreed, and concluded that the system created by the ACPO Guidelines constituted an interference with article 8 rights. (S v United Kingdom (2008) 48 EHRR 1169).
+Taking account of the decision and applying its reasoning we are all agreed that the decision of the House of Lords should no longer be treated as authoritative.
+Therefore these appeals must be allowed.
+The forensic battle is directed at the consequences which should now flow.
+The starting point is the reasoning of the Grand Chamber which identified the way in which different member states addressed the retention issue, and acknowledged that even following acquittal, it was permissible, subject to specific limitations within the domestic arrangements, for DNA samples to be retained.
+What however was required of any arrangements for retention was an approach which discriminated between different kinds of cases and for the application of strictly defined storage periods for data, even in more serious cases.
+Attention was drawn to the position in Scotland where the legislative arrangements permitted the retention of the DNA of unconvicted individuals, limited in the case of adults to those charged with violent or sexual offences and even then, for three years only, with the possibility of an extension for a further two years with judicial agreement.
+These arrangements were not criticised.
+Indeed the court acknowledged that the retention of DNA profiles represented the legitimate purpose of assisting in the identification of future offenders.
+In short the existence of the legislative provisions for the retention of DNA samples was endorsed, but criticism was directed at the blanket and indiscriminate nature of the power of retention found in the ACPO Guidelines.
+Accordingly nothing in the judgment of the Court leads to the conclusion that a different, less all encompassing scheme deriving its authority from section 64(1A) would contravene article 8, or that the law in relation to DNA samples should revert to the former wide ranging prohibition against the retention of samples of any kind which was the striking feature of section 64 of the 1984 Act as originally enacted.
+Rather the judgement confirmed that legislative arrangements may provide for the retention of the DNA samples of those acquitted of criminal offences.
+That is what section 64(1A), reversing the provisions of section 64, permits.
+In these circumstances it was open to ACPO to reconsider and amend the guidelines (as indeed, at least in part, it did) in the light of the decision of the European Court, and it would be open to ACPO to do so in the light of the decision of this court.
+Section 64(1A) does not preclude an amendment to the Guidelines which addresses the criticisms.
+In other words, although the process of further amendment to the arrangements for the retention of DNA samples in England and Wales has been and continues to be addressed through legislation, this was not and is not the only way to provide for the protection of article 8 rights against the current scheme for their indiscriminate retention.
+In my judgment section 64(1A) is Convention compliant, whereas the ACPO Guidelines in their present form are not.
+Accordingly, the retention of the DNA samples of these appellants was unlawful, but a declaration of incompatibility would be inappropriate.
+LORD KERR
+Lord Rodger and Lord Brown in powerfully reasoned judgments, which I initially found persuasive, have concluded that section 64(1A) of the Police and Criminal Evidence Act 1984 (PACE) had as its purpose the institution of a scheme for the indefinite retention of biometric data taken from all suspects (with very limited exceptions) in connection with the investigation of offences.
+On that account they found that, despite the seemingly permissive language of the subsection, the Association of Chief Police Officers (ACPO), to whom the task of drawing up guidelines for the implementation of section 64(1A) had been entrusted, were obliged to ensure that, instead of being destroyed as previously required by section 64(1) of PACE, samples taken from suspects would be retained indefinitely and so remain available to the police on the national DNA database.
+If indefinite retention of data was indeed section 64(1A)s unmistakable purpose, I would have readily agreed that the discretion that samples may be retained after they have fulfilled the purposes for which they were taken would have to be exercised so as to give effect to that intention.
+That, as Lord Rodger has said, would be the inevitable consequence of the application of the principle for which Padfield v Minister of Agriculture, Fisheries and Food [1968] AC 997 is the seminal authority: that a discretion conferred with the intention that it should be used to promote the policy and objects of the Act can only be validly exercised in a manner that will advance that policy and those objects.
+More pertinently, the discretion may not be exercised in a way that would frustrate the legislations objectives.
+Everything therefore depends on what one decides is the true intention or purpose of the legislation.
+This is not as easy a question to answer as the simple formulation, what was the purpose of the legislation, suggests.
+As Lord Brown has pointed out in para 145 of his judgment, the search for the purpose of a particular item of legislation may have to follow a number of avenues and may require consideration of several aspects of the enactment what is the grain of the legislation, what its underlying thrust etc.
+An important factor in the conclusion on this critical question which Lord Rodger has identified is the fact that Parliament clearly saw the need for retreat from the position that had hitherto obtained under section 64(1) and (3) of PACE as originally enacted.
+Those subsections were in these terms: (1) If (a) fingerprints or samples are taken from a person in connection with the investigation of an offence; and (b) he is cleared of that offence, they must be destroyed as soon as is practicable after the conclusion of the proceedings. (3) If (a) fingerprints or samples are taken from a person in connection with the investigation of an offence; and (b) that person is not suspected of having committed the offence, they must be destroyed as soon as they have fulfilled the purpose for which they were taken.
+As Lord Rodger has pointed out, the decision of the House of Lords in Attorney Generals Reference (No 3 of 1999) [2001] 2 AC 91 brought to the attention of the public and Parliament the effect of these provisions.
+Potentially useful evidence was not being used for reasons that, as Lord Steyn put it, were contrary to good sense (p 118).
+No doubt reaction to the experience in that case contributed to Parliaments decision to enact section 64(1A) but did it, as Lord Rodger has concluded, lead to Parliaments resolve that samples taken from suspects would be retained indefinitely and so remain available to the police on the national DNA database? In my judgment, and largely for the reasons given by Lord Dyson, it did not.
+In the first place, if that was Parliaments intention it chose a curious way to achieve it.
+A simple, unambiguous provision to that effect would not have been difficult to devise.
+And if the purpose of the legislation was to obtain a blanket, universally applied (apart from exceptional cases) policy, why would Parliament have left the practicalities of implementing the policy to ACPO? The drafting of the provision at a level of generality surely suggests that Parliament intended a measure of flexibility to be a feature of its application.
+This is unsurprising.
+The history of evolving knowledge as to the use to which DNA evidence could be put provided the clearest possible reasons not to adopt over prescriptive rules that might impede its full exploitation in circumstances unforeseen at the time of their enactment.
+Just as it was judged, in retrospect, to be unwise to have an immutable requirement to destroy all samples from certain categories of suspects and defendants, so also it would be unwise to substitute that obligation with a blanket requirement to retain all samples.
+Various members of the Appellate Committee of the House of Lords in R (S) v Chief Constable of the South Yorkshire Police; R (Marper) v Chief Constable of the South Yorkshire Police [2004] 1 WLR 2196 described the benefits that can flow from the maintenance of an expanded database for DNA samples and I am in respectful agreement with all that Lord Steyn, Lady Hale and Lord Brown had to say on this subject in that case.
+But I do not consider that it necessarily follows that an inflexible policy requiring retention of virtually every sample taken from suspects and defendants is needed in order to have a viable and worthwhile resource.
+Whatever view one takes of the competing policy arguments on this issue, however, it is, to my mind, quite clear that Parliament did not intend that this was the only way in which the legislation could be implemented.
+Not only does section 64(1A) use the permissive may in relation to the retention of samples but subsection (3) is retained in its original state, albeit that it may now be disapplied in a variety of circumstances outlined in section 64(3AA) to (3AD).
+This seems to me clearly to indicate recognition that there should be limits on the retention of samples but, not surprisingly, Parliament did not attempt to forecast comprehensively what those limits should be.
+The structure of the new section 64 is strongly suggestive of an intention to devise a scheme that would respond to developments in this field, not least any view that might be taken as to the human rights implications that might come to be recognised.
+As Lord Dyson has put it, Parliaments intention must be taken to have been to create a proportionate scheme which is compatible with ECHR.
+There is nothing to impel the conclusion that Parliament intended that the scheme could not adapt to whatever the compatibility requirements were found to be.
+On the contrary, there is every reason to suppose that Parliament intended that the scheme could be adapted to meet those requirements as and when they became apparent.
+What the Commissioner and the Secretary of States argument resolves to is that, in interpreting section 64, we should recognise that an underlying, not expressly articulated, purpose was that the samples had to be retained indefinitely, regardless of the circumstances in which they were taken or of the circumstances of the individual from whom they had been taken.
+There is nothing in the language of the section itself that compels such an exclusive interpretation.
+Indeed, as Lord Phillips has pointed out, acceptance of this argument would involve reading more into section 64(1A) than its ordinary language conveys.
+ACPOs guidelines were an essential complement to the statutory scheme.
+Those guidelines have been altered (in relation to children under 10) as a result of the decision of the Grand Chamber in S and Marper v United Kingdom (2008) 48 EHRR 1169.
+There is no lawful impediment to ACPO devising and implementing guidelines that take full account of the other features which Strasbourg has decreed are necessary for the operation of the scheme to be Convention compliant.
+Classifications (as to which categories of offences or individuals should require retention of samples) and long stop provisions (as to the period that they should be retained) are well within the institutional reach of ACPO.
+So also are the circumstances in which exceptions to the guidelines can be permitted.
+ACPO chose the exceptionality criteria.
+They may equally change those criteria.
+And because there is no legal impediment in them doing so, then under section 6 of HRA, they or Parliament must.
+Section 6(2)(b) can only come into play if ACPO cannot act.
+If it can, then it must.
+Because Parliamentary change is imminent, however, and because significant policy issues need to be considered, it is not unreasonable to leave this to Parliament.
+I therefore agree with the order proposed by Lord Dyson.
+I also agree with all that Lord Dyson has had to say on the argument that Parliament could not have intended to entrust the creation of a detailed scheme pursuant to section 64(1A) to the police subject only to the judicial review jurisdiction of the court.
+As he has said, the scope of the argument is confined.
+It is to the effect that, although it could have done so if it had considered it appropriate, Parliament must be taken not to have intended to grant such a power because of the constitutional and institutional limits on the competence of the police.
+But Parliament does not appear to have felt such qualms in giving the initial responsibility for the devising of guidelines to ACPO and, as Lord Dyson has pointed out, no question of constitutional competence arises.
+Finally, I agree with Lord Dysons conclusion on the discrete issue of GCs photographs.
+DISSENTING JUDGMENTS ON THE APPROPRIATE RELIEF
+LORD RODGER
+In September 1984 Sir Alec Jeffreys made his ground breaking discovery of DNA fingerprints.
+A few weeks later, on 31 October, the Police and Criminal Evidence Act 1984 (PACE) was enacted.
+Within a few years Sir Alecs discovery was being used routinely in the criminal courts in this country.
+Section 64(1) of PACE, as originally enacted in ignorance of this major development that lay just ahead, provided: If (a) fingerprints or samples are taken from a person in connection with the investigation of an offence; and (b) he is cleared of that offence, they must be destroyed as soon as is practicable after the conclusion of the proceedings.
+In January 1997 an unidentified intruder raped and assaulted a woman in her home in London.
+Swabs were taken from her and were found to contain semen.
+A DNA profile was obtained from the semen and placed on the national DNA database.
+In January 1998 a man was arrested for an unrelated offence of burglary.
+A saliva sample was taken from him and a DNA profile was derived from it.
+In August of the same year the man was acquitted of the burglary and, by virtue of section 64(1) of PACE, his sample should have been destroyed.
+In fact, however, his profile was left on the DNA database and in October a match was made between this profile and the DNA profile derived from the semen in the swabs taken from the woman who had been raped in January 1997.
+The man was arrested and a DNA profile was obtained from a hair plucked from him.
+As was to be expected, this profile also matched the DNA derived from the semen.
+At his trial for the rape the judge held, however, that, since the material which had led to his identification should have been destroyed as required by section 64(1), the evidence relating to the profile from the plucked hair was not admissible.
+The man was acquitted.
+The Attorney General referred the matter to the Court of Appeal who agreed with the judge but referred the point to the House of Lords.
+In Attorney Generals Reference (No 3 of 1999) [2001] 2 AC 91 the House reversed the Court of Appeal.
+The speech of Lord Steyn, with which the other members of the appellate committee agreed, was notable for his observation, at p 118, that the austere interpretation of the Court of Appeal produced results which were contrary to good sense.
+For present purposes, that case is important because it alerted the public and politicians to the fact that the obligation under section 64(1) of PACE to destroy samples if the suspect was acquitted meant that evidence which might lead to the detection and prosecution of the perpetrators of other crimes would be lost.
+Just a few weeks after their Lordships decision, in the course of the second reading debate on the Criminal Justice and Police Bill, the Home Secretary introduced Part IV of the Bill which, he explained, was designed, inter alia, to amend section 64(1) of PACE to prevent evidence being lost in this way.
+The Home Secretary referred to Lord Steyns speech as demonstrating the need for the change: Hansard (HC Debates), 29 January 2001, col 42.
+This history shows beyond doubt that Parliaments purpose in enacting section 82 of the Criminal Justice and Police Act 2001, which inserted section 64(1A) into PACE, was to ensure that, in future, instead of being destroyed, samples taken from suspects would be retained indefinitely and so remain available to the police on the national DNA database.
+This would protect the public by facilitating the detection and prosecution of the perpetrators of crimes.
+Section 64(1A) provides: (1A) Where (a) fingerprints, impressions of footwear or samples are taken from a person in connection with the investigation of an offence, and (b) subsection (3) below does not require them to be destroyed, the fingerprints, impressions of footwear or samples may be retained after they have fulfilled the purposes for which they were taken but shall not be used by any person except for purposes related to the prevention or detection of crime, the investigation of an offence, the conduct of a prosecution or the identification of a deceased person or of the person from whom a body part came.
+After this provision came into force, in accordance with guidelines from the Association of Chief Police Officers (ACPO) the police proceeded to retain data indefinitely and so to build up their DNA database of samples and profiles obtained from people who had been suspected of crimes, even if they had not been prosecuted or had been acquitted.
+In due course in two appeals to the House of Lords this system was challenged as being in violation of the suspects article 8 Convention rights: R (S) v Chief Constable of the South Yorkshire Police; R (Marper) v Chief Constable of the South Yorkshire Police [2004] 1 WLR 2196.
+In the leading speech Lord Steyn said, at p 2198E F, para 2, that as a matter of policy it is a high priority that police forces should expand the use of [DNA] evidence where possible and practicable.
+He went on to refer to public disquiet that the obligation to destroy samples under the unamended section 64(1) of PACE had sometimes enabled defendants who had in all likelihood committed grave crimes to walk free.
+Baroness Hale of Richmond observed, at p 2219G H, para 78, that The present system is designed to allow the collection of as many samples as possible and to retain as much as possible of what it has.
+The benefit to the aims of accurate and efficient law enforcement is thereby enhanced.
+In the light of such considerations the House of Lords held unanimously that the system did not violate the appellants article 8 Convention rights.
+To Strasbourg, however, the matter appeared differently.
+In S v United Kingdom (2008) 48 EHRR 1169 the Grand Chamber first held unanimously and contrary to the majority view in the House of Lords that the English system did indeed involve an interference with suspects article 8 rights.
+Then, when considering the proportionality of that interference, the court observed, at pp 1200 1201, para 119: In this respect, the Court is struck by the blanket and indiscriminate nature of the power of retention in England and Wales.
+The material may be retained irrespective of the nature or gravity of the offence with which the individual was originally suspected or of the age of the suspected offender; fingerprints and samples may be taken and retained from a person of any age, arrested in connection with a recordable offence, which includes minor or non imprisonable offences.
+The retention is not time limited; the material is retained indefinitely whatever the nature or seriousness of the offence of which the person was suspected.
+Moreover, there exist only limited possibilities for an acquitted individual to have the data removed from the nationwide database or the materials destroyed; in particular, there is no provision for independent review of the justification for the retention according to defined criteria, including such factors as the seriousness of the offence, previous arrests, the strength of the suspicion against the person and any other special circumstances.
+The court went on to conclude, at p 1202, para 125: that the blanket and indiscriminate nature of the powers of retention of the fingerprints, cellular samples and DNA profiles of persons suspected but not convicted of offences, as applied in the case of the present applicants, fails to strike a fair balance between the competing public and private interests and that the respondent State has overstepped any acceptable margin of appreciation in this regard.
+Accordingly, the retention at issue constitutes a disproportionate interference with the applicants right to respect for private life and cannot be regarded as necessary in a democratic society.
+In response to the European Courts judgment the last Parliament passed the Crime and Security Act 2010, section 14 of which was designed to amend section 64 of PACE with a view to establishing a regime for the retention and destruction of DNA material and profiles that would be compatible with article 8 as interpreted by the European Court.
+The new Government, which came into office in May 2010, decided, however, not to commence this legislation Instead, in Chapter 1 of Part 1 of the Protection of Freedoms Bill, it has put fresh legislative proposals, along similar lines to the legislation in Scotland, before Parliament.
+There were indications in the European Courts judgment that a system along those lines would indeed be compatible with article 8.
+As in the earlier legislation, the complex proposals include provision for a National DNA Database Strategy Board to oversee the operation of the DNA database.
+Obviously, in the light of the European Courts judgment the indefinite retention of the data relating to the appellants under the existing system is incompatible with their article 8 rights.
+The decision of the House of Lords to the contrary in R (S) v Chief Constable of the South Yorkshire Police; R (Marper) v Chief Constable of the South Yorkshire Police [2004] 1 WLR 2196 must accordingly be overruled.
+That is accepted by the respondent, the Metropolitan Police Commissioner, and by the Home Secretary, who has intervened in the proceedings.
+Where the Commissioner and the Home Secretary part company with the appellants is as to the order, if any, which the court should pronounce in these circumstances.
+In effect, for the appellant C Mr Fordham QC argued that section 64(1A) is worded (may be retained) so as to give the Commissioner and chief constables an open discretion as to whether data should be retained and, if so, for how long and subject to what conditions.
+The position was therefore quite straightforward.
+By virtue of section 6(1) of the Human Rights Act 1998 the Commissioner and chief constables were obliged to exercise that discretion so as to establish and maintain a system for the retention of samples and data that would comply with suspects article 8 Convention rights as they are now to be interpreted in the light of the decision of the European Court.
+It was unlawful for them not to do so.
+Mr Fordham indicated that he would be content for the court to pronounce a declaration to this effect, without making any order for the removal of the data relating to his client.
+While adopting the bulk of Mr Fordhams submissions, on behalf of the appellant GC, Mr Cragg asked the court to go further and indicate that in his case the position should be put right within 28 days.
+Mr Fordhams argument is, of course, unanswerable if he is right to say that the crucial words (may be retained) in section 64(1A) confer a wide indeed open discretion on the Commissioner and the chief constables whose forces retain the samples and data that make up the national DNA database.
+If that is correct, then, even though, when section 64(1A) came into force, ACPO issued guidelines requiring that subject to a narrow exception all the DNA samples and data relating to suspects should be retained indefinitely, the Association could with equal propriety have issued completely different guidelines which would have resulted in a system that did not provide for the indefinite retention of the samples and data.
+On that interpretation, any credit for the creation of the present DNA database is to be accorded to ACPO for choosing, of its own freewill, to issue the guidelines which it did.
+More particularly, since ACPO had been, and still was, free to adopt other completely different guidelines, ACPO could now issue fresh guidelines which would produce a system that was compatible with the European Courts judgment.
+The key question, therefore, is whether Mr Fordhams construction of section 64(1A) as conferring this wide discretion on the police is correct.
+On behalf of the Commissioner Lord Pannick QC argued that it is not.
+He drew attention to the context, which I have already described, in which Parliament enacted section 64(1A).
+This showed that Parliament had set out to cure the mischief that the original version of section 64(1) of PACE meant that suspects samples and data were removed from the database even although as Attorney Generals Reference (No 3 of 1999) demonstrated the retention of that material could potentially result in the detection and prosecution of serious criminals.
+Parliament plainly intended that in future this material should be retained on the DNA database indefinitely.
+In other words, under section 64(1A) the police had to retain it indefinitely.
+Mr Fordham said, rhetorically, that, if this were correct, then the Home Secretary could have brought proceedings against the police if they had failed to retain the material indefinitely.
+Accepting the challenge, Mr Eadie QC said that, while the matter would probably have been sorted out in a different way, if necessary, such proceedings could indeed have been brought.
+It is useful to notice just how far reaching Mr Fordhams argument is: essentially, under section 64(1A) the police were free to do what they liked.
+On his approach the provision contained nothing to delimit the exercise of their discretion.
+When listening to his argument, at times I felt that unconsciously, of course he was intent on pulling down one of the most important bulwarks which our predecessors so painstakingly erected against arbitrary acts of the executive.
+In Car Owners Mutual Insurance Co Ltd v Treasurer of the Commonwealth of Australia [1970] AC 527, 537E F, Lord Wilberforce observed that in a statutory framework it is impossible to conceive of a discretion not controlled by any standard or consideration stated, or to be elicited from, the terms of the Act.
+He was, of course, reflecting the thinking in Padfield v Minister of Agriculture, Fisheries and Food [1968] AC 997 where Lord Reid had said, at p 1030B D, that Parliament must have conferred the discretion with the intention that it should be used to promote the policy and objects of the Act, the policy and objects of the Act must be determined by construing the Act as a whole and construction is always a matter of law for the court.
+Following that classic authority, in my view the power which was conferred on the police by section 64(1A) had to be exercised in accord with the policy and objects of that enactment.
+As I have explained, the policy and objects of Parliament in enacting section 64(1A) were plainly that DNA samples and data derived from suspects should be retained indefinitely so that a large and expanding database should be available to aid the detection and prosecution of the perpetrators of crimes.
+The police were therefore bound to exercise the power given to them by section 64(1A) in order to promote that policy and those objects.
+This meant, in effect, that, subject to possible very narrow exceptions (e g, those suspected of a crime which turned out not to be a crime at all), the police had to retain on their database the samples and profiles of all suspects.
+In short, the police were under a duty to do so.
+By a slightly different route this analysis reaches the same result as the older well known line of authority to the effect that, on the proper construction of a statute as a whole and in its context, it can sometimes be seen that a power granted to, say, an official, court or other body in the public interest must be regarded as having been coupled with an implied duty on the recipient to exercise the power in the circumstances envisaged for its exercise.
+See, for instance, Julius v Lord Bishop of Oxford (1880) 5 App Cas 214; Attorney General v Antigua Times Ltd [1976] AC 16, 33F G, per Lord Fraser of Tullybelton.
+In my view, therefore, given the policy and objects of the enactment, before the decision of the European Court the police could not have exercised their power under section 64(1A) by choosing to retain samples and data for, say, only three years (or any other period deliberately not prescribed in the legislation) and then destroying them.
+Similarly, given the policy and objects of the enactment, the police could not have exercised the power to detain material indefinitely by choosing to delete material from those against whom, in their view, suspicion fell below some arbitrary level not recognised in the legislation.
+Any such exercise of their power would have defeated, rather than promoted, the policy of the enactment and would therefore have been unlawful.
+In the light of the European Courts decision, it can now be seen that the policy and objects of section 64(1A), to create a virtually comprehensive and expanding database of DNA profiles from suspects, violate the article 8 Convention rights of unconvicted suspects.
+Given that the Protection of Freedoms Bill has been introduced into Parliament, there is good reason to believe that legislation will be passed in the foreseeable future to establish a new system.
+The question in the present proceedings is whether in the meantime, by virtue of section 3(1) of the HRA or otherwise, the police must read and give effect to section 64(1A) in a way that is compatible with article 8 as interpreted by the European Court and whether they act unlawfully if they do not.
+Since I reject Mr Fordhams argument that section 64(1A) gives the police an open discretion as to what to do, I also reject his further, seductive, argument that, having regard to section 6(1) of the HRA, they can and should simply exercise that discretion in such a way as to establish a lawful system that meets the requirements of the Strasbourg court for example, by choosing to retain samples and data for only three years, subject, perhaps, to a power in an independent body to extend the period for some further defined period (as under the Scottish legislation), or by only retaining the material from those suspected of certain classes of crimes, or by only retaining the material from those against whom there is a high degree of suspicion etc.
+All of those suggested steps would have been inconsistent with the policy and objects of section 64(1A) as originally enacted.
+So they could only be adopted now, in order to comply with the European Courts decision, if section 3(1) of the HRA makes that not only possible but indeed obligatory.
+Section 3 provides: (1) So far as it is possible to do so, primary legislation and subordinate legislation must be read and given effect in a way which is compatible with the Convention rights. (2) This section (a) applies to primary legislation and subordinate legislation whenever enacted; (b) does not affect the validity, continuing operation or enforcement of any incompatible primary legislation; and (c) does not affect the validity, continuing operation or enforcement of any incompatible subordinate legislation if (disregarding any possibility of revocation) primary legislation prevents removal of the incompatibility.
+The opening phrase in subsection (1) shows that there are limits to the duty which it imposes.
+The words of Lord Nicholls of Birkenhead in In Re S (Minors) (Care Order: Implementation of Care Plan) [2002] 2 AC 291, 313, para 40, are a useful guide to where those limits lie: For present purposes it is sufficient to say that a meaning which departs substantially from a fundamental feature of an Act of Parliament is likely to have crossed the boundary between interpretation and amendment.
+This is especially so where the departure has important practical repercussions which the court is not equipped to evaluate.
+In such a case the overall contextual setting may leave no scope for rendering the statutory provision Convention compliant by legitimate use of the process of interpretation.
+Mr Fordham submitted that the fundamental feature of section 64(1A) was the retention of the material for the purposes of creating a DNA database, not the indefinite retention of the material with a view to establishing a virtually comprehensive database of DNA material from suspects.
+In my view that submission is unrealistic.
+The truth is that Parliament wanted to eliminate the danger, which existed under the pre existing legislation, that valuable evidence would be lost and potential prosecutions of the guilty based on the latest science would be jeopardised if material had to be removed from the database.
+Providing for the material to be retained on the database indefinitely was therefore the fundamental feature of the amending legislation which inserted section 64(1A) into PACE.
+That being so, section 3(1) of the HRA does not oblige or permit the courts or the police to read or give effect to section 64(1A) in a way that departs substantially from that fundamental feature.
+And it is quite obvious that any reading of section 64(1A) which would be apt to obviate the defects identified in the existing system by the European Court would depart very substantially indeed from that fundamental feature of the provision would, indeed, contradict it.
+It is therefore nothing to the point that, from a linguistic point of view, the provision might easily be read as though it said that samples may be retained, consistently with the suspects article 8 Convention rights.
+The hypothetical additional words, though few in number, would have the effect, and would be intended to have the effect, of altering the provision so as, say, to limit the samples and data that were to be retained and the time for which they could be retained, and to impose a duty to remove them after that time and so to negate the defining feature of the legislation.
+In other words, the court would have crossed the line from interpreting to amending the legislation.
+Amending section 64(1A) in that way is something which only Parliament can do.
+Parliament showed itself willing to pass amending legislation in the Crime and Security Act 2010.
+The fact that the new Government decided not to commence that legislation, but chose to introduce a Bill providing for a different scheme shows that there is a range of possible ways to bring the system into line with the requirements of article 8 and room for doubt about which is the best policy to adopt.
+This court is in no position to weigh the competing practical advantages and disadvantages of the possible solutions.
+These are further features which confirm that the necessary changes require legislation and cannot be made by any legitimate interpretation, however extensive, under section 3(1): In Re S (Minors) (Care Order: Implementation of Care Plan) [2002] 2 AC 291, 313, para 40, per Lord Nicholls.
+Section 64(1A) is therefore incompatible with suspects article 8 Convention rights and cannot be made compatible under section 3(1) of the HRA.
+Section 3(2)(b) ensures that in these circumstances the continuing operation of section 64(1A) is unaffected.
+Section 6(1) and (2) provide: (1) It is unlawful for a public authority to act in a way which is incompatible with a Convention right. (2) Subsection (1) does not apply to an act if (a) as the result of one or more provisions of primary legislation, the authority could not have acted differently; or (b) in the case of one or more provisions of, or made under, primary legislation which cannot be read or given effect in a way which is compatible with the Convention rights, the authority was acting so as to give effect to or enforce those provisions.
+Like sections 3(2) and 4(6), section 6(2) is concerned to preserve the primacy and legitimacy of primary legislation.
+See Aston Cantlow and Wilmcote with Billesley Parochial Church Council v Wallbank [2004] 1 AC 546, 556 557, para 19, per Lord Nicholls, cited with approval by Lord Hoffmann in R (Hooper) v Secretary of State for Work and Pensions [2005] 1 WLR 1681, 1696, para 51.
+If that is correct and section 3(1) of the HRA cannot be invoked in the present case, then section 64(1A) continues to operate, and Parliament intends it to operate, in the same way as when enacted.
+It therefore falls to be interpreted and applied just as when enacted.
+It is accepted that section 6(2)(a) applies to cases where the legislation, which cannot be read compatibly with Convention rights, imposed a duty on a public authority to act in one particular way the authority could not have acted differently.
+It follows, of course as Lord Hoffmann remarked in Hooper [2005] 1 WLR 1681, 1696, para 49 that, by contrast, section 6(2)(b) assumes that the public authority could have acted differently but nevertheless excludes liability if it was giving effect to a statutory provision which cannot be read as Convention compliant in accordance with section 3.
+Since the Convention non compliant provision continues to operate, any public authority which is exercising a power conferred by it must continue do so in a way that promotes the object and purposes for which the provision confers the power and these are, ex hypothesi, incompatible with Convention rights.
+As Lord Hoffmann noted, section 6(2)(b) assumes, however, that under the relevant legislation the public authority could have acted in more than one way.
+For example, it might be that a public authority could have adopted either of two schemes, A and B, both of which would have promoted the policy and objects of the legislation.
+So it cannot be said that, when it chose to adopt scheme A, the public authority could not have acted differently.
+Nevertheless, since, when it adopted scheme A, the authority was promoting the policy and objects of the primary legislation and so was acting to give effect to the legislation, section 6(2)(b) disapplies section 6(1) and ensures that the authority was acting lawfully.
+In this way the primacy and legitimacy of the provision of primary legislation are preserved.
+For all the reasons which I have set out, in the present case, in substance the police could really not have acted differently: in order to promote the object and purposes of section 64(1A) of PACE, they had to retain all the samples which they did, indefinitely.
+If that is so, then what the police did, and continue to do, falls within section 6(2)(a) and is accordingly lawful.
+Even if one assumes, however, that, while promoting the policy and objects of the legislation, the police could, for example, have recognised a slightly wider exception and so created a slightly different system, that does not matter.
+The same goes if, while promoting the policy and objects of the legislation, the police could have chosen not to recognise even the very narrow exception which they did and could have decided to retain the samples and data relating to absolutely all suspects.
+In either event, even though the police could have done something (slightly) different, by doing what they actually did and are still doing, they were acting and are continuing to act so as to give effect to section 64(1A).
+Section 6(2)(b) of the HRA accordingly applies and so the police have at all times acted, and continue to act, lawfully.
+In these circumstances section 64(1A) is incompatible with suspects article 8 Convention rights.
+Even though Parliament and the Government have the matter under review, I consider that the better course is for this court to grant a declaration of incompatibility in terms of section 4(2) of the HRA.
+Cf Bellinger v Bellinger [2003] 2 AC 467, 482, para 55, per Lord Nicholls.
+I would accordingly allow the appeals to the extent of making a declaration that section 64(1A) of the Police and Criminal Evidence Act 1984 is incompatible with the article 8 Convention rights of suspects.
+LORD BROWN
+On 4 December 2008 the Grand Chamber of the ECtHR in S v UK (2008) 48 EHRR 1169 condemned on article 8 grounds the scheme for the indefinite retention of biometric data adopted in England and Wales pursuant to section 64(1A) of the Police and Criminal Evidence Act 1984 (PACE).
+The critical issue for decision on these appeals is whether, following that decision and pending the enactment by Government of a fresh legislative scheme compatible with article 8, the police have been acting unlawfully in continuing to operate the indefinite retention scheme.
+That in turn depends upon whether section 64(1A) can or cannot be read or given effect in a way which is compatible with the Convention rights within the meaning of section 6(2)(b) of the Human Rights Act 1998 (the HRA).
+Before turning to address this issue it is necessary to sketch out something of the background to the appeal and the circumstances in which the point now arises for decision.
+These appellants are two amongst the 850,000 odd unconvicted persons whose profiles are kept on the national DNA database, their fingerprints and samples having been taken from them when they were arrested as suspects (from 2003, whether or not they were actually charged).
+This database has built up following Parliaments introduction on 11 May 2001 of section 64(1A) of PACE in substitution for the original section 64(1) which had required the destruction of a suspects fingerprints and samples as soon as practicable after he was cleared.
+Section 64(1A) provides so far as is material: Where . fingerprints, impressions of footwear or samples are taken from a person in connection with the investigation of an offence . [they] may be retained after they have fulfilled the purposes for which they were taken but shall not be used by any person except for purposes related to the prevention or detection of crime, the investigation of an offence, the conduct of a prosecution or the identification of a deceased person or of the person from whom a body part came.
+In 2004 this change in the law was unsuccessfully challenged, principally on article 8 grounds, all the way up to the House of Lords, by two complainants: S, an eleven year old boy with no previous convictions who had been acquitted of attempted robbery, and Mr Marper, a man of 38, also of good character, whose case was discontinued following his arrest on the charge of harassing his partner: R (S) v Chief Constable of the South Yorkshire Police; R (Marper) v Chief Constable of the South Yorkshire Police [2004] 1 WLR 2196.
+Lady Hale alone amongst the Appellate Committee thought that the retention and storage of DNA profiles constituted an interference with the claimants rights under article 8.
+But each member of the Committee, Lady Hale included, was quite clear that, even if it did, it was readily justifiable under article 8(2).
+Lord Steyn described such evidence as having the inestimable value of cogency and objectivity (para 1) and said that as a matter of policy it is a high priority that police forces should expand the use of such evidence where possible and practicable (para 2).
+At para 3 he observed that: It can play a significant role in the elimination of the innocent, the correction of miscarriages of justice and the detection of the guilty.
+At para 36 Lord Steyn dealt with a submission that retention is not in accordance with law (on the basis that a law which confers a discretion must indicate the scope of that discretion: Silver v United Kingdom (1983) 5 EHRR 347, 372, para 88): The discretion involved in the power to retain fingerprints and samples makes allowance for exceptional circumstances, eg where an undertaking to destroy the fingerprints or sample was given or where they should not have been taken in the first place, as revealed by subsequent malicious prosecution proceedings.
+At para 38 Lord Steyn observed that the expansion of the database by the retention confers enormous advantages in the fight against serious crime and at para 39 he remarked upon the benefits of a greatly extended database.
+Lord Rodger and Lord Carswell agreed with Lord Steyn.
+Lady Hale agreed that retention and storage of DNA samples and profiles was readily justifiable for the reasons given by Lord Steyn and myself.
+She added: The whole community, as well as the individuals whose samples are collected, benefits from there being as large a database as it is possible to have.
+The present system is designed to allow the collection of as many samples as possible and to retain as much as possible of what it has.
+The benefit to the aims of accurate and efficient law enforcement is thereby enhanced. (para 78) I myself suggested (para 88): that the benefits of the larger database . are so manifest . that the cause of human rights generally (including the better protection of society against the scourge of crime which dreadfully afflicts the lives of so many of its victims) would inevitably be better served by the databases expansion than by its proposed contraction.
+The more complete the database, the better the chance of detecting criminals, both those guilty of crimes past and those whose crimes are yet to be committed.
+The better chance too of deterring from future crime those whose profiles are already on the database.
+And I pointed out too that: The larger the database, the less call there will be to round up the usual suspects.
+Instead, those amongst the usual suspects who are innocent will at once be exonerated.
+These views notwithstanding, the Grand Chamber in Strasbourg, as already indicated, on the application of the same complainants, some four years later unanimously condemned the scheme as unjustifiable under article 8.
+It is sufficient for present purposes to quote just three paragraphs from the Courts lengthy judgment: 119 . the Court is struck by the blanket and indiscriminate nature of the power of retention in England and Wales.
+The material may be retained irrespective of the nature or gravity of the offence with which the individual was originally suspected or of the age of the suspected offender; fingerprints and samples may be taken and retained from a person of any age, arrested in connection with a recordable offence, which includes minor or non imprisonable offences.
+The retention is not time limited; the material is retained indefinitely, whatever the nature or seriousness of the offence of which the person was suspected.
+Moreover, there exist only limited possibilities for an acquitted individual to have the data removed from the nationwide database or the materials destroyed; in particular, there is no provision for independent review of the justification for the retention according to defined criteria, including such factors as the seriousness of the offence, previous arrests, the strength of the suspicion against the person and any other special circumstances. 125 In conclusion, the Court finds that the blanket and indiscriminate nature of the powers of retention of the fingerprints, cellular samples and DNA profiles of persons suspected but not convicted of offences, as applied in the case of the present applicants, fails to strike a fair balance between the competing public and private interests and that the respondent State has overstepped any acceptable margin of appreciation in this regard. 134 .
+In accordance with article 46 of the Convention, it will be for the respondent State to implement, under the supervision of the Committee of Ministers, appropriate general and/or individual measures to fulfil its obligations to secure the rights of the applicants and other persons in their position to respect for their private life.
+Before turning to the circumstances in which these particular appellants had their fingerprints and samples taken and the precise nature of the argument they advance on this appeal, it is convenient first to indicate something of the response to the Grand Chambers judgment, on the part both of the Government and of the police.
+So far as the Government was concerned, the then Home Secretary in a Press Release on 16 December 2008 indicated that the Home Office would institute a consultation process but that meantime: The DNA of children under ten the age of criminal responsibility should no longer be held on the database.
+There are around 70 such cases [we are told that there were in fact 96], and we will take immediate steps to take them off. (S and Mr Marpers data was also removed.)
+On 7 May 2009 the Home Office published a White Paper, Keeping the Right People on the DNA Database, setting out certain key proposals for the future and inviting views upon them.
+The White Paper also considered what should happen to the 850,000 odd profiles already on the national DNA database.
+On 28 July 2009 ACPOs Director of Information wrote to all Chief Constables indicating that new guidelines were not expected to take effect until 2010 and that: Until that time, the current retention policy on fingerprints and DNA remains unchanged.
+ACPO strongly advise that decisions to remove records should not be based on proposed changes.
+It is therefore vitally important that any applications for removals of records should be considered against current legislation and the Retention Guidelines Exceptional Case Procedure .
+Those Guidelines, which have remained essentially the same since section 64(1A) was introduced, provide: Chief Officers have the discretion to authorise the deletion of any specific data entry on the PNC owned by them.
+They are also responsible for the authorisation of the destruction of DNA and fingerprints associated with that specific entry.
+It is suggested that this discretion should only be exercised in exceptional cases .
+Exceptional cases will by definition be rare.
+They might include cases where the original arrest or sampling was found to be unlawful.
+Additionally, where it is established beyond doubt that no offence existed, that might, having regard to all the circumstances, be viewed as an exceptional circumstance.
+On 11 November 2009, following the consultation period, the Home Secretary made a written Ministerial statement outlining a revised set of proposals for the retention of fingerprints and DNA data (Hansard (HC Debates), 11 November 2009, col 25WS).
+It was originally intended to implement these by way of order making powers under the Policing and Crime Act 2009 but, following strong opposition to the introduction of a new scheme by secondary rather than primary legislation, the proposed new scheme was included in the Crime and Security Act 2010, introduced in the House of Commons on 19 November 2009 and receiving Royal Assent on 8 April 2010.
+Following a change of government in May 2010, however, rather than bringing the Crime and Security Act into force, the incoming government instead announced its proposal for new legislation designed essentially to mirror the Scottish system and this finally, by the Protection of Freedoms Bill 2011, introduced in the House of Commons as recently as 11 February 2011, it has now set in train.
+For reasons which will shortly become clear, it is unnecessary for the purposes of this judgment to indicate anything of the detailed nature of the various proposals which at one time or another have been considered for enactment in substitution for the existing scheme so as to achieve compatibility with article 8 pursuant to the Grand Chamber judgment.
+It is sufficient to indicate that a wide range of differing schemes have been canvassed and considered and that arriving at the preferred solution has inevitably involved complex and sensitive choices.
+It is similarly unnecessary to describe in any detail the facts of these appellants cases and the following brief summary will suffice.
+GC is 41.
+On 20 December 2007, following his girlfriends complaint that he had assaulted her (albeit without causing her injury), he voluntarily attended the police station and was arrested on suspicion of common assault.
+He strongly denied the allegation, explaining rather that he had been defending himself against attack by her.
+Following the taking of DNA samples, fingerprints and a photograph, GC was released on police bail without charge.
+Before 21 February 2008, when he was due to surrender to his bail, GC was told that no further action would be taken against him.
+GCs fingerprints (but not DNA) had in fact been taken previously and retained in connection with a firearms offence for which he had been sentenced at the Central Criminal Court on 18 February 1992 to seven years imprisonment.
+C is 34, a man of good character.
+On 17 March 2009 he was arrested on suspicion of rape, harassment and fraud following allegations made the previous day by a former girlfriend and members of her family, allegations which C strenuously denied.
+The same day, Cs fingerprints and DNA samples were taken.
+Although no further action was taken in relation to the alleged harassment and fraud, on 18 March 2009 C was charged with rape.
+On 5 May 2009, however, the prosecution offered no evidence on the rape charge and C was accordingly acquitted.
+Both appellants, through solicitors, applied to the respondent Police Commissioner to have their fingerprints and DNA data deleted from police records GC on 23 March 2009, C on 19 August 2009 (in each case, of course, after the Grand Chambers decision in S v UK).
+Consistently with ACPOs guidelines, however, both applications were refused.
+The appellants then issued judicial review proceedings, GC on 11 December 2009, C on 9 February 2010.
+The applications were heard together by the Divisional Court (Moses LJ and Wyn Williams J) on 15 July 2010 and on 16 July 2010 were dismissed, the Divisional Court correctly holding itself bound by the decision of the House of Lords in S and Marper v Chief Constable of the South Yorkshire Police (the subsequent Grand Chamber decision notwithstanding).
+The Divisional Court did, however, certify a point of law of general importance and, with the consent of all parties, granted a certificate pursuant to section 12 of the Administration of Justice Act 1969, thus enabling the matter to proceed directly to this court.
+Before this court, Mr Fordham QC for C and Mr Cragg for GC both submit that, in the light of the Grand Chambers judgment, the earlier decision of the House of Lords can no longer stand and the existing scheme must now be recognised to be unlawful so much, indeed, is clear and conceded.
+Pursuant to section 6 of the HRA, their argument then continues, the police must now therefore cease retaining their data incompatibly with their article 8 rights.
+Instead, they submit, the police must take account of the various criticisms made by the Grand Chamber of the existing scheme, must devise a new, compatible scheme, and must then deal with these appellants requests (and any other outstanding or future requests) for the removal of information from the national DNA database this, indeed, in GCs case, within 28 days, contends Mr Cragg.
+Not so, submit Lord Pannick QC for the Metropolitan Police Commissioner and Mr Eadie QC for the Home Secretary (properly joined in the proceedings as an interested party).
+It is, they submit, for the government, not for the police, to devise and enact a new scheme; the police meantime have no alternative but to continue operating the existing scheme pursuant to section 64(1A) of PACE.
+Their case is founded on section 6(2)(b) of the HRA which, they argue, disapplies section 6(1) and thus relieves the police of liability for continuing to operate what the Grand Chamber has ruled to be (in international law) an unlawful scheme.
+The most the appellants are entitled to is a declaration of incompatibility pursuant to section 4 of the HRA.
+As I indicated at the outset, this is the critical issue in the appeal and plainly it centres upon the proper understanding of, and interplay between, sections 3, 4 and 6 of the HRA which (as to their most material parts) I now set out: 3(1) So far as it is possible to do so, primary legislation and subordinate legislation must be read and given effect in a way which is compatible with the Convention rights. 4(2) If the court is satisfied that [a provision of primary legislation] is incompatible with a Convention right, it may make a declaration of that incompatibility. 6(1) It is unlawful for a public authority to act in a way which is incompatible with a Convention right. 6(2) Subsection (1) does not apply to an act if (a) as the result of one or more provisions of primary legislation, the authority could not have acted differently; or (b) in the case of one or more provisions of, or made under, primary legislation which cannot be read or given effect in a way which is compatible with the Convention rights, the authority was acting so as to give effect to or enforce those provisions.
+The precise symmetry between section 3(1) and section 6(2)(b) will at once be noted: each invites consideration of whether legislation can be read or given effect in a way which is [Convention] compatible section 3 indicating what must be done if this is possible, section 6(2)(b) indicating the consequence (the disapplication of section 6(1)) if it is not.
+At first blush the respondents argument appears distinctly unpromising.
+Section 64(1A) is, after all, couched in terms that appear to confer on the police an open discretion: samples may be retained.
+On the face of it, therefore, the police appear to be in a position to act compatibly with the article 8 rights of those whose samples have been taken and this, indeed, even without resort to section 3.
+But suppose there were some doubt about this, why would that not fall to be resolved by the interpretative imperative of section 3? How can it be appropriate, in the face of such a strong statutory direction, to place upon section 64(1A) a construction which denies the police the ability to exercise their data retention power compatibly? I confess to having come only comparatively late to the conclusion that, difficult though the respondents argument initially appears, it is in fact correct.
+Section 6(2)(b) has long been recognised to give rise to difficulty at the margins see, for example, the judgments respectively of Lord Hope, Lord Walker and Lord Mance in Doherty v Birmingham City Council [2009] AC 367.
+Clearly, as Lord Hoffmann observed in R (Hooper) v Secretary of State for Work and Pensions [2005] 1 WLR 1681, 1696, para 49, section 6(2)(b) assumes that the public authority could have acted differently but nevertheless excludes liability if it was giving effect to a statutory provision which cannot be read as Convention compliant in accordance with section 3.
+This, as was pointed out, was in contradistinction to section 6(2)(a) which applies when a public authority could not have acted differently when, in other words, the authority has been compelled by primary legislation to act in a way ex hypothesi incompatible with Convention rights.
+Superficially, of course, the very assumption that a public authority could have acted differently appears to postulate that the power in question could therefore have been exercised compatibly with Convention rights.
+Plainly, however, section 3 notwithstanding, it cannot follow that the power must therefore in all cases be exercised compatibly else section 6(2)(b) could never come into play.
+A simple illustration of section 6(2)(b) in operation is, of course, where primary legislation confers a power on a public authority and where a decision to exercise that power (or, as the case may be, not to exercise it) would in every case inevitably give rise to an incompatibility.
+R v Kansal (No 2) [2002] 2 AC 69 was just such a case and in such situations it can readily be understood why section 6(2)(b) applies.
+Otherwise, instead of giving effect to a provision conferring a power, the public authority would have to treat the provision (in cases where not to exercise it would give rise to incompatibility) as if it imposed a duty or, in cases where any exercise of the power would give rise to incompatibility (as in Kansal (No 2) itself), would have to abstain from ever exercising the power.
+In either instance, it is obvious, Parliaments will would be thwarted.
+I would take this opportunity to resile from what I myself said in the latter part of para 118 of my own judgment in Hooper.
+I was surely right to say in the first part of that paragraph: Plainly it is not the case that section 6(2)(b) applies whenever a statutory discretion falls to be exercised in a particular way to ensure compliance with a Convention right.
+This occurs in a host of different situations and, so far as I am aware, no one has ever suggested that, had the discretion not been exercised compatibly, the public authority would nevertheless have been protected against a domestic law claim by the section 6(2)(b) defence on the basis that otherwise a power would be turned into a duty.
+I was, however, wrong to suggest that the situation would be no different if to secure Convention compliance the statutory discretion had to be exercised in every case.
+It now seems to me that the underlying question in all these cases indeed, the determinative question in every case lying between the two extremes I have thus far dealt with is: what essentially was Parliament intent on achieving by this legislation? Is it or is it not something which could realistically be achieved consistently with the observance of Convention rights? If it is, then it must be so construed and applied.
+If, however, it is not, then section 6(2)(b) will apply: the legislation will be incompatible, a declaration of incompatibility may be made, and the public authority will be immune from liability.
+In short, the question to be asked in deciding whether section 6(2)(b) applies is essentially the same question as is more usually asked under section 3 when deciding whether or not, by a strained construction of apparently incompatible legislation, it is possible to read and give effect to it compatibly with Convention rights.
+Would such a construction depart substantially from a fundamental feature of the legislation? Would it be inconsistent with the underlying thrust of the legislation? Would it go with the grain of the legislation? Would it violate a cardinal principle of the legislation? Would it remove its pith and substance? Would it create an entirely different scheme? The Court must not cross the boundary from interpretation into legislation.
+All these familiar concepts and phrases are to be found in the well known cases on section 3 but their importance has hitherto not perhaps been fully recognised in the context also of section 6(2)(b).
+It is time to return to section 64(1A) of PACE and in the light of these considerations to ask whether realistically it could be construed for all the world as if, in enacting it, the government was leaving it to individual police forces or even to ACPO acting on their joint behalf to decide upon just what sort of scheme should be implemented for the future retention of biometric data.
+Is it really suggested that the police could and should then (in 2001) of their own volition have decided that, instead of retaining data indefinitely, they would retain it for only, say, one year or five years, or different periods in different cases and so forth? And if this was not open to them in 2001, how then could it become so merely because of the Grand Chambers condemnation of the indefinite scheme some years later? As Lord Nicholls observed in Ghaidan v Godin Mendoza [2004] 2 AC 557, 572, para 33, when indicating the limits of the courts section 3 powers: There may be several ways of making a provision Convention compliant, and the choice may involve issues calling for legislative deliberation. It is difficult to think of any case in which that objection to a section 3 construction applies more obviously than here.
+Lord Steyn reflected the same objection in the same case (para 49): Interpretation could not provide a substitute scheme.
+It is surely plain that legislative deliberation was required here.
+DNA retention can only sensibly operate on a national basis and section 64(1A), properly understood, in my judgment not merely authorised but required precisely the sort of scheme for the indefinite retention of biometric data that the House of Lords came to describe (and, indeed, so enthusiastically to support, in my case unrepentingly) in S and Marper.
+Realistically it was just not possible to construe the section differently, least of all as authorising the police to create for themselves a fundamentally different scheme which would achieve compatibility with the requirements of article 8 as subsequently identified by the Grand Chamber.
+Of course, some degree of latitude was given to the police as to how precisely the retention scheme was to operate.
+But this was essentially to decide what narrow categories should be excluded from its scope cases of the sort described by Lord Steyn at para 36 of S and Marper (see para 125 above) and, indeed, in the ACPO Guidelines (see para 129 above).
+The discretion could not sensibly be construed as extending to the basic nature of the scheme: whether retention should be indefinite or time limited.
+That section 64(1A) was intended to introduce a database for the indefinite retention of DNA samples is surely clear from the very circumstances in which this legislative change was brought about the deeply disturbing circumstances in which a violent rapist and a brutal murderer had both gone free because of the unsatisfactory existing scheme see Attorney Generals Reference (No 3 of 1999) [2001] 2 AC 91 and In re British Broadcasting Corporation [2010] 1 AC 145 and, indeed, to my mind clear also from the speeches in the House in S and Marper to which I have already referred.
+One of the specific issues before the House in S and Marper was, it should be noted: (4) if the retention of fingerprints and DNA profiles and/or samples is an unjustified interference with the appellants Convention rights, whether it would be possible to give section 64(1A) a Convention compatible interpretation under section 3 of the 1998 Act (Lord Steyns judgment at para 17) an issue, of course, as Lord Steyn observed at para 57, that in the event fell away.
+In short, the argument before the House assumed that section 64(1A) called for the indefinite retention of data and that, if this was incompatible with article 8, the appellants then needed to resort to section 3 of HRA for their requests for data removal to succeed.
+The appellants here submit that, following the Grand Chamber judgment, it was open to the police to adjust their data retention policy to meet the newly recognised requirements of article 8 in just the same way as they were required by this court in R (L) v Commissioner of Police of the Metropolis [2010] 1 AC 410 on article 8 grounds to adjust their previous approach to the disclosure of information for the purposes of enhanced criminal record certificates (ECRCs) pursuant to section 115(7) of the Police Act 1997.
+In my judgment, however, the two situations are entirely different: in L all that the courts decision required of the police was that in future they give no less weight to the statutory requirement that in their opinion the information ought to be included in the certificate than the requirement that they think it might be relevant (and in borderline cases give the prospective employee an opportunity to say why the information ought not to be disclosed).
+There was no requirement whatever for fresh policy choices to be made let alone legislative deliberation or democratic accountability.
+Rather the court was well able to decide the limited adjustment that needed to be made.
+Contrast the position in the present case.
+The Grand Chamber, in para 134 of its judgment (see para 126 above), can hardly have been expecting the police, rather than the Government, to implement the newly required measures under the supervision of the Committee of Ministers.
+Correspondingly, the States reaction to the Grand Chambers judgment was that it was plainly for Government, not the police, to devise and implement a new and Convention compliant scheme.
+It was, indeed, the Home Office rather than the police who decided that children under ten should be removed from the database (see para 127 above).
+No less significantly, the perceived need for a fully legitimate parliamentary solution to the problem was manifested by the political insistence upon the new scheme being introduced by primary and not merely secondary legislation.
+If this was not appropriate by secondary legislation, how much less so by revised ACPO guidelines.
+Even if it is suggested that section 64(1A) does not preclude ACPO from now amending their Guidelines to address the Grand Chambers criticisms in S v UK, that with respect is not a sufficient answer to the section 6(2)(b) defence.
+As I have said (para 143 above), the section 6(2)(b) defence necessarily postulates that the public authority could act differently.
+The critical question is whether they could do so consistently with the essential scheme and thrust of the legislation and a good test of that, I would suggest, is to ask whether it can really be said to be their duty to do so and to be unlawful and wrong for them not to do so.
+The whole purpose of section 6(2)(b) is to safeguard a public authority from liability (and, indeed, from misplaced criticism) in circumstances where in truth it is acting (as for my part I have no doubt that the police are acting here) perfectly properly.
+It follows from all this that, in common with Lord Rodger, with whose judgment on the section 6 issue I respectfully agree, I would hold that it is not unlawful (under domestic law) for the respondent police commissioner to continue to hold the appellants data on the national DNA database.
+As to whether this Court should now make a declaration of incompatibility in respect of section 64(1A) I hold no strong view.
+Nowhere is this identified as an issue before us and frankly I find it difficult to see any possible need or use for it in the present circumstances.
+But if others think it desirable, I would be quite content with that.
+I would add that, even had I concluded that the police could now act compatibly with article 8 under section 64(1A), I should certainly not have thought it just and appropriate within the meaning of section 8 of the HRA to require them to change their existing practice pending the introduction of a new legislative data retention scheme.
+It may be, indeed, that the strength of this reaction to the respondents fall back argument under section 8, on true analysis, reinforces the correctness of my primary conclusion on the section 6 issue: quite simply it would be wrong for the police to change their approach to section 64(1A) before Parliament so dictates and this court cannot properly direct them to do so.
+If anyone is to be criticised for the failure of the existing database to meet the States obligations under article 8, it is surely the Government, not the police.
+In my judgment they have a section 6(2)(b) defence to these claims.

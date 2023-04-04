@@ -1,0 +1,32 @@
+This case concerns jurisdiction over claims relating to thefts from two cargo containers.
+The first container was allegedly hi jacked in Belgium in September 2011. 756 of an original 1,386 cigarette cartons disappeared from the second container while it was parked overnight near Copenhagen.
+The consignors of these containers, and respondents in both appeals, are two companies in the British American Tobacco Group.
+The consignors are claiming against the English main contractors, Exel Europe Ltd (Exel), who undertook responsibility for the carriage and also against the sub contractors, the appellants, in whose hands the containers were when the alleged losses occurred.
+Exel has played no part in the appeals.
+In the appeal concerning the first container the appellants are H Essers Security Logistics BV and H Essers Transport Company Nederland BV (collectively, Essers) and in the appeal concerning the second container the appellant is Kazemier Transport BV (Kazemier).
+In both cases the carriage of containers was subject to the Convention on the Contract for the International Carriage of Goods by Road 1956 (CMR), which is given the force of law in the United Kingdom by the Carriage of Goods by Road Act 1965.
+Article 31 CMR sets out certain bases on which courts and tribunals can have jurisdiction over disputes arising from contracts of carriage.
+Article 34 CMR provides that where a contract of carriage is performed by successive carriers, each is responsible for the performance of the whole operation.
+Under article 36 CMR, claims under the contract may be brought against the first and last carriers and the carrier in possession of the goods when the loss, damage or delay occurred.
+The issue in the appeals is whether the consignors can found jurisdiction in England against Essers and Kazemeir as successive carriers within the meaning of CMR by relying on the presence in England of, and the proceedings brought against, Exel and/or upon a provision in the main contract for English jurisdiction.
+The High Court set aside the service of claim forms on Essers and Kazemeir.
+The Court of Appeal reached the opposite conclusion.
+Essers and Kazemeir appealed to the Supreme Court.
+The Supreme Court allows the appeals by Essers and Kazemeir and restores the High Courts order setting aside the service of claim forms.
+Lord Mance writes the lead judgment, with which Lord Neuberger and Lord Reed agree.
+Lord Sumption and Lord Clarke write concurring judgments.
+Does Article 31 apply to successive carriers? Article 31 CMR applies to disputes where a successive carrier is involved [19 20, 61].
+Article 31 CMR confers jurisdiction only on the courts or tribunals of the jurisdiction (i) as agreed by the parties, (ii) where the defendant is ordinarily resident, or has his principal place of business, or the branch through which the contract was made, or (iii) the place of consignment or delivery [33, 62].
+In order to found jurisdiction in England, the respondents must bring their claim under one of these heads.
+It is common ground that England was not the place of consignment or delivery for either container [31, 64].
+Did Essers and Kazemeir agree to English jurisdiction? The appellants became party to the respective contracts made between the respondents and Exel but article 34 CMR qualifies this position by adding that a successive carrier becomes party to the contract of carriage under the terms of the consignment note [23].
+It would be contrary to the general principle that contract depends on agreement to hold a successive carrier bound by a choice of court clause, or any other clause not evidenced by the consignment note and of which he had no express notice.
+On that basis neither Essers nor Kazemeir were bound by an English jurisdiction clause in the original contracts [26].
+Can a claimant bring subsequent carriers into the jurisdiction where it is already suing one carrier? The first, last and performing carriers under article 36 CMR hold joint and several liability, rather than alternative liability [34 42].
+CMR reflects a considered decision as to the balance of interests between all potential claimants and defendants and ought not to be interpreted to include an additional head of jurisdiction allowing for a defendant domiciled in one member state to be sued in the courts of the place where a co defendant was domiciled, unlike the article 6.1 of the Regulation on Civil Jurisdiction and Judgments, Council Regulation (EC) No 44/2001 of 22 December 2000 (the Brussels Regulation) [46 47].
+Was England the location of the branch or agency through which the relevant contract of carriage was made? Article 31 CMR refers to the original contract between the consignor and the primary carrier, rather than that through which any successive carrier acceded.
+Therefore England is not the relevant location of such branch or agency [32, 66].
+Does the Brussels Regulation provide any other basis for jurisdiction or aid the interpretation of the CMR? The Brussels Regulation does not provide any other basis for jurisdiction over Essers or Kazemeir or otherwise act as an aid to the interpretation of the CMR.
+The CMR represents a balanced regime adopted across 55 states, only half of which are in the EU.
+It does not impinge on any of the principles of EU law which the Court of Justice has, in other cases, held to prevail over such international agreements [48 57].
+Lord Clarke and Lord Sumption both consider that the commercial logic of articles 34 and 36 points towards the recognition of a jurisdiction to receive claims against all three carriers in one set of proceedings but agree with Lord Mance that the language of the CMR clearly provides otherwise [60, 69].

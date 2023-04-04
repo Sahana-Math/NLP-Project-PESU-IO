@@ -1,0 +1,42 @@
+Dr Williams claims to be the victim of a fraud instigated by the Nigerian State Security Services which occurred in 1986.
+His case is that he was induced to serve as guarantor of a bogus transaction for the importation of foodstuffs into Nigeria.
+In connection with that transaction, he paid $6,520,190 (USD) to an English solicitor, Mr Reuben Gale, to be held on trust for him on terms that it should not be released until certain funds had been made available to him in Nigeria.
+Dr Williams says that in fraudulent breach of that trust, Mr Gale, knowing that those funds were not available to him in Nigeria, paid out $6,020,190 of the money to an account held by the Central Bank of Nigeria with Midland Bank in London, and that he pocketed the remaining $500,000.
+The Central Bank is said to have been party to Mr Gales fraud.
+Dr. Williams claimed against the Central Bank on the basis that the Bank was a constructive trustee.
+The Bank was alleged to have dishonestly assisted Mr. Gale to pay away the $6,520,190, and to have received the $6,020,190 knowing that it represented trust funds paid to it in breach of trust.
+There was also a claim to trace to the latter sum into the Banks assets.
+The question on this appeal is whether the order permitting Dr Williams to serve the claim form and particulars of claim on the Central Bank in Nigeria should be set aside and a declaration made that the English court lacks, or at any rate should not exercise, jurisdiction in respect of it.
+That in turn depends on whether there is a serious issue to be tried [1].
+This depends on whether Dr. Williams claims are time barred under the Limitation Act 1980.
+It is common ground that, in so far as any such trust claim is subject to statutory limitation, the limitation period has expired.
+The issue turns on whether these claims were exempt from statutory limitation by virtue of section 21 of the Limitation Act 1980 [2].
+Section 21 provides that no period of limitation shall apply to (a) an action by a beneficiary under a trust, in respect of any fraud or fraudulent breach of trust to which the trustee was a party or privy or (b) recovery from the trustee of trust property or the proceeds of trust property [3].
+Two questions arose.
+First, whether a stranger to a trust, who dishonestly assists in a breach of trust or knowingly receives trust property paid out in breach of trust, is a trustee for the purposes of the Act.
+If the answer to that question is No, then the second question is, whether an action in respect of any fraudulent breach of trust to which the trustee was a party is limited to an action against the trustee or includes an action against the stranger [4].
+By a majority the Supreme Court allows the appeal and declares that the English court has no jurisdiction in respect of this action.
+The order for service out of jurisdiction and the service itself must be set aside [38].
+Lord Sumption (with whom Lord Neuberger and Lord Hughes agree), writing the lead judgment, holds that the 1986 trust claims are time barred essentially because section 21 of the Limitation Act is concerned only with actions against true trustees and the Central Bank is not a true trustee.
+This is because a constructive trust of the kind alleged against the Bank is not a true trust but merely a basis for granting equitable relief [6].
+Lord Sumption distinguishes between two categories of constructive trusts, namely one that comprises de facto trustees and cases of ancillary liability [8].
+The distinction is relevant because the rationale behind the original rule that trustees are accountable to their beneficiaries without limitation of time will not necessarily apply to every kind of constructive trust.
+Trust assets are assets lawfully vested in a trustee.
+If the trustee misapplies the assets, equity ignores the misapplication and simply holds him to account for the assets as if he had acted in accordance with his trust.
+There is nothing to make time start running against the beneficiary.
+Persons who are under a purely ancillary liability are in a different position to this.
+Their acts and their receipt of the assets are at all times adverse to both the true trustees and the beneficiaries.
+They are liable to account in equity, but as wrongdoers, and not as true trustees. [13 31].
+Once the first question is answered in the negative, the second question then arises whether the Central Bank is nevertheless a party sued in respect of any fraud or fraudulent breach of trust to which the trustee was a party or privy for the purposes of the Limitation Act.
+The majority hold that it is not.
+Section 21(3) is concerned only with actions against trustees on account of their own fraud or fraudulent breach of trust [32 36].
+Lord Neuberger (with whom Lord Hughes also agrees) agrees with Lord Sumption that the appeal should be allowed [42].
+On the first question Lord Neuberger concludes that a trustee does not include a party who is liable to account in equity simply because he was a dishonest assister and/or a knowing recipient.
+This is because such a party is not a constructive trustee and a trust and trustee were, pursuant to the legislation, meant to have orthodox meanings [90].
+On the second question Lord Neuberger would hold that the narrower meaning of section 21(1)(a) is to be preferred, namely that it only applies to claims brought against the trustee who was a party or privy to the fraud or fraudulent breach of trust [92 & 113].
+In a dissenting judgment, Lord Mance considers that the appeal by the Central Bank should be dismissed [163].
+Lord Mance takes the view that Dr Williams claim against the Central Bank as an alleged dishonest assister falls within section 21(1)(a) and is not time barred because Parliament intended to treat dishonest assisters as in the same position as regards limitation as the dishonest trustees they assist [157].
+As to Dr Williams claim for knowing receipt by the Central Bank, Lord Mance does not agree with Lord Neuberger that the phrases trust and trustee are limited in meaning so as to exclude a knowing receipt [161] and therefore considers that Dr Williams should also succeed on this point.
+In an additional dissenting judgment, Lord Clarke agrees with the majority that the central Bank is not a trustee within the meaning of section 21(1)(a) [165].
+Further, he agrees with Lord Neuberger that a knowing assister is not a constructive trustee [166].
+However, with regard to the second question in this appeal, Lord Clarke would hold that the action falls within the ordinary meaning of the language of the statute [171] and would thus dismiss the Central Banks appeal on this point [182].

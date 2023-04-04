@@ -1,0 +1,121 @@
+When a person is facing insolvency, a possible alternative to sequestration is a voluntary arrangement with his creditors.
+Under Scots law, this usually takes the form of a deed granted by the debtor, conveying his property to a trustee for the benefit of his creditors.
+The trustee is given powers to collect and realise assets, to rank claims, and to distribute the estate among the creditors according to their respective rights and preferences.
+The trust deed will usually contain provisions relating to the discharge of the debtor from his debts, the restoration to him of any surplus, and the discharge of the trustee.
+At common law, the trust deed is binding on creditors who accede to it.
+As will be explained, it may also, under statute, affect the rights of non acceding creditors.
+This appeal concerns a situation in which, after the debtors estate so far as known had been distributed in partial payment of his debts, and he and his trustee had received their discharges, additional property was discovered, of which his trustee had not previously been aware.
+There is no suggestion that it had been concealed, or that the debtor was even aware of its existence.
+The question raised in the appeal is whether the trustee (or former trustee, depending on the view one takes) is entitled to the property, and can distribute it among the creditors (or former creditors) in further payment of the debts (or former debts).
+As will appear, the form in which the case has been brought presents the court with a narrow issue, and it has been unable to consider wider aspects of the question which it might otherwise have addressed.
+The facts
+On 29 September 2006 Mr Davidson, the second respondent, granted a trust deed for his creditors.
+It was in a standard form, and was a protected trust deed to which the provisions of the Bankruptcy (Scotland) Act 1985 (the 1985 Act), Schedule 5, paragraphs 5 10, as amended by section 11(3) of, and paragraph 32 of Schedule 1 to, the Bankruptcy (Scotland) Act 1993, applied.
+Put briefly, those provisions have the effect of restricting the rights of non acceding creditors and conferring on the trust deed some protection against being superseded by the sequestration of the debtors estate.
+In accordance with paragraph 5(1) of Schedule 5 to the 1985 Act, the trust deed was sent to all known creditors, notice of it was published in the Edinburgh Gazette, and it was registered in the Register of Insolvencies.
+The material provisions of the trust deed can be summarised as follows.
+Clause 1 provided that Mr Davidson transferred to a named insolvency practitioner, as trustee for his creditors, the rights and assets which would vest in a permanent trustee in terms of sections 31, 32 and 33 of [the 1985 Act].
+Those rights and assets were described as Mr Davidsons estate.
+They included any right of action and any estate acquired by the debtor during the currency of the trust, in accordance with section 32(6) and (10) of the 1985 Act.
+Under Clauses 2 and 3, the trustee was entitled to receive, during the period of the trust, the amount of Mr Davidsons income which exceeded a suitable amount to allow for his aliment and relevant obligations as defined in section 32(3) of the 1985 Act.
+Under Clause 7, headed Distribution of my Estate, the estate was to be distributed first in payment of the expenses of the trust deed and the trustees remuneration, secondly in payment of creditors, and thirdly so as to re convey any remaining surplus to Mr Davidson.
+In relation to the payment of creditors, Clause 7 (Second) provided, so far as material: My Trustee shall determine as he thinks fit the time(s) when payment should be made, what notice of payment should be given and whether payment should be made by way of interim or final dividend(s).
+Clause 10 provided: This Trust Deed is granted by me on condition that the creditors acceding to the Trust Deed shall discharge me of all my debts due to them on the termination of this Trust Deed unless: (i) My Trustee reports that in his opinion I have not made fair and full surrender of my Estate or; (ii) The Trust Deed terminates on an award of sequestration of my Estate being made.
+Clause 11 provided that the trust deed would terminate on the earliest of the following events: (i) An award of sequestration of my Estate . (ii) The final distribution of my Estate (which shall for the avoidance of doubt include a nil distribution) by my Trustee in accordance with this Trust Deed. (iii) The acceptance by my creditors of any composition offered by me.
+Clause 12 provided for the discharge of the trustee: When my Trustee considers it appropriate to wind up this trust created by the Trust Deed, he shall summon a final meeting of my creditors by issuing a notice sent by first class post and confirmed by a certificate of posting and shall include with such notice a copy of the accounts of his transactions and intromissions with my Estate.
+At the meeting of my creditors he can seek his discharge from my creditors.
+Mr Mond, the appellant, was assumed as the trustee in July 2010.
+On 16 September 2010 he wrote to the creditors, stating: I am now in a position to complete the administration of the case and make payment of the first and final dividend.
+All the assets in the Trust Deed have been realised .
+Creditors had been invited to submit their claims.
+They exceeded the known estate.
+On 5 November 2010 Mr Mond paid the creditors a dividend of 22.41 pence in the pound.
+On 19 November 2010 he received his discharge.
+On 5 April 2011 he sent the Accountant in Bankruptcy, for registration in the Register of Insolvencies, a statement indicating how the estate was realised and distributed, and a certificate to the effect that the distribution was in accordance with the trust deed, as required by paragraph 9 of Schedule 5 to the 1985 Act.
+That provision applies where the trustee under a protected trust deed has made the final distribution of the estate among the creditors, and requires the trustee to submit the statement and certificate not more than 28 days after the final distribution.
+The certificate was made expressly in terms of paragraph 9, and stated that a full distribution of the debtors estate has now been made in accordance with the terms of the Trust Deed.
+At the same time, Mr Mond also requested the Accountant in Bankruptcy to register his discharge in the Register of Insolvencies in accordance with paragraph 10 of Schedule 5.
+Unbeknown to Mr Mond, before Mr Davidson entered into the trust deed he had been mis sold payment protection insurance (PPI) which he had taken out in respect of various loans from the Bank of Scotland (the Bank).
+In January 2015 he appointed Dooneen Ltd, the first respondent, as his agent for the purpose of making a claim against the Bank for the mis selling of the PPI, and assigned to Dooneen 30% of the value of any compensation received.
+Dooneen made a claim, and in April 2015 the Bank agreed to pay compensation of around 56,000.
+Mr Mond claimed that he was entitled to payment of that sum, on the basis that the right to compensation had vested in him as part of the estate subject to the trust deed and remained vested in him as trustee.
+The Bank paid the compensation to Mr Mond.
+The present proceedings
+In the present action, Dooneen and Mr Davidson seek declarator that the compensation had not vested in Mr Mond together with payment of the compensation from Mr Mond.
+They accept that Mr Davidsons right to compensation formed part of the estate transferred to his trustee for the benefit of his creditors, but argue that his radical right to it became disburdened of the trust when the avowedly final distribution was made, since the trust then came to an end in accordance with Clause 11(ii).
+Mr Mond, on the other hand, argues that there was no final distribution within the meaning of the trust deed, since a distribution cannot be final if, as a result of ignorance, it leaves part of the trust estate out of account.
+That, he argues, is clearly the position in a statutory sequestration: Whyte v Northern Heritable Securities Investment Co Ltd (1891) 18 R (HL) 37; [1891] AC 608.
+The same, he argues, should follow under a voluntary trust deed, which should be construed so as to prevent the debtor from receiving a windfall at the expense of his creditors.
+The Lord Ordinary, Lord Jones, found in favour of Dooneen and Mr Davidson: [2016] CSOH 23.
+That decision was upheld by the Second Division of the Inner House (Lady Dorrian, the Lord Justice Clerk, Lord Malcolm and Lord McGhie): [2016] CSIH 59; [2017] SCLR 199; [2017] BPIR 380.
+The Inner House considered that, on a proper construction of the trust deed, a final dividend within the meaning of Clause 7 (Second), and the equivalent expression final distribution in Clause 11(ii), meant a dividend or distribution declared to be such by the trustee.
+The distribution on 5 November 2010 was made on the basis that the trustee had determined that a final dividend should be paid.
+It was therefore a final distribution within the meaning of the trust deed, notwithstanding the existence of an asset which was unknown to the trustee.
+The trust therefore came to an end on that date, in accordance with Clause 11(ii), and the debtor was discharged of his debts, in accordance with Clause 10.
+The essence of the Second Divisions reasoning was set out in para 18 of its Opinion, delivered by the Lord Justice Clerk: This interpretation is necessary because the termination of the trust deed, as we have noted, is tied to, amongst other things, final distribution.
+The final distribution acts not only as the trigger for a discharge of the debtor by creditors, but, in effect, a composition, whereby the trust deed (the voluntary equivalent of a sequestration) is ended and the debtor is entitled to be re invested in any remaining trust estate.
+As was explained in Flett v Mustard [1936 SC 269] (Lord President Normand, p 275): If abandonment is out of the way, the only other mode by which retrocession can be established, short of full payment of the creditors, is by showing that there was a discharge on composition Northern Heritable Securities Investment Co, Lord Watson at p 39.
+There may be a discharge of a debtor under a trust deed for creditors which does not expressly bear to be a discharge on composition but which is intended to have that effect, and that intention may be found in the terms of the trust deed and of the discharge.
+That was the view taken by Lord Trayner (at p 570) in Kinmond, Luke & Co v James Finlay & Co [(1904) 6 F 564].
+In Kinmond, where there was a provision in similar terms to clause 11(ii), Lord Trayner had said (p 570): Under the trust deed, to which the pursuers creditors acceded, it was made matter of contract that on receiving a final dividend (as declared by the trustee) the pursuers should, ipso facto, stand discharged of all claims ranked on their estate.
+Such a dividend has been paid and the discharge given.
+In my opinion, that operated practically as a discharge on a composition would have done, and had the effect of reinvesting the pursuers.
+The discharge in the present case has the same effect, terminating the trust and reinvesting the truster in any unrealised estate, which includes the PPI payment.
+Discussion
+In my respectful opinion, the Inner House reached the correct conclusion as to the construction of the trust deed.
+It provides in effect for a composition between the debtor and the acceding creditors, as the Lord Justice Clerk explained under reference to the dicta in Kinmond, Luke & Co v James Finlay & Co and Flett v Mustard.
+The composition is conditional on the final distribution of the estate by the trustee (subject to the contingencies mentioned in Clause 10(i) and (ii)).
+It is for the trustee, acting in accordance with his fiduciary duty towards the creditors, to determine when a final distribution should take place.
+Those considerations do not in themselves entail that a final distribution, within the meaning of the trust deed, can take place even though a part of the estate of which the trustee was unaware has not been distributed in payment of the debts.
+But the contrary argument that a final distribution only occurs, in the absence of full payment of the debts, when all the assets transferred to the trustee under the trust deed have in fact been distributed, whether or not the trustee is aware of their existence would have consequences which the debtor cannot reasonably be taken to have intended when granting the deed.
+First, since one could never be certain that any distribution was a final distribution in that sense, one could never be certain that the trust had terminated.
+It would potentially be of indeterminate duration.
+The consequent uncertainty as to whether the trust had terminated or not is particularly difficult to reconcile with the provisions of Clause 1, vesting acquirenda in the trustee, and Clause 2, requiring the debtor to pay part of his income to the trustee, so long as the trust subsists.
+Secondly, if one cannot be certain whether the trust has terminated, it follows that the debtor cannot be certain that he has been discharged of his debts under Clause 10.
+This could have serious practical consequences not only for the debtor but also for anyone else doing business with him after his apparent discharge and the apparent termination of the trust, since he might nevertheless prove to be an undischarged bankrupt.
+Thirdly, if the discovery of previously unknown assets signifies that there has not been a final distribution, even though the certificate required by paragraph 9 of Schedule 5 to the 1985 Act has already been registered, then it follows that reliance cannot be placed on the accuracy of the public Register of Insolvencies.
+It is inherently unlikely that the trust deed was intended to have that result.
+Counsels response was that Clause 1 defines the trust estate by reference inter alia to section 32 of the 1985 Act, which refers to estate acquired by the debtor on a relevant date, defined by section 32(10) as meaning a date after the sequestration and before the date on which the debtors discharge becomes effective.
+Under section 54 of the 1985 Act, a debtor automatically obtains his discharge three years after the date of sequestration.
+On that basis, it was argued that the definition of the trust estate in Clause 1 does not include acquirenda acquired more than three years after the commencement of the trust.
+This argument cannot be accepted.
+The incorporation into Clause 1 of section 32 of the 1985 Act, for the purpose of defining the trust estate, does not entail the incorporation of section 54 for the purpose of determining whether property was acquired before the date of the debtors discharge.
+On the contrary, the trust deed itself makes provision for the date of the debtors discharge in Clause 10, so giving content to section 32(10) as applied to the trust.
+Furthermore, the terms of Clause 10, read together with Clause 11, are inconsistent with section 54: discharge does not occur automatically after three years, but on the termination of the trust, which takes place on the earliest of the three events listed in Clause 11(i) to (iii), all of which can occur more than three years after the commencement of the trust.
+Counsel also relied on the case of Whyte v Northern Heritable Securities.
+That case was concerned with a similar factual situation to that in the present case, but it arose in a materially different legal context.
+The debtor had been sequestrated under the Bankruptcy (Scotland) Act 1856 (19 & 20 Vict, c 79).
+Section 102 vested his property in the trustee for behoof of the creditors, absolutely and irredeemably.
+Section 132 required the payment of dividends from time to time until the whole funds of the bankrupt shall be divided.
+Section 152 provided a procedure for the trustee to obtain his discharge after a final division of the funds.
+Section 155 provided for any surplus of the bankrupts estate remaining after payment of his debts to be paid to him.
+The case arose because the creditors discovered, after both the debtor and the trustee had been discharged, that part of the estate had not been distributed.
+The House of Lords concluded that, under the legislation, the remaining estate could only vest in the debtor upon a composition or other transaction with his creditors, or upon payment in full of his debts.
+Since none of these events had occurred, it followed that the process of sequestration under the Act had not been completed, and that a new trustee should be appointed for the purpose of distributing the remaining estate.
+Lord Watson explained at pp 39 and 614 615: According to my view of the statute, he [the debtor] can only get back the property which has been taken from him absolutely and irredeemably by the force of the statute in one of three ways; either, first, by his discharge upon payment of a composition to his creditors; secondly, by receiving a part of it as surplus after satisfying their claims to the extent of 20 shillings in the pound; or, in the third place, by a transaction with the trustee and creditors of the bankrupts estate I think the final close of the sequestration contemplated by the statute was the discharge of the trustee after the final distribution after the whole of the funds vested in him by force of the statute had been applied to their proper purpose, namely, payment of the debts ranked in the sequestration.
+When I speak of final distribution, I mean distribution of what were in fact the last funds available for the purpose.
+Now in this case there was no doubt a discharge of the trustee upon the footing that the available funds had been distributed.
+That was the footing upon which the discharge of the trustee proceeded, so far as I can see.
+But it proves to have been in face of the fact that there were funds extant at that date which were available, and might have been made available by the trustee for division among the creditors.
+Now it appears to me that the discharge of a trustee upon that footing before final distribution, either in ignorance or by inadvertence, cannot possibly alter the provisions of the Act, and that by force of the Act the sequestration notwithstanding subsists for behoof of the creditors.
+Counsel relied on the second paragraph of that passage as defining the meaning of the words final distribution.
+But Lord Watson was merely explaining the sense in which he was using those words in his speech, rather than defining a term of article The decision in the case turned on the relevant statutory provisions, in particular sections 132 and 155 of the 1856 Act.
+In the present case, by contrast, the trust deed contains no comparable provisions.
+Furthermore, in the present case the debtor has been discharged on the basis of what is in effect a composition with his creditors: a situation in which Lord Watson accepted that the position would have been different.
+It might also be observed that the proceedings in that case were brought by the creditors, in order to have a new trustee appointed to the undistributed estate.
+Although the point was not raised in the courts below, and it is unnecessary to decide it, one might question on what basis the present action, even if well founded in law, could be brought by a former trustee who had received his discharge.
+Conclusion
+For the foregoing reasons, a decision that a distribution is final, taken by the trustee under the present trust deed in accordance with his fiduciary duty, must be regarded as definitive, subject to the possibility, discussed below, of its being reduced (ie set aside).
+It follows, in the present case, that the trust came to an end on 5 November 2010, that the debtor was then discharged of his debts, and that the former trustee, discharged later the same month, has no entitlement to the asset discovered in 2015.
+The appeal should therefore be dismissed.
+Postscript
+This is scarcely a satisfactory outcome.
+An asset which vested in the trustee for the benefit of the creditors and ought to have been applied to payment of the debts due to them, will instead be paid to the debtor, merely because the trust was administered in ignorance of its existence.
+One might question whether the law is powerless to provide a remedy in this situation.
+Prior to the hearing of the appeal, the court informed the parties that it would be assisted by discussion of the legal consequences of a mistake in this context: in particular, whether the relevant acts of the trustee might be reduced if they were the result of an error as to the extent of the trust estate.
+In posing that question, the court had it in mind that on the construction of the trust deed which it has now upheld, the acceding creditors effectively conferred on the trustee a power to extinguish their rights as against the debtor by determining that a dividend should be a final distribution; and that the determination in the present case had been made in ignorance of a relevant indeed, critical consideration.
+It also had it in mind that reduction is a discretionary remedy, which may be granted on terms, or withheld, where that is appropriate to protect the rights of third parties.
+The court drew the attention of the parties to the Scottish Law Commission Discussion Paper on Supplementary and Miscellaneous Issues relating to Trust Law (2011) (No 148), Chapter 14, Error and other defects in trustees exercise of discretionary powers, and the Scottish Law Commission Report on Trust Law (2014) (Scot Law Com No 239), Chapter 19, Defects in the exercise of trustees powers, where relevant authorities are discussed.
+Those authorities include the decisions of the House of Lords in Dundee General Hospitals Board of Management v Bells Trustees 1952 SC (HL) 78; [1952] 1 All ER 896 and Hunter v Bradford Property Trust Ltd 1970 SLT 173, to which one might add the case of Whyte v Knox (1858) 20 D 970.
+In the event, the parties declined to make submissions on these matters.
+In those circumstances, it would be inappropriate for the court to consider them further on this occasion.

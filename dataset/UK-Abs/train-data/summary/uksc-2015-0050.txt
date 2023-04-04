@@ -1,0 +1,35 @@
+Impact Funding Solutions (Impact) entered into a disbursements funding master agreement (DFMA) with solicitors, Barrington Support Services Ltd (Barrington), by which Impact, by entering into loan agreements with Barringtons clients, provided funds to Barrington to hold on behalf of its clients and to use to make disbursements in the conduct of its clients litigation in pursuit of damages for industrial deafness.
+Barrington failed to perform its professional duties towards its clients in the conduct of the litigation, by not investigating the merits of their claims adequately and through the misapplication of funds provided by Impact, breaching their duty of care to them.
+Barrington thereby put itself in breach of a warranty in its contract with Impact.
+Barringtons clients were not able to repay their loans.
+Impact sought to recover from Barrington the losses which it suffered on those loans by seeking damages for the breach of the warranty.
+On 30 March 2013, the High Court awarded Impact damages of 581,353.80, which represented the principal elements of the loans that would not have been made if Barrington had not breached its contract with Impact.
+On Barringtons insolvency, Impact seeks in this action to recover those losses from Barringtons professional indemnity insurers AIG Europe Ltd (AIG), under the Third Parties (Rights against Insurers) Act 1930.
+The issue in the appeal concerns the construction of an exclusion clause in Barringtons professional indemnity policy (the Policy).
+The relevant part of the exclusion clause provided that This policy shall not cover Loss in connection with any Claim or any loss: arising out of, based upon, or attributable to any breach by any Insured of terms of any contract or arrangement for the supply to, or use by, any Insured of goods or services in the course of providing Legal Services.
+The question is whether the DFMA falls within the scope of this exclusion clause, and as a result, the Policy excludes cover in relation to Impacts cause of action.
+On 13 December 2013, the High Court held that Impacts claim against AIG for an indemnity failed.
+In a judgment dated 3 February 2015 the Court of Appeal allowed Impacts appeal.
+AIG now appeals to the Supreme Court.
+The Supreme Court allows AIGs appeal by a majority of 4 to 1.
+Lord Hodge gives the lead judgment (with which Lord Mance, Lord Sumption and Lord Toulson agree).
+Lord Toulson gives a concurring judgment (with which Lord Mance, Lord Sumption and Lord Hodge agree).
+Lord Carnwath gives a dissenting judgment.
+Questions of Construction The general doctrine that exemption clauses should be construed narrowly, has no application to the relevant exclusion in this Policy.
+The extent of the cover in the Policy is therefore ascertained by construction of all its relevant terms without recourse to a doctrine relating to exemption clauses [7].
+The insurance policy The boundaries of AIGs liability are ascertained by construing the broad statement of cover and also the broad exclusions in the context of the regulatory background [18].
+Two questions arise: (i) whether the contract between Impact and Barrington was a contract by which Impact supplied services to Barrington in the course of Barringtons provision of legal services; and (ii) whether it is necessary to imply a restriction into the relevant Policy exclusion clause limiting its effect in order to make it consistent with the purpose of the Policy [18].
+The DFMA and the resulting loans to Barringtons clients were a service which Impact provided to Barrington for four reasons.
+Firstly, Barrington contracted as a principal with Impact and not as agent for its clients.
+Secondly, Barrington clearly obtained a benefit from the funding of its disbursements.
+Thirdly, this was not an incidental or collateral benefit to Barrington derived from a service provided to its clients, but was part of a wider arrangement.
+Fourthly, it was a service for which Barrington paid the administration fee, undertook the onerous obligation to repay Impact if a client breached the credit agreement, entered into the obligation to indemnify Impact and gave the warranty to Impact on which Impact won its claim for damages against Barrington [29].
+Therefore, the DFMA was a contract for the supply of services to Barrington [30, 46].
+That conclusion accords well with the essential purpose of the Solicitors Indemnity Insurance Rules 2009 to protect the section of the public that makes use of the services of solicitors, the relevant clause in the 2009 Rules being substantially the same as the exclusion clause [46].
+There is no basis for implying additional words into the exclusion in order to limit its scope.
+Marks & Spencer plc v BNP Paribas Securities Services [2015] 3 WLR 1843 confirmed that a term would be implied into a detailed contract only if, on an objective assessment of the terms of the contract, the term to be implied was necessary to give the contract business efficacy or was so obvious it went without saying [31].
+Impacts cause of action under the DFMA is an independent cause of action.
+Excluding such a claim creates no incoherence in the Policy.
+Indeed, it would be consistent with the purpose of the Policy of ensuring that protection was provided to the clients of solicitors if such a claim were excluded [32].
+In a dissenting judgment, Lord Carnwath would have dismissed the appeal, finding that the essential service provided by the DFMA was the provision of loans to Barringtons clients, not to Barrington.
+It may have had incidental benefits to Barrington, but that was not the essential purpose of the contract, nor was it a service comparable in any way to the supply of good or services for use in the practice [56].

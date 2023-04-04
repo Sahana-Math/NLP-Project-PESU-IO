@@ -1,0 +1,40 @@
+The issue in this appeal is whether, where there has been a transfer of employees to which the Transfer of Undertakings (Protection of Employment) Regulations 1981 (TUPE) apply, the new employer is bound by a term of an employees contract of employment which provides that terms and conditions of employment will be in accordance with collective agreements negotiated from time to time.
+UK courts have previously held that Regulation 5 TUPE renders such a dynamic clause enforceable against the new employer.
+This appeal considers whether that approach requires to be modified in light of a decision of the European Court of Justice in Werhof v Freeway Traffic Systems GmbH & Co KG (Case C 499/04) [2006] ECR I 2397 (Werhof).
+Werhof interpreted Article 3(1) of the Directive which TUPE implements in domestic law (Directive 77/187/EEC on the approximation of the laws in the Member States relating to the safeguarding of employees rights in the event of transfers of undertakings, businesses or parts of businesses, as amended (the Directive).
+The Appellants are former employees of the London Borough of Lewisham (the council) who worked in the councils leisure department until 2002.
+The council subscribed to the National Joint Council for Local Government Services (the NJC).
+The Appellants contracts of employment provided that their terms and conditions of employment will be in accordance with the collective agreements negotiated from time to time by the NJC supplemented by agreements reached locally through the councils negotiating committees.
+In 2002 the part of the councils undertaking in which the Appellants worked was contracted out to CCL Ltd.
+In 2004, CCL Ltds undertaking was taken over by the Respondent, another private sector employer.
+TUPE applied to each of these transfers.
+The employees therefore first became employees of CCL Ltd and then of the Respondent.
+At the date of the transfer to CCL Ltd, there were collectively agreed terms setting out pay rates from 1 April 2002 to 31 March 2004.
+Subsequent NJC settlements provided for further pay increases.
+The Respondent refused to increase the Appellants pay in line with the NJC settlement with effect from 1 April 2006 and 1 April 2007.
+The Appellants brought claims for unauthorised deduction from wages.
+These were dismissed by the Employment Tribunal.
+The Appellants appeal to the Employment Appeal Tribunal was successful, but the Court of Appeal restored the Tribunals decision.
+It held that Werhof meant that Article 3(1) of the Directive did not bind the transferee to any collective agreement made after the transfer and that Regulation 5 TUPE did not indicate any intention to provide employees with greater protection.
+The Appellants appealed to the Supreme Court.
+The Supreme Court unanimously holds that there should be a reference to the Court of Justice of the European Union for a preliminary ruling to establish whether Article 3(1) of the Directive precludes national courts from giving a dynamic interpretation to Regulation 5 of TUPE in the circumstances of this case.
+Lord Hope gives the judgment, with which the other members of the court agree.
+Domestic legislation enacted so as to give effect to the UKs EU obligations must be construed so as to conform to those obligations, so far as possible to do so.
+Two questions arise: (i) whether Regulations 5(1) and 5(2) TUPE were designed to be more generous than Article 3(1) of the Directive, as interpreted in Werhof; (ii) if not, whether it is open to the national court to construe those Regulations more generously because that is not precluded by Article 3(1) of the Directive: [19] [26].
+As to the first question, Parliament must be taken to have intended to do no more in enacting Regulations 5(1) and (2) TUPE than implement Article 3(1) of the Directive.
+Regulations 5(1) & (2) TUPE provided that contracts of employment to which it applied were to have effect after the TUPE transfer as if originally made between the employee and the transferee.
+Although in some respects TUPE was more generous to employees that the Directive, there was nothing indicating such an intention in Regulations 5(1) & (2).
+Although it is the 1981 TUPE Regulations which apply to this case, they were replaced by new regulations in 2006, which contained equivalent provisions to Regulations 5(1) & (2).
+It was not possible to infer from this that Parliament had intended to endorse the interpretation which had been given to Regulation 5 in the existing domestic case law: [28] [30].
+As to the second question, it is open to a national court to extend the scope of national legislation implementing a Directive to areas not included within the scope of the Directive, provided that no other provisions of EU law preclude that: [32].
+The scope of Article 3 has now been interpreted by the ECJ in Werhof, which was a preliminary reference from Germany.
+German law provides that collectively agreed rules become part of the employment contract with the content that they possess at the time when the business is transferred and are not updated after the transfer.
+It therefore adopts a static approach.
+The ECJ held such an approach was not precluded by Article 3(1) of the Directive: [37] [42] The question in this case is a different one: whether a member state is precluded from extending the protection afforded to employees on transfer, so as to provide dynamic protection, where that would be the consequence of an application of domestic contract law: [44].
+It was not possible to infer from Werhof how the ECJ might have answered that question: [45].
+First, the Directives aim was to promote approximation, not harmonisation, of law.
+It was not to affect the right of member states to introduce laws more favourable to employees: [46].
+Secondly, in Werhof the ECJ had taken into account the new employers right not to join an association or union, protected by Article 11 of the European Convention on Human Rights.
+That had been of relevance there because of the way German employment law deals with collective agreements.
+It was not a concern in this case, because the matter depended entirely on the domestic law of contract: [47].
+The question whether Article 3(1) of the Directive precludes national courts from giving a dynamic interpretation to regulation 5 of TUPE in the circumstances of this case should therefore be referred for a preliminary reference to the Court of Justice: [48].

@@ -1,0 +1,35 @@
+An implied term of the contract between a bank and its customer is that the bank owes a duty of care not to execute the customers order if it knows the order to be dishonestly given, or shuts its eyes to obvious dishonesty, or acts recklessly in failing to make inquiries.
+This is known as the Quincecare duty of care, following the 1992 case of Barclays Bank plc v Quincecare Ltd. The issue in this appeal is whether a claim against a bank for breach of the Quincecare duty is defeated if the customer is a company, and the fraudulent payment instructions are given by the companys Chairman and sole shareholder who is the dominating influence over the companys affairs.
+The respondent company (Singularis) is registered in the Cayman Islands.
+It was set up to manage the personal assets of Mr Maan Al Sanea.
+He was the sole shareholder, a director and the chairman, president and treasurer.
+There were six other directors but they did not exercise any influence over the management of Singularis.
+Sole signing powers over the companys bank accounts rested with Mr Al Sanea.
+In 2007 the appellant investment bank (Daiwa) provided Singularis with loan financing for the purchase of shares, which were the security for the repayment of the loan.
+In June 2009 the shares were sold, the loan was repaid, and Daiwa held a cash surplus of US$204m for the account of Singularis.
+Daiwa complied with instructions from Mr Al Sanea to pay out those funds to third parties.
+The payments were a misappropriation of Singularis funds and left Singularis unable to meet the demands of its creditors.
+On 18 September 2009 the Grand Court of the Cayman Islands made a compulsory winding up order and joint liquidators were appointed.
+On 18 July 2014 Singularis brought a claim against Daiwa for the full amount of the payments on the basis of (1) dishonest assistance in Mr Al Saneas breach of fiduciary duty and (2) breach of the Quincecare duty of care to Singularis by giving effect to the payment instructions.
+The High Court dismissed the dishonest assistance claim but held there was a clear breach of the Quincecare duty of care to Singularis, with a deduction of 25% by way of contributory negligence.
+Daiwas appeal against the finding of liability on the negligence claim was dismissed.
+Daiwa appealed to the Supreme Court.
+The Supreme Court unanimously dismisses Daiwas appeal and holds that the High Court order should stand.
+Lady Hale gives the only substantive judgment.
+Daiwa argued that, as Singularis was effectively a one man company, and Mr Al Sanea its controlling mind and will, his fraud should be attributed to the company, with the result that its Quincecare claim against Daiwa should fail for illegality, lack of causation or because of a countervailing claim for deceit [1].
+Lady Hale agrees with the judge that whether or not Mr Al Saneas fraud was attributed to the company, those defences would fail in any event [12]: (i) Illegality The illegality relied on by Daiwa was Mr Al Saneas provision of false documents in relation to the payments and his breach of fiduciary duty towards Singularis.
+As the judge found, fiduciary duties are intended to protect a company from becoming the victim of the wrongful exercise of power by the companys officers.
+That purpose would not be enhanced by preventing the companys recovery of the money wrongfully removed from its account.
+The Quincecare duty strikes a careful balance between the interests of the customer and those of the bank and denying the claim would not enhance the integrity of the law [16].
+Denial of the claim would undermine the public interest in requiring banks to play an important part in uncovering financial crime and money laundering [17].
+It would also be an unfair and disproportionate response to any wrongdoing on the part of Singularis: the power to make a deduction for contributory negligence enables the court to make a more appropriate adjustment [18].
+The judges conclusion on this issue was correct, whether or not the fraud was attributed to the company [21]. (ii) Causation Daiwa argued that if the fraud was attributed to the company, its loss was caused by its own fault and not that of the bank.
+However, the purpose of the Quincecare duty is to protect the banks customers from harm caused by people for whom the customer is responsible.
+The fraudulent instruction to Daiwa gave rise to the duty of care which Daiwa breached, thus causing the loss [23]. (iii) Countervailing claim in deceit This was a variant of the causation argument.
+The judge held that Daiwas breach of duty and not Mr Al Saneas misrepresentations was the cause of Daiwas exposure to the claim for Singularis loss [24].
+Attribution Mr Al Saneas fraud should not however be attributed to the company for the purposes of the Quincecare claim.
+The basic principle was that a properly incorporated company has an identity and legal personality separate from that of its shareholders and directors.
+The company has to act through the medium of real human beings but the acts of those persons are only treated as the acts and intentions of the company in circumstances specified by its constitution, or the ordinary rules of agency and vicarious liability, or other particular rules of law [28].
+As the judge noted, the answer to any question whether to attribute the knowledge of a fraudulent director to the company is always to be found in consideration of the context and purpose for which the attribution is relevant [34].
+The context in this case is the breach of Daiwas Quincecare duty of care.
+To attribute the fraud of a trusted agent of the company to the company would denude the duty of any value in cases where it is most needed and be a retrograde step [35].

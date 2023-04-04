@@ -1,0 +1,49 @@
+In January 2010 Lady Brownlie and her husband, Sir Ian Brownlie QC, were on holiday in Egypt, staying at the Four Seasons Hotel Cairo at Nile Plaza.
+Her evidence is that she had telephoned the hotel from England and booked an excursion in a chauffeur driven car.
+During the excursion, the car crashed.
+The passengers, in addition to Sir Ian and Lady Brownlie, were his daughter Rebecca, and Rebeccas two children.
+Sir Ian and Rebecca were killed.
+The others were seriously injured.
+Four Seasons Holdings Inc (Holdings) is the holding company of the Four Seasons hotel group.
+It is incorporated in British Columbia, Canada.
+Lady Brownlie issued a claim against Holdings, seeking: (i) damages for her own personal injuries, (ii) damages under the Law Reform (Miscellaneous Provisions) Act 1934 as Sir Ians executrix, and (iii) damages for her bereavement and loss of dependency under the Fatal Accidents Act 1976.
+In order to serve her claim form on Holdings in Canada, Lady Brownlie required permission from the court for service outside England and Wales.
+Master Yoxall initially granted permission, but Master Cook subsequently set aside that order on the basis that the English court lacked jurisdiction.
+Lady Brownlie appealed to Mr Justice Tugendhat, who restored the original order of Master Yoxall.
+The Court of Appeal permitted service outside England and Wales in respect of Lady Brownlies contractual claim and her claim under the 1976 Act, but disallowed it in respect of her claim under the 1934 Act and her claim for damages for her own injuries.
+The Supreme Court unanimously allows the appeal.
+Lord Sumption gives the lead judgment, with which Lord Hughes agrees.
+Lady Hale gives a partially concurring judgment with which Lord Clarke and Lord Wilson agree.
+Lord Wilson also gives a partially concurring judgment, with which Lord Clarke agrees.
+Before permission can be given for service of a claim form outside the jurisdiction, it is necessary for the claimant to establish that: (i) the case falls within at least one of the jurisdictional gateways in paragraph 3.1 of Practice Direction 6B (6BPD) to the Civil Procedure Rules (CPR), (ii) his or her claim has a reasonable prospect of success, and (iii) England and Wales is the proper place in which to bring the claim.
+Lady Brownlies contractual claim relies on a contention that the contract was made within the jurisdiction (the gateway in paragraph 3.1(6)(a)), whereas her tortious claims rely on a contention that damage was sustained within the jurisdiction (the gateway in paragraph 3.1(9)(a)) [3].
+In order to satisfy the Court of such jurisdictional facts, a claimant must show a good arguable case on the issue.
+This means: (i) that the claimant must supply plausible evidence for the application of the relevant jurisdictional gateway in paragraph 3.1; (ii) that if there is an issue of fact about it, or some other reason for doubting whether the gateway applies, the Court must take a view on the material available if it can reliably do so; but (iii) the nature of the issue and the limitations of the material available at this interim stage may be such that no reliable assessment can be made, in which case there is a good arguable case for the application of the gateway if there is a plausible (albeit contested) evidential basis for it [4 7].
+The Supreme Court invited Holdings to provide further evidence, which clarified that at the material times the Cairo hotel had been owned by a company unrelated to Holdings and operated by Holdings Egyptian subsidiary.
+There is consequently no realistic prospect of Lady Brownlie establishing that she contracted with Holdings, nor of Holdings being held liable for the drivers negligence.
+It follows that her claim against Holdings lacks reasonable prospects of success [13 15].
+It is therefore unnecessary to consider where the contract was made.
+Lord Sumption adds (obiter) that the law governing that question is artificial but that its application may be unavoidable under the current wording of paragraph 3.1(6)(a) [16].
+Lady Hale adds (obiter) the Rules Committee could consider a broader formulation of paragraph 3.1(6)(a)[33].
+In those circumstances the correct interpretation of the gateway in paragraph 3.1(9)(a) does not arise.
+Anything said on the subject is obiter [17, 32].
+The claim under the Fatal Accidents Act 1976 has no prospect of success because the 1976 Act has no application to a tort which is not governed by English law.
+The drivers alleged negligence is governed by the law of Egypt [18, 32, 55].
+The Court of Appeal was wrong to base its interpretation of paragraph 3.1(9) on the Rome II Regulation, which is concerned with applicable law rather than jurisdiction [21 , 48 50, 57].
+Lord Sumption and Lord Hughes would have held that the other tortious claims did not fall within paragraph 3.1(9)(a) [17].
+This is because there is a fundamental difference between the damage done to an interest which the law protects (in this case, bodily integrity) and subsequent expenditure which is merely evidence of its amount [22 25].
+The draftsman of 6BPD could have provided that damage should extend to the financial or physical consequences of the damage, but nothing in the language suggests that he did so.
+Policy considerations strongly suggest that that was not intended.
+In particular, (i) the current rules were intended to assimilate the test to that which applies in Brussels regulation cases, which has always disregarded the secondary consequences of physical damage; and (ii) if the test is satisfied by the occurrence of any of the subsequent physical or financial consequences of the damage in England, the result will in practice be to confer jurisdiction by virtue of the claimants place of residence [26 30].
+Lady Hale, Lord Wilson and Lord Clarke consider Lady Brownlies tort claims to fall within paragraph 3.1(9)(a) insofar as they seek damages for personal injury to herself and, as his executrix, to her late husband [56].
+Lady Hale observes that, under the CPR and its predecessors, the Court has always retained a discretion to refuse permission to serve proceedings outside the jurisdiction [34 39].
+There is a consistent line of first instance decisions permitting claims in tort to be brought in England and Wales if damage is suffered here a result of injuries inflicted abroad.
+The judges in those decisions carefully considered and correctly rejected the arguments to the contrary [40 47].
+There is no reason to think that the authors of paragraph 3.1(9) were contemplating anything but the ordinary and natural meaning of the word damage.
+The various judges who have held that damage refers to actionable harm are supported by the approach of the New South Wales Court of Appeal towards a similar jurisdictional rule [51].
+Furthermore, damage can be suffered by the same person in more than one place and the distinction between direct and indirect damage is not easy to draw in all cases [51 53].
+Lord Wilson and Lord Clarke consider that the relevant jurisdictional rules have widened as required by EU law; but it does not follow that those rules, in a claim unconstrained by EU law, should be narrowed to the size of the gateway set by EU law [58 62].
+Paragraph 3.1(9)(a) refers to damage rather than the damage [63].
+A narrow interpretation of the word damage, requiring claimants to litigate elsewhere, could lead to injustice [64].
+It is questionable whether claims in which only a tenuous amount of damage is suffered in England and Wales will satisfy the separate test of whether that is the proper place in which to bring the claim [57, 65].
+The courts of Ontario and New South Wales have a long standing jurisdiction to entertain claims based only on the occurrence of secondary damages within those jurisdictions, which ought to allay fears that this interpretation would encourage abuse [66].

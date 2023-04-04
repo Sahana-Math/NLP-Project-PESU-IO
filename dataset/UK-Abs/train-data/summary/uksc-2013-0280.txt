@@ -1,0 +1,73 @@
+Cavendish v El Makdessi By an agreement, Mr Makdessi agreed to sell to Cavendish a controlling stake in the holding company of the largest advertising and marketing communications group in the Middle East.
+The contract provided that if he was in breach of certain restrictive covenants against competing activities, Mr Makdessi would not be entitled to receive the final two instalments of the price paid by Cavendish (clause 5.1) and could be required to sell his remaining shares to Cavendish, at a price excluding the value of the goodwill of the business (clause 5.6).
+Mr Makdessi subsequently breached these covenants.
+Mr Makdessi argued that clauses 5.1 and 5.6 were unenforceable penalty clauses.
+The Court of Appeal, overturning Burton J at first instance, held that the clauses were unenforceable penalties under the penalty rule as traditionally understood.
+ParkingEye v Beavis ParkingEye Ltd agreed with the owners of the Riverside Retail Park to manage the car park at the site.
+ParkingEye displayed numerous notices throughout the car park, saying that a failure to comply with a two hour time limit would result in a Parking Charge of 85.
+On 15 April 2013, Mr Beavis parked in the car park, but overstayed the two hour limit by almost an hour.
+ParkingEye demanded payment of the 85 charge.
+Mr Beavis argued that the 85 charge was unenforceable at common law as a penalty, and/or that it was unfair and unenforceable by virtue of the Unfair Terms in Consumer Contracts Regulations 1999.
+The Court of Appeal upheld the first instance decision rejecting those arguments.
+The Supreme Court allows the appeal in Cavendish v El Makdessi and dismisses the appeal in ParkingEye v Beavis, thus upholding the validity of the disputed clauses in both cases.
+Lord Neuberger and Lord Sumption give a joint judgment, with which Lord Clarke and Lord Carnwath agree.
+Lord Mance and Lord Hodge write concurring judgments.
+Lord Toulson agrees that the appeal in Cavendish v El Makdessi should be allowed but dissents in ParkingEye v Beavis.
+The Legal Principles The penalty rule is an ancient, haphazardly constructed edifice which has not weathered well [3].
+However, it is of long standing and a similar rule exists in all other developed systems of law.
+It also covers types of contract which are not regulated in any other way.
+It should not therefore be abolished, but neither should it be extended [36 40].
+The fundamental principle is that the penalty rule regulates only the contractual remedy available for the breach of primary contractual obligations, and not the fairness of those primary obligations
+themselves [13].
+The relevant contractual remedy typically stipulates payment of money, but it equally applies to obligations to transfer assets, or clauses where one party forfeits a deposit following its own breach of contract [14 18].
+What makes a contractual provision penal? Lord Dunedins tests in Dunlop Pneumatic Tyre Company Ltd. v New Garage and Motor Company Ltd. [1915] AC 79 have too often been treated as a code.
+The speeches of the rest of the Appellate Committee, particularly Lord Atkinson, are at least as important.
+The validity of a clause providing for the consequences of a breach of contract depends on whether the innocent party can be said to have a legitimate interest in the enforcement of the clause.
+There is a legitimate interest in the recovery of a sum constituting a reasonable pre estimate of damages, but the innocent party may have a legitimate interest in performance which extends beyond the recovery of pecuniary compensation.
+The law will not generally uphold a contractual remedy where the adverse impact of that remedy significantly exceeds the innocent partys legitimate interest [18 30].
+The concepts of deterrence and genuine pre estimate of loss are unhelpful.
+The true test is whether the impugned provision is a secondary obligation which imposes a detriment on the contract breaker out of all proportion to any legitimate interest of the innocent party in the enforcement of the primary obligation [32].
+Lord Mance agrees with that test.
+The first step is to consider whether any (and if so what) legitimate business interest is served and protected by the clause, and if so and secondly, whether the provision made for that interest is extravagant, exorbitant or unconscionable [152].
+The penalty doctrine has been applied to clauses withholding payments, and transfers of moneys worth [154 159], and may be considered alongside relief against forfeiture [161].
+It should not be abolished or restricted: its existence is justified by its longstanding invocation and endorsement in the United Kingdom, Europe and across common law jurisdictions [162 170].
+Lord Hodge concurs, reviewing the authorities from England and Scotland and the historical development of the doctrine in Scots law.
+The doctrine only applies to secondary obligations arising out of a breach of contract, but is not confined to cases requiring the payment of money on breach.
+It applies to clauses withholding payments on breach, clauses requiring the party in breach to transfer property, and clauses requiring payment of a non refundable deposit if that deposit is not reasonable as earnest money (particularly where such a clause exceeds the percentage set by long established practice) [234 241].
+The test is whether the sum or remedy stipulated as a consequence of a breach of contract is exorbitant or unconscionable when regard is had to the innocent partys interest in the performance of the contract.
+A clause fixing a level of damages payable on breach will be a penalty if there is an extravagant disproportion between the stipulated sum and the highest level of damages that could possibly arise from the breach [255].
+Lord Toulson agrees with Lord Hodges formulation of the test above, and with Lord Mance and Lord Hodge on the relationship between penalty and forfeiture clauses [294].
+Application to Cavendish v El Makdessi The court concludes that neither clause 5.1 nor clause 5.6 are unenforceable penalty clauses, and accordingly allows the appeal.
+Clause 5.1 is a price adjustment clause.
+It is not a secondary provision but a primary obligation.
+The Sellers earn consideration for their shares by (amongst other things) observing the restrictive covenants.
+Whilst clause 5.1 has no relationship with the measure of loss attributable to the breach, Cavendish also had a legitimate interest in the observance of the restrictive covenants, in order to protect the goodwill of the Group generally.
+The goodwill of the business was critical to Cavendish and the loyalty of Mr Makdessi was critical to the goodwill.
+The court cannot assess the precise value of that obligation or determine how much less Cavendish would have paid for the business without the benefit of the restrictive covenants.
+The parties were the best judges of how it should be reflected in their agreement [73 75].
+A very similar analysis applies to clause 5.6.
+It is also a primary obligation, and it could not be treated as invalid without rewriting the contract [83 88].
+It was said to be penal because the formula excluded goodwill from the calculation of the payment price.
+It did not represent the estimated loss attributable to the breach.
+But it reflected the reduced consideration which Cavendish would have been prepared to pay for the acquisition of the business on the hypothesis that they could not count on the loyalty of Mr Makdessi [79 83].
+Lord Mance, Lord Hodge and Lord Toulson concur on both clause 5.1 and clause 5.6 [171 187; 269 282; 292].
+Application to ParkingEye v Beavis The court dismisses the appeal by a majority of six to one, and declares that the charge does not contravene the penalty rule, or the Unfair Terms in Consumer Contracts Regulations 1999.
+Mr Beavis had a contractual licence to park in the car park on the terms of the notice posted at the entrance, including the two hour limit.
+The 85 was a charge for contravening the terms of the contractual licence.
+This is a common scheme, subject to indirect regulation by statute and the British Parking Associations Code of Practice.
+The charge had two main objects: (i) the management of the efficient use of parking space in the interests of the retail outlets and their users by deterring long stay or commuter traffic, and (ii) the generation of income in order to run the scheme [94 98].
+Unlike in Cavendish v El Makdessi, the penalty rule is engaged.
+However, the 85 charge is not a penalty.
+Both ParkingEye and the landowners had a legitimate interest in charging overstaying motorists, which extended beyond the recovery of any loss.
+The interest of the landowners was the provision and efficient management of customer parking for the retail outlets.
+The interest of ParkingEye was in income from the charge, which met the running costs of a legitimate scheme plus a profit margin [99].
+Further, the charge was neither extravagant nor unconscionable, having regard to practice around the United Kingdom, and taking into account the use of this particular car park and the clear wording of the notices [100 101].
+The result is the same under the 1999 Regulations.
+Although the charge may fall under the description of potentially unfair terms at para. 1(e) of Schedule 2, it did not come within the basic test for unfairness in Regulations 5 and 6(1), as that test has been recently interpreted by the Court of Justice in Luxembourg [102 106].
+Any imbalance in the parties rights did not arise contrary to the requirements of good faith, because ParkingEye and the owners had a legitimate interest in inducing Mr Beavis not to overstay in order to efficiently manage the car park for the benefit of the generality of users of the retail outlets.
+The charge was no higher than was necessary to achieve that objective.
+Objectively, the reasonable motorist would have, and often did, agree to the charge [106 109].
+Lord Mance and Lord Hodge both concur [188 214; 284 288].
+Lord Toulson (dissenting) would have allowed the appeal, on the grounds that the clause infringes the 1999 Regulations, which reflect the special protection afforded to consumers under the European Directive on unfair terms in consumer contracts.
+The burden is on the supplier to show that the consumer would have agreed to the terms in individual negotiations on level terms.
+It is not reasonable to make that assumption in this case, and in any event ParkingEye had not produced sufficient evidence to that effect [309 315].

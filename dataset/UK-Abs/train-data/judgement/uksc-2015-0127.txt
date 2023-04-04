@@ -1,0 +1,317 @@
+SeaFrance SA was a subsidiary of the French state rail group SNCF.
+It operated a ferry service between Dover and Calais until 16 November 2011, when it went into liquidation in France and its operations ceased.
+On 2 July 2012, in circumstances which I will describe more fully below, substantially all of its assets were acquired by Groupe Eurotunnel SE (which I shall call GET).
+GET is the parent company of the group which operates the Channel Tunnel between the United Kingdom and France.
+It acquired the assets as part of an arrangement with Socit Cooprative de Production SeaFrance SA (or SCOP), a workers cooperative formed to secure the continuance of the ferry service and thus the jobs of SeaFrances employees.
+The essence of this arrangement was that while the ferry service would be operated by GET or a subsidiary of GET, the ships would be operated and crewed by SCOP.
+The service was subsequently resumed on this basis on 20 August 2012 using three of the same ships and operated by employees almost all of whom had previously worked for SeaFrance.
+In September 2014 the Competition and Markets Authority, after an investigation of the impact of the transaction on competition on the cross Channel routes, prohibited GET from operating any ferry service from Dover using the passenger ships acquired from SeaFrance for a period of ten years.
+Its jurisdiction to do this depended on whether GETs acquisition of the SeaFrance assets created a relevant merger situation for the purpose of the Enterprise Act 2002.
+The question at issue on this appeal is whether that condition was satisfied.
+This in turn depends on whether what GET and SCOP acquired on 2 July 2012 was an enterprise or merely the assets of a defunct enterprise.
+The Authority considered that what GET acquired was an enterprise and that accordingly a merger situation existed.
+The Competition Appeal Tribunal, sitting as a court of judicial review, held that they were entitled to reach that conclusion.
+But the Court of Appeal allowed the appeal by a majority (Tomlinson LJ and Sir Colin Rimer, Arden LJ dissenting: [2015] EWCA Civ 487).
+In their view what had been acquired was not the enterprise formerly carried on by SeaFrance, but only the means to construct a similar but new enterprise.
+Accordingly no merger situation had been created and there was no jurisdiction to impose remedies.
+They held that that it had been irrational for the Authority, on the facts which it had found, to reach any other conclusion.
+The statutory framework
+The statutory control of the competition aspects of mergers has been one of the more stable parts of the United Kingdoms competition law.
+It was introduced by the Monopolies and Mergers Act 1965, at a time when the only other country with a comprehensive system of merger control was the United States, and its broad outlines have remained unchanged ever since.
+The current statutory framework is in Part 3 of the Enterprise Act 2002.
+Before 1 April 2014, merger control had been the responsibility of the Office of Fair Trading and, successively, the Monopolies and Mergers Commission and the Competition Commission.
+On that date important organisational changes came into effect as a result of the amendment of the Act by Parts 3, 4 and 5 of the Enterprise and Regulatory Reform Act 2013.
+The Office of Fair Trading and the Competition Commission were abolished and the relevant functions of both were transferred to a new body, the Competition and Markets Authority.
+These changes occurred while the reference which has given rise to the present appeal was in progress.
+But they do not affect the issues before us.
+I shall therefore refer to the Act throughout in its amended form.
+The purpose of merger control is to regulate in advance the impact of concentrations on the competitive structure of markets.
+Some merger regimes, notably that of the United States, apply to any acquisition which is liable to bring about such a concentration.
+It is, however, a fundamental feature of the United Kingdoms scheme that it distinguishes between the acquisition of assets constituting a business and the acquisition of bare assets.
+Concentrations arising from the acquisition of bare assets are not subject to statutory merger control ex ante, even if they have potentially adverse effects on competition, although they may be subject to heightened regulation ex post under Part 1, Chapter II of the Competition Act 1998 (Abuse of Dominant Position).
+The reason for the distinction is that it is thought to be inappropriate to inhibit the organic growth of businesses simply because it is achieved by means of factors of production previously employed in another business, if control of the other business has not itself been achieved.
+Part 3, Chapter 1 of the Enterprise Act, deals separately with completed and anticipated mergers.
+Under section 22(1), which is concerned with completed mergers, the Competition and Markets Authority must, subject to limited exceptions, refer arrangements or transactions to a specially constituted group of panellists if it believes that it is or may be the case that: (a) a relevant merger situation has been created; and (b) the creation of that situation has resulted, or may be expected to result, in a substantial lessening of competition within any market or markets in the United Kingdom for goods or services.
+Once a reference has been made, the Authority is required by section 35(1) to decide (among other things) whether a relevant merger situation has been created, and if it has whether the stipulated effects on competition have resulted or may be expected to result.
+What constitutes a relevant merger situation depends on section 23.
+Under section 23(2)(a), a relevant merger situation has been created if two or more enterprises have ceased to be distinct enterprises at a time or in circumstances falling within section 24, provided that the enterprise being taken over had a specified minimum turnover in the accounting period preceding the date when it ceased to be a distinct enterprise: see sections 23(1)(b), 28(3) and the Enterprise Act 2002 (Merger Fees and Determination of Turnover) Order SI 2003/1370, articles 2(c) and 11.
+Under section 26(1): for the purposes of this Part any two enterprises cease to be distinct enterprises if they are brought under common ownership or common control For this purpose, associated persons and any bodies corporate which they or any of them control are to be treated as one person: section 127(1).
+Associated persons include persons acting together to secure or exercise control over any enterprise or assets: section 127(4)(d).
+Of critical importance to these provisions, and to the issues on this appeal, are the definitions of enterprise and business in section 129(1).
+An enterprise means the activities, or part of the activities, of a business.
+A business includes a professional practice and includes any other undertaking which is carried on for gain or reward or which is an undertaking in the course of which goods or services are supplied otherwise than free of charge.
+There is no statutory definition of activities.
+It is, finally, necessary to refer to the provisions of sections 24 and 27.
+These deal with the timing of any reference.
+The effect of section 24 is that a reference must be made within four months of the relevant enterprises ceasing to be distinct or (if later) within four months of the transaction being made public or notified to the Authority.
+Section 27 provides that where the relevant arrangements or transaction take effect in stages, then two enterprises are deemed to have ceased to be distinct when the parties to the relevant arrangements or transaction become bound to such extent as will result in their ceasing to be distinct: sub section (2).
+By sub sections (5) and (6), if the enterprises cease to be distinct by virtue of each of a number of successive events occurring within a period of two years, the Authority may, for the purposes of a reference, treat successive events to which this subsection applies as having occurred simultaneously on the date on which the latest of them occurred.
+The facts
+The question whether GET acquired an enterprise or the bare assets of a defunct enterprise turns on exactly what happened to the business of SeaFrance during the hiatus of seven and a half months between its cessation of operations and the transaction of 2 July 2012.
+Since the Authoritys conclusion on this point is said to be irrational, it is necessary to examine with some care the facts on which it was based.
+The following summary is based on the Authoritys report and on the earlier report issued by the Competition Commission.
+I shall come back to the circumstances in which a second report was required.
+Before going into liquidation, SeaFrance had operated the ferry service with four vessels.
+There were three passenger ferries, the Rodin, the Berlioz and the Molire, and a freight ship, the Nord Pas de Calais.
+They were all owned by SeaFrance except for the Molire, which was operated by SeaFrance on a bareboat charter.
+The Molire was redelivered to its owners when the company went into liquidation and for present purposes can be ignored.
+The service was overmanned, dogged by poor labour relations and unprofitable, and by the spring of 2010 SeaFrance was insolvent.
+On 28 April 2010, it applied to the Tribunal de Commerce de Paris for protection from its creditors.
+On 30 June it was placed by the court in the hands of court appointed administrators.
+They continued to operate the ferry service, while trying without success to sell the business.
+No acceptable offers having been received, on 16 November 2011 the French Court made what amounted to a provisional order for the liquidation of SeaFrance.
+The court ruled that for the time being the ferry service could continue, but in fact it ceased from that date.
+The ships were placed in hot lay up while further attempts were made to find a buyer.
+This was a minimal operating mode which would enable their condition to be maintained so that they could become fully operational in a short time if a buyer was found.
+It is, however, plain that a maintenance programme of this kind was a substantial undertaking.
+It required the services of 190 employees.
+On 9 January 2012, the French Court formally placed the company in liquidation and ordered it to cease trading.
+Under French law, the consequence of this order was that all of the SeaFrance employees had to be made redundant within 15 days, apart from those required for the purposes of the liquidation.
+The latter included the staff engaged in maintaining the vessels in hot lay up.
+The court minutes record that the dismissals were not the end of the road: On pronouncement, the liquidator under the control of the bankruptcy judge and the court must undertake any discussions that are necessary with the interested parties.
+Clearly, there must be a trade off between the value of the assets, which are mainly the vessels, and the continuance of employment contracts.
+The market exists; the vessels are quite new and even the business may be sold later on.
+He will ensure that the bodies governing the proceedings are particularly attentive to the dramatic social company aspects and to do this he knows that SNCF will do its duty regarding its Group obligations and its capacity to reclassify collaborators under conditions to be negotiated.
+Among the steps which the liquidator was directed to take was: Reclassification of the business as a competitive and competent organisation in the sea transportation business with
+enhancement of the assets
+This was to be achieved by a Plan de Sauvegarde de lEmploi (known as PSE3).
+Such a plan was required by French law to be prepared by the employer during the 15 day period allowed for the redundancies, with a view to safeguarding the employment of those made redundant.
+Accordingly, the liquidator began negotiations with the SeaFrance works council to agree a plan.
+On 23 January 2012, agreement was reached.
+An important feature of the plan agreed was that SeaFrances parent, SNCF, would make an incentive payment to any alternative employer for each ex SeaFrance employee whom it took on.
+The amount of the payment would vary from 3,600 to 25,000 according to the nature of the alternative employment.
+The highest payment, 25,000, would be made for any ex SeaFrance employee who was ultimately re employed on the SeaFrance vessels in operations similar to those carried on by SeaFrance before its liquidation.
+Subsequently, the liquidator invited sealed bids for the SeaFrance assets by 4 May 2012.
+A number of bids were received, which were opened in court on 10 May 2012.
+GET bid 65m for all the assets other than customer contracts, an exception which the Commission regarded as insignificant.
+The assets acquired included the vessels, the logos, brands and trade names, the computer software, websites and domain names, IT systems and hardware, the office equipment, the customer lists and records, and the inventory of technical and spare parts.
+It was an integral part of GETs proposal that it would enter into a long term relationship with SCOP under which SCOP would provide the crews and shore staff for the vessels, using as many as possible of the redundant former employees of SeaFrance.
+The bid documents put the point in this way: The project for which Groupe Eurotunnel is signing up is intended, however, to allow a partnership with the former SeaFrance employees who will be involved as part of a SCOP, so as to revive the operations previously undertaken by SeaFrance.
+The liquidator recommended the GET bid because, among other reasons, the arrangement with SCOP meant that it was the only one which would safeguard the jobs of at least a substantial part of the workforce.
+On 11 June 2012, the court accepted the liquidators recommendation, and the acquisition of the SeaFrance assets was completed on 2 July 2012.
+On 20 August 2012 a subsidiary of GET, MyFerryLink SAS, recommenced the ferry service with the three vessels acquired from SeaFrance.
+SCOP operated the service under contract with MyFerryLink (or MFL).
+Between 80% and 90% of those employed in the service, whether on board or ashore, were former SeaFrance employees, although because MFL ran three ships instead of four and at manning levels lower than those of SeaFrance, this accounted for a smaller proportion of those who had been made redundant.
+The reference to the Competition Commission and the Competition and Markets
+Authority
+On 29 October 2012, the Office of Fair Trading referred the acquisition of the SeaFrance assets to the Competition Commission under the legislation then in force.
+The Commission reported on 6 June 2013 that a relevant merger situation existed which could be expected substantially to lessen competition in the market for ferry services across the Channel.
+The Commission considered that the question whether the assets acquired constituted an enterprise depended on which assets of the enterprise could be said to constitute the activities or part of the activities of its business.
+For some businesses the activities are enabled by physical assets alone.
+In others, such as skilled service industries, key staff may constitute an enterprise (paragraph 4.10).
+The Commission considered that the enterprise of SeaFrance was constituted essentially by the combination of the vessels, the employees and to a limited extent the brand and goodwill.
+It approached the acquisition of these three classes of asset on the footing that the extent of the co operation between GET and SCOP made it appropriate to treat them together as associated persons for the purpose of section 127 of the Act, and thus as a single acquirer of all three classes of asset.
+The Commission thought that the hiatus in SeaFrances operations before the acquisition by GET and SCOP was of some importance, but was outweighed by the indications of continuity.
+In paragraph 7 of its summary, the Commission explained its decision on the jurisdictional condition as follows: We considered whether the transaction was a relevant merger situation within the meaning of the Enterprise Act 2002 (the Act), in particular whether the transaction, as structured, meant that an enterprise had been acquired.
+Our assessment turned on the ease and speed with which the Vessels were put back into operation; the fact that GET and the SCOP acted together to secure control of the Vessels and other assets and/or that GET had material influence over the SCOP; the fact that a large proportion of the staff provided by the SCOP to run the MFL service were previously employed by SeaFrance; and the fact that GETs bid had assigned some value to the brand and goodwill.
+We concluded that, in the context of the particular industry concerned, these elements met the statutory definition of an enterprise, and constituted the activities, or part of the activities, of a business.
+In the light of the subsequent course of the proceedings, it should be noted that the Commission made only brief and oblique reference to PSE3.
+They simply remarked (paragraph 3.29) that it was public knowledge in France that under the terms of the liquidation agreed between SeaFrances owner (SNCF), the court and the SCOP, the SCOP would receive an indemnity of 25,000 for each SeaFrance employee that it employed.
+GET and SCOP challenged this part of the decision before the Competition Appeal Tribunal (CAT), along with other parts which are no longer relevant.
+The CAT gave judgment on 4 December 2013.
+This judgment has been referred to in these proceedings as Eurotunnel I [2013] CAT 30, and I shall follow the same convention.
+At paras 105 106, the CAT set out the principle on which the acquisition of an enterprise fell to be distinguished from an acquisition of bare assets: 105.
+The key to distinguishing between bare assets and an enterprise lies in: (a) Defining or describing exactly what, over and above bare assets, the acquiring entity obtained; and (b) Asking whether and if so how this placed the acquiring entity in a different position than if it had simply gone out into the market and acquired the assets.
+The question, then, is whether this difference is capable of constituting what would otherwise be bare assets into something that may properly be described as the activities of a business.
+Inevitably, this is a question of fact and degree, and there will be no single criterion giving a clear answer.
+However, if a guiding principle is sought, then we consider that it lies in an understanding of what an enterprise the activities or part of the activities of a business does.
+An enterprise takes inputs (assets of all forms) and by combining them transforms those inputs into outputs that are provided for gain or reward.
+It thereby also may generate intangible but valuable assets such as know how or goodwill.
+It is in this combination of assets that the essence of an enterprise lies.
+In those cases where the acquiring entity takes over the business of the acquired entity, the answer will be self evident: the same enterprise is simply continuing, albeit under different ownership or control.
+The difficult case arises where the combination of assets is fractured, such that the assets are no longer, or no longer to the same extent, being used in combination.
+This case is a particularly good one, where what was clearly once an enterprise was wound down: the difficult question is whether, even though the business of SeaFrance had been wound down to a very considerable extent, there still remained the embers of an enterprise. 106.
+In this context, it is necessary to make two points: (a) First, it is perfectly possible for an enterprise to wind down, and to wind down to such an extent that it ceases to be an enterprise.
+The mere fact that in the past the activities of a business were being carried on by an entity does not necessarily mean that, as at the time of the merger, that entity was an enterprise.
+Of course, it is also important to recognise that some businesses (eg those involved in tourism) trade for some periods and not for others (eg during the low season).
+Such a hiatus does not preclude the existence of an enterprise.
+Continuous trading is not essential. (b) Secondly, the fact that the acquiring entity emulates the business of the acquired entity, and even uses that entitys assets, does not necessarily mean that the acquiring entity has acquired an enterprise.
+As regards the question of whether a relevant merger situation exists, the statutory test is not whether the acquiring entity is carrying out the same activity that was once carried out by the acquired entity, even with the same assets.
+The statutory test is not satisfied if the acquiring entity reconstructs a business that was once conducted by a different entity, even if the assets of that entity were used to do so.
+The statutory test in section 26(1) turns on two enterprises ceasing to be distinct because they are brought under common ownership or common control.
+It is critical that there are two enterprises, not one enterprise (the acquiring enterprise) and a collection of assets.
+The CAT expressed some doubt about whether the transaction as described by the Commission amounted to any more than an acquisition of bare assets.
+The reason for its doubt was that the CAT regarded the transfer of the employees as a critical part of the Commissions analysis.
+But it found no evidence in the Commissions report to show that what had happened amounted to a transfer of the employees, as opposed to their mere re engagement.
+Referring to the redundancies of January 2012, the CAT remarked that on the face of the Commissions analysis the employees contracts of employment were terminated with no thought as to how they might be employed in the future (para 115).
+But they pointed to the potential significance of the inducement payments of 25,000 per ex SeaFrance employee, to which the Commission had briefly referred at paragraph 3.29 of its report (quoted above), and noted that this might, if fully explored, provide the necessary link between their employment by SeaFrance and their re employment by SCOP.
+It also observed that the Commission had failed to explain how the maintenance of the vessels in hot lay up and the employment of ex SeaFrance crews had contributed to the ability of the purchaser to resume the service.
+It therefore remitted the matter to the Commission so that it could address these points.
+The reference was subsequently taken over by the Competition and Markets Authority when the functions of the Office of Fair Trading and the Commission were transferred to the Authority on 1 April 2014.
+On 27 June 2014 the Authority issued its decision on the remittal.
+The Authority reiterated the conclusion of the Commission that a relevant merger situation existed.
+At paragraph 2.12, it observed: In making a judgment as to whether or not the acquisition by GET/SCOP of certain SeaFrance assets has resulted in enterprises ceasing to be distinct under the Act, we have had regard to the substance of the arrangements rather than merely their legal form.
+We did not find that one single factor was determinative in reaching our conclusion; instead we based this on the totality of all the relevant considerations, taking into account the nature of the industry and the particular characteristics of the assets that were acquired (as well as those that were not acquired) in that context.
+The substance of this report is specifically focused on what we understand the CAT asked us to address.
+The Authoritys report dealt in detail with the history of the successive attempts to save or sell the business after it had been put into administration in April 2010.
+In particular it described PSE3 and the role that it had played in the liquidation of SeaFrance, in the dismissal of the employees and in the courts decision to accept GETs bid.
+The Authority found that the object of PSE3 and the court procedures for the sale of the assets was to achieve some form of business continuity: while various transactions involving one or both of the parties were considered, they all had the aim of continuing SeaFrances activities in some form and providing employment to SeaFrance employees.
+We noted that many of those involved in the various stages of the sale process, including the liquidator and the French Court, sought to ensure the re employment of ex SeaFrance staff in the Dover Calais region, preferably on the SeaFrance vessels.
+One reflection of this is the successful negotiation by the SeaFrance works council of an indemnity payment funded by SNCF which was substantially higher in the event that the ex SeaFrance staff were re employed on the SeaFrance vessels used in a similar operation and which ultimately provided the SCOP with a substantial amount of working capital. (para 3.49) The Commission concluded: Overall, we consider that a review of the background to the transaction shows that there is considerable continuity and momentum between the time of SeaFrances operation of the Dover Calais ferry and the commencement of MFLs operation of the same ferries on that route involving ex SeaFrance employees.
+This is not a situation where a collection of assets (used at some point in the past to carry on a business activity) comes to the market, and a buyer is successful in acquiring them, and then uses them to set up a business similar to the one for which the assets were originally used.
+For reasons set out above, the circumstances of this case are fundamentally different. (para 3.54) Accordingly, the Commission rejected the suggestion of the CAT that the employees had been dismissed with no thought as to how they might be employed in the future: The indemnity that SNCF SeaFrances parent company at the time agreed to pay created a strong incentive for ex SeaFrance employees to be employed on the SeaFrance Berlioz, SeaFrance Rodin and SeaFrance Nord Pas de Calais in similar operations to those of SeaFrance.
+It creates a link between the vessels and the employees and it was aimed at ensuring, and ultimately did ensure, to the extent possible , that a significant number of employees transferred from SeaFrance to the operator of the vessels.
+We consider that this shows that a large proportion of the SeaFrance workforce effectively transferred from SeaFrance to the SCOP. (para 3.107)
+Turning to the CATs criticism that the Commission had failed to explain how the hot lay up and the continuity of personnel had contributed to the prompt resumption of the service after the acquisition by GET, the Authority pointed out that the vessels were efficient modern vessels specifically designed to operate on the Dover Calais route, and of a size and configuration designed to permit economies of scale.
+They were not readily replaceable by other, comparable vessels.
+Their maintenance in hot lay up was the cheapest and most efficient way of enabling them to be brought back into service in the shortest possible time.
+In addition, the availability of ex SeaFrance crews already trained to operate these vessels was a material advantage enabling a purchaser to restart operations quickly.
+These points were supported by an extensive analysis of the alternative ways in which the ferry service might have been resumed by another entity after the liquidation of SeaFrance.
+At paras 4.19 4.20, the Authority expressed its conclusions as follows: 4.19 We therefore conclude that: The combination of acquired assets (in particular, but not limited to, the vessels and employees) means that what was acquired was more than a bare asset in that it enabled the acquirer to establish ferry operations, more quickly, more easily, more cheaply and with less risk than if the relevant assets had been otherwise acquired in the market.
+Although, in light of the period of inactivity, GET/SCOP did not acquire the SeaFrance assets as a going concern, in reality they obtained much of the benefit of so acquiring them.
+That is because, in our view, the commercial operability and coherence of the assets used by SeaFrance for the Dover Calais ferry service was actively maintained, and thus impairment was minimised, during the period of inactivity.
+The result of the combination of steps taken in relation to the vessels and the staff was that substantially the same business activities as had previously been undertaken by SeaFrance were able to be, and were in fact, resumed within a very short period of time following the acquisition.
+The intention, for good and understandable commercial and employment reasons, was to seek to preserve the former business or something as closely approximating to it as possible.
+That intention was achieved.
+Moreover, GET was significantly motivated to acquire the assets that it did by the advantages of continuity (and the consequent ability to resume substantially the same operations as had previously been undertaken by SeaFrance on the Dover Calais route) that those steps had preserved. 4.20 We conclude that the collection of tangible and intangible assets (including the transferred ex SeaFrance employees) that GET/SCOP acquired meets the legal definition of an enterprise in that together they constitute the activities or part of the activities of a business.
+There was then a further appeal to the CAT, which gave judgment on 9 January 2015.
+Like the parties, I shall call this Eurotunnel II [2015] CAT 1.
+It is unnecessary to summarise its reasoning at any length.
+The CAT reviewed the findings of the Commission and the Authority in the two reports and held that on those findings the Authority had been entitled to reach the conclusion it did.
+The decision of the Court of Appeal
+SCOP appealed from the decision in Eurotunnel II to the Court of Appeal.
+GET did not appeal.
+In the Court of Appeal, the leading judgment for the majority was delivered by Sir Colin Rimer, with whom Tomlinson LJ agreed.
+Sir Colin thought (para 167) that the definition of an enterprise as meaning the activities or part of the activities of a business showed that Parliaments intention was focused only on the case in which the acquiring entity takes over another business as a going concern.
+He thought it possible that activities could be regarded as continuing even during a period when they were not being carried on, for example where a seasonal business traded from May to October and was sold in December, or where a scheme was devised for the suspension of the activities before the transaction with a view to evading the operation of the Act.
+But the present case was different because when SeaFrance was ordered finally to cease its trading activities in January 2012 there was no prospect of their being resumed in the future.
+Their continuation was judicially prohibited, SeaFrances ferry activities were therefore at an end and it was anyway incapable of carrying them on.
+All that remained to be done was for the liquidator to dismiss its employees as redundant, dispose of its assets and, presumably, then to give SeaFrance its final quietus under French law. (para 158) However, Sir Colin did not decide the case on this ground, because the CAT had held in Eurotunnel I that even in these circumstances a hiatus in the activities of a business might be consistent with the subsistence of the enterprise.
+That judgment had not been appealed, and the correctness of the guidance given in it had not been challenged.
+He therefore confined himself to the application of the CATs test to the facts.
+Sir Colin held that the facts found by the Commission and the Authority did not disclose that GET and SCOP had acquired the enterprise of SeaFrance.
+He approached the matter on the footing, which was common ground before us, that the Authoritys conclusion could be supported only if GET and SCOP had acquired both the vessels and their crews.
+They had unquestionably acquired the vessels, but had they acquired the crews? Sir Colin thought not.
+In his view, they would in all probability have acquired the crews if the SeaFrance assets had been acquired from the liquidator before 9 January 2012 when the French Court directed the company to cease operations and to dismiss most of the employees.
+But that event had made all the difference.
+It finally and irreversibly brought the relevant activities of SeaFrance to an end, together with the relationship between SeaFrance and its employees.
+GET and SCOP had merely started up a similar business after 2 July 2012 by hiring ex SeaFrance employees whose services had become available on the market in consequence of their redundancy.
+His reasons are encapsulated in paras 198 200 of his judgment: 198.
+The effect of the court order of 9 January 2012 was that the activities in which the workforce had formerly been engaged were finally to cease and that the employees must be dismissed within 15 days as redundant, as they were.
+At the point of dismissal, the employees connections with SeaFrance were finally severed.
+It is also true that, at such point, PSE3 was already in place.
+It was a statutory job saving plan directed at assisting the dismissed employees to find re employment elsewhere than with SeaFrance; and paragraph 3.3.3, its most generous provision, of course raised a high likelihood that they, or most of them, would obtain re employment with any purchaser of the SeaFrance vessels which proposed to use them for ferry operations similar to SeaFrances. 199.
+PSE3 was, however, in no manner directed at preserving any connection between the employees and SeaFrance, let alone its activities (which had ceased), nor did it do so.
+In the event, following the successful GET bid, many of the former employees were later re engaged by the SCOP.
+There is no sustainable basis for any conclusion that such engagements by SCOP resulted from, or were referable to, or were explained by any transfer, or by what was said to be in effect a transfer, by SeaFrance to GET/SCOP as part of the GET/SCOP acquisition.
+That is not what happened as a matter of law or according to any rational assessment of the facts or by reference to the supposed reality of the situation.
+Nor would any objective observer of the scene at the time that PSE3 was adopted have considered that if, at some future stage, there were to be a mass re employment of the ex employees by a purchaser of the SeaFrance vessels, such re employment could at that point be characterised as, in reality, a transfer of the employees to the purchaser by SeaFrance together with the purchased vessels.
+They would foresee such re employment as being simply that which it was, namely a true re employment of employees whose services were available for hire in the market, albeit a re employment incentivised by the terms of PSE3. 200.
+The CMAs different finding that upon such mass re employment there was in reality a transfer, or a transfer in effect by SeaFrance, is one that I therefore regard as irrationally wrong.
+It is one that could not properly have been made.
+Arden LJ dissented, essentially on the ground that a hiatus in the business activities of the enterprise being acquired was not legally decisive, and that in those circumstances its significance was a matter of fact and degree, for evaluation by the Authority as the tribunal of fact.
+The present appeal
+On 31 July 2015, shortly after this court gave permission for the present appeal, SCOP went into liquidation.
+Its liquidator subsequently indicated that it did not propose to participate in the appeal.
+In the absence of the respondent we have been greatly assisted by Ms Kelyn Bacon QC, who appeared as Advocate to the Court, and by Mr Richard Gordon QC who appeared for GET as Intervener.
+Their participation, together with the able submissions of Ms Demetriou QC for the Authority, enabled the issues to be fully examined before us.
+The approach to construction
+It is necessary to deal first with a threshold issue.
+To what extent should the question whether a relevant merger situation exists be treated as lying within the specialised expertise of the Competition and Markets Authority? I hope that it will not be thought disrespectful of the learning deployed on this issue, if I deal with it shortly.
+Under sections 22(1) and 35(1) the existence of a relevant merger situation is a precondition of the Authoritys jurisdiction to proceed with a reference.
+Section 35 requires the Authority to decide in the first instance whether such a situation has been created, subject to review by the CAT and appeal from the CAT to the Court of Appeal.
+But the test for determining what are the relevant activities whose absorption by another enterprise founds the jurisdiction of the Authority is a question of law.
+It depends on the construction of the Enterprise Act.
+Of course, the process of construction must necessarily be informed by the purpose of these provisions, and to that extent the economic implications of different interpretations may be relevant.
+Moreover, once the test has been identified its application to particular facts may call for expert economic judgments by the tribunal of fact, in this case the Authority.
+But otherwise the Authoritys expertise and the specialised nature of its functions do not clothe it with any wider power to determine its statutory jurisdiction than is enjoyed by other administrative decision makers, and its conclusions on the point are entitled to no greater deference on a review or appeal.
+The legal relevance of a cessation of trading
+The starting point is the relevance (if any) of the fact that SeaFrance was not actively trading on the date of the transaction by which GET acquired its assets.
+It was common ground before us, as it had been in the Court of Appeal, that the merger control provisions of the Act were not limited to the acquisition of a business as a going concern.
+Therefore, it did not necessarily follow from the cessation of the ferry service that SeaFrance had no activities to be acquired in July 2012.
+Sir Colin Rimer expressed doubts about this, at any rate as a general proposition.
+But I think that it was correct, and that it is of some importance to understand why.
+Under section 23(2)(a), what must cease to be distinct in order to create a relevant merger situation are the two enterprises of SeaFrance and GET, ie their business activities.
+The reason for defining an enterprise by reference to its activities is to show that the merger control regime depends on the merger of business activities, as opposed to the merger of the entities that carry them on.
+It is no part of the purpose of the definition of an enterprise to fix the time at which the relevant enterprise must actually be performing these activities.
+Nor is there any other provision of the Act that requires the activities to have been performed at any particular time.
+Part 3 of the Act does contain provisions relating to timing, but they are limited to determining the latest time after the enterprises have ceased to be distinct when the matter may be referred to the Authority for assessment and possible action.
+The result is that the possession of relevant activities is simply a descriptive characteristic of an enterprise.
+It may be characteristic of the enterprise notwithstanding that the activities are not actually being performed at the moment of the transaction, provided that there still exists the capacity to carry them on as part of the same business, whether in the hands of the existing proprietor or of someone else.
+That is why Sir Colin Rimer was right in his instinctive view that the sale of a seasonal business out of season would in principle be subject to statutory merger control.
+This is consistent with the purpose of Part 3 of the Act.
+Merger control is the principal weapon in the laws armoury for pre empting concentrations liable adversely to affect the structure of markets before they do so.
+Whether an enterprises activities are being carried on at the moment when it ceases to be distinct is likely to depend on adventitious factors, such as the timing of the execution of documents, the rhythm of the business, and so on.
+It does not necessarily tell us anything about the nature of the business.
+If the merger control regime is incapable of applying to anti competitive concentrations where the relevant activities are not actually being carried on at the moment when the concentration is achieved, then the result will be a significant limitation of the scope and efficacy of the statutory scheme.
+That limitation cannot be related to the economic rationale of the legislation, or to any discernible purpose which the legislature can sensibly be thought to have had in mind.
+The point may be illustrated by considering two situations in addition to the case of the seasonal business which has already been mentioned.
+One is the familiar situation, one of the commonest occasions for a merger, where a business goes into liquidation and is temporarily mothballed by the liquidator in the hope that a buyer can be found for the whole concern.
+It would be surprising if the mere fact of the suspension of its business were to remove the possibility of merger control, regardless of the adverse effect of a subsequent purchase on the competitive structure of the relevant market.
+The other example is the case where the proprietor of a business suspends its activities shortly before selling it to a competitor, in a deliberate attempt to avoid statutory merger control.
+This is not particularly common, but only because the practice of the competition authorities is to treat a temporary suspension of a firms business activities as inconclusive.
+The paradigm case is the decision of the Monopolies and Mergers Commission in AAH Holdings Plc and Medicopharma NV (1992), which involved a scheme of just this kind.
+The Commission rejected the suggestion that the scheme was a sham.
+It nevertheless considered that the relevant merger situation existed.
+Once a transaction of this kind is recognised as genuine, it is not easy to see how the intent to avoid the Act could make any difference to the analysis.
+Either the suspension of the activities did avoid the operation of the Act or it did not.
+If it did not, it must be by reference to some principle which declines to treat a suspension as decisive whatever the motive for it.
+Common control of an enterprise: the test
+The next question is in what circumstances may a firm be said to acquire an enterprise whose activities are no longer actively being carried on.
+Of course, a hiatus in those activities before the acquisition will usually be relevant even if it is not decisive.
+But if it is not decisive, its significance must necessarily vary according to its duration, its economic impact, and all the other relevant surrounding circumstances.
+Under section 106 of the Enterprise Act, the Authority is required to publish general advice and information about (among other things) the making and consideration of references under section 22.
+In January 2014, it published Mergers: Guidance on the CMAs Jurisdiction and Procedure.
+In the relevant respects, this broadly corresponds to the guidance formerly issued by the Office of Fair Trading.
+The implications of a cessation of business are discussed at paras 4.10 4.11: 4.10 The fact that a target business may no longer be actively trading does not in itself prevent it from being an enterprise for the purposes of the Act.
+In such cases, while the relevant criteria may vary according to the particular circumstances of a case, the CMA will consider, for example: the period of time elapsed since the business was last trading; the extent and cost of the actions that would be required in order to reactivate the business as a trading entity; the extent to which customers would regard the acquiring business as, in substance, continuing from the acquired business; and whether, despite the fact that the business is not trading, goodwill or other benefits beyond the physical assets and/or site themselves could be said to be attached to the business and part of the sale. 4.11 None of these factors, individually, is likely to be conclusive.
+The CMA will assess all relevant circumstances (including whether there is evidence that the closure of the business was designed to avoid merger control), with a view to determining whether the target business constitutes an enterprise under the Act.
+This is not so much a test as a list of potentially relevant factors.
+So what is the underlying principle?
+The first point to be made is that in applying a scheme of economic regulation of this kind, the Authority is necessarily concerned with the economic substance of relevant transactions and not just with their legal form.
+Any situation in which an enterprise (call it the target enterprise) ceases to be distinct will involve a transfer of control over assets, whether tangible or intangible.
+The phrase bare assets does not appear in the Act, and simply as a matter of language may not convey much.
+But it is a useful concept when it comes to analysing the purpose of this legislation.
+The object of distinguishing between bare assets and assets amounting to an enterprise is to prevent the merger control regime from capturing an acquisition of assets which simply serve as factors of production in a new enterprise or as a means of achieving organic growth.
+It is designed to distinguish a case in which the acquirer acquires a business exploiting a combination of assets and a case where he acquires no more than he might have acquired by going into the market and buying equipment, hiring employees, and so forth separately.
+In the latter case, the fact that the equipment or the employees were previously employed in the target enterprise is irrelevant.
+He has got no more than he would have done if they had not been.
+So if the assets of which he acquires control are to be regarded as constituting an enterprise, (i) they must give him more than he might have acquired by going into the market and buying factors of production, and (ii) the extra must be attributable to the fact that the assets were previously employed in combination in the activities of the target enterprise.
+Plainly, the longer the interval between a target enterprises cessation of trading and the acquisition of control of its assets, the less likely it is that either criterion will be satisfied.
+The alternative is to conclude that the target enterprise has ceased to exist because its business is no longer characterised by any activities capable of being continued by someone else.
+Ultimately the question turns on what Ms Bacon, rightly to my mind, called economic continuity.
+This is substantially the principle stated at paras 105 106 of the CATs judgment in Eurotunnel I, which I have set out above.
+Put crudely, it depends on whether at the time of the acquisition one can still say that economically the whole is greater than the sum of its parts.
+While I would wish to guard against any attempt to state a single governing test to answer every case, I consider that the CATs statement of the principle is correct as applied to the generality of cases, including this one.
+Irrationality
+The Authority directed itself according to the principle set out by the CAT in Eurotunnel I, which I have held to be correct.
+Once that point is reached, the application of the principle to the facts is a matter of expert evaluation.
+In these circumstances, the Authoritys evaluation could not properly be discarded by a court of review unless it was irrational.
+Sir Colin Rimer found that it was.
+He considered that the Authority had erred in principle because the facts which it had found did not logically lead to the conclusion that the employees were transferred from SeaFrance to the business operated by GET and SCOP after 2 July 2012.
+That was also the essence of the case made by Ms Bacon and Mr Gordon.
+I think that this criticism is unjustified.
+GET and SCOP acquired substantially all the assets of SeaFrance, including the trademarks and goodwill.
+The assets included ships specially designed for the particular route, which had been continuously maintained by the liquidator in a condition which enabled the service to be resumed significantly faster and at lower cost and commercial risk than would have been the case if GET had acquired suitable ships elsewhere.
+The arrangement with SCOP enabled the service to be resumed with substantially the same personnel, again with a substantial advantage in terms of time and operational efficiency.
+Moreover, each employee came with a dowry of 25,000 paid by SeaFrances parent for the specific purpose of encouraging the re employment of its former crews and shore staff.
+The payments created a link between the vessels and the employees, and between the old employees and the new.
+The Authoritys evaluation was that in these circumstances, there was considerable continuity and momentum between the activities carried on by SeaFrance before 16 November 2011 and those carried on with its assets after 2 July 2012.
+Although GET and SCOP did not acquire the ferry business as a going concern, they did acquire much of the benefit of doing so.
+This was because the commercial operability and coherence of the assets used by SeaFrance for the Dover Calais ferry service was actively maintained, and thus impairment was minimised, during the period of inactivity paragraph 26(b).
+These conclusions seem to me to follow logically from the Authoritys findings.
+The Authoritys conclusion that there still remained what the CAT had called the embers of an enterprise capable of passing under the control of GET and SCOP, was unimpeachable.
+The essential reason why Sir Colin Rimer thought otherwise was that in his view the order of the French Court on 9 January 2012 directing the dismissal of the employees terminated the link between them and SeaFrance.
+This, he thought, meant that their future re employment by GET could not amount to a transfer, even when the arrangements embodied in PSE3 were taken into account.
+In point of form, this was so.
+But as a matter of economic substance it was not.
+True it is that the employees were not directly transferred from SeaFrance to SCOP.
+They were re employed by SCOP after some months in which they had been unemployed or had found other work.
+However, the question was not whether the dismissals severed the connection between the employees and SeaFrance.
+The question was whether it severed their connection with a business that could be acquired and operated by someone else.
+One may test this by asking how the position would have differed if instead of making the employees redundant SeaFrance had kept them on but sent them on gardening leave.
+The result would have been legally different but its economic implications for what GET and SCOP acquired on 2 July 2012 would have been the same.
+It is in this context that one must view the impact of PSE3.
+The connection between the employees and the business was not severed by the court ordered redundancies, because the court directed the redundancies on the express basis, required by French law, that a plan would be prepared within 15 days to safeguard their future employment.
+PSE3, the plan which emerged, provided a significant financial inducement for any acquirer of the ships to re employ their former crews and shore staff to operate them in the same service as before.
+The Authority regarded this as a significant pointer to the economic continuity of the business.
+I think that they were right to do so, but it is enough for present purposes to say that it was a conclusion that they were entitled to reach.
+This court has recently emphasised the caution which is required before an appellate court can be justified in overturning the economic judgments of an expert tribunal such as the Authority and the CAT: British Telecommunications Plc v Telefnica and others [2014] UKSC 42; [2014] Bus LR 765; [2014] 4 All ER 907 at paras 46, 51.
+This is a particularly important consideration in merger cases, where even with expedited hearings successive appeals are a source of additional uncertainty and delay which is liable to unsettle markets and damage the prospects of the businesses involved.
+Concepts such as the economic continuity between the businesses carried on by successive firms call for difficult and complex evaluations of a wide range of factors.
+They are particularly sensitive to the relative weight which the tribunal of fact attaches to them.
+Such questions cannot usually be reduced to simple points of principle capable of analysis in purely legal or formal terms.
+In this case, the majority of the Court of Appeal sought to reduce the question of economic continuity to the single question whether the legal effect of the decisions of the French Court in January 2012 was definitively to terminate the employment relationship between SeaFrance and its crews.
+In my opinion this led them to take an unduly formal approach to the issue before them, and to discount the depth of economic analysis which underlay the Authoritys original conclusion.
+Conclusion
+For these reasons, which substantially correspond to those given by Arden LJ in her dissenting judgment, I would allow the appeal.

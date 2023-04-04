@@ -1,0 +1,920 @@
+This appeal raises the question whether the tort of malicious prosecution includes the prosecution of civil proceedings.
+It also raises a question about whether and in what circumstances a lower court may follow a decision of the Privy Council which has reached a different conclusion from that of the House of Lords (or the Supreme Court or Court of Appeal) on an earlier occasion.
+The second question is the subject of a separate judgment: [2016] UKSC 44.
+The appeal is from a decision of Ms Amanda Tipples QC, sitting as a deputy judge of the Chancery Division, striking out a claim brought by Mr Peter Willers against Mr Albert Gubay as disclosing no cause of action known to English law.
+The judge was faced with conflicting views of the House of Lords in Gregory v Portsmouth City Council [2000] 1 AC 419 and the Privy Council in Crawford Adjusters (Cayman) Ltd v Sagicor General Insurance (Cayman) Ltd [2014] AC 366.
+She held that she was bound by the decision of the House of Lords but granted a leapfrog certificate under section 12 of the Administration of Justice Act 1969, and permission to appeal was given by this court.
+In excellent arguments on both sides the court was referred to a large number of authorities.
+In examining the case law it will be convenient to begin with the Gregory case and the Crawford case, before going back to the earlier authorities, and then to consider the policy arguments.
+First, it is necessary to explain in brief outline the nature of the claim.
+Mr Willers claim
+Mr Gubay was a successful businessman.
+He died while this appeal was pending and his executors now act on behalf of his estate.
+Mr Willers was Mr Gubays right hand man for over 20 years until he was dismissed by Mr Gubay in the summer of 2009.
+Among the group of companies controlled by Mr Gubay was a leisure company, Langstone Leisure Ltd (Langstone).
+Mr Willers was a director of it.
+Prior to Mr Willers dismissal, Langstone pursued an action for wrongful trading against the directors of another company, Aqua Design and Play Ltd (Aqua), which had gone into liquidation.
+That action was abandoned shortly before trial in late 2009 on Mr Gubays instructions.
+In 2010 Langstone sued Mr Willers for alleged breach of contractual and fiduciary duties in causing it to incur costs in pursuing the Aqua directors.
+Mr Willers defended the action, and issued a third party claim for an indemnity against Mr Gubay, on the grounds that he had acted under Mr Gubays directions in the prosecution of the Aqua claim.
+On 28 March 2013, two weeks before the date fixed for a five week trial of the action, Langstone gave notice of discontinuance.
+On 16 April 2013 Newey J ordered Langstone to pay Mr Willers costs on the standard basis.
+It is Mr Willers case that the claim brought against him by Langstone was part of a campaign by Mr Gubay to do him harm.
+It is unnecessary to set out the details pleaded by him in the present action.
+It is not disputed that they include all the necessary ingredients for a claim of malicious prosecution of civil proceedings, if such an action is sustainable in English law.
+In particular, it is sufficiently alleged that Mr Gubay was responsible for having caused the claim to be brought; that the claim was determined in Mr Willers favour; that it was brought without reasonable cause, since Mr Gubay knew that it was he who was responsible for causing Langstone to bring the earlier wrongful trading claim; that Mr Gubay was actuated by malice in causing Langstone to sue Mr Willers; and that Mr Willers suffered damage.
+The heads of damage claimed are damage to his reputation, damage to health, loss of earnings and the difference between the full amount of the costs incurred by him in defending Langstones claim (3.9m) and the amount recovered under the costs order of Newey J (1.7m).
+Gregory v Portsmouth City Council
+Mr Gregory was a member of Portsmouth City Council.
+Allegations were made that he had misused, for his personal advantage, confidential information gained by him as a councillor about matters affecting local properties.
+Internal disciplinary proceedings resulted in findings of misconduct and his removal from various committees.
+The details were widely reported in the local press.
+Mr Gregory successfully challenged the decision by means of judicial review.
+He then brought an action against the council for malicious prosecution of the disciplinary proceedings.
+The House of Lords upheld a decision striking out his claim.
+The main speech was given by Lord Steyn.
+It was argued by Mr Gregory that disciplinary proceedings were penal in nature and should therefore be covered by the tort of malicious prosecution in the same way as criminal proceedings.
+This argument was rejected.
+Lord Steyn observed that there was a great diversity of statutory and non statutory disciplinary proceedings with different purposes.
+To leave it to the courts to decide on a case by case basis which disciplinary proceedings might ground the tort would be liable to plunge the law into uncertainty.
+In arguing that the disciplinary proceedings should be regarded as penal, counsel for Mr Gregory conceded that the tort did not extend to civil proceedings generally.
+Lord Steyn observed (pp 427 428) that it had never been held to be available beyond the limits of criminal proceedings and a few special cases of abuse of civil legal process, such as malicious presentation of a winding up or bankruptcy petition (Johnson v Emerson (1871) LR 6 Ex 329; Quartz Hill Consolidated Gold Mining Co v Eyre (1883) 11 QBD 674), malicious obtaining of a search warrant (Gibbs v Rea [1998] AC 786) or bench warrant (Roy v Prior [1971] AC 470), or malicious process to obtain execution against property (Clissold v Cratchley [1910] 2 KB 244).
+He said that although such cases appeared to be disparate, there was in a broad sense a common feature in that they potentially involved immediate and irreversible damage to the reputation of the victim.
+Another recognised head of actionable abuse of process was the malicious arrest of a vessel (The Walter D Wallet [1893] P 202) and in such cases the loss was merely financial, but Lord Steyn described them as rare.
+He said that the traditional explanation for not extending the tort to civil proceedings generally was that in a civil case there was no damage, since the fair name of the victim was protected by the trial and judgment.
+Lord Steyn acknowledged (p 432) that this theory was no longer plausible in an age when reputational harm can be caused by pre trial publicity, but he said that it was a matter for consideration whether there might be other reasons for restricting the availability of the tort in respect of civil proceedings.
+Lord Steyn concluded (p 432) that it was not necessary for the disposal of the case to express a view on the argument in favour of extending the tort to civil proceedings generally, but that it would be unsatisfactory to leave the matter in the air, and he therefore stated his opinion briefly.
+He accepted that there was a stronger case for extending the tort to civil proceedings generally than to disciplinary proceedings, but he said that for essentially practical reasons he was not persuaded that such an extension had been shown to be necessary, taking into account the protection afforded by the torts of defamation, malicious falsehood, conspiracy and misfeasance in public office.
+Crawford Adjusters (Cayman) Ltd v Sagicor General Insurance (Cayman) Ltd
+Mr Alastair Paterson was a chartered surveyor in the Cayman Islands.
+He provided services as a loss adjuster and as a project manager, acting through two companies of which he was a director.
+In those capacities he was instructed by the insurers and owners of residential development in the Cayman Islands that had suffered hurricane damage.
+Mr Paterson instructed building contractors to carry out the remedial work.
+Acting on his advice the insurers made substantial payments to the contractors.
+He was close to finalising his adjustment of the insurers liability, when the insurers internal claim handling was taken over by a newly appointed senior officer, Mr Frank Delessio.
+From their past acquaintanceship Mr Delessio had a strong dislike of Mr Paterson and a low opinion of his competence.
+On studying the paperwork, Mr Delessio became concerned that there was a serious lack of documentation to support the payments which the insurers had already made on Mr Patersons advice.
+He announced that he intended to drive Mr Paterson out of business and to destroy him professionally.
+He instructed another surveyor and loss adjuster to value the work done, but on Mr Delessios instructions the second surveyor did not speak to Mr Paterson or the contractors.
+Nor did he make inquiries of the subcontractors or suppliers about costs or consult the structural engineers who had prepared the drawings.
+On the strength of the figures put forward by the second surveyor, Mr Delessio caused the insurers to sue Mr Paterson, his companies and the contractors, claiming damages on various bases including deceit and conspiracy to defraud.
+He was also instrumental in alerting the local press to the allegations against Mr Paterson of fraudulent or reckless misrepresentations, and the allegations were published.
+As intended, the publicity caused great harm to Mr Patersons business and reputation.
+After the contractors gave disclosure of invoices showing the amounts paid by them to the subcontractors and suppliers, the insurers attorneys were advised by counsel that it would be professionally improper for him, or them, to represent the insurers in the claims of fraud and conspiracy.
+Days before the trial the insurers and owners discontinued their claims.
+The judge ordered them to pay the defendants costs on an indemnity basis and gave Mr Paterson permission to amend his counterclaim to claim damages against the insurers for abuse of process.
+At the trial of the counterclaim the judge considered the torts of abuse of process and malicious prosecution.
+He rejected abuse of process because the insurers were genuinely seeking the relief claimed in the writ, rather than using the action as a device to secure an entirely extraneous objective.
+As to malicious prosecution, he found that all the ingredients were established if the tort was capable in law of applying to the relevant proceedings, but, citing Gregory, he held that it was not.
+He therefore dismissed the claim but said that, if it had been available, he would have awarded Mr Paterson CI$1.3m for his professional losses and CI$35,000 for distress and humiliation.
+In particular, the judge found that although Mr Delessio believed that Mr Paterson had defrauded the insurers, his belief was without reasonable cause; that Mr Delessio knew that the second surveyors report was not a proper basis for making such allegations; and that the dominant factor which led him to make them was his strong dislike of Mr Paterson and obsessive determination to destroy him professionally.
+The Privy Council decided by a majority of three to two that on those facts the judge was wrong to dismiss the claim for malicious prosecution.
+All five members of the panel gave reasons for their opinions.
+On the majority side the leading opinion was given by Lord Wilson.
+On the dissenting side the leading opinion was given by Lord Sumption.
+They each carried out a detailed historical survey of the tort from the middle ages to the present day but with different conclusions.
+At the risk of over simplification, Lord Wilson concluded that the case law prior to Quartz Hill did not distinguish between civil and criminal proceedings as such, but limited the types of damage recoverable in a way which had the practical effect of restricting the claims that were brought as a result of malicious civil process.
+Lord Wilson was critical of dicta in Quartz Hill to the effect that by the late 19th century, when that case was decided, no mere bringing of an action, albeit maliciously and without reasonable cause, could give rise to the tort.
+As to later authority, Lord Wilson noted that Lord Steyns remarks on the subject in Gregory were obiter, and he observed that the practical rationale behind Lord Steyns reluctance about the tort applying to civil proceedings lost its force in circumstances where no other tort was capable of application.
+As a matter of principle and policy, Lord Wilson concluded that it would be unjust for Mr Paterson to be left without a legal remedy for the damage which Mr Delessio had intentionally caused him to suffer by the malicious prosecution of civil process without any reasonable cause.
+Lord Sumptions conclusion was that the tort had never applied to civil proceedings as such.
+Over the course of history there had come to be recognised a small and anomalous class of cases in which the action had been held to be available for maliciously obtaining an ex parte order of the court which caused, or was liable to cause, immediate injury to the claimant through the misuse of the courts coercive powers.
+Such cases were rare and in Quartz Hill the Court of Appeal had taken a firm stand against their extension.
+So too had the House of Lords in Gregory.
+Mr Paterson had suffered an undoubted injustice, but this did not make it right to sweep away restrictions on the application of the tort to civil process which had existed for very many years.
+Lord Sumption was unpersuaded that there was a general need to extend the tort.
+To do so would in his view create uncertainty, further anomalies and the likelihood of undesirable practical consequences.
+Analysis: the case law
+Lord Wilsons and Lord Sumptions historical analyses were the subject of very detailed critical analysis by counsel in the present case.
+While respecting the thoroughness of their arguments, I do not intend to rehearse them.
+It is apparent to my mind that the early case law is capable of more than one respectable interpretation, and it may be that there was never a time when there was a general understanding precisely where the boundaries of the tort lay.
+The same could be said about other aspects of the common law.
+In any case, the decision now to be made by this court should not depend on which side has the better argument on a controversial question about the scope of the law some centuries ago.
+Having said that, it is right that I should indicate the more significant points which I glean from my reading of the case law.
+But I do so with caution, because the identification of such points involves an element of selection in which I cannot lay any special claim to being necessarily right.
+Before the judgment of Holt CJ in Savile v Roberts in 1698 (discussed below), I have not detected any authority which excluded the application of the tort to a civil action, and there are some indications that it was capable of applying to civil proceedings.
+A number were referred to in the reported argument for the plaintiff in Cotterell v Jones (1851) 11 CB 713, 719 724.
+Counsel cited, among other sources, Waterer v Freeman (1618) Hobart 266, Atwood v Monger (1653) Style 378, and a note by Hargrave to Coke on Littleton.
+Waterer v Freeman involved double execution on goods, but counsel in Cotterell v Jones relied on what he argued was a statement of general principle by Hobart CJ (who had succeeded Sir Edward Coke as Chief Justice of the Court of Common Pleas): Now to the principal case, if a man sue me in a proper court, yet if his suit be utterly without ground of truth, and that certainly known to himself, I may have an action of the case against him for the undue vexation and damage that he putteth me unto by his ill practice, though the suit itself be legal and I cannot complain of it.
+This statement was described by Blackburn J as an authority entitled to weight in Wren v Weild (1869) LR 4 QB 730, 736 (to which I refer below).
+Atwood v Monger arose from proceedings brought against the plaintiff before the conservators of the River Thames, who had a statutory responsibility for the management of the river, for allegedly allowing earth to fall into the river.
+Counsel for the plaintiff in Cotterell v Jones relied on what they submitted was a statement of general principle by Rolle CJ in the Atwood case: An action upon the case lies for bringing an appeal against one in the Common Pleas, though it be coram non judice, by reason of the vexation of the party, and so it is all one whether here were any jurisdiction or no, for the plaintiff is prejudiced by the vexation and the conservators took upon them to have authority to take the presentment.
+And I hold that an action upon the case will lye, (sic) for maliciously bringing an action against him where he had no probable cause, and if such actions were used to be brought, it would deter men from such malitious (sic) courses as are to (sic) often put in practice.
+The passage from Hargraves note to Coke on Littleton read: Where two or more conspire to harass any person by a false and malicious suit, whether criminally or civilly, it is a crime punishable by indictment, or the parties injured may sue for damages by writ of conspiracy; and both of these remedies lie at common law, that part of the statute or ordinance of Articuli super chartas which gives remedies against conspirators by writ out on Chancery, being, according to both Staunford and Lord Coke, only an affirmation of the common law.
+Staunf CP 172 [Staunfords Common Pleas], 2 Inst 561, 562 [Cokes Institutes].
+There is also a remedy for false and malicious prosecution, though the aggravation of a conspiracy or confederacy is wanting, and the injury comes from one only; for, in such a case, the party prosecuted may have an action upon the case for damages.
+I apprehend, too, that such an action lies, as well where the vexation is practised by a civil suit, as where it is carried on through the medium of a criminal process.
+FNB 114, D [Fitzherberts Natura Brevium]. (Sir William Staunford was a judge of the Court of Common Pleas from 1554 to 1558.
+Sir Anthony Fitzherbert was appointed a judge of the Court of Common Pleas in 1522.
+His new Natura Brevium was published in 1534.)
+Savile v Roberts was an important case.
+The defendant on two occasions caused the plaintiff to be prosecuted at quarter sessions on an indictment charging him with riot.
+After being acquitted both times the plaintiff sued the defendant in the Court of Common Pleas for prosecuting him maliciously.
+His claim succeeded and he was awarded damages for the expenses which he had incurred in defending himself.
+The defendant brought a writ of error to have the judgment set aside but the judgment was upheld.
+There are nine reports of the decision, varying in length and content.
+Among them, I have found the reports at 5 Mod 405, 12 Mod 208 and 1 Ld Raymond 374 the most helpful.
+Since the action was on the case, damage had to be proved.
+Holt CJ identified three types of damage which could support such a claim.
+The first was damage to the plaintiffs fame or reputation.
+The second was damage to his person either by assault or by deprivation of his liberty.
+The third was damage to his property, which included being put to expense.
+The damages awarded to the plaintiff fell within this category, as to which Holt CJ said (12 Mod 209) that if this injury be occasioned by a malicious prosecution, it is reason and justice that he should have an action to repair him the injury: though of late days it has been questioned, yet it has always been allowed formerly; as Atwood v Monger (to which I have referred).
+The defendant objected that to allow such an action will be of mischievous consequence, by stopping all prosecutions of this kind; and there is no more reason in this case of a malicious indictment, than a malicious action: and no man shall be responsible for any damages whatsoever for suing a writ or prosecuting in the Kings Courts (12 Mod 210).
+Holt CJ said that there was a great difference between bringing an action maliciously and prosecuting an indictment maliciously (5 Mod 408, 12 Mod 210, 1 Ld Raymond 379 380).
+He explained that in former times the common law provided that every claimant should provide pledges, who were amerced (that is, they forfeited the amount pledged) if the claim was false.
+That method was replaced by statutes which provided for defendants to recover their costs.
+By contrast Holt CJ said that there was no amercement upon indictments, and the party had not any remedy to reimburse himself but by action (1 Ld Raymond 380).
+Holt CJ added that if an action were brought merely through malice and vexation, an action on the case would lie in some cases, where the plaintiff could show particular damage (1 Ld Raymond 380) or special matter (5 Mod 408, 12 Mod 211).
+The ability to sue for malicious prosecution seems therefore to have depended, according to Holt CJ, essentially on the nature of the damage suffered rather than the form which the proceedings took, although the two were likely to be interrelated.
+It is also possible that when Holt CJ spoke of special matter he was not referring to the damage suffered but to special matter showing the malicious nature of the defendants conduct.
+I take this interpretation from the judgment of Parker CJ in Jones v Givin (1713) Gilb Cas 185, 196 197 (also reported as Jones v Gwynn 10 Mod 147, 214).
+After commenting that the demand of right (a civil claim) was more favoured than bringing to punishment, and that if an action was false, the plaintiff was by law amerced, and the defendant to have costs, Parker CJ said: And therefore my Lord Chief Justice Holt, in his excellent argument in Savill and Roberts, where he fully states the difference between the two cases, said that in case for a malicious action the plaintiff must shew special matter which shows malice, for else an action, being the plaintiff seeking and demanding advantage to himself, carries in it [a] fair and honourable cause, unless the recovery be utterly hopeless, and the suit without some other design, which therefore must be specially shewn.
+It is not necessary, even if it were possible, to decide whether the special matter referred to in these authorities was an evidential requirement, ie a reference to what was needed to prove malice, or related to the type of damage which could give rise to the action.
+Either way the premise appears to have been that an action would lie if the defendant maliciously invoked civil process against the plaintiff which resulted in the plaintiff suffering a recognised head of damage.
+In Grainger v Hill (1838) 4 Bing (NC) 212 the plaintiff owned a vessel which he mortgaged to the defendants as security for a loan repayable after 12 months.
+The plaintiff was to retain the vessels register, which he needed in order to make voyages.
+Two months later the defendants became concerned about the adequacy of the security and determined to obtain the register.
+To that end they swore an affidavit of debt and issued a writ of capias for the arrest of the plaintiff in support of a claim of assumpsit.
+The sheriffs officers told the plaintiff that they had come for the register, and that if he failed to hand it over or provide bail he would be arrested.
+Under that threat he handed over the register.
+The defendants claim in debt was settled by the repayment of the loan and release of the mortgage deed.
+The plaintiff then sued the defendants for malicious issue of the civil proceedings.
+At the trial the plaintiff obtained a verdict in his favour, but the defendants argued that the plaintiff should be nonsuited among other reasons because he had failed to aver that the action had been commenced without reasonable or probable cause.
+The plaintiff responded that he had proved that the defendants suit was without reasonable or probable cause, but that in any event this was unnecessary in a case where the action had been brought for an improper purpose, ie as a means of coercing the plaintiff into giving up the register to which the defendants had no right.
+The court accepted the plaintiffs argument.
+Tindal CJ said at 221: If the course pursued by the defendants is such that there is no precedent of a similar transaction, the plaintiffs remedy is by an action on the case, applicable to such new and special circumstances; and his complaint being that the process of the law has been abused, to effect an object not within the scope of the process, it is immaterial whether the suit which that process commenced had been determined or not, or whether or not it was founded on reasonable and probable cause.
+Similarly Park J said at 222: this is a case primae impressionis, in which the defendants are charged with having abused the process of the law, in order to obtain property to which they had no colour of title; and, if an action on the case be the remedy applicable to a new species of injury, the declaration and proof must be according to the particular circumstances.
+Grainger v Hill has been treated as creating a separate tort from malicious prosecution, but it has been difficult to pin down the precise limits of an improper purpose as contrasted with the absence of reasonable and probable cause within the meaning of the tort of malicious prosecution.
+This is not entirely surprising because in Grainger v Hill itself there plainly was no reasonable or probable cause to issue the assumpsit proceedings, since the debt was not due to be paid for another ten months as the lenders well knew.
+It might be better to see it for what it really was, an instance of malicious prosecution, in which the pursuit of an unjustifiable collateral objective was evidence of malice, rather than as a separate tort.
+This would be consistent with the reference in Parker CJs judgment in Jones v Givin (or Jones v Gwynn), cited above, to some other design as a potential special matter showing malice.
+It is unnecessary to express a firm view on this point, but Grainger v Hill does at any rate illustrate the willingness of the court to grant a remedy, in what it regarded as novel circumstances, where the plaintiff had suffered provable loss as a result of civil proceedings brought against him maliciously and without any proper justification.
+In other mid 19th century cases the courts recognised a broad principle underlying the cause of action for malicious prosecution; De Medina v Grove (1847) 10 QB 172 and Churchill v Siggers (1854) 3 E & B 929.
+In both cases the plaintiff suffered a period of imprisonment and incurred expenditure through the execution of a writ of capias, which the plaintiff claimed that the defendant had issued for an excessive sum.
+In De Medina v Grove the plaintiffs claim was dismissed on the ground that the facts pleaded by him were consistent with the existence of probable cause.
+The claim in Churchill v Siggers was allowed to go to trial.
+The judges in each case adopted a common starting point.
+Cresswell J, Williams J, Parke B and Rolfe B agreed) began: In De Medina v Grove the judgment of Wilde CJ (with whom Maule J, The law allows every person to employ its process for the purpose of trying his rights, without subjecting him to any liability, unless he acts maliciously and without probable cause.
+In Churchill v Siggers the judgment of the court (Lord Campbell CJ, Erle J
+and Crompton J) began: To put into force the process of the law maliciously and without any reasonable or probable cause is wrongful; and, if thereby another is prejudiced in property or person, there is that conjunction of injury and loss which is the foundation of an action on the case.
+It is argued by those in favour of limiting the cause of action to the various circumstances in which it has been applied that these statements were not intended to be definitive and should be read in their particular factual context.
+But the statements contained the rationale by reference to which the cases were decided and cannot be regarded as obiter dicta.
+The reference, for example, to the law allowing every person to apply its process for the purpose of trying his rights, unless he acted maliciously and without probable cause, does not fit with a narrow concept peculiar to the process of execution.
+The subject was considered indirectly in Wren v Weild (1869) LR 4 QB 730.
+The claim was in substance a patent dispute.
+The plaintiffs were manufacturers of machinery.
+They sued the defendant for falsely and maliciously telling their customers that their machines infringed the defendants patents and threatening legal action if the customers used the machines without paying royalties to the defendant.
+There was no allegation on the pleading that the defendant acted without reasonable and probable cause.
+Lush J nonsuited the plaintiffs, who applied to set aside the nonsuit.
+The judgment of the court (consisting of Blackburn, Lush and Hayes JJ) was given by Blackburn J. He considered whether the circumstances were such as to make the bringing of an action [against the customers] altogether wrongful.
+In that context Blackburn J considered (p 736) the statement of principle by Hobart CJ in Waterer v Freeman, set out in para 17 above, and the effect of Savile v Roberts: In Waterer v Freeman (1618) Hobart 266, 267, which was an action for maliciously and vexatiously issuing a second fi. fa. whilst the first was unreturned, the Chief Justice says: If a man sue me in a proper court, yet if his suit be utterly without ground of truth, and that certainly known to himself, I may have an action of the case against him for the undue vexation and damage that he putteth me unto by his ill practice.
+This was not necessary for the decision of the case before the court, but it was by no means irrelevant, and it is therefore an authority entitled to weight.
+On the other hand, in Savile v Roberts 1 Ld Raym 374, Lord Holt, in delivering the judgment of the Exchequer Chamber, expresses an opinion that no such action would lie without alleging and proving some collateral wrong, such as that he was maliciously held to bail, or the like.
+For this he gives two reasons, first that a man is entitled to bring an action if he fancies he has a right, which is in accordance with Lord Ellenboroughs reasoning in Pitt v Donovan (1813) 1 M & S 639.
+But this reason is quite consistent with Lord Hobarts position, that the action will lie where it was certainly known to him that the action was utterly without ground.
+His second reason is, that the law considers that the party grieved has an adequate remedy in his judgment for costs; and on this the Court of Common Pleas acted in Purton v Honnor (1798) 1 B & P 205.
+But this artificial reason does not apply in the present
+Applying the same line of reasoning, the court held in the case before it that the action could not lie, unless the plaintiffs affirmatively proved that the defendants claim was not a bona fide claim in support of a right which, with or without cause, he fancied he had; but a mala fide and malicious attempt to injure the plaintiffs by asserting a claim of right against his own knowledge that it was without any foundation (p 737).
+The courts reasoning was consistent with the statements of principle in De Medina v Grove and Churchill v Siggers and it confirms that this was a mainstream view.
+It is noteworthy that by 1869 the court regarded the notion that a party who was sued maliciously and without any ground had an adequate remedy in a judgment for costs as artificial.
+Blackburn Js statement that Holt CJ in his judgment in Savile v Roberts expresses an opinion that no such action would lie without alleging and proving some collateral wrong, as that he was maliciously held to bail, or the like must have been his interpretation of the sentence in the report in 1 Ld Raymond (the version cited by Blackburn J) at 380: If A sues an action against B for mere vexation, in some cases upon particular damage B may have an action; but it is not enough to say that A sued him falso et malitiose, but he must show the matter of the grievance specially, so that it may appear to the court to be manifestly vexatious. 1 Sid 424, Daw v Swain, where the special cause was the holding to excessive bail.
+I have discussed the interpretation of Holt CJs reference to particular damage (or special matter as it appears in other reports of the judgment) at paras 20 to 21 above.
+In Quartz Hill Consolidated Gold Mining Co v Eyre (1883) 11 QBD 674, [1882] WN 27, the defendant presented a petition to wind up the plaintiff company and advertised it in several papers.
+The petition alleged that the companys capital had been raised by a fraudulent prospectus and that there was no possibility of its trading profitably.
+The defendant believed at that time that he was a shareholder of the company, but immediately after the presentation he learned that his broker had sold his shares and he promptly gave notice that his petition would be withdrawn.
+The petition was never served on the company and was dismissed by Hall V C.
+Both parties were represented at the hearing, and each applied for their costs of appearance, but the judge made no order for costs.
+The reason that the company was not given its costs appears to have been that its appearance was considered unnecessary: see Berry v British Transport Commission [1962] 1 QB 306, 319, per Devlin LJ.
+The company then sued the defendant for maliciously presenting the petition without reasonable or probable cause.
+At the trial before Stephen J the company adduced no evidence of special damage other than its costs in respect of the petition.
+At the close of its case, the judge nonsuited it.
+His decision was upheld by the Divisional Court (Pollock, B and Manisty, J) but reversed by the Court of Appeal, comprising Brett MR and Bowen LJ, and a new trial was ordered.
+Counsel for the defendant advanced three arguments why the companys claim must fail.
+The first was that there was no evidence of special damage necessary to maintain the action: Savile v Roberts.
+The second was that there was no evidence of malice or absence of reasonable or probable cause.
+The third was that no action of this kind would lie under the circumstances, because the action taken by the defendant was not of an ex parte character, but an application to the court on which the company had the opportunity of appearing in opposition, and the judge hearing the petition could make an award of costs.
+Brett MR rejected the first argument on the ground that the publication of the petition in the newspapers would have been destructive of the companys reputation and that this amounted to damage within Holt CJs first category.
+He accepted that the company was not entitled to recover its costs, because the courts operated on the theory that the jurisdiction to award litigation costs to the successful party covered all costs reasonably and necessarily incurred, and therefore any excess was not to be regarded in law as caused by the conduct of the losing party.
+The second argument was a purely evidential matter.
+The third argument has significance in the present case because Mr Bernard Livesey QC argued on behalf of Mr Gubays estate that the cases in which claims for malicious prosecution of civil proceedings have succeeded should be explained as cases in which the defendant took it on himself to make malicious and unjustifiable use of the coercive powers of the state, such as the power of arrest of a person or their property, and that it is only in such a case that the action can be maintained.
+This submission has a strong echo of the third argument advanced by the defendant in the Quartz Hill case.
+It was rejected by Brett MR in these terms, at (1883) 11 KB 684: The proposition is that an action cannot be maintained because the petitioning creditor merely asks the court to act judicially, and because it was to be assumed that the court would decide rightly.
+If that proposition were well founded, it would be an answer to malicious prosecution on a criminal charge, because even in that case the prosecutor merely asks the tribunal to decide upon the guilt of the person whom he charges.
+If a man is summoned before a justice of the peace falsely and maliciously and without reasonable or probable cause, he will be put to expense in defending himself, and his fame may suffer from the accusation; nevertheless the prosecutor only asks the justice to adjudicate upon the charge.
+Therefore it is not a good answer to an action for maliciously procuring an adjudication in bankruptcy to say, that the alleged creditor has only asked for a judicial decision.
+It seems to me that an action can be maintained for maliciously procuring an adjudication under the Bankruptcy Act, 1869, because by the petition, which is the first process, the credit of the person against whom it is presented is injured before he can shew that the accusation made against him is false; he is injured in his fair fame, even although he does not suffer a pecuniary loss.
+Bowen LJ began his judgment by saying that he was of the same opinion as Brett MR and that he would not have added anything if they had not been overruling the opinion of more than one judge of great experience and ability.
+He ended by saying that there must be a new trial for the reasons given by the Master of the Rolls and that he hoped that he had not weakened the force of those reasons by stating his own.
+It is clear therefore that Brett MRs judgment had the full authority of the court.
+In his judgment Bowen LJ expressed the view, obiter, that under our present rules of procedure, and with the consequences attaching under our present law, the bringing of an action could not give rise to an action for malicious prosecution, even if the first action were brought maliciously and without reasonable and probable cause (pp 690 691).
+The reason, he explained, was that he could not conceive that under the courts present mode of procedure the bringing of an action could result in any of the three heads of damage recognised in Savile v Roberts.
+As to damage to reputation, he acknowledged that the publication of the proceedings might incidentally cause damage to a persons reputation, but he said that the bringing of an action itself was not the cause of injury, and that when the action was tried in public his fair fame will be cleared, if it deserves to be cleared: if the action is not tried, his fair fame cannot be in any way assailed by the bringing of the action.
+In this respect Bowen LJ contrasted the bringing of a civil action with the bringing of a criminal allegation involving scandal to reputation, or the issue of a bankruptcy petition, which he said in its nature caused reputational damage that could not necessarily be repaired afterwards.
+Where reputational damage is concerned, to draw a distinction between the effect of the bringing of proceedings as such and the effect of attendant publicity seems highly artificial in circumstances where the action is brought as part of a determined campaign to destroy a persons reputation.
+It seems surprising also that Bowen LJ considered it inconceivable that the making of allegations in a civil suit might result in reputational damage with immediate and irreparable consequences, in the same way as might result from the institution of criminal or insolvency proceedings.
+But, if it was inconceivable in 1883, it is certainly not inconceivable in todays world.
+Bowen LJ did not suggest that if he were wrong, and if such damage were to result from the malicious institution of civil proceedings without reasonable or probable cause, there would be any principled reason to leave the injured party without a remedy.
+That would have been inconsistent with the reasoning which led the court to hold that Quartz Hills claim should go to trial.
+In Berry v British Transport Commission the plaintiff was prosecuted for the summary offence of pulling the communication cord on a train without reasonable cause.
+After conviction by the magistrates she appealed to quarter sessions, her conviction was quashed and she was awarded costs against the complainant in a sum which amounted to about a quarter of her actual costs.
+She sued the defendant for malicious prosecution, claiming that she had suffered damage to reputation; had been held up to ridicule; had suffered mental anxiety; and had incurred special damage by way of the shortfall between the full amount of her expenses and the amount awarded to her at quarter sessions.
+On the trial of a preliminary question of law, Diplock J struck out her claim as disclosing no cause of action: [1961] 1 QB 149.
+Diplock J said at p 159 that the action on the case for malicious prosecution could be founded upon any form of legal proceedings, civil or criminal, brought maliciously and without any reasonable or proper cause by the plaintiff against the defendant, but, as the action was in case, damage was an essential ingredient.
+He held that the criminal allegation was not an imputation affecting her fair fame, and that the rule in Quartz Hill that the difference between actual costs incurred and party and party costs awarded in civil proceedings could not be recovered as special damage should be applied also to costs incurred in defending criminal proceedings, since the criminal court had a discretion to order the prosecutor to pay such costs as were just and reasonable.
+The Court of Appeal (Ormerod, Devlin and Danckwerts LJJ) upheld Diplock Js judgment on the issue of damage to reputation, but reversed his judgment on the issue of special damages: [1962] 1 QB 306.
+The court accepted that it was bound by the decision in Quartz Hill that the excess of costs incurred in defending civil proceedings over the taxed costs awarded could not be recovered as special damage in a subsequent action for malicious prosecution, but it declined to extend the rule to costs incurred in defending criminal proceedings.
+In his judgment, at p 334, Danckwerts LJ repeated Diplock Js obiter dictum that the action for malicious prosecution lies for wrongful and malicious civil proceedings as well as criminal proceedings.
+The common law is prized for its combination of principle and pragmatism.
+The doctrine of precedent in the words of Dean Roscoe Pound is one of reason applied to experience: The Spirit of the Common Law, 1963 ed, pp 182 183.
+Growth he said is insured in that the limits of the principle are not fixed authoritatively once and for all but are discovered gradually by a process of inclusion and exclusion as cases arise which bring out its practical workings and prove how far it may be made to do justice in its actual operation.
+The case law on the tort of malicious prosecution is in point.
+It shows how the courts have fashioned the tort to do justice in various situations in which a person has suffered injury in consequence of the malicious use of legal process without any reasonable basis.
+Drawing on that experience, the court has to decide whether the tort should now apply to the malicious and groundless prosecution of a civil claim causing damage of the kinds alleged in the present case.
+This requires consideration of the justice and practical consequences whichever way the question is decided.
+In considering those consequences, it is appropriate to have in mind the essential ingredients of the tort, although they were not the subject of argument (see paras 52 to 56 below).
+Analysis: policy
+Mr Willers claim to recover the excess of his legal expenses over the amount awarded under the costs order made in the action brought against him by Langstone raises a question to which I will return.
+Otherwise I see no difficulty in principle about the heads of damage claimed by him (damage to reputation, health and earnings), subject to the fundamental question whether his action is maintainable in law.
+The case put on his behalf can be simply stated.
+In the words of Holt CJ in Savile v Roberts, if this injury be occasioned by a malicious prosecution, it is reason and justice that he should have an action to repair him the injury.
+This appeal to justice is both obvious and compelling.
+It seems instinctively unjust for a person to suffer injury as a result of the malicious prosecution of legal proceedings for which there is no reasonable ground, and yet not be entitled to compensation for the injury intentionally caused by the person responsible for instigating it.
+It was that consideration which led the judges to create the tort of malicious prosecution, as can be seen in the case law.
+The question is whether there are countervailing factors such that its applicability to civil proceedings should be limited to an assortment of instances where it has previously been applied.
+A considerable number of countervailing factors have been suggested, and I turn to what appear to me to be the principal ones.
+Underlying the individual counter arguments, it is a common theme of the opinions of the minority that malicious prosecution of criminal proceedings is now obsolescent, if not obsolete, as a form of tort, and so this is no time to countenance it in the area of civil proceedings.
+I disagree with the premise of that argument.
+Maliciously causing a person to be prosecuted on the basis of an allegation known by the complainant to be false is far from being a thing of the past, and in recent times it has led in some cases to the conviction of the complainant for the offence of perverting or attempting to pervert the course of justice.
+Although in such cases the complainant has typically not been worth suing, if the situation were otherwise there would be no reason to regard an action for malicious prosecution as inappropriate.
+Floodgates.
+It is suggested that although Mr Willers claim may be meritorious, there is an unacceptable risk of its being followed by other claims which are unmeritorious.
+The argument that a good claim should not be allowed because it may lead to someone else pursuing a bad one is not generally attractive, but in this case it is bolstered by two other arguments, the deterrence factor and the finality factor.
+Deterrence.
+It is suggested that if the tort is available it may deter those who have valid civil claims from pursuing them for fear that if the claim fails they may face a vindictive action for malicious prosecution.
+This was the argument advanced 300 years ago in Savile v Roberts for not allowing the tort in criminal proceedings.
+I am not persuaded that it has greater merit in relation to civil proceedings.
+There are many deterrents to litigation (uncertainty, time, expense, etc), some of which may be stronger than others.
+A claimant who brings civil proceedings on an improper basis exposes himself to the risk of having to pay indemnity costs, but I am not aware of evidence that this has deterred those with honest claims from pursuing them.
+One can always hypothesise that an honest litigant who has not been put off from bringing a claim by the risk of the judge (wrongly) deciding that he had acted improperly and making an indemnity costs order might nevertheless be put off by the extra risk of an opposing party bringing a vindictive action for malicious prosecution, but there is no way of testing the hypothesis and it seems to me intrinsically unlikely.
+Finality.
+There is unquestionably a public interest in avoiding unnecessary satellite litigation, whether in criminal or civil matters, but that has not been considered a sufficient reason for disallowing a claim for malicious prosecution of criminal proceedings.
+Unlike certain other forms of satellite litigation, an action for malicious prosecution does not amount to a collateral attack on the outcome of the first proceedings (subject to the discrete point about a claim for costs in excess of those allowed in the underlying proceedings).
+Duplication of remedies.
+In Gregory Lord Steyn expressed himself to be tolerably confident that any manifest injustices arising from groundless and damaging civil proceedings were either adequately protected under other torts or capable of being addressed by any necessary and desirable extensions of other torts: [2000] 1 AC 419, 432.
+Crawford and the present case show that this is not so.
+Inconsistency with witness immunity from civil liability.
+It is suggested that to allow Mr Willers claim would introduce an inconsistency with the rule that evidence given to a court is protected by immunity from civil action, even if the evidence is perjured.
+If this were a valid objection it would apply to all forms of the tort of malicious prosecution, including prosecution of criminal proceedings, as well as to the instances of malicious institution of civil process which are acknowledged on all sides to be within the scope of the tort.
+Roy v Prior [1971] AC 470, 477 478, is authority that the rule which bars an action against a witness for making a false statement does not prevent an action in respect of abuse of the process of the court.
+Lord Morris of Borth y Gest explained the difference: It is well settled that no action will lie against a witness for words spoken in giving evidence in a court even if the evidence is falsely and maliciously given (see Dawkins v Lord Rokeby (1873) LR 8 QB 255, Watson v MEwan [1905] AC 480) This, however, does not involve that an action which is not brought in respect of evidence given in court but is brought in respect of an alleged abuse of process of the court must be defeated if one step in the course of the abuse of the process of the court involved or necessitated the giving of evidence.
+It must often happen that a defendant who is sued for damages for malicious prosecution will have given evidence in the criminal prosecution of which the plaintiff complains.
+The essence of the complaint in such a case is that criminal proceedings have been instituted not only without reasonable and probable cause but also maliciously.
+So also in actions based upon alleged abuses of the process of the court it will often have happened that the court will have been induced to act by reason of some false evidence given by someone.
+In such cases the actions are not brought on or in respect of any evidence given but in respect of malicious abuse of process (see Elsee v Smith (1822) 2 Chit 304).
+Inconsistency with the absence of a duty of care by a litigant towards the opposing party.
+There is a great difference between imposing a duty of care and imposing a liability for maliciously instituting proceedings without reasonable or probable cause.
+The same distinction is established in relation to criminal cases.
+The police owe no duty of care towards a suspect (Calveley v Chief Constable of Merseyside Police [1989] AC 1228), but that does not mean that a police officer is immune from the tort of malicious prosecution.
+The distinction between careless and intentional conduct is a familiar feature of parts of the common law, reflected in Oliver Wendell Holmes, Jrs often quoted saying, Even a dog distinguishes between being stumbled over and being kicked (The Common Law, 1909, lecture 1).
+The tort should be confined to persons exercising the coercive power of the state.
+This was the third argument advanced by the defendant in Quartz Hill and was rejected by the Court of Appeal for reasons which I regard as sound: see para 35 above.
+Implicit in the suggested restriction is the idea that malicious prosecution is a public law tort, available against public officers and others who take it on themselves to exercise the coercive powers of the state; but in Gibbs v Rea [1998] AC 786, 804 Lord Goff and Lord Hope were emphatic that it would be incorrect to see the tort as having any of the characteristics of a public law remedy.
+They were in a minority in their opinion about the proper decision in that case, but I do not detect any difference on that point.
+Reciprocity.
+It is suggested that the logical corollary of allowing a claim for malicious prosecution of civil proceedings should be a right to sue for the malicious defence of a civil claim without reasonable or probable cause.
+The same argument might logically be advanced in relation to the malicious prosecution of criminal proceedings.
+It is not uncommon for a criminal suspect, when questioned about an offence, to advance a defence involving false accusations of one kind or another against the complainant, which may be injurious to the complainants reputation.
+It is easy to think of some high profile examples.
+That aside, the question whether there should be civil liability for bad faith denial of claims raises other and wider considerations.
+For an English court to adopt the approach of Supreme Court of New Hampshire in Aranson v Schroeder (1995) 671 A 2d 1023 and recognise the existence of a cause of action of that description would be bold, to say the least, but I do not see that recognition of civil liability for malicious prosecution of civil proceedings carries with it as a necessary counterpart that there should be liability for bad faith denial of a claim.
+There is an obvious distinction between the initiation of the legal process itself and later steps which may involve bad faith (for which the court is able to impose sanctions) but do not go to the root of the institution of legal process.
+Uncertainty as to malice.
+It is suggested that a decision in Mr Willers favour would take the courts into new and uncertain waters about the meaning of malice.
+The requirement of malice has been considered in the past at the highest level, for example in Glinski v McIvor [1962] AC 726, 766, and Gibbs v Rea [1998] AC 786, 797.
+No argument was addressed to the court in the present case on this issue for understandable reasons.
+If the facts alleged by Mr Willers are substantiated, there was undoubtedly malice on the part of Mr Gubay.
+Lord Mance expresses concern about the concept of malice in the context of a claim for malicious prosecution of civil proceedings (paras 137 to 140).
+I make two preliminary observations.
+First, this subject was not raised in either partys written or oral arguments, for understandable reasons.
+Mr Willers case is that Mr Gubay well knew that Mr Willers had done Mr Gubays bidding in the matter of Langstones claim against the Aqua directors, and the prosecution of Langstones claim against Mr Willers was part of Mr Gubays vendetta against him.
+Secondly, over the last 400 years there has been a volume of case law about malice, and the related requirement of absence of reasonable and probable cause, for the purposes of the tort of malicious prosecution.
+Most of it has not been cited, and the court has not had the benefit of the parties analysis of it.
+I recognise that Lord Mance is registering a concern, rather than seeking to seeking to lay down doctrine.
+It would be wrong for me to ignore that concern, but anything that I say on this aspect is necessarily obiter.
+In the early case law Hobart CJ stated the requirements succinctly in the passage from his judgment in Waterer v Freeman cited at para 17 above: if a man sue me in a proper court, yet if his suit be utterly without ground of truth, and that certainly known to himself, I may have an action of the case against him.
+This formula was adopted by Blackburn J in 1869 in Wren v Weild.
+It accords with Lord Mances suggestion (para 139) that he would be readier to accept a concept of malicious prosecution which depended on actual appreciation that the original claim was unfounded.
+Hobart CJs statement remains a helpful starting point and, speaking in general terms, it has in my view much to commend it.
+It is well established that the requirements of absence of reasonable and probable cause and malice are separate requirements although they may be entwined: see, for example, Glinski v McIver [1962] AC 726, 765, (it is a commonplace that in order to succeed in an action for malicious prosecution the plaintiff must prove both that the defendant was actuated by malice and that he had no reasonable and probable cause for prosecuting, per Lord Devlin).
+In order to have reasonable and probable cause, the defendant does not have to believe that the proceedings will succeed.
+It is enough that, on the material on which he acted, there was a proper case to lay before the court: Glinski v McIver, per Lord Denning at 758 759. (Compare and contrast a suit which is utterly without ground of truth, per Hobart CJ.)
+Malice is an additional requirement.
+In the early cases, such as Savile v Roberts, the courts used the expression falso et malitiose.
+In the 19th century malitiose was replaced by the word malicious, which came to be used frequently both in statutes and in common law cases.
+In Bromage v Prosser (1825) 4 B & C 247, 255, Bayley J said that Malice, in common acceptation, means ill will against a person, but in its legal sense it means a wrongful act, done intentionally, without just cause or excuse.
+His statement was cited with approval by Lord Davey in Allen v Flood [1898] AC 1, 171. (For a recent discussion of the nineteenth century understanding of the meaning of malicious in the law of tort, see O (A Child) v Rhodes [2016] AC 219, paras 37 to 41.) As applied to malicious prosecution, it requires the claimant to prove that the defendant deliberately misused the process of the court.
+The most obvious case is where the claimant can prove that the defendant brought the proceedings in the knowledge that they were without foundation (as in Hobart CJs formulation.) But the authorities show that there may be other instances of abuse.
+A person, for example, may be indifferent whether the allegation is supportable and may bring the proceedings, not for the bona fide purpose of trying that issue, but to secure some extraneous benefit to which he has no colour of a right.
+The critical feature which has to be proved is that the proceedings instituted by the defendant were not a bona fide use of the courts process.
+In the Crawford case Mr Delessio knew that there was no proper basis for making allegations of fraud against Mr Paterson, but he did so in order to destroy Mr Patersons business and reputation.
+The combination of requirements that the claimant must prove not only the absence of reasonable and probable cause, but also that the defendant did not have a bona fide reason to bring the proceedings, means that the claimant has a heavy burden to discharge.
+All things considered, I do not regard the suggested countervailing considerations as sufficient to outweigh the argument that simple justice dictates that Mr Willers claim for malicious prosecution should be sustainable in English law.
+Excess costs.
+Newey Js decision to award costs to Mr Willers on a standard basis is readily understandable.
+The action had been discontinued and the judge would not have been able to determine whether Mr Willers should recover indemnity costs without conducting what would have amounted to a trial of the present action.
+On the other hand, the notion that the costs order made has necessarily made good the injury caused by Mr Gubays prosecution of the claim is almost certainly a fiction, and the court should try if possible to avoid fictions, especially where they result in substantial injustice.
+A trial of Mr Willers claim will of course take up further court time, but that is not a good reason for him to have to accept a loss which he puts at over 2m in legal expenses.
+Expenditure of court time is sometimes the public price of justice.
+If Langstones action against Mr Willers had gone to a full trial, and if at the end the judge had refused an application for indemnity costs because he judged that the claim had not been conducted improperly, then to attempt to secure a more favourable costs outcome by bringing an action for malicious prosecution would itself have been objectionable as an abuse of the process of the court, because it would have amounted to a collateral attack on the judges decision.
+But those are not the circumstances and I do not regard Mr Willers claim to recover his excess costs as an abuse of process.
+Conclusion
+For these reasons, which largely replicate the judgments of the majority in Crawford, I would allow the appeal and hold that the entirety of Mr Willers claim should be permitted to go to trial.
+LORD CLARKE: (agrees with Lord Toulson)
+Introduction
+The principal issue in this appeal is whether the tort of malicious prosecution includes the prosecution of civil proceedings.
+I would firmly answer that question in the affirmative.
+Lord Toulson and others have set out the facts and the issues in the light of the conflicting approaches of the House of Lords in Gregory v Portsmouth City Council [2000] 1 AC 419 and the Privy Council in Crawford Adjusters (Cayman) Ltd v Sagicor General Insurance (Cayman) Ltd [2014] AC 366.
+I am content to adopt the facts as stated by Lord Toulson at paras 3 to 5 and his analyses of Gregory at paras 6 to 8 and of Sagicor at paras 9 to 15 respectively.
+Lord Toulsons historical analysis
+Lord Toulsons analysis of the cases he refers to at paras 16 to 41 is by no means conclusive but I agree with him when he says at the end of para 25 that Grainger v Hill (1838) 4 Bing (NC) 212 does at any rate illustrate the willingness of the court to grant a remedy in what it regarded as novel circumstances, where the plaintiff had suffered provable loss as a result of civil proceedings brought against him maliciously and without any proper justification.
+Moreover it seems to me to be of some note that, as Lord Toulson says at paras 26 and 27, having briefly set out the facts of De Medina v Grove (1847) 10 QB 172 and Churchill v Siggers (1854) 3 E & B 929, the judges in each case adopted a common starting point.
+See in particular the quotations in Lord Toulsons para 27, where he sets out a quote from De Medina v Grove in which Wilde CJ (with whom Maule J, Cresswell J, Williams J, Parke B and Rolfe B agreed) began his judgment by stating: The law allows every person to employ its process for the purpose of trying his rights, without subjecting him to any liability, unless he acts maliciously and without probable cause.
+Similarly in Churchill v Siggers (1854) 3 E & B 929 Lord Campbell CJ, delivering the judgment of the court, including Erle J and Crompton J, began thus: To put into force the process of the law maliciously and without any reasonable or probable cause is wrongful; and, if thereby another is prejudiced in property or person, there is that conjunction of injury and loss which is the foundation of an action on the case.
+I agree with Lord Toulson (in his para 29) that there is no good reason for limiting the breadth of that proposition: see his paras 30 to 32.
+I also agree with his analysis of the Quartz Hill case at his paras 33 to 38 and with his analysis of the Berry v British Transport Commission case at his paras 39 to 42.
+That analysis appears to me to provide at least some support for the proposition stated by Danckwerts LJ in the Court of Appeal [1962] 1 QB 306 in which at p 334 he repeated Diplock Js obiter dictum at first instance that the action for malicious prosecution lies for wrongful and malicious civil as well as criminal proceedings.
+In all the circumstances I agree with Lord Toulsons conclusion at his para 42 that the courts have fashioned the tort of malicious prosecution to do justice in various situations in which a person has suffered injury in consequence of the malicious use of legal process without any reasonable basis.
+As he puts it, the court has to decide whether the tort should now apply to the malicious and groundless prosecution of a civil claim causing damage of the kinds alleged in the instant case.
+Discussion
+I have reached the clear conclusion, in agreement with the majority in Crawford, and in particular with the leading judgment given by Lord Wilson, that this court should conclude that there is a tort of malicious prosecution of civil claims.
+I recognise that there is scope for argument but, in my opinion, Lord Toulsons analysis shows that there is a good deal of support for such a tort.
+In this regard I am not persuaded that the cases show that, in so far as such a tort has been recognised, it has been limited to ex parte applications to secure a claim.
+In particular it does not seem to me that the jurisprudence on the arrest of ships is limited in that way.
+Claims for damages for wrongful arrest of a ship are not limited to claims for security obtained on an ex parte basis.
+They are claims in tort for wrongful arrest in which, if the claimant is successful he or it will obtain damages calculated in accordance with the principles of the common law.
+A person who arrests a ship does not have to provide security to the defendant in respect of any loss which he might incur.
+It is thus not helpful (as I see it) to note that it is now commonplace for claimants to be required to give undertakings as a condition of obtaining a freezing order.
+I recognise that there are those who favour the introduction of such an approach in the case of the arrest of ships; see for example Sir Bernard Eder in a lecture given on 12 December 1996 under the auspices of the London Shipping Law Centre entitled Wrongful Arrest of Ships and see further the articles referred to in paras 82 84 below.
+However, so far as I am aware, no such approach has been adopted in any decided case.
+Much of the learning in this area derives from the decision of the Privy Council in The Evangelismos (1858) Swa 378, 12 Moore PC 352, where the judgment of the Board was given by the Rt Hon T Pemberton Leigh, where he said at pp 359 360: Their Lordships think that there is no reason for distinguishing this case, or giving damages.
+Undoubtedly there may be cases in which there is either mala fides or that crassa negligentia, which implies malice, which would justify a Court of Admiralty giving damages, as in an action brought at Common law damages may be obtained.
+In the Court of Admiralty the proceedings are, however, more convenient, because in the action in which the main action is disposed of, damages may be awarded.
+The real question in this case, following the principles laid down with regard to actions of this description, comes to this: is there or is there not, reason to say, that the action was so unwarrantably brought, or brought with so little colour, or so little foundation, that it rather implies malice on the part of the plaintiff, or that gross negligence which is equivalent to it? The test was thus malice or crassa negligentia, defined as that crassa negligentia which implies malice.
+That decision was preceded by a number of earlier cases to much the same effect including The Orion (1852) 12 Moo 356, The Glasgow (1855) Swa 145, The Nautilus (1856) Swa 105, and The Gloria de Maria (1856) Swab 106.
+Moreover the principle in The Evangelismos was applied consistently through the late 1800s, usually by Dr Lushington: see The Active (1862) 5 LT (NS) 773, The Eleonore (1863) Br & L 185, The Volant (1864) Br & L 321; 167 ER 385 and The Cathcart (1867) LR 1 A&E 314, The Collingrove, The Numida (1885) 10 PD 158 and The Keroula (1886) 11 PD 92.
+common law actions for malicious prosecution.
+He said: In The Kate (1864) Br & L 218, Dr Lushington drew an express analogy with The defendants are not in my opinion entitled to damages, because the circumstances of the case do not shew on the part of the plaintiffs any mala fides or crassa negligentia, without which, according to The Evangelismos unsuccessful plaintiffs are not to be mulcted in damages.
+The principles in The Evangelismos were further expressly followed by the Privy Council in The Strathnaver (1875) 1 App Cas 58.
+The position was summarised in the well known case of The Walter D Wallet, [1893] P 202, where Sir Francis Jeune P put the principles thus at pp 205 206: No precedent, as far as I know, can be found in the books of an action at common law for the malicious arrest of a ship by means of Admiralty process.
+But it appears to me that the onus lies on those who dispute the right to bring such an action of producing authority against it.
+As Lord Campbell said in Churchill v Siggers , To put into force the process of law maliciously and without any reasonable or probable cause is wrongful; and, if thereby another is prejudiced in property or person, there is that conjunction of injury and loss which is the foundation of an action on the case.
+Why is the process of law in Admiralty proceedings to be excepted from this principle? It was long ago held that that an action on the case would lie for malicious prosecution, ending in imprisonment under the writ de excommunicato capiendo in the spiritual court: Hocking v Matthews (1670) 1 Ventris 86.
+It can, therefore, hardly be denied that it would have lain for malicious arrest of a person by Admiralty process in the days when Admiralty suits so commenced, just as for malicious arrest on mesne process at common law.
+But if for arrest of a person by Admiralty process, why not for arrest of a person's property? I can imagine no answer, and the language of the reasons of the Privy Council in the case of The Evangelismos , quoted with approval in the later case of The Strathnaver appears to me to treat the existence of such an action at common law as indisputable.
+The words to which I refer were employed by their lordships in speaking of the arrest of a ship in a salvage suit.
+Their lordships say (at p 67), Undoubtedly there may be cases in which there is either mala fides, or that crassa negligentia which implies malice, which would justify a Court of Admiralty giving damages, as in an action brought at common law, damages may be obtained.
+In the Court of Admiralty the proceedings are, however, more convenient, because, in the action in which the main question is disposed of, damages may be awarded.
+It is perhaps noteworthy that, at any rate as I read it, The Walter D Wallet was an action brought at common law, although the President held that the relevant principles were the same as had been applicable in the Court of Admiralty.
+He said at p 208: Still, the action of the defendants was, I think, clearly in common law phrase, without reasonable or probable cause; or, in equivalent Admiralty language, the result of crassa negligentia, and in a sufficient sense mala fides, and the plaintiffs ship was in fact seized.
+A little earlier, at p 207 the President said: No doubt in an action on the case for commencing or prosecuting an action, civil or criminal, maliciously and without reasonable or probable cause, damage must be shown: Cotterell v Jones.
+Cotterell v Jones is reported at (1851) 11 CB 713.
+It was not necessary to decide whether an action would lie at all because it was held that, if it did, damage must be proved.
+Although a majority of the judges left the point open, Williams J plainly thought that, if damage was proved, such an action would lie: see p 730.
+The President was of the same view in The Walter D Wallet.
+See also Mitchell v Jenkins (1833) 5 B & Ad 588.
+There has been little analysis in England and Wales of the principles governing wrongful arrest since The Walter D Wallet.
+The courts have essentially applied the principles in The Evangelismos since then.
+See, comparatively recently, The Kommunar (No 3) [1997] 1 Lloyds Rep 22, per Colman J at p 30 and the decision of the Court of Appeal in Gulf Azov Shipping Co Ltd v Idisi [2001] 1 Lloyds Rep 727.
+I note in passing that in The Maule [1995] 2 LRC 192 the Court of Appeal in Hong Kong applied the same principles by reference to the same cases.
+Moreover it is interesting in the present context to see that Bokhary JA said at p 195, under the heading The analogy with malicious prosecution that [t]he analogy between the tort of malicious prosecution and claims such as the present is well established.
+I should add that the court does not have a discretion as to whether to permit the arrest of a vessel.
+It was held by the Court of Appeal in The Varna [1993] 2 Lloyds Rep 253 that, provided the property was within the scope of an action in rem, and provided that there had been procedural compliance with the rules, the plaintiff was entitled to arrest the vessel.
+The specific issue related to the question whether there was a duty of full and frank disclosure.
+The court held that after a change in the RSC in 1986, there was no such duty.
+Before 1986 there was such a duty but, as I see it, there was a right to arrest subject to that duty.
+Thus in the context of the arrest of ships the courts have recognised a claim for what is in essence malicious prosecution of a civil action by arresting a ship in circumstances where the ingredients of the tort are either mala fides, or that crassa negligentia which implies malice.
+Moreover the above passage shows that damages were recoverable both in the Admiralty Court and in the courts of common law, where the principles were the same and where the action was on the case.
+To my mind these principles cannot be disregarded on the basis that they were applied only in some form of interlocutory process.
+They appear to me to support the historical analysis identified by Lord Toulson.
+Moreover they show that there are some torts which require proof of malice or something akin to it.
+There are two other examples which seem to me to support this approach.
+They are misfeasance in public office and malicious prosecution of a criminal process.
+I first came across misfeasance in public office in 1995 when I was asked, at first instance, to identify the ingredients of the tort in Three Rivers District Council v Governor and Company of the Bank of England [1996] 3 All ER 558.
+However the case subsequently went twice to the House of Lords, reported at [2003] 2 AC 1.
+On the first occasion the House considered the ingredients of the tort.
+They were identified by Lord Steyn at pp 191 196.
+His third ingredient focused on two alternative states of mind on the part of the defendant.
+The first was targeted malice.
+The second (at p 191E) was where a public officer acts knowing that he has no power to do the act complained of and that the act will probably injure the plaintiff.
+It involves bad faith inasmuch as the public officer does not have an honest belief that his act is lawful.
+That test seems to me to be close to the test of malice referred to in the wrongful arrest cases referred to above.
+It shows that the torts which require malice or something like it are not uncommon.
+There is in my opinion a close affinity between the tort of malicious prosecution of a crime and the tort of malicious prosecution of a civil action.
+The ingredients are essentially the same, namely malice or, in the old language, crassa negligentia which implies malice.
+I agree with Lord Toulsons approach to malice in his paras 52 to 56.
+In addition, as Lord Toulson explains in para 54, by reference to Lord Devlins opinion in Glinski v McIver [1962] AC 726 at 765, it is commonplace that in order to succeed in an action for malicious prosecution the plaintiff must prove both that the defendant was activated by malice and that he had no reasonable and probable cause for prosecuting.
+There is some scope for argument as to whether that is the same test as crassa negligentia in a claim based on wrongful arrest.
+However, this was not discussed in the course of the argument in this appeal and is not relevant to the issue for decision.
+Equally I should note in passing that there has been some discussion, both in academic articles here and elsewhere and in judgments in common law jurisdictions, on the question whether a less stringent test should be introduced in a claim for damages for wrongful arrest.
+The articles include, in addition to the article referred to in para 68 above, the following.
+First there are three articles in volume 38 of the Tulane Maritime Law Journal Winter 2013, No 1, at pp 115 145: the first by Sir Bernard Eder entitled Time for a Change, the second by Martin Davies by way of reply to Sir Bernard and the third a rejoinder by Sir Bernard.
+The second is by Dr Aleka Sheppard in the third edition of her Modern Maritime Law, 2013 at section 2.4 under the heading Wrongful Arrest of Ships.
+The third article is by Michael Woodford in (2005) 19 MLAANZ 115 which sets out the position in Australia and discusses many of the cases including those referred to above.
+As to decided cases, there have been some Singapore cases in recent years which discuss the same cases and, for the most part follow the English cases.
+They include the decision of Selvam JC in The Ohm Mariana, Ex p Peony [1992] 1 SLR(R) 556 and The Kiku Pacific [1999] SGCA 96, in which the Court of Appeal, endorsed the test of mala fides and crassa negligentia implying malice rather than the test of absence of reasonable and probable cause.
+That decision was followed by the Singaporean High Court in The Inai Selasih (Ex p Geopotes X) [2005] 4 SLR 1.
+Subsequently the same point was considered in some detail by the Court of Appeal in The Vasily Golovnin [2008] 4 SLR (R) 994, especially at paras 118 134, where it noted that the test was widespread in the Commonwealth, including Canada and New Zealand: see paras 132 133.
+Rajah JA, delivering the judgment of the court, concluded as follows: 134.
+We would agree with the views of both Iacobucci J [in the Canadian Supreme Court] and Giles J [in the High Court in New Zealand] to the extent that the Evangelismos test is long standing, and should not be departed from lightly, without good reasons and due consideration.
+However, it is always open to this court to depart from this judicially created test if the day comes when it no longer serves any relevant purpose.
+Having examined the genesis of the Evangelismos test and its current application in Singapore, we shall for now leave this issue to be addressed more fully at a more appropriate juncture.
+We are prepared to reconsider the continuing relevance and applicability of the Evangelismos test when we have had the benefit of full argument from counsel as well as the submissions of other interested stakeholders in the maritime community in the form of Brandeis briefs.
+For the present appeal, as will be demonstrated shortly, the outcome reached by this court would nonetheless be the same whether the Evangelismos test or a less onerous test is applied.
+The court had earlier noted that relaxation of the test had in many cases been achieved by statute.
+It is not necessary to consider this further here because the issue does not arise.
+However, it is important to note that nobody has suggested that there should be no claim for damages for wrongful arrest, only that the test should be lower than the test of either mala fides, or that crassa negligentia which implies malice.
+In so far as the test for malicious prosecution identified in Glinski v McIver includes the requirement that the defendant had no reasonable and probable cause for prosecuting, there may be scope for argument as to precisely what is meant by that expression, but that is not the subject of this appeal.
+The question here is whether there is a tort of malicious prosecution of a civil claim.
+For my part I can see no sensible basis for accepting that the tort of malicious prosecution of a crime exists in English law, whereas the tort of malicious prosecution of a civil action does not.
+Not only are the ingredients the same, but it seems to me that, if a claimant is entitled to recover damages against a person who maliciously prosecutes him for an alleged crime, a claimant should also be entitled to recover damages against a person who maliciously brings civil proceedings against him.
+The latter class of case can easily cause a claimant very considerable losses.
+They will often be considerably greater than in a case of malicious prosecution of criminal proceedings.
+Some members of the court rely upon a number of factors which are said to point to a different conclusion.
+Lord Toulson has discussed those factors in his paras 44 to 51 under the headings of floodgates, deterrence, finality, duplication of remedies, inconsistency with the absence of a duty of care, witness immunity, limitation to the coercive power of the state and reciprocity.
+Largely for the reasons given by Lord Toulson I agree that those factors do not have sufficient weight to counter the conclusion that, like malicious prosecution of criminal proceedings, malicious prosecution of civil proceedings is a tort.
+The only point I would make by way of postscript in relation to the factors discussed by Lord Toulson is that it is to my mind irrelevant that no duty of care is owed because the sole question is whether the tort of malicious prosecution exists.
+In my opinion it does.
+Finally, I note that in Congentra AG v Sixteen Thirteen Marine SA (The Nicholas M) [2008] EWHC 1615 (Comm); [2009] 1 All ER (Comm) 479 Flaux J, albeit obiter, considered the question whether English law recognises a tort of wrongful attachment of property.
+It was argued that it does not based on a passage in the speech of Lord Steyn in Gregory at p 427, which was relied upon as support for the proposition that the tort of malicious prosecution is not generally available in respect of civil proceedings.
+Flaux J concluded that Lord Steyn was not laying down that proposition as of general application.
+He referred in particular to Lord Steyns speech at pp 432 433, where he said this: My Lords, it is not necessary for the disposal of the present appeal to express a view on the argument in favour of the extension of the tort to civil proceedings generally.
+It would, however, be unsatisfactory to leave this important issue in the air.
+I will, therefore, briefly state my conclusions on this aspect.
+There is a stronger case for an extension of the tort to civil legal proceeding than to disciplinary proceedings.
+Both criminal and civil legal proceedings are covered by the same immunity.
+And as I have explained with reference to the potential damage of publicity about a civil action alleging fraud, the traditional explanation namely that in the case of civil proceedings the poison and the antidote are presented simultaneously, is no longer plausible.
+Nevertheless, for essentially practical reasons I am not persuaded that the general extension of the tort to civil proceedings has been shown to be necessary if one takes into account the protection afforded by other related torts.
+I am tolerably confident that any manifest injustices arising from groundless and damaging civil proceedings are either already adequately protected under other torts or are capable of being addressed by any necessary and desirable extensions of other torts.
+Instead of embarking on a radical extension of the tort of malicious prosecution I would rely on the capacity of our tort law for pragmatic growth in response to true necessities demonstrated by experience.
+It is important to note that Lord Steyns conclusion was not based upon principle but upon what he called practical reasons.
+Flaux J concluded (at para 22), that Lord Steyn expressly recognised that there may be scope for incremental growth and extension of existing torts, including wrongful arrest.
+I agree.
+Indeed, I would go further and hold that the logical conclusion from the cases is that a person who suffers damage as a result of the malicious prosecution of a civil suit against him is entitled to recover that damage in just the same way as a person who suffers damage as a result of the malicious prosecution of criminal proceedings against him.
+Conclusion
+For these reasons and those given by Lord Toulson I would allow the appeal.
+LORD MANCE: (dissenting)
+Introduction
+This appeal revisits before nine Justices in the Supreme Court the question how far the tort of malicious prosecution does or should apply in relation to civil proceedings.
+The question received intense and helpful consideration in no less than five judgments given by the five members of the court sitting as Privy Counsellors in Crawford Adjusters (Cayman) Ltd v Sagicor General Insurance (Cayman) Ltd [2013] UKPC 17, [2014] AC 366 (Crawford v Sagicor).
+I would also pay tribute to the meticulous analysis of the issues in the first instance judgment of Miss Amanda Tipples QC in the present case.
+Much of the discussion in those judgments can be taken as read.
+The difficulty is that the Judicial Committee was split three to two in Crawford v Sagicor, taking different views both of the case law and of policy.
+That the Supreme Court must also engage closely with legal policy is I think clear.
+Viewed in isolation, the assumed facts of this case make it attractive to think that the appellant should have a legal remedy.
+But the wider implications require close consideration.
+We must beware of the risk that hard cases make bad law, and we are entitled to ask why, until the Privy Councils majority decision in Crawford v Sagicor, there has been an apparent dearth of authority in this jurisdiction for a claim such as the appellant wishes to pursue.
+Both sides attached significance to this last question.
+Mr John McDonnell QC for the appellant said at the outset that he accepted a fundamental difference between creating a remedy for the first time and recognising a remedy that had become over looked with time.
+He relied on a series of authorities in the 16th, 17th and 18th centuries for an underlying principle, encapsulated he submitted most clearly by Holt CJ in the late 17th century in Savile v Roberts 1 Ld Raym 374, 3 Salk 17, 3 Ld Raym 264, 1 Salk 13, 12 Mod 208, Carthew 416, 5 Mod 405.
+The principle was, he submitted, that malicious prosecution of an unfounded civil suit can give rise to liability for damage inflicted in respect of reputation, health, earnings and charges.
+This principle had, he submitted, been misunderstood and wrongly constrained during the 19th century, in particular by the Court of Appeal in Quartz Hill Consolidated Gold Mining Co v Eyre (1883) 11 QBD 674.
+Analysis of the case law
+McDonnell advocates is not justified: I have come to the conclusion that the reading of the authorities which Mr i) The 16th to 18th century authorities must be seen in the light of contemporary procedures governing civil proceedings.
+Plaintiffs at the relevant times could on an ex parte basis institute or cause an officer of the state to institute drastic measures affecting the intended defendants person, property or ability to trade.
+In that context, it was recognised that, once it had been established that the measures had been instituted or caused without any reasonable cause and maliciously, the defendant should have a remedy for what was effectively wrongful imprisonment, wrongful deprivation of goods or wrongful deprivation of the opportunity to trade.
+He could then recover any concomitant damage to person, reputation, business or pocket. ii) However, it was established that damage to a plaintiffs pocket did not in this connection include extra costs, over and above those recoverable inter partes in the original action. iii) The principle of the prior authorities was in the 1880s extended by analogy to enable the recovery of general damages to reputation arising from malicious pursuit of a winding up petition in respect of a company.
+But this extension was carefully limited, so as to exclude any general right to bring an action for malicious pursuit of a prior action. iv) good these propositions.
+I will in the following paragraphs examine the authorities to make
+Taking the cases prior to Savile v Roberts, in Bulwer v Smith (1583) 4 Leon 52, the defendant, by impersonating a deceased judgment creditor, took out against the judgment debtor successive writs, first a capias ad satisfaciendum whereby the debtor was outlawed and forfeited all his goods and then a capias utlagatum whereby he was arrested and imprisoned for two months.
+The error having been revealed, it was held that the judgment debtor was entitled to damages.
+In Waterer v Freeman (1617) Hobart 205, (1618) Hobart 266, the claim was that the defendant had wilfully and vexatiously taken out a second writ of fieri facias, thereby causing the sheriff to levy double execution on the plaintiffs goods.
+The court held the claim to be maintainable, once the double execution was established and provided that the suit (here the second execution) was utterly without ground of truth, and that certainly known to the person taking it.
+In Skinner v Gunton (1667) 2 Keb 473, (1668) 1 Saund 228(d), 2 Keb 475 and T Raym 176, (1671) 3 Keb 118, Gunton, maliciously and knowing that Skinner would not be able to find bail, issued an unfounded plaint for trespass allegedly causing loss of 300 against Skinner, causing the sheriff to arrest Skinner and imprison him for 20 days.
+Gunton was held liable for damages of 10.
+Finally, Daw v Swaine (or Swayne) (1668) 1 Sid 424, (1668) 2 Keble 546, (1669) 1 Mod 4, was another case of malicious issue of a plaint in a sum (variously put at 5,000 or 600), in the knowledge that it was not due and the defendant would not be able to afford bail and would suffer incarceration.
+In fact a much lesser sum was due.
+Skinner v Gunton was followed.
+All these cases involved imprisonment or at least seizure of goods.
+A case outside that ambit was Gray v Dight (1677) 2 Show KB 144 where the plaintiff, having given an account as churchwarden before the Ecclesiastical Court, was prosecuted a second time by the defendant, who went and told the Judge that he would not account, on which he [was] excommunicated.
+It was resolved the action though nothing ensued by an excommunication, and no capias, nor any express damage laid; for this court will consider of the consequences of an excommunication; and an action lies for a malicious prosecution, though the judges proceedings are erroneous, for that is not material in this case. lies, It may be inferred from this reasoning that the court was conscious that it was outside the normal area of malicious prosecution, where a capias led to arrest, but justified this because of the seriousness attaching to excommunication.
+In holding that judicial error in giving effect to the second action was no bar to the claim, the court was also anticipating much later decisions in Johnson v Emerson (1871) LR 6 Ex 329 and Quartz Hill Consolidated Gold Mining Co v Eyre (1883) 11 QBD 674: see below.
+Against this background I turn to Savile v Roberts.
+It was in fact a case of alleged malicious indictment (for taking part in a riot, by stopping a road by which the defendant used to carry his tithes).
+But both counsels submissions and the judgment also addressed malicious pursuit of civil proceedings.
+The Privy Council in Crawford Adjusters Ltd v Sagicor Insurance Ltd considered that the best encapsulation of the central decision in Savill v Roberts, which makes no distinction between criminal and civil proceedings, is to be collected from the report at 5 Mod 394, as follows: It is the malice that is the foundation of all actions of this nature, which incites men to make use of law for other purposes than those for which it was ordained.
+It is now clear that the report at 5 Mod 394 is of counsels submissions.
+The judgment of Holt CJ is covered by other reports, notably 1 Ld Raym 374, 1 Salkeld 13 and 12 Mod 208.
+From those reports, it is clear that Holt CJ, speaking for all three members of the court, drew distinctions between maliciously pursued criminal proceedings and maliciously pursued civil proceedings.
+Thus, addressing an objection that there was no more reason that an action should be maintainable in this case (ie for a malicious indictment) than where a civil action is sued without cause, for which no action will lie Holt CJ said (taking the report at 1 Ld Raym 374): There is a great difference between the suing of an action maliciously, and the indicting of a man maliciously.
+When a man sues an action, he claims a right to himself, or complains of an injury done to him; and if a man fancies he has a right, he may sue an action.
+He went on: 2.
+The common law has made provision, to hinder malicious and frivolous and vexatious suits, that every plaintiff should find pledges, who were amerced, if the claim was false; which judgment the court heretofore always gave, and then a writ issued to the coroners, and they affeered them according to the proportion of the vexation.
+See 8 Co 39 b FNB 76a.
+But that method became disused, and then to supply it, the statutes gave costs to the defendants.
+And though this practice of levying of amercements be disused, yet the court must judge according to the reason of the law, and not vary their judgments by accidents.
+But there was no amercement upon indictments, and the party had not any remedy to reimburse himself but by action. 2.
+If A. sues an action against B. for mere vexation, in some cases upon particular damage B. may have an action; but it is not enough to say that A. sued him falso et malitiose, but he must shew the matter of the grievance specially, so that it may appear to the court to be manifestly vexatious. 1 Sid 424, Daw v Swain, where the special cause was the holding to excessive bail.
+But if a stranger who is not concerned, excites A. to sue an action against B. B. may have an action against the stranger.
+FNB 98 n and 2 Inst 444.
+The report at 1 Salkeld 13 adds a further reference at the end to 3 Cro 378.
+That is the case of Robodham v Venleck, recognising a malicious assertion that a person had lied on his oath in court as involving an actionable slander.
+The citation of 2 Inst 444 in the context of a stranger exciting the pursuit of an action indicates that Holt CJ was referring to a statute of 13 Ed I Stat 1 (Westminster second) chapter 36 entitled A Distress taken upon a Suit commenced by others.
+This was enacted to deal with abuses of position by feudal courts.
+Its opening words were: Forasmuch as lords of courts, and others that keep courts, and stewards, intending to grieve their inferiors, where they have no lawful means so to do, procure others to move matters against them, and to put in surety and other pledges . (Holt CJ also referred to the statute expressly in a passage cited in para 103 below.) The remedy for such abuses was prescribed to be triple damages.
+This cause of action no longer exists, and no distinction was drawn in counsels submissions on the present appeal between the liability of a party maliciously suing and the liability of a third party knowingly procuring or assisting a party to sue maliciously.
+It seems right that the two should be assimilated, certainly in a case like the present where Mr Gubay is said to have been the alter ego of the company alleged to have pursued civil proceedings maliciously at his instance.
+In the report at 12 Mod 208, Holt CJ is reported as referring to both Daw v Swain and Skinner v Gunton, and as adding that: There is another case where an action of this nature will lie, and that is, where a stranger, who is not at all concerned, will excite another to bring an action, whereby he is grieved, an action lies against the exciter.
+There are other cases where this action is allowed; as Carlion v Mills 1 Cro 291, Norris v Palmer 2 Mod 51 and Ruddock v Sherman 1 Danv Abr 209: but though this action does lie, yet it is an action not to be favoured, and ought not to be maintained without rank and express malice and iniquity.
+Therefore, if there be no scandal or imprisonment, and ignoramus found [ie lack of basis for the original claim], no action lies, though the matter be false.
+Carlion v Mills and Ruddock v Sherman concerned malicious citations before ecclesiastical courts for respectively inconsistency and adultery, and Norris v Palmer extended the action on the case for malicious prosecution to an indictment for a common trespass in taking away one hundred bricks in respect of which the defendant was only acquitted by the jury at trial after he was compelled to spend great sums of money presumably on lawyers, not the jury.
+The judgment in Savile v Roberts focused on the nature of the injury which could found an action for malicious indictment.
+The report at 1 Ld Raym 374 records Holt CJ saying (at p 378) that the nature of the injury for which damages might be recoverable has been much unsettled in Westminster Hall, and therefore to set it at rest is at this time very necessary.
+And, 1.
+He said, that there are three sorts of damages, any of which would be sufficient ground to support this action. 1.
+The damage to a mans fame, as if the matter whereof he is accused be scandalous.
+But there is no scandal in the crime for which the plaintiff in the original action was indicted. 2.
+The second sort of damages, which would support such an action, are such as are done to the person; as where a man is put in danger to lose his life, or limb, or liberty, which has been always allowed a good foundation of such an action, as appears by the Statute de Conspiratoribus where the Parliament describes a conspirator, and the Statute of Westm 2, 13 Ed 1, st 1, c 12, which gives damages to the party falsely appealed, respectu habito ad imprisonamentum et arrestationem corporis, and also ad infamiam; but these kinds of damages are not ingredients in the present case 3.
+The third sort of damages, which will support such an action, is damage to a mans property, as where he is forced to expend his money in necessary charges, to acquit himself of the crime of which he is accused, which is the present charge.
+That a man in such case is put to expences is without doubt, which is an injury to his property; and if that injury is done to him maliciously, it is reasonable that he shall have an action to repair himself.
+It cannot be assumed that Holt CJ meant that the same approach applied in respect of an action for malicious pursuit of civil proceedings.
+In speaking of the third sort of damages, he expressly referred only to crime.
+In the same judgment he went on to make clear (at p 379) that one of the great differences between criminal and civil proceedings, which explained why a claim could lie for maliciously instituting the former when it did not lie for maliciously pursuing the latter, was that the law did not provide for costs in relation to the former, when it did in relation to the latter: see para 99 above.
+Further, and as will appear, later authority is almost unanimously to the effect that the costs position in relation to the malicious pursuit of civil proceedings is quite different from that in relation to criminal proceedings (see paras 107, 110, 111, 124 125 and 141 below).
+The report at 12 Mod 208 also refers to the three sorts of damage which Holt CJ identified: it is necessary to consider what are the true grounds and reasons of such actions as these; and it does appear, that there are three sorts of damages, any one of which is sufficient to support this action.
+First, damage to his fame, if the matter whereof he be accused be scandalous.
+Secondly, to his person, whereby he is imprisoned.
+Thirdly, to his property, whereby he is put to charges and expenses.
+A scandalous matter in the context of the first sort of damage meant a charge, an oral accusation of which would amount to slander per se (not the case at the time with a charge of riot).
+Later authority appears to have understood scandal as including any defamatory accusation a point that may require consideration in the context of the present case: see Berry v British Transport Commission [1961] 1 QB 149, pp 163 165, per Diplock J, discussing the effect of Rayson v South London Tramways Co [1893] 2 QB 304 and Wiffen v Bailey and Romford Urban District Council [1915] 1 KB 600.
+As to the second sort of damage, the report at 12 Mod 208 makes clear that the second sort of damage involved showing actual imprisonment, rather than a mere risk of loss of liberty: Berry v British Transport Commission [1961] 1 QB 149, 161.
+Two years after Savile v Roberts, Neal v Spencer (1700) 12 Mod 257 held that an action on the case for arresting without cause of action lies not, if it be not that he [the current plaintiff] was held to excessive bail.
+The nature of the damage recoverable in an action upon the case for malicious indictment was further considered in Jones v Givin (or Gwynn) (1713) Gilb Cas 185, (1712) 10 Mod 147 and 214 (a case where the plaintiff had been wrongly accused of exercising the trade of a badger of corn and grain).
+Holt CJ having died in 1710, his successor Parker CJ delivered a formidably erudite judgment paying tribute to the excellent argument of that great man in Savile v Roberts.
+Dismissing a submission that a claim for malicious indictment was no more actionable than certain (unspecified) claims for malicious prosecution of a civil action, Parker CJ said: But I choose to say there is a great difference between the two cases. (1) Because the demand of right or satisfaction is more favoured than the bringing to punishment.
+An action is to recover his right, or satisfaction for it, perhaps his subsistence.
+An indictment does himself no good, only punishes another, and there is a case which goes so far as to say, that to indict for a common trespass for which a civil action will lie, is malice apparent.
+Pas 30 Car 2, C B 2 Mod 306.
+Lord Chief Justice North not named.
+And it is observable, that in actions of conspiracy, in cases of appeals, the plaintiffs in appeals never were made defendants, but in case of judgments the prosecutors for the most part were. (2) Because if the action is false, the plaintiff is by law amerced, and the defendant to have costs.
+And therefore my Lord Chief Justice Holt, in his excellent argument in Savill and Roberts, Mich 10 W 3, where he fully states the difference between the two cases, said that in case for a malicious action the plaintiff must shew special matter which shews malice, for else an action, being the plaintiffs seeking and demanding advantage to himself, carrys in it, 1.
+A fair and honest cause, unless the recovery be utterly hopeless, and the suit without some other design, which therefore must be specially shewn.
+Parker CJ concluded that, applying the guidance given in Savile v Roberts regarding the sorts of recoverable damage, a man was just as much intitled to satisfaction as well for damages in his property through expence, as for damage in his fame through scandal, the species of the damage, whether the one or the other is the same, for they can make no difference now, whatsoever it might have done formerly.
+Again, that was said in the context of the claim for malicious indictment.
+Then in Chapman v Pickersgill (1762) 2 Wils KB 145, Lord Mansfield CJ considered whether an action would lie for falsely and maliciously petitioning the Lord Chancellor that the plaintiff owed the petitioner a debt of 200 and had committed an act of bankruptcy, whereupon the commission had been issued (the petitioner giving to the Lord Chancellor a bond for 200 to cover loss which the plaintiff might sustain if no such debt was proved) and the plaintiff had been declared bankrupt.
+The bankruptcy having been set aside, the petitioner, now defendant, objected, first, that a proceeding on a commission of bankruptcy was a proceeding in nature of a civil suit; and that no action of this sort was ever brought and, second, that the statutory remedy excluded any common law claim.
+Lord Mansfield, giving the judgment of the whole court, gave both objections short shrift.
+Of the first, he said: The general grounds of this action are, that the commission was falsely and maliciously sued out; that the plaintiff has been greatly damaged thereby, scandalized upon record, and put to great charges in obtaining a supersedeas to the commission.
+Here is falsehood and malice in the defendant, and great wrong and damage done to the plaintiff thereby.
+Now wherever there is an injury done to a man's property by a false and malicious prosecution, it is most reasonable he should have an action to As to the second objection, Lord Mansfield said: repair himself.
+See 5 Mod 407, 8 10 Mod 218 [ie Jones v Givin or Gwynn], 12 Mod 210.
+I take these to be two leading cases, and it is dangerous to alter the law.
+See also 12 Mod 273, 7 Rep Bulwers case [ie Bulwer v Smith], 1. 2 Leon 1 Roll Abr 101, 1 Ven 86, 1 Sid 464.
+But it is said, this action was never brought; and so it was said in Ashby and White.
+I wish never to hear this objection again.
+This action is for a tort: torts are infinitely various, not limited or confined, for there is nothing in nature but may be an instrument of mischief, and this of suing out a commission of bankruptcy falsely and maliciously, is of the most injurious consequence in a trading country. we are all of opinion, that in this case the plaintiff would have been entitled to this remedy by action at common law, if this Act had never been made, and that the statute being in the affirmative, hath not taken away the remedy at law. but the most decisive answer is, that this statute remedy is a most inadequate and uncertain remedy; for though there be the most outrageous malice and perjury, and the party injured suffer to the amount of ten or twenty thousand pounds, yet the Chancellor has no power to give him more than the penalty of 200.
+Besides, the method of applying to the Chancellor is more tedious, expensive, and inconvenient than this common law remedy; and this case, in its nature, is more properly the province of a jury than of any judge whatever.
+As the first passage shows, the damages awarded had been put in broad terms covering, according to Lord Mansfield, both great damage due to being scandalised upon record and great charges in obtaining a supersedeas to the commission.
+Lord Mansfield in the second passage was clearly focusing on the former head of damages and on the evident inadequacy of a bond limited to 200 to cover all loss which the victim of a malicious civil suit might suffer up to five figure amounts.
+He was not addressing the recoverability of extra costs in circumstances where the original court had or has a discretion to award appropriate compensatory costs.
+In Goslin v Wilcox (1766) 2 Wils K B 303, the plaintiff, a market trader, owed some 5, but the creditor maliciously issued a writ of capias ad respondendum in the Bridgwater Borough court which he knew to have no jurisdiction.
+On that basis, he caused the plaintiff while trading at his stall in Bridgwater Fair to be arrested by the bailiffs on pain of providing 5 bail, so that the plaintiff was not only put to great charges in freeing himself, but was also during his imprisonment hindered from trading and lost his whole profit at Bridgwater put at some 50.
+The Common Pleas held that, although Courts will be cautious how they discourage men from suing, the action lay (p 307).
+Lord Camden CJ, after initial hesitation, was evidently satisfied that the case was sufficiently analogous to those where nothing was due, or where the arrest was for much more than was due, where it had been held that the costs in the cause are not a sufficient satisfaction for imprisoning a man unjustly (p 305).
+In Purton v Honnor (1798) 1 Bos & Pul 205, the claim was for damages for vexatious ejectment.
+On the court expressing themselves clearly of opinion on the authority of Savile v Roberts 1 Salk 13, that such an action was not maintainable, counsel for the plaintiff declined to argue the point.
+The report at 1 Salk 13 is very brief and confined to the proposition that it is not sufficient that the plaintiff prove he was innocent, but he must prove express malice in the defendant.
+It therefore appears probable that the defect in the claim in Purton v Honnor was simply that there was no plea of malice.
+On that basis, the case is presently irrelevant.
+Sinclair v Eldred (1811) 4 Taunt 7 concerned the arrest of the plaintiff by a bill of Middlesex, the device whereby civil proceedings could be commenced in the Court of Kings Bench (rather than the Common Pleas) under the fiction that a trespass had been committed in the County of Middlesex.
+The bill was indorsed for bail for 10, which the plaintiffs attorney undertook whereupon the plaintiff was released.
+The defendant allowed the claim to lapse.
+The plaintiff had by then incurred costs of 13 guineas, but was only allowed 4 4s 6d, leaving him out of pocket for 9, which he claimed to recover.
+The claim failed, for want of evidence of malice, but Mansfield CJ said during submissions (p 9): The plaintiff has recovered already in the shape of taxed costs all the costs which the law allows, and it cannot be that an action may be sustained for the surplus.
+And in his judgment (pp 9 10) he added: This is certainly a new species of action, I mean considering it as an action to recover the extra costs, for there was no proof of any inconvenience of any sort arising to the plaintiff, except in the payment of more costs than the law allows him, and which therefore he ought not to recover.
+Cotterell v Jones (1851) 11 CB 713 involved a claim against two third parties for maliciously commencing an unfounded action against the plaintiff using the name of Osborne and knowing him to be a pauper.
+The action was non suited without, so far as appeared, any order for costs being made against Osborne who was insolvent.
+During the elaborate argument, the court evinced scepticism about the proposition that injury to property in putting a person to needless expense could ground a claim for malicious pursuit of a civil claim.
+After counsel had made extensive reference to Savile v Roberts and other authority, Jervis CJ said (p 718): You will find that doctrine very much qualified, as you approach more modern times, and Williams J said (p 723): I doubt whether we can take notice of the alleged insolvency of the nominal plaintiff in the former action: the costs must be assumed to be a full compensation for the vexation.
+Ultimately, the claim failed because no judgment for costs had, for whatever reason, been obtained against Osborne, so that his insolvency was not shown to have been causative of any inability to recover costs.
+But the court endorsed the proposition, which was evidently common ground, that in the ordinary case costs not recoverable in the action cannot be recovered in an action for malicious pursuit of the action.
+As Jervis CJ said: It is conceded also, that, if the party so wrongfully put forward as plaintiff in the former action had been a person in solvent circumstances, this action could not have been maintained, inasmuch as the award of costs to the defendant (the now plaintiff) upon the failure of that action, would, in contemplation of law, have been a full compensation to him for the unjust vexation, and consequently he would have sustained no damage.
+To like effect, Maule J said: It is conceded that this action could not be maintained in respect of extra costs, that is, costs ultra the costs given by the statute (23 H 8, chapter 15, section 1) to a successful defendant.
+Williams and Talfourd JJ started their judgments by saying that they were of the same opinion.
+Talfourd J also said: It appears from the whole current of authorities, that an action of this description, if maintainable at all, is only maintainable in respect of legal damage actually sustained; and that the mere expenditure of money by the plaintiff in the defence of the action brought against him does not constitute such legal damage; but that the only measure of damage is, the costs ascertained by the usual course of law.
+There being no averment in this declaration that any such costs were incurred or awarded, no legal ground is disclosed for the maintenance of the action.
+Churchill v Siggers (1854) 3 E & B 929 and Gilding v Eyre (1861) 10 CB NS 592 were both successful claims for maliciously issuing writs of capias for sums larger than any remaining due, with the result that the plaintiff had been wrongly imprisoned for periods and had also incurred expenses.
+Sophia de Medina v Grove and Weymouth (1846) 1 QB 152, 166 170 and (1847) 1 QB 172 was a claim for wrongfully issuing a writ of fi fa to enforce a judgment allegedly obtained for more than remained due, leading to the plaintiffs imprisonment until he provided securities for the full judgment sum.
+The claim failed in the absence of any plea that the claim was brought without probable cause, as well as maliciously.
+The plaintiffs remedy in such circumstances was to apply to set aside the judgment.
+The case adds nothing to the wisdom of other case law.
+In Johnson v Emerson (1871) LR 6 Ex 329 an order that the plaintiff put up a bond within seven days was stayed, but the allegation was that the petitioner, being aware of this, nonetheless maliciously petitioned ex parte for the plaintiffs bankruptcy for failure to put up such a bond and also ex parte obtained the appointment of a receiver, leading to the plaintiff being adjudicated bankrupt, an adjudication later set aside as having been erroneous.
+The court split equally on the factual question of awareness and maliciousness, with the result that the verdict below in favour of the plaintiff stood.
+Cleasby B, who with Kelly CB upheld the claim, distinguished a petition for adjudication [from] an ordinary commencement of an action, which leaves both parties in the same position, describing it as a most important ex parte proceeding against a man, which may be likened to an application for a capias to hold to bail The one makes a mans property liable to be taken, and the other makes his person liable to be taken (p 340).
+On the other side, Martin B, who would have set aside the verdict in favour of the plaintiff, questioned whether an action for malicious pursuit of civil proceedings could ever lie where a petition would, procedurally, lead in due course to an inter partes adjudication.
+Martin Bs view was not however followed by the Court of Appeal in Quartz Hill Consolidated Gold Mining Co v Eyre (1883) 11 QBD 674.
+Quartz Hill
+Quartz Hill concerned a claim for malicious presentation and advertisement of a winding up petition, which was subsequently dismissed.
+The Court of Appeal consisted of the powerful combination of Brett MR and Bowen LJ.
+They addressed two main points, which they saw as related.
+The first was whether an action would lie for falsely and maliciously presenting a petition to wind up a company, while the second related to the nature of any damage which might be recoverable in such an action: see p 688, per Bowen LJ.
+As to the first, both members of the court treated it as axiomatic that no action lay for maliciously pursuing ordinary civil proceedings.
+The question was whether a winding up petition could be brought by analogy within the group of ex parte procedural measures involving damage to person, property or reputation which, on past authority, could give rise to such an action.
+As to the second, both members of the court also treated it as axiomatic that extra costs, over and above those recoverable in the original civil proceedings, could not be recovered in a later action for maliciously pursuing those proceedings.
+In my opinion, the Court of Appeal was on all these points correct in its analysis of past authority.
+Taking the first point, a petition to wind up a company could have no immediate effect of any person or property as such.
+The authorities on arrest of the person and seizure or dispossession of goods were not therefore in point.
+But the petition to wind up was nonetheless an ex parte procedure which directly affected the companys trading reputation.
+It was in Brett MRs words (p 685) more like a bankruptcy petition than an action charging fraud, and the very touchstone of this point is that the petition to wind up is by force of law made public before the company can defend itself against the imputations made against it; for the petitioner is bound to publicly advertise the petition seven days before it
+is to be heard and adjudicated upon
+Both members of the court gave consideration to the distinction between what they saw as a general inability to found an action upon the malicious pursuit of a prior civil action and the case before them.
+In a much commented passage, Brett MR suggested (pp 684 685) that the case before them was not like an action charging a merchant with fraud, where the evil done by bringing the action is remedied at the same time that the mischief is published, namely at the trial.
+That idea was picked up by Buckley LJ in Wiffen v Bailey and Romford Urban District Council [1915] 1 KB 600, 607, who said that the exception of civil proceedings so far as they are excepted, depends not upon any essential difference between civil and criminal proceedings, but upon the fact that in civil proceedings the poison and the antidote are presented simultaneously.
+Brett MRs and Buckley LJs aphorisms have been well criticised, on the basis that, if they were ever justified, the transparency and publicity surrounding modern day civil actions, at least in common law countries, make them quite unrealistic.
+This criticism was accepted by the Supreme Court of Victoria in Little v Law Institute of Victoria (No 3) [1990] VR 257, where Kaye and Beach JJ held (in the context of allegedly malicious pursuit of civil proceedings alleging that the plaintiff had been practising as a solicitor without being qualified to do so) that there was no longer justification for confining to a bankruptcy petition and an application to wind up a company the remedy for malicious abuse of civil proceedings where the damages claimed is to the plaintiffs reputation.
+The criticism was also accepted as valid by the House of Lords in Gregory v Portsmouth City Council [2000] 1 AC 419, 428A.
+But the House of Lords went on, rightly, to indicate (p 428B) that acceptance of the criticism leaves open for consideration whether the restriction upon the availability of the tort in respect of civil proceedings may be justified for other reasons.
+In this regard, Bowen LJs judgment is in my opinion of interest for its fuller treatment of the point.
+He said (p 688): I start with this, that at the present day the bringing of an action under our present rules of procedure, and with the consequences attaching under our present law, although the action is brought falsely and maliciously and without reasonable or probable cause, and whatever may be the allegations contained in the pleadings, will not furnish a ground for a subsequent complaint by the person who has been sued, nor support an action on his part for maliciously bringing the first action.
+To speak broadly, and without travelling into every corner of the law, whenever a man complains before a court of justice of the false and malicious legal proceedings of another, his complaint, in order to give a good and substantial cause of action, must shew that the false and malicious legal proceedings have been accompanied by damage express or implied.
+After examining the three sorts of damage contemplated in Savile v Roberts, Bowen LJ went on (pp 690 691): To apply this test to any action that can be conceived under our present mode of procedure and under our present law, it seems to me that no mere bringing of an action, although it is brought maliciously and without reasonable or probable cause, will give rise to an action for malicious prosecution.
+In no action, at all events in none of the ordinary kind, not even in those based upon fraud where there are scandalous allegations in the pleadings, is damage to a mans fair fame the necessary and natural consequence of bringing the action.
+Incidentally matters connected with the action, such as the publication of the proceedings in the action, may do a man an injury; but the bringing of the action is of itself no injury to him.
+When the action is tried in public, his fair fame will be cleared, if it deserves to be cleared: if the action is not tried, his fair fame cannot be assailed in any way by the bringing of the action.
+In contrast, certain indictments, those involving scandal to reputation or possible loss of liberty, were by their nature considered to affect a persons fair fame and to be actionable, if malicious, and the presentation of a bankruptcy petition fell into the same class: In the past, when a traders property was touched by making him a bankrupt in the first instance, and he was left to get rid of the misfortune as best he could, of course he suffered a direct injury as to his property.
+But a traders credit seems to me to be as valuable as his property, and the present proceedings in bankruptcy, although they are dissimilar to proceedings in bankruptcy under former Acts, resemble them in this, that they strike home at a man's credit, and therefore I think the view of those judges correct who held, in Johnson v Emerson, that the false and malicious presentation, without reasonable and probable cause, of a bankruptcy petition against a trader, under the Bankruptcy.
+Act, 1869, gave rise to an action for malicious prosecution.
+On the general inability to found an action upon the malicious pursuit of a previous civil action, Bowen LJ also said this, vividly and in my view wisely (at pp 690 691): I do not say that if one travels into the past and looks through the cases cited to us, one will not find scattered observations and even scattered cases which seem to shew that in other days, under other systems of procedure and law, in which the consequences of actions were different from those of the present day, it was supposed that there might be some kind of action which, if it were brought maliciously and unreasonably, might subsequently give rise to an action for malicious prosecution.
+It is unnecessary to say that there could not be an action of that kind in the past, and it is unnecessary to say that there may not be such an action in the future, although it cannot be found at the present day.
+The counsel for the plaintiff company have argued this case with great ability; but they cannot point to a single instance since Westminster Hall began to be the seat of justice in which an ordinary action similar to the actions of the present day, has been considered to justify a subsequent action on the ground that it was brought maliciously and without reasonable and probable cause.
+And although every judge of the present day will be swift to do justice and slow to allow himself as to matters of justice to be encumbered with either precedents or technicalities, still every wise judge who sits to administer justice must feel the greatest respect for the wisdom of the past, and the wisdom of the past presents us with no decisive authority for the broad proposition in its entirety which the counsel for the plaintiff company have put forward.
+But although an action does not give rise to an action for malicious prosecution, inasmuch as it does not necessarily or naturally involve damage, there are legal proceedings which
+do necessarily and naturally involve that damage
+These passages highlight the point that civil actions cannot be said to have the same inevitable or necessary effect on trading or any other reputation as a winding up petition.
+They may be the occasion for serious allegations, which may be reported, but that is a feature of much civil litigation, not merely as a result of the way in which it is initiated and pursued, but as a result of evidence which may be given by independent factual and expert witnesses as well as parties.
+Civil actions are complex and developing phenomena, not infrequently exciting the interest of the press and public and leading ultimately to a resolution, by judgment, earlier settlement or sometimes withdrawal.
+This is so with whatever motive or prospect they may be pursued.
+The basic point which the Court of Appeal in Quartz Hill was concerned to underline was that an action to investigate the maliciousness or otherwise of a full blown prior civil action, which had been fought and resolved inter partes, was and is a quite different proposition to an action for malicious pursuit of an ex parte step taken maliciously with immediate effect on the other partys person, property or business.
+That distinction is still in my view a valid one.
+A judge of today would also be as sensible as a judge of Bowen LJs time to heed the fact that the wisdom of the past presents no decisive authority for the broad contrary proposition which counsel for Mr Willers puts forward.
+The second proposition for which Quartz Hill stands is that extra costs over and above those awarded in a prior civil action cannot on any view ground or be recovered in an action for malicious pursuit of that prior action.
+That proposition is supported by Sinclair v Eldred (1811), as well as by Johnson v Emerson (1871) to which the Court of Appeal referred.
+Although such extra costs might be quite reasonable as between solicitor and client, they were as between the parties to be regarded as the only costs which were necessary or were caused by or properly recoverable in respect of the prior litigation: per Brett MR and Bowen LJ at pp 682 and 690.
+There is an obvious policy imperative behind this rule.
+A court awarding costs in a civil action is entitled to have regard to all relevant matters, including the absence of any prospects of success and the state of mind in which it was pursued, when deciding what costs, and whether on an indemnity or standard basis; should be recoverable.
+To permit litigation about these issues after the close of an unsuccessful action would be to invite or risk re litigation of issues which were or could have been decided in the first action.
+And in so far as the costs assessed by a costs judge are not likely to or may not enable full recovery of all costs incurred, the reason is likely to be that the costs incurred were not in the eyes of the law necessary, reasonable or proportionate in the context of the issues.
+To allow a claim for their recovery in a separate action for malicious pursuit of the original action would in each of these cases run contrary to the general policy of the law regarding costs.
+Authority since Quartz Hill
+Pursuing the line of relevant authority, in Wiffen v Bailey and Romford Urban District Council [1915] 1 KB 600 the Court of Appeal held (albeit applying a view of scandal not necessarily coincident with that which Holt CJ intended in Savile v Roberts: see para 103 above) that non compliance with a Public Health Act 1875 notice did not necessarily and naturally involve damage to the defendants fair fame.
+Buckley LJ noted Bowen LJ as indicating in Quartz Hill that it is in very few cases that an action for malicious prosecution will lie where the matter is one of civil proceedings (p 606).
+It was accepted by counsel, and endorsed by Buckley and Phillimore LJJ (pp 607 and 610), that extra costs over and above the five guineas allowable by the Justices were not legal damages within the third head of damage recognised in Savile v Roberts.
+Over the years since Quartz Hill, there has been a miscellany of further instances in which a remedy has been recognised in respect of procedural measures taken against the person or property.
+The malicious arrest of a vessel was recognised as actionable in The Walter D Wallet [1893] P 202 and Varawa v Howard Smith Co Ltd (1911) 13 CLR 35, where Quartz Hill was cited with approval (by OConnor J at p 72); the case actually concerned the issue of a writ of capias for breach of an alleged contract for sale of a ship, pursuant to which writ the plaintiff had been arrested, imprisoned and held to bail.
+There is nothing in The Walter D Wallet or the other Admiralty arrest cases which Lord Clarke cites in his judgment contrary to the general principles and distinctions identified in Quartz Hill.
+The cases he cites do no more than illustrate that the malicious initiation of civil proceedings by wrongful arrest of a vessel can give rise to liability in similar fashion to the malicious institution of civil proceedings by wrongful arrest of a person.
+The malicious obtaining of a bench warrant, although supported by false testimony from the witness box, was likewise held actionable in Roy v Prior [1971] AC 470, where the analogy with malicious arrest on a criminal charge was drawn.
+Maliciously setting in train execution against property was accepted as actionable in Clissold v Cratchley [1910] 2 KB 244.
+Maliciously procuring the issue of a search warrant by a judge was held actionable in Gibbs v Rea [1998] AC 786, where it was held that such a claim had long been recognised though seldom successfully prosecuted (p 797B), and that it was akin to malicious prosecution which is a well established tort and to the less common tort of maliciously procuring an arrest: Roy v Prior.
+In Gregory v Portsmouth City Council [2000] 1 AC 419, 427G Lord Steyn said that: These instances may at first glance appear disparate but in a broad sense there is a common feature, namely the initial ex parte abuse of legal process with arguably immediate and perhaps irreversible damage to the reputation of the victim.
+In Gregory v Portsmouth City Council the House of Lords refused to extend the tort of malicious prosecution to the malicious commencement of disciplinary proceedings (involving in that case the removal of a local counsellor from various committees).
+But Lord Steyn, giving the only full speech, accepted at p 432F G that there was a stronger case for an extension of the tort to civil legal proceeding than to disciplinary proceedings.
+Both criminal and civil legal proceedings are covered by the same immunity.
+And as I have explained with reference to the potential damage of publicity about a civil action alleging fraud, the traditional explanation namely that in the case of civil proceedings the poison and the antidote are presented simultaneously, is no longer plausible.
+Nevertheless, for essentially practical reasons I am not persuaded that the general extension of the tort to civil proceedings has been shown to be necessary if one takes into account the protection afforded by other related torts.
+I am tolerably confident that any manifest injustices arising from groundless and damaging civil proceedings are either already adequately protected under other torts or are capable of being addressed by any necessary and desirable extensions of other torts.
+While the last comment could well be true in relation to disciplinary proceedings not enjoying absolute privilege of the sort actually before the House, it would not necessarily be so in relation to civil proceedings before a court which enjoy absolute privilege.
+Summary of the effect of the case law
+As I have indicated in para 95 above, the authorities on malicious prosecution prior to Crawford v Sagicor appear to me to fall into only a limited number of categories, in essence: prosecution of criminal (and, at least anciently, some ecclesiastical) i) proceedings, but not of disciplinary proceedings; ii) institution of coercive measures instituted ex parte (though with the assistance of, or subject to some form of adjudication by, legal authorities) under civil procedures available leading to the arrest, seizure or search of the plaintiffs person or property or scandalisation of his fair fame; iii) petitions for bankruptcy or insolvency, even though the grant of the petition is subject to some form of adjudication.
+In claims for malicious prosecution within point (i), ie relating to a criminal prosecution, damages could include costs which the plaintiff incurred in successfully defending the malicious prosecution.
+But in the case of claims within points (ii) and (iii), ie in relation to the pursuit of prior civil proceedings, a plaintiff could, under the rules recognised in and expounded after Savile v Roberts recover damages for injury to person or reputation (in cases of scandal), but could not recover any extra costs over and above those recoverable inter partes in the original action.
+In Crawford v Sagicor, the debate between Lord Wilson in the majority and Lord Sumption in the minority appeared at times to focus on whether the tort of malicious prosecution had or had not applied to civil proceedings: compare eg paras 42 and 140.
+But, in reality, the position is more nuanced as appears both by their detailed discussion and by the analysis above of the case law.
+There is a range of cases in which the ex parte misuse of civil procedures, with immediate effects on the other partys person, property or business, has grounded a tortious claim for malicious prosecution.
+But it has never been accepted that there is a general right to claim damages for the malicious pursuit of a prior civil action, which has been decided in the original defendants favour by judgment, settlement or abandonment.
+Policy
+The question is whether that position should as a matter of policy be maintained.
+I have already indicated some factors which suggest that it should be.
+But ultimately it is necessary to review the issues of policy more generally.
+At this point, I can return gratefully to the discussion in Crawford v Sagicor, in particular in the judgments of Lord Wilson and Lord Sumption, as well as to Lord Neubergers judgment on the present appeal which I have had the benefit of seeing before writing this part of my own judgment.
+As will appear, I myself see the position in similar terms to Lord Neuberger and Lord Sumption.
+But I add this.
+To my mind, one thing is missing from the judgments so far.
+That is a discussion of the nature of the heads, or sorts, of damage which might be recoverable, if such an action were to be admissible.
+As Quartz Hill made clear, there can be a close relationship between this issue and the question whether any such action is admissible.
+According to the Statement of Facts and Issues, it is to be assumed that Mr Willers has suffered damage (1) to his reputation, (2) to his health, (3) in the form of lost earnings, (4) in the form of expenses incurred but not fully recovered, ie his costs of defending the Langstone action net of the costs awarded in it by Newey J on the standard basis.
+But there is no further information or assumption about the nature or causation of these heads of damage.
+And we have heard no submissions on them.
+It is impossible to form any view as to whether all or any of them might be said to have followed necessarily or naturally from the allegations made in the allegedly malicious action brought by Langstone Leisure Ltd against Mr Willers.
+Nevertheless, I regret that it has not been possible, on the facts being assumed and on the way in which the case has been presented, to give any close examination to the sorts of damage that might be recoverable under any tort of malicious prosecution that might otherwise exist.
+I shall nevertheless say some words on this.
+Taking first however the general question of policy, I do not consider that the law should recognise the suggested general tort.
+The first point I would make is that it is to my mind unconvincing to suggest that, because there is a tort of malicious prosecution of criminal proceedings, therefore it is logical or sensible that there should be a tort of malicious prosecution of civil proceedings.
+Not only does that ignore the teaching of history, showing courts studiously avoiding any such parallel.
+It also ignores the fact that, in an era when private prosecutions have largely disappeared, the tort of malicious prosecution of criminal proceedings is virtually extinct.
+To create a tort of malicious prosecution of civil proceedings might in these circumstances be thought to come close to necromancy.
+Second, the recognition of a general tort in respect of civil proceedings would be carrying the law into uncharted waters, inviting fresh litigation about prior litigation, the soundness of its basis, its motivation and its consequences.
+The basis, motivation and consequences of individual ex parte steps, having immediate effects at the outset of litigation, are likely to be relatively easy to identify.
+The exact opposite is likely to be the position in the context of prior litigation which has extended quite probably over years.
+Further, there is (and could logically be) nothing in the proposed extension of the tort of malicious prosecution, to limit it to circumstances where the claim was at the outset unfounded or malicious.
+It would be open to a defendant throughout the course of civil proceedings to tax the claimant with the emergence of new evidence, or the suggested failure of a witness to come up to proof, and to suggest that from then on the claim must be regarded as unfounded and could only be being pursued for malicious reasons.
+Logically, as Lord Kerr recognised in Crawford v Sagicor, paras 111 113, it must also be open to a claimant to tax a defendant with pursuing a malicious defence.
+Logically again, any such general tort should extend to any individual application or step in the course of a civil action, which could be said to be unfounded and maliciously motivated, eg to gain time or avoid execution, rather than for genuine litigational purposes.
+Indeed, logically in my view, once the parties are exposed to claims for maliciously pursuing their respective cases, there is no real reason why witnesses should not likewise be exposed, whether as co conspirators or even as persons having their own individual malicious axe to grind by giving unfounded evidence.
+Equally, as Lord Neuberger notes (para 162), there seems to be no reason why the extended tort should not extend to family court, domestic tribunal or arbitral proceedings.
+I do not see how we can avoid considering these implications of the suggested extension, when we decide the present appeal.
+It is no answer to say that they do not arise for immediate decision.
+If on the face of it they follow logically from the suggested extension, we must recognise them.
+Lord Wilson was unperturbed by any idea that claimants might feel exposed to off putting risks or that litigants might misuse the tort of malicious prosecution to their advantage.
+He suggested in paras 72(a)(i) and (e)(ii) of his judgment in Crawford v Sagicor that the court should have before it empirical evidence before giving weight to any suggestion that litigants might be put off bringing civil actions by threats of malicious prosecution or that actions for malicious prosecution might become pervasive and contaminate the system.
+In my opinion, such evidence could hardly be expected, when such actions have for long been seen as impossible.
+In any event, the formation of legal policy does not normally depend on statistics, but rather on judges collective experience of litigation and litigants and, more particularly here, their appreciation of the risks involved in litigation and the risks of its misuse.
+Judges have enough experience of disingenuous behaviour and procedural shenanigans on the part of litigants to form a view of sound policy in this area.
+Further, there already exists a clear recognition of the need that civil actions should in general be litigated without any risk of one or another party, or a third party, subsequently being able to go over and claim in respect of anything said or done in such actions.
+That is the absence of any duty of care owed by one litigant to another, and the general immunity which attaches to what is said or done in court by litigants or witnesses: see Lord Neubergers first and second points in paras 157 and 158 of his judgment on this appeal.
+A similar recognition informs the House of Lords conclusion in Manifest Shipping Co Ltd v Uni Polaris Insurance Co Ltd [2001] UKHL 1; [2003] 1 AC 469, paras 73 78 that, once parties are in litigation, their conduct is subject to the rules governing litigation, which supersede the application of (in that case) any prior duty of good faith.
+I need not go further into the reasons why I consider the proposed extension to be unjustified and unwise.
+I am content simply to say that they have been fully and to my mind powerfully set out in Crawford v Sagicor by Lord Sumption in the four points he made at paras 145 148, supplemented by those made by Lord Neuberger on the basis of United States law and experience in paras 192 196, and on the present appeal by Lord Neuberger in his first ten and final points in paras 157 to 167 and 169.
+However, I would add that I am also troubled by the role assigned to the concept of malice in the expanded tort for which Mr Willers contends, and reluctant on that ground also to undertake the proposed expansion.
+The concept is key.
+The pursuit of an unfounded claim, defence or other step during civil proceedings has never been actionable in itself.
+Rather, the remedies available for such behaviour include striking out, judgment or costs or, where an undertaking is given or required as a condition of for example an injunction, enforcement of the undertaking.
+The additional feature of malice is, as Lord Sumption observes in Crawford v Sagicor (para 133 et seq), not as a general rule relevant to tortious (or one may add contractual) liability.
+One should hesitate before extending its role, for reasons which I will indicate.
+The starting point is to ask what malice is said to mean in the context of malicious prosecution.
+This is illustrated by Crawford v Sagicor itself.
+The facts were that (a) it was unreasonable for Mr Delessio, acting for Sagicor, to believe that Mr Paterson had defrauded Sagicor, but (b) he did nonetheless believe this and (c) his dominant motive in alleging fraud against Mr Paterson was his strong dislike and resentment of Mr Paterson, his wish to gain revenge on him and his obsessive determination to destroy him professionally.
+These factors were sufficient to make Sagicor liable: see paras 32 and 80, per Lord Wilson.
+Two points arise from this.
+First, liability for malicious pursuit of civil proceedings can arise from an unfounded claim, if the claimants dominant motive is to injure, even if he believes the claim to be well founded and intends to injure the defendant by pursuing it to judgment.
+I would for my part better understand and be readier to accept a concept of malicious prosecution which depended on actual appreciation by the original claimant that the original claim was unfounded.
+The concept as advanced, and as the case law suggests, opens the door to wider claims, to wider exposure and to wider risks of misuse.
+Second, the concept as advanced also opens the door to future litigation about the meaning of dominant motive.
+This was discussed and left unanswered in the very different context of directors duties to act for a proper purpose: see Eclairs Group Ltd v JKX Oil & Gas plc [2015] UKSC 71; [2015] Bus LR 1345.
+Lord Sumption there considered that but for causation was the answer, whereas I thought that the principal or primary purpose in mind would be likely to be easier to identify, as well as more consistent with such guidance as authority afforded.
+The sorts of damage recoverable
+I turn to the sorts of damages that might be contemplated when considering the possibility of an action for malicious pursuit of a prior civil action.
+As indicated above, although much weight is put by those representing Mr Willers on Savile v Roberts, the submissions before the Supreme Court have not addressed this aspect, which was a significant element in Holt CJs judgment.
+It was also central to the discussion in Quartz Hill.
+It seems to me potentially to represent a whole further area for litigation, very likely at the appellate level, though one which it is impossible for us to resolve in any detail without having heard further submissions about it.
+It seems clear, however, that what is contended is that, once proceedings are found to have been maliciously pursued, all adverse consequences of their pursuit, in terms of damage to reputation, earnings, health and extra costs, are recoverable without further enquiry into their precise nature or causation.
+I will comment briefly on each of these sorts of damage.
+As regards injury to reputation, all that can be said is that it will be necessary to revisit the area on which Diplock J touched in Berry v British Transport Commission [1961] 1 QB 149, pp 163 165 (see para 104 above) and then perhaps, having decided what is the correct or the appropriate modern understanding of a scandalous allegation, to consider whether the allegations of breach of common law and statutory duties made against Mr Willers by Langstone Leisure Ltd in action HC10C01760 fell necessarily and naturally within this concept.
+It seems at least clear from Bowen LJs judgment in Quartz Hill that he would not have contemplated that breaches of this nature could constitute recoverable damage or ground an action for malicious pursuit of a prior civil action: see para 120 above.
+The damage alleged to health (or by way of distress) lies some way from the damage to the person by way of arrest or imprisonment in issue in the case law discussed above.
+Both the nature of the damage and its causation are presently unparticularised.
+Once these are known, consideration will need to be given to whether the claim to recover damages in respect of them is subject to any special rule or simply to ordinary tortious rules.
+The claim for damage to earnings is put on the basis that it was impossible for Mr Willers to find alternative employment while Langstone Leisure Ltds claims of breach of duty against him were unresolved.
+He claims 500,000 in respect of the period 27 August 2009 to 28 March 2013.
+Sinclair v Eldred (1811) 4 Taunt 7 stands as a precedent for the recovery of loss of earnings during a period of unfounded and maliciously caused imprisonment.
+Mr Willers claim for loss of earnings is not related to imprisonment, but rather, it seems likely, to the alleged damage to his reputation which Langstone Leisure Ltds proceedings allegedly caused.
+Consideration will need to be given to whether damage of this nature is recoverable at all, whether as general damages on account of the scandalous or other nature of the original malicious action under Savile v Roberts or as special damages on any other principle.
+Finally, there is Mr Willers claim to recover extra costs amounting to 2,199,966.32, over and above the 1,700,582.20 which he recovered in the proceedings brought by Langstone Leisure Ltd. There is a strong line of case law over the last 200 years holding as a rule that extra costs of this nature are as a matter of principle irrecoverable as between the parties to the original proceedings: Sinclair v Eldred, Cotterell v Jones, Quartz Hill and Wiffen v Bailey (paras 110, 111, 124 and 125 above).
+This line can also be traced back to Holt CJs reasoning in Savile v Roberts and to Parker CJs in Jones v Givin (paras 99 and 105 above).
+This line extends back before and continues after Chapman v Pickersgill and, for the reasons I have given in para 107 above, Lord Mansfield CJs approach to the bond for 200 covering all loss in that case does not in my view impinge on it or on the rule it establishes.
+The rule must in my opinion also apply in a case like the present where Mr Gubay is said to have been the effective instigator of the proceedings brought by Langstone Leisure Ltd (and indeed to have owned as well as controlled that company).
+Extra costs may in some circumstances be payable to or recoverable from a true third party, eg payable by a party to its solicitor or recoverable under an insurance or other contract.
+But a claim for malicious pursuit of prior proceedings against those responsible for their instigation is in effect a claim between the parties to the prior proceedings.
+For the reasons given in the line of authority to which I have referred, and in my discussion of it (in particular in para 124 above), the rule applies and I agree with it.
+Conclusion
+It follows from all the above that I would dismiss this appeal.
+LORD NEUBERGER: (dissenting)
+The tort of malicious prosecution in the civil context
+The question whether there should be a cause of action in malicious prosecution in respect of civil proceedings has recently been considered by the Judicial Committee of the Privy Council in Crawford Adjusters (Cayman) Ltd v Sagicor General Insurance (Cayman) Ltd [2014] AC 366, and it is now being addressed by the Supreme Court.
+In each case, the answer is in the affirmative, albeit by a bare majority.
+As in Crawford v Sagicor, I am in the minority.
+Although I agree with the judgment of Lord Mance, I propose to summarise my reasons for concluding that the answer should be in the negative, because, no doubt partly thanks to the judgments in Crawford v Sagicor, we have been given a fuller analysis of the history and implications of this tort than we had in the Judicial Committee.
+So far as the history of the tort of malicious prosecution in civil proceedings is concerned, there was considerable debate as to the effect of the judgments in various cases, starting with the judgment of Wray CJ in Bulwer v Smith (1583) 4 Leon 52, including the much reported judgment of Holt CJ in Savile v Roberts (1698) reported variously in 1 Ld Raym 374, 3 Salk 17, 3 Ld Raym 264, 1 Salk 13, 12 Mod 208, Carthew 416, 5 Mod 405, and ending with the judgment of Campbell CJ in Churchill v Siggers (1854) 3 E & B 929.
+The appellants argument is that those judgments demonstrate that the tort of malicious prosecution extended to all civil proceedings which had been maliciously and baselessly brought against the potential claimant.
+The respondents argument is that those cases support the view that, although the tort did not generally apply to civil proceedings, there were exceptions which were limited to cases where the potential claimant loses his liberty or his property as a result of a malicious and baseless ex parte application or the like, and, as legal procedures have developed, those exceptions have largely fallen away.
+The decision of Sir Francis Jeune P in The Walter D Wallet [1893] P 202 is a relatively late example of a successful malicious prosecution claim in such circumstances (in that case, the malicious arrest of a ship).
+These old judgments, at least in the form in which they are reported, (i) are sometimes hard to interpret, (ii) often refer to, and may depend on, procedures and rules which have long since ceased to exist, (iii) at least in some cases, are not entirely reliable, as is apparent from differing reports of the same case, and (iv) do not, on any view, speak with one voice.
+Accordingly, it is perhaps understandable that there is disagreement as to their precise effect in terms of the overall legal position.
+Nonetheless, having read Lord Mances full and informative analysis in paras 96 110 above, which is supported by that of Lord Sumption in Crawford v Sagicor, I am satisfied that the respondents analysis is correct.
+Apparently general remarks, such as one finds in the judgment of Lord Campbell CJ in Churchill at p 937 are not, on close analysis, as clear as they might at first appear to a modern reader.
+He said [t]o put in force the process of law maliciously and without any reasonable or probable cause is wrongful, and the reference to the process of the law seems to me to be to be at least capable of referring to the execution of ex parte legal process, such as detention the claimants person or his assets, attachment and the like.
+In any event, broad general statements about the law, even by highly respected judges, are by no means always a reliable guide to the precise boundaries of a cause of action, when the extent of those boundaries is not in issue in the case concerned.
+In any case, any judicial decision is authority for what it decides, not for dicta which plainly go beyond the decision.
+In addition to the actual contents of those judgments, two factors persuade me that the respondents contention as to the effect of these old judgments is correct.
+First, there is not a single reported case of a successful claim in malicious prosecution which is inconsistent with the respondents much more limited version of the tort.
+If the much wider tort, as contended for by the appellant, existed, one would have expected there to have been a reported case of a claim based on such a tort succeeding, or at least having been brought, especially bearing in mind the many law reporters in Westminster Hall between the 17th and 19th centuries.
+Secondly, in Quartz Hill Consolidated Gold Mining Co v Eyre (1883) 11 QBD 674, both Sir Baliol Brett MR at pp 682 685 and Bowen LJ at pp 688 691 (where, as Lord Mance points out at para 122 above, he discusses, rather more fully, the point made in para 153 above) clearly took the view that the tort of malicious prosecution in civil proceedings had the more limited character contended for by the respondents.
+In addition, I note from p 677 that the first instance judge was Stephen J, who held that there was no cause of action, and that his decision had been upheld by Pollock B and Manisty J.
+It is perfectly true that in that case it was not argued that the tort was as wide as the appellant now suggests, and that the issue was whether the malicious and unfounded presentation of a winding up petition (whose immediate effect was then more drastic than under the current state of the law) was to be treated as within the class of ex parte exceptions to the normal rule that there was no general tort of malicious prosecution in civil cases.
+Not only is that of itself worthy of note, but it appears to me to be little short of fanciful to imagine that all those five distinguished Judges would have misunderstood the scope of the tort of malicious prosecution.
+All of them had been in practice in the 1860s, well before the fundamental procedural changes effect in the 1870s, and Sir Baliol Brett, Pollock B and Manisty J had all been in practice since the 1840s.
+Further (at least in the Court of Appeal), they referred to a number of the previous authorities in their judgments.
+Of course, the fact that the boundaries of the tort were heavily circumscribed in the past does not mean that this court is bound to hold that they should remain circumscribed.
+However, the fact that the boundaries of the tort have (in my view) always been heavily circumscribed and have (on any view) been treated by the courts as heavily circumscribed since 1883, places a tolerably heavy burden on the appellants argument that those boundaries should, in effect, be removed, or at least substantially widened.
+A defendant to a malicious groundless civil claim will suffer stress and often will suffer financially in general terms, and many peoples immediate reaction on hearing of what happened in this case (at least as pleaded by the appellant) would be that the malicious claimant should compensate him for any mental distress and other damage which he has suffered as a consequence.
+However, to my mind, there are powerful reasons, some of which were identified by Lord Sumption in Crawford v Sagicor, against confirming (to use a neutral verb) the existence of a tort such as that contended for by the appellant.
+Some of those reasons are based on principle and some are based on practical considerations.
+The first reason, referred to in Crawford v Sagicor, para 124, is that the existence of the tort would be inconsistent with the well established general rule that a litigant owes no duty to his opponent in the conduct of civil litigation, a proposition which is supported by two recent House of Lords decisions, Customs and Excise Comrs v Barclays Bank plc [2007] 1 AC 181, and Jain v Trent Strategic Health Authority [2009] AC 853.
+In the latter case, at para 35, Lord Scott, who gave the only reasoned judgment, said that, where the defendants slipshod conduct of an investigation and prosecution led to a wholly unjust order which caused the claimant substantial damage, a remedy for the damage cannot be obtained via the imposition on the opposing party of a common law duty of care, but that the solution must depend on the control of the litigation by the court or tribunal in charge of it.
+The second reason, discussed in Crawford v Sagicor, para 125, is that the existence of the tort would be inconsistent with the equally well established rule that even a perjuring witness in court proceedings is absolutely immune from civil liability for a recent example see Darker v Chief Constable of the West Midlands Police [2001] 1 AC 435, 445 446, 460 461 and 464.
+As was confirmed in Taylor v Director of the Serious Fraud Office [1999] 2 AC 177, this principle also applies to a potential witness giving a statement.
+While the decision in Jones v Kaney [2011] 2 AC 398 can be said to have made a slight inroad into this principle, the Supreme Court actually affirmed the general rule (see paras 16 17 and 105).
+More importantly, the effect of Jones was not to create a new tort or even a new duty of care; it was simply to remove an existing limitation on an existing duty of care: the result of the decision was that an expert witnesss duty to her client did not stop when she came to give evidence in court.
+The third reason, identified in Crawford v Sagicor, para 145, is that the original justification for the tort in the criminal context does not apply in the ordinary civil context.
+As Lord Sumption put it, the tort of malicious prosecution was developed as a tool for constraining the arbitrary exercise of the powers of public prosecuting authorities or private persons exercising corresponding functions against the claimant in subsequent potential malicious prosecution proceedings.
+In the non criminal context this was limited to cases where the court was invited by the potential defendant to exercise ex parte or interlocutory powers which resulted in the claimant losing his liberty or property without the prior opportunity properly to defend himself.
+That is no basis for extending it to civil proceedings generally.
+It is perhaps worth adding that the courts have developed a different and more wide ranging power in this context, by requiring, almost as a matter of course in most cases, a cross undertaking in damages to be given by a party who obtains an interlocutory order.
+In other words, rather than limiting damages claims by victims of wrongly granted ex parte or interlocutory orders to maliciously brought applications leading to loss of liberty or of property, the law grants an almost automatic right to such victims, irrespective of the nature of the loss or of the presence of malice.
+That seems to me to render it all the more peculiar to resurrect today the tort of malicious prosecution in relation to civil claims generally.
+The fourth reason, mentioned in Crawford v Sagicor para 146, is that within the past twenty years, in a judgment given by Lord Steyn, the House of Lords in Gregory v Portsmouth City Council [2000] AC 419 made it clear in obiter but very carefully considered remarks that the tort should not be extended beyond criminal proceedings.
+The contrary view had been very fully expressed by Schiemann LJ in the Court of Appeal, and Lord Steyns detailed discussion and clear conclusion should, in the absence of very telling reasons to the contrary, settle the matter.
+The fifth reason, as described in Crawford v Sagicor, para 147, is that the precise ambit of the tort, if it extends to civil proceedings of a private nature will be both uncertain and potentially very wide.
+It appears that it would extend to a malicious defence (see per Lord Kerr in Crawford v Sagicor, paras 111 113), and it may be hard to justify why it should not extend to malicious applications or allegations in proceedings which would otherwise not be malicious.
+And, as Lord Mance says in para 132 above, the tort could apply at different stages of proceedings, so that a claim which was not malicious initially could arguably become malicious as things change.
+In particular, as he points out at para 133 above, there are likely to be arguments whether proceedings, which were initially unexceptionable, have become malicious because they are being continued for tactical or costs reasons.
+Similarly, there could easily be arguments as to whether it could apply to family court proceedings, domestic tribunal proceedings, and arbitrations.
+As I observed in Crawford v Sagicor, para 194, the present position is clear and simple, and in the field of law clarity and simplicity are at a premium.
+The sixth reason, adumbrated in Crawford v Sagicor, para 148, arises from the practical consequences in terms of the risk of satellite litigation.
+There are several recent examples where the House of Lords has had cause to express concern as to how well intentioned changes in the law have spawned such undesirable results eg an industry of satellite litigation in Grovit v Doctor [1997] 1 WLR 640, a new and costly form of satellite litigation in Medcalf v Mardell [2003] 1 AC 120, para 24, and a mass of satellite litigation in Three Rivers District Council v Bank of England [2005] 1 AC 610, para 65.
+Seventhly, it seems to me that confirmation of the existence of the tort could well have unanticipated knock on effects in other areas of law.
+For instance, in relation to the law of privilege.
+Lord Reed pointed out that in Scotland, where such a tort is recognised, the law of privilege in relation to defamation claims is different, and it may need to be amended in this jurisdiction to accommodate the tort, with unpredictable consequences.
+The unforeseen problems which follow when a court seeks to change the law of tort to do what it sees as justice in particular cases are, as Lord Reed says in para 184 below, well illustrated by the problems thrown up in Zurich Insurance plc UK Branch v International Energy Group Ltd v Zurich Insurance plc UK Branch (Association of British Insurers intervening) [2015] UKSC 33; [2015] 2 AC 509 and the cases cited therein.
+Eighthly, problems could arise for a defendant to a malicious prosecution claim, who wished to invoke his right to privilege in relation to any document in connection with the allegedly malicious proceedings.
+This problem would not arise in relation to a claim based on the ruling in Jones v Kaney, as the privilege would be that of the claimant, who would presumably be waiving the privilege in order to bring his claim in the first place.
+Ninthly, the existence of the tort could have a chilling effect on the bringing, prosecuting or defending of civil proceedings.
+The notion that a person should not have to face malicious proceedings brought by a ruthless party is said to justify the existence of this tort; but the existence of the tort severely risks creating what would be at least an equally undesirable new weapon in the hands of a ruthless party, namely intimidation through the unjustified, but worrying, threat of a malicious prosecution claim to deter bona fide proceedings.
+In other words, the creation of a remedy for one wrong is likely to lead to another wrong.
+Tenthly, it is almost inevitable that the cost and time of some proceedings will be increased as a party manoeuvres in one way or another with a view to setting up a malicious prosecution claim if the other partys case fails.
+Eleventhly, there is a particular irony that we are creating or affirming the existence of this tort at a time when the courts of England and Wales have more powers than ever before to control litigation and make peremptory orders for costs.
+Twelfthly, as I discussed in Crawford v Sagicor, paras 170 175 and 181 190, unlike courts in England and Wales, courts in the United States of America have considerable experience of claims for malicious prosecution in the civil field.
+The state courts are pretty evenly divided as to the existence of the wide tort contended for by the appellant.
+Many state courts which accept the existence of the wide tort justify departing from what they understand to be the law in England on the basis that [t]he English rule is that generally the loser must pay the winners attorneys fees and so an English plaintiff who brings a frivolous suit does so as the peril of paying his adversarys litigation expenses (to quote Ciparick J in Engel v CBS Inc (1999) 711 NE 2d 626, 629).
+Thus, even though the costs sanction which applies to litigation in this jurisdiction is largely absent in the United States, a substantial proportion of the courts in that jurisdiction have set their face against the existence of this tort, and many of those that accept it justify their view by reference to the absence of the costs sanction which is routinely available in our courts.
+In addition to these reasons for not approving the existence of the tort as proposed by the appellant, there are the two rather fundamental points made by Lord Mance in paras 136 139 and 140 144 above, which appear to me to be well founded.
+Thus, I consider that there could be real problems involved both in identifying what constitutes malice and in deciding what types of loss and damage should be recoverable in connection with claims based on the proposed tort.
+Finally, in this connection, it seems to me that the risks of according a right of action to those who suffer as a result of wrong doing in the context of litigation are very well illustrated by the unfortunate experience of the litigation prompted by Parliaments decision to extend the right of litigants to seek wasted costs orders against barristers in England and Wales through section 4 of the Courts and Legal Services Act 1990.
+In Ridehalgh v Horsefield [1994] Ch 205, 239, Lord Bingham MR in the Court of Appeal, after referring to the fact that the number and value of wasted costs orders applied for, and the costs of litigating them, have risen sharply tried to stem the flow of such claims.
+Subsequently, in the House of Lords case of Medcalf v Mardell, para 13, Lord Bingham referred to the fact that the clear warnings given in [Ridehalgh] have not proved sufficient to deter parties from incurring large and disproportionate sums of costs in pursuing protracted claims for wasted costs, many of which have proved unsuccessful.
+In Ridehalgh, the Court of Appeal also tried to curtail the expense involved in wasted costs hearings by saying that such hearings should be measured in hours not days (a view repeated in Medcalf).
+That led to courts refusing to hear wasted costs applications when they became disproportionate see eg Regent Leisuretime Ltd v Skerrett [2006] EWCA Civ 1032.
+Because wasted costs applications are procedural and ultimately discretionary, it is far easier for the court to control the proceedings than it would be in relation to a malicious prosecution proceedings, where the claim would be based on a substantive legal right (although, as mentioned in para 168 above, the courts generally have greater powers of case management than they did in the past).
+The judgments in Ridehalgh v Horsefield at pp 233 234 and in Medcalf v Mardell at paras 23 24, 40 and 61 also demonstrate the problems thrown up by the law of privilege in relation to claims founded on the conduct of litigation.
+In addition, Ridehalgh v Horsefield at pp 233 234 support the concerns I have expressed about the risk of the tort giving rise to intimidation to discourage the bringing of valid claims.
+For these reasons, I would have held that a tort such as that argued for by the appellants should not be recognised in the courts of England and Wales, and I would have dismissed the appeal.
+LORD SUMPTION: (dissenting)
+This appeal has been argued with conspicuous learning and skill on both sides, but the result has been to confirm me in the view which I expressed in Crawford Adjusters (Cayman) Ltd v Sagicor [2014] AC 366, that the recognition of a tort of maliciously prosecuting civil proceedings is unwarranted by authority, unjustified in principle and undesirable in practice.
+The only exception is the limited category of cases in which the coercive powers of the courts are invoked ex parte at the suit of the former claimant, without any process of adjudication.
+This exception is less significant today than it was historically, because modern forensic procedure offers less scope for the exercise of this kind of power.
+The only notable survivor of the panoply of procedures that once existed for the exercise of coercive powers over person or property without judicial intervention is the power to procure a warrant for the arrest of a ship, a context in which the exception is still germane and valuable.
+But whatever its limits, the exception is at least certain and rationally founded upon the special features of such cases.
+It has no application in this case any more than it did in Crawford v Sagicor.
+Since I expressed my reasons at length in that case, and I entirely agree with the judgments of Lord Neuberger and Lord Mance in this one, I shall limit myself to some brief general observations.
+The appellants are contending for a tort of general application, which was thought to have received its quietus from the Court of Appeal more than a century ago in Quartz Hill Consolidated Gold Mining Co v Eyre 11 QBD 674 and has never once been successfully invoked in the period of some five centuries during which the question has arisen.
+The alleged tort can therefore fairly be described as novel, whatever ones interpretation of the language of Holt CJ in Savile v Roberts (1698) 1 Ld Raym 374.
+Novelty as such is of course no bar to the recognition of a rule of law.
+But in a system of judge made customary law, judges have always accepted limitations on their ability to recognise new bases of non consensual liability.
+Two limitations are particularly germane in this case, neither of which is consistent with recognising the wider tort for which the appellant are arguing.
+The first is that where the courts develop the law, they must do so coherently.
+This means, among other things, that the development must be consistent with other, cognate principles of law, whether statutory or judge made.
+The recognition of a general liability for maliciously prosecuting civil proceedings fails that test.
+It circumvents the careful and principled limits that the courts have imposed on the tort of abuse of civil process.
+It cuts across the immunities which the law has always recognised for things said and done in the course of legal proceedings.
+It introduces malice as an element of tortious liability contrary to the long standing principle of the law of tort that malice is irrelevant.
+Logically, it would entitle litigants to recover as of right costs which by statute are a matter of discretion.
+And unless we are to overrule not just the reasoning but the decision of the House of Lords in Gregory v Portsmouth City Council [2000] 1 AC 419, it would introduce an unjustifiable distinction between civil proceedings sounding in private law and those sounding in public law such as the disciplinary proceedings in issue in that case.
+The recognition of the wider basis of liability urged by the appellant would make the law relating to the conduct of legal proceedings incoherent in ways that cannot simply be brushed aside or left to other cases to sort out.
+The second limitation is that the proposed development of the law should be warranted by current values and current social conditions.
+Unless the law is to be reinvented on a case by case basis, something must generally have changed to make appropriate that which was previously rejected.
+The appellants arguments fail that test also.
+The courts have far more extensive powers today than they did a century and a half ago to prevent abuse of their procedures, and the closer judicial supervision of the interlocutory stages of litigation makes it easier to exercise them.
+Of course, these powers will not be enough to identify in time the more determined and skilful abuses, but that is part of the price to be paid for access to justice.
+The reluctance of the courts to accept rules of law justifying secondary or satellite litigation is born of long standing judicial experience of the incidents of litigation and the ways of litigants.
+That experience is as relevant today as it has ever been.
+The volume of litigation has increased exponentially in the last 70 years.
+Its tendency to generate persistence, obsession and rancour is as great as ever.
+The hazards of losing, already considerable in terms of costs, must inevitably be greater if one adds the threat of secondary litigation for prosecuting the earlier action in the first place.
+Doubtless the great majority of secondary actions will fail, but that makes it even less satisfactory to enlarge the opportunities for bringing them.
+On the status as authority of the judgments of the Privy Council, I have nothing to add to the judgment of Lord Neuberger, with which I entirely agree.
+I would dismiss this appeal.
+LORD REED: (dissenting)
+I agree with the judgments of Lord Neuberger and Lord Mance, and wish to add only three observations.
+The first concerns the extent to which the discussion in the present appeal has focused on the interpretation of law reports from the 16th to the 18th centuries.
+It is often valuable to understand how the modern law has come to be shaped as it is, especially where, as in the present case, the court is faced with an argument that it contains an anomaly.
+The judgment of Lord Sumption in Crawford Adjusters (Cayman) Ltd v Sagicor General Insurance (Cayman) Ltd [2013] UKPC 17; [2014] AC 366, and that of Lord Mance in the present case, are therefore valuable in explaining how the modern law came about, and why criminal prosecutions and certain ex parte civil proceedings have been treated differently from other civil proceedings.
+But the significance of the historical inquiry to the courts decision should not be exaggerated.
+My own conclusion in the present case would have been the same even if a judgment had been discovered which unequivocally demonstrated that a right of action had been held to lie 300 years ago for the malicious prosecution of a civil suit inter partes.
+That is because, in the first place, the question raised by the appeal has to be answered in the context of the modern law of tort and modern civil procedure, rather than the corresponding law of 300 years ago.
+More generally, the court must not lose sight of the fact that it is deciding the law for the 21st century.
+We have to develop a body of law which is well suited to the conditions of the present day, looking back to the achievements of our predecessors, and also, often more pertinently, to those of our contemporaries in other jurisdictions (as Lord Neuberger did in Crawford, in his consideration of the US authorities).
+As Maitland observed, every age should be the mistress of its own law (The making of the German Civil Code, in Fisher (ed), The Collected Papers of Frederic William Maitland, Vol III, p 487 (1911)).
+The great judges of the past, such as Holt and Mansfield, would have been the first to recognise that.
+The second point also concerns the use made of the reports of judgments given several centuries ago.
+As any modern judge knows, the citation of something he has said in a judgment, taken out of its context, is liable to be misleading.
+The same is surely true of the judgments of our predecessors.
+The court must therefore have a secure understanding of the factual and legal context of those judgments in order to be able to determine the intended scope of any judicial pronouncements.
+It is often difficult, however, to attain such an understanding of the judgments of the distant past.
+Difficulties arising from an unfamiliar procedural context, and an equally unfamiliar remedy centred approach to legal thinking, are liable to be exacerbated by the variable quality of the reports themselves, and the variations between reports of the same case.
+It is unsurprising that, in the present case, notwithstanding the careful research carried out by counsel and members of the court, the authorities are nevertheless interpreted differently.
+Thirdly, major steps in the development of the common law should not be taken without careful consideration of the implications, however much sympathy one may feel for the particular claimant.
+The confusion resulting from the development of the law in order to afford justice to the victims of mesothelioma, in Fairchild v Glenhaven Funeral Services Ltd [2002] UKHL 22; [2003] 1 AC 32, should have taught us that lesson.
+In the present case, the basic problem facing the appellant, so far as his claim is based on damage to his reputation caused by allegations made against him in earlier civil proceedings, is the absolute privilege accorded by the modern law of defamation.
+The solution favoured by the majority results in the circumvention of that problem by the creation or extension of another tort.
+The question where that leaves the law of defamation, and the other issues identified by Lord Mance, appear to me to require fuller consideration than they have received.
+Sooner or later, this court will have to address them.

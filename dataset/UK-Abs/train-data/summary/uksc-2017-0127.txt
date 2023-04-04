@@ -1,0 +1,37 @@
+On 22 March 2010 (tax year 2009/10), Mr Derry bought 500,000 shares at a cost of 500,000 in a company called Media Pro Four Ltd. On 4 November 2010 (tax year 2010/11) he sold them to the Island House Private Charitable Trust for 85,500, realising a loss of 414,500.
+In his tax return for 2009/10, submitted by his accountants on 24 January 2011, Mr Derry claimed share loss relief for that amount against his income for that year under section 132 of the Income Taxes Act 2007 (the 2007 Act), with the aim of reducing to that extent his taxable income for that year.
+Her Majestys Revenue and Customs (HMRC) have identified the claim as a case of possible tax avoidance.
+In December 2011, Mr Derrys accountants submitted his tax return for 2010/11 online, which said that the relief for the loss of 414,500 had already been claimed and relief obtained in 2009/10.
+In response, HMRC opened an enquiry into the claim for share loss relief.
+This was made under schedule 1A of the Taxes Management Act 1970 (the 1970 Act) on the basis that it was a claim made outside of a return.
+It then opened an enquiry into the return for 2010/11 under section 9A of the 1970 Act.
+HMRC subsequently issued a demand for 95,546.36 with interest.
+Mr Derry began judicial review proceedings relating to the demand.
+The two issues were: (1) Whether, having exercised his right to claim the relevant loss relief in the previous year (2009/10), Mr Derry was correct to deduct that loss in calculating his net income for that year; or whether, as HMRC contend, that right was overridden by schedule 1B of the 1970 Act, such that the loss, although claimed in year 2009/10, was to be treated as relating to the following year. (2) Whether, if it was an error for Mr Derry to make a claim for relief in the tax return for 2009/10, that claim is nonetheless part of the tax return for that year.
+Mr Derry failed on both issues in the Upper Tribunal.
+On the first issue, the Court of Appeal found in favour of HMRC.
+On the second issue, it found in favour of Mr Derry that the claim for relief was part of the 2009/10 return.
+As HMRC had failed to open an enquiry into the 2009/10 return within the statutory time limit, it allowed the claim for judicial review.
+HMRC appeals the decision on the second issue.
+Mr Derry resists the appeal on that issue but seeks to uphold the decision in any event on the first issue.
+The Supreme Court unanimously dismisses the appeal as it finds in favour of Mr Derry on the first issue.
+The loss relief was correctly deducted from the net income for 2009/10.
+Lord Carnwath gives the lead judgment, with which Lord Reed, Lady Black and Lord Kitchin agree.
+Lady Arden gives a concurring judgment.
+(1) HMRCs appeal: whether the loss relief was correctly deducted from the net income in 2009/10.
+Lord Carnwath observes that section 23 and sections 131 132 of the 2007 Act create a clear and self contained code for the treatment of a claim to share loss relief such as that of Mr Derry.
+Sections 132 133 give him an entitlement to make the claim, to specify the tax year to which it is to be applied, and to do so by deducting it in the calculation of his net income for the purpose of section 23 [35].
+It would be extraordinary for that entitlement to be taken away, without any direct reference or signpost, by a provision in a relatively obscure schedule of another statute (schedule 1B of the 1970 Act), which is concerned principally with management of tax, rather than with liability.
+Provisions in the 2007 Act which refer to the 1970 Act do not assist.
+For example, while sections 60(2) and 128(7) of the 2007 Act refer to schedule 1B of the 1970 Act as a qualification of the rights otherwise conferred by those provisions, the absence of similar words in section 132 of the 2007 Act indicates that this right is not subject to the same qualification [36].
+The words of schedule 1B of the 1970 Act are not sufficient to displace the clear provisions of the 2007 Act in respect of liability.
+As the governing statute in respect of tax liability, the 2007 Act should take precedence in the absence of any indication to the contrary [37].
+Any such indications in the legislative history or the explanatory notes to the 2007 Act do not provide a basis for departing from the ordinary principles of statutory interpretation.
+There is no suggestion that they produce an absurd or unworkable result, and for the taxpayers liability to be determined by reference to legal archaeology would negate the whole purpose of the tax law rewrite [38].
+Lord Carnwath endorses the guidance on interpreting consolidation statutes, such as the 2007 Act, in Eclipse Film Partners (No 35) LLP v Commissioners of Her Majestys Revenue and Customs [2013] UKUT 639 (TC) at paragraph 56 [9 10].
+Lady Arden adds that the courts may look at previous case law on consolidated provisions in the interests of the consistency of the law, the fulfilment of Parliaments presumed intention that the law should not be changed, and the efficient use of judicial resources [88]. (2) Mr Derrys cross appeal: whether an erroneous claim for loss relief would be part of the 2009/10 tax return.
+Lord Carnwath notes that the conclusion on the first issue makes it strictly unnecessary to reach a conclusion on the second issue [40].
+Furthermore, he is not satisfied that the issues were fully explored in argument before the Supreme Court, which concentrated on the entitlement to relief rather than the means of enforcement.
+There remain unresolved uncertainties as to the correct interpretation of the entries in the online form and their treatment by HMRC, and the relationship between enquiries under section 9A (into a return) and Schedule 1A paragraph 5 (into a claim outside a return) of the 1970 Act [68].
+In a separate judgment, Lady Arden expresses the provisional view, in light of the Supreme Courts decision in Commissioners for Her Majestys Revenue and Customs v Cotter [2013] 1 WLR 1514, the provisions of the legislation, the prescribed online tax return form and the evidence of Mr Graham Dean on behalf of HMRC, that the erroneous entry of a loss relief claim, which a tax payer was not entitled to make in that years return, does not form part of the tax return for enquiry purposes.
+On that basis, HMRC would be right to open an enquiry into the claim and not the return [73 83].

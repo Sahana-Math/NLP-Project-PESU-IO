@@ -1,0 +1,34 @@
+The issue in this appeal is whether Lloyds Banking Group (LBG) is entitled to redeem 3.3 billion of enhanced capital notes (ECNs) which carry an interest rate of over 10% per annum.
+The capital requirements for financial institutions were, at the time of the issue of the ECNs, set out in the CRD I Directive, which arranged the capital of financial institutions in tiers, the highest of which was Core Tier 1 (CT1).
+In March 2009, the Financial Services Authority (the FSA), having stress tested LBG and found a shortfall, required it to raise 21 billion which could qualify as CT1 Capital.
+LBG raised some of this amount by issuing 8.3 billion of ECNs in December 2009.
+The ECNs were intended to satisfy criteria set out by the FSA in a statement issued in September 2009, which provided that hybrid capital instruments capable of supporting CT1 Capital by means of a conversion or write down mechanism at an appropriate trigger could qualify as CT1 Capital.
+The terms of the ECNs were contained in a Trust Deed (the Trust Deed), which included detailed terms and conditions (T&Cs).
+The ECNs were not redeemable until specified maturity dates, unless (i) converted into shares on the occurrence of a conversion trigger, being any time when LBGs CT1 ratio fell below 5%; or (ii) redeemed early by LBG on the occurrence of a Capital Disqualification Event (CDE).
+One of the two circumstances in which a CDE occurs is stated in clause 19(2) to be where, as a result of any changes to regulatory capital requirements, the ECNs cease to be taken into account in whole or in part for the purposes of any stress test in respect of the Consolidated CT1 ratio.
+In June 2013, a new directive, CRD IV, replaced CT1 Capital with a more restrictive category, Common Equity Tier 1 Capital (CET1 Capital) and effected other changes to capital requirements.
+In accordance with these changes, the successor to the FSA, the Prudential Regulation Authority (the PRA), confirmed that LBG was subject to a new 7% CET1 ratio standard and that the ECNs would need to have a trigger for conversion higher than 5.125% CET1 in order to count as core capital.
+In March April 2014, LBG exchanged 5 billion of ECNs for instruments which satisfied the new requirements.
+In December 2014, the PRA reported that LBGs CET1 ratio was 10.1% and its minimum stressed ratio was 5%.
+The ECNs were not taken into account in either assessment.
+On 16 December 2014, LBG announced that a CDE had occurred under clause 19(2) and that it was entitled to redeem the outstanding 3.3 billion ECNs.
+BNY Mellon Corporate Trustee Services Ltd (BNY Mellon), as trustee for the holders of the ECNs, issued proceedings challenging LBGs claim and denying that a CDE had occurred.
+At first instance, Sir Terence Etherton found for BNY Mellon.
+The Court of Appeal allowed LBGs appeal.
+BNY Mellon now appeals to the Supreme Court.
+The Supreme Court dismisses BNY Mellons appeal by a 3:2 majority.
+Lord Neuberger gives the leading judgment, with which Lord Mance and Lord Toulson agree.
+Lord Sumption gives a short dissenting judgment, with which Lord Clarke agrees.
+The Trust Deed cannot be understood unless one has some appreciation of the regulatory policy of the FSA at and before the time that the ECNs were issued [33].
+Thus, the general thrust and effect of the FSA regulatory material published in 2008 and 2009 can be taken into account when interpreting the T&Cs [33].
+BNY Mellon argued that the December 2014 stress test was not in respect of Consolidated Core Tier 1 ratio as specified in clause 19(2) of the T&Cs as CT1 had by this point been replaced by CET1 Capital [27].
+This argument is rejected [35].
+The reference to the Consolidated Core Tier 1 Ratio should, in the events which have happened, be treated as a reference to its then regulatory equivalent, being Common Equity Tier 1 Capital [35].
+BNY Mellons second argument is that, in order for it to be said that the ECNs had not been taken into account, they must be disallowed in principle from being taken into account for the purposes of the Tier 1 ratio [27, 40].
+The question is whether it is sufficient that the ECNs continue to be taken into account for some purpose in the stress test, or whether they must play a part in enabling LBG to pass that test, which they no longer do [40 42].
+The preferable view is that the ECNs must play a part in enabling LBG to pass the stress test [45].
+Under the Regulations passed in 2013, the ECNs cannot be taken into account so as to do the very job for which their convertibility was designed, namely to enable them to be converted before the regulatory minimum Tier 1 ratio is reached [45].
+This conclusion is also supported by the contrast between ceased to be taken into account, the expression in clause 19(2), and a different expression, no longer eligible to qualify, which is in clause 19(1) [46].
+Further, if the contrary view were correct, it is very difficult to envisage circumstances in which it could have been thought that clause 19(2) could have been invoked [47].
+Accordingly, the Trustees appeal should be dismissed, on the basis that a CDE has arisen under clause 19(2) [54].
+Lord Sumption, with whom Lord Clarke agrees, dissents on this point and considers that the ECNs are not redeemable because, notwithstanding their status as lower tier capital, they would be treated by the regulator as top tier capital in the hypothetical event that LBGs affairs deteriorated to the point where the conversion trigger was attained [55 62].

@@ -1,0 +1,31 @@
+The appellant was convicted of drug trafficking offences on 21 May 1999 and sentenced to 25 years imprisonment.
+On 29 March 2000, he was ordered to pay a little over 5.4 million by way of a confiscation order.
+The order required the appellant to pay the amount within 12 months or serve six years imprisonment in default of payment.
+On 4 May 2007, a receiver appointed to realise the appellants assets paid 12,500.
+The magistrates deducted seven days from the six year term in default, to account for that part payment.
+At that time interest had increased the net sum outstanding, allowing for the part payment, to 8.1 million.
+Later in 2007 and 2011, the appellants receiver made further payments of 12,500 and 65,370.
+The prison authorities calculated the reduction in the six year default term on the basis of the proportion which these payments bore to the 8.1 million at the time of his committal.
+That produced a total reduction of 24 days.
+Had the arithmetic been applied instead to an outstanding figure confined to the original 5.4m, an extra 11 days reduction would have been made.
+The issue in the appeal is whether interest is included in the starting point under s.79(2) Magistrates Courts Act 1980 for the giving of proportionate credit for part payment of a confiscation order.
+The Supreme Court unanimously allows the appeal.
+Lord Reed and Lord Hughes give a joint judgment with which the other Justices agree.
+The key provisions of the Drug Trafficking Act 1994 (DTA), as in force at the relevant time, were s.10(1), which treats interest for the purposes of enforcement as part of the amount to be recovered under the confiscation order and s.10(2) which enables a Crown Court judge to refix and increase the default term if the addition of accrued interest takes the sum outstanding into a higher bracket in the relevant schedule of defaults terms. [7] At the relevant time, s.9 DTA stated that where the Crown Court orders a defendant to pay any amount under s.2 DTA, ss.139(1) (4) and 140(1) (3) of the Powers of Criminal Courts (Sentencing Act) 2000 (the 2000 Sentencing Act) shall have the effect as if that amount were a fine imposed on the defendant by the Crown Court. [9] S.140(1) of the 2000 Sentencing Act treats for enforcement purposes a fine imposed by the Crown Court as if it had been imposed by the magistrates, and thus a confiscation order is treated the same.
+S.76 Magistrates Courts Act 1980 contains the magistrates power to commit an individual to prison for failure to pay a fine and an alternative power to issue a warrant of distress (now named a warrant of control).
+S.79 Magistrates Courts Act 1980 is the only provision dealing with part payments. [11] The difficulties in this case arise from the fact that the enforcement of confiscation orders is achieved by applying statutory provisions to confiscation orders which were not designed for them.
+A confiscation order is thus treated as if it was a fine imposed by the magistrates.
+The difference between a magistrates imposed fine and a Crown Court imposed fine is that magistrates do not fix a default term when imposing the fine.
+Imprisonment in default is only considered in the event of a default and, at that time, the magistrates will know whether the default is total or partial.
+Thus, credit can be given for part payments made before the commitment process is undertaken.
+However, s.139(2) of the 2000 Sentencing Act mandates the fixing of an anticipatory default term at the time the fine or order is imposed. [12] The difference in practices led the lower courts to analyse s.79(2) Magistrates Courts Act 1980 as assuming the standard magistrates practice and thus to conclude that the references in that subsection to a period of imprisonment having been imposed in default of payment were references to the act of the magistrates in issuing the warrant of commitment.
+This caused the consequential difficulty that s.79(2) would say nothing about how to deal with part payments made in Crown Court cases between the Crown Court making a confiscation order and the later magistrates proceedings.
+Hence the Court of Appeal understandably read additional words into s.79(2). [13] The period of imprisonment in default of payment is imposed for the purposes of s.79 when the Crown Court discharges its statutory duty under s.139(2) of the 2000 Sentencing Act and fixes the (anticipatory) term in default.
+This construction follows from s.150 Magistrates Courts Act 1980 and is necessary to make sense of s.140(3) of the 2000 Sentencing Act.
+It is also assumed by the Magistrates Court Rules.
+Thus, the default term in the case of Crown Court orders must be the term that the court imposed at the time of making its order. [15 17] The operative words of s.79(2) expressly say that the days to be deducted are to be the number which bear the same proportion to the total default term imposed (by the Crown Court) as the part payments bear to so much of the said sum as was due at the time the period of detention was imposed.
+At the time the Crown Court imposed the default term, there was as yet no interest accrued at all. [20] Straining of the wording of s.79(2) cannot be justified where it would adversely impact on the period of imprisonment to which a person is subject.
+Penal legislation, particularly legislation imposing penalties that deprive liberty, is construed strictly.
+The natural construction of the section is that the starting point for the arithmetical calculation of reduction in days of imprisonment is the sum outstanding at the time of the Crown Court order. [21] charges of distress do not support the respondents construction.
+The reference is explained by the case of magistrates first issuing a warrant for distress and only subsequently fixing the default term for non payment.
+The addition of such costs and charges is expressly provided for and that does not mean that an equivalent provision can be read in as a consequence of a provision in different statute (s.10(1) DTA). [22]

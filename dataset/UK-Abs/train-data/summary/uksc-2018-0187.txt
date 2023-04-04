@@ -1,0 +1,49 @@
+This appeal concerns the defence of illegality.
+The Supreme Court is asked to decide whether a firm of solicitors, Stoffel & Co, can escape liability to Ms Grondona for their negligent failure to register documents effecting a transfer of property because the transfer formed part of an illegal mortgage fraud.
+Ms Grondona had a business relationship with Mr Mitchell.
+In or about July 2002, Mr Mitchell purchased a 125 year lease of the rear ground floor flat at 73b Beulah Rd, Thornton Heath (the property).
+Shortly afterwards, he borrowed 45,000 from BM Samuels Finance Group Plc.
+The loan was secured by a legal charge over the property (the BM Samuels charge).
+In October 2002, Ms Grondona bought the property from Mr Mitchell, with the assistance of a mortgage advance of 76,475 from Birmingham Midshires.
+The plan was that the mortgage advance would be secured by a charge over the property, which Ms Grondona entered into on 31 October 2002 (the Birmingham Midshires charge).
+Ms Grondona procured the mortgage advance by fraud.
+According to the trial judge, the purpose of the fraud was to raise capital for Mr Mitchell from a high street lender, which he would not otherwise have been able to obtain.
+Ms Grondona and Mr Mitchell had previously entered into an agreement which confirmed that Mr Mitchell would be responsible for the mortgage payments.
+Stoffel & Co solicitors acted for Ms Grondona, Mr Mitchell and Birmingham Midshires in connection with the transaction.
+Stoffel & Co negligently failed to register at the Land Registry the form TR1 transferring the property from Mr Mitchell to Ms Grondona, the form DS1 releasing the BM Samuels charge, and the Birmingham Midshires charge.
+This meant that Mr Mitchell remained the registered owner of the property, which continued to be subject to the BM Samuels charge.
+Mr Mitchell subsequently received further advances from BM Samuels on the basis of that charge.
+In 2006, Ms Grondona defaulted on payments under the Birmingham Midshires charge.
+Birmingham Midshires brought proceedings against her.
+Ms Grondona, in turn, sought damages from Stoffel & Co. Stoffel & Co admitted that their failure to register the forms with the Land Registry constituted negligence or a breach of retainer.
+However, they argued that they were entitled to rely on the illegality defence, because Ms Grondona had only instructed them to further the illegal mortgage fraud.
+The trial judge held that Ms Grondonas claim was not barred by the illegality defence.
+The Court of Appeal dismissed Stoffel & Cos appeal.
+Stoffel & Co appealed to the Supreme Court.
+The Supreme Court unanimously dismisses Stoffel & Cos appeal, and holds that Ms Grondonas claim is not barred by the illegality defence.
+Lord Lloyd Jones gives the judgment, with which all members of the Court agree.
+The Supreme Court decision in Patel v Mirza [2016] UKSC 42 set out a new policy based approach to the illegality defence at common law.
+In that case, the majority held that, when a claim is tainted by illegality, the court should ask itself whether enforcing the claim would lead to inconsistency that is damaging to the integrity of the legal system.
+In making this assessment, the court should consider: (a) the underlying purpose of the illegality in question, and whether that purpose would be enhanced by denying the claim; (b) any other relevant public policy on which denying the claim may have an impact; and (c) whether denying the claim would be a proportionate response to the illegality [22 23].
+The application of this trio of considerations should not be a mechanistic process.
+Accordingly, the court will identify the policy considerations at stages (a) and (b) of the trio at a relatively general level.
+The courts task is to establish whether enforcing a claim that is tainted with illegality would be inconsistent with the policies to which the law gives effect or, where the policies compete, to decide where the balance lies.
+The court is not required to evaluate the underlying policies themselves.
+In contrast, when considering proportionality at stage (c), it is likely that the court will need to look closely at the case before it.
+However, it is not necessary for the court to consider proportionality in every case.
+If, after it has examined the policy considerations at stages (a) and (b), the court determines that the claim should not be barred by the illegality defence, there will be no need for it to go on to consider proportionality.
+This is because the claim will be allowed, so there is no risk of disproportionate harm to the claimant by refusing relief to which he or she would otherwise be entitled [26].
+In considering stage (a), Lord Lloyd Jones observes that Ms Grondona was engaged in mortgage fraud, which is a serious criminal offence.
+However, denying her claim would not enhance the underlying purpose of the prohibition on mortgage fraud.
+Fraudsters are unlikely to be deterred by the risk that they will be left without a civil remedy if their solicitors prove to be negligent [29].
+On the other hand, allowing Ms Grondonas claim would enhance the protection that the law provides to mortgagees and other members of the public, which is a further underlying purpose of the prohibition on mortgage fraud.
+By the time of Stoffel & Cos negligence, it was in the interests of both Ms Grondona and Birmingham Midshires that the transfer should be registered [30 31].
+Turning to stage (b), denying Ms Grondonas claim would run counter to a number of important public policies.
+In particular, it would be inconsistent with the policy that solicitors should perform their duties to their clients diligently and without negligence, as well as with the policy that the victims of solicitors negligence should be compensated for the loss they have suffered [32].
+Denying the claim would also result in an incoherent contradiction in the law, because the law accepts that an equitable interest in the property passed to Ms Grondona, even though she was engaged in mortgage fraud [33 34].
+The balancing of the policy considerations at stages (a) and (b) indicate that Ms Grondonas claim should not be barred by the illegality defence.
+There is, consequently, no need to consider proportionality, but Lord Lloyd Jones does so nevertheless [35].
+He concludes that it would not be proportionate to deny Ms Grondonas claim because it is conceptually entirely separate from the mortgage fraud [43].
+Enforcing the claim would not allow Ms Grondona to profit from her wrongdoing [44 45].
+In any case, following Patel v Mirza, the courts focus should be on the need to avoid inconsistency that is damaging to the integrity of the legal system.
+The question of whether the claimant will profit from the illegality remains a relevant consideration, but it is no longer the true focus of the courts inquiry [46].

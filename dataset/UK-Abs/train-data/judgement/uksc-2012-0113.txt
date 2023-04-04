@@ -1,0 +1,883 @@
+The facts of this case can fairly be described as exotic, but very few of them are relevant to the present appeal.
+Dr Williams claims to be the victim of a fraud instigated by the Nigerian State Security Services which occurred in 1986.
+His case is that he was induced to serve as guarantor of a bogus transaction for the importation of foodstuffs into Nigeria.
+In connection with that transaction, he paid $6,520,190 to an English solicitor, Mr Reuben Gale, to be held on trust for him on terms that it should not be released until certain funds had been made available to him in Nigeria.
+Dr Williams says that in fraudulent breach of that trust, Mr Gale, knowing that those funds were not available to him in Nigeria, paid out $6,020,190 of the money to an account of the Central Bank of Nigeria with Midland Bank in London, and that he pocketed the remaining $500,000.
+The Central Bank is said to have been party to Mr Gales fraud.
+The Bank applied for an order setting aside the permission given to Dr Williams to serve the claim form and particulars of claim on the Central Bank in Nigeria and declaring that the English court lacked, or at any rate should not exercise, jurisdiction in respect of it.
+That in turn depended on whether there was a serious issue to be tried.
+Supperstone J, who heard the matter in the High Court, held that of the various claims then advanced by Dr Williams, the only ones which raised a serious issue to be tried on the pleaded facts were the so called 1986 trust claims: [2011] EWHC 876 (QB).
+Dr Williams no longer challenges that.
+The 1986 trust claims comprised (i) a claim to require the Central Bank to account for the $6,520,000 on the footing that it dishonestly assisted Mr Gales breach of trust; (ii) a claim to require it to account for $6,020,190 on the footing that it received that sum knowing that it was being paid by Mr Gale in breach of trust; and (iii) a claim to trace the $6,020,190 in the Central Banks hands.
+As far as these claims were concerned, the issue turns wholly on whether they were subject to statutory limitation by virtue of section 21 of the Limitation Act 1980, which deals with time limits for actions in respect of trust property.
+It is common ground that so far as any of the 1986 trust claims is subject to statutory limitation, the limitation period has expired and that on that footing those claims would give rise to no serious issue to be tried.
+Since Supperstone J gave judgment, Dr Williams has received permission to amend his Particulars of Claim to add three further causes of action, collectively known as the Nigerian law claim.
+This court has not been concerned with that claim, and I say nothing more about it.
+The result is that regardless of the outcome of this appeal, permission to serve out of the jurisdiction will stand, so that the Nigerian law claim may be tried.
+Section 21 of the Limitation Act 1980 provides (so far as relevant) as follows: 21. (1) No period of limitation prescribed by this Act shall apply to an action by a beneficiary under a trust, being an action (a) in respect of any fraud or fraudulent breach of trust to which the trustee was a party or privy ; or (b) to recover from the trustee trust property or the proceeds of trust property in the possession of the trustee, or previously received by the trustee and converted to his use. (3) Subject to the preceding provisions of this section, an action by a beneficiary to recover trust property or in respect of any breach of trust, not being an action for which a period of limitation is prescribed by any other provision of this Act, shall not be brought after the expiration of six years from the date on which the right of action accrued.
+Section 23 provides: An action for an account shall not be brought after the expiration of any time limit under this Act which is applicable to the claim which is the basis of the duty to account.
+Section 38(1) of the Limitation Act 1980, defines the terms trust and trustee as having the same meanings, respectively, as in the Trustee Act 1925.
+This is a reference to section 68(17) of the Trustee Act 1925, which provides that subject to immaterial exceptions, the expressions trust and trustee extend to implied and constructive trusts. and to the duties incident to the office of a personal representative, and trustee where the context admits includes a personal representative.
+As applied to the 1986 trust claims, these provisions give rise to two questions.
+The first is whether a stranger to a trust who is liable to account (as the Central Bank is alleged to be) on the footing of dishonest assistance in a breach of trust or knowing receipt of trust assets is a trustee for the purposes of section 21(1)(a).
+If the answer to that question is No, then the second question is whether an action in respect of any fraud or fraudulent breach of trust to which the trustee was a party or privy includes an action against a party such as the Central Bank which is not itself a trustee.
+Both questions were argued before Supperstone J. He held that the Central Bank could not be described as a trustee, but that it was at least arguable that section 21(1)(a) was not confined to actions against the trustee and extended to an action against the Bank arising out of its participation in the trustees fraud.
+He therefore refused to set aside the order for service.
+Before the Court of Appeal (Sir Andrew Morritt C, Black and Tomlinson LJJ), Dr Williams conceded the first question, as a result of which only the second was argued: [2013] QB 499.
+They decided that question in favour of Dr Williams, and affirmed the judges decision.
+Before this court, Mr Adkin QC, who appeared for Dr Williams, has partially withdrawn his concession on the first issue.
+He still accepts that a person liable to account on the footing of dishonest assistance in anothers breach of trust is not a trustee.
+But he says that a person liable to account on the footing of knowing receipt is a trustee.
+Mr Philipps QC, appearing for the Central Bank did not object to his being allowed to take this point, and was clearly right not to do so.
+Not only is it a pure question of law, but a proper understanding of section 21 requires an examination of both questions.
+We are not concerned (as the Judge thought he was) with the question whether Dr Williams case on limitation is merely arguable.
+Dr Williams case is certainly arguable, and has been exceptionally well argued.
+Both parties now accept that we can and should decide whether it is right.
+In my opinion it is not.
+The 1986 trust claims are time barred, essentially because section 21(1)(a) of the Limitation Act 1980 is concerned only with actions against trustees and the Central Bank is not a trustee.
+This is because a constructive trust of the kind alleged against the Bank is not a true trust.
+To explain why this is so, it is necessary to examine the rather complicated interaction between the successive statutes of limitation and the equitable rules regarding the limitation of actions against trustees.
+Two categories of constructive trust
+The combined effect of the definition sections of the Limitation Act 1980 and the Trustee Act 1925 is that in section 21 of the Limitation Act a trustee includes a constructive trustee.
+Unfortunately, this is not as informative as it might be, for there are few areas in which the law has been so completely obscured by confused categorisation and terminology as the law relating to constructive trustees.
+The starting point for any consideration of this subject remains the well known statement of principle of Lord Selborne in Barnes v Addy (1874) LR 9 Ch App 244, 251: Now in this case we have to deal with certain persons who are trustees, and with certain other persons who are not trustees.
+That is a distinction to be borne in mind throughout the case.
+Those who create a trust clothe the trustee with a legal power and control over the trust property, imposing on him a corresponding responsibility.
+That responsibility may no doubt be extended in equity to others who are not properly trustees, if they are found either making themselves trustees de son tort, or actually participating in any fraudulent conduct of the trustee to the injury of the cestui que trust.
+But, on the other hand, strangers are not to be made constructive trustees merely because they act as the agents of trustees in transactions within their legal powers, transactions, perhaps of which a Court of Equity may disapprove, unless those agents receive and become chargeable with some part of the trust property, or unless they assist with knowledge in a dishonest and fraudulent design on the part of the trustees.
+It is clear that Lord Selborne regarded as a constructive trustee any person
+who was not an express trustee but might be made liable in equity to account for the trust assets as if he was.
+The problem is that in this all embracing sense the phrase constructive trust refers to two different things to which very different legal considerations apply.
+The first comprises persons who have lawfully assumed fiduciary obligations in relation to trust property, but without a formal appointment.
+They may be trustees de son tort, who without having been properly appointed, assume to act in the administration of the trusts as if they had been; or trustees under trusts implied from the common intention to be inferred from the conduct of the parties, but never formally created as such.
+These people can conveniently be called de facto trustees.
+They intended to act as trustees, if only as a matter of objective construction of their acts.
+They are true trustees, and if the assets are not applied in accordance with the trust, equity will enforce the obligations that they have assumed by virtue of their status exactly as if they had been appointed by deed.
+Others, such as company directors, are by virtue of their status fiduciaries with very similar obligations.
+In its second meaning, the phrase constructive trustee refers to something else.
+It comprises persons who never assumed and never intended to assume the status of a trustee, whether formally or informally, but have exposed themselves to equitable remedies by virtue of their participation in the unlawful misapplication of trust assets.
+Either they have dishonestly assisted in a misapplication of the funds by the trustee, or they have received trust assets knowing that the transfer to them was a breach of trust.
+In either case, they may be required by equity to account as if they were trustees or fiduciaries, although they are not.
+These can conveniently be called cases of ancillary liability.
+The intervention of equity in such cases does not reflect any pre existing obligation but comes about solely because of the misapplication of the assets.
+It is purely remedial.
+The distinction between these two categories is not just a matter of the chronology of events leading to liability.
+It is fundamental.
+In the words of Millett LJ in Paragon Finance Plc v DB Thakerar & Co (a firm) [1999] 1 All ER 400, at 413, it is the distinction between an institutional trust and a remedial formula between a trust and a catch phrase.
+Selangor United Rubber Estates Ltd v Craddock (no. 3) [1968] 1 WLR 1555, is a decision of Ungoed Thomas J about the elements of ancillary liability.
+It has been much criticised for drawing the net of liability too wide, and for making excessively fine distinctions between different mental states.
+But it contains a clear and entirely orthodox statement of the different categories of constructive trustee.
+The judge observed, at p 1579: It is essential at the outset to distinguish two very different kinds of so called constructive trustees: (1) Those who, though not appointed trustees, take upon themselves to act as such and to possess and administer trust property for the beneficiaries, such as trustees de son tort.
+Distinguishing features for present purposes are (a) they do not claim to act in their own right but for the beneficiaries, and (b) their assumption to act is not of itself a ground of liability (save in the sense of course of liability to account and for any failure in the duty so assumed), and so their status as trustees precedes the occurrence which may be the subject of claim against them. (2) Those whom a court of equity will treat as trustees by reason of their action, of which complaint is made.
+Distinguishing features are (a) that such trustees claim to act in their own right and not for beneficiaries, and (b) no trusteeship arises before, but only by reason of, the action complained of.
+Later in his judgment, at p 1582, the judge expanded upon the characteristics of his category (2): It seems to me imperative to grasp and keep constantly in mind that the second category of constructive trusteeship (which is the only category with which we are concerned) is nothing more than a formula for equitable relief.
+The court of equity says that the defendant shall be liable in equity, as though he were a trustee.
+He is made liable in equity as trustee by the imposition or construction of the court of equity.
+This is done because in accordance with equitable principles applied by the court of equity it is equitable that he should be held liable as though he were a trustee.
+The same point was made in very similar language by Millett LJ in Paragon, at pp 408 409: Regrettably, however, the expressions constructive trust and constructive trustee have been used by equity lawyers to describe two entirely different situations.
+The first covers those cases already mentioned, where the defendant, though not expressly appointed as trustee, has assumed the duties of a trustee by a lawful transaction which was independent of and preceded the breach of trust and is not impeached by the plaintiff.
+The second covers those cases where the trust obligation arises as a direct consequence of the unlawful transaction which is impeached by the plaintiff.
+A constructive trust arises by operation of law whenever the circumstances are such that it would be unconscionable for the owner of property (usually but not necessarily the legal estate) to assert his own beneficial interest in the property and deny the beneficial interest of another.
+In the first class of case, however, the constructive trustee really is a trustee.
+He does not receive the trust property in his own right but by a transaction by which both parties intend to create a trust from the outset and which is not impugned by the plaintiff.
+His possession of the property is coloured from the first by the trust and confidence by means of which he obtained it, and his subsequent appropriation of the property to his own use is a breach of that trust.
+In these cases the plaintiff does not impugn the transaction by which the defendant obtained control of the property.
+He alleges that the circumstances in which the defendant obtained control make it unconscionable for him thereafter to assert a beneficial interest in the property.
+The second class of case is different.
+It arises when the defendant is implicated in a fraud.
+Equity has always given relief against fraud by making any person sufficiently implicated in the fraud accountable in equity.
+In such a case he is traditionally though I think unfortunately described as a constructive trustee and said to be liable to account as constructive trustee.
+Such a person is not in fact a trustee at all, even though he may be liable to account as if he were.
+He never assumes the position of a trustee, and if he receives the trust property at all it is adversely to the plaintiff by an unlawful transaction which is impugned by the plaintiff.
+In such a case the expressions constructive trust and constructive trustee are misleading, for there is no trust and usually no possibility of a proprietary remedy; they are nothing more than a formula for equitable relief.
+Relevance of the distinction to limitation
+Before the Trustee Act 1888, no statutory time bar applied to a claim by a beneficiary against a trustee.
+The practice of equity was to apply statutory limitation periods by analogy to equitable claims, in addition to its own doctrines of laches and acquiescence.
+But by way of exception statutory limitation periods were not applied, even by analogy, to claims by a beneficiary against a trustee for breach of trust.
+Trustees were accountable to their beneficiaries without limitation of time.
+It is important to understand why equity adopted this rule, for its rationale
+will not necessarily apply to every kind of constructive trust.
+The reason was that the trust assets were lawfully vested in the trustee.
+Because of his fiduciary position, his possession of them was the beneficiarys possession and was entirely consistent with the beneficiarys interest.
+If the trustee misapplied the assets, equity would ignore the misapplication and simply hold him to account for the assets as if he had acted in accordance with his trust.
+There was nothing to make time start running against the beneficiary.
+It will be apparent that this reasoning can apply only to those who, at the time of the misapplication of the assets have assumed the responsibilities of a trustee, whether expressly or de facto.
+Persons who are under a purely ancillary liability are in a different position.
+They are liable only by virtue of their participation in the misapplication of the trust assets itself.
+Their dealings with the assets were at all times adverse to the beneficiaries, and indeed to the true trustees holding the legal interest.
+This point was first articulated by Lord Redesdale, Lord Chancellor of Ireland, in Hovenden v Lord Annesley (1806) 2 Sch & Lef 607, a classic judgment delivered (according to the reporter) after several days of argument around his sickbed at home.
+Referring to a judgment of Lord Maccelsfield on the application of statutory limitation by analogy to claims against trustees for breach of trust, he continued at pp 632 633: Now I take it that the position which has been laid down, that trust and fraud are not within the statute, is qualified just as he qualifies it here: that is, if a trustee is in possession and does not execute his trust, the possession of the trustees is the possession of the cestui que trust; and if the only circumstance is, that he does not perform his trust, his possession operates nothing as a bar, because his possession is according to his title.
+But the question of fraud is of a very different description: that is a case where a person who is in possession by virtue of that fraud, is not, in the ordinary sense of the word, a trustee, but is to be constituted a trustee by a decree of a court of equity, founded on the fraud; and his possession in the meantime is adverse to the title of the person who impeaches the transaction on the ground of fraud.
+The position of a person who is not an express or a de facto trustee but is constituted a trustee by a decree of a court of equity may be illustrated by another early case, Beckford v Wade (1805) 17 Ves Jun 87, a decision of the Privy Council on appeal from Jamaica.
+The claim was to recover trust assets from a stranger to the trust into whose hands they had come.
+The issue concerned the application of the English statutes of limitation, which were held to apply in Jamaica subject to a Jamaican statute excepting (among other people) trustees.
+Delivering the advice of the Board, Sir William Grant MR said, at pp 95, 97: The question then is, what the true construction of the Act is in this particular: whether it meant only actual and express trusts, as between cestui que trusts and trustees properly so called, upon which length of time ought to have no effect: or whether it intended to leave open to perpetual litigation every equitable question relative to real property.
+It is certainly true, that no time bars a direct trust, as between cestui que trust and trustee.
+But if it is meant to be asserted that a court of equity allows a man to make out a case of constructive trust at any distance of time, after the facts and circumstances happened, out of which it arises, I am not aware that there is any ground for a doctrine, so fatal to the security of property as that would be.
+Inconsistent case law
+These cases gave a coherent and rational explanation of the reason why, exceptionally, limitation could not be taken by an express or de facto trustee against his beneficiary, but was available to strangers who had incurred an ancillary liability.
+Courts of equity, however, later lost sight of the underlying principle and for much of the 19th century continued to deal with the issue on a confusing and inconsistent basis, generally without analysis or reference to earlier authority.
+For many years, Bonney v Ridgard (1784) 17 Ves 87 and Beckford v Wade (1805) 17 Ves Jun 87 were the principal authorities for the proposition that limitation was available to strangers who were under an ancillary liability arising from a breach of trust.
+Wilson v Moore (1834) 1 My&K 337 and Bridgman v Gill (1857) 24 Beav 302 were authority for the opposite proposition.
+I do not propose to analyse the facts of these cases, some of which are very summarily reported.
+The story can conveniently be taken up in 1893, when Soar v Ashwell [1893] 2 QB 390 came before the Court of Appeal.
+Soar v Ashwell was decided under the general principles of equity relating to limitation as they stood before the Trustee Act 1888.
+The facts were similar to those of many other cases about Victorian family trusts.
+The fund had been entrusted by the trustees to Ashwell, the solicitor to the trust, who exercised all of their administrative and investment powers for them and misapplied the assets.
+The actual question at issue was whether the reasoning which deprived trustees of the right to raise limitation against their beneficiaries applied to him, given that he was not an express trustee.
+The Court of Appeal held that it did.
+According to Lord Esher MR and Bowen LJ, this was because he stood in a fiduciary position to the trustees as his clients.
+According to Kay LJ it was because he was a trustee de son tort.
+For present purposes, the difference does not matter.
+In either case, as Lord Esher put it at pp 393, 394, he had assumed to act as if he were a trustee.
+The Court of Equity treats the defendant as a trustee become so by construction, and the trust is called a constructive trust.
+Lord Esher recognised the distinction explained by Lord Redesdale between a person liable by reason of his pre existing status as a trustee and a person liable only by reason of his involvement in a misapplication of the assets.
+At p 394 he observed: Assume that he misappropriated that money to his own use, and that was all; the misappropriation would at once of itself make him the holder of the money in trust for the rightful owner, but if that were all only a trustee by construction of a constructive trust.
+But the questions in this case are whether Ashwell was not, in view of a Court of Equity, a trustee of the money before the alleged breach by misappropriation and, if he was, under which class of trust he was with regard to limitations.
+The moment the money was in his hands, he was in a fiduciary relation to the nominated trustees; he was a fiduciary agent of theirs; he held the money in trust to deal with it for them as directed by them; he was a trustee for them.
+He was therefore a trustee of the money before he committed, if he did commit, the alleged breach of trust, and was in possession of and had control over the money before he committed, if at all, the alleged breach of trust.
+Notwithstanding this impeccable statement of the reasons why Ashwell could not rely on limitation, all three members of the court went on to deal, in terms which had no regard to it, with the position of other kinds of constructive trustee.
+Lord Esher expressed the view, at pp 394 395, that a stranger to the trust who knowingly assisted in a dishonest misapplication of trust assets would be treated for limitation purposes in the same way as an express trustee.
+Bowen LJ, at pp 396 397, while recognising that the authorities were irreconcilable, identified three cases where a constructive trustee would be treated for limitation purposes like an express trustee, namely the case of de facto trustees, which was the case before the court; the case of a stranger to the trust knowingly assisting the fraud of a trustee; and the case of a stranger knowingly receiving trust property in breach of trust.
+Kay LJ, whose own examination of the authorities at pp 400 405 disclosed the same inconsistency, seems to have been of the same view as Bowen LJ.
+None of them suggested that a stranger liable to account as a constructive trustee on the footing of knowing assistance or knowing receipt was actually a trustee, only that for the purpose of the general equitable principles governing limitation such persons were to be treated in the same way as trustees.
+None of them sought to explain why the rather special rationale of the rule of equity applicable to express or de facto trustees should apply to a person who was not a trustee but had a purely ancillary liability to account as a constructive trustee.
+Nonetheless in the years immediately following the decision in Soar v Ashwell, most judges were content to follow the dicta in that case: see In re Gallard [1897] 2 QB 8; Heynes v Dixon [1900] 2 Ch 561; In re Eyre Williams [1923] 2 Ch 533 (although only the first of these cases was a true case of ancillary liability).
+Statutory modification
+From this unsatisfactory state of affairs, the law was rescued by the intervention of statute, which provoked some fresh judicial analysis.
+Section 25(2) of the Judicature Act 1873 gave statutory effect to the rule which deprived trustees of the right to raise limitation, at any rate so far as express trustees were concerned.
+It provided: No claim of a cestui que trust against his trustee for any property held on an express trust, or in respect of any breach of such trust, shall be held to be barred by any statute of limitations.
+The first significant change in the law came with the Trustee Act 1888, which sought to relieve honest trustees who had parted with the assets and had not converted them to their own use from the harshness of the rule which held them accountable without limitation of time.
+Section 8(1) of the Act applied in any action or other proceeding against a trustee or any person claiming through him, except where the claim is founded upon any fraud or fraudulent breach of trust to which the trustee was party or privy, or is to recover trust property, or the proceeds thereof still retained by the trustee, or previously received by the trustee and converted to his use If these conditions were satisfied, the trustee was entitled to the same statutory period of limitation as would have been available if he had not been a trustee or, in the case of an action to recover trust money or property, to the limitation period applicable to a common law action for money had and received.
+This meant, in effect, six years.
+For the purpose of section 8(1), trustee was defined in section 1(3) as including an executor or administrator and a trustee whose trust arises by construction or implication of law as well as an express trustee.
+The leading case on the effect of sections 1(3) and 8(1) of the Trustee Act 1888 was Taylor v Davies [1920] AC 636, a decision of the Privy Council on a Canadian statute in the same terms.
+Davies was a secured creditor of an insolvent firm whose property had been the subject of an assignment for the benefit of creditors.
+He was also a member of the committee of inspection appointed to supervise the assignee.
+He took a conveyance of the mortgaged property from the assignee in satisfaction of the debt at what was alleged to be an undervalue.
+Twelve years later, the other creditors sought to set aside the conveyance, on the ground that as a member of the committee of inspection Davies had been a fiduciary and as such precluded by the self dealing rule from acquiring the property himself, at any rate without fuller disclosure.
+There was no allegation of dishonesty.
+The Board held that Mr Davies was not an express trustee because the assets of the insolvent were vested in the assignee and the committee of creditors had no power to dispose of them.
+The same point would have been fatal to any suggestion that he was a de facto trustee.
+They considered that he was a constructive trustee, apparently on the footing of knowing receipt of assets held in trust by the assignee.
+In those circumstances, the question arose whether the Act applied.
+It was argued for Davies that the Act had no application to constructive trustees whose liability was purely ancillary, because such persons had always been entitled in equity to raise limitation.
+The creditors argument was that the definition of trustee extended to constructive trustees, and that Davies was deprived of the right to raise limitation by the statutory exception for cases where the property or its proceeds was still in the hands of the alleged trustee.
+The Board decided this question in favour of Davies.
+Their reason was that the Act did not extend to constructive trustees whose liability to account arose from the wrongful misapplication itself.
+Two passages from the advice of the Board, given by Viscount Cave, are relevant.
+At pp 650 651, Viscount Cave said: The possession of an express trustee was treated by the Courts as the possession of his cestuis que trust, and accordingly time did not run in his favour against them.
+This disability applied, not only to a trustee named as such in the instrument of trust, but to a person who, though not so named, had assumed the position of a trustee for others or had taken possession or control of property on their behalf, such (for instance) as the persons enumerated in the judgment of Bowen L.J. in Soar v Ashwell or those whose position was in question in Burdick v Garrick, In re Sharpe, Rochefoucauld v Boustead, and Reid Newfoundland Co v Anglo American Telegraph Co.
+These persons, though not originally trustees, had taken upon themselves the custody and administration of property on behalf of others; and though sometimes referred to as constructive trustees, they were, in fact, actual trustees, though not so named.
+It followed that their possession also was treated as the possession of the persons for whom they acted, and they, like express trustees, were disabled from taking advantage of the time bar.
+But the position in this respect of a constructive trustee in the usual sense of the words that is to say, of a person who, though he had taken possession in his own right, was liable to be declared a trustee in a Court of equity was widely different, and it had long been settled that time ran in his favour from the moment of his so taking possession.
+This rule is illustrated by the well known judgment of Sir William Grant MR in Beckford v Wade.
+Turning to the extended definition of trustee to include constructive trustees, Viscount Cave said at p 653: The expressions trust property and retained by the trustee properly apply, not to a case where a person having taken possession of property on his own behalf, is liable to be declared a trustee by the Court; but rather to a case where he originally took possession upon trust for or on behalf of others.
+In other words, they refer to cases where a trust arose before the occurrence of the transaction impeached and not to cases where it arises only by reason of that transaction.
+The exception no doubt applies, not only to an express trustee named in the instrument of trust, but also to those persons who under the rules explained in Soar v Ashwell and other cases are to be treated as being in a like position; but in their Lordships' opinion it does not apply to a mere constructive trustee of the character described in the judgment of Sir William Grant.
+There is some confusion in these passages, arising from the references to Soar v Ashwell.
+Some of Viscount Caves turns of phrase, taken in isolation, might be thought to suggest that he was approving Bowen LJs extension of the equitable rule to cases of ancillary liability.
+But I think that he must have been referring to the ratio of that case, ie to the extension of the equitable rule to de facto trustees.
+Otherwise, he could not have decided the case in the way he did.
+Nor could he have distinguished cases in which the liability to account was imposed by equity by reason of the wrongful act itself, such as the decision of Sir William Grant in Beckford v Wade, the relevant part of which he had quoted at 651 652.
+Three years later, in Clarkson v Davies [1923] AC 100, the Privy Council applied the same reasoning to the same statute, in another case involving the knowing receipt of a companys funds by its directors.
+Taylor v Davies, they said at 110 111, was authority for a distinction between a trust which arises before the occurrence of the transaction impeached and cases which arose only by reason of that transaction.
+In 1936, the Law Revision Committee under the chairmanship of the then Master of the Rolls Lord Wright presented its fifth interim report, on statutes of limitation.
+Paragraph 11 of the report dealt with section 8 of the Trustee Act 1888, so far as relevant to the present issues.
+The Committee regarded the section as generally satisfactory.
+But it identified a problem about actions against persons, in particular executors, who owed fiduciary obligations in relation to property but were not express trustees.
+In two cases decided after the Act of 1888 but under the previous law, it had been held that executors were entitled to rely on a statutory time bar even if they were still in possession of the assets.
+This was because section 25(1) of the Judicature Act, in giving statutory effect to the rule of equity preventing trustees from raising limitation against their beneficiaries, had referred only to express trustees and executors were not express trustees: see In re Jane Davies [1891] 3 Ch 119; In re Lacy [1899] 2 Ch 149.
+This result was not consistent with section 8(1) of the Act of 1888, which had excluded from its ambit cases in which the trustee was still in possession when sued.
+But the anomaly would nevertheless persist because section 8(3) preserved any pre existing right to rely on limitation.
+The Committees conclusion, at para 11, was as follows: It is difficult to find any real justification for the rule that an executor or other person holding property as a trustee, but not on an express trust, can plead the statute, though he still retains the trust property or has converted it to his own use.
+The rule has been extensively modified by decisions giving such a wide meaning to express trust as to bring most cases of fiduciary relationship within the exception to the Trustee Act, and to raise serious doubt as to where the line is to be drawn for this purpose between express and constructive trusts.
+See the judgment of the Bowen LJ in Soar v Ashwell [1893], 2, QB at p 395, and the authorities there cited, and the cases referred to by Romer J in In re Eyre Williams [1923] 2 Ch 533.
+It is perhaps too late now to suggest that the Trustee Act, 1888 was intended to do away with the distinction between express and constructive trusts for the purpose of the limitation of actions, though the definition of trustee in section 1 (8) seems to point to that conclusion.
+At any rate we consider that the distinction should now be abolished, and we recommend that the exception in section 8 of the Trustee Act, 1888 should be expressly made to extend to trustees whether holding on express or constructive trusts, including personal representatives.
+Recommendation (7) of the Committee was that the Statutes of Limitation should only apply to constructive trustees to the extent to which they do to express trustees.
+It will be apparent from these observations that the only distinction which needed to be abolished for limitation purposes in order to dispose of the anomaly identified by the Committee was the distinction between express trustees and executors.
+It is clear that in referring to the position of persons who still held the property in their possession the Committee had in mind de facto trustees and other persons such as executors owing fiduciary duties in relation to property by virtue of their office.
+Notwithstanding the ambiguous reference to Bowen LJs judgment in Soar v Ashwell, there is nothing in the Committees reasoning to suggest that they had in mind ancillary liabilities.
+The Limitation Act 1939 was both a consolidating and an amending Act.
+So far as it amended the law, it was intended to give effect to the principal recommendations of the Wright Committee.
+It is, however, necessary to be cautious about transposing the views of the Wright Committee into the statutory language.
+The Committee did not produce a draft bill and the language of section 19 does not follow that of the report as some other sections do.
+It may therefore have been influenced by other considerations.
+As far as trustees were concerned the Act repealed the Trustee Act 1888 and replaced section 8 of that Act by section 19 of the new Act.
+Section 19(1) and (2) were in substantially the same terms as section 21(1) and (3) of the Limitation Act 1980, which I have set out above.
+They employed a different drafting technique from the old section 8(1).
+Instead of creating a right on the part of trustees to raise limitation by analogy with statute, subject to the two exceptions for cases of fraud by the trustee or actions to recover trust property in the possession of the trustee or previously converted to his use, it reversed the order of ideas.
+It provided that no limitation period prescribed by the Act should apply in those two cases, and then that the limitation period in other cases should be six years.
+The effect was to address the Wright Committees specific concerns about the survival of pre existing rights to raise limitation in cases falling within the exceptions, by excluding such rights in terms.
+If, which I doubt, the Wright Committee intended to propose the abolition of the distinction for limitation purposes between express trustees and every kind of constructive trustee, including those whose liability was ancillary, then it is clear that this proposal was not adopted by Parliament.
+Section 31(1) of the 1939 Act adopted the meaning given to trust and trustee in section 68(17) of the Trustee Act 1925.
+This had the effect of broadening the definition to include personal representatives, whose unsatisfactory position had been the main source of concern to the Committee.
+Otherwise the scope of the new definition was no broader than that of the Trustee Act 1888.
+But it goes further than that.
+By adopting the meaning and not just the language of the definition in the Trustee Act 1925, Parliament made it even clearer that the intention was simply to cover de facto trustees.
+The Trustee Act 1925 is concerned with the administration of true trusts.
+It is not concerned with constructive trusts imposed by equity on strangers to the trust in the exercise of its remedial jurisdiction.
+As Millett LJ observed when making this point in Paragon, at p 412, constructive trustees required to account in the exercise of equitys remedial jurisdiction, have no trust powers or duties; they cannot invest, sell or deal with the trust property; they cannot retire or appoint new trustees; they have no trust property in their possession or under their control, since they became accountable as constructive trustees only by parting with the trust property.
+They are in reality neither trustees nor fiduciaries, but merely wrongdoers.
+All of these considerations apply equally to section 21 of the Limitation Act 1980, which is in the same terms.
+It was suggested to us that in enacting section 19 of the Limitation Act 1939, Parliament must have intended to abolish for limitation purposes the distinction between true trustees and others upon whom equity imposed a liability to account as if they were trustees.
+This was because it intended to adopt the recommendations of the Wright Committee, and that (it was said) is what the Wright Committee intended.
+It is I think important to remember that we are construing the Act, not the report of the Committee.
+But the submission cannot in any event be correct for a number of reasons.
+In the first place, there is nothing in the report of the Wright Committee which suggests that they intended to abolish that distinction.
+What they were concerned with was the distinction between different kinds of true trustees.
+In particular, they were concerned with the anomalous distinction which had crept into recent case law between the application of the law of limitation to express trustees and an executor or other person holding property as a trustee, but not on an express trust.
+Second, if the Committee had intended to abolish for limitation purposes any distinction between true trustees and persons incurring an ancillary liability, it is hardly conceivable that they would have done so without discussing or even mentioning the two recent decisions of the highest persuasive authority, Taylor v Davies and Clarkson v Davies, which were based on precisely that distinction.
+The reason why they ignored the two Privy Council decisions was not that they were ignorant of them, or that they regarded them as outliers or wrong, but because they were not at all concerned with the question of ancillary liabilities which arose in those cases.
+Third, if Parliament had understood the Wright Committee as having recommended the abolition for limitation purposes of the distinction between true trustees and persons incurring an ancillary liability, they would not have done so by adopting the definition of trustee in the Trustee Act 1925.
+That definition extends the category of trustees to a personal representative, but says nothing about ancillary liabilities, with which the Trustee Act was not concerned.
+The latter point raises an altogether more fundamental objection to using the Committees report to elucidate not the rules of limitation as such but the categories of trustee to which they were intended to apply.
+By adopting not just the language but the meaning of the ready made definition in the Trustee Act 1925, Parliament directed the courts to discover its meaning in the latter Act.
+On that question, the intentions of a Committee reporting 11 years later cannot be of the slightest assistance.
+The above analysis of section 21 of the Limitation Act 1980 has now been accepted by the English courts at every level below this court.
+The turning point was the decision of the Court of Appeal in Paragon Finance Plc v DB Thakerar & Co (a firm) [1999] 1 All ER 400, which is notable mainly for an extended obiter dictum of Millett LJ on the distinction, for limitation purposes, between a liability for breach of a true trust and an ancillary liability.
+I have already quoted freely from this valuable and characteristically trenchant judgment, which among other things draws attention to the importance of the decisions in Beckford v Wade and Taylor v Davies.
+There is a briefer dictum to the same effect by Lord Millett, as he had by then become, in Dubai Aluminium Co Ltd v Salaam [2003] 2 AC 366, 404.
+In Cattley v Pollard [2007] Ch 353, Richard Sheldon QC sitting as a deputy judge of the High Court, after an impressive review of a substantial body of case law and academic literature, held that section 21(1)(a) of the Limitation Act 1980 applied only to express and de facto trustees and not to persons liable only by virtue of their dishonest assistance in a breach of trust.
+In JJ Harrison (Properties) v Harrison [2002] 1 BCLC 162, and again in Gwembe Valley Development Co Ltd v Koshy (no. 3) [2004] 1 BCLC 131, the Court of Appeal adopted the analysis of Millett LJ and applied it to a case of knowing receipt of the assets of a company.
+It was held in both cases that no period of limitation applied, but only because the defendant was a director and as such to be treated as a true trustee.
+It is clear from the courts reasoning that the limitation position would have been different if he had not been.
+In Halton International (Holdings) Inc Sarl v Guernroy Ltd [2006] WTLR 1241, the Court of Appeal adopted the same reasoning and held that section 21(1) applied only to claims against express or de facto trustees, and not to claims against constructive trustees whose liability came into being as a result of the transaction impeached.
+In Peconic Industrial Development Ltd v Lau Kwok Fai [2009] 5 HKC 135, the Court of Final Appeal of Hong Kong held that the relevant provision of the Hong Kong Ordinance, which was in the same terms as section 19(1) of the English Limitation Act 1939, did not apply to a person liable to account as a constructive trustee on the footing of dishonest assistance.
+Lord Hoffmann, delivering the leading judgment, declined to follow the dicta of the Court of Appeal in Soar v Ashwell, which he regarded as wrong in principle and unsupported by authority.
+He was also unimpressed by the submission that this put a dishonest assister in a better position than an innocent or merely negligent trustee: The principle is not that the limitation defence is denied to people who were dishonest.
+It plainly applies to claims based on ordinary common law fraud.
+The principle is that the limitation period is denied
+to fiduciaries.
+But dishonest assisters are not fiduciaries.
+Para 24
+These decisions represent a formidable corpus of modern and carefully reasoned authority in favour of a principle which is in my view correct.
+Is knowing receipt different?
+Mr Adkin realistically acknowledged that so far as his clients claim was based on dishonest assistance in a breach of trust, the Central Bank could not be regarded as a trustee for the purposes of the Limitation Act.
+But he submitted that so far as his claim was based on knowing receipt or on a right to follow the money into the hands on the Central Bank, the position was different.
+I do not think that it is.
+It is true that many of the authorities which I have reviewed involved the participation of the defendant in a fraud, and some of the statements of principle are expressed by reference to that situation.
+But others, notably Taylor v Davies, did not involve fraud and can only be analysed as cases of knowing receipt.
+The difficulty about Mr Adkins submission is that the principle does not depend on the difference between assistance and receipt, dishonesty or innocence.
+It depends on the difference between the liability of a true trustee, and the liability which a stranger incurs solely by reason of his participation in the very misapplication of trust assets which the claimant seeks to impeach.
+The essence of a liability to account on the footing of knowing receipt is that the defendant has accepted trust assets knowing that they were transferred to him in breach of trust and that he had no right to receive them.
+His possession is therefore at all times wrongful and adverse to the rights of both the true trustees and the beneficiaries.
+No trust has been reposed in him.
+He does not have the powers or duties of a trustee, for example with regard to investment or management.
+His sole obligation of any practical significance is to restore the assets immediately.
+It is true that he may be accountable for any profit that would have been made or any loss that would have been avoided if the assets had remained in the hands of the true trustees and been dealt with according to the trust.
+There may also, in some circumstances, be a proprietary claim.
+But all this is simply the measure of the remedy.
+It does not make him a trustee or bring him within the provisions of the Limitation Act relating to trustees.
+Application of section 21(1)(a) to an action against a non trustee
+If, as I conclude, the Central Bank was not a trustee, the question arises whether it is nevertheless a party sued in respect of any fraud or fraudulent breach of trust to which the trustee was a party or privy.
+Section 8 of the Trustee Act 1888 applied to any action or other proceeding against a trustee or any person claiming through him.
+Accordingly, it was expressly confined to actions against a trustee.
+However, the words which I have quoted were lost when the provision was reformulated in 1939.
+Did this change, which carried through into section 21 of the Act of 1980, extend the scope of that provision to actions against a stranger who was not a trustee? Mr Adkin submits that it did.
+But no authority has ever supported that contention apart from a tentative dictum of Danckwerts J in GL Baker Ltd v Medway Building and Supplies Ltd [1958] 1 WLR 1216, at 1222 and an alternative ratio of Evans Lombe J in Statek Corporation v Alford [2008] EWHC 32 (Ch).
+For my part, I would accept that this is a linguistically possible construction.
+But I think that it is mistaken because it overlooks the principles of equity which provide the background and subject matter of this section.
+In my opinion, it clear that section 21(1)(a) of the Act of 1980 is concerned only with actions against trustees on account of their own fraud or fraudulent breach of trust.
+In the first place the whole of the legislative history, as I have summarised it above, demonstrates that what is now section 21(3) was intended to relieve trustees, save in the two cases specified in section 21(1), from the harsh consequences of the equitable rule which held them liable to account without limitation of time.
+The exceptions must apply to the same persons as the rule.
+On a correct analysis of the law, restated in Taylor v Davies and Clarkson v Davies, the rule had never applied to strangers who were subject only to an ancillary liability, and they had therefore never needed to be relieved.
+This was essentially the ground on which Lord Hoffmann in Peconic Industrial Development Ltd v Lau Kwok Fai [2009] 5 HKC 135, paras 24 and 25 considered that the corresponding provision in the Hong Kong ordinance had no application to claims against such persons.
+Second, unlike section 21(3), which introduces the general limitation period for trust claims, section 21(1)(a) is limited to cases of fraud or fraudulent breach of trust to which the trustee was a party or privy.
+These words are there to relieve trustees who acted in good faith, including the honest co trustees of a dishonest trustee.
+They would be unnecessary if the provision applied to actions against strangers to the trust, because any fraudulent breach of trust must necessarily be one to which the trustee is a party or privy.
+The inclusion of the phrase makes sense only on the footing that the section applies to actions against trustees and that it was intended to limit the circumstances in which it applied to them.
+The point is reinforced by the use of the definite article (the trustee), which can only mean that the draftsman was referring to fraud or fraudulent breach of trust on the part of the particular trustee sued.
+Third, the ancillary liability of a stranger to the trust arises independently of any fraud on the part of the trustee.
+This has always been recognised in the case of ancillary liabilities on the footing of knowing receipt.
+A liability on that basis does not require proof of any dishonesty on anyones part.
+Knowing assistance is different.
+It is based on fraud.
+But it is now clear that that knowing assisters are liable on account of their own dishonesty, irrespective of the dishonesty of the trustees: Royal Brunei Airlines Sdn Bhd v Tan [1995] 2 AC 378 There is no rational reason why the draftsman of section 21(1)(a) should have intended that the availability of limitation to a non trustee should depend on a consideration which had no bearing on his liability, namely the honesty or dishonesty of the trustee.
+Mr Adkin submitted that the Act was drafted on the mistaken assumption that liability for knowing assistance depended on the dishonesty of the trustee, because that was how Lord Selborne had expressed it in Barnes v Addy and everyone assumed it to be the law when the legislation assumed its current form in 1939.
+I do not accept this.
+The liability of a knowing assister has always depended on the unconscionability of his conduct.
+Cases involving an honest trustee and a dishonest assister have rarely arisen, whether before or after 1939.
+In practice the trustee usually is dishonest and the alleged constructive trustees conscience is affected because he has participated in the scheme with knowledge of that fact.
+That was why Lord Selborne spoke as he did.
+But the authorities cited by Lord Nicholls of Birkenhead in Royal Brunei Airlines, at 385, show that in those, older, cases where the question of the honest trustee and the dishonest assister had been considered, the critical question was the state of mind of the assister.
+The problem, as he pointed out at 386, was the tendency since Selangor United Rubber Estates Ltd v Craddock (no. 3) [1968] 1 WLR 1555 to read Lord Selbornes statement like a statute.
+Finally, section 21(1)(b), which deals with actions to recover trust property in the possession of the trustee, is unquestionably limited to actions against the trustee.
+It does not apply to actions against third parties such as knowing recipients of trust property.
+I can discern no rational reason why Parliament, if it wished to exclude persons under an ancillary liability, should have done so in cases where such persons were liable to account on the footing of knowing assistance but not in cases of knowing receipt.
+The truth is that both paragraphs (a) and (b) are concerned with actions against the trustee.
+The Report of the Wright Committee seems to me to have no bearing on this issue.
+The relevant part of it is concerned only with the question how a trustee should be defined for the purposes of statutory limitation.
+The present issue arises only once it is concluded that the Bank was not a trustee for the purposes of statutory limitation.
+I agree with Lord Neuberger that if anything the Committees analysis tends to militate against giving a wider meaning to section 21(1)(a) of the Act.
+Conclusion
+For these reasons, and for the very similar reasons given by Lord Neuberger, I would allow the appeal and declare that the English court has no jurisdiction which it ought to exercise in respect of the 1986 trust claims.
+It follows that those claims should be struck out.
+LORD NEUBERGER, (with whom Lord Hughes agrees)
+Introductory
+This appeal, whose substantive and procedural history is summarised in paras 1 and 2 above, raises two questions, both of which concern the scope of section 21(1)(a) of the Limitation Act 1980 (the 1980 Act), which, together with the other relevant statutory provisions, is set out in para 3 above.
+The questions which arise are: a) Is a stranger to a trust who is liable to account on the grounds of knowing receipt of trust assets and/or on the grounds of dishonest assistance in a breach of trust, a trustee for the purposes of section 21(1)(a) of the 1980 Act (section 21(1)(a))? b) Does an action in respect of any fraud or fraudulent breach of trust under section 21(1)(a) to which the trustee was a party or privy, include an action against a party which is not itself a trustee? Given the rather tangled way in which the law has developed in this area, through both cases and statutes, it is important to bear in mind that these are separate questions, although they are concerned with resolving the same issue.
+In the courts below, the respondent, Dr Williams conceded that the answer to the first question was no, but he now contends that it is yes; he also contends, as he contended below, that the answer to the second question is yes, and the Court of Appeal (Sir Andrew Morritt C, and Black and Tomlinson LJJ) agreed see [2013] QB 499.
+The appellant, Central Bank of Nigeria, contends that the answer to both questions is no.
+There is a divergence of opinion in this Court as to the outcome of Central Bank of Nigerias appeal to this Court.
+I agree with Lord Sumption that this appeal should be allowed.
+However, because the resolution of the two issues is not easy, the first issue has been raised for the first time in this Court, we are not all agreed, and I differ from the Court of Appeal, I propose to give my reasons for allowing the appeal.
+In doing so, I shall consider the two questions in turn.
+The meaning of trustee in section 21(1)(a)
+Limitation bars on claims against trustees
+It is important to bear in mind the history of the law relating to limitation and trustees, now contained in section 21 of the 1980 Act, particularly when considering earlier judicial decisions.
+Until 1888, there was no express statutory limitation period applicable to claims in equity.
+However, as Lord Redesdale LC (Ireland) explained in Hovenden v Lord Annesley (1806) 2 Sch & Lef 607, 632, the Courts of Equity took the view that wherever the legislature has limited a period for law proceedings, equity will, in analogous cases, consider the equitable rights, as bound by the same limitation.
+He added that the Courts of Equity also proceeded on the basis that trust and fraud are not within the statute ie that there was no virtual enact[ment], to use his language at 631, which applied to claims for breach of trust or claims based on fraud.
+The sweeping procedural reforms of the 1870s maintained this position, in that section 25(2) of the Judicature Act 1873 (the 1873 Act) specifically excluded from the ambit of any Statute of Limitations, any claim of a cestui que trust against his trustee in respect of any breach of trust.
+Thirteen years later, section 8 of the Trustee Act 1888 (the 1888 Act) entitled a trustee to raise a limitation defence against a claim brought by a beneficiary.
+The relevant parts of section 8 of the 1888 Act (section 8), which did not involve a repeal of section 23(2) of the 1873 Act, are set out in para 22 above.
+The law on limitation of actions generally was considered by the Law Revision Committee in its Fifth Interim Report (Statutes of Limitation) Cmd 5334 (the 1936 Report), which was presented to Parliament in December 1936.
+The recommendations in the 1936 Report resulted in the Limitation Act 1939 (the 1939 Act).
+In para 24, Lord Sumption sets out the centrally relevant passages in the 1936 Report, and Lord Mance, in paras [146 147] quotes passages from the speeches of the Lord Chancellor, Lord Wright and Lord Romer in the House of Lords, and of the Solicitor General in the House of Commons, when introducing the Bill which became the 1939 Act.
+The 1939 Act repealed all previous legislation relating to limitation (including section 25(2) of the 1873 Act and section 8) and contained provisions which were, for present purposes, to the same effect as the sections of the 1980 Act summarised in para 3 above.
+The 1980 Act repealed the 1939 Act, and re enacted almost all its provisions, albeit with many significant amendments, none of which is relevant to the first (or indeed the second) issue on this appeal.
+The proper approach
+The word trustee in section 21(1)(a) is defined in section 38(1) of the 1980 Act, which provides that trust and trustee have the same meaning respectively as in the Trustee Act 1925.
+Where a term in a later statute is defined by reference to a definition in an earlier statute, it seems to me self evident that the meaning of the definition in the later statute must be the same as the meaning of the definition in the earlier statute.
+Hence, the meaning of the term in the later statute is determined by the definition in the earlier statute.
+Further, the adoption of the definition in the later statute cannot somehow alter the meaning of the definition in the earlier statute.
+It accordingly follows that one has to determine the meaning of the term in the later statute simply by construing the definition in the earlier statute.
+Thus, the meaning of trustee in section 21(1)(a) must be determined by construing the definition of trustee in section 68(1)(17) of the 1925 Act (section 68(1)(17)).
+In the light of Lord Mances judgment, it is, I think, important to emphasise that the way in which the definition of trustee in section 68(1)(17) is incorporated into the 1980 Act appears to leave no scope for contending that the meaning of the expression in the 1980 Act can somehow be different from that which it bears in the 1925 Act.
+It follows from this that a correct reformulation of the first question raised on
+this appeal is whether the definition of trustee in section 68(1)(17) includes a stranger to a trust who is a knowing recipient or a dishonest assister ie a person, not otherwise a trustee, who is liable to account on the grounds of knowing receipt of trust assets and/or on the grounds of dishonest assistance in a breach of trust.
+The 1925 Act was, of course, a consolidating statute, with amendments, which formed part of the sweeping property law reforms of that year.
+It was concerned with the powers and duties of trustees, not with limitation, and the definition in section 68(1)(17) largely follows the wording of the definition of trustee in earlier legislation concerned with the powers and duties of trustees, the Trustee Acts 1850 and 1893.
+In my view, therefore, judicial decisions as to the meaning of trustee, or related expressions, in a non statutory context or in connection with different legislation, have to be approached with a degree of caution.
+I also consider that it is self evident that statements made in the 1936 Report, and by the Solicitor General in Parliament in connection with the Bill which became the 1939 Act must be irrelevant to the resolution of the first issue on this appeal.
+What a committee recommended in 1936, or what was said in Parliament in 1939, cannot, as I see it, possibly affect the meaning of a definition in a statute enacted in 1925.
+The problem thrown up by the first issue
+The definition of trustee in section 68(1)(17) (the Definition) obviously extends to a person who accepts property expressly (or impliedly) on the basis that he is to hold it for the benefit of another, a classic definition of a trustee.
+It is also apparent that the term includes a trustee de son tort, a somewhat archaic expression, explained thus in Lewin on Trusts 18th ed, (2008) para 42 74: If a person by mistake or otherwise assumes the character of trustee when it does not really belong to him, he becomes a trustee de son tort and he may be called to account by the beneficiaries for the money he has received under the colour of the trust.
+A trustee de son tort closely resembles an express trustee.
+The principle is that a person who assumes an office ought not to be in any better position than if he were what he pretends: he is accountable as if he had the authority which has been assumed.
+However, as Millett LJ explained in Paragon Finance Plc v DB Thackerar & Co (a firm) [1999] 1 All ER 400, 409, the Courts of Equity treated as a trustee not only an express or implied trustee and a trustee de son tort, but also a person, who though not expressly appointed as trustee, has assumed the duties of a trustee by a lawful transaction which was independent of and preceded the breach of trust and is not impeached by the [claimant].
+As he then said, such a person is known as a constructive trustee, and really is a trustee, as his possession of the property is coloured from the first by the trust and confidence by means of which he obtained it, and his subsequent appropriation of the property to his own use is a breach of that trust.
+It is, rightly, common ground that the persons described in paras 16 and 17 above are properly called trustees and are within the scope of the Definition.
+The question which arises is whether a person who is treated as accountable to the claimant in equity solely as a result of (i) knowingly wrongly receiving property, or (ii) dishonestly assisting a trustee in committing a breach of trust, is a constructive trustee for the purposes of the Definition.
+Knowing recipients: the authorities
+A number of clear and considered judicial observations over the past two centuries seem to me to make it clear that a knowing recipient is not a trustee.
+I have in mind what was said by Lord Redesdale in Hovendens case at pp 632 633, Lord Selborne LC in Barnes v Addy (1874) 9 Ch App 244, 251 Viscount Cave LC in Taylor v Davies [1920] AC 636, 650 1 and 653, Ungoed Thomas J in Selangor United Rubber Estates Ltd v Cradock (no. 3) [1968] 1 WLR 1555, 1579 and 1582, Millett LJ in the Paragon case at pp 409 410, and Lord Hoffmann NPJ in the Hong Kong Court of Final Appeal in Peconic Industrial Development Ltd v Lau Kwok Fai [2009] 5 HK 135, para 24, quoted, respectively, by Lord Sumption in paras 14, 8, 23, 10, 11 and 28 above.
+The point at issue in Hovendens case involved a question of alleged knowing receipt.
+Lord Redesdale referred, at pp 632 633, to a trustee [who] does not execute his trust, and described such a person at p 633 as having possession according to the right of the party against whom he seeks to set it up.
+He then went on to explain that the question of fraud is of a very different description because a person who is in possession by virtue of that fraud is not, in the ordinary sense of the word, a trustee, but is to be constituted a trustee by a decree of a court of equity founded on the fraud.
+He contrasted such a persons possession in the meantime with that of a trustee on the ground that it was adverse to the title of the person who impeaches the transaction on the ground of fraud.
+In Barnes v Addy, Lord Selborne similarly distinguished between those who
+were clothe[d] with a legal power and control over the trust property, imposing on [them] a corresponding responsibility, and those to whom a similar responsibility [was] extended in equity to others who are not properly trustees, such as those actually participating in any fraudulent conduct of the trustee.
+In Taylor v Davies, the Privy Council adopted the same approach in
+connection with a Canadian limitation statute, which was in very similar terms to its contemporary English equivalent, section 8.
+At p 651, Viscount Cave, giving the judgment of the Board, said that, although time did not run in favour of a trustee properly so called, the position in this respect of a constructive trustee in the usual sense of the words that is to say, of a person who, though he had taken possession in his own right, was liable to be declared a trustee in a Court of Equity was widely different, and it had long been settled that time ran in his favour from the moment of his taking possession.
+Like section 8 and, now, section 21, the definition of trustee in the Canadian statute extended to a constructive trustee, but Viscount Cave said two pages later, that the references to constructive trustee apply to a case where he originally took possession upon trust for or on behalf of others, so that they refer to cases where a trust arose before the occurrence of the transaction impeached and not to cases where it arises only by reason of that transaction. (It is true that the defendant in that case was not alleged to be a knowing recipient in the normal sense, but the principle expressed by Viscount Cave is clear, and, in one sense, the facts were stronger against the defendant than in this case, as he already had fiduciary obligations to the plaintiff).
+That approach was followed by the Privy Council in another appeal concerning the same Canadian statutory provision, Clarkson v Davies [1923] AC 100.
+In that case, at pp 110 111, the Board (which included Viscount Cave), in a judgment written by Lord Scott Dickson, the Lord Justice Clerk (who died before it was given) said Taylor was authority for a distinction between a trust which arises before the occurrence of the transaction impeached and cases which arose only by reason of that transaction.
+In the Selangor case [1968] 1 WLR 1555, 1582, Ungoed Thomas J explained that a person who was held liable to account as a knowing recipient was made liable in equity as trustee by the imposition or construction of the court of equity, and explained that this was because the Court of Chancery considered it equitable that he should be held liable as though he were a trustee ie he was liable to account in the same way as a trustee, not that he was a trustee and was therefore liable to account.
+Millett LJ (with whom Pill and May LJJ agreed) reached the same conclusion in his closely reasoned, bravura judgment, from which I have briefly quoted at para 54 above, in the Paragon case.
+It was also the conclusion reached by Lord Hoffmann (with whom the other four Justices of the Court of Final Appeal agreed) in the Peconic case at paras 19 24.
+To my mind, those observations are convincing and in accordance with principle.
+It is unreal to refer to a person who receives property dishonestly as a trustee, ie a person in whom trust is reposed, given that the trust is said to arise simply as a result of dishonest receipt.
+Nobody involved, whether the dishonest receiver, the person who passed the property to him, or the claimant, has ever placed any relevant trust and confidence in the recipient.
+As Millett LJ expressed the point in the Paragon case at p 409, a knowing recipient never assumes the position of a trustee and if he receives the trust property at all it is adversely to the [claimant]; and, while he is not a trustee at all, he may be liable to account as if he were.
+Knowing assistance: the authorities
+While the cases I have just been discussing suggest a clear and consistent approach to knowing recipients, they do not, as Lord Mance says, deal with dishonest assisters.
+Indeed, dishonest assisters were expressly discussed by Millett LJ in the Paragon case in the passage Lord Mance quotes at para 124 below.
+However, I have some trouble with that observation of Millett LJ.
+First, it misses the essential point that the meaning of trustee in section 21(1)(a) is not to be determined by reference to earlier cases or statutes on limitation, but by reference to the definition in section 68(1)(17).
+Secondly, there is no reason why an accessory to a fraud should not be subject to a shorter limitation period than the principal fraudster.
+In any event, Millett LJ was merely saying that there was a case for treating dishonest assisters in the same way as fraudulent trustees, when it came to limitation.
+In my judgment, given that knowing recipients are not constructive trustees, it must follow that dishonest assisters are not either.
+As Professor Mitchell observed in Dishonest Assistance, Knowing Receipt and the Law of Limitation [2008] 72 Conv 226, 233, it is harder to characterise dishonest assistants as trustees than it is knowing recipients, not least because dishonest assisters do not take possession of any of the funds at issue (as if they did, they would be knowing recipients).
+If a dishonest trustee was assisted by X in stealing trust funds, and then passed on some of those funds to Y, and X and Y both were aware of the dishonesty, it would be remarkable if X, who merely helped the trustee and did not receive any of the trust funds, was deemed a trustee when Y, who actually received (and maybe still holds) some of the funds was not.
+Furthermore, many of the points made by Millett LJ in the Paragon case as to why a knowing recipient is not a trustee (reflecting what was said in the earlier cases mentioned in para 19 above) apply equally to a dishonest assister.
+Two examples should suffice, but there are many others.
+At p 409, he said that a knowing recipient never assumes the position of a trustee, and if he receives the trust property at all it is adversely to the plaintiff by an unlawful transaction which is impugned by the plaintiff and that there is no trust and usually no possibility of a proprietary remedy.
+That is at least as true of a dishonest assister.
+And Millett LJs description at p 413 of Taylor v Davies as mark[ing] a real difference between trustees (whether or not expressly appointed as such) who commit a breach of trust (however created) and persons who are not trustees at all but are described as trustees for the purpose of enabling equitable relief to be granted against them applies to dishonest assisters just as it applies to knowing recipients.
+Accordingly, I agree with the conclusion reached by Mr Sheldon QC in his impressive judgment in Cattley v Pollard [2007] Ch 353, para 82, where he said that Millett LJs class of claims which do not give rise to a constructive trust, but simply amount to an obligation to account is apt to cover the position of claims for dishonest assistance in a fraudulent breach of trust.
+As he went on to explain, this was on the basis that in the Paragon case Millett LJ was drawing the distinction first expressed in the Privy Council cases [viz Taylor v Davies and Clarkson v Davies] between those whose trusteeship preceded the transaction impugned and those who only became trustees on the occurrence of the transaction .
+The statutory context
+When one looks at the Definition, at least on its own, there is no reason to think that the drafter of section 68(1)(17) intended constructive trust or trustee to have a wider meaning than that which they had been accorded by the Courts of Equity over the years.
+Indeed, it would be surprising if a statute concerned with consolidating the law governing the powers and duties of trustees did not adopt an orthodox definition of trust and trustee.
+If one casts ones eyes more widely, the provisions of the 1925 Act appear to me to reinforce the notion that knowing recipients or dishonest assisters were not intended to be covered by the Definition.
+The Act is concerned with classic trusts, or, as Millett LJ put it in the Paragon case at p 412, with the powers and duties of trustees properly so called, rather than persons whose trusteeship is merely a formula for giving restitutionary relief.
+It appears to me that a dishonest assister cannot be within the statutory definition as he does not have trust property without also being a knowing recipient, and, as for a knowing recipient, he never assumes the position of a trustee because his receipt of trust property is adversely to the [claimant], to quote Millett LJ again.
+I should add that that is a vital distinction between a trustee de son tort and a knowing recipient, which is why, assuming (which is almost certainly right) that a trustee de son tort is included within the section 68(1)(17) definition, that does not assist Dr Williamss case.
+The first four Parts of the 1925 Act deal with permitted investments, general powers of trustees, appointment and discharge, and the powers of the court; and the remaining, fifth, Part contains general provisions.
+It is a little difficult to see how most of the sections of the 1925 Act could apply to a dishonest assister (at least unless he was also a knowing recipient), because he has no assets in respect of which he can he said to be a trustee.
+Further, many of the provisions appear inappropriate in relation to property for which a knowing recipient is obliged to account.
+I have in mind provisions such as sections 8, 30 (exculpatory where trust money lost on loans, or due to agents defaults), section 25 (delegation of trustees functions), 31 and 32 (powers of maintenance and advancement), 36 39 (power to retire and appoint fresh trustees) and 57 (power of court to authorise dealings).
+As Lord Sumption says in para 31 above, a knowing recipient has one overriding duty, and that is to account for and return the property.
+Given the unambiguous way in which the 1939 and 1980 Acts incorporate the definition in the 1925 Act, the definition of trustee in the 1925 Act simply cannot have a different meaning in the later Acts from that which it has in the 1925 Act itself, simply because any wording is subject to the context, or because of the mischief being addressed in the later Acts, or because of Parliaments evident intention when enacting the later Acts.
+When interpreting a statute, the courts function is to determine the meaning of the words used in the statute.
+The fact that context and mischief are factors which must be taken into account does not mean that, when performing its interpretive role, the court can take a free wheeling view of the intention of Parliament looking at all admissible material, and treating the wording of the statute as merely one item.
+Context and mischief do not represent a licence to judges to ignore the plain meaning of the words that Parliament has used.
+As Lord Reid said in Black Clawson International Ltd v Papierwerke Waldhof Aschaffenburg AG [1975] AC 591, 613, We often say that we are looking for the intention of Parliament, but that is not quite accurate.
+We are seeking the meaning of the words which Parliament used.
+In the present instance, the definition sections of the 1939 and 1980 Acts
+unambiguously state that the meaning of trustee is to be determined by reference to the definition in the 1925 Act.
+For a court to suggest that, in the 1939 or 1980 Acts, the definition or the expression can have a different meaning from that which it has in the 1925 Act is both inconsistent with the plainly expressed will of Parliament as set out in the definition sections of the 1939 and 1980 Acts and a recipe for uncertainty in future cases of statutory interpretation.
+The obiter dicta in Soar v Ashwell
+I have not so far referred to observations in Soar v Ashwell [1893] 2 QB 390, which are strongly relied on to support the wider interpretation of trustee, so that it incorporates a dishonest assister and/or a knowing recipient.
+The actual decision in Soar v Ashwell that limitation could not be relied on was unexceptionable, because, as the court held, the deceased solicitor whose estate was being sued was liable, on any view, as a trustee either because he received the property concerned as a trustee for the trustees of a pre existing and fully constituted trust (per Lord Esher MR at p 394 and Bowen LJ at pp 397 and 398), or because he became a trustee de son tort of that trust (per Kay LJ at pp 405 406).
+However, each member of the Court of Appeal in Soar v Ashwell expressed obiter views which are said to support the notion that a dishonest assister or a knowing recipient is a trustee.
+After explaining that a trustee de son tort could not rely on limitation, Lord Esher added this at pp 394 395: There is another recognised state of circumstances in which a person not nominated a trustee may be bound to liability as if he were a nominated trustee, namely, where he has knowingly assisted a nominated trustee in a fraudulent and dishonest disposition of the trust property.
+Such a person will be treated by a Court of Equity as if he were an express trustee of an express trust.
+Bowen LJ, again after referring to the fact a trustee de son tort could not rely on limitation, said this at pp 396 397: Secondly, the rule as to limitations of time which has been laid down in reference to express trusts has also been thought appropriate to cases where a stranger participates in the fraud of a trustee .
+Thirdly, a similar extension of the doctrine has been acted on in a case where a person received trust property and dealt with it in a manner inconsistent with trusts of which he was cognizant .
+And Kay LJ observed at p 405, after reviewing the authorities: [T]here are certain cases of what are, strictly speaking, constructive trusts, in which the Statute of Limitations cannot be set up as a defence.
+Amongst these are the case where a stranger to the trust has assumed to act and has acted as a trustee, and the case where a stranger has concurred with the trustee in committing a breach of trust, and has taken possession of the trust property, knowing that it was trust property, and has not duly discharged himself of it by handing it over to the proper trustees or to the persons absolutely entitled to it.
+Properly analysed, I am of the view that these observations (the obiter dicta in Soar v Ashwell) do not support a positive answer to the issue posed in para 40(a) above.
+In the passage quoted in para 76 above, Lord Esher did not say that a dishonest assister is a trustee; he said that a dishonest assister is liable as if he were a nominated trustee, and that he is treated in equity as if he were an express trustee.
+In other words, he was saying that, at least in some circumstances for the purpose of limitation, Courts of Equity treated such a person not as a trustee, but as if he were a trustee.
+For present purposes it does not matter whether Lord Esher intended that passage to apply to limitation cases, which is not as clear as it may seem, because to read it in this way would be inconsistent with what he said at p 394 (quoted by Lord Sumption at para 18 above), as well as with the reasoning of Lord Redesdale in Hovendens case and Sir William Grant MR in Beckford v Wade (1805) 17 Ves Jr 87 (discussed above by Lord Sumption at para 15).
+The essential point, it seems to me, is that Lord Esher was saying that a dishonest assister is not actually a trustee.
+Accordingly, as the meaning of trustee in the limitation legislation has been taken from the 1925 Act, where it has an orthodox meaning, I am of the view that Lord Eshers observations, if anything, actually assist the interpretation I favour.
+The same is true of Bowen LJs observations.
+The statement that the rule as to limitations of time which has been laid down in reference to express trusts has also been thought appropriate to cases of dishonest assistance, highlights two points.
+The first part of that statement shows that Bowen LJ was concerned with limitation law, not with the meaning of trustee; the subsequent words appear to distinguish between a stranger as opposed to a trustee.
+The latter point is reinforced by the closing words of the passage I have quoted, namely that a similar extension of the doctrine is made in relation to knowing recipients.
+In other words, Bowen LJ expressed himself in a way which indicated that he did not consider dishonest assisters or knowing recipients to be trustees, but that the Court of Equitys disapplication of limitation periods to claims against trustees was extended to such people, even though they are not trustees.
+Again, when one bears in mind the issue which we have to determine, namely the meaning of the word trustee, Bowen LJ appears to have regarded a dishonest assister or a knowing recipient as not being a trustee.
+Kay LJ does not seem to me to have expressly dealt with dishonest assisters or knowing recipients, although he may well have agreed with his colleagues obiter dicta, particularly in the light of his suggestion that in some earlier cases where limitation had been raised, courts had treated the trustee exemption as going wider than was laid down in Hovendens and Beckfords cases.
+The two strongest cases for this purpose are Wilson v Moore (1834) 1 My&K 337 and Bridgman v Gill (1857) 24 Beav 302.
+In each case, the defendants, merchants in one case and bankers in the other, held money which they knew to be trust money, which they then took for themselves to pay a debt owed to them by the trustee personally, which they knew was a breach of trust.
+However, neither in Wilson v Moore nor in Bridgman v Gill did the plaintiff beneficiary need to assert a trust arising as a result of, or even at the moment of, the misappropriation.
+He simply relied on fact that, at the time of the misappropriation, the defendants held the money subject to a pre existing trust whose terms they knew precluded their taking the money for themselves.
+The decisions therefore can be said to fall within the principle stated by Lord Redesdale in Hovendens case, and by Millett LJ in the Paragon case.
+Whether or not they were so intended (and, as indicated, I accept that they may very well have been), the obiter dicta in Soar v Aswell were regarded as representing the law on limitation in a number of subsequent cases.
+In In re Gallard [1897] 2 QB 8, 14, they were cited, relied on and applied by Vaughan Williams J.
+In In re Dixon [1900] 2 Ch 561, 574, Sir Richard Webster MR considered the obiter dicta, and regarded them as binding authority, but neither Rigby LJ nor Collins LJ addressed the point (although Rigby LJs slightly cryptic comment at the bottom of p 580 suggests that he may have agreed with the Master of the Rolls on the point).
+In re Eyre Williams [1923] 2 Ch 533 deserves special consideration because, at pp 537 541, Romer J considered the obiter dicta in some detail and regarded them as binding; he also referred to them briefly as representing the law in In re Mason [1928] 1 Ch 385, 394.
+And Maugham J referred to the obiter dicta very briefly, on the apparent assumption that they were correct in In re Blake [1932] Ch 54, 63.
+Soar v Ashwell was decided on the basis of the law of limitation as developed by the Courts of Equity.
+Thus Lord Esher said at p 393 that the two questions to be answered were was the plaintiff within a meaning of the word trustee attributed to it in equity, and was he such a trustee as a Court of Equity will not allow to rely on the Statutes of Limitation, and Bowen LJ at p 395 described the question at issue as being whether the claim of the plaintiff can be barred through lapse of time, by analogy to the Statute of Limitations.
+The only reference to any statutory provision was made by Kay LJ who at p 403 referred to section 25 of the 1873 Act.
+However, he mentioned that provision simply to say that it effected no change in the law.
+The absence of any reference in Soar v Ashwell to section 8(1) may seem a little mystifying, as the action was commenced in 1891, and section 8(3) provided that section 8(1) applied to an action started in or after 1890.
+However, as I see it, section 8(1) could not have been relied on by the defendant in that case, as, even if the solicitor had been a trustee, his estate still retained the trust property, or the proceeds thereof.
+Given that section 25(2) of the 1873 Act was still in force, the limitation argument had to be decided on the basis of the law as developed by the Courts of Equity.
+In In re Eyre Williams at p 537, Romer J specifically explained why section 8(1) did not apply (namely because the money at issue had been received by the testator [viz the deceased trustee] and applied to his own use), and, in those circumstances, he similarly dealt with the limitation defence by reference to the law as developed by the judges in relation to equitable claims.
+Having considered that case law, he concluded at p 541 that he was bound by the obiter dicta in Soar v Ashwell.
+The judges in the other cases referred to in para 81 appear to have adopted the same approach, but their reasoning was much more attenuated.
+Thus, in all the cases in which the obiter dicta in Soar v Ashwell have been followed, the courts approached the issue before them (i) on the basis that the question at issue concerned limitation rather than a statutory definition of trustee, (ii) on the assumption that the relevant law on limitation was as it had been developed by the Courts of Equity rather than as laid down in statute, (iii) on the assumption that the obiter dicta in Soar v Ashwell were intended to apply to limitation, (iv) on the basis that the obiter dicta were effectively binding, and (v) without considering the principles enunciated in Hovendens or Beckfords cases.
+Given that, since 1939, the definition of trustee for limitation purposes has been that in section 68(1)(17), and it is with that statutory definition with which the first issue on this appeal is concerned, I do not consider that it would be very helpful to say much more about the obiter dicta in Soar v Ashwell and the cases in which they were applied.
+The approach in those cases, all of which of course preceded the 1939 Act, is, at least in some respects, as likely to mislead as to assist when it comes to interpreting section 68(1)(17).
+Having said that, I consider that the obiter dicta in Soar v Ashwell were probably incorrect (if they were intended to suggest that a knowing recipient or dishonest assister could not rely on common law limitation periods), because they were inconsistent with the earlier decisions discussed, and for the reasons given, in paras 57 68 above, as well as for the fuller reasons given by Lord Sumption.
+Conclusion on the first issue
+Accordingly, I conclude that a trustee in section 21(1)(a) does not include a party who is liable to account in equity simply because he was a dishonest assister and/or a knowing recipient.
+This is because such a party, while liable to account in the same way as a trustee, is not, according to the law laid down by the courts, a trustee, not even a constructive trustee; and trust and trustee in the 1925 Act were meant to have orthodox meanings.
+Further, even if the obiter dicta in Soar v Ashwell (assuming that they were intended to apply to limitation, as Dr Williams contends, as they may well have been, and as they were understood to have been in subsequent cases) were correct (which I do not think they were), they do not call this into question.
+An action in respect of any fraud or fraudulent breach of trust
+The nature of the issue
+In the light of my conclusion on the first issue, namely that neither a dishonest assister nor a knowing recipient is a trustee for the purpose of section 21(1)(a), it is necessary to address the second issue, namely whether such a person, while not a trustee, is nonetheless properly a party who is sued in respect of any fraud or fraudulent breach of trust to which the trustee was a party or privy within section 21(1)(a).
+The second issue requires us to decide (i) whether section 21(1)(a) only applies to claims brought against the trustee who was a party or privy to the fraud or fraudulent breach of trust (the narrower meaning), or (ii) whether it applies to anyone, including such a trustee, who was involved in the fraud or fraudulent breach of trust (the wider meaning).
+Unlike the first issue, which involves interpreting a word in section 21(1)(a) by reference to a definition in another statute, this second issue involves construing section 21(1)(a) directly.
+Further, although the 1936 Report is of potential relevance to the second issue, this issue does not require much consideration of earlier judicial decisions.
+The arguments based on the wording of section 21(1)(a)
+It is convenient to start the examination by saying that, in agreement with Lord Mance, I consider that, if section 21(1)(a) has the wider meaning, it could be relied on against dishonest assisters or advisers, without applying to innocently (as opposed to fraudulently) negligent co trustees and professional advisers, of a fraudulent trustee.
+Where a trustee defrauds a trust, a claim against a dishonest assister or adviser can fairly be described as an action in respect of [that] fraud or fraudulent breach of trust, and that would also normally be true in the case of a dishonest recipient.
+However, as discussed more fully below, the words in respect of are flexible, in that they can have a broad or a restricted effect.
+Accordingly, while the contrary view is tenable as a matter of language, the context of section 21(1)(a) suggests that a claim against an innocently negligent co trustee or professional adviser of the fraudulent trustee is not an action in respect of fraud or fraudulent breach of trust.
+Rather it should be characterised as an action in respect of [their] negligence.
+In the case of a co trustee, this is borne out by what is stated in Article 96.1 of Underhill and Haytons The Law of Trusts and Trustees, 18th ed (2010), namely that a trustee is not vicariously answerable for the defaults of his co trustee, but only for his own acts or defaults.
+With that introductory point, I turn to the wording of section 21(1)(a).
+On a quick reading, one can well see how the provision may strike a reader as having either the wider or the narrower meaning.
+In particular, it may appear to bear the wider meaning, because, while para (a) limits the type of action to which it applies, there appears to be no express qualification as to the identity of the person against whom that action may be brought.
+However, closer examination calls that impression into question, and suggests that there are five reasons for thinking that section 21(1)(a) has the narrower meaning.
+First, if section 21(1)(a) has the wider meaning and is not limited to claims against the trustee referred to at the end of para (a), it is hard to see what effect can be given to the words to which the trustee was a party or privy.
+Given that the wider meaning involves giving a restricted effect to the words in respect of, so that only those involved in the fraud would be within section 21(1)(a) on the wider meaning, they must include the trustee, not least because there can be no breach of trust save one to which the trustee was a party or privy.
+On the other hand, if the narrower meaning is correct, the expression in respect of can be given a broad effect, so that the words to which the trustee was party or privy serve an important function, in that they limit the circumstances in which section 21(1)(a) can apply to a trustee.
+I note that this point caused Black LJ concern in the Court of Appeal, although she ultimately agreed that the wider meaning was correct see at [2013] QB 499, para 56.
+Approached in this way, I consider that the fact that it is common ground that the words an action in respect of any breach of trust in section 21(3) are broad enough to cover a claim against a dishonest assister or knowing recipient, actually support, rather than undermine this first reason.
+At first sight, there is force in Lord Clarkes argument that, if that expression in section 21(3) covers dishonest assistance or knowing receipt, the similar expression an action in respect of any fraudulent breach of trust in section 21(1)(a) should do so as well.
+But the vital words to which the trustee was a party or privy are not to be found in section 21(3).
+The essential point in this connection is that the fact that the expression in respect of in section 21(3) has a broad, rather than a restrictive, effect suggests that the expression should also have a broad effect in section 21(1)(a), in which case the words to which the trustee was a party or privy are otiose unless section 21(1)(a) as a whole is given the narrower meaning for which Central Bank of Nigeria contends, rather than the wider meaning supported by Dr Williams.
+Secondly, the expression the trustee at the end of section 21(1)(a) presents a difficulty unless the action in the opening part of the subsection is understood as meaning an action against a trustee, and in particular the trustee referred to in the closing words of the paragraph.
+If one does not read the opening part in this way, it is hard to justify the use of the definite article in the expression the trustee in para (a): it would have to mean a trustee.
+If it is said that the trustee means the trustee against whom the action is brought, then that would bring one back to the reading of the opening words of section 21(1) suggested at the start of this paragraph.
+Thirdly, the wider meaning would have the consequence that section 21(1)(a) could be relied on against a dishonest knowing recipient or a dishonest assister if one of the trustees was guilty of fraud, but it could not be relied on against such a person if the trustee was merely negligent, and not guilty of fraud.
+It seems inappropriate that the ability of a dishonest assister or dishonest knowing recipient to invoke the normal six year limitation period should depend on whether or not the trustee, whom he assisted or from whom he received trust assets, was fraudulent.
+This is not a fanciful possibility.
+As Mr Sheldon QC rightly pointed out in the Cattley case, para 41, Lord Nicholls in Royal Brunei Airlines Sdn Bhd v Tan [1995] 2 AC 378 said in terms that an accessory will be liable if there is dishonest assistance on his part in the breach of trust by the trustee irrespective of whether or not the breach of trust by the trustee was itself dishonest.
+Fourthly, there is section 21(1)(b), which is concerned with claims to recover trust property or its proceeds from the trustee.
+Like section 21(1)(a), it disapplies the normal six year time limit, but it quite clearly only applies to claims against a trustee, and does not apply to claims against dishonest assisters or knowing recipients, even if the recipient is not only knowing, but dishonest.
+It may be hard to think of a case where such a claim could be brought against a dishonest assister who was not also a knowing recipient, but that does not weaken the point that it would be very odd if section 21(1)(a) applied to dishonest knowing recipients as well as to trustees, given that section 21(1)(b) only applies to trustees.
+Fifthly, and perhaps less tellingly, it is clear that section 21(1)(a) and (b) originate from section 8(1) of the 1888 Act (set out in para 22 above), and there is no doubt that the benefit of that provision was limited to a claim against the fraudulent trustee, and not any dishonest assister or knowing recipient.
+These points persuade me that section 21(1)(a) can only be invoked by a beneficiary against a trustee, and not against a knowing recipient or a dishonest assister.
+The narrower meaning is not called into question by the obiter dicta in Soar v Ashwell or judicial views expressed in any other case prior to the 1980 Act, save for some very tentative remarks of Danckwerts J in GL Baker Ltd v Medway Building and Supplies Ltd [1958] 1 WLR 1216, 1222 (reversed on other grounds at p 1225).
+It is only fair to add that, at least as far as I can see, there is no decision prior to the 1980 Act which calls the wider meaning into question, as neither in Taylor v Davies nor in Clarkson v Davies did this point arise; at any rate, it was not apparently considered.
+The 1936 Report
+In support of the wider meaning of section 21(1)(a), reference was made to the 1936 Report and what was said in Parliament when the Bill which became the 1939 Act was introduced by the Solicitor General.
+In that connection, provided certain requirements are satisfied, the contents of the 1936 Report and what was said in Parliament can be raised as an aid to interpretation.
+However, one must not lose sight of four important factors in that connection.
+First, the courts constitutional role in any exercise of statutory interpretation is to give effect to Parliaments intention by deciding what the words of the relevant provision mean in their context.
+Secondly, it follows that, in so far as any extraneous material can be brought into account, it is only as part of that context.
+Thirdly, before such material can be considered for the purpose of statutory interpretation, certain requirements have to be satisfied see eg per Lord Mance in The Presidential Assurance Co Ltd v Resha St Hill [2012] UKPC 33, para 23 and per Lord Browne Wilkinson in Pepper v Hart [1993] AC 593, 640.
+Fourthly, even where those requirements are satisfied, any court must be wary of being too ready to give effect to what appears to be the Parliamentary intention from what was said by the authors of a report or by the sponsors of the relevant Bill: one cannot always be sure that what they say has been read or heard, or accepted, by the Parliamentarians who voted in favour of the provision in question.
+Having said that, I accept that, as was said in the Presidential Assurance case, at para 23, in principle, assistance in interpreting legislation can be obtained as to the general background and as to the mischief which the legislation was addressing by looking at the reports of the proceedings in Parliament.
+Turning now to the 1936 Report, para 11 identified the only difficulty with section 8 of the 1888 Act as being that it does not apparently apply to a constructive trustee, eg an executor or an administrator.
+The Report went on to say that it was difficult to justify a rule whereby an executor or other person holding property as a trustee, but not on an express trust, can plead [a limitation defence] though he still retains the trust property or has converted it to his own use.
+The Report then explained that the courts had given the concept of an express trust a very wide meaning, citing Bowen LJs judgment in Soar v Ashwell and the cases cited by Romer J in In re Eyre Williams.
+The Report then recommended that the exception to [section 8] should be expressly made to extend to trustees whether holding on express or constructive trusts, including personal representatives.
+The specific recommendation at the end of the 1936 Report was that limitation should only apply to constructive trustees to the extent that [it does] to express trustees.
+When the Bill which became the 1939 Act was introduced into Parliament, it was described as based on the 1936 Report.
+In my judgment, the 1936 Report is of no assistance when it comes to resolving the second issue.
+The only relevant recommendation of the Report related to the definition of trustee, which does not apply to the second issue in this appeal at all.
+In any event, even in relation to the first issue, it takes matters no further, because the recommendation was simply that the definition of trustee should extend to personal representatives which was achieved by adopting the section 68(1)(17) definition.
+It also may be worth adding that the reference to constructive trustee in the 1936 Report could be a little misleading as I do not think that it is intended thereby to refer to a constructive trustee in the sense that it has been used in the present appeal.
+As mentioned, the Report itself refers to the fact that section 8(1) does not apparently apply to a constructive trustee, eg an executor or an administrator, who are not constructive trustees in the sense that the term is currently normally used, and, in any event, section 8 already included a trust by construction within the meaning of trust.
+Nonetheless, it is said that the 1936 Report accepts the correctness of the obiter dicta, or at least the obiter dictum of Bowen LJ, in Soar v Ashwell.
+In addition, or perhaps in amplification, of what is said in para 103 above, there are a number of reasons why I consider that the references to the judgments of Bowen LJ and Romer J in the 1936 Report do not help the argument in support of the wider meaning of section 21(1)(a).
+First, it is not entirely clear that the 1936 Report does accept the correctness of the obiter dicta which are relied on by the respondent in this appeal and are set out in paras 74 76 above.
+The reference to Bowen LJs judgment is very general in that it simply identifies the first page of the judgment, and the only one of the cases referred to by Romer J in In re Eyre Williams which can actually be said to support the respondents case in any way on this appeal is Soar v Ashwell itself.
+Secondly, even assuming that the obiter dicta in Soar v Ashwell were being approved in para 11 of the 1936 Report, the authors of the Report were in that paragraph considering the ambit of the words trustee and trust, and were (on this assumption) saying that the words extended to a dishonest assister and a knowing recipient, and the trust funds they held.
+While that could have a bearing on the first issue on this appeal (were it not ruled out for the reasons given in paras 49 53 above), it cannot assist on the second issue on this appeal which is concerned with a different issue.
+Indeed, if anything, it could be said that, if the 1936 Report approved the obiter dicta, any such approval would support the narrower meaning of section 21(1)(a), because, on the view taken by the authors of the 1936 Report, trustee would have embraced dishonest assisters and, possibly, knowing recipients, so there would have been no need for section 21(1)(a) to have the wider meaning.
+Thirdly, one is here concerned with the intention of Parliament and I cannot accept the contention that Parliament somehow approved the observations in the 1936 Report relating to the obiter dicta in Soar v Ashwell.
+The purpose of the Bill which became the 1939 Act was to consolidate the law on limitation and to give effect to the recommendations of the 1936 Report.
+To contend that, in enacting those proposals, Parliament was adopting those recommendations, which therefore may be looked at for the purpose of interpreting the 1939 Act, is one thing.
+To contend that, in enacting those proposals, Parliament was approving the legal analysis or reasoning behind those recommendations, which therefore may be looked at for the same purpose, is quite another.
+Save possibly in a very clear case indeed, I consider that such an approach would be inappropriate.
+That is particularly true in this case, where the analysis and reasoning were somewhat opaque, unspecific, and unnecessary to the ultimate recommendation.
+Opaque as I have explained in para 102 above; unspecific because there was no explanation in the 1936 Report or by the Solicitor General as to what Bowen LJ or Romer J actually decided, and to assume that Parliamentarians would have appreciated the analysis and reasoning appears to me unrealistic; unnecessary, because the ultimate recommendation related to personal representatives, and therefore did not involve the question whether dishonest assisters or knowing recipients should be within the scope of section 21(1)(a).
+Fourthly, it would not in any event be safe to assume that Parliament followed every recommendation in the 1936 Report, let alone the thinking behind those recommendations, to the letter.
+This is not a case where the Report had a draft Bill attached or proposed draft clauses.
+Further, as Lord Sumption says in para 27, rather than incorporating and amending the definition of trustee in section 8, as the Report effectively suggested, Parliament decided to incorporate a definition from an existing statute.
+Conclusion on the second issue
+I therefore disagree with the conclusion reached by the Court of Appeal on this second issue, and would hold that the narrower meaning of section 21(1)(a) is to be preferred.
+Conclusion
+For these reasons, which are much the same as those of Lord Sumption, with whose judgment I agree, I am of the view that, as against Dr Williams, Central Bank of Nigeria was not a trustee within the meaning of section 68(1)(17), and that he cannot rely on section 21(1)(a), as it only applies to claims against fraudulent trustees.
+It follows from this that the 1986 trust claims are barred by limitation, and I would therefore allow the appeal.
+I should add that this conclusion does not appear to me to give rise to difficulties.
+It is consistent with the case law before Soar v Ashwell; and, in any event, the obiter dicta in that case, and their application in the subsequent cases which followed them, cannot sensibly be invoked as a reliable aid to the interpretation of the definition of trustee in section 68(1)(17) or to the scope of section 21(1)(a).
+With the exception of the tentative remarks in GL Baker, in no reported case until Paragon was any consideration given to the meaning of trustee in the 1939 or 1980 Acts, or to the proper scope of section 21(1)(a).
+The powerful reasoning in the Paragon case is consistent with principle and the authorities, and it justifies the conclusion that neither a knowing recipient nor a dishonest assister is a trustee, and that section 21(1)(a) is limited to claims against trustees.
+That reasoning has been applied by the Court of Appeal in a number of recent cases, such as JJ Harrison (Properties) Ltd v Harrison [2002] 1 BCLC 162, Gwembe Valley Development Company Ltd v Koshy (no. 3) [2004] 1 BCLC 131, and Halton International (Holdings) Inc Sarl v Guernroy Ltd [2006] WTLR 1241.
+So far as raising a limitation defence is concerned, this conclusion places dishonest assisters and knowing recipients (i) in the same position as those who are liable in common law for improper or dishonest conduct, and (ii) in a better position than defaulting trustees.
+The first result seems appropriate: as Millett LJ said in the Paragon case at p 414, [t]here is no case for distinguishing between an action for fraud at common law and its counterpart in equity.
+As for the second result, it is plainly justifiable, as defaulting trustees have pre existing fiduciary duties to claimants which dishonest assisters and knowing recipients do not.
+Finally, it is right to mention that in some cases of dishonest assistance or knowing receipt, even though the normal six year period may have expired, a claimant may be able to invoke section 32 of the 1980 Act, which postpones the commencement of the six years, in cases based upon the fraud of the defendant, or where the defendant has deliberately concealed relevant facts from the claimant.
+LORD MANCE, dissenting
+I have read with interest the judgment prepared by Lord Sumption and supported by Lord Neuberger in his judgment.
+The rationalisation which Lord Sumption imputes to Parliament is coherent: the exception to the right to limit would be confined to trustees or those owing fiduciary duties.
+But it is not the only coherent rationalisation, and whether it is historically accurate or catches Parliaments real intention is another matter.
+The present appeal raises two potential issues: (i) how far are, first, dishonest assisters and, second, knowing recipients to be treated as trustees within the meaning of section 21(1) of the Limitation Act 1980, and (ii) does section 21(1)(a) of the 1980 Act cover only actions against the trustee, or does it also cover actions against a dishonest assister in respect of a trustees fraud?
+The rationalisation which Lord Sumption advances and Lord Neuberger adopts relies upon a general distinction drawn in Beckford v Wade (1805) 17 Ves Jun 87 between: (a) possession of trust assets obtained consistently with the trust by someone who later acts contrary to the trust and (b) possession which is taken from the outset adversely to the trust.
+It treats (b) as covering knowing recipients, and overlooks the fact that the distinction does not address at all: (c), the status of a person who, whether or not he also takes or has taken possession, dishonestly assists a trustee to dispose of trust assets contrary to the trust.
+Lord Neuberger in his paras 58 and 59 refers to passages in two other early cases as supporting a distinction between categories (a) and (c) for limitation purposes: Hovenden v Lord Annesley (1806) 2 Sch & Lef 607, 633 634 and Barnes v Addy (1874) 9 Ch App 244, 251.
+But in fact in Hovenden v Lord Annesley (1806) 2 SCh & lef 607, 633 634, the two categories (a) and (c) were identified not to distinguish them, but to explain that they were to be assimilated for limitation purposes.
+As to Barnes v Addy (1874) 9 Ch App 244, 251, Lord Neuberger suggests that it distinguished between (i) those clothe[d] with a legal power and control over the trust property, imposing on [them] a similar responsibility and (ii) those to whom a similar responsibility [was] extended in equity who are not properly trustees such as, he says, those actually participating in any fraudulent conduct of the trustee.
+But Lord Selborne LC actually identified his category (ii) as follows: others who are not properly trustees, if they are found either making themselves trustees de son tort, or actually participating in any fraudulent conduct of the trustee to the injury of the cestui qui trust.
+He was, in other words, assimilating categories (a) and (c) for limitation purposes.
+An executor de son tort is a person within category (a) as Lord Neuberger accepts in his paragraphs 73 and 74.
+Moreover and this is an important feature of the issue under discussion the assimilation of the dishonest assister with the dishonest trustee for limitation purposes has a coherent and principled basis, as Millett LJ observed in Paragon Finance plc v D B Thakerar & Co [1999] 1 All ER 400, 414a d, when he said: A principled system of limitation would also treat a claim against an accessory as barred when the claim against the principal was barred and not before.
+There is, therefore, a case for treating a claim against a person who has assisted a trustee in committing a breach of trust as subject to the same limitation regime as the claim against the trustee: see J W Brunyate, Limitation of Actions in Equity (1932).
+This assimilation is supported by Soar v Ashwell [1893] 2 QB 390 and a wealth of case law to which I refer in the following paragraphs.
+I shall also return below (paras 140 and 141) to the law as analysed by J W Brunyate and a unanimous body of other distinguished textbook writers in the 1930s, all to the same effect.
+Their work constitutes important background to a proper understanding of section 19 of the Limitation Act 1939, reproduced in substance in section 21(1), (3) and (4) of the Limitation Act 1980 with which the present appeal is concerned.
+Soar v Ashwell was itself concerned with a solicitor who fell within (a), either because he had received funds in a fiduciary capacity for clients (trustees under a will) or because he had assumed to act as such.
+The Court of Appeal held that he was to be considered as having been in the same position as an express trustee.
+So he was unable to plead limitation.
+But all three members of the Court of Appeal also identified another situation in which the rule as to limitations of time which had been laid down in reference to express trusts has also been thought appropriate (per Bowen LJ, p 396) : that is (c) dishonest assistance arising, as Lord Esher MR put it, where [a person not nominated a trustee] has knowingly assisted a nominated trustee in a fraudulent and dishonest disposition of the trust property (pp 394 395); or, as Bowen LJ put it, where a stranger participates in the fraud of a trustee: Barnes v Addy LR 9 Ch 244 (p 396) ; or, as Kay LJ put it, where a stranger has concurred with the trustee in committing a breach of trust, and has taken possession of the trust property, knowing that it was trust property, and has not duly discharged himself of it by handing it over to the proper trustees or to the person absolutely entitled to it (p 405).
+Consistently with Barnes v Addy, these formulations describe dishonest assistance by a stranger in terms indicating a form of liability accessory to that of the dishonest trustee.
+As Lewin on Trusts 18th ed (2008), paras 44 56 and 44 57 states, prior to Royal Brunei Airlines Sdn. Bhd. v Tan [1995] 2 AC 378, it was thought that liability was based on knowing assistance in a dishonest and fraudulent breach of trust on the part of the trustee, though since that case fraud of the express trustee is now irrelevant to the actual liability of a dishonest assister.
+In asserting its limitation defence to Dr Williams claim, the Central Bank of Nigeria submits that the six year limitation period provided by section 21(3) of the Limitation Act 1980 for an action by a beneficiary to recover trust property or in respect of any breach of trust is in terms wide enough to apply to an action by a beneficiary against a holder of trust property or against a trustee or someone assisting a trustee in respect of a breach of trust.
+The Central Bank has to assert this, since otherwise it has no basis for asserting any statutory limitation defence at all.
+But, when it comes to section 21(1)(a), the Bank alleges that the exception in respect of an action by a beneficiary under a trust, being an action (a) in respect of any fraud or fraudulent breach of trust to which the trustee was a party or privy does not cover an action by a beneficiary against someone dishonestly assisting in a fraud or fraudulent breach of trust to which the trustee was a party or privy.
+As Lord Clarke demonstrates in his judgment, it is unconvincing to suggest that the words an action in respect of any breach of trust do, yet the words an action . in respect of any fraud or fraudulent breach of trust to which the trustee was a party or privy do not, cover an action by a beneficiary against someone who is not the trustee but who dishonestly assists a fraudulent trustee.
+Yet that is and has to be the Central Banks case.
+The line between those who owe fiduciary duties and those who do not certainly does not offer any reason for implying such a distinction and Lord Neuberger does not suggest that it does.
+It is coherent and understandable if the law distinguishes, in the context of fraud or fraudulent breaches of trust, between, on the one hand, actions against trustees and others party or privy thereto, and, on the other hand, actions against trustees and others innocent of involvement therein.
+It is true that, since the Royal Brunei case, it has been recognised as conceptually possible that a dishonest stranger to a trust may assist in bringing about a fraud on a trust to which no trustee is party or privy.
+But that is a possibility barely, if at all, envisaged at the dates when the statutory language of section 21 and its predecessor crystallised.
+Even now that it is clearly recognised, it is possible to see logic in a distinction between situations in which a dishonest trustee does and does not exist.
+In the latter situation, beneficiaries are particularly prejudiced, and it is understandable that the law should lift the limitation period against them and their dishonest assisters.
+I will give an example of how that distinction would as I see it work.
+Take an action against an innocent trustee or against the innocent solicitors or accountants acting for trustees for failure to discover and prevent a fraud by a guilty trustee assisted in conjunction with a dishonest stockbroker.
+The action against the fraudulent trustee and dishonest assister would fall within section 21(1)(a).
+The action against the innocent trustee would not be in respect of any fraud or fraudulent breach of trust to which the trustee was a party or privy.
+Nor would be the action against the allegedly negligent solicitor or accountant.
+Indeed, I do not consider that it would even be in respect of any breach of trust within section 21(3).
+It would be an action for negligence for which there would be a six year time limit in tort under section 2 and/or contract under section 5.
+This analysis is consistent with that adopted by J W Brunyate, cited by Millett LJ: see para 124 above and para 140 below; and Lord Neuberger accepts it in his paragraph 94.
+Nevertheless, Lord Neuberger suggests, as it appears must Lord Sumption, that the phrase in respect of means different things in section 21(1)(a) and section 21(3).
+The reasons he gives are addressed and rebutted in Lord Clarkes judgment.
+As to the first, it is true that section 21(1)(a) applies to a case where the defendant is the dishonest trustee as well as a case where the defendant is a dishonest assister of a trustee.
+But the words in respect of any fraud or fraudulent breach of trust to which the trustee was a party or privy both preclude any suggestion that section 21(1)(a) extends the limitation period for a claim against a non fraudulent trustee who was party to a breach of trust in circumstances where a fraudulent trustee was also party, and put beyond doubt, in the case of a claim against a dishonest assister, that the only relevant dishonest assistance is assistance of a fraudulent trustee.
+As to the second reason, the words the trustee postulate that there is a fraudulent trustee whom the assister has dishonestly assisted.
+In a situation in which there was both a fraudulent and an innocent trustee, the language makes only the fraudulent trustee relevant.
+As to the third, in the state of the law as it was understood and developed at the relevant times, section 21(1)(a) and its predecessor were probably addressing the only type of dishonest assistance then clearly established, namely dishonest assistance of a fraudulent trustee.
+On that basis, section 21(1)(a) represented a coherent picture: see paras 124 and 127 of this judgment.
+For good measure, even now that dishonest assistance has clearly been recognised as a basis of liability when there is no fraudulent trustee, a coherent rationale still exists: see paras 124 and 157 of this judgment.
+As to the fourth, I see nothing strange about an analysis according to which a dishonest assister who is also a knowing recipient of trust property falls within section 21(1)(a), even if (contrary to the view which I express in paras 160 161 below) a knowing recipient is not, as such, a trustee for the purposes of section 21(1)(b).
+Dishonest assistance is a separate (and on its face, it may be thought, more opprobrious) category of liability, identified as such in the authorities and legal writings from Soar v Ashwell onwards, as well as by Millett LJ in Paragon.
+Finally, Lord Neuberger refers in his paragraph 100 to the 1888 Act.
+That evidences an error, which in my opinion underlies the majoritys analysis, namely treating the legislator by the deliberately chosen different wording of the 1939 Act as reproducing or restricting the previously understood exemption from the operation of limitation, rather than, as was clearly the case, expanding it: see the rest of this judgment.
+It is surprising to find such emphasis being now placed on the words to which the trustee was party or privy which were present in section 8(1) of the 1888 Act and remain in section 19(1)(a) of the 1939 Act and now section 21(1)(a) of the 1980 Act, but no weight at all given to Parliaments omission from section 19(1)(a) and section 21(1)(a) of the qualification against a trustee or any person claiming through him which had governed both limbs of the predecessor section 8(1).
+This is particularly surprising when the drafters took care to reinsert into section 19(1)(b), now section 21(1)(b), equivalent words in the form of the phrase from the trustee.
+It is the changes in the legislation in 1939 on which attention should focus but which the majority reasoning sets at naught contrary to the Law Revision Committees and Parliaments clear intention to maintain and expand upon existing previously understood exceptions from limitation: see paras 137 149 below.
+Let me therefore return to the historical position.
+In Soar v Ashwell the action brought in 1891 by a surviving trustee against a solicitors personal representatives concerned the solicitors failure to account to trustees in January 1879 (the solicitor himself having died later in 1879).
+The claim was equitable, and counsels submissions as reported turned upon whether or not the Statute of Limitations applied by analogy.
+The judgments refer more straightforwardly to the question as being whether the Statute of Limitations applied.
+The reason may lie in Kay LJs reference on p 403 to section 25 of the Judicature Act 1875, and of a statement by Baggallay LJ that section 25 is but a statutory declaration of a law which had always been recognised and administered in Courts of Equity.
+Section 25(2) of the Judicature Act 1873 read: No claim of a cestui que trust against his trustee for any property held on an express trust, or in respect of any breach of such trust, shall be held to be barred by any Statute of Limitations.
+Section 25(2) was confined to claims against a trustee.
+But the Court of Appeal in Soar v Ashwell was clearly indicating that both categories (a) and (c), identified in paras 121 and 122 above, should be treated in the same way as claims against a trustee for breach of an express trust within section 25(2).
+However, in In re Jane Davies [1891] 3 Ch 119 (CA), dealing with a claim arising between 1858 and 1888 and In re Lacy [1899] 2 Ch 149 (Stirling J), dealing with a claim arising in 1873, it was held that executors were not express trustees within section 25(2) and so were entitled to limit.
+The Trustee Act 1888 (51 & 52 Vict c59) enacted on 24 December 1888 adopted a much wider definition of trustee, deeming the expression to include an executor or administrator and a trustee whose trust arises by construction or implication of law as well as an express trustee.
+Section 1(3) At the same time section 8(1)(b) enabled the trustee or person claiming through him to limit, where no existing statute of limitation applies, as if the claim had for money had and received.
+But it excepted from this any action or other proceeding where the claim is founded upon any fraud or fraudulent breach of trust to which the trustee was party or privy, or is to recover trust property, or the proceeds thereof still retained by the trustee, or previously received by the trustee and converted to his use.
+Following the passing of the 1888 Act (though in most of the cases in relation to pre Act events), there was a series of cases in which the principles stated in Soar v Ashwell were cited with approval or applied.
+In re Gallard [1897] QBD 8 concerned post 1888 Act events consisting of a sale in 1889 by a trustee to a purchaser who knew that the sale was at a gross undervalue.
+Vaughan Williams J noted that the submission was that the Statute of Limitations applied by analogy, rather than directly; he then cited passages in Lord Eshers judgment in Soar v Ashwell identifying the two categories, (a) and (c), mentioned in paras 122 and 123 above, in which a person not nominated as a trustee would be treated as if he were an express trustee.
+On the basis that category (c) applied, i.e. that the defendant had dishonestly assisted in a fraudulent and dishonest disposition of the trust property, he held that the lapse of time could not be relied upon.
+In In re Dixon [1900] 2 Ch 561, 574, the facts of which concerned events between 1876 and 1896, Webster MR referred to the classes enumerated by Bowen LJ in Soar v Ashwell of persons who are subject to the rule that time is no bar in the case of express trusts, and applied the third (where a person received trust property and dealt with it in a manner inconsistent with trusts of which he was cognizant).
+In In re Eyre Williams [1923] 2 Ch 533, mortgage monies which had been agreed to be assigned to marriage settlement trustees had in 1887 been received by a testator who failed to pay them over to the trustees before his death.
+Romer J said (p 537) that there was of course, no express Statute of Limitations which would apply to the claim of the trustees to recover these moneys from the estate of the testator, unless it be the Trustee Act 1888.
+He noted the equitable rule that an express trustee could not avail himself by analogy of the Statute of Limitations, a rule which had been ultimately given statutory recognition and force by section 25(2) of the 1873 Act, and further noted that the exception has, however, in certain cases been extended by the Courts of Equity to constructive trustees.
+He then said that In the present case it cannot be contended that the testator was ever constituted an express trustee, but without any question he did become a constructive trustee of the mortgage moneys which he received.
+He then cited with approval, first, passages from Soar v Ashwell dealing with each of the exceptional classes of constructive trustee treated as being in the position of express trustees for limitation purposes, and, second, Webster MRs judgment in In re Dixon.
+On that basis, he held that the testator, although he had only been a constructive trustee, could not rely on limitation.
+In In re Mason [1928] 1 Ch 385, 394, Romer J referred to In re Eyre Williams as an instance of a case where the trust funds or the proceeds of the trust funds have been received by a person with knowledge that they have been wrongly paid to him.
+Under this case law, the principles in Soar v Ashwell were regarded as applicable, and dishonest assisters were clearly recognised as within the exception to limitation, whether the claim was or was not strictly to be regarded as falling within the 1888 Act.
+Against this background came the Law Revision Committees Fifth Interim Report (Cmd 5334), dated December 1936, which led in due course to s.19 of the Limitation Act 1939, and its consolidating successor, section 21 of the Limitation Act 1980.
+The Report described section 8 of the Trustee Act 1888, noted that it had been considered satisfactory and so left unaffected when the Trustee Act 1925 was passed, but identified, at para 11, as the only difficulty the fact that section 8 does not apparently apply to a constructive trustee, eg an executor or administrator; and doubts arise as to whether or not any statute of limitations applies to property still retained by an executor or administrator.
+Cited as authority for these concerns and doubts were In re Jane Davies and In re Lacy (see para 132 above).
+They concerned pre 1888 Act events, but there was apparently no more recent authority.
+The Report continued with the passages cited by Lord Sumption in his para 24, which I repeat for ease of reference: 11.
+It is difficult to find any real justification for the rule that an executor or other person holding property as a trustee, but not on an express trust, can plead the statute, though he still retains trust property or has converted it to his own use.
+The rule has been extensively modified by decisions giving such a wide meaning to express trust as to bring most cases of fiduciary relationship within the exception to the Trustee Act, and to raise serious doubt as to where the line is to be drawn for this purpose between express and constructive trusts.
+See the judgment of the Bowen LJ in Soar v Ashwell [1893], 2, QB at p 395, and the authorities there cited, and the cases referred to by Romer J in In re Eyre Williams [1923] 2 Ch 533.
+It is perhaps too late now to suggest that the Trustee Act, 1888 was intended to do away with the distinction between express and constructive trusts for the purpose of the limitation of actions, though the definition of trustee in Section 1(3) seems to point to that conclusion.
+At any rate we consider that the distinction should now be abolished, and we recommend that the exception in Section 8 of the Trustee Act, 1888 should be expressly made to extend to trustees whether holding on express or constructive trusts, including personal representatives.
+Recommendation (7) of the Committee was that the Statutes of Limitation should only apply to constructive trustees to the extent to which they do to express trustees.
+Several matters are clear from this passage.
+First, there is not a hint of disagreement with the principles stated in Soar v Ashwell, in In re Eyre Williams and in In re Dixon (the other case cited by Romer J in In re Eyre Williams).
+Second, the Report was, on the contrary, to the effect that these principles should be affirmed.
+Third, after an expression of regret about the possible missed opportunity to do this provided by the Trustee Act 1888, an unequivocally general intention was stated to do away with the distinction between express and constructive trusts for the purposes of limitation.
+There is nothing to support the suggestion by Lord Neuberger and Lord Sumption that the Law Revision Committee Report can and should be read as dealing only with some constructive trustees, effectively only category (a) trustees, that is anyone holding property subject to a trust or fiduciary obligations before the occurrence of the transaction impeached (a trustee de son tort).
+The language of the Report or its recommendations gives no support to it, it postulates a retreat from the English law position as established and understood at the time (when the Committee was clearly advocating a decisive move in the opposite direction), and it postulates the preservation of a distinction which the Committee was at pains to abolish.
+Fourth, and in contrast, the approach taken by the Committee is in no way surprising, particularly when Romer J, who had decided both In re Eyre Williams and In re Mason was a member of the Committee, as indeed was A F Topham KC who had successfully argued that there was no limitation in In re Mason.
+A fifth point is just as significant.
+There is no mention in the Report of either of the Privy Council decisions, Taylor v Davies [1920] AC 636 and Clarkson v Davies [1923] AC 100, cases under a Canadian statutory provision paralleling section 8 of the English 1888 Act.
+Lord Sumption suggests that Taylor v Davies was the leading case on the effect of sections 1(3) and 8(1) of the 1888 Act.
+He also suggests (para 27) that The reason why they [the authors of the Law Revision Committee] ignored the two Privy Council decisions was not that they were ignorant of them, or that they regarded them as outliers or wrong, but because they were not at all concerned with the question of ancillary liabilities which arose in those cases.
+Clairvoyance aside, I note that not only does the Committees Report focus exclusively on the relevant English case law, showing no awareness of either Privy Council case, but Lord Sumption cites no English authority in which either was mentioned and contemporary text books are also notable for their absence of any reference to them.
+The text books state the law exclusively in accordance with the principles in the English cases including Soar v Ashwell, In re Eyre Williams and In re Dixon to which I have referred: see eg Brunyates Limitation of Action in Equity (1932), Halsburys Laws of England 2nd ed (1936), Limitation of Actions, para 1036, Lewins Practical Treatise on The Law of Trusts 14th ed (1939), Chap VIII, Limitation of Actions, pp 839 840 and Underhills The Law relating to Trusts and Trustees 9th ed (1939), article 101.
+Thus, Brunyate (Fellow of Trinity, Cambridge, and barrister) said, at p 108: A person who assists a true trustee in committing a fraudulent breach of trust is very properly held liable as though he had himself been a trustee, and he cannot plead the Statute of Limitations (In re Gallard .; and see Soar v Ashwell.).
+A person who assists in a breach of trust which is not fraudulent is not generally liable in equity to the cestui que trusts, even apart from the Statute of Limitations, unless he has become chargeable with trust property (Barnes v Addy .; .).
+Thus a solicitor who has assisted in a wrongful investment of trust money by drawing up deeds will only be liable, if at all, to an action for negligence to which the statute will apply.
+Brunyate went on to identify as another class of persons said to be unable to plead the Statute of Limitations persons who have obtained possession of property which is subject to trusts of which they are cognizant, noting that the scope of this class is very doubtful.
+Halsbury (1936), para 1036, stated (citing In re Dixon, Soar v Ashwell and In re Eyre Williams) that if a person enters into possession or receives the rent of property with full notice of the trust, he is a trustee, and . cannot, when he is called upon to account for the property, avail himself of the lapse of time as a defence.
+Lewin (1939), p 841, recorded that Soar v Ashwell had separately enumerated at least three instances of a constructive trust in which it was not open to a constructive trustee to plead the Statute, footnoting in this connection In re Eyre Williams.
+In similar vein is Underhill (1939), article 101, stating that: All persons who knowingly meddle with trust funds, or mix themselves up with a breach of trust, are equally liable with the trustees; and equally subject to the restrictions on the right of pleading the Statutes of Limitation.
+The absence in all these passages of references to Taylor v Davies and Clarkson v Davies (which dealt only briefly with the present issue, citing Taylor v Davies) becomes perhaps less surprising in view of passages in Taylor v Davies, particularly at pp 651 and 653, which expressly refer with apparent approval to the persons enumerated in the judgment of Bowen LJ in Soar v Ashwell and those persons who under the rules explained in Soar v Ashwell and other cases are to be treated as in a like position to an express trustee.
+The Privy Council cases may well therefore have passed in their day as cases leaving undisturbed the rules established in Soar v Ashwell and its successor cases.
+The facts in Taylor v Davies are in this connection also instructive.
+The defendant, Davies, was not a trustee, but an inspector appointed by the assignee under an assignment made by a debtor for the benefit of creditors, and, as such, he was held to owe a fiduciary duty which precluded him from buying for his own benefit unless he made full disclosure, which he failed to do.
+Any liability he had as constructive trustee arose simply from that act.
+He was not someone who had assumed possession of any trust assets before or indeed by the breach of duty and so he was also not a dishonest assister in a breach of trust or even a knowing recipient of previously existing trust assets (see Lewin On Trusts, 18th ed, para 42 22 for the requirements for knowing receipt).
+So he was not within any of the categories identified in paragraph 122 above or considered in Soar v Ashwell.
+A constructive trust was imposed as a simple result of and in order to remedy his breach of fiduciary duty (see eg Lewin on Trusts, paragraph 4.24 et seq).
+The facts in Clarkson v Davies were similar.
+The directors were not trustees, and had not assumed possession of any assets.
+Nor were they dishonest assisters of any breach of trust or knowing recipients of any previously existing trust monies.
+Their liability arose upon a sale of the assets of the selling company, of which they were directors, to another company, in connection with which they had personally received a payment from the buying company.
+A constructive trust was imposed simply to remedy this breach of fiduciary duty.
+Whatever the reason, however, the two Privy Council cases do not feature as part of the English legal background leading to the 1939 Act.
+The Law Revision Committee Report is in contrast a powerful indication of the genesis and aims of section 19 of that Act.
+These were to reflect and build on the established principles set out in Soar v Ashwell and the other English case law discussed above.
+A comparison of section 8 of the 1888 Act and section 19 of the 1939 Act shows careful redrafting to achieve this.
+Under the 1888 Act, the right to limit was confined to actions by the trustee or persons claiming through him, and the exception for claims founded on fraud and claims to recover trust property was correspondingly limited to such actions.
+Under section 19(2) of the 1939 Act (now section 21(2) of the 1980 Act), the right to limit applies simply to an action by a beneficiary to recover trust property or in respect of any breach of trust, ie without any limit as to the persons against whom the action was brought.
+The exception is also, on its face, unrestricted as regards the persons against whom the action is brought, being defined by reference to the nature of the action.
+The question is simply: is the action in respect of any fraud or fraudulent breach of trust to which the trustee was a party or privy? The change (as I have said in para 132 above) must have been deliberate, particularly bearing in mind the preservation in section 19(1)(b) (now section 21(1)(b) of the 1980 Act) of a limitation that the action to recover trust property must be against the trustee.
+As to the definition of trustee, section 31(1) of the 1939 Act provides that: In this Act, unless the context otherwise requires, .
+Trust and trustee have the same meanings respectively as in the Trustee Act, 1925.
+The 1939 Act is therefore to be read as if these phrases were defined expressly to give this the same meaning as in the Trustee Act 1925.
+Section 68 of that Act provides that: In this Act, unless the context otherwise requires . (17) . the expressions trust and trustee extend to implied and constructive trusts, and to cases where the trustee has a beneficial interest in the trust property, and to duties incident to the office of a personal representative, and trustee where the context admits, includes a personal representative, and new trustee includes an additional trustee.
+It is not difficult to see why the draftsman should have thought that this was wide enough to overcome any possible difficulties that could arise from the 1888 Act and all such concerns and proposals as the Law Revision Committee had expressed.
+I return later in this judgment to the significance for this appeal of this redefinition, which I see as being primarily to assimilate knowing recipients of trust property with those obtaining possession within category (a).
+In other words, it was no longer to be significant whether possession of trust property was gained innocently, with its later wrongful handling converting the possessor into a trustee de son tort, or was knowingly taken from the outset contrary to the interests of the beneficiary.
+The 1939 Act was intended to give effect to the recommendations of the Law Revision Committee.
+The mischiefs at which it was aimed were those identified in that Committees Report. [A]ssistance can . be obtained as to the general background and as to the mischief which the legislation was addressing by looking at the reports of the proceedings in Parliament: see The Presidential Insurance Co Ltd v Resha St Hill [2012] UKPC 33, para 23 24, citing Gopaul v Iman Bakash [2012] UKPC 1, para 3 per Lord Walker, and R (Jackson) v Attorney General [2005] UKHL 56, [2006] 1 AC 262, para 97 per Lord Steyn.
+This is so without satisfying the requirements which Pepper v Hart [1993] AC 593 imposes when the aim is to rely on ministerial statements in Parliament to clarify ambiguity in a legislative text (although those requirements would, if necessary, also be capable of being satisfied in this case).
+The Bill was a House of Lords Bill.
+It was introduced for second reading by the Lord Chancellor on 27 June 1938 in the presence of Lord Wright, who had chaired the Law Revision Committee, and Lord Romer, as he now was.
+All three spoke.
+Clauses 19 and 20 of the Bill were in precisely the same form as became sections 19 and 20 of the 1939 Act.
+The Lord Chancellor said: The matter was put before the Law Revision Committee, who reported on the matter in December 1936, and I am glad to see here my noble and learned friends Lord Wright and Lord Romer, who were concerned with the hard work which was necessary before this Bill could attain its present simple, or comparatively simple, form.
+I do not propose to go through the provisions of this difficult and complex Bill, because I am quite satisfied that those who have done the work and are here present can tell your Lordships with much more accuracy and ability the reasons why any particular provision in the Bill is to be found there and can explain any conundrum that your Lordships may wish to put to them. (Hansard (HL Debates) 27 June 1938, vol 110, col 310).
+Lord Wright added: The Report on which this Bill is based has been before the country for a considerable number of months, and surely if it is to be criticised, if it has blemishes, it is for those who are concerned to point them out.
+We have done our best, and it is for Parliament to decide whether effect should be given to our recommendations, and what form that effect should take. (Hansard (HL Debates) 27 June 1938, vol 110, col 314).
+The Bill went to the House of Commons, where it was introduced by another member of the Law Revision Committee, the Solicitor General, Sir Terence OConnor QC.
+He opened the debate at 11.56 pm on 19 July 1938 by saying It is not a simple Bill and I feel to some extent a parental responsibility because I served on the Law Revision Committee on whose report it is based. their Report was laid before Parliament in December 1936, and this Bill introduced in another place last month in order to do something to clear up the confusion which was found to exist in the law.
+Clauses 19 and 20 extend the general exclusion from all limitations to actions to recover money from trustees and executors, and in the case of personal estates, make a similar exemption. (Hansard (HC Debates) 2 February 1939, vol 343, cols 487 515) Not surprisingly, due to the very late hour of its introduction, the Bill was then withdrawn, but was reintroduced by the Solicitor General at the more civilised hour of 9.00 pm on 2 February 1939 with similar explanations both generally and relating to clauses 19 and 20.
+It then received its second reading, no member of the House having raised any point on these clauses.
+Closing the debate on this occasion, the Solicitor General also made clear that: The whole of the material upon which this Bill is founded has been embodied in the report of the Law Revision Committee, and it has been available ever since 1936, so that there has been ample opportunity for everybody to know what the proposals of the Committee were. (Hansard (HC Debates) 2 Feb 1939, vol 343, cols 487 516)
+Reviewing the effect of the 1939 Act in the Modern Law Review vol 4 in July 1940, pp 45, 47, J Unger wrote: This Act, which came into operation on the 1st July, 1940, is founded upon the Fifth Interim Report of the Law Revision Committee.
+Section 19 simplifies the law of limitation of actions in respect of trust property.
+All constructive trustees are now subject to the same restrictions when claiming the protection of the Statute as express trustees.
+Thus the obstacle presented by Soar v Ashwell to a proper classification of trusts has been removed.
+The same view was expressed by Professor Donovan Waters in a book on Canadian law, The Constructive Trust (published 1964) cited by Millett LJ in Paragon Finance at p 411G. Professor Waters stated (with hindsight over optimistically) that with the Limitation Act 1939 it [the limitation controversy] passed, probably, for ever, the generally accepted view being that the false and limited trilogy of trusts in Soar v Ashwell had been swept away (p 411) and that the Limitation Act was intended to bury this issue (p 1020, as cited by Millett LJ).
+In this light, it is unsurprising that section 19(1)(a) of the 1939 Act gave rise to little litigation.
+The one decision worth noting was by Dankwerts J at first instance in G L Baker Ltd v Medway Building and Supplies Ltd [1958] 1 WLR 1216.
+The judgment suggests that there was only limited examination of the relevant history and case law.
+But Dankwerts J, in a part of his judgment not appealed, held that section 19(1)(a) was wide enough to cover a claim against a third party company based on a fraudulent payment of trust monies by a trustee to the company (of which the trustee was a director).
+Since the company was treated as innocent of the fraud, that conclusion went wider than category (c), and is in my opinion open to questions to that extent.
+It is only recently in litigation under section 21 of the 1980 Act that the theses have been developed, first that a knowing recipient cannot benefit by a limitation defence and, later, that a dishonest assister can benefit by a limitation defence although the dishonest trustee whom he assists cannot (in short, that category (c) cases are also outside section 21(1)(a)).
+These theses were initially, and in my view correctly, rejected by the Isle of Man Staff of Government Division in Barlow Clowes International Ltd v Eurotrust International Ltd (31 March 1998).
+The first thesis was however accepted by Millett LJ in Paragon Finance, but he was, as I have already noted, careful to make clear that he was not accepting, but was leaving undecided, the second thesis.
+It is however a thesis which it is suggested that Lord Millett (as he had by now become) accepted in Dubai Aluminium Co Ltd v Salaam [2002] UKHL 48, [2003] 2 AC 366, para 141.
+It was not, however, a thesis advanced or discussed in submissions by counsel (who included Mr Jonathan Sumption QC), because limitation was not advanced and was irrelevant.
+The issue in that case was simply one of contribution between joint tortfeasors.
+The remarks by Lord Millett at paras 140 143 in Dubai Aluminium were addressed to the question which was relevant, which was whether . a firm and its innocent partners may be vicariously liable for a partners dishonest assistance in a breach of trust (para 81).
+What Lord Millett was concerned to do was underline his previous remarks in Paragon Finance about the distinction between the two entirely different situations in which the expressions constructive trust and trustee were used.
+Lord Milletts statements in Dubai Aluminium that a person in the dishonest partners position in that case could not plead the Limitation Acts as a defence to the claim were passing comments relating to the informal remedial sense in which it is (he suggested unfortunately) used.
+They cannot be read as deciding sub silentio an issue which he had carefully left open in Paragon Finance.
+It is equally inappropriate to treat it as sharing the authority of the two other members of the House (Lord Hutton and Lord Hobhouse) whose judgments record their general agreement with the reasons given by both Lord Nicholls (who said nothing on the present subject) and Lord Millett.
+None of the Court of Appeal decisions in J J Harrison (Properties) Ltd v Harrison [2002] 1 BCLC 162, Gwembe Valley Development Co Ltd v Koshy (No 3) [2004] 1 BCLC 131 and Halton International (Holdings) Inc Sarl v Guernroy Ltd [2006] EWCA Civ 801 concerned a dishonest assister.
+In Harrison a director who without disclosing material information bought specific property from his company, which was under his control and in respect of which he owed pre existing fiduciary duties, was unable to plead limitation because of section 21(1)(b).
+In Gwembe Valley a director making an undisclosed profit from a currency transaction entered into by the company was liable only under a constructive remedial trust, so that section 21(1)(b) was not applicable: paras 120 and 161(10).
+However, since he was held to have been fraudulent, the claim did fall, directly or by analogy, within section 21(1)(a) see paras 120 and 161(9) and (12).
+Halton was another case, like Gwembe Valley, in which the benefit obtained by alleged fiduciaries did not consist of pre existing property belonging to the company, but consisted in shares which came into existence only because of the transaction impeached.
+The next cases are conflicting first instance authorities on the limitation position of dishonest assisters: Cattley v Pollard [2006] EWHC 3130 (Ch), [2007] Ch 353 (Richard Sheldon QC, sitting as a deputy) and Statek Corp v Alford [2008] EWHC 32 (Ch) (Evans Lombe J).
+In an impressive analysis of prior authority, Richard Sheldon QC concluded (para 81) that the dicta in Soar v Ashwell could no longer stand as good law in the light of Millett LJs analysis in Paragon Finance and Lord Milletts speech in Dubai Aluminium.
+He also held that section 21(1)(a) did not cover claims against a dishonest assister.
+A year later Evans Lombe J expressed his opposite view, albeit obiter.
+A yet further year later, the same point came before the Hong Kong Final Court of Appeal in Peconic Industrial Development Ltd v Lau Kwok Fai [2009] 5 HKC 135.
+Lord Hoffmann gave the main judgment.
+Speaking quite briefly, he acknowledged the high authority of the dicta in Soar v Ashwell, but thought them wrong in principle and unsupported by authority (para 24).
+He therefore saw no basis to treat a dishonest assister as a trustee within the meaning of section 21(1)(a) (paras 23 24).
+He also rejected the view that a claim against a dishonest assister would be within section 21(1)(a) because it is in respect of , in the sense of being accessory to, the actual trustees fraudulent breach of trust (para 25).
+He though that, had that been intended, then the language would have been a good deal clearer.
+He did not refer to the Law Revision Committee Report, the relevant Parliamentary material or the actual contemporary understanding of the law, evidenced by the case law and jurisprudence to which I have referred.
+Instead, he relied on Taylor v Davies as an authoritative statement of the previous position.
+Above all, however, he did not mention section 21(3) or therefore address the obvious objection presented by it to his analysis of the words in respect of.
+I cannot in these circumstances attach weight to the analysis or decision in Peconic.
+All the modern cases from Paragon Finance onwards in fact make reference to the Privy Council decisions in Taylor v Davies and Clarkson v Davies.
+As I have pointed out, these form no part of the actual background to section 19 of the 1939 Act or therefore section 21 of the 1980 Act, and were also not cases of dishonest assistance or knowing receipt in respect of any trust assets.
+Further, none of the modern cases analyses the position as it was (clearly) understood to be in the 1930s and in the report of the Law Reform Committee which led to the 1939 Act.
+All that Millett LJ said in the Paragon Finance case at p 412, was that The actual recommendation of the Law Reform Committee went wider than the mischief to which it drew attention [viz the interpretation of trustee to exclude an executor], and it is an open question whether Parliament intended to adopt the wider
+recommendation or merely to put an end to the mischief
+He thought that, if Parliament had intended the latter, it would have said so more clearly.
+In fact, it is clear from the Parliamentary material (paras 146 and 147 above) that Parliament intended to deal with all the mischiefs identified by the Law Revision Committee, so that it was wrong to describe the adoption of the Committees wider recommendation as an open question.
+In addition, Millett LJ was not concerned at all with the question, which he expressly left open later in his judgment, whether Parliament had intended to abolish the previously well understood rule that dishonest assisters were in the same position as regards limitation as the dishonest trustees who they assisted and his attack on the use of the term constructive trust was based on cases which involved neither dishonest assistance nor knowing receipt, but pure remedial trusts.
+To make dishonest assistance, and in my view also knowing receipt cases subject to limitation, Parliament would have had to have been imputed with the intention to do the opposite of what the Law Reform Committee had advised, that is to reverse rather than reflect the common understanding of the legal position stated in Soar v Ashwell, In re Dixon and other authorities.
+There is no basis or likelihood for that at all.
+Neither Millett LJ nor any of the other authorities suggests any.
+The Parliamentary material quoted in paras 146 and 147 above puts it beyond doubt (if any otherwise existed) that this was not the intention.
+The Courts role is to give to section 21 in the 1980 Act the effect which Parliament must be taken to have intended it to have.
+That in turn depends upon the effect to be given to section 19 of the 1939 Act.
+In my view, it is clear that this was to treat dishonest assisters as in the same position as regards limitation as the dishonest trustees they assist.
+That is the approach adopted by the Court of Appeal in its dicta in Soar v Ashwell.
+There is no difficulty about treating dishonest assisters as persons sued in respect of the fraud of the principal trustee within section 21(1)(a).
+It was the clear intention of the Law Revision Committee and Parliament under the 1939 and now 1980 Acts that dishonest assisters should not be able to plead limitation.
+It is only recently, since Royal Brunei in 1995, that it is clear that liability as a dishonest assister does not necessarily depend upon the existence of a dishonest trustee.
+Even if one looks at the position since Royal Brunei, the resulting position is still not incoherent.
+A beneficiary whose trustee is involved in fraud is particularly exposed.
+A third person who dishonestly procures the removal of trust assets without a trustee being complicit in the fraud can be compared with any other stranger committing a fraud on a property owner.
+But to equate a third person, who dishonestly joins with a dishonest trustee to defraud the trust, with the dishonest trustee for limitation purposes is entirely natural.
+See also Millett LJs statement in Paragon (para 124 above).
+Certainly, that was the understanding prior to and when the 1939 Act was passed, and it was, as I have shown, one which the Act was clearly intended to reflect.
+In these circumstances, I am of the opinion that Dr Williams claim against the Central Bank of Nigeria as alleged dishonest assisters falls within section 21(1)(a) of the 1980 Act and is not time barred.
+As to Dr Williams claim for knowing receipt by the Central Bank of Nigeria, to avoid limitation, he has to show that this claim falls within section 21(1)(b).
+It may be open to doubt how far the rules in Soar v Ashwell were themselves designed to cover this type of claim (category (b) identified in para 122 above) and take it outside the limitation defence.
+The class of case identified by Kay LJ at p 405 (see para 126 above) identified a situation involving a combination of knowing assistance and knowing receipt and J W Brunyate observed that the scope of the class of persons referred to in Soar v Ashwell who have obtained possession of property which is subject to trusts of which they are cognizant and could not on that basis plead limitation was very doubtful (para 140 above).
+However, by the time of the Law Revision Committee Report Romer J had decided both In re Eyre Williams and In re Mason, and, in the latter case he had (see para 136 above) specifically explained the former as a case where the trust funds or the proceeds of the trust funds have been received by a person with knowledge that they have been wrongly paid to him (ie as a category (b) case: see para 122 above).
+Further, Halsbury (1936) and Underhill (1939), cited in para 141 above, endorsed this approach.
+In its Report, the Law Revision Committee, on which Romer LJ (as he now was) sat, made clear that it was intending to endorse the approach taken not just in Soar v Ashwell, but also in the cases cited in In re Eyre Williams, which (apart from Soar v Ashwell and Lee v Sankey (1872) LR 15 Eq 204) consisted only of In re Mason.
+Finally, the Committee made clear that it intended to do away with the distinction between express and constructive trusts in the area of limitation, and the 1939 Act adopted a definition in terms wide enough to achieve that result.
+On that basis, Parliaments clear intention in 1939 appears as being that, for the purposes of limitation, those guilty of knowing receipt should be unable to plead limitation, falling to be treated as trustees within the scope of section 21(1)(b), in the same way as possessors falling within category (a) (see para 122 above).
+To that extent the distinction drawn in Beckford v Wade was to be abrogated.
+Lord Neuberger seeks to derive from an examination of the effect of the definition of trust and trustee in the context of the 1925 Act a conclusion that these phrases cannot embrace all express, implied and constructive trusts and trustees in the context of the 1939 Act.
+I do not agree that the phrases are limited in the context of the 1925 Act in such a way as to exclude a knowing recipient.
+I understand Lord Neuberger and Lord Sumption to accept that section 21(1)(a) covers a category (a) possessor that is an executor de son tort (a person, such as a solicitor, who is not strictly a trustee but receives trust property honestly, and only later decides to deal with it contrary to the trust).
+That being so, I fail to see why the 1925 Act definition is incapable of covering a category (b) knowing recipient (someone who knowingly receives trust property intending from the outset to deal with it contrary to the trust).
+On the contrary, it seems to me understandable that the Law Revision Committee in 1936 and Parliament in 1939 should decide to assimilate these two cases for the purposes of section 21(1)(b).
+Possession is the hallmark of a trustees role and shapes a trustees duties.
+A knowing recipient has possession just as does an executor de son tort.
+An executor de son tort is treated as a trustee under section 21(1)(b) because of the wrong he commits.
+Precisely the same reason justifies treating a knowing recipient as a trustee under section 21(1)(b).
+As regards taking possession, a knowing recipient and an executor de son tort differ from a simple dishonest assister.
+A dishonest assister conspiring with a fraudulent trustee can however also be seen as even less meriting of protection by limitation than a mere knowing recipient.
+That is quite apart from the evident oddity (on Lord Neubergers and Lord Sumptions case) of one conspirator (a dishonest assister) benefitting by limitation, while the other (the fraudulent trustee) does not.
+Hence, in my opinion, the formulation of section 21(1)(a) to cover a dishonest assister.
+I would only add, though not necessary for my decision, that the definitions in both the 1925 and the 1939 Acts are made subject to context.
+I do not see why the 1925 definition when read into the 1939 Act should not be capable of being shaped in effect by any factors generally admissible to shape the interpretation of the 1939 Act.
+Those factors include the case law background, the mischief being addressed and Parliaments evident intention when enacting section 21.
+I therefore consider that Dr Williams succeeds on both dishonest assistance and knowing receipt, and that the appeal by the Central Bank of Nigeria should be dismissed.
+LORD CLARKE, dissenting in part
+I appreciate that this is a minority judgment.
+I will therefore keep it short.
+In the course of the argument, I was attracted by the submission that the Central Bank of Nigeria was a trustee within the meaning of section 21(1)(a) of the Limitation Act 1980 for the reasons powerfully set out by Lord Mance in his judgment.
+However, somewhat reluctantly, I am persuaded by the reasoning of Lord Neuberger and Lord Sumption that he was not.
+In particular, I agree with them that it is not apt to describe a person who receives property dishonestly as a trustee where the trust is alleged to arise, as Lord Neuberger puts it at para 64, simply as a result of dishonest receipt.
+As he says, nobody has ever placed any relevant trust and confidence in the recipient.
+What then of the knowing assister? There is force in the point that, if a dishonest recipient is not a trustee, it is difficult to see why a dishonest assister should be one.
+However, as I see it, the critical points derive from the terms of the statute.
+Section 38(1) of the 1980 Act defines the terms trust and trustee as having the same meanings, respectively, as in the Trustee Act 1925.
+As Lord Neuberger puts it at para 69, there is no reason to think that the drafter of section 68(1)(17) of the 1980 Act intended constructive trust or trustee to have a wider meaning than that which they had been accorded by Courts of Equity over the years.
+As he says, it would be surprising if a statute consolidating the law governing the powers and duties of trustees did not adopt an orthodox definition of trust and trustee.
+The effect of the argument for Dr Williams is to give those expressions a wider meaning than they would have had in the Trustee Act standing alone.
+I agree with Lord Neuberger that, for the reasons he gives at paras 72 and 73, it is not permissible to achieve that result by reference to context.
+The point upon which I have reached a different conclusion from the majority is whether this action is an action by Dr Williams as the beneficiary of a trust, being an action in respect of any fraud or fraudulent breach of trust to which the trustee was a party or privy within the meaning of section 21(1)(a) of the 1980 Act.
+As Lord Sumption explains in para 2, the alleged trustee was a Mr Gale and Dr Williams asserts that the Central Bank of Nigeria dishonestly assisted Mr Gales breach of trust and/or received money knowing that it was being paid by Mr Gale in breach of trust.
+All three members of the Court of Appeal (the Chancellor and Black and Tomlinson LJJ) held that the action is such an action within section 21(1)(a).
+It is submitted that they were wrong so to hold on the ground that the section is limited to actions against the trustee.
+I would reject that submission.
+There is nothing in the language of the section to lead to that conclusion.
+I appreciate that section 21 has been set out by Lord Sumption.
+I set it out again because its wording is critical on this point.
+It provides, so far as relevant: 21. (1) No period of limitation prescribed by this Act shall apply to an action by a beneficiary under a trust, being an action (a) in respect of any fraud or fraudulent breach of trust to which the trustee was a party or privy ; or (b) to recover from the trustee trust property or the proceeds of trust property in the possession of the trustee, or previously received by the trustee and converted to his use. (3) Subject to the preceding provisions of this section, an action by a beneficiary to recover trust property or in respect of any breach of trust, not being an action for which a period of limitation is prescribed by any other provision of this Act, shall not be brought after the expiration of six years from the date on which the right of action accrued.
+Section 23 provides: An action for an account shall not be brought after the expiration of any time limit under this Act which is applicable to the claim which is the basis of the duty to account.
+Section 21(1)(a) contains two requirements: (a) the action must be brought by a beneficiary under a trust; and (b) it must be an action in respect of a fraud or fraudulent breach of trust to which the trustee was a party or privy.
+Here the action was brought by Dr Williams as a beneficiary of a trust in which Mr Gale was the trustee and the action was against the Central Bank of Nigeria in respect of a fraudulent breach of trust to which it is alleged that Mr Gale was a party.
+On this basis, the action in my opinion falls within the ordinary meaning of the language used in the section.
+There is nothing to suggest that the action must be against the trustee.
+It would have been very simple for the drafters so to provide if that was intended.
+In para 91 Lord Neuberger identifies the question as whether the person in the position of the Central Bank of Nigeria is sued in respect of any fraud or fraudulent breach of trust to which the trustee was a party or privy.
+In para 94 he treats the question as being whether the words in respect of should be given a wider meaning, in which case he accepts that they can properly be construed to extend to dishonest assisters or advisers without applying to innocently (as opposed to fraudulently) negligent co trustees and professional advisers of a fraudulent trustee.
+He says that the words in respect of are flexible in that they can have a broad or restricted effect.
+He concludes that, construed in their context, they should be given a narrow effect.
+The difficulty with an approach which depends upon the construction of the expression in respect of any fraud or fraudulent breach of trust as meaning that the action must be against the trustee is, as I see it, that it is common ground that in section 21(3) the expression an action by a beneficiary in respect of any breach of trust includes an action against a dishonest assister.
+It is only by construing subsection (3) in that way that, on the Central Banks case, the relevant time period under the 1980 Act is six years.
+The purpose of section 21(3) is to reflect the position in section 21(1)(a) and (b), albeit treating them in the reverse order.
+It refers first to an action by a beneficiary to recover trust property, which is a reference back to section 21(1)(b), which is expressly concerned only with an action to recover trust property.
+It then refers to an action by a beneficiary in respect of any breach of trust, which is surely a reference back to section 21(1)(a), which refers to an action by a beneficiary in respect of any fraud or fraudulent breach of trust.
+It seems to me to be clear that section 21(1)(a) and section 21(3) must be read together.
+The purpose of them was to provide the circumstances in which there would be no limitation period and the circumstances in which the period would be six years.
+Since section 21(3) is expressly subject to the preceding provisions of the section, which of course include section 21(1)(a), section 21(3) has the effect that a claim by a beneficiary against a dishonest assister is six years unless section 21(1)(a) applies.
+Section 21(1)(a) applies where the dishonest assister assists a fraud or fraudulent breach of trust to which the trustee was a party or privy.
+If, as is correctly common ground, an action against a dishonest assister is an action in respect of a breach of trust within section 21(3), it seems to me that such an action must also be an action in respect of a fraud or fraudulent breach of trust to which the trustee is a party or privy where that is the position on the facts. (My emphasis)
+Both the history of section 21 and the section itself show that the drafters could readily have limited section 21(1)(a) to actions against the trustee if they had wished.
+As to the history of the provision, section 21(1) of the 1980 Act was a re enactment of section 19 of the Limitation Act 1939.
+Prior to that, the relevant provision was section 8(1) of the Trustee Act 1888, which was confined to any action or other proceeding against a trustee or any person claiming through him.
+There is no such express provision in section 21(1)(a).
+As to section 21 itself, by contrast with section 21(1)(a), section 21(1)(b) is expressly limited to actions against the trustee to recover property and the like.
+It is suggested that this approach gives no sensible effect to the words to which the trustee was a party or privy.
+I respectfully disagree.
+It seems to me that that they emphasise that whoever is the defendant will only be deprived of the benefit of the six year limitation provision in section 21(3) if the trustee is privy to the fraud or fraudulent breach of trust.
+The purpose of the drafters was to ensure that the both the trustee and any other person liable in respect of the fraud would be treated in the same way for limitation purposes.
+To my mind that is an understandable purpose.
+It is further suggested that the use of the expression the trustee is inconsistent with this approach.
+Again, I respectfully disagree.
+The reference to the trustee is no more than a reference back to the trust in the opening words of the section.
+Thus, the action must be by a beneficiary of a trust and the reference to the trust in (a) does no more than make it clear that the trustee of that trust must be a party or privy to the fraud or fraudulent breach of trust concerned.
+Next, it is suggested that it seems inappropriate that the ability of a dishonest assistant or dishonest knowing recipient to invoke the normal six year period should depend upon whether or not the trustee was fraudulent.
+Reference is made to the speech of Lord Nicholls in Royal Brunei Airlines Sdn Bhd v Tan [1995] 2 AC 378, where he said that a dishonest assistant may be liable whether or not the breach of trust on the part of the trustee was dishonest.
+I accept that that is the position but I am not persuaded that that was appreciated at the time of the Limitation Acts 1939 and 1980.
+Whether it was or not, I have already expressed the view that it is understandable that the drafters should have thought it appropriate to treat the trustee and the dishonest assister in the same way for limitation purposes.
+Finally, I am not persuaded that there is anything in section 21(1)(b) which leads to any different conclusion.
+I recognise that this conclusion is inconsistent with that expressed by Lord Hoffmann in Peconic Industrial Development Ltd v Lau Kwok Fai [2009] 5 HKC 135, where the Court of Final Appeal in Hong Kong was considering a Hong Kong Ordinance in the same terms as section 21.
+In para 25, after recognising that the words in respect of may have a very wide meaning and referring to the possibility of such a meaning being given to them being tentatively considered by Dankwerts J in GL Baker Ltd v Meday Builders and Supplies Ltd [1958] 1 WLR 1216, 1222, he said this: But I think that in the context of section 20 of the Ordinance it simply means that the beneficiary must be claiming against the trustee on the ground that he has committed a fraudulent breach of trust.
+If it had been intended to include claims against dishonest assisters or other non fiduciaries on the ground that they were accessories to the breach of trust, the language would have been a good deal clearer.
+Lord Hoffmann makes no reference to the use of the expression in respect of in section 21(3) as discussed above and, while I recognise the experience of Lord Hoffmann in this area, the question for decision is one of construction of the section and, as I see it, the section does not have the limited effect to which he refers.
+For the reasons I have given I would dismiss the appeal on this point.

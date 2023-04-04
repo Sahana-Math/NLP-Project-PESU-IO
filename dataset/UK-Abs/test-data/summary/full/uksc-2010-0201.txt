@@ -1,0 +1,47 @@
+This case concerns the scope for justifying direct discrimination on the ground of age and in particular a mandatory retirement age contained within a partnership agreement.
+The case was heard alongside Homer (Appellant) v Chief Constable of West Yorkshire Police (Respondent) [2012] UKSC 15 which concerned the scope of indirect discrimination on the ground of age.
+Mr Seldon joined the Respondent law firm in 1971 and was made an equity partner in 1972.
+In 2005 he and the other partners in the firm agreed and adopted a partnership deed which (like earlier deeds) provided that, subject to the partners agreement to the contrary, partners who attain the age of 65 had to retire from the firm by the end of the following December.
+Mr Seldon reached the age of 65 on 15 January 2006.
+Realising that he would need to continue working beyond this point, he asked the other partners to extend his tenure.
+The proposals were rejected on the basis of there being no sufficient business need.
+The partners did however offer Mr Seldon an ex gratia payment of 30,000.
+The Employment Equality (Age) Regulations 2006, SI 2006/1031 (the Age Regulations) came into force in October 2006.
+Mr Seldon informed the partners that he was considering his rights under the Age Regulations (which have since been repealed but substantially re enacted under the Equality Act 2010).
+The partners then withdrew their offer of an ex gratia payment.
+Mr Seldon ceased to be a partner in the firm on 31 December 2006.
+He issued proceedings in March 2007 alleging, under the Age Regulations, that his forced retirement was an act of direct age discrimination and that the withdrawal of the offer of an ex gratia payment was an act of victimisation.
+Regulation 17 of the Age Regulations provides that it is unlawful for a firm to discriminate against partners by, amongst other things, expelling them from that position.
+The definition of discrimination is contained in regulation 3 which provides that a person (A) discriminates against another person (B) if on grounds of Bs age, A treats B less favourably than he treats or would treat other persons and A cannot show the treatment to be a proportionate means of achieving a legitimate aim.
+There was no dispute that the mandatory retirement age treated Mr Seldon less favourably than other partners and that this was necessarily on account of his age.
+The key issue was whether that treatment could be justified.
+The Age Regulations were intended to transpose Council Directive 2000/78/EC on equal treatment in occupation and employment into UK law.
+Article 2(1)(a) of the Directive states that direct discrimination shall be taken to occur where one person is treated less favourably than another is, has been or would be treated in a comparable situation.
+Article 2(1)(b) provides that indirect discrimination occurs where an apparently neutral provision, criterion or practice puts people of a particular age at a particular disadvantage, unless the provision, criterion or practice is objectively justified by a legitimate aim and the means of achieving that aim are appropriate and necessary.
+In relation to age discrimination, however, article 6(1) allows member states to provide that differences of treatment on grounds of age shall not constitute discrimination if, within the context of national law, they are objectively and reasonably justified by a legitimate aim, including legitimate employment policy, labour market and vocational training objectives, and if the means of achieving that aim are appropriate and necessary.
+Regulation 3 does not distinguish between direct and indirect discrimination for the purpose of justification.
+The Employment Tribunal accepted that the retirement policy pursued three legitimate aims: (i) giving
+associates an opportunity of partnership within a reasonable time, and thereby an incentive to remain with the firm; (ii) facilitating workforce planning by knowing when vacancies were to be expected; (iii) limiting the need to expel underperforming partners, thus contributing to a congenial and supportive culture within the firm.
+The Tribunal found that the mandatory retirement age of 65 was a proportionate means of achieving the three legitimate aims and therefore rejected the discrimination claim (but upheld the victimisation claim).
+The Employment Appeal Tribunal held that the Employment Tribunal had failed to consider whether the aims could have been met by a retirement age other than 65 and remitted the case on that point alone.
+The Court of Appeal dismissed Mr Seldons appeal.
+He then appealed to the Supreme Court asserting that: first, it is wrong to elide the tests for justification in direct and indirect discrimination cases and that the aims pursued by the firm were not legitimate in the context of the former; and secondly, that the treatment had to be justified not only in respect of the firm generally but in its particular application to Mr Seldon.
+The Supreme Court unanimously dismisses the appeal and remits the case to the Employment Tribunal on the outstanding issue.
+Lady Hale gives the lead judgment with which the other members of the Court agree.
+Lord Hope adds some further comments.
+As to the first issue, the Employment Tribunal did not have the benefit of the later decisions in the European Court of Justice/Court of Justice of the European Union and in the High Court.
+That jurisprudence shows that a distinction must be drawn between the tests for justification in direct and indirect discrimination and regulation 3 should be read accordingly [51].
+The aims set out in article 6(1) of the Directive are directed primarily to the Member States and are of a public interest nature, which is distinguishable from purely individual reasons particular to the employers situation, such as cost reduction or improving competitiveness [50(2)].
+The Age Regulations had given employers and partnerships the flexibility to choose which aims to pursue, provided that (i) they can count as legitimate objectives of a public interest nature within the meaning of the Directive, (ii) they are consistent with the social policy aims of the state, and (iii) the means used are both appropriate to the aim and reasonably necessary to achieve it [55].
+It is necessary to identify the actual objective being pursued, although it may not have been articulated or even realised when the measure was first adopted [59, 60]].
+Once an aim has been identified, it has to be asked whether it is legitimate in the particular circumstances of the employment or partnership concerned [61].
+Finally, the means chosen must be both appropriate and necessary to achieve that aim [62].
+Two broad categories of aim had been accepted as legitimate by the European Court: inter generational fairness and preserving the dignity of older workers [56, 57].
+The three aims accepted by the Employment Tribunal in this case were consistent with article 6(1) of the Directive.
+Staff retention and workforce planning were directly related to the social policy aim of sharing out professional employment opportunities fairly between the generations.
+Limiting the need to expel partners by way of performance management was directly related to the dignity aim [67] (despite some reservations expressed about this aim generally [57, 58]).
+As to the second issue, the wording of regulation 3 suggests that the focus is on whether the treatment of Mr Seldon (B) in particular was justified [63].
+However, where it is justified to have a general rule, then the existence of that rule will usually justify the treatment which results from it. [65].
+Often, requiring the application of the rule to the individual to be specifically justified would negate the purpose of having a rule in the first place [66].
+However, all businesses will now have to give careful consideration to what, if any, mandatory retirement rules can be justified in their particular business [66].
+The case is remitted to the Employment Tribunal to consider whether the choice of a mandatory age of 65 was a proportionate means of achieving the legitimate aims of the partnership [68].

@@ -1,0 +1,42 @@
+The appellants (the trustees) are the trustees of the Inter Vivos Trust of the late William Strathdee Gordon (the trust).
+The trust owns farmland comprising three fields (a grazing field, a 40 acre field and a 50 acre field) which were acquired due to their long term development potential.
+Each field was let out under separate leases at various times to a farming partnership.
+By 2003, the leases for all three fields were agricultural holdings for the purposes of the Agricultural Holdings (Scotland) Act 1991.
+In 2003, the trustees instructed a firm of solicitors (the predecessor firm to the respondents) to serve on the farming partnership notices to quit the three fields at the term of 10 November 2003.
+Thereafter, due to defects in the notices relating to the 40 acre field and the 50 acre field, the solicitors served further notices to quit in respect of the three fields dated 8 November 2004 requiring removal by 10 November 2005.
+The tenant did not give up possession of the fields on 10 November 2005.
+On the same day, the solicitors wrote to the trustees to withdraw from acting for the trust.
+The trustees then instructed another firm of solicitors who applied to the Scottish Land Court to seek removal of the tenant.
+By 17 February 2006, at the latest, the trustees had incurred material expense in instructing the new firm.
+On 24 July 2008, the Scottish Land Court gave judgment which refused to give effect to the notices to quit relating to the 40 acre and 50 acre field as the notices were inaccurate in their description of both the tenant and the relevant lease.
+As a result, both the 40 acre and the 50 acre field remain subject to leases which are agricultural holdings, thus preventing development.
+Under the Prescription and Limitation (Scotland) Act 1973 (the 1973 Act), where an obligation has subsisted for a continuous period of five years after the appropriate date, and no claim is made, the obligation ceases.
+Section 6(3) of the 1973 Act provides that, in cases of contractual breach, the appropriate date is the date when the obligation became enforceable.
+Under s11(1) of the 1973 Act, an obligation arising from a breach of contract becomes enforceable on the date when loss, injury or damage occurred.
+Section 11(3) qualifies this by specifying that where the creditor is not aware, or could not with reasonable diligence have been aware, that loss, injury or damage has been caused, an obligation becomes enforceable when the creditor first became so aware.
+On 17 May 2012, the trustees commenced legal action against the respondents.
+The respondents contended that any obligation on them to make reparation to the trustees as a result of the defective notices had expired because the trustees had not raised the action within five years of the date when the trustees had suffered loss which was upon service of the notices on 8 November 2004 or, alternatively, when the tenant failed to quit the land on 10 November 2005.
+The trustees argued that they were first aware of their loss when the Scottish Land Court issued its decision on 24 July 2008.
+The Outer House upheld the respondents plea of prescription.
+The Inner House refused the trustees appeal.
+It held that
+s11(3) of the 1973 Act postponed the start of the prescriptive period only when the damage was latent by requiring that the creditor should have actual or constructive knowledge of the occurrence of damage or expenditure, which was viewed as an objective fact.
+The prescriptive period ran from the time the trustees incurred liability for legal fees notwithstanding that they didnt then know that their application to the Scottish Land Court would fail.
+The Supreme Court unanimously dismisses the trustees appeal.
+Lord Hodge gives the lead judgment with which the other Justices agree.
+In Morrison v ICL [2014] UKSC 48, the Supreme Court determined that, in terms of s11(3) of the 1973 Act, the creditor needed to be aware only of the occurrence of the loss or damage and not of its cause [17] but in that case the Court was not required to address the question raised by this appeal i.e. whether under s11(3) the creditor must be able to recognise that he or she has suffered some form of detriment before the prescriptive period begins.
+This appeal raises the question of whether s11(3) starts the prescriptive clock when the creditor is aware that he or she has spent money (e.g. on a professional advisor) but does not know that that expenditure will be ineffective [18].
+The phrase loss, injury or damage must be interpreted consistently throughout s11 of the 1973 Act. [19 20].
+It therefore follows that s11(3) does not postpone the start of the prescriptive period until a creditor of an obligation is aware, actually or constructively, that he or she has suffered a detriment in the sense that something has gone awry which renders the creditor poorer or otherwise at a disadvantage [21].
+This approach may be harsh to a creditor where he or she is aware of incurred expenditure but not that it entails the loss.
+However, the alternative approach suggested by the trustees would create uncertainty and a requirement for awareness of a head of loss would involve knowledge of the factual cause of the loss, which is an interpretation rejected in Morrison [22].
+Any understanding on the part of the trustees that the expenditure they incurred in pursuing the claim in the Scottish Land Court would ultimately be recovered from the tenant when their claim was successful was irrelevant.
+On an objective assessment, the trustees suffered loss on 10 November 2005 when they did not obtain vacant possession.
+At that moment, the prescriptive period began to run under s11(1) unless it could be postponed by s11(3).
+There was no postponement under s11(3) because the trustees were aware that they had suffered detriment when they did not obtain vacant possession on 10 November 2005.
+In any event, they were actually or constructively aware that they had incurred legal expenses to obtain such possession by 17 February 2006.
+The trustees did not begin proceedings until 17 May 2012.
+It follows that the respondents obligation to make reparation had by that time prescribed [24].
+Whilst this conclusion may lead to hard cases being common, there are live proposals for law reform.
+Following a Scottish Law Commission report, the First Minister of Scotland announced on 5 September 2017 that the Scottish Government intended to bring forward a Bill to reform the law of prescription in Scotland.
+It will be for the Scottish Parliament to decide whether the Commissions proposals for reform of the discoverability test in s11(3) of the 1973 Act should be adopted [25].

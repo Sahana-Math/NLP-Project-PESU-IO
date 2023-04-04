@@ -1,0 +1,52 @@
+The Appellant (the taxpayer) operates bingo clubs.
+Customers pay a fee, which entitles them to play in a number of bingo games (collectively, a session).
+There is no obligation to play every game in a session.
+Prizes are paid to those who win games.
+VAT is charged on the supply of goods or services.
+Council Directive (EC) 2006/112 of 28 November 2006 (the Principal VAT Directive), which currently still applies in the UK, establishes a common system of VAT for member states of the European Union.
+The main UK national legislation is the Value Added Tax Act 1994 (the VAT Act) and the Value Added Tax Regulations 1995 (the 1995 Regulations).
+VAT is normally charged on the full amount paid by the customer.
+However, exceptionally in the case of commercial gambling the taxable amount is the net sum retained by the organiser after deducting the winnings paid out.
+For bingo, the fees charged must therefore be divided into two components: the stake, which is the contribution each customer makes towards the cash prizes, and the participation fee, which is the total fee received minus the stake.
+At all relevant times VAT was payable on the participation fee and not the stake.
+The present dispute arises from a change in guidance given by HMRC about how participation fees should be calculated.
+Until 2007, the guidance stated that bingo promoters should calculate the participation fees separately for each game.
+In February 2007, HMRC issued Business Brief 07/07 (the business brief), which stated that participation fees should be calculated on a session by session basis.
+This is more favourable to the promoter than the game by game basis as it tends to produce a lower taxable amount.
+The business brief stated that Bingo promoters that have calculated the VAT due on participation and session charges on a game by game basis, and who now find that they have done so incorrectly, may make a claim to HMRC for a repayment of any resulting overdeclaration, subject to the conditions set out in Notice 700/45.
+Notice 700/45 gave general guidance and stated that a claim was subject to a time limit of three years.
+This time limit had a legislative basis in section 80 of the VAT Act.
+The taxpayer accounted for VAT on a game by game basis until 2007.
+After the business brief was issued, the taxpayer made a claim under section 80 of the VAT Act for repayment of sums overpaid as a result of having used this basis of calculation; because of the time limit in section 80, the taxpayer claimed and was repaid for the previous three years only.
+In 2011, the First tier Tribunal (Tax Chamber) heard an appeal by another bingo club operator, which argued that it was entitled to make an adjustment without any time limitation.
+The First tier Tribunal agreed: Carlton Clubs plc v Revenue and Customs Comrs [2011] UKFTT 542 (TC); [2011] SFTD 1209.
+In light of that case, the taxpayer in the current dispute sought to make an adjustment for the years 1996
+HMRC declined to accept that.
+The taxpayer appealed.
+The question for the Supreme Court was whether the taxpayer was entitled to make such an adjustment.
+The Supreme Court unanimously dismisses the appeal.
+Lord Leggatt gives the sole judgment.
+The first obstacle facing the taxpayer was the time limit in section 80 of the VAT Act, which applied to recovery of money paid that was not VAT due to HMRC.
+To avoid the time limit, the taxpayer therefore had to argue that all the tax paid on a game by game basis in the years 1996 2004 was due to HMRC [24].
+The taxpayer argued that both the session by session and game by game methods were legitimate methods of calculation.
+As such, when using the game by game method, it was paying tax that was due and therefore section 80 of the VAT Act, and its time limit, did not apply [27].
+Lord Leggatt disagreed; there was only one correct method of calculating the taxable element which was the session by session method [30].
+In the present case, it was an agreed fact that a customer purchased a right to participate in a session of bingo [38].
+No reason was advanced for going behind the pricing policy adopted by the taxpayer [39].
+It followed that if, as a result of using the game by game basis, the taxpayer had paid more VAT to HMRC between 1996 and 2007 than if it had used the session by session method, then the taxpayer had paid tax that was not due.
+This means that section 80 with its three year time limit applied, so that VAT paid before 2004 cannot be recovered [41].
+This was sufficient to dispose of the appeal.
+However, Lord Leggatt went on to address the rest of the taxpayers argument.
+The taxpayer sought repayment by relying on article 90 of the Principal VAT Directive, which states In the case of cancellation, refusal or total or partial non payment, or where the price is reduced after the supply takes place, the taxable amount shall be reduced accordingly under conditions which shall be determined by the member states.
+The mechanism for adjustments under article 90 is found in regulation 38 of the 1995 Regulations, which applies where there is an increase or a decrease in consideration for a supply.
+There is no time limit for making such adjustments [45].
+The taxpayer argued that where the method of calculation changes and produces a lower amount, there is a reduction in the price / decrease in consideration for a supply for which an adjustment can be made under regulation 38 [46].
+Lord Leggatt rejected that argument [47].
+Article 90 and regulation 38 apply only where there has been a change in the consideration actually received by the taxpayer, not where all that has changed is the method used to calculate the taxable amount [48].
+It would subvert section 80 of the VAT Act if the taxable person could, by adopting a different method of calculation, adjust its liability for all past years.
+The taxpayer further argued that the business brief required or invited bingo promoters to change the calculation method and make retrospective adjustments accordingly [57].
+This was also not accepted.
+HMRC does not generally have the power to issue binding guidance [59] and the business brief was merely HMRCs view of the law; if the taxpayer disagreed, the position would need to be resolved by a tribunal [60].
+In any case, the business brief could only reasonably be read as inviting bingo promoters who found that they had incorrectly calculated VAT on a game by game basis to make a claim for repayment under section 80 [64].
+It could not be read as inviting promoters to make adjustments under regulation 38 [65].
+The business brief was therefore inconsistent with the taxpayers case [67].

@@ -1,0 +1,336 @@
+These appeals raise a number of points, some technical, others fundamental, relating to the requirements of and consequences of non compliance with the short and inflexible time limits introduced by the Extradition Act 2003.
+Parts 1 and 2 of that Act deal with extradition to respectively category 1 territories in practice other member states of the European Union party to the Council Framework Decision of 13 June 2002 (2002/584/JHA) introducing the European Arrest Warrant, to which Part 1 gives effect and category 2 territories in relation to which a different and more traditional scheme applies.
+Each of the schemes contained in Part 1 and 2 leads to the person whose extradition is requested being brought before a judge.
+The judge then decides, by considering a series of questions laid down in the Act, whether or not, in the case of Part 1, to order extradition or, in the case of Part 2, to send the case to the Secretary of State for his decision whether to extradite.
+Depending upon the judges decision, there are rights of appeal to the High Court on law and fact.
+These are given under Part 1 to the individual (section 26) or to the authority issuing the warrant (section 28) and under Part 2 to the individual (section 103) or the authority acting on behalf of the category 2 territory seeking extradition (section 105).
+Rights of appeal also exist under Part 2, if the Secretary of State orders extradition (sections 108(1) and 110(1)).
+These rights of appeal must all be exercised within short time limits, described as the permitted periods.
+Thus, section 26(4) provides in the case of an order for extradition to a Part 1 territory that: Notice of an appeal under this section must be given in accordance with rules of court before the end of the permitted period, which is seven days starting with the day on which the order is made.
+Section 28(4) gives the authority a parallel right in the case of an order for discharge, providing for a like seven day permitted period starting with the day on which the order for the persons discharge is made.
+Sections 103, 105, 108 and 110 provide for appeals from a judges order sending a case to the Secretary of State for his decision whether a person is to be extradited and from any order subsequently made by the Secretary of State for extradition.
+In each case the permitted period within which notice of an appeal must be given in accordance with rules of court is 14 days starting with the day on which the Secretary of State informs the person affected or the person acting on behalf of the category 2 territory (as the case may be) of the order.
+In Mucelli v Government of Albania; Moulai v Deputy Public Prosecutor in Creteil, France [2009] UKHL 2; [2009] 1 WLR 276, the House of Lords held by a majority (Lord Rodger dissenting) that the requirement in sections 26(4) and 103(9) that notice of an appeal be given within the relevant permitted period meant that it had both to be filed in the High Court and served on all respondents to the appeal within such period.
+A similar requirement must necessarily exist under sections 28, 105, 108 and 110.
+The Supreme Court was asked on the present appeal to revisit and reverse that decision.
+The House in Mucelli distinguished between the requirement to give notice of an appeal within the permitted period and the requirement that such notice should be given in accordance with the rules.
+Failure to comply with the mandatory requirement (interpreted in Mucelli as involving both filing and service) is on this basis fatal to any appeal, since the statutory language only permits appeals within the permitted periods with no possibility of extension.
+Failure to comply with the rules can, on the other hand, be cured by the court in the exercise of its discretion under (in England) CPR 3.9 and 3.10.
+The result is similar to that achieved in Pollard v The Queen [1995] 1 WLR 1591, where the Privy Council held that a notice of appeal which was required by statute to be given "in such manner as may be directed by rules of court", but which did not comply with such rules because it was not signed by the appellant personally, was nonetheless a notice within the meaning of the relevant statutory provision, at least once the irregularity was waived by the court, and that such waiver validated the notice from the date of its lodging and did not merely bring into existence for the first time a valid notice.
+The House in Mucelli further held that the rules of court were incapable of cutting down the statutory permitted period; thus, CPR 3.6 providing (at the relevant time) that any document served after 16.00 should be deemed to be served on the next day was incapable of rendering out of time a notice of appeal served by Mr Moulai after 16.00 on the seventh and last day of the permitted period.
+Subsequent case law in the High Court shows the distinction between requirements of the statute and of the rules to have proved contentious.
+One line of authority has taken a relaxed view of the statutory requirements.
+In Office of Public Prosecutor of Hamburg, Germany v Hughes [2009] EWHC 279 (Admin), the court, rightly in my view, treated as a mere procedural error, which could be corrected, the endorsement in a notice of appeal of a wrong date of arrest (the effect of such endorsement being that, on the face of the notice, the 40 day period allowed for the court to begin to hear the substance of the appeal would have expired a month early).
+In a series of further cases, the court accepted that service of an unsealed notice of appeal was, at most, a procedural error: Pawel Sciezka v Court in Sad Okregowy, Poland [2009] EWHC 2259 (Admin), Dunne v High Court Dublin [2009] EWHC 2003 (Admin), Arunthavaraga v Administrative Court Office [2009] EWHC 18921 (Admin) and R (Kane) v Trial Court No 5 Marbella, Spain [2011] EWHC 824 (Admin); [2012] 1 WLR 375.
+In Kaminski v Judicial Authority of Poland [2010] EWHC 2772 (Admin) the court refused to strike out appeals where no or only plainly inadequate grounds were stated in the notice of appeal.
+It did so on the basis that the inclusion of grounds was a matter for rules (in which connection the court also thought that the rules made no provision for grounds).
+Other courts have taken a more stringent line.
+In Regional Court in Konin, Poland v Walerianczyk [2010] EWHC 2149 (Admin); [2012] 1 WLR 363, service of an unsealed copy notice of appeal was held insufficient to satisfy the statutory requirement under section 28 a decision which meant that it was the Polish authority that was out of time to appeal.
+In R (Bergman) v District Court in Kladno, Czech Republich [2011] EWHC 267 (Admin), a notice of appeal was prepared by an unrepresented defendant who had been remanded in custody, and was then faxed in draft to the judicial authority and filed, all within the 7 day period, but no stamped copy was served, or indeed received back by the defendant, until much later.
+Following Walerianczyk, it was held that there could be no appeal, although Irwin J, at para 10, recorded his "concern that unrepresented litigants who are in custody will often find it very hard to comply with the necessary requirements, despite every effort on the part of the court staff".
+In Szelagowski v Regional Court of Piotrkow Trybunalski Poland [2011] EWHC 1033 (Admin), a clerk was instructed, after filing a notice of appeal, to serve it on the Crown Prosecution Service with a letter on which he wrote the relevant Crown Office reference.
+The letter was expressed to cover the delivery of the appellants notice and grounds and to request a signature by way of receipt, and the Crown Prosecution Service gave such a receipt.
+But the clerk handed over the wrong accompanying package.
+Nothing in the package handed over or in the covering letter could be described as a notice of appeal.
+There was held to be no valid appeal.
+Sullivan LJ observed (para 18) that: this case demonstrates how a rigid statutory time limit which cannot be extended under any circumstances can work injustice in practice, but the statutory scheme is very clear.
+In the cases of Lukaszewski, Pomiechowski and Rozanski [2011] EWHC 2060 (Admin); [2012] 1 WLR 391, now before the Supreme Court, each of the appellants is a Polish citizen who is the subject of a European Arrest Warrant issued by the Polish court on the basis that he is wanted in order to serve an existing sentence, and, in the case of Mr Lukaszewski, that he is also wanted to stand trial on ten charges of fraud.
+The appellants were arrested and brought before the City of Westminster Magistrates Court, where their extradition was ordered on (respectively) 28th January 2011, 2nd March 2011 and 4th March 2011.
+Mr Lukaszewski and Mr Rozanski had each only been arrested on the day before such order.
+Mr Pomiechowski was also brought before the court on the day after his arrest, but his case was twice adjourned and he was remanded in custody until 2nd March 2011.
+He was then refused a further adjournment, and his extradition was ordered.
+Westminster Magistrates Court is the dedicated court for extradition proceedings, with three of its ten court rooms apparently being devoted to that purpose.
+It is a busy court.
+Article 11(2) of the Framework Decision stipulates that a person arrested for the purpose of the execution of a European Arrest Warrant shall have a right to be assisted by a legal counsel and by an interpreter in accordance with the national law of the executing Member State.
+At the City of Westminster Magistrates Court, such legal assistance is provided by duty solicitors before though not, it appears, after an extradition order is made by a magistrate.
+On Mr Lukaszewskis (untested) account, he was able to speak to the duty solicitor only briefly for two or three minutes through the glass of the dock immediately before the hearing with the security guard by him, and was not aware that the matter would proceed straight to a decision.
+Mr Pomiechowski was, in contrast, provided after his first appearance with a solicitor, and wished to oppose extradition on the grounds of delay, but on his account the solicitor had not produced a skeleton on this point by the 2nd March 2011, when a further adjournment was refused.
+In the event, none of these three appellants argued any substantive points before the magistrate in opposition to extradition.
+It is not difficult to see how, under such circumstances, the statutory right of appeal might prove relevant.
+Having regard to the dates on which their extradition was ordered, the permitted periods for Mr Lukaszewski, Mr Pomiechowski and Mr Rozanski to give notices of an appeal expired at midnight on respectively 3rd February, 8th March and 10th March 2011.
+Each appellant was remanded in custody (Mr Rozanski because he was unable to meet a condition of bail that he lodge security of 1,500), and taken to HMP Wandsworth.
+All three had been made aware, by the magistrate and/or the relevant duty solicitor or legal representative, at least in general terms of the permitted period of 7 days for appealing.
+Each had at this point no legal assistance, but each was assisted by a prison officer working in the prisons Legal Services Department to complete a Form N161 notice of appeal.
+Officers working in the prison legal services department have no legal background, but have completed a three day training course, which does not include extradition training.
+They seek to help unrepresented prisoners and to facilitate their appeals against extradition.
+For completeness, I record that Mr Lukaszewski sought to raise issues relating to his mental health, put later as involving a risk of suicide and as entitling him to protection from extradition under sections 25 and 21 of the 2003 Act.
+Mr Pomiechowskis grounds are not before the court, but appear to have invoked the delay elapsed since he left Poland in 2000.
+Mr Rozanski invoked compassionate grounds and inhuman conditions that he said that he would face in a Polish prison.
+However, no point arises or has been raised at this stage on the contents or merits of these appellants notices of appeal.
+The points before the Supreme Court are points of principle, which affect the admissibility of appeals, however good or bad.
+The legal services department faxed the notices of appeals to the Administrative Court for filing and stamping.
+The Administrative Court faxed a copy of the sealed front page back to the legal services department.
+The legal services department then faxed to the Crown Prosecution Service (as the legal representatives of the judicial authority of the state requesting surrender) a copy of the sealed front page together with a cover sheet.
+In the case of each of these three appellants all this occurred within the seven day permitted period.
+In the case of Mr Lukaszewski, the cover sheet faxed on 2nd February 2011 bore the words Sealed copy and his name with the explanation extradition appeal, and in the case of Mr Pomiechowski the cover sheet faxed on 8th March 2011 identified the copy as sealed and said see attached front page of Extradition paperwork for Mr Pomiechowski.
+Objection was not at once taken to the service only of a sealed front page.
+But, once taken, it was accepted by the High Court.
+It was also only after the course of events recounted in the previous paragraphs that the solicitors now acting for Mr Lukaszewski, Mr Pomiechowski and Mr Rozanski first became involved.
+In the cases of Lukaszewski and Pomiechowski, [2012] 1 WLR 391, para 20, Laws LJ and Kenneth Parker J held on 15th June 2011 that, in order [to] be or purport to be a notice of appeal, the document must (a) identify the appellant, (b) identify the decision against which he seeks to appeal and (c) pace Ouseley J in Kaminksi v Judicial Authority of Poland [2010] EWHC 2772, set out at least the gist of the basis on which the appeal is sought to be presented.
+Laws LJ reasoned that: So much is, I think, inherent in any sensible understanding of a notice of appeal.
+A document without statement of any grounds at all could not support an appeal.
+The absence of grounds from the notice at the beginning of the process will, I think, be apt to lengthen that process by later procedural contests.
+The case of Rozanski came on later, on 17th November 2011, before Moore Bick LJ who followed the decision in Lukaszewski and Pomiechowski.
+The fourth appellant before the court is Mr Halligen, a British citizen whose extradition is sought to the United States of America under Part 2 of the 2003 Act to face allegations of wire fraud and money laundering.
+He was arrested and brought before the City of Westminster Magistrates Court which on 4th November 2010 ordered that the case be sent to the Secretary of State for her to decide whether Mr Halligen should be extradited, and remanded Mr Halligen in custody.
+Mr Halligens extradition was ordered by the Secretary of State under section 93 on 22nd December 2010.
+The order and a letter setting out the Secretary of States reasons were sent not only by post, but also by fax (timed at either 15.48 or 16.48) to Mr Halligens solicitors on the same day.
+The Secretary of States letter addressed an objection which Mr Halligen had raised with reference to alleged national security grounds (see section 208 of the 2003 Act).
+It also informed Mr Halligen of his right under section 108 to give notice of appeal within 14 days to the High Court, pointing out explicitly that the giving of such notice requires both filing and service of the appellants notice within such 14 days and that under the rules any papers filed at the High Court must also be served upon the Home Office and the Crown Prosecution Service.
+Mr Halligen had solicitors.
+Evidently, they were quick to prepare grounds of appeal, since those attached to the notice of appeal are dated 23rd December 2010.
+The notice of appeal (by which he sought to pursue his alleged national security points by reference to the Secretary of States failure to exercise her powers under section 208 of the 2003 Act) was filed and stamped on prescribed form N161 on 29th December 2010.
+This was well within the fourteen day permitted period.
+If one takes 22nd December 2010 as the date on which the Secretary of State informed Mr Halligen of his decision, that period expired at midnight on 4th January 2011.
+Also on 29th December 2010, Mr Halligen himself wrote from prison by fax to the Home Office, asking them to accept this letter as notice & service of my intent to appeal that decision, and adding that My solicitors have been duly instructed and this letter is only necessitated by the imposed due date of 4th January 2011 and my inability to make contact with them given the restrictions imposed by HMP Wandsworth.
+His apparent concern was justified, since his solicitors let him down.
+It was only on 5th January 2011 that they sent the notice of appeal to the Crown Prosecution Service by fax and to the Home Office by post, reaching the latter on 6th January 2011.
+On 25th February 2011 the Treasury Solicitor wrote stating that there would be an application to have the appeal dismissed accordingly.
+In the ensuing High Court proceedings and before the Supreme Court, Mr Halligen has been represented by different solicitors to those to whom reference has been made in this paragraph.
+The High Court on 19th April 2011 accepted it had no jurisdiction to hear Mr Halligens appeal.
+Applying Mucelli Stadlen J, giving a judgment with which Laws LJ agreed, rejected a submission that the court had power to dispense with service.
+The High Court rejected a submission that Mr Halligens letter dated 29th December 2010 constituted or purported to constitute a notice of appeal to the Secretary of State.
+It rejected a submission that, assuming that the fax of 22nd December 2010 was sent at 16.48 (rather than 15.48), the Secretary of State should be treated as having informed Mr Halligen of her decision only on 23rd December 2010, with the result that the fax sent to the Crown Prosecution Service on 5th January 2011 would have been in time.
+This submission was advanced on the basis that it was only open to the Secretary of State to inform someone of an extradition decision within normal working hours, which could in turn be regarded as ending at 16.30, by analogy with CPR 6.26, governing documents to be served in accordance with the CPR or any Practice Direction.
+Finally, it rejected more general submissions that the court should under section 3 of the Human Rights Act 1998 read the mandatory requirements of section 108(4) of the 2003 Act as subject to an implied qualification and/or to the power of relief contained in CPR 3.10, in order to cater for the large number of public holidays that occurred during the relevant 14 day period and/or to avoid the loss of the right of appeal which would otherwise follow from Mr Halligens solicitors failings.
+Nevertheless Stadlen J commented (para 31): It would seem to offend basic principles of fairness that a person served with a notice of extradition should be deprived of a statutory right of appeal through no fault of his own.
+The first question is whether the Supreme Court should apply or decline to follow the Houses decision in Mucelli.
+Lord Rodgers dissenting approach in that case was that all that the statute required was filing, and not service, within the statutory period.
+I understand the attraction of preferring this dissenting approach, in so far as to do so would enable all the current hard cases to be resolved quite easily in the appellants favour.
+That would not itself be a good reason for adopting such an approach.
+It would also not resolve other hard cases, for example those which could well arise if a negligent solicitor failed to file notice of appeal with the court within the permitted period, or if a prison riot or a defendants collapse and illness following receipt of information about an extradition decision prevented him giving any instructions to lodge notice of appeal (see in this connection para 70 of Lord Neubergers speech in Mucelli).
+Further, it would not address the very real considerations which led the majority in Mucelli to their decision.
+The structure of the relevant sections, with the distinctions drawn between appealing, or bringing an appeal, to the High Court and giving notice of an appeal within the relevant permitted periods, is itself difficult to reconcile with any conclusion that some form of notice to the respondents is not required (a point to which Lord Neuberger referred at para 65).
+I would not therefore depart from Mucelli in so far as it requires not merely filing of an appeal, but also some form of notice of an appeal being given to the respondents, both within the permitted period.
+The question remains what form of notice of an appeal is required.
+In Mucelli the argument and majority judgments proceeded on the basis that what was required was service of the notice of appeal.
+It was however recognised, and was one plank of Lord Rodgers dissent, that in Scotland the requirement is that a note of appeal should be served (necessarily in draft) before lodging with the court (Mucelli, para 19).
+Mucelli concerned the question whether the statute (as opposed to the rules) required notice of an appeal to be given to all respondents within the permitted period.
+The House spoke of a statutory requirement of service.
+But the question what sort of notice was required by the statute (as opposed to the rules) was not the focus of decision.
+The statute requires notice of an appeal to be given in accordance with rules of court, so any failure to comply with the rules of court requires the appellant to seek relief from the court to cure the irregularity.
+But this does not answer the question what constitutes giving notice of an appeal to the respondents which, if not in accordance with the rules, nonetheless satisfies the statutory requirement and is capable of being cured.
+In my view, a generous view can and should be taken of this, bearing in mind the shortness of the permitted period and the fact that what really matters is that an appeal should have been filed and all respondents should be on notice of this, sufficient to warn them that they should not proceed with extradition pending an appeal.
+This should not however be taken as a licence to appellants to give informal notices of appeal.
+Any potential appellant serving anything other than a complete copy of the sealed Form N161 will need to seek and will depend upon obtaining the courts permission to cure the position under the rules.
+However, it follows from the foregoing that I cannot agree with Laws LJs reasoning in the cases of Lukaszewski and Pomiechowski.
+To have any prospect of success an appeal must at some point be supported by grounds.
+Rules may provide that such grounds must be stated or summarised in the appeal notice, and do in fact do so: CPR 52.4, read with note 52.4.4, prescribed form N161 section 6 and Practice Direction Appeal, para 3.2 at 52PD.5.
+Non constat however that a purported notice of appeal is a nullity unless accompanied from the outset by grounds.
+If, contrary to rules of court, it is not, that is an irregularity, but one which can in an appropriate case be cured under CPR 3.9 and 3.10.
+This is the position in principle.
+As a matter of practice also, there is no attraction in a conclusion whereby a notice without any grounds would be a nullity incapable of grounding any appeal, whereas a notice with palpably inadequate grounds would be merely irregular and capable of cure by amendment.
+The front page of the notices of appeal returned by the court and served by fax in the cases of Lukaszewski, Pomiechowski and Rozanski showed the relevant High Court references and stamps with the dates of filing as well as the names and addresses of the appellants and the respondent Polish court.
+The subsequent pages which were not returned or served identified matters such as the decision appealed (though in current extradition practice this would be a decision of the Westminster Magistrates Court), its date, the grounds and a statement of belief.
+The irregularity involved in their absence was capable of cure, and on the present facts certainly merited this.
+The Crown Prosecution Service can have had no difficulty in identifying the decision being appealed, and it would be disproportionate if the practice followed by the court and the prison Legal Services Department should lead to these appellants losing any right of appeal.
+I would therefore allow the appeals in all three Polish cases, and remit the appeals against the relevant extradition decisions to the High Court to be heard there.
+The position in Halligen is more problematic.
+Again his notice of appeal was filed with the court in time, but notice was required to both the Secretary of State and the Crown Prosecution Service.
+Taking the Secretary of State first, Mr Halligen has to rely on his letter dated 29th December 2010, which he asked the Home Office Extraditions Section to accept as notice & service of my intent to appeal.
+In terms of the rules, this was a highly irregular notice of any appeal, and, although it was dated the same date as his solicitors in fact filed notice of appeal with the court on his behalf, it was framed as notice of my intent to appeal, rather than as notice of an actual appeal.
+Nonetheless, the statute is capable of embracing the Scottish practice, whereby a draft note of an appeal is served before being lodged with the court.
+It follows that notice of an intent to appeal must be within the statutory language.
+I would regard Mr Halligens letter as notice to the Secretary of State of an appeal within the statute, albeit that the letter was highly irregular in terms of the rules.
+Provided it counts as a notice within the statute, the court is able to cure the irregularity if it thinks fit.
+The circumstances again militate strongly in favour of doing this.
+However, Mr Halligen faces the further difficulty that he has to show that notice of an appeal was given to the Crown Prosecution Service.
+The first submission made on his behalf in this connection is that the Secretary of State informed him on 23rd rather than 22nd December 2010.
+Like the High Court, and for the same reasons, I am unable to accept this submission.
+Making the assumption in Mr Halligens favour, in the absence of any evidence either way, that the relevant fax was timed at 16.48 rather than 15.48 on 22nd December 2010, there is no basis for applying, directly or by analogy, CPR 6.26 which only governs documents to be served in accordance with the CPR or any Practice Direction.
+I add that, even if it were relevant (which it is not in my view) to consider whether the notice was transmitted at an hour when it would be expected to come to the attention of someone responsible in the receiving solicitors firm, there would be no basis for treating 16.48 as not being such an hour.
+Indeed, as far as anyone knows, the fax was immediately read and addressed, and some support for this may be found in the dating of the grounds in the notice of appeal on the next day (23rd December 2010).
+It was also faintly submitted that the fourteen day period should be extended by reference to the large number of public holidays occurring during it.
+But, contrary to the situation considered by Lord Neuberger in Mucelli at paras 83 84, the last day of the fourteen day period was not a public holiday.
+Lord Neubergers approach allows for the human propensity to think about things at the last moment, but I do not think that it should be extended to situations where the last moment is a business day on which the intended appellant could have filed and served a notice of appeal.
+It follows that no notice of an appeal was given to the Crown Prosecution Service within the permitted period, and Mr Halligens appeal is on its face impermissible as against both respondents.
+It is therefore necessary to consider whether the apparently inflexible time limits for appeals in the 2003 Act are subject to any qualification or exception.
+The appellants in the cases of Lukaszewski, Pomiechowski and Rozanski have in particular sought to rely on article 5(4) of the Human Rights Convention, read with section 3 of the Human Rights Act 1998.
+Section 3 requires the court, so far as it is possible to do so, to read the relevant sections in a way which is compatible with the Convention.
+Article 5(4) reads that Everyone who is deprived of his liberty by arrest or detention shall be entitled to take proceedings by which the lawfulness of his detention shall be decided speedily by a court and his release ordered if the detention is not lawful.
+The appellants submit that, in so far as the 2003 Act provides rights of appeal, such rights cannot consistently with article 5(4) be made subject to limitations which restrict or reduce the access left to the individual in such a way or to such an extent that the very essence of the right is impaired and that any such restriction must pursue a legitimate aim and there must be a reasonable relationship of proportionality between the means employed and the aim sought to be achieved: Tolstoy Miloslavsky v United Kingdom (1995) 20 EHRR 442, para 59.
+Tolstoy was a case concerning appeals in a context to which Article 6(1) applied, but the appellants in invoking article 5(4) rely by analogy upon the case law under article 6(1).
+The difficulty which these appellants face in relying upon article 5(4) is that their grievance relates to the extradition decision, rather than the fact, incidental to that decision, that they were remanded in custody pending extradition.
+In MT (Algeria) v Secretary of State for Home Department [2009] UKHL 10; [2010] 2 AC 110, the House was concerned with challenges to deportation decisions upheld in partly closed proceedings before the Special Immigration Appeals Tribunal (SIAC).
+The appellants were by reason of such decisions detained with a view to deportation, and submitted on that basis that the proceedings before SIAC were subject to article 5(4).
+The House did not accept the submission.
+Lord Phillips noted that the European Court of Human Rights had held in Chahal v United Kingdom (1996) 23 EHRR 413 that the lawfulness of the detention of a person with a view to deportation did not depend upon whether the underlying decision to deport could be justified, and that the appellants had not made an independent challenge of [sic] his detention as opposed to the decision to deport him (paras 89 90).
+Lord Hoffmann noted, at para 173, that the European court in Chahal had decided that an alien who was detained pending deportation was entitled by virtue of article 5(4) to a substantial measure of procedural justice in proceedings to determine the lawfulness of his detention (paragraph 131) but not to a judicial tribunal to review whether the underlying decision to expel could be justified under national or Convention law (paragraph 128).
+Lord Hope and Lord Brown and I all expressed our agreement with these parts of Lord Phillips and Lord Hoffmanns speeches (paras 226, 252 and 262).
+In Chahal, para 128, the European Court in fact said this: 128.
+The Court refers again to the requirements of Article 5 para. 1 (article 5 1) in cases of detention with a view to deportation (see paragraph 112 above).
+It follows from these requirements that Article 5 para. 4 (article 5 4) does not demand that the domestic courts should have the power to review whether the underlying decision to expel could be justified under national or Convention law.
+The present appellants suggest that the conclusion and reasoning in MT (Algeria) requires reconsideration in the light of other authority in which article 5(4) has been relied upon as indicating that a court must have jurisdiction to consider whether an extradition decision involves an abuse of process.
+In R (Kashamu) v Governor of Brixton Prison [2002] QB 887, the Divisional Court (Rose LJ and Pitchford J) was faced with a series of pre Human Rights Act decisions at the highest level: Atkinson v United States of America [1971] AC 197, R v Governor of Pentonville Prison, Ex p Sinclair [1991] 2 AC 64 and In re Schmidt [1995] 1 AC 339.
+These cases had held that, despite the development in other fields of a general power on the part of a court to intervene on the grounds of abuse of process, any challenge on such grounds to the lawfulness of a decision ordering a persons extradition and detention with a view to extradition was a matter for the Secretary of State rather than the courts: the courts could become involved at most only on a subsequent application for judicial review of the Secretary of States decision.
+In Kashamu the Divisional Court relied upon section 6(1) of the Human Rights Act 1998 and upon article 5(4) to hold that such decisions could no longer be applied, and that it was, under schedule 1 to the Extradition Act 1989, incumbent on the district judge to consider whether there had been abuse of process rendering the detention unlawful under article 5(4), rather than to leave this issue for a minister to consider.
+The abuse of process alleged is only briefly outlined in relation to one of the three persons concerned in Kashamu.
+In relation to him it consisted of a prior arrest, conceded to have been irregular due to non disclosure (para 11).
+It seems clear that the abuse asserted would have affected not only any detention pending extradition but also, more fundamentally, any possibility of extradition.
+Under para 6(1) of Schedule 1 to the Extradition Act 1989, the district judge in Kashamu had had the same powers, as near as may be, . as if the proceedings were the summary trial of an information against him for an offence committed in England and Wales.
+On a summary trial, those powers would have included considering and applying article 5(4) in relation to any issue whether detention was justified.
+In these circumstances, I am not surprised that the Divisional Court held that the district judge had the power to investigate the possibility of abuse, which earlier authority had confined to the High Court by way of judicial review.
+The decision in Kashamu was followed and approved by the Privy Council in Fuller v Attorney General of Belize [2011] UKPC 23.
+There was in Fuller no equivalent provision to para 6(1) to Schedule 1 to the Extradition Act 1989, and the Board simply treated article 5(4) and its Belizean analogue, section 5(2)(d) of the Constitution, as applicable to detention for the purpose of extradition.
+As the Board made clear the abuse alleged went, in that case also, to the extradition as much as to any prior detention: paras 5 and 53 54.
+Indeed, Mr Fuller had been released on bail, although it is established for the purposes of a challenge to extradition under domestic law that an applicant for habeas corpus is to be treated as effectively in custody, even if released on bail: R v Secretary of State for the Home Department, Ex p Launder (No 2) [1998] QB 994, 1000G 1001G and 1011G H.
+Where detention and the extradition proceedings as a whole stand and fall together, according to whether or not they involve an abuse of process, then Fuller suggests that article 5(4) may be an effective means by which a root and branch challenge to extradition may be pursued.
+The decision in MT (Algeria) was not however cited in Fuller, and both Kashamu and Fuller were concerned with a question whether the previous restriction on an extradition courts ordinary power to restrain proceedings conducted in abuse of process should continue to be recognised.
+It is unsurprising that the courts should conclude that this limitation was no longer appropriate.
+There is no suggestion of any abuse of process at the root of the present extradition proceedings.
+The present appeals concern the single question whether proceedings to challenge an extradition decision are subject to the procedural guarantee contained in article 5(4).
+Proceedings to challenge an extradition decision are capable of raising a whole range of issues which have nothing to do with abuse of process or, indeed, with the question whether the person concerned is actually detained in the sense clearly envisaged in article 5(4).
+For example, they may raise questions whether the alleged offence is an extradition offence (section 10), whether extradition is barred by the rule against double jeopardy, extraneous considerations, the passage of time, age, hostage taking considerations, speciality, earlier extradition to the United Kingdom or earlier transfer to the International Criminal Court (sections 11 to 19A) and whether extradition would be compatible with the Convention rights within the meaning of the Human Rights Act 1998 (section 21).
+The reasoning in Kashamu and Fuller does not suggest, or justify a conclusion, that all such questions engage the procedural guarantee contained in article 5(4).
+This is so whether the person concerned is in custody or whether, even if he is not, he is to be treated as if he were for the domestic law purposes of a challenge to the proceedings by writ of habeas corpus.
+I do not therefore consider that either Kashamu or Fuller affects the careful distinction drawn by the European Court of Human Rights in Chahal between challenges to detention and to the underlying decision to remove an alien from the jurisdiction.
+The same careful distinction was followed in MT (Algeria), which in my view governs the present situation of a challenge made essentially to an extradition decision.
+I would therefore hold that article 5(4) did not apply and that the present appellants were not entitled to a judicial decision under article 5(4).
+Article 5(4) is not however the only potential string in the appellants bow.
+Mr Halligen also invokes article 6(1).
+The respondent, the Secretary of State, in reply submits that it is clear that article 6(1) has no application to decisions to expel or extradite.
+She cites a number of decisions of the European Court.
+H. v Spain (Application no. 10227/82) concerned an American citizen whose extradition from Spain was sought by the United States and who complained that he had had inadequate legal representation and interpretation before the Audiencia Nacional.
+The Commission held the complaint inadmissible on the ground that extradition proceedings do not involve the determination of a criminal charge within article 6(1), because in this context the word determination involves the full process of the examination of an individuals guilt or innocence of an offence.
+E.G.M. v Luxembourg (Application No 24015/94) concerned a Colombian national whose extradition from Luxembourg was sought by the United States.
+He complained that the extradition proceedings in Luxembourg violated the principle ne bis in idem and his rights of defence.
+The Commission held that the former principle was not guaranteed by the Convention, in the context of different criminal proceedings in different states, and that the rights and freedoms recognised in the Convention do not include any right not to be extradited.
+It referred in the latter connection to a prior statement to this general effect in G.K. and B.J.F. v The Netherlands (Application No 12543/86), based in turn on a similar general statement in X v Belgium (Application No 7256/75).
+Another case in which a similar statement appears is Salgado v Spain (Application No 65964/01).
+These were all again cases concerning aliens, in the first and third complaining that he would be ill treated in the requesting country and in the second that his extradition violated the terms of an extradition treaty.
+Lastly, the Commission in E.G.M. v Luxembourg referred to its established case law whereby the words determination . of a criminal charge . relate to the full process of the examination of an individuals guilt or innocence, and not merely to the process of determining whether or not a person may be extradited to another country, citing H v Spain and Kirkwood v United Kingdom (Application No 10479/83), (1984) 37 DR 158.
+In Kirkwood the applicant, a United States national, claimed that the proceedings for his extradition from the United Kingdom to the United States infringed article 6(3)(d), because he was not permitted to cross examine the witnesses against him in the United Kingdom.
+The Commission held that, although the tasks of the Magistrates' Court included the assessment of whether or not there was, on the basis of the evidence, the outline of a case to answer against the applicant and [t]his necessarily involved a certain, limited, examination of the issues which would be decisive in the applicant's ultim[at]e trial, nevertheless, these proceedings did not in themselves form part of the determination of the applicant's guilt or innocence, which will be the subject of separate proceedings in the United States which may be expected to conform to standards of fairness equivalent to the requirements of article 6, including the presumption of innocence, notwithstanding the committal proceedings.
+In these circumstances the Commission concluded that the committal proceedings did not form part of or constitute the determination of a criminal charge within the meaning of Article 6 of the Convention (para 9).
+The House of Lords cited and applied para 9 of the Commissions ruling in Kirkwood, when rejecting similar claims to rely on article 6(3)(d) by the appellants in R (Al Fawwaz) v Governor of Brixton Prison [2001] UKHL 69 [2002] 1 AC 556.
+In Maaouia v France (2001) 33 EHRR 42, a Tunisian citizen sought to resist his exclusion from France on the ground that the length of the proceedings had been unreasonable and excessive.
+He failed emphatically, for reasons which emphasised his position as an alien.
+The Court said: 37.
+The Court therefore considers that by adopting Article 1 of Protocol No.7 containing guarantees specifically concerning proceedings for the expulsion of aliens the States clearly intimated their intention not to include such proceedings within the scope of Article 6(1) of the Convention. 38.
+In the light of the foregoing, the Court considers that the proceedings for the rescission of the exclusion order, which form the subject matter of the present case, do not concern the determination of a "civil right" for the purposes of Article 6(1).
+The fact that the exclusion order incidentally had major repercussions on the applicant's private and family life or on his prospects of employment cannot suffice to bring those proceedings within the scope of civil rights protected by Article 6(1) of the Convention. 39.
+The Court further considers that orders excluding aliens from French territory do not concern the determination of a criminal charge either.
+In that connection, it notes that their characterisation within the domestic legal order is open to different interpretations.
+In any event, the domestic legal order's characterisation of a penalty cannot, by itself, be decisive for determining whether or not the penalty is criminal in nature.
+Other factors, notably the nature of the penalty concerned, have to be taken into account.
+On that subject, the Court notes that, in general, exclusion orders are not characterised as criminal within the Member States of the Council of Europe.
+Such orders, which in most States may also be made by the administrative authorities, constitute a special preventive measure for the purposes of immigration control and do not concern the determination of a criminal charge against the applicant for the purposes of Article 6(1).
+The fact that they are imposed in the context of criminal proceedings cannot alter their essentially preventive nature.
+It follows that proceedings for rescission of such measures cannot be regarded as being in the criminal sphere either. 40.
+The Court concludes that decisions regarding the entry, stay and deportation of aliens do not concern the determination of an applicant's civil rights or obligations or of a criminal charge against him, within the meaning of Article 6(1) of the Convention.
+In Mammatkulov and Askarov v Turkey (2005) 41 EHRR 494, in the context of complaints about the fairness of Turkish extradition proceedings, the European Court reiterated, at para 82, that decisions regarding the entry, stay and deportation of aliens do not concern the determination of an applicant's civil rights or obligations or of a criminal charge against him, within the meaning of Article 6(1) of the Convention.
+This examination of Strasbourg case law shows that the Commission and Court have stood firm against any suggestion that extradition as such involves the determination of a criminal charge or entitles the person affected to the procedural guarantees provided in the determination of such a charge under article 6(1) or 6(3).
+The cases involved are all also cases involving the extradition of aliens.
+The last two decisions emphasise that proceedings for the extradition of aliens do not involve the determination of any civil rights within the meaning of article 6(1).
+By the same token they underline a potential difference in this respect between aliens and citizens.
+Both in international law and at common law British citizens enjoy a common law right to come and remain within the jurisdiction, and Mr Halligen is such a citizen.
+Blackstone (Commentaries on the Laws of England 15th ed (1809) vol 1, p 137) stated: But no power on earth, except the authority of Parliament, can send any subject of England out of the land against his will; no, not even a criminal.
+This passage was cited and approved by Lord Hoffmann in R (Bancault) v Secretary of State for Foreign and Commonwealth Affairs (No 2) [2008] UKHL 61; [2009] AC 453, para 44.
+In R v Bhagwan [1972] AC 60, 77G Lord Diplock spoke of the common law rights of British subjects . to enter the United Kingdom when and where they please and on arrival to go wherever they like within the realm.
+In Case 41/74 Van Duyn v Home Office [1975] Ch 358, para 22, the European Court of Justice recognised that: it is a principle of international law, which the EEC Treaty cannot be assumed to disregard in the relations between member states, that a state is precluded from refusing its own nationals the right of entry or residence.
+The principle is the necessary corollary of a states right (subject to obligations undertaken by e.g. the Geneva Refugee Convention and the European Convention on Human Rights) to refuse aliens permission to enter or stay in its territory.
+Were it otherwise, the Flying Dutchman would be no fleeting phantom.
+In these circumstances, Mr Halligen enjoyed a common (or civil) law right to enter and remain in the United Kingdom as and when he pleased.
+The next question is whether proceedings under the Extradition Act 2003, in that they may affect his freedom to remain in the United Kingdom at least for the duration of American criminal proceedings, involve the determination of that civil right.
+The 2003 Act has the authority of Parliament, and to that extent Mr Halligens right to remain in the United Kingdom is potentially qualified.
+But under the Act it is only through domestic extradition proceedings that this right can be affected and suspended for the purpose and period of any American proceedings and of any sentence which might thereafter be passed on him, if found guilty.
+In so far as it may be suspended, the extradition proceedings determine whether Mr Halligen may continue to enjoy his common law right for whatever proves to be the relevant period.
+A claim to extradite him does not involve the determination of a criminal charge, and he is not entitled to any full process of examination of his guilt or innocence, or to the procedural guarantees which would attend that.
+But he is entitled to a fair determination as to his common law right to remain within the jurisdiction.
+In these circumstances, it follows in my view that the extradition proceedings against Mr Halligen fall within article 6(1).
+In so far as the proceedings involve under the statute a right of appeal against any extradition decision, article 6(1) also requires that it be free of limitations impairing the very essence of the right, pursue a legitimate aim and involve a reasonable relationship of proportionality between the means employed and the aim sought to be achieved in accordance with the standard identified in Tolstoy Miloslavsky v United Kingdom, cited in para 22 above.
+I cannot regard the provisions regarding appeals contained in the 2003 Act as meeting the standard set in Tolstoy Miloslavsky.
+Indeed I note that the Review of the United Kingdoms Extradition Arrangements of 30 September 2011 identified the time limits as an unsatisfactory feature about the appeals process, and mentioned a number of trenchant judicial criticisms, some already set out, as well as the particular difficulties posed for those remanded in custody.
+In the end, however, after identifying as possible mechanisms for alleviating potential injustice either extending the time limit for Part 1 from seven to fourteen days or giving the court a discretion to extend the time limit in the interests of justice, the Review said that On the whole we prefer the former, as this is an area in which certainty and finality is important.
+Finality and certainty are important legal values.
+But, although the cases to date may not be large in absolute numerical terms, they indicate that neither finality nor certainty has been achieved to date.
+Even on the more relaxed view of the statutory conditions which I consider appropriate, the statute will be capable of generating considerable unfairness in individual cases, unless some further relief is available.
+More importantly, it is not sufficient under article 6(1) if in most or nearly all cases the right of appeal can be or should be capable of being exercised in time.
+The very essence of the right may be impaired in individual cases and there may still be no reasonable relationship of proportionality between the means employed and the aim sought to be achieved.
+It has been held, in the public law context of removal from the jurisdiction of an alien, that a litigant must answer for the failings of his legal advisers, with the result that he was unable to obtain the reopening of an adjudicators decision on the ground of such advisers negligent failure to inform him of the hearing: R v Secretary of State for the Home Department, Ex p Al Mehdawi [1990] 1 AC 876.
+Any other decision would, it was said, come at the cost of opening such a wide door which would indeed seriously undermine the principle of finality in decision making: per Lord Bridge, at p 901E.
+In Ex p Al Mehdawi there was however a residual discretion in the Secretary of State to refer the matter back to an adjudicator.
+In contrast, in an asylum context where no such residual discretion existed, the Court of Appeal in FP (Iran) v Secretary of State for the Home Department [2007] EWCA Civ 13 held ultra vires immigration rules deeming a party to have received notice of a hearing served on the most recent addresses notified to the relevant tribunal and requiring the tribunal to proceed in the partys absence if satisfied that such notice had been given.
+The solicitors acting for the asylum seekers in FP (Iran) had failed to give the tribunal new addresses to which the asylum seekers had been moved by the National Asylum Support Service.
+Distinguishing Ex p Al Mehdawi, the Court of Appeal held that there was no universal surrogacy principle which (reformulated) rules would have to depart from in order to operate justly (para 46).
+The rules were framed so as to be productive of irremediable procedural unfairness.
+Both the appellants were among those affected by this deficiency, because both have lost the opportunity to be heard through the default of their legal representatives and not through their own fault (para 48).
+This decision (reached in the context of aliens) turned on common law principles regarding access to justice, though reference was made by analogy to the position under the European Convention on Human Rights.
+The position is a fortiori in so far as article 6(1) is directly applicable in Mr Halligens case.
+It is clear that the statutory provisions regarding the permitted periods for appeals may in individual cases impair the very essence of the right of appeal.
+The previous judicial expressions of concern are eloquent about the potential and actual unfairness of the position in which prisoners find themselves in trying to meet the statutory requirements, with such aid as the prison legal services department or legal advisers can, under difficult conditions, provide.
+The problems of communication from prison with legal advisers in the short permitted periods of seven and fourteen days are almost bound to lead to problems in individual cases.
+It is no satisfactory answer that a person wrongly extradited for want of an appeal as a result of failings of those assisting him might, perhaps, be able to obtain some monetary compensation at some later stage.
+Strict application of the surrogacy principle would be potentially unjust.
+I am not persuaded that the interests of finality and certainty outweigh the interests of ensuring proper access to justice by appeal in the limited number of extradition cases where this would otherwise be denied.
+There would not be a reasonable relationship of proportionality between the means employed and the aim sought to be achieved.
+What then does this mean for Mr Halligen? The opposed possibilities are, on the one hand, that the statute can be read in a manner consistently with the Convention rights, pursuant to the courts duty under section 3 of the Human Rights Act so to read it so far as it is possible to do so, and, on the other hand, that the statutory time limits are simply incompatible with article 6(1).
+The former solution may involve reading in words, provided that they are compatible with the underlying thrust of the legislation and do not go against the grain of the legislation: Ghaidan v Godin Mendoza [2004] UKHL 30, [2004] 2 AC 557, paras 33, per Lord Nicholls, and 121, per Lord Rodger; and see R v A (No 2) [2001] UKHL 25, [2002] 1 AC 45, where statutory restrictions on cross examination were read as subject to a further implied exception to enable a fair trial under article 6(1), and Connolly v Director of Public Prosecutions [2007] EWHC 237 (Admin), [2008] 1 WLR 276, para 18, where the High Court was prepared to read a statutory prohibition on sending another person certain material as subject to an implied provision that this was not to apply where the prohibition would involve a breach of the senders Convention rights under article 10.
+In the present case, there is no reason to believe that Parliament either foresaw or intended the potential injustice which can result from absolute and inflexible time limits for appeals.
+It intended short and firm time limits, but can only have done so on the basis that this would in practice suffice to enable anyone wishing to appeal to do so without difficulty in time.
+In these circumstances, I consider that, in the case of a citizen of the United Kingdom like Mr Halligen, the statutory provisions concerning appeals can and should all be read subject to the qualification that the court must have a discretion in exceptional circumstances to extend time for both filing and service, where such statutory provisions would otherwise operate to prevent an appeal in a manner conflicting with the right of access to an appeal process held to exist under article 6(1) in Tolstoy Miloslavsky.
+The High Court must have power in any individual case to determine whether the operation of the time limits would have this effect.
+If and to the extent that it would do so, it must have power to permit and hear an out of time appeal which a litigant personally has done all he can to bring and notify timeously.
+The position of others who are not British citizens of the United Kingdom and do not enjoy the protection of article 6(1) is not, as it happens, relevant to the outcome of any of the appeals now before the Supreme Court.
+However, their position, as well as that of persons enjoying the protection of article 6(1), would, on the information before the court, appear to deserve attention.
+This includes specifically whether they are currently provided with meaningful and effective legal assistance in relation to the whole extradition process, including any appeal they may wish to bring.
+For the reasons I have explained, I would allow Mr Halligens appeal and remit his case, as well as those of Mr Lukaszewski, Pomiechowski and Rozanski (see paragraph 19 above), to the High Court for the hearing of all their four appeals against the relevant extradition decisions.
+LADY HALE
+I agree that these appeals should be allowed for the reasons given by Lord Mance.
+They have highlighted a number of aspects of the present law which may be thought unsatisfactory.
+First, section 26(4), section 103(9) and section 108(4) of the Extradition Act 2003 lay down tight deadlines within which the requested person must give notice of appeal against, respectively, an extradition order under Part 1 of the 2003 Act, a decision to send the case to the Secretary of State under Part 2, and the Secretary of States extradition order under Part 2.
+Sections 35 and 117 lay down tight deadlines within which the person must be extradited if no notice of appeal is given before the end of the permitted period.
+In Mucelli v Government of Albania [2009] UKHL 2, [2009] 1 WLR 276, therefore, the House of Lords proceeded on the assumption that, unless the appellant gave notice to the respondent(s) within the permitted period, the extraditing authorities would not know whether the clock had stopped.
+We now know that that assumption is incorrect, for two reasons.
+The first is that the respondent(s) to the appeals are not the extraditing authorities for this purpose.
+The respondents will be those acting on behalf of the issuing judicial authority (in Part 1) or the requesting authority and the Secretary of State (in Part 2).
+The extraditing authority is the Serious Organised Crime Agency (SOCA) in Part 1 and the Secretary of State in Part 2.
+So giving notice to the respondent(s) is not, in itself, sufficient for the extraditing authority to know that the clock has stopped.
+Secondly, the uncontradicted evidence of Mr Evans, solicitor for the first two appellants, is that Westminster Magistrates Court informs SOCA by email when an extradition order is made and that the High Court emails SOCA when an appeal is filed.
+That is what alerts SOCA to the fact that it is no longer obliged, or indeed entitled, to extradite the requested person within the required period.
+This undermines a substantial part of the reasoning of the majority in Mucelli at least in relation to Part 1 cases.
+The best point remaining is the linguistic difference between an appeal . may be brought in section 26(3), section 103(4), (7) and (8)(b), and section 108(4), and notice of an appeal . must be given in section 26(4), section 103(9) and section 108(4).
+But there is no magic in those words.
+Different terms are used for the process of bringing an appeal in the three different jurisdictions which make up the United Kingdom.
+In Lord Rodgers view, the draftsman has just chosen a familiar form of words for referring to the bringing of an appeal [14].
+It would have been so easy for the draftsman to have said filed and served if that is what he had meant but he did not.
+Be that as it may, this court is not constituted to depart from the decision in Mucelli and there is no need for it to do so in the Polish cases.
+However, the new information does underline the fact that there is no good practical reason for the court to construe what is meant by giving notice to the respondents in a demanding way.
+The clock will have stopped, but if the rules about service have not been properly complied with, the court has power either to grant an extension or to impose sanctions, including the sanction of striking out the appeal, as appropriate.
+Secondly, however, the court does have to contend with Mucelli in the case of Mr Halligen.
+We can treat his letter to the Secretary of State as notice for this purpose, but we cannot treat his notice to Crown Prosecution Service as arriving in time.
+There are two possible ways of solving the problem, should we think this result to be unnecessary and unjust.
+One is to depart from Mucelli.
+For the reasons indicated earlier, we could conclude that it was not the intention of Parliament that there should be no jurisdiction to entertain an appeal in such circumstances.
+The other is to employ the obligation of conforming interpretation in section 3(1) of the Human Rights Act 1998 in cases where the ordinary interpretation produces results which are incompatible with the Convention rights of the requested person.
+Section 3(1) requires that So far as it is possible to do so, primary legislation and subordinate legislation must be read and given effect in a way which is compatible with the Convention rights.
+As is now well established, this requires the court (and others) to read (and give effect to) legislation compatibly with the Convention rights even if this is not what, on ordinary principles of construction, Parliament intended, so long as it is possible to do so.
+The appellants and the Secretary of State consider that it is possible in this case.
+The respondents consider that it is not, and if (which they do not accept) the strict application of the time limit for service is incompatible, the only course would be a declaration of incompatibility under section 4 of the 1998 Act.
+The right of a person to enter and remain in the country of which he is a national is the most fundamental right of citizenship.
+The United Kingdom has signed but not ratified Protocol No 4 to the ECHR, article 3 of which makes this right crystal clear.
+But, as Lord Mance has demonstrated, it has been part of United Kingdom law for centuries.
+It is perhaps more questionable whether it counts as a civil right for the purpose of the right to a fair hearing in article 6(1) of the Convention.
+As originally conceived, this did not apply to the rights enforceable only in public law.
+But that limitation has been steadily eroded: see the jurisprudence discussed by Lord Hope in Ali v Birmingham City Council [2010] UKSC 8, [2010] 2 AC 39, [28] to [49].
+And in any event, this right is not like a claim to a social security benefit (which is a civil right) or to a social service (which currently is not), for these can only be enforced as provided for by the statute or by judicial review.
+Should the need arise, this right could be claimed in ordinary civil proceedings against a person who was denying it.
+I therefore agree with Lord Mance that the extradition proceedings against Mr Halligen involve the determination of his civil rights for the purpose of article 6(1).
+I also agree that to insist upon the time limit for service in the particular circumstances of his case is a disproportionate limitation upon his right of access to the appeal process.
+I further agree that it is possible to read and give effect to section 108(4) and, it would necessarily follow, section 26(4) and section 103(9) in the manner which Lord Mance suggests at paragraph 39.
+However, it does seem to me unsatisfactory that we are taking this course, rather than the more straightforward course of departing from Mucelli.
+There is very good reason to think that the House decided Mucelli on a mistaken factual assumption.
+There were very good reasons, trenchantly expressed in Lord Rodgers dissenting opinion, to think that the intention of Parliament was to insist only on filing, rather than on service, of the notice of appeal before the deadline.
+For my part, I consider it more satisfactory to comply with the actual intention of Parliament than to resort to the obligation of conforming interpretation (whether under the European Communities Act 1972 or the Human Rights Act 1998).
+Resorting to section 3 of the 1998 Act, although two of the parties consider this possible, produces two distortions in the extradition process.
+It discriminates between nationals and aliens.
+It also discriminates between the requested persons and the requesting authorities, for the latter can have no convention rights which mandate a compatible interpretation.
+Thus section 28(4), section 105 (5) and section 110(5), which impose the same time limits upon appeals against discharge by the first instance court or by the Secretary of State, cannot be read down so as to forgive such trivial failures as these on the part of the requesting authorities.
+Thirdly, however, whichever of the above courses is taken in this case, recognition that the right of a citizen to remain in this country is a civil right for the purposes of article 6(1) of the ECHR leaves open the possibility that section 26(4) and also section 103(9) and section 108(4) would also have to be read down if the rigid time limits for the filing of a notice of appeal were to be held a disproportionate limitation on a citizens right of access to the appeal process.
+There was talk during the hearing of riots, strikes or fires at the prison to which the requested person was remanded making the service of notice impossible, but such extraordinary events might also make the filing of a notice of appeal impossible.
+As things currently stand, a requested person who is remanded in custody does not always have access to a lawyer who can protect his interests.
+While we know that HMP Wandsworth has a Legal Services Department staffed by prison officers who provide assistance, we do not know whether similar facilities are available to requested persons who are remanded to other prisons.
+We do know that, given the pace of proceedings, quite properly arguable grounds for resisting extradition or the execution of a European arrest warrant may not have been put before the district judge.
+I do not, of course, say that it would indeed be possible to read down the legislation in such circumstances, but merely that our decision in this case makes the argument possible.
+Had other members of the court been of the same mind, therefore, I would have allowed all these appeals, but for reasons other than those given by Lord Mance.
+But those reasons are not incompatible with the reasons which he gives and with which I am also content to agree.

@@ -1,0 +1,185 @@
+The law of vicarious liability is on the move.
+So stated Lord Phillips of Worth Matravers in Various Claimants v Catholic Child Welfare Society [2012] UKSC 56; [2013] 2 AC 1, generally known as Christian Brothers, at para 19.
+The question raised by the current case, and by the parallel case of WM Morrison Supermarkets plc v Various Claimants [2020] UKSC 12, is how far that move can take it.
+Two elements have to be shown before one person can be made vicariously liable for the torts committed by another.
+The first is a relationship between the two persons which makes it proper for the law to make the one pay for the fault of the other.
+Historically, and leaving aside relationships such as agency and partnership, that was limited to the relationship between employer and employee, but that has now been somewhat broadened.
+That is the subject matter of this case.
+The second is the connection between that relationship and the tortfeasors wrongdoing.
+Historically, the tort had to be committed in the course or within the scope of the tortfeasors employment, but that too has now been somewhat broadened.
+That is the subject matter of the Morrisons case.
+The facts
+The issue before us is whether Barclays Bank is vicariously liable for the sexual assaults allegedly committed between 1968 and about 1984 by the late Dr Gordon Bates on some 126 claimants in this group action.
+Dr Bates was a medical practitioner practising in Newcastle upon Tyne.
+According to his sons evidence, he had a portfolio practice.
+Some of it was as an employee in local hospitals.
+Some of it was doing medical examinations for emigration purposes.
+Some of it was doing miscellaneous work for insurance companies, a mining company and a government board.
+Some of it was doing medical assessments and examinations of employees or prospective employees, originally for Martins Bank, and later for Barclays Bank following their merger in 1969.
+This was, however, a comparatively minor part of his practice.
+He also wrote a newspaper column.
+Applicants for jobs at Barclays who were successful at interview would be told that they would be offered a job, subject to passing a medical examination and obtaining satisfactory results in their GCE examinations.
+The purpose of the examination was to show that they were medically fit for working in the Bank and could be recommended for life insurance at ordinary rates as required by the Banks pension scheme.
+The Bank arranged the appointments with Dr Bates, told the applicants when and where to go, and provided him with a pro forma report to be filled in.
+This was headed Barclays Confidential Medical Report and signed by Dr Bates and the applicant.
+Dr Bates was paid a fee for each report.
+He was not paid a retainer by the Bank.
+If the report was satisfactory, the job offer would be confirmed, subject to examination results.
+At that time, the Bank was recruiting young people, many of them female.
+Many of the claimants were teenagers at the time, some aged 16, going for their first jobs on leaving school.
+The examinations took place in Dr Bates home in Newcastle.
+A room in the house had been converted into a consulting room.
+The claimants were always alone in the room when they were examined by the doctor, although some attended on their own and some were accompanied by other family members.
+It is alleged that Dr Bates sexually assaulted them in the course of those examinations, by inappropriate examination of their breasts and/or digital contact with or penetration of their anus or vagina.
+Dr Bates died in 2009 and his estate (worth over half a million pounds) has been distributed.
+He cannot be sued by the claimants but neither can the Bank claim contribution from him should any of these actions succeed.
+This litigation began in 2015 and a group litigation order was made in 2016.
+The managing judge, Nicola Davies J, ordered a trial of the preliminary issue of whether the Bank is vicariously liable for any assaults that Dr Bates is proved to have perpetrated in the course of medical examinations carried out at the Banks request.
+On 26 July 2017, Nicola Davies J held that Barclays is vicariously liable for any assaults proved: [2017] EWHC 1929 (QB); [2017] IRLR 1103.
+On 17 July 2018, the Court of Appeal dismissed Barclays appeal: [2018] EWCA Civ 1670; [2018] IRLR 947.
+The Bank now appeals to this court.
+The parties cases
+The parties respective positions can be simply put.
+As Lord Bridge of Harwich stated in D & F Estates Ltd v Church Comrs [1989] AC 177, 208 (echoing the words of Widgery LJ in Salsbury v Woodland [1970] 1 QB 324, 336), It is trite law that the employer of an independent contractor is, in general, not liable for the negligence or other torts committed by the contractor in the course of the execution of the work.
+The Bank argues that, although recent decisions have expanded the categories of relationship which can give rise to vicarious liability beyond a contract of employment, they have not so expanded it as to destroy this trite proposition of law, which has been with us since at least the decision of Baron Parke in Quarman v Burnett (1840) 6 M & W 499, 151 ER 509.
+The claimants, on the other hand, argue that the recent Supreme Court cases of Christian Brothers, Cox v Ministry of Justice [2016] UKSC 10; [2016] AC 660, and Armes v Nottinghamshire County Council [2017] UKSC 60; [2018] AC 355, have replaced that trite proposition with a more nuanced multi factorial approach in which a range of incidents are considered in deciding whether it is fair, just and reasonable to impose vicarious liability upon this person for the torts of another person who is not his employee.
+That was the approach adopted both by the trial judge and the Court of Appeal in this case.
+It will be apparent, therefore, that it is necessary to examine those three decisions in some detail, along with their precursor, the decision of the Court of Appeal in E v English Province of Our Lady of Charity [2012] EWCA Civ 938; [2013] QB 722, some four months before the decision in the Christian Brothers case, as well as some later cases.
+As it happens, I sat on all three of the Supreme Court cases and agreed with the leading judgment in each; Lord Reed sat on Cox and Armes, in each of which he delivered the leading judgment; Lord Kerr sat on Christian Brothers and Armes and agreed with the leading judgment in each.
+The recent decisions
+The recent expansion in the law of vicarious liability began with the House of Lords decision in Lister v Hesley Hall Ltd [2001] UKHL 22; [2002] 1 AC 215.
+The owners of a childrens home were held vicariously liable for the sexual abuse perpetrated by their employee, the warden.
+It was thus concerned with stage two of the enquiry the connection between the employment and the wrongdoing and not with stage one.
+Nevertheless, it proved influential in later cases, partly because of the willingness to expand the law, and partly because of the prominence it gave to some important decisions of the Supreme Court of Canada, which had placed emphasis on the policy considerations underlying the law.
+Although their lordships did not endorse all of those policy considerations, they did adopt the same test as had been adopted in Canada.
+Furthermore, some of those policy considerations found their way into the later cases dealing with stage one of the enquiry.
+In Bazley v Curry [1999] 2 SCR 534, the owners of a childrens home were held vicariously liable for sexual abuse committed by one of their employees in the home.
+The fundamental question was whether the wrongful act was sufficiently related to the conduct authorised by the employer to justify imposing vicarious liability.
+This was generally appropriate where there was a significant connection between the creation or enhancement of the risk and the wrongdoing.
+Vicarious liability would then serve the policy aims of providing an adequate remedy and deterring the risk.
+Once engaged in a business it was fair that the employer be made to pay for the generally foreseeable risks of that business.
+In contrast, in Jacobi v Griffiths [1999] 2 SCR 570, a childrens club was not vicariously liable for the acts of an employee which took place in the employees home outside working hours.
+It was not enough that his employment in the club gave him the opportunity to make friends with the children.
+The first English case to consider directly whether the enquiry at stage one might expand beyond the relationship of employee and employer was Es case.
+This built upon the earlier decision in Viasystems (Tyneside) Ltd v Thermal Transfer (Northern) Ltd [2005] EWCA Civ 1151; [2006] QB 510.
+Severe flood damage had been caused to a factory, where air conditioning was being installed, by the negligence of a fitters mate; the fitter and his mate had been supplied on a labour only basis by the third defendant to the second defendant to whom some of the work had been sub contracted; the Court of Appeal held both the second and third defendants jointly vicariously liable.
+May LJ relied on the fact that both were in a position to control the fitters mate.
+Rix LJ, on the other hand, said that he would hazard the view that what one is looking for is a situation where the employee in question, at any rate for relevant purposes, is so much a part of the work, business or organisation of both employers that it is just to make both employers answer for his negligence (para 79).
+Thus was vicarious liability extended to a person who was not in law the employer of the tortfeasor.
+In Es case, the claimant alleged that while living in a childrens home run
+by a Roman Catholic order of nuns she had been sexually abused by a priest appointed by the local diocesan bishop.
+The issue was whether the trust which stood in the place of the bishop could be vicariously liable for the priests wrongdoing.
+The priest was not an employee of the bishop or the diocese.
+Nevertheless, it was held that his relationship with the bishop was sufficiently akin to employment to make it fair and just to hold the bishop vicariously liable.
+Significantly, Ward LJ, who gave the leading judgment, did not question the traditional distinction between an employee and an independent contractor.
+Rather, he asked himself what was the essence of each of those roles and then asked whether the relationship between the priest and the bishop was closer to that of an employee or to that of an independent contractor.
+He summed up the difference thus (para 70): an employee is one who is paid a wage or salary to work under some, if only slight, control of his employer in his employers business for his employers business.
+The independent contractor works in and for his own business at his risk of profit or loss.
+By that test, the relationship between priest and bishop was sufficiently akin to employment to make it fair and just to hold the bishop liable.
+Next came the Christian Brothers case.
+This raised issues at both stage one and stage two of the enquiry but much more prominently at stage one.
+The claimants had been inmates at a residential school owned by the Catholic Child Welfare Society (referred to as the Middlesbrough defendants), which also employed the teachers.
+Some of the teachers, and the head teacher, were members of the Institute of Christian Brothers.
+Serious physical and sexual abuse was alleged against some of the brothers.
+The issue was whether the Institute could be vicariously liable, jointly with the Middlesbrough defendants.
+In para 35, Lord Phillips of Worth Matravers listed a number of policy reasons usually making it fair, just and reasonable to impose vicarious liability upon an employer for the torts committed by an employee in the course of his employment: the tort will have been committed as a result of activity the employees activity is likely to be part of the the employer is more likely to have the means to (i) compensate the victim than the employee and can be expected to have insured against that liability; (ii) being taken by the employee on behalf of the employer; (iii) business activity of the employer; (iv) the employer, by employing the employee to carry on the activity will have created the risk of the tort committed by the employee; (v) been under the control of the employer.
+the employee will, to a greater or lesser degree, have
+These are policy reasons, closely related to the policy reasons derived from the Canadian cases and Lister v Hesley Hall.
+But, as Lord Hobhouse of Woodborough stressed in that case, at para 60, an exposition of the policy reasons for a rule (or even a description) is not the same as defining the criteria for its application.
+Legal rules have to have a greater degree of clarity and definition than is provided by simply explaining the reasons for the existence of the rule and the social need for it, instructive though that may be.
+This passage was cited by Ward LJ in Es case, para 54, followed by this: My own view is that one cannot understand how the law relating to vicarious liability has developed nor how, if at all, it should develop without being aware of the various strands of policy which have informed that development.
+On the other hand, a coherent development of the law should proceed incrementally in a principled way, not as an expedient reaction to the problem confronting the court.
+There appears to have been a tendency to elide the policy reasons for the doctrine of the employers liability for the acts of his employee, set out in para 35 of Christian Brothers, with the principles which should guide the development of that liability into relationships which are not employment but which are sufficiently akin to employment to make it fair and just to impose such liability.
+This may have arisen because of what Lord Phillips said, at para 47: At para 35 above, I have identified those incidents of the relationship between employer and employee that make it fair, just and reasonable to impose vicarious liability on a defendant.
+Where the defendant and the tortfeasor are not bound by a contract of employment, but their relationship has the same incidents, that relationship can properly give rise to vicarious liability on the ground that it is akin to that between an employer and an employee.
+That was the approach adopted by the Court of Appeal in Es case [2013] QB 722.
+I do not believe that by his reference to those incidents Lord Phillips was saying that they were the only criteria by which to judge the question.
+This is for two reasons.
+First, in Es case, Ward LJ had adopted the test of akin to employment but he had not asked himself whether those five incidents were present.
+He had conducted a searching enquiry into whether the relationship between the priest and the bishop was more akin to employment than to anything else.
+Secondly, when it came to applying the akin to employment test in the Christian Brothers case, Lord Phillips did not address himself to those five incidents but to the detailed features of the relationship.
+Thus: 56.
+In the context of vicarious liability the relationship between the teaching brothers and the institute had many of the elements, and all the essential elements, of the relationship between employer and employees. (i) The institute was subdivided into a hierarchical structure and conducted its activities as if it were a corporate body. (ii) The teaching activity of the brothers was undertaken because the provincial directed the brothers to undertake it.
+True it is that the brothers entered into contracts of employment with the Middlesbrough defendants, but they did so because the provincial required them to do so. (iii) The teaching activity undertaken by the brothers was in furtherance of the objective, or mission, of the institute. (iv) The manner in which the brother teachers were obliged to conduct themselves as teachers was dictated by the institutes rules. 57.
+The relationship between the teacher brothers and the institute differed from that of the relationship between employer and employee in that: (i) The brothers were bound to the institute not by contract, but by their vows. (ii) Far from the institute paying the brothers, the brothers entered into deeds under which they were obliged to transfer all their earnings to the institute.
+The institute catered for their needs from these funds. 58.
+Neither of these differences is material.
+Indeed they rendered the relationship between the brothers and the institute closer than that of an employer and its employees.
+I have quoted these paragraphs at length to show that he was answering the questions by reference to the details of the relationship, and its closeness to employment, rather than by reference to the five policy reasons in para 35.
+It is significant that, shortly after the decision in Christian Brothers, this court decided the case of Woodland v Swimming Teachers Association [2013] UKSC 66; [2014] AC 537, in which it was held that a school had a non delegable duty of care towards the pupils for whom it arranged compulsory swimming lessons with an independent contractor.
+Lord Sumption said this, at para 3: The boundaries of vicarious liability have been expanded by recent decisions of the courts to embrace tortfeasors who are not employees of the defendant, but stand in a relationship which is sufficiently analogous to employment: Various Claimants v Catholic Child Welfare Society [2013] 2 AC 1.
+But it has never extended to the negligence of those who are truly independent contractors, such as Mrs Stopford appears to have been in this case.
+Lord Sumption not only saw the Christian Brothers case as adopting the sufficiently analogous to employment test but also as casting no doubt on the conventional distinction between employees, and those analogous to employees, and independent contractors.
+The next case was Cox v Ministry of Justice [2016] UKSC 10; [2016] AC 660.
+The issue was whether the prison service could be vicariously liable for injuries caused to a prison catering manager by the negligence of a prisoner who was working under her direction on prison service pay.
+There was no contract of employment between the prison and the prisoners.
+Nevertheless, applying the Christian Brothers case, this court held that the prison was vicariously liable.
+It is fair to say that Lord Reed did focus on the five policy factors identified by Lord Phillips.
+He pointed out that they are not all of equal significance.
+Factor (i), deep pockets, is not in itself a principled reason to impose liability, although the absence of any other source of compensation may sometimes be taken into account (para 20).
+Factor (v), control, does not have the significance which once it did.
+In todays world an employer is likely to be able to tell an employee what to do but not (at least always) how to do it.
+But the absence of even this vestigial degree of control would point against liability (para 21).
+That left three interrelated factors: (ii) that the tort was committed as a result of activity undertaken by the tortfeasor on behalf of the defendant; (iii) that the activity was part of the business activity of the defendant; and (iii) that by employing the tortfeasor to do it, the defendant created the risk of his committing the tort (para 22).
+He summed up the principle thus (para 24): The result of this approach is that a relationship other than one of employment is in principle capable of giving rise to vicarious liability where harm is wrongfully done by an individual who carries on activities as an integral part of the business activities carried on by a defendant and for its benefit (rather than his activities being entirely attributable to the conduct of a recognisably independent business of his own or of a third party), and where the commission of the wrongful act is a risk created by the defendant by assigning those activities to the individual in question. (Emphasis supplied)
+Lord Reed went on to refer to Lord Phillips citation of Es case and the sufficiently akin to employment test (para 26) and to his application of that test to the facts of the Christian Brothers activities (para 27).
+He emphasised that this new general approach was not special to cases of alleged sexual abuse (para 29).
+He repeated the distinction between integrated activities and activities entirely attributable to the conduct of a recognisably independent business of the tortfeasor or some other person (para 29).
+And he pointed out that references to business and enterprise did not mean that the employers activities had to be commercial in nature (para 30).
+He had no difficulty in concluding that the prison service was vicariously liable for the prisoners tort.
+It seems to me obvious that in Cox the result was bound to be the same whether it was expressed in terms of the test stated in para 24 of Lord Reeds judgment or in terms of the sufficiently akin to employment test.
+Indeed, the case for vicarious liability for torts committed by prisoners in the course of their work within the prison seems to me a fortiori the case for vicarious liability for the work done by employees for their employers.
+There is nothing in Lord Reeds judgment to cast doubt on the classic distinction between work done for an employer as part of the business of that employer and work done by an independent contractor as part of the business of that contractor.
+The last, and perhaps the most difficult, case is Armes v Nottinghamshire County Council [2017] UKSC 60; [2018] AC 855.
+The issue was whether the County Council could be vicariously liable for physical and sexual abuse allegedly carried out by two of the foster parents with whom the claimant was placed by the County Council while in their care.
+Lord Reed repeated his analysis in Cox, prefacing his account with the statement that, while the classic example of a relationship justifying the imposing of vicarious liability was employer and employee, as explained in Cox and Christian Brothers the doctrine can also apply where the relationship has certain characteristics similar to those found in employment (para 54).
+In applying the five incidents identified in those cases, he placed more emphasis on the lack of any other source of compensation if there were no vicarious liability and on the extent of the control exercised by the local authority over the foster parents care for the children (para 62).
+In applying the three inter related factors, he held that the relevant activity of the local authority was the care of children committed to the local authoritys care (para 59).
+The foster parents were an integral part of the local authoritys organisation of its childcare services, carried on for the benefit of the local authority (para 60).
+By placing the children in foster care, the local authority had created the risk of the harm being done (para 61).
+Significantly, having examined the relationship between the foster parents and the local authority in some detail, he concluded that the foster parents cannot be regarded as carrying on an independent business of their own (para 59).
+There is nothing, therefore, in the trilogy of Supreme Court cases discussed above to suggest that the classic distinction between employment and relationships akin or analogous to employment, on the one hand, and the relationship with an independent contractor, on the other hand, has been eroded.
+Two cases decided by common law courts since Christian Brothers and Cox have reached the same conclusion.
+In Kafagi v JBW Group Ltd [2018] EWCA Civ 1157, Singh LJ stated that the
+development from employment to something akin to employment had not undermined the conventional distinction between a contract of employment and a contract for services (para 21).
+The defendant company had a contract with a local authority to collect their council tax debts.
+It sub contracted the work to a registered bailiff, the alleged tortfeasor, who ran his own business and could pick and choose what work to do (para 50), had his own insurance (para 52) and could work for other clients (para 53).
+Their relationship was not akin to employment (para 56).
+In Ng Huat Seng v Mohammad [2017] SGCA 58, the owners of a property
+had engaged the tortfeasor as an independent contractor to carry out demolition works at their premises.
+It was argued that the recent decisions had undermined the distinction between employees and independent contractors.
+The Singapore Court of Appeal (their final court) held that the two cases did not present a new analytical framework.
+Rather (para 63): while we accept that the Christian Brothers case and Cox recognise that the doctrine of vicarious liability can be applied outside the strict confines of an employment relationship, it becomes evident, when one examines these judgments more closely, that their essential contribution was to fine tune the existing framework underlying the doctrine so as to accommodate the more diverse range of relationships which might be encountered in todays context.
+These relationships, when whittled down to their essence, possess the same fundamental qualities as those which inhere in employer employee relationships, and thus make it appropriate for vicarious liability to be imposed.
+Further (para 64): Indeed, we do not see how vicarious liability, the normative foundation of which rests on the theory that it is fair, just and reasonable to hold a defendant liable for the acts of the tortfeasor on the ground that the tortfeasor is in fact engaged in the defendants enterprise, could possibly be extended to tortious acts committed by an independent contractor, who, by definition, is engaged in his own enterprise.
+There is simply nothing fair, just and reasonable about imposing secondary liability on a defendant in such a situation.
+The question therefore is, as it has always been, whether the tortfeasor is carrying on business on his own account or whether he is in a relationship akin to employment with the defendant.
+In doubtful cases, the five incidents identified by Lord Phillips may be helpful in identifying a relationship which is sufficiently analogous to employment to make it fair, just and reasonable to impose vicarious liability.
+Although they were enunciated in the context of non commercial enterprises, they may be relevant in deciding whether workers who may be technically self employed or agency workers are effectively part and parcel of the employers business.
+But the key, as it was in Christian Brothers, Cox and Armes, will usually lie in understanding the details of the relationship.
+Where it is clear that the tortfeasor is carrying on his own independent business it is not necessary to consider the five incidents.
+Application in this case
+Clearly, although Dr Bates was a part time employee of the health service, he was not at any time an employee of the Bank.
+Nor, viewed objectively, was he anything close to an employee.
+He did, of course, do work for the Bank.
+The Bank made the arrangements for the examinations and sent him the forms to fill in.
+It therefore chose the questions to which it wanted answers.
+But the same would be true of many other people who did work for the Bank but were clearly independent contractors, ranging from the company hired to clean its windows to the auditors hired to audit its books.
+Dr Bates was not paid a retainer which might have obliged him to accept a certain number of referrals from the Bank.
+He was paid a fee for each report.
+He was free to refuse an offered examination should he wish to do so.
+He no doubt carried his own medical liability insurance, although this may not have covered him from liability for deliberate wrongdoing.
+He was in business on his own account as a medical practitioner with a portfolio of patients and clients.
+One of those clients was the Bank.
+Comment
+Until these recent developments, it was largely assumed that a person would be an employee for all purposes employment law, tax, social security and vicarious liability.
+Recent developments have broken that link, which may be of benefit to people harmed by the torts of those working in the gig economy.
+It would be tempting to align the law of vicarious liability with employment law in a different way.
+Employment law now recognises two different types of worker: (a) those who work under a contract of employment and (b) those who work under a contract whereby the individual undertakes to do or perform personally any work or services for another party to the contract whose status is not by virtue of the contract that of a client or customer of any profession or business undertaking carried on by the individual (Employment Rights Act 1996, section 230(3)).
+Limb (b) workers enjoy some but by no means all the employment rights enjoyed by limb (a) workers.
+It would be tempting to say that limb (b) encapsulates the distinction between people whose relationship is akin to employment and true independent contractors: people such as the solicitor in Bates van Winkelhof v Clyde and Co LLP [2014] UKSC 32; [2014] 1 WLR 2047, or the plumber in Pimlico Plumbers Ltd v Smith [2018] UKSC 29; [2018] ICR 1511.
+Asking that question may be helpful in identifying true independent contractors.
+But it would be going too far down the road to tidiness for this court to align the common law concept of vicarious liability, developed for one set of reasons, with the statutory concept of worker, developed for a quite different set of reasons.
+Conclusion
+I would allow this appeal and hold that the Bank is not vicariously liable for
+any wrongdoing of Dr Bates in the course of the medical examinations he carried out for the Bank.

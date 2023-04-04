@@ -1,0 +1,47 @@
+In 2003, the appellant, Egon Zehnder Ltd (Egon Zehnder), an executive search and recruitment company, hired the respondent, Ms Tillman, to work in its financial services practice area.
+She was first employed as a consultant and promoted to principal in 2006, partner in 2009 and joint global practice head in 2012.
+She was always employed largely on the terms of her original contract (the agreement).
+Clause 13 provided for five restraints upon the activities of Ms Tillman following the end of her employment, all limited to a period of six months from the termination date.
+Clause 13.2.3 (the non competition covenant) is in issue in this appeal.
+By this covenant, Ms Tillman agreed that she would not directly or indirectly engage or be concerned or interested in any business carried on in competition with any of the businesses of [Egon Zehnder] within a twelve month period prior to the termination date and with which [she was] materially concerned during such period.
+On 30 January 2017 Ms Tillmans employment with Egon Zehnder came to an end.
+Shortly thereafter, she informed it that she intended to start work as an employee of a competitor firm.
+She made clear that she intended to comply with all her covenants in the agreement apart from the non competition covenant in clause 13.2.3.
+She conceded that it would prevent her proposed employment within the restricted six month period but alleged that it was in unreasonable restraint of trade and thus void.
+On 10 April 2017 Egon Zehnder issued proceedings.
+It applied for an interim injunction to restrain Ms Tillmans entry into the proposed employment.
+On 23 May 2017 Mr Justice Mann (Mann J) in the High Court granted the injunction.
+The Court of Appeal allowed Ms Tillmans appeal and set aside the injunction.
+In the courts below, the enforceability of the non competition covenant turned on whether the words interested in unreasonably prevented even a minor shareholding by Ms Tillman in a competing business and, if so, whether the offending part of the covenant could be severed.
+Mann J agreed with the company that interested in did not preclude a minor shareholding, without reaching a final view on severance.
+The Court of Appeal disagreed with Mann J on the effect of the words interested in, considering that they did prohibit even a minor shareholding, and refused to sever those words.
+Clause 13.2.3 was thus held to be void as an unreasonable restraint of trade.
+In this Court, the issues were whether: (1) assuming that clause 13.2.3 prohibits shareholding, that part of the covenant falls entirely outside the restraint of trade doctrine; (2) the words interested in, properly construed, prohibit any shareholding; and (3) the correct approach to severance was applied.
+The Supreme Court unanimously allows the appeal.
+Lord Wilson gives the lead judgment, with which all members of the Court agree.
+The injunction granted by Mann J is formally restored although the contractual period of restraint has since expired.
+Issue (1): Scope of application of the restraint of trade doctrine The restraint of trade doctrine is one of the earliest products of the common law, and reflects the central importance ascribed to the freedom to work [22].
+By the early 20th century, it was recognised that different considerations applied to restraints on the seller of a business from those on an ex employee [27].
+The question of the width of the doctrine has arisen, particularly in Esso Petroleum Co Ltd v Harpers Garage (Stourport) Ltd [1968] AC 269 (HL), which remains the key decision [27 29].
+It is not necessary to decide on the outer boundaries of the doctrine in this case [30].
+The agreement is an employment contract, and it is agreed that clause 13.2.3 does provide for a restraint of trade [30].
+In substance as well as in form the restraint on shareholding is part of the restraint on Ms Tillmans ability to work after her employment with Egon Zehnder, so the doctrine applies on the facts [33 34].
+Issue (2): Proper construction of the words interested in This issue turns on the proper understanding of the validity principle in construing agreements.
+This principle proceeds on the premise that the parties to a contract or other instrument will have intended it to be valid [38].
+This Court considers that requiring two meanings to be equally plausible or for there to be an element of ambiguity is unsatisfactory [38 42].
+The test of whether the alternative construction is realistic is preferred [42].
+In the present case, the starting point is that the phrase engaged or concerned or interested, adopted in clause 13.2.3, has long been included in standard precedents for the drafting of non competition covenants and treated as including a shareholding prohibition [51].
+Egon Zehnder was unable to advance a realistic alternative construction of the word interested [52].
+The natural meaning of the word, which includes a shareholding (large or small), applies [53].
+Subject to severance, clause 13.2.3 is thus void as an unreasonable restraint of trade [53].
+Issue (3): Correct approach to severance in restraint of trade cases On the question of severance, this Court is faced with two main differing approaches, found in particular in the decisions in Attwood v Lamont [1920] 3 KB 571 (CA) and Beckett Investment Management Group Ltd v Hall [2007] ICR 1539 (CA) [57 73].
+The Attwood approach limits severance to situations where the covenant is in effect a combination of different covenants [66].
+By contrast, the Beckett approach uses three criteria for severance [73].
+This Court prefers the Beckett approach, provides guidance on its application and overrules the decision of the Court of Appeal in Attwood [81 91].
+On the Beckett approach, the first criterion is whether the unenforceable provision is capable of being removed without the necessity of adding to or modifying the wording of what remains this is the so called blue pencil test [85].
+The second criterion is that the remaining terms continue to be supported by adequate consideration [86].
+This will not usually be in dispute [86].
+The third criterion is that the removal of the unenforceable provision does not so change the character of the contract that it becomes not the sort of contract that the parties entered into at all [87].
+This is the crucial criterion but this Court prefers to express it as being whether removal of the provision would not generate any major change in the overall effect of all the post employment restraints in the contract [87].
+It is for the employer to establish this, and the focus is on the legal effect of the restraints and not their perhaps changing significance for the parties [87].
+On the facts, the words or interested are capable of being removed from clause 13.2.3 without the need to add to or modify the wording of the rest of the clause and removal of the prohibition against her being interested would not generate any major change in the overall effect of the restraints [88].

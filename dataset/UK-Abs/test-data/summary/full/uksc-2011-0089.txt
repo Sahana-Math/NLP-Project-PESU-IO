@@ -1,0 +1,49 @@
+These appeals raise important and difficult issues in the field of equity and trust law.
+Both appeals raise issues about the so called rule in Hastings Bass, which is concerned with trustees who make decisions without having given proper consideration to relevant matters which they ought to have taken into account.
+In addition, the appeal in Pitt raises issues as to the courts jurisdiction to set aside a voluntary disposition on the ground of mistake.
+In 1985, Mr Mark Futter made two settlements.
+Initially, both settlements had non resident trustees, until, in 2004, he and Mr Cutbill, both resident in the United Kingdom, were appointed.
+In 2008, on the advice of solicitors, Mr Futter and Mr Cutbill, in exercise of a power of enlargement, distributed the whole capital of the first settlement to Mr Futter, and, in exercise of a power of advancement, distributed 36,000 from the second settlement to Mr Futters three children in equal shares.
+In so doing, they overlooked the effect of section 2(4) of the Taxation of Chargeable Gains Act 1992 (TCGA), which resulted in a large capital gains tax liability for Mr Futter, and a modest one for his children.
+Mr Futter and Mr Cutbill, as trustees of the two settlements, applied to have the deed of enlargement and the deeds of advancement declared void, which Norris J held them to be on the basis of the rule in Hastings Bass.
+In 1990, Mr Derek Pitt suffered very serious head injuries in a road traffic accident, resulting in his mental incapacity.
+Mr Pitts claim for damages for his injuries was compromised by a court approved settlement in the sum of 1.2m.
+Mr Pitts solicitors sought advice from Frankel Topping, a firm of financial advisers.
+They advised that the damages should be settled in a discretionary settlement.
+This was done in 1994 by the establishment of the Derek Pitt Special Needs Trust (the SNT).
+The SNT could have been established without any immediate inheritance tax liability, but it was not.
+The report from Frankel Topping made no reference whatsoever to inheritance tax.
+In 2007, Mr Pitt died.
+His personal representatives, who were also two of the trustees of the SNT, commenced proceedings to have the SNT set aside, which the deputy judge ordered on the basis of the rule in Hastings Bass.
+However, in so doing, he indicated that, even if there had been a mistake of any sort, it was only a mistake as to the consequences of the transaction, rather than its effect, and so he would not have granted rescission of the SNT.
+The Revenues appeals against these decisions were heard together in the Court of Appeal.
+Lloyd LJ (with whom Longmore and Mummery LJJ agreed) (i) allowed the appeals, principally on the ground that the rule in Hastings Bass was not applicable, because the respective trustees acted reasonably in reliance on what they supposed to be competent professional advice, (ii) dismissed Mrs Pitts appeal based on mistake, on the basis that rescission for mistake could only be granted if there was a serious mistake as to nature of a transaction, rather than its consequences, and a mistake as to tax consequences was not a sufficient mistake for the purposes of rescission.
+The Supreme Court unanimously (i) dismisses the appeal in Futter, and the appeal in Pitt, so far as they turn on the rule in Hastings Bass, (ii) allows the appeal in Pitt on the ground of mistake, and sets aside the SNT.
+Lord Walker gives the judgment, with which the other Justices agree.
+The rule in Hastings Bass The rule in Hastings Bass, properly understood, depends on breach of duty in the performance of something that is within the scope of the trustees powers, not in the trustees doing something that they had no power to do at all [43].
+The rule is centred on the failure of trustees to perform their decision making function.
+It is that which founds the courts jurisdiction to intervene if it thinks fit to do so [91].
+As a matter of principle there must be a high degree of flexibility in the range of the courts possible responses.
+To lay down a rigid rule would inhibit the court in seeking the best practical solution in the application of the rule in Hastings Bass in a variety of different factual situations [92].
+For the rule in Hastings Bass to apply, the inadequate deliberation on the part of the trustees must be sufficiently serious as to amount to a breach of fiduciary duty.
+It is generally only a breach of duty on the part of the trustees that entitles the court to intervene.
+It is not enough to show that the trustees deliberations have fallen short of the highest possible standards, or that the court would, on a surrender of discretion by the trustees, have acted in a different way.
+Apart from exceptional circumstances (such as an impasse reached by honest and reasonable trustees) only breach of fiduciary duty justifies judicial intervention [73].
+However, where trustees have been in breach of duty by exercising a discretion with inadequate deliberation, setting aside their decision may not be the only course open to the court [63].
+It would be contrary to principle and authority to impose a form of strict liability on trustees who conscientiously obtain and follow, in making a decision which is within the scope of their powers, apparently competent professional advice which turns out to be wrong [80].
+Such a result cannot be achieved by the route of attributing any fault on the part of professional advisers to the trustees as their supposed principals [81].
+There have been, and no doubt will be in the future, cases in which small variations in the facts lead to surprisingly different outcomes.
+That is inevitable in an area where the law has to balance the need to protect beneficiaries against aberrant conduct by trustees (the policy behind the rule in Hastings Bass) with the competing interests of legal certainty, and of not imposing too stringent a test in judging trustees decision making [83].
+Rescission on the ground of mistake The true requirement for rescission on the ground of mistake is simply for there to be a causative mistake of sufficient gravity.
+The test will normally be satisfied only when there is a mistake either as to the legal character or nature of a transaction, or as to some matter of fact or law which is basic to the transaction [122].
+Consequences (including tax consequences) are relevant to the gravity of a mistake [132].
+A mistake must be distinguished from mere ignorance, inadvertence, and misprediction [104].
+Forgetfulness, inadvertence or ignorance is not, as such, a mistake, but it can lead to a false belief or assumption which the law will recognise as a mistake [105].
+Mere ignorance, even if causative, is insufficient [108].
+However, the distinctions may not be clear on the facts of a particular case [109].
+In order to satisfy the test for setting aside a voluntary disposition on the ground of mistake, the gravity of the mistake must be assessed by a close examination of the facts.
+The injustice of leaving a mistaken disposition uncorrected must be evaluated objectively, but with an intense focus on the facts of the particular case [126].
+The court must make an evaluative judgment whether it would be unconscionable, or unjust, to leave the mistake uncorrected, and form a judgment about the justice of the case [128].
+Mrs Pitt had an incorrect conscious belief, or made an incorrect tacit assumption, that the proposed SNT had no adverse tax effects [133].
+The SNT could have complied with statutory requirements without any artificiality or abuse of statutory relief.
+It was precisely the sort of trust to which Parliament intended to grant relief [134].

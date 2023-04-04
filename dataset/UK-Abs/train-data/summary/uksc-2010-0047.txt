@@ -1,0 +1,32 @@
+Article 52(1) of the European Patent Convention (the EPC) provides that, in order to obtain a European patent, an invention must be susceptible of industrial application.
+Article 57 states that an invention is susceptible of industrial application if it can be made or used in any kind of industry.
+The primary issue in this case is the way in which the requirement of industrial applicability extends to a patent for biological material.
+The Appellant is the proprietor of European Patent (UK) 0,939,804 (the Patent).
+It describes the encoding nucleotide, the amino acid sequence, and certain antibodies of a new human protein called Neutrokine , and includes contentions as to its biological properties and therapeutic activities, as well as those of its antibodies.
+These contentions are predictions substantially based on the proposition that Neutrokine is a member of the THF ligand superfamily.
+The Patent was filed on 25 October 1996 and granted on 17 August 2005.
+The Respondent brought opposition proceedings in the Opposition Division of the European Patent Office (the EPO), following which the Patent was revoked.
+The Appellant appealed to the Technical Board of Appeal (the Board) of the EPO, which allowed the appeal and ordered that the Patent be maintained.
+Meanwhile, the Respondent brought parallel proceedings in the High Court for revocation of the Patent in the UK.
+The High Court revoked the Patent, on the basis that, in the light of the common general knowledge, the notional addressee of the Patent (a person skilled in the art) would have concluded that the functions of Neutrokine were, at best, a matter of expectation and then at far too high a level of generality to constitute a sound or concrete basis for anything except a research project.
+This decision was upheld by the Court of Appeal.
+The Supreme Court unanimously allows the appeal, dismisses the cross appeal, and remits the case to the Court of Appeal to deal with the outstanding issues.
+The leading judgments are given by Lord Neuberger and Lord Hope, with whom the other justices agreed.
+There is very little UK authority on the topic of industrial applicability, particularly as regards biological material [37] and [88], and the applicable principles are really to be found in the jurisprudence of the EPO and the Board [42].
+While the reasoning in each decision of the Board is not binding upon national courts, the courts should normally follow the jurisprudence of the EPO,
+particularly where the Board has adopted a consistent approach to an issue in a number of decisions [84] and [87], as is the case with regard to the application of Article 57 to patents for biological material [88].
+Further, there are strong policy reasons for seeking consistency of approach to patents in the biological field, as it is import for bioscience companies to be able to decide at what stage to file for patent protection, and to be able to obtain funding based on patent protection [96 102] and [141 143].
+Despite the very wide ranging and generalised suggestions in the Patent as to the uses to which Neutrokine and its antibodies might be put, over and above revealing the existence and structure of the new protein and its encoding gene, the only relevant guidance in the Patent ultimately arises from its teaching as to the tissue distribution of Neutrokine , its expression in T cell and B cell lymphomas, and the fact that it is a member of the TNF ligant superfamily.
+The question is whether the Judge in the High Court was right, or at least entitled, to conclude that the inferences which would have been drawn from the Patent specification in 1996 would not have been enough to satisfy Article 57 [103].
+That conclusion was based on the fact that the Patent neither revealed how Neutrokine could be used to solve any particular problem nor identified any disease or condition which it could be used to diagnose or treat [104] and [161].
+That reasoning was not consistent with the approach adopted by the Board, from which a number of general and specific principles may be drawn [106 107].
+In light of those principles, the disclosure of the existence and structure of Neutrokine and its gene, and its membership of the TNF ligand superfamily should have been sufficient, taking into account the common general knowledge, to satisfy the requirements of Article 57 [109].
+This is because all known members of the TNF ligand family were expressed on T cells and were able to co stimulate T cell proliferation, and therefore Neutrokine would be expected to have a similar function [111].
+The fact that the members of that superfamily were known to have pleiotropic effects is irrelevant where the value of the new member relates to the common features manifested by all known members [112 115].
+Neither the Judge nor the Board considered that the unsatisfactory drafting of the Patent would actually have diverted the person skilled in the art from what their search of the literature, coupled with common general knowledge, would otherwise have led them to understand represented the teaching of the Patent [116 118].
+The lower courts were wrong to focus on the speculative nature of some of the therapeutic uses of Neutrokine as disclosed in the Patent, and the degree of extra effort required to determine those uses, when the known activities of the superfamily were enough in themselves to justify patentability for the disclosure of a novel molecule (and its encoding gene) [119 121], [124 128] and [161].
+For the same reason, the Respondents argument that the specification of the Patent is insufficient must fail [132 139].
+The standard set by the Judge for susceptibility to industrial application was a more exacting one than that used by the Board.
+He was looking for a description that showed that a particular use for the product had actually been demonstrated, rather than that the product had plausibly been shown to be usable for the purposes of research work [151] and [154], which the Board must be taken to have regarded as an industrial activity in itself [155 156].
+Notwithstanding the importance of deference to the findings of fact and value judgments of a court of first instance, especially where that decision is confirmed on appeal [94 95], [166], [168 170 and 172], in this case it is evident that the Judge and Court of Appeal failed to follow the principles of law clearly set out by the Board in this and previous cases.
+The appeal must therefore be allowed.

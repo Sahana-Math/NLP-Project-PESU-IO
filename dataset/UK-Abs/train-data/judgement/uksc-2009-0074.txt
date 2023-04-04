@@ -1,0 +1,260 @@
+This appeal concerns the effectiveness of a scheme, known as Project C, which was designed to minimise the overall liability to VAT of a group of companies involved in motor breakdown insurance (MBI).
+Summarising matters which I shall at a later point explain in greater detail, the supply of insurance is exempt from VAT.
+It follows that insurers do not charge VAT on premiums, and do not account to the Commissioners for Her Majestys Revenue and Customs (the Commissioners) for VAT in respect of their insurance business.
+It also follows that, if an insurer incurs costs in respect of supplies of goods or services which it uses in the course of its insurance business, on which VAT is chargeable, it is unable to deduct the amount of the VAT which it has paid from any VAT which it has received in respect of that business.
+Instead, it has to bear the VAT element of its costs.
+MBI insurers normally undertake to indemnify the insured against the cost of repairs.
+Whether the garage invoices the insured, who is then reimbursed by the insurer, or invoices the insurer directly, in either case the garages invoice will include VAT (provided the garage is registered for VAT, as is normally the case).
+In such circumstances, the cost of the repair is the cover which the insurer has contracted to provide to the insured under the insurance policy.
+It is not the cost of a service supplied to the insurer for the purposes of its business, and no possibility arises of the insurer being able to deduct the VAT element of the cost.
+In principle, however, an MBI insurer might undertake not to indemnify the insured in respect of the cost of repair, but to repair the insureds vehicle; and it could then arrange with a garage for the repair to be carried out, and pay the garages bill.
+Even in such a case, however, the insurer would not be able to deduct the VAT element of the bill, since, even if the garage were regarded as supplying a service to the insurer for the purposes of its insurance business, the insurer would not be liable to account for any VAT in respect of that business, and would therefore not have received any VAT from which the tax paid to the garage could be deducted.
+The VAT paid to garages represents a substantial element of the costs of an MBI insurers business, which has to be covered by premiums.
+The inability to deduct VAT as input tax is perceived by MBI insurers as placing them at a competitive disadvantage relative to businesses, such as car dealers, offering uninsured warranties under which they contract to repair vehicles in the event of a breakdown.
+Since businesses of the latter kind are not treated as being exempt from VAT, they can set the VAT element of their costs against the VAT which they receive, with the result that the effect of the tax upon their business should in principle be neutral.
+The competitive disadvantage of the insurers was exacerbated in 1997, when insurance premium tax was imposed on MBI premiums at a rate of 17.5%.
+The purpose of the scheme with which the appeal is concerned was to redress that competitive disadvantage by enabling the VAT element of the cost of repairs to be recovered by one or other of the members of a group of companies to which an MBI insurer belonged, thereby reducing costs and enabling the insurer to offer lower premiums.
+The National Insurance and Guarantee Corporation plc (NIG) is a UK insurer.
+It has underwritten MBI policies for many years.
+The policies cover the cost of repairs and replacement parts following breakdowns of second hand cars.
+The policies are marketed and sold by another UK company, Warranty Holdings Ltd (Warranty), which is a member of the Oriel group of companies, the holding company of which is Oriel Group plc.
+Prior to the implementation of Project C, NIG reinsured the risks under the policies with Practical Insurance Company Ltd (Practical), a Gibraltar based reinsurer which is another member of the Oriel group.
+Until the implementation of Project C, Warranty was appointed by NIG to handle all claims made under the policies.
+In the event of a breakdown the insured contacted Warranty, which directed the insured to take the vehicle to an approved repairer, or a repairer of the insureds choice, or the dealer (all of which I shall refer to as the garage) for repair.
+The garage provided repair services and billed Warranty for the cost or, if the cost of the repair exceeded the insurance cover, for the amount of the cover.
+As claims handler, Warranty made arrangements with approved repairers which were designed to keep down the cost of repairs.
+These arrangements resulted in the VAT paid by Warranty on the repair services and parts supplied by the garage being irrecoverable.
+This was the problem which Project C was designed to solve.
+Project C had two strands, each of which was based on the operation of
+statutory provisions.
+The aim was that the first strand should be enough to secure the recovery of the VAT paid on the repairs.
+The second strand was designed to provide a fall back position should the first not hold.
+Putting the matter very broadly, the first strand was based on legislation designed to ensure that there was no VAT burden on the supply of certain insurance and financial services by UK businesses to consumers outside the EU.
+The legislation gave credit for input tax which was incurred for the purpose of businesses making certain specified types of supply to a person outside the EU.
+The specified supplies included the provision of assistance in the administration and performance of insurance contracts, including the handling of claims.
+The legislation was interpreted by those responsible for Project C as enabling a UK insurance claims handler to recover input tax incurred for the purpose of its supplying claims handling services to a non EU recipient.
+Project C sought to avail itself of this legislation by having the first appellant, WHA Ltd (WHA), a UK member of the Oriel group, supply claims handling services to the second appellant, Viscount Reinsurance Company Ltd (Viscount), a Gibraltar based member of the group, with which 85% of the risk under NIGs MBI policies issued through Warranty was ultimately reinsured.
+Provided (1) the garages made supplies of labour and parts to WHA (and not, as previously, to the insured car owner) and invoiced WHA for those supplies, (2) WHA then invoiced Viscount for claims handling services and (3) the latter invoice covered the amounts invoiced by the garages, WHA would be able to recover the VAT charged by the garage, and would not have to charge VAT on its onward supply of claims handling services to Viscount.
+That, in short, was the thinking behind the first strand of Project C.
+The first strand envisaged, as I have explained, that no VAT would be chargeable on the supplies to Viscount.
+The second strand of Project C was designed to provide a fall back line of defence if that was disputed by the Commissioners: if, for example, they maintained that WHA did not use the garages supplies for the purpose of making its own supplies of claims handling services to Viscount, or contended (as actually happened) that WHAs supplies to Viscount were wholly or partly chargeable to VAT as being supplies of repairs or parts rather than supplies of claims handling services.
+Again putting the matter very broadly, the second strand relied upon UK VAT legislation which was interpreted as enabling Viscount to recover the VAT which it paid to WHA so long as Viscount itself made supplies to a non EU recipient.
+For the purpose of the second strand, it was therefore necessary to instal another non EU entity between NIG and Viscount.
+That entity was Crystal Reinsurance Company Ltd (Crystal), another Gibraltar based member of the Oriel group.
+It reinsured 100% of the risk under NIGs MBI policies issued through Warranty, and in turn retroceded 85% of the risk to Viscount.
+The NIG policies were the only reinsurance business carried on by Crystal and Viscount.
+The end result of the first strand of Project C was thus intended to be that WHA (1) would be the recipient of the repair services on which the garages charged VAT, (2) would not have to charge output tax on its onward supplies to Viscount, and (3) would therefore be entitled under the relevant legislation to recover the input tax from the Commissioners.
+The end result of the second strand was intended to be that, if proposition (2) did not hold and WHA had to charge output tax on its supplies to Viscount, Viscount would nevertheless be entitled to recover that tax from the Commissioners.
+Following the implementation of Project C in 1998, the Commissioners refused the claims made by WHA and Viscount for the repayment of tax.
+WHA and Viscount then appealed to the Value Added Tax and Duties Tribunal (the tribunal).
+Before the tribunal, the Commissioners challenged the effectiveness of Project C on the basis that none of its three central planks was sound.
+First, they maintained that there was no supply of services by the garages to WHA: if that contention were accepted, it was fatal to the success of the scheme, since both strands of Project C depended upon its being accepted that the repair services were supplied by the garages to WHA.
+Secondly, they maintained that if there was indeed a supply of repair services to WHA, its onward supply to Viscount was in any event subject to VAT: if that contention were accepted, it was fatal to the success of the first strand.
+Thirdly, they maintained that Viscount was not in any event entitled to recover input tax under the UK legislation in question: if that contention were accepted, it was fatal to the success of the second strand.
+The Commissioners also advanced further arguments based on the alleged artificiality of the scheme, including a contention based on the EU doctrine of abuse of rights.
+In its decision ([2002] VATTR 202), the tribunal agreed with the Commissioners on all three of their principal contentions, and dealt only briefly with the Commissioners further arguments.
+On an appeal to the High Court ([2003] STC 648), Lloyd J disagreed with the tribunal on the first two issues.
+He held that (1) WHA could treat the VAT payable on the garage bills as input tax, (2) WHA made exempt supplies to Viscount and (3) WHA was therefore entitled to recover its input tax.
+Having thus accepted that the first strand of Project C was effective, he did not go on to consider the third issue, which was relevant only to the second, fall back, strand of the scheme.
+A further appeal to the Court of Appeal was dealt with in two stages.
+In an interim judgment ([2004] STC 1081), the Court of Appeal agreed with Lloyd J on the first issue: that is to say, it held that there was a supply of services by the garages to WHA.
+It agreed with the tribunal on the second issue: that is to say, it held that WHA made a taxable supply of services to Viscount, and therefore had to charge output tax.
+The court therefore had to deal with the third issue.
+In disagreement with the tribunal, it held that Viscount was entitled to recover the VAT which it had to pay WHA.
+Those conclusions were however all subject to the Commissioners further arguments about abuse of rights, consideration of which was deferred until the preliminary rulings of the European Court of Justice on a number of cases concerned with that subject were available.
+Following the issue of those rulings, the Court of Appeal subsequently gave its final judgment ([2007] STC 1695), in which it held that the scheme was abusive and that the tribunals decision should therefore be reinstated, albeit for somewhat different reasons.
+The present appeal is taken against the decision of the Court of Appeal.
+The parties positions have altered in some respects since that decision was made.
+The issues now in contention are as follows: (1) Is there a supply of repair services for the purposes of WHAs business by the garages to WHA, as well as or instead of a supply of services to the insured, on which WHA may claim deduction of input tax? (2) If the answer to question (1) is yes, what is the application to WHA's claim of the EU law doctrine of abuse of right? (3) In any event, was the then extant UK legislation pursuant to which Viscount claimed to recover the input tax charged on the supplies to it by WHA ultra vires? If so, was that legislation void ab initio and does this cause the claim by Viscount for recovery of such input tax to fail? (4) Are the Commissioners entitled to raise or rely on the latter issue for the first time before this court or as the sole reason for withholding repayment from Viscount, insofar as (i) Viscount may have had a legitimate expectation that its claim would be met, (ii) the issue was not identified in any of the Commissioners' original decisions, (iii) it was not argued by them before any of the courts below and (iv) the Commissioners have consistently maintained that the tribunal has no jurisdiction to hear or determine public law questions?
+For reasons which I shall explain, I have come to the conclusion that question 1 should be answered in the negative: there is no supply of repair services by the garages to WHA.
+It follows from that conclusion that the appeal must be dismissed and the decision of the Court of Appeal affirmed, albeit for different reasons.
+That being so, it is unnecessary to address the remaining issues.
+In the following discussion, I shall accordingly focus solely upon the factual and legal issues which are relevant to the question whether the garages make a supply of repair services to WHA for the purposes of its business.
+The relevant legislation
+The relevant EU legislation is contained in Council Directive 67/227/EEC of 11 April 1967 on the harmonisation of legislation of Member States concerning turnover taxes (the First Directive), and Council Directive 77/388/EEC of 17 May 1977 (the Sixth Directive), as amended by Council Directive 95/7/EC of 10 April 1995.
+These are translated into domestic law by the Value Added Tax Act 1994 as amended (the 1994 Act).
+It is sufficient to refer principally to the EU provisions.
+Article 2 of the First Directive describes the basic system of value added tax: The principle of the common system of value added tax involves the application to goods and services of a general tax on consumption exactly proportional to the price of the goods and services, whatever the number of transactions which take place in the production and distribution process before the stage at which tax is charged.
+On each transaction, value added tax, calculated on the price of the goods or services at the rate applicable to such goods or services, shall be chargeable after deduction of the amount of value added tax borne directly by the various cost components.
+The common system of value added tax shall be applied up to and including the retail trade stage.
+Article 2 of the Sixth Directive provides: The following shall be subject to value added tax: 1. the supply of goods or services effected for consideration within the territory of the country by a taxable person acting as such .
+Articles 5 and 6 define supply of goods and supply of services respectively.
+The former means the transfer of the right to dispose of tangible property as owner.
+The latter means, generally, any transaction which does not constitute a supply of goods within the meaning of article 5.
+Article 11 defines the taxable amount.
+It provides, so far as relevant: A.
+Within the territory of the country 1. the taxable amount shall be: (a) in respect of supplies of goods and services, everything which constitutes the consideration which has been or is to be obtained by the supplier from the purchaser, the customer or a third party for such supplies.
+Article 13 provides various exemptions, including at B.(a) insurance and reinsurance transactions, including related services performed by insurance brokers and insurance agents.
+That is implemented in the UK, so far as related services are concerned, by Group 2, item 4 of Schedule 9 to the 1994 Act, which exempts the provision by an insurance broker or insurance agent of any of the services of an insurance intermediary The latter services are defined by Note (1) as including (c) the provision of assistance in the administration and performance of such contracts, including the handling of claims.
+Article 17(2) allows a taxable person the right, in so far as the goods and services are used for the purpose of his taxable transactions, to deduct VAT due or paid in respect of goods or services supplied or to be supplied to him by another taxable person.
+The factual background
+As this court has recently observed (Her Majestys Revenue and Customs v Aimia Coalition Loyalty UK Limited [2013] UKSC 15, para 68), decisions about the application of the VAT system are highly dependent upon the factual situations involved.
+A small modification of the facts can render the legal solution in one case inapplicable to another.
+It is therefore necessary to begin by considering carefully the facts of the present case.
+As was also noted in the Aimia case at para 38, the case law of the Court of Justice indicates that, when determining the relevant supply in which a taxable person engages, regard must be had to all the circumstances in which the transaction in question takes place.
+Furthermore, as Lord Walker explained in Aimia at paras 114 115, in cases where a scheme operates through a construct of contractual relationships, as in the present case, it is necessary to look at the matter as a whole in order to determine its economic reality.
+Accordingly, although the transaction of particular importance is that between the garage and WHA, it has to be understood in the wider context of the arrangements between the insured, NIG, Crystal, Viscount, WHA and the garage.
+The contractual position is not conclusive of the taxable supplies being made as between the various participants in these arrangements, but it is the most useful starting point.
+I shall begin with the contract of insurance between the insured and NIG.
+Two sample policies have been produced in these proceedings.
+Their terms, so far as material, are to similar effect, and it is sufficient to refer to one of them, described as Motor Cover.
+The policy makes it clear that the insurer is undertaking to meet the cost of repairs to the vehicle falling within the scope of the policy: it is not undertaking responsibility for the repairs themselves.
+The policy states, for example, that following a mechanical breakdown of your vehicle, this policy will assist with the cost of repair of the parts listed; and the terms and conditions provide that NIG will not pay more than the limits shown on the proposal form or, if lower, in this policy document.
+Although the terms and conditions also provide that NIG reserves the right to provide replacement parts and to carry out repairs under this policy or to arrange for their provision by other persons, the implication of that clause is that NIG is under no obligation to do so.
+The policy also explains to the insured the role of WHA, in terms which are consistent with the financial nature of the insurers obligations.
+The terms and conditions state that WHA has been appointed to deal with all matters relating to claims handling and settlement, including payment, of claims arising under this policy.
+Under the heading, How to make a claim, the policy states that the insured should first telephone or write to WHA, which will explain the claims procedure.
+The insured should next book the vehicle in with the garage and give your permission to carry out any fault finding/diagnosis or dismantling necessary.
+Next, you agree that you will pay the cost of dismantling and repairing the vehicle if the cause of the breakdown is not covered by the policy and, if it is covered, all costs which exceed the limits on your proposal form.
+Next, the garage must ask WHA for authority to carry out the repair.
+If your claim is accepted, your repairer will be informed how much will be paid under this policy You are responsible for paying any amount the repairer charges over and above the amount authorised.
+When the repairs have been completed, the garage must submit an invoice to WHA.
+The policy makes it clear that the insured can either take the vehicle to the dealer or to a garage approved by WHA, or he can use a garage of his choice, provided in the latter case that the garage follows WHAs claim procedures and sends its invoice to WHA.
+It is necessary next to consider the relationships between NIG, Crystal, Viscount and WHA so far as relevant to the issue.
+First, the agreement between NIG and Crystal provided for Crystal to receive the premium income from the relevant policies, and for NIG to receive a monthly fee.
+Crystal was also to meet all claims under the policies.
+In effect, therefore, NIG was what may be described, without any pejorative meaning, as a UK front for an offshore insurance business carried on by the Oriel group.
+In relation to claims, the agreement between NIG and Crystal provided that in the event of any claim or loss hereunder or under a NIG policy the reinsurer [Crystal] shall have the sole right to appoint adjusters and/or assessors and to control, or to appoint such person as it thinks fit to control, all claims handling, negotiations, investigations, adjustments and settlements in connection with such claims and losses and to make payment in respect thereof under and in accordance with the terms of the relevant NIG policy document .
+The claims handlers role was accordingly envisaged as encompassing the negotiation, investigation, adjustment, settlement and payment of claims.
+The agreement between Crystal and Viscount similarly provided for Viscount to control all claims handling in the event of a claim under an NIG policy and to appoint any person it saw fit to control the claims handling and to make payment in respect thereof.
+Crystal passed on to Viscount the appropriate percentage of the premium income.
+In terms of the agreement between Viscount and WHA, Viscount appointed WHA to appoint adjusters and/or assessors and to control all claims handling, negotiations, investigations, adjustments and settlements in connection with claims and losses under NIG Policies and to make payment in respect thereof under and in accordance with the terms of the relevant NIG Policy Documents.
+WHA agreed to handle, investigate, control, negotiate, validate, process, administer and settle all claims arising under NIG Policies in accordance with the terms of the relevant NIG Policy Documents .
+Under the heading Accounting and Consideration, the agreement provided that all valid claims and losses (to include amounts paid to repairers and suppliers) under the NIG policies were to be settled at WHA's expense.
+Viscount was to pay WHA the cost of all claims plus 17.60 for each claim settled and paid by WHA.
+In practice, as was explained in evidence to the tribunal, Viscount provided WHA with a cash float of about 2.5m, taken from the premium income and topped up about once a week, out of which WHA met the claims.
+WHA was accountable to Viscount for what it spent.
+The invoices submitted by WHA to Viscount identified separately the claims handling fees (ie the aggregate of the fees of 17.60 per claim) and the cost of meeting the claims.
+These agreements are accordingly consistent in envisaging the role of WHA as encompassing the negotiation, investigation, adjustment, settlement and payment of claims.
+There is no indication that WHAs role included undertaking responsibility for the carrying out of repairs.
+The agreements between NIG and Crystal, Crystal and Viscount, and Viscount and WHA also contained provisions designed to secure that the title to vehicle parts appropriated for use in a repair under a valid claim under an NIG policy would be transferred in turn to Viscount, then Crystal, then NIG, prior to the parts being fitted in the insureds vehicle.
+It is common ground that these provisions were ineffective: there is no indication that they were notified to either the insured or the garages; they conflicted with retention of title clauses used by some of the garages; they did not address the situation where the policy covered only part of the cost of the repair; and they could not in any event prevent title from passing to the owner of the vehicle once a part was fitted.
+Turning next to the relationship between WHA and the garages, WHA issued a claims procedure leaflet to authorised repairers which required them to take the following steps: 1.
+Obtain policy type and number from the proposal form .
+Check proof of servicing. 2.
+With policyholder's authority, including agreement to pay all costs incurred by the repairer which do not form part of an authorized repair, establish precise cause of failure and the cost [of] parts and labour required for the repair. 3.
+To obtain authorization to carry out a repair phone WHA's claims department.
+No rectification to be carried out without prior authority from WHA. 4.
+After obtaining authority and having carried out the repair in accordance with the authority given, send a detailed VAT repair invoice for all parts used in the authorized repair and the authorized labour costs together with any relevant service invoices to WHA. 5.
+Obtain payment from policyholder for all costs in excess of those authorized by WHA.
+The tribunal found that in an appreciable number of cases the procedure set out in the leaflet was not followed, but that instead the insured paid the garage and was subsequently reimbursed by WHA.
+The evidence also established that WHA had agreed labour rates and parts discounts with the authorised repairers.
+Although it was not the subject of an explicit finding by the tribunal, it appears from the leaflet, and from the practical arrangements described by the tribunal, that there was an agreement between WHA and the garage, implied if not express, under which WHA agreed to pay for the work in so far as it was covered by the policy and authorised by WHA.
+There is no finding that the garage undertook to WHA to carry out repairs properly or at all, or that any steps were taken by WHA to check whether repairs had been carried out properly or at all.
+The tribunal also found that there was an agreement between the insured and the garage, implied if not express, under which the insured authorised the garage to carry out the necessary investigatory work and agreed to pay for all work carried out by the garage in so far as it was not covered by the policy.
+The insured must also have authorised the garage to carry out the repairs to his or her car.
+The tribunals decision
+Against that background, which reflects the tribunals findings as to the facts, the tribunal, chaired by Stephen Oliver QC, concluded that the garages made supplies of repairs and parts to the insured, and not to WHA.
+WHA merely paid for those supplies, to the extent that the bill of the garage in question was within the cover provided by the policy.
+The tribunal stated, at para 71: We are satisfied that the documentation and the arrangements, designed to divert the supplies of labour and parts from their normal direct route from garage to insured by routing them instead via the Gibraltar loop, do no more than create a paper trail.
+Their purpose is to facilitate Project C.
+The reality is quite different.
+The garage supplies the labour and parts to the insured.
+In support of that conclusion, the tribunal noted that the insured chose the garage and authorised it to carry out the investigatory work.
+He was liable for the cost of any investigatory or repair work which was not covered by the policy.
+In a proportion of cases, the insured paid the garage.
+He became the owner of any parts installed, and the beneficiary of any warranties given.
+Under the policy, the insurer undertook to cover the cost of the repair.
+WHA was identified as the claims handler, but that did not oblige it to provide labour and parts.
+The repair was the responsibility of the garage.
+The claims procedure leaflet required the garage to obtain authorisation from WHA to carry out repairs, and directed that invoices for authorised repairs should be sent to WHA.
+This committed WHA to pay for authorised repairs.
+It did not, however, make WHA the customer of the garage.
+The tribunal considered that its conclusion was consistent with the reasoning of Lord Millett in Customs and Excise Commissioners v Redrow Group plc [1999] 1 WLR 408, a case to which it will be necessary to return.
+Asking itself the question posed by Lord Millett at p 418, whether the taxable person making the payment in question obtained anything anything at all used or to be used for the purposes of his business in return for that payment, the tribunal responded that WHA had a business of claims handling, in the course of which it held funds advanced as a float by Viscount and disbursed them in meeting approved garage bills.
+In return for its services Viscount paid it 17.60 per claim.
+There was no evidence that the garage's supply of labour and parts was used for the purposes of WHA's business.
+It is also relevant to note that the tribunal analysed WHAs business as involving two supplies to Viscount.
+First, it made exempt supplies of claims handling services, for which it was paid 17.60 per claim, and which were capable of generating a profit.
+Secondly, it made a taxable supply of satisfying the claims.
+That supply earned nothing: WHA merely disbursed the money advanced by Viscount as a float.
+The decision of the High Court
+On appeal, Lloyd J observed that it seemed likely that, when WHA gave authority to a garage to carry out a repair, it came under an obligation to the garage to pay for the work if and when it had been done, provided the garage sought payment in accordance with the correct procedure.
+It was, he observed, more difficult to say, from the material before the court, that the garage came under any positive obligation to WHA to do anything.
+Those observations appear to me to be correct.
+Lloyd J agreed with the tribunal that the garages made supplies of repairs and parts to the insured, but correctly observed that it did not follow that WHA did not receive anything itself which was relevant for VAT purposes.
+Lloyd J considered that the contrary was the case: WHA's duty to Viscount includes having the appropriate repairs done.
+Only if that is done are the obligations of the successive insurers to the insured discharged.
+WHA sees to that by having the work done, that is to say by setting up arrangements whereby garages will do the work with the necessary authority from WHA, and will look to WHA for payment.
+The service which a garage supplies to WHA is the service of repairing the insured's car, thereby satisfying the obligation of NIG to the insured, and in turn the corresponding obligations of every other party in the insurance chain. (para 40) Addressing the question posed by Lord Millett in Redrow at p 418, Lloyd J stated that WHA received a benefit from its contract with the garage, namely the discharge of its obligations to Viscount.
+That was a benefit supplied by the garage to WHA and used by WHA for the purposes of its business (para 41).
+On that basis, Lloyd J disagreed with the tribunals conclusion on this issue.
+It is to be noted that Lloyd Js approach was based upon two factual premises: first, that NIG (and each of the successive insurers) was under an obligation to the insured to repair the insureds car; and secondly, that WHA was under an obligation to Viscount to have the appropriate repairs done.
+Neither of those premises was in my view sound, for the reasons I have explained in particular at paragraphs 27 and 30 to 33.
+Furthermore, the fact that As payment of B discharges an obligation owed by A to C does not eo ipso mean that A has received a supply from B. An insurer may, for example, meet the cost of dental treatment provided to its insured in accordance with the relevant policy, but that does not mean that the dentist supplied her services to the insurer.
+Lloyd J disagreed with the tribunals analysis of WHAs business as involving separate supplies to Viscount of (1) claims handling services and (2) the satisfaction of claims.
+He considered that that analysis drew an artificial distinction.
+In his view the whole process, including the payment of the garages bill, could fairly be described as claims handling, and certainly, in the language of Note (1)(c) to Group 2, item 4 of Schedule 9 to the 1994 Act, as the provision of assistance in the administration and performance of insurance contracts.
+The decision of the Court of Appeal
+On a further appeal, the Court of Appeal, in a judgment given by Neuberger LJ with which Waller and Latham LJJ agreed, similarly proceeded upon the mistaken premise that Viscount contracts with WHA to carry out any works required to be effected under the policies (para 2).
+The Court of Appeal identified the essential features which were said to justify the conclusion that the garage made a supply of services to WHA.
+First, the invoice was in respect of work carried out by the garage pursuant to an instruction by WHA.
+Secondly, the only contractual relationship, pursuant to which the work was carried out, existed under an agreement between WHA and the garage.
+Thirdly, the only person who was liable to pay the garage in respect of that work was WHA.
+Fourthly, WHA entered into the contractual relationship with the garage in the course of its business.
+Fifthly, by ensuring that the garage carried out the work, WHA fulfilled its obligation to Viscount under the claims handling agreement, and also became entitled to earn its 17.60 in respect of the claim.
+The Court of Appeal appears to have accepted that these features existed: Neuberger LJ stated that, in these circumstances, it appeared to him that there was indeed a supply of services by the garage to WHA, unless there was some reason for reaching a contrary conclusion (para 37).
+Four of the five features relied upon require however some qualification or correction.
+In relation to the first feature, Neuberger LJ had earlier noted at para 22 that in a fair number of cases the insured agreed with the garage what work would be carried out, paid for it, and was subsequently reimbursed by WHA.
+Such cases were not typical, but they were relevant to an assessment of the commercial reality of the arrangements.
+In relation to the second feature, the agreement between WHA and the garage was not the only contractual relationship pursuant to which the work was carried out, as I have explained at paragraph 38: the insured authorised the garage to carry out the necessary investigatory work, authorised the garage to carry out the repairs to his or her car, and agreed to pay for the work in so far as it was not covered by the policy.
+In relation to the third feature, it is correct to say that the only person liable to pay the invoice submitted to WHA was WHA, assuming that the invoice was in conformity with the agreement between the garage and WHA and the latters authorisation of the work.
+The insured was however also liable to pay the garage in respect of the work in so far as the cost was not covered by the policy, as I have explained at paragraph 38.
+In relation to the fifth feature, there was no finding by the tribunal that WHA was under an obligation to Viscount to ensure that the garage carried out the work, and the terms of the agreement between WHA and Viscount indicate only that WHA was under an obligation to handle the claim and make the payment, as I have explained at paragraphs 32 to 33.
+Consistently with its premises, the Court of Appeal considered that WHA receives a benefit from the carrying out of the repairs (namely satisfaction of an obligation to Viscount and the ability to earn the 17.60) (para 37).
+That view again rests on the mistaken premise that WHA was under an obligation to Viscount to ensure that repairs were carried out.
+As I have explained at paragraph 32, the fee of 17.60 was paid in consideration of WHAs settling and paying the claim, not for ensuring that repairs were carried out to the vehicle.
+It also reflects the mistaken view that, merely because payment for services has the effect of discharging an obligation owed to a third party, it necessarily follows that the person making the payment is the recipient of a supply.
+The Court of Appeal also put forward at para 40 another reason for rejecting the conclusion that the vehicle owner, rather than WHA, was the person to whom the services should be treated as being supplied: However, such a conclusion suffers from the unattractive feature that the owner does not pay for the work, and receives no invoice in respect of it, and that, accordingly, even if the circumstances would otherwise justify someone recovering the input tax, there could be nobody entitled to recover the input tax, at least on the face of it.
+The owner could not recover input tax because he had not paid it, and neither could WHA, because although it had paid the VAT, it could not be treated as input tax because there would have been no supply of services to WHA.
+The court should certainly not lean in favour of analysis which results in such a dichotomy.
+The difficulty with this reasoning is that the question in dispute cannot be resolved on the basis of a presumption that the VAT on the repairs ought to be deductible as input tax, since whether the VAT is deductible as input tax depends on how one answers the question in dispute.
+In other words, this approach to the issue begs the question.
+The whole point of the scheme was to secure that the VAT was deductible as input tax, contrary to the pre existing position, under which it was not.
+The tribunal considered that the payment made by WHA to the garage should be categorised as third party consideration for services supplied to the owner, as contemplated in article 11A1(a) of the Sixth Directive.
+WHA maintains that the payment should be categorised as consideration for services supplied to itself.
+The deductibility of the VAT depends on the answer (subject to the Commissioners further arguments).
+Which view is correct depends on the proper analysis of the transaction between WHA and the garage.
+In relation to the nature of WHAs business, the Court of Appeal agreed with the tribunal that it made two separate supplies to Viscount, namely (a) the footing of the bill for the works and (b) the other services, which have been conveniently referred to as claims handling services (para 84).
+In relation to the footing of the bill, the Court of Appeal described that as the performance of the fundamental obligation of the principal, namely the insurer (para 85).
+The parties contentions
+In summary, it was submitted on behalf of WHA that the VAT system works on the basis that the person who pays for a supply in the context of a reciprocal relationship is usually the recipient of the supply.
+WHA had a reciprocal relationship with the garages.
+It paid the VAT element of the garages bills in connection with its taxable business activities as defined by the Court of Appeal.
+The relevant aspect of its business was to discharge the liabilities of the insurer using the money provided for that purpose by Viscount.
+That aspect of its business had been considered by the Court of Appeal to be taxable.
+It followed from the principle of fiscal neutrality that WHA should therefore be able to deduct the VAT which it had paid.
+Applying the guidance given in Customs and Excise Commissioners v Redrow Group plc [1999] 1 WLR 408, WHA received a genuine benefit in the course of its business from the carrying out of the repairs.
+On behalf of the Commissioners, it was explained that they did not contend that WHA had a liability to account for output VAT even though it had no entitlement to deduct input VAT.
+The Commissioners contended simply that there was no supply to WHA which could give rise to an entitlement to deduct input VAT.
+The question of output tax only arose if, contrary to the Commissioners contention, WHA were held to be entitled to deduct input tax.
+The economic reality was that it was the insured vehicle owner who consumed the repair services.
+He or she was therefore the person to whom the supply of services was made.
+The insurer (or the claims handler with whom the insurer had contracted to fulfil its obligation) was obliged to pay for those services.
+This was a classic example of third party consideration.
+Discussion
+As I have explained, under the contract of insurance NIG undertakes to the insured that it will meet the cost of the repair.
+It does not undertake to repair the vehicle.
+If NIG were to perform the contract by itself paying the garage, that would be an example of third party consideration within the meaning of article 11A(1)(a) of the Sixth Directive: that is to say, consideration for a supply which the person providing the consideration does not himself receive, but which he pays for, in this example, in order to discharge an obligation owed to the recipient of the supply.
+On this hypothesis, the garage supplies a service to the insured by repairing his or her vehicle, and NIG meets the cost of that supply because it has undertaken to the insured that it will do so, and has received premiums from the insured as the consideration for its giving that undertaking.
+In that situation, the breakdown is a risk: an event insured against.
+The cost of the repair is the cover: it is not the consideration for a service provided to the insurer.
+The interposition of reinsurers does not alter that position.
+Neither, on the facts found by the tribunal, does the interposition of WHA.
+In economic reality, when WHA pays for the repairs it is merely discharging on behalf of the insurer (via the chain of contracts connecting it to NIG, through Viscount and Crystal) the latters obligation to the insured to pay for the repair.
+WHAs role, in relation to the aspect of its business concerned with the payment of the garages, is to act as the paymaster of costs falling within the cover provided by the policies.
+The interposition of WHA does not, by some alchemy, transmute the discharge of the insurers obligation to the insured into the consideration for a service provided to the reinsurers agent.
+That conclusion is supported by a number of considerations.
+First, as was noted in Her Majestys Revenue and Customs v Aimia Coalition Loyalty UK Limited [2013] UKSC 15 at para 73, the Court of Justice has consistently stressed that the deduction of input tax is meant to relieve the trader entirely of the burden of the VAT payable or paid in the course of all his economic activities.
+In the present appeal, however, WHA does not bear the burden of the VAT paid to the garage: it pays the garage out of the float provided by Viscount, and its profit or loss is unaffected by the VAT.
+Secondly, it was also noted in Aimia at para 75 that the consequence of the deduction of input VAT is that the tax is charged, at each stage in the production and distribution process, only on the added value, and is ultimately borne only by the final consumer (or by a person who stands in the shoes of the final consumer).
+In the present appeal, however, WHA adds no value in respect of its supply of footing the bill, as the Court of Appeal put it: its inputs and its outputs in relation to that aspect of its business are identical.
+The final consumer of the services supplied by the garage is the insured; and the effect of dismissing this appeal is that VAT is borne on that supply.
+That conclusion is also consistent with the guidance given in Customs and Excise Commissioners v Redrow Group plc [1999] 1 WLR 408.
+When Lord Hope of Craighead posed the question at p 412, Was something being done for him for which, in the course or furtherance of a business carried on by him, he has had to pay a consideration ?, and Lord Millett asked at p 418, Did he obtain anything anything at all used or to be used for the purposes of his business in return for that payment?, those questions are to be understood as being concerned with a realistic appreciation of the transactions in question (Aimia, para 66).
+So understood, it is plain that WHA did not obtain anything in return for the payment to the garage which was used for the purposes of its business.
+On the contrary, as the tribunal found and the Court of Appeal confirmed, and as I have explained at paragraphs 42 and 53, WHAs business was the making of the payment.
+Finally, the contention that the principle of fiscal neutrality requires that WHA should be able to deduct the VAT paid to the garages must be rejected.
+The Commissioners have made it clear that they do not maintain that WHA is under any liability to account for output tax in the present circumstances.
+Conclusion
+For these reasons, I would dismiss the appeal.

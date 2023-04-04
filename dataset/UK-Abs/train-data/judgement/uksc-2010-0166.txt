@@ -1,0 +1,1129 @@
+This judgment deals with the first, and major, limb of this appeal.
+At the end I shall explain the position in relation to the second limb.
+On 2 June 2006 the appellant (TNL) published an article (the Article) which defamed the respondent, (Sergeant Flood), who is a Detective Sergeant in the Extradition Unit of the Metropolitan Police Service (MPS).
+The Article stated that allegations had been made against Sergeant Flood that had led Scotland Yard to investigate whether he was guilty of corruption.
+The police investigation subsequently ended with a finding that there was no evidence that Sergeant Flood had acted corruptly and the trial judge, Tugendhat J accepted Sergeant Floods evidence that he was not guilty of corruption.
+That finding has not been challenged.
+The issue before the Court is whether TNL are protected from liability to Sergeant Flood in defamation under the doctrine known as Reynolds privilege.
+Put shortly Reynolds privilege protects publication of defamatory matter to the world at large where (i) it was in the public interest that the information should be published and (ii) the publisher has acted responsibly in publishing the information, a test usually referred to as responsible journalism although Reynolds privilege is not limited to publications by the media see Reynolds v Times Newspapers Ltd [2001] 2 AC 127.
+Tugendhat J held that TNL are protected by Reynolds privilege [2009] EWHC 2375 (QB) [2010] EMLR 169, but his decision was reversed by the Court of Appeal, Lord Neuberger MR, Moore Bick and Moses LJJ, [2010] EWCA Civ 804 [2011] 1WLR 153.
+The major reason for the Court of Appeals decision was their view that the journalists responsible for the Article had failed to act responsibly in that they had failed adequately to verify the allegations of fact that it contained.
+The Article
+The Article had the following heading, the first sentence of which was in large bold letters: Detective accused of taking bribes from Russian exiles.
+Police investigating the alleged sale to a security company of intelligence on the Kremlin's attempts to extradite opponents of President Putin, Michael Gillard reports.
+The relevant part of the text of the Article was helpfully numbered by the judge for purposes of reference.
+I shall follow the example of the Court of Appeal in adopting that numbering. 1.
+Allegations that a British security company with wealthy Russian clients paid a police officer in the extradition unit for sensitive information are being investigated by Scotland Yard. 2.
+The officer, who has been moved temporarily from his post, is alleged to have provided Home Office and police intelligence concerning moves by Moscow to extradite a number of Russia's wealthiest and most wanted men living in Britain. 3.
+Anti corruption detectives are examining documents detailing the client accounts of ISC Global (UK), a London based security firm at the centre of the investigation.
+The financial dossier, seen by The Times, shows that ISC was paid more than 6m from off shore companies linked to the most vocal opponents of President Putin of Russia. 4.
+Between 2001 and 2005, ISC provided a variety of specialist security services including monitoring the Kremlin's attempts to extradite key clients to Moscow, where they face fraud and tax evasion charges.
+A former ISC insider passed the dossier to the intelligence arm of the anti corruption squad in February.
+The informant directed handlers to a series of ISC payments, totalling 20,000, made to a recipient codenamed Noah.
+Detectives from Scotland Yard professional standards directorate were told that Noah could be a reference to an officer in the extradition unit who was friendly with one of ISC's bosses.
+The officer under investigation has been identified as Detective Sergeant Gary Flood.
+His home and office were raided last month.
+A spokesman for the Metropolitan Police said yesterday: 'We are conducting an investigation into allegations that a serving officer made unauthorised disclosures of information to another individual in exchange for money.'
+Anti corruption detectives are examining the relationship between Sergeant Flood and a former Scotland Yard detective, one of the original partners in ISC.
+The men admit to being close friends for more than 25 years but deny any impropriety and are willing to co operate with the inquiry.
+Sergeant Flood has not been suspended.
+His lawyer said: 'All allegations of impropriety in whatsoever form are categorically and unequivocally denied.'
+ISC Global was set up in October 2000 by Stephen Curtis, a lawyer.
+He was already acting for a group of billionaire Russians led by Mikhail Khodorkovsky and Leonid Nevzlin, who controlled Yukos Russia's privatised energy giant 15.
+The dossier also reveals Boris Berezovsky was a client of ISC. 16.
+Two companies linked to Mr Berezovsky Bowyer Consultants Ltd and Tower Management Ltd appear to have made payments totalling 600,000 to ISC. 19.
+ISC stopped trading last year after Curtis, the chairman, died in a helicopter crash.
+Subsequently, two former Scotland Yard officers, Keith Hunter and Nigel Brown, whom Curtis recruited to set up ISC, fell out and Mr Hunter bought the company and renamed it RISC. 20.
+A spokesman for Mr Hunter said: 'Neither my client nor his associated companies have ever made illegal payments to a Scotland Yard officer.' 21.
+Mr Brown, who lives in Israel said: 'Scotland Yard recently contacted me as a result of receiving certain information.
+I have been asked not to discuss this matter.' 5.
+Moore Bick LJ stated at para 88 of his judgment, that since the Article repeated allegations made by others the starting point was the repetition rule.
+Under that rule a defendant who repeats a defamatory allegation made by another is treated as if he had made the allegation himself, even if he attempts to distance himself from the allegation see Stern v Piper [1997] QB 123, 128; Gatley on Libel and Slander 11th ed (2008) para 11.4; Carter Ruck on Libel and Privacy, 6th ed (2010) paras 9.34 37. 6.
+Sergeant Floods claim is not founded simply on the repetition rule.
+The Article reports a variety of matters only some of which repeat, without adopting, allegations made by others.
+A central feature of the Article is the statement that the police are investigating the conduct of Sergeant Flood and the defamatory meaning alleged is derived in part from that fact.
+The identification of the issues arising in this case is not easy and calls for some precision in the analysis of the Article. 7.
+The heading, the first sentence, para 1 and para 7 of the Article report that allegations have been made to the police that an officer, identified elsewhere in the Article as Sergeant Flood, has corruptly taken bribes in exchange for the provision of sensitive information to a security company, identified elsewhere in the Article as ISC.
+I shall describe these allegations as the Flood is guilty accusation.
+Para 5 of the Article alleges that a former ISC insider (the ISC Insider) has stated that ISC made payments to Noah who could be an officer who was friendly with one of ISCs bosses.
+The Article makes it plain that the officer in question is Sergeant Flood.
+I shall describe this allegation as the Flood could be guilty accusation.
+Most of the rest of the Article consists of allegations of fact, some of these derived from the dossier provided to the police and to TNL by the ISC Insider.
+Of these Lord Neuberger, at para 25, identified paras 5, 8, 15, and 16, to which he later added paras 10 and 19 as containing what he called the Allegations.
+Moses LJ preferred to describe these as the details of the foundation of the allegations against Sergeant Flood.
+I shall call these the supporting facts. 8.
+What is the defamatory meaning, or sting, to be derived from the Article when read as a whole? In Chase v News Group Newspapers Ltd [2002] EWCA Civ 1772; [2003] EMLR 218 Brooke LJ identified three possible defamatory meanings that might be derived from a publication alleging police investigations into the conduct of a claimant.
+These have been adopted as useful shorthand in subsequent cases.
+The Chase level 1 meaning is that the claimant was guilty.
+The Chase level 2 meaning is that there were reasonable grounds to suspect that the claimant was guilty.
+The Chase level 3 meaning is that there were grounds for investigating whether the claimant was guilty. 9.
+The respondent has not alleged that the Article conveys a Chase level 1 meaning.
+Rather he has pleaded what are in effect alternative Chase level 2 meanings, namely: The words complained of meant that there were strong grounds to believe, or alternatively that there were reasonable grounds to suspect, that he had abused his position as a police officer with the MPS extradition unit by corruptly accepting 20,000 in bribes. 10.
+The meaning alleged by TNL, for the purposes of a plea of justification, is a Chase level 3 meaning.
+This was: [DS Flood] was the subject of an internal police investigation and that there were grounds which objectively justified a police investigation into whether the claimant received payments in return for passing confidential information about Russia's possible plans to extradite Russian oligarchs.
+The relevant facts
+Tugendhat J made detailed findings of fact see [2009] EWHC 2375 (QB) at paras 15 to 121.
+Those findings have not been challenged.
+The Master of the Rolls made a brief summary of these at the beginning of his judgment.
+This is not entirely accurate, so I shall adapt it into my own summary.
+The Article was the result of a lengthy investigation by journalists, Michael Gillard, his father, Gillard senior, and Jonathan Calvert, the editor of "Insight" at The Sunday Times, under whose auspices the investigation had been carried out.
+Following its decision not to publish, Michael Gillard took the story to The Times, with more success.
+Michael Gillard was first told in December 2005 of alleged bribes for information from the Extradition Unit by one of his sources (A), who identified the police officer in question as Sergeant Flood or his brother (a police officer not in the Extradition Unit).
+The information related to the extradition and asylum of Mr Berezovsky and another Russian.
+Michael Gillard decided to investigate this matter.
+He sought the assistance of his father in doing so.
+Over the next three months Michael Gillard had meetings with A and two other sources, one of whom, B, was working with A together with the ISC Insider.
+Michael Gillard concluded that A and B did not have direct knowledge about the alleged bribery of a police officer, but derived their information from the ISC Insider.
+He learned that in February 2006 A and B had arranged for the ISC Insider to meet with the Intelligence Development Group (IDG) of the Directorate of Professional Standards (DPS) of the MPS.
+On 13 March A provided Michael Gillard with a copy of a Note that he had arranged to be given to the IDG when arranging this meeting.
+It read as follows: One of Hunter's clients is Boris Berezovsky The Russians regularly up date information on the warrants and details of the emendations are transmitted to all the extradition desks around the world.
+Hunter has a long term detective friend called Flood (possibly Gary ) who either works at, or has contacts at the extradition department.
+Flood provides Hunter with the information as it arrives.
+Hunter pays Flood in cash.
+Flood apparently uses, or has used the money in the past for [the sensitive information]It is not clear whether Berezovsky is aware of how Hunter obtains the information If President Putin discovers this information it is
+likely to cause a Diplomatic incident
+Meanwhile Mr Gillard Senior managed to have a series of meetings and telephone conversations with the ISC Insider.
+He told Mr Gillard Senior about his visit to the IDG and expressed frustration that they did not appear to be taking any action in relation to the information that he had provided.
+He provided Mr Gillard Senior with a copy of a CD Rom that he had provided to the IDG.
+This contained details of ISCs internal accounts.
+These showed a series of payments, totalling 20,000 to Noah.
+The ISC Insider told Mr Gillard Senior that he believed that Noah was Sergeant Flood, although he did not know that this was the case.
+He believed that Sergeant Flood had a corrupt relationship with Mr Hunter of ISC.
+Mr Gillard Senior prepared a memorandum for Mr Michael Gillard setting out what he had been told by the ISC Insider.
+This ran to 8 pages and included: [ ] aware of payment to Flood ISC management accounts Evidence of payments to 'Noah' for 2002 2003.
+Believes but does not know 'Noah' codename for Flood.
+Atkinson codename for Boris Berezovsky in ISC accounts.' Noah' payments related to 'Atkinson' 'Noah' payments made out of KH's [Mr Hunter's] suspense account.
+Suspense account used to park items not immediately assignable to particular client or expense KH used to brag about my man at the Yard.
+Talked about how my man would be in court and would agree to bail.
+Described as in charge of all Russian cases.
+Said to have been at Home Office meeting and taking notes regarding Berezovsky asylum/extradition.
+KH also mentioned other possible contacts.
+Could have been deliberate exaggeration.
+At a long liquid lunch in Champers Wine Bar in Kingly Street KH talked openly about paying brown envelopes to my man at the Yard.
+Problem arose when BB barrister spoke directly to Flood in court on one occasion and asked how to handle some legal issue.
+KH very upset that BB lawyers had contacted my man.
+An unsuccessful attempt by Michael Gillard and Mr Calvert to approach Sergeant Flood at his home on 26 April was reported to Mr Hunter, who in turn told Sergeant Flood.
+He put matters in the hands of his superiors the following day.
+They informed the MPS press office ("the Press Office"), who then made contact with Michael Gillard and Mr Calvert.
+On 27 April, Mr Calvert provided to the Press Office, to be passed on to Sergeant Flood, details of allegations that Mr Calvert said that he understood had been passed to Scotland Yard earlier in the year.
+These included the following: My understanding is that Scotland Yard received information early this year alleging that Mr Hunter paid you for information that you are privy to as a member of the Yard's Extradition Unit.
+This information would be of particular use to certain Russian individuals, some of whom were clients of ISC Global (UK) We understand that Scotland Yard has been given financial accounts detailing how money was transferred from Berezovsky companies to ISC Global accounts here and in Gibraltar.
+In addition Mr Hunter's 'suspense account' is said to have made a series of payments of at least 20,000 to 'Noah' We understand that you have been identified to the police as 'Noah'.
+These events caused DPS to initiate a police investigation by its Investigation Command, with DCI Crump as the Senior Investigating Officer.
+It seems that DCI Crump was unaware of the information that had been provided to the IDG by the ISC Insider in February.
+The DPS obtained and executed search warrants in respect of Sergeant Flood's home and office.
+On the same day the Press Office issued the statement quoted in para 7 of the Article, and a few days later, Sergeant Flood was moved from the Extradition Unit owing to the ongoing investigation.
+Meanwhile the DPS officers, including DCI Crump, who were investigating the matter, had meetings with Michael Gillard and Mr Calvert, who were anxious to discover precisely why it was that the police had taken action.
+I shall deal with the details of these meetings later in my judgment.
+On 2 June 2006, The Times published the Article as a newspaper report and on its website.
+On 2 December 2006 the DPS made their report ("the DPS Report"), in which the DPS concluded that they had been unable to find any evidence to show that [Sergeant Flood] has divulged any confidential information for monies or otherwise.
+Consequently there are no recommendations made as to criminal or discipline proceedings in relation to that matter.
+The respondent gave evidence in the course of which he denied that he had been guilty of any impropriety.
+That evidence was not challenged and was accepted by the judge.
+The issues
+This appeal raises a number of issues of principle in relation to Reynolds privilege.
+The parties were agreed, and the judge accepted, that the rival meanings set out in paras 9 and 10 above were so close that, for the purpose of resolving the issue of Reynolds privilege, it was not necessary to choose between them.
+It will none the less be necessary to consider how the court should approach the meaning of a publication when considering a claim to Reynolds privilege.
+This is the meaning issue.
+Mr Price QC for Sergeant Flood has argued that, as a matter of principle, Reynolds privilege should not normally protect publication of accusations of criminal conduct on the part of a named individual made to the police, at least if they are accompanied by details of matters alleged to support those allegations.
+This raises the public interest issue.
+The public interest issue is whether, and in what circumstances, it is in the public interest to refer to the fact that accusations have been made, and in particular that accusations have been made to the police, that a named person has committed a criminal offence.
+This issue embraces the question of whether, if it is in the public interest to report the fact of the accusation, it is also in the public interest to report the details of the accusation.
+The third issue of principle raised by this appeal is the verification issue.
+As I shall show when I come to examine Reynolds in detail, one relevant element in the approach of a responsible journalist was held to be the steps taken to verify the information.
+Where the publication alleges that accusations have been made of misconduct on the part of the claimant, or alternatively that there are grounds to suspect him of misconduct, the question arises of what, if any, verification is required on the part of the responsible journalist? In particular, is the journalist required to take steps to check whether the accusations that have been made are well founded, or is his duty to do no more than verify that the accusations reported were in fact made?
+Reynolds privilege
+I propose at this point to consider the defence of Reynolds privilege.
+In Reynolds at p 205 Lord Nicholls of Birkenhead recorded that, over time, a valuable corpus of case law would be built up in respect of that defence.
+I shall examine how far that has occurred over the past decade, with particular attention to the questions of public interest and verification.
+The publication in Reynolds involved an allegation that the claimant, who was the Taoiseach, or prime minister, had lied to the Dil and to his cabinet colleagues.
+The defendants sought to establish a generic head of qualified privilege at common law in relation to political information, on the basis that this would protect them in the absence of malice.
+The House of Lords rejected this attempt, but identified the defence that has since been termed Reynolds privilege, albeit that the term privilege is misleading.
+It is more accurately described as a public interest defence.
+The leading speech was delivered by Lord Nicholls, who having set out the elements of Reynolds privilege, held that it could not arise on the facts of the case.
+Lord Cooke of Thorndon and Lord Hobhouse of Woodborough expressed full agreement with the speech of Lord Nicholls.
+Lord Steyn and Lord Hope of Craighead differed in the result, but their speeches accorded with Lord Nicholls conclusion that qualified privilege could protect publication of defamatory matter to the world at large where the public interest justified the publication.
+The passage in which Lord Nicholls set out his conclusions [2001] 2 AC 127, 204 205 has been cited in both the judgment of Lord Neuberger MR and that of Tugendhat J, but, as it is the foundation of Reynolds privilege, I shall set it out again: The elasticity of the common law principle enables interference with freedom of speech to be confined to what is necessary in the circumstances of the case.
+This elasticity enables the court to give appropriate weight, in today's conditions, to the importance of freedom of expression by the media on all matters of public concern.
+Depending on the circumstances, the matters to be taken into account include the following.
+The comments are illustrative only. 1.
+The seriousness of the allegation.
+The more serious the charge, the more the public is misinformed and the individual harmed, if the allegation is not true. 2.
+The nature of the information, and the extent to which the subject matter is a matter of public concern. 3.
+The source of the information.
+Some informants have no direct knowledge of the events.
+Some have their own axes to grind, or are being paid for their stories. 4.
+The steps taken to verify the information. 5.
+The status of the information.
+The allegation may have already been the subject of an investigation which commands respect. 6.
+The urgency of the matter.
+News is often a perishable commodity. 7.
+Whether comment was sought from the plaintiff.
+He may have information others do not possess or have not disclosed.
+An approach to the plaintiff will not always be necessary. 8.
+Whether the article contained the gist of the plaintiff's side of the story. 9.
+The tone of the article.
+A newspaper can raise queries or call for an investigation.
+It need not adopt allegations as statements of fact. 10.
+The circumstances of the publication, including the timing.
+This passage is largely, but not entirely, concerned with responsible journalism.
+The starting point is, however, that the publication should be in respect of a matter of public concern.
+This is not a black and white test, for, as Lord Nicholls observed, it is necessary to consider the extent to which the subject matter is a matter of public concern (Emphasis added).
+As he made plain, responsible journalism requires the striking of the right balance between the public interest in the subject matter of the publication on the one hand and the harm to the claimant, should the publication prove to be untrue on the other.
+Lord Hobhouse of Woodborough observed at p 239: The publisher must show that the publication was in the public interest and he does not do this merely by showing that the subject matter was of public interest.
+He went on to commend the test of what it is in the public interest that the public should know and what the publisher could properly consider that he was under a public duty to tell the public.
+This echoed the observation made by Lord Steyn at p 213 and Lord Cooke at p 224 that it was appropriate to adopt the conventional test applied when considering qualified privilege in relation to publication to a limited class.
+That is to ask whether the recipients had an interest in receiving the information and the publisher a duty to publish it.
+Lord Nicholls had earlier, at p 197, said that he preferred to ask: in a simpler and more direct way, whether the public was entitled to know the particular information.
+He referred to this as the right to know test.
+While Lord Hobhouse was correct to observe that it will not always be in the public interest to publish matters which are of public interest, the starting point in considering whether publication was in the public interest must be to ask whether the subject matter of the publication was a matter of public interest.
+Lord Bingham of Cornhill CJ, when giving judgment in the Court of Appeal in Reynolds attempted at p 176 the difficult task of defining a matter of public interest: By that we mean matters relating to the public life of the community and those who take part in it, including within the expression public life activities such as the conduct of government and political life, elections (subject to Section 10 of the Act 1952, so long as it remains in force) and public administration, but we use the expression more widely than that, to embrace matters such as (for instance) the governance of public bodies, institutions and companies which give rise to a public interest in disclosure, but excluding matters which are personal and private, such that there is no public interest in their disclosure.
+So far as verification is concerned, Lord Nicholls included in his list of relevant factors the steps taken to verify the information.
+He was, however, dealing with a case where the relevant allegations were made, or at least adopted, by the publisher.
+The publication was not simply reporting allegations made by another.
+In Al Fagih v HH Saudi Research and Marketing (UK) Ltd [2001] EWCA Civ 1634 [2002] EMLR 215 the Court of Appeal, by a majority, found that Reynolds privilege was made out in respect of a report in a newspaper of defamatory allegations made in the course of an ongoing political debate, notwithstanding that the publishers had made no attempt to verify the allegations.
+The newspaper had not adopted or endorsed these allegations.
+Giving the leading judgment Simon Brown LJ at p 236 identified circumstances where both sides to a political dispute were being reported fully, fairly and disinterestedly and where the public was entitled to be informed of the dispute.
+In such circumstances there was no need for the newspaper to concern itself with whether the allegations reported were true or false.
+The public interest that justified publication was in knowing that the allegations had been made, it did not turn on the content or the truth of those allegations.
+A publication that attracts Reynolds privilege in such circumstances has been described as reportage.
+In a case of reportage qualified privilege enables the defendant to avoid the consequences of the repetition rule.
+The nature of reportage was extensively analysed by Ward LJ in Roberts v Gable [2007] EWCA Civ 721; [2008] QB 502.
+At para 60 he correctly identified it as a special example of Reynolds privilege, a special kind of responsible journalism but with distinctive features of its own.
+There is a danger in putting reportage in a special box of its own.
+It is an example of circumstances in which the public interest justifies publication of facts that carry defamatory inferences without imposing on the journalist any obligation to attempt to verify the truth of those inferences.
+Those circumstances may include the fact that the police are investigating the conduct of an individual, or that he has been arrested, or that he has been charged with an offence.
+In the present case Mr Rampton QC, for TNL, has not expressly sought to rely on the principle of reportage as absolving TNL from any duty of verification in respect of the matters alleged in the article.
+He has, however, relied upon the decision of the House of Lords in Jameel (Mohammed) v Wall Street Journal Europe Sprl [2006] UKHL 44; [2007] 1 AC 359 as demonstrating that TNLs duty of verification did not extend to verifying that the allegations made against Sergeant Flood were well founded.
+When I come to consider Jameel I shall suggest that, on analysis, an approach similar to reportage was applied.
+It will be necessary to examine whether such an approach can properly be applied in a case such as the present.
+The next occasion on which the Court of Appeal considered Reynolds privilege was Loutchansky v Times Newspapers Ltd (Nos 2 5) [2001] EWCA Civ 1805, [2002] QB 783.
+I shall refer to the defendant as the Times, to avoid any confusion with the present case.
+The publication in that case reported in detail allegations made against the claimant of criminal activities including money laundering on a vast scale.
+The Times invoked Reynolds privilege.
+The judgment of the Court of Appeal set out in a short passage at para 10 the matters that the Times relied upon to demonstrate the exercise of responsible journalism.
+In essence these were that the published allegations were based on reports from reliable, responsible and authoritative sources.
+At para 23 the Court held: At the end of the day the court has to ask itself the single question whether in all the circumstances the duty interest test or the right to know test has been satisfied so that qualified privilege attaches.
+The judgment went on to explore the nature of this test.
+At paras 32 35 the court explained why Reynolds privilege was in reality sui generis, a different jurisprudential creature from the traditional form of privilege from which it sprang.
+This was not accepted by all members of the House of Lords in Jameel, but I have no doubt that it was correct.
+Reynolds privilege arises not simply because of the circumstances in which the publication is made, although these can bear on the test of responsible journalism.
+Reynolds privilege arises because of the subject matter of the publication itself.
+Furthermore, it arises only where the test of responsible journalism is satisfied, and this requirement leaves little or no room for separate consideration of malice.
+The court went on at para 36 to say this about the interest/duty test: The interest is that of the public in a modern democracy in free expression and, more particularly, in the promotion of a free and vigorous press to keep the public informed.
+The vital importance of this interest has been identified and emphasised time and again in recent cases and needs no restatement here.
+The corresponding duty on the journalist (and equally his editor) is to play his proper role in discharging that function.
+His task is to behave as a responsible journalist.
+He can have no duty to publish unless he is acting responsibly any more than the public has an interest in reading whatever may be published irresponsibly.
+That is why in this class of case the question whether the publisher has behaved responsibly is necessarily and intimately bound up with the question whether the defence of qualified privilege arises.
+Unless the publisher is acting responsibly privilege cannot arise.
+This passage did not attempt to define the criteria governing whether it is in the public interest that a particular matter should be published to the world at large, so that the journalist has a duty to publish it.
+The CA rejected, however, the test applied by the judge of whether the publisher would be open to legitimate criticism if he failed to publish the information in question, holding that such a test was too stringent see paras 46 49.
+I come now to the case of Jameel [2007] 1 AC 359, in which the House of Lords subjected Reynolds privilege to a searching analysis.
+The defendant (the Journal) published an article that asserted that at the request of the United States the central bank of Saudi Arabia was monitoring certain bank accounts to prevent them from being used, wittingly or unwittingly, for channelling funds to terrorist organisations.
+The article included a number of names that were alleged to be on the list, which I shall call the black list, including that of the claimants trading group.
+The claimants succeeded at first instance.
+The jury found that the article defamed the claimants, presumably concluding that the article suggested that there were some grounds for suspecting that the claimants might be involved in funnelling funds to terrorists.
+The Journals claim to Reynolds privilege was rejected by both the trial judge and the Court of Appeal.
+The House of Lords reversed those decisions.
+The reasons why the House considered that reporting not only the existence of the black list but the names on it was in the public interest appears most clearly from the speeches of Lord Hoffmann at para 49, Lord Scott of Foscote at para 142 and Baroness Hale of Richmond at para 148.
+The main thrust of the story was that Saudi Arabia was co operating with the United States in the fight against terrorism.
+This was evidenced by the existence of the black list.
+This was a matter of high public interest.
+Publication of the names on the black list was justified because this gave credibility to the story, per Lord Scott, or because without the names the impact of the story would have been much reduced, per Lady Hale.
+Lord Bingham at paras 34 35 seems to have viewed the publication of the names as peripheral to the thrust of the article, which was of great public interest.
+Lord Hoffmann at paras 51 52 held that the article as a whole was in the public interest and the inclusion of the names was an important part of the story as it showed that Saudi cooperation extended to the heartland of the Saudi business world.
+Lord Hope held at para 111 that the question of whether the publication was privileged had to be judged in the context of the article read as a whole.
+As to the formulation of the test of public interest, different opinions were expressed.
+Lord Bingham at para 30 referred, with approval, to the adoption by Lord Nicholls in Reynolds of the duty interest test or the simpler test of whether the public was entitled to know the particular information.
+Lord Hoffmann at para 50 said that he did not find it helpful to apply the classic test of whether there was a duty to communicate the information and an interest in receiving it.
+These requirements should be taken as read where the publication was in the public interest.
+Lord Hope at para 107 commented that the duty interest test, based on the publics right to know, which lies at the heart of the matter, maintains the essential element of objectivity.
+Lord Scott at paras 130 and 135, like Lord Bingham, endorsed Lord Nicholls adaption of the duty/interest test.
+Lady Hale at para 146 observed that the Reynolds defence sprang from the general obligation of the press, media and other publishers to communicate important information upon matters of general public interest and the general right of the public to receive such information.
+She added at para 147 that there must be some real public interest in having this information in the public domain.
+I doubt if this formulation could be bettered.
+I turn now to consider how the House of Lords dealt with the question of verification.
+The article contained two material assertions.
+The first was one of fact that the claimants name was on the black list.
+The second was the implied assertion that, because of this, there were grounds for suspecting that the claimants might be wittingly or unwittingly involved in funnelling funds to terrorists.
+That latter assertion was on the basis that the United States authorities must have told the central bank of Saudi Arabia that there were such grounds.
+The House of Lords considered it relevant to the test of responsible journalism that the journalists should have sought to verify the first, factual, assertion see Lord Bingham at para 35, Lord Hoffmann, at great length, at paras 59 to 78, Lord Hope at para 110, Lord Scott at para 139 and Lady Hale at para 149.
+It is significant that no one considered that the Journal was under any duty to attempt to check the truth of the implied, defamatory, assertion, namely that there were grounds for suspecting that the claimants might be involved in funnelling funds to terrorists.
+Thus, on analysis, the Reynolds privilege in Jameel had strong similarities with reportage.
+The article reported facts that had defamatory implications.
+Privilege protected the publishers from being responsible for those implications and they were under no duty to seek to verify whether the implications were true.
+The balancing act and human rights
+Reynolds privilege is not reserved for the media, but it is the media who are most likely to take advantage of it, for it is usually the media that publish to the world at large.
+The privilege has enlarged the protection enjoyed by the media against liability in defamation.
+The decisions to which I have referred contain frequent emphasis on the importance of freedom of speech and, in particular, the freedom of the press.
+That importance has been repeatedly emphasised by the European Court of Human Rights when considering article 10 of the Convention.
+There is, however, a conflict between article 10 and article 8, and the Strasbourg Court has recently recognised that reputation falls within the ambit of the protection afforded by article 8 see Cumpana and Mazare v Romania (2004) 41 EHRR 200 (GC) at para 91 and Pfeifer v Austria (2007) 48 EHRR 175 at paras 33 and 35.
+In Reynolds Lord Nicholls at p 205 described adjudicating on a claim to Reynolds privilege as a balancing operation.
+It is indeed.
+The importance of the public interest in receiving the relevant information has to be weighed against the public interest in preventing the dissemination of defamatory allegations, with the injury that this causes to the reputation of the person defamed.
+There is a danger in making an exact comparison between this balancing exercise and other situations where article 8 rights have to be balanced against article 10 rights.
+Before the development of Reynolds privilege, the law of defamation, as developed by Parliament and the courts, already sought to strike a balance between freedom of expression and the protection of reputation.
+Thus a fair and accurate report of court proceedings is absolutely privileged.
+Publication is permitted even though this may involve publishing allegations that are clearly defamatory.
+The balance in respect of the reporting of such proceedings is heavily weighted in favour of freedom of speech.
+The public interest in favour of publication is firmly established.
+The judge has, however, jurisdiction to make an anonymity order, thereby tilting the balance back.
+Decisions in relation to the exercise of this power cannot be automatically applied to a situation where the publication of defamatory allegations has no statutory protection.
+In the former case one starts with a presumption in favour of protected publication; in the latter one starts with a presumption against it.
+There is thus a need for care when applying to the law of defamation decisions on the tension between article 8 and article 10 in other contexts.
+The fact remains, however, that the creation of Reynolds privilege reflected a recognition on the part of the House of Lords that the existing law of defamation did not cater adequately for the importance of the article 10 right of freedom of expression.
+Their Lordships had well in mind the fact that Convention rights were about to be introduced into our domestic law as a consequence of the Human Rights Act 1998.
+In developing the common law the courts as public authorities are obliged to have regard to the requirements of the Convention.
+Article 10.2 provides that the right of freedom of expression may be subject to restrictions for the protection of the reputation or rights of others and the Strasbourg Court has had to address the tension between articles 8 and 10 in the context of the publication of statements by the press that prove to be defamatory.
+The Court has been provided with a certified translation of the recent decision of the Strasbourg Court in Polanco Torres and Movilla Polanco v Spain (Application No 34147/06), Ruling of 21 September 2010, in which this tension arose.
+The Spanish Newspaper El Mundo had published an article defamatory of the petitioners that was largely founded on computer disks of company accounts that had been authenticated by an accountant who had been dismissed by the company.
+The Spanish Constitutional Court had applied a relevant principle of Spanish law described as due diligence, namely that if such publication is to be protected the journalist responsible for it must have taken effective steps to verify the published information.
+The Strasbourg Court at para 43 identified as relevant matters when considering restrictions on freedom of expression under article 10 necessary to protect the reputation of others the degree of defamation involved and the question of knowing at what point the media might reasonably consider sources as credible for the allegations.
+The latter had to be considered from the viewpoint of the journalists at the time and not with the benefit of hindsight.
+The Strasbourg Court upheld the finding of the Spanish Constitutional Court that the requirement of due diligence had been satisfied.
+The meaning issue
+Reynolds privilege exists where the public interest justifies publication notwithstanding that this carries the risk of defaming an individual who will have no remedy.
+This requires a balance to be struck between the desirability that the public should receive the information in question and the potential harm that may be caused if the individual is defamed.
+In Reynolds at pp 200 201 Lord Nicholls dwelt at some length both on the importance of freedom of expression and on the importance of the protection of reputation.
+As to the latter, he rightly observed that it is not simply the individual but also society that has an interest in ensuring that a reputation, and particularly the reputation of a public figure, is not falsely besmirched.
+Lord Nicholls at p 205 commented that the more serious the charge, the more the public is misinformed and the individual harmed, if the allegation is not true.
+But, turning the coin over, the more serious the allegation the greater is likely to be the public interest in the fact that it may be true.
+Either way, it may be a critical matter in striking the right balance.
+It is commonplace, and sensible, for a claim to Reynolds privilege to be determined as a preliminary issue.
+This can, however, raise a practical problem.
+In order to perform the balancing act to which I have just referred it is necessary to determine the meaning of the article that has been published.
+Furthermore, it is not possible to consider steps taken by way of verification without first deciding what it was that needed to be verified.
+This also can raise a question as to the meaning of the publication.
+Where there is an issue as to meaning, this is normally a matter for the jury, and in theory there is only one true meaning see Gatley at para 3.15.
+How then is the judge to approach the meaning of an article when considering a claim to Reynolds privilege as a preliminary issue? It seems to me that the sensible way of avoiding this difficulty where there is a serious issue of Reynolds privilege will usually be for the parties to agree to trial by judge alone.
+It will then be open to the judge to resolve for himself any issue that arises in relation to the meaning of the words published.
+That course was not adopted in this case but the parties have, by their pleadings, effectively agreed that the meaning of the article lies on the spectrum that spans, at one extreme, that there were strong grounds for believing that Sergeant Flood had abused his position as a police officer by taking bribes and, at the other extreme, that there were grounds which objectively justified a police investigation into whether Sergeant Flood had acted in this way.
+Where there is a range of meanings that a publication is capable of bearing, what approach should be adopted when considering whether the journalist acted responsibly in relation to it? In Bonnick v Morris [2002] UKPC 31; [2003] 1 AC 300, Lord Nicholls, when giving the advice of the Judicial Committee of the Privy Council on an appeal from Jamaica, held that the single meaning rule should not be applied when considering a claim to Reynolds privilege.
+He continued at para 25 to say this: Where questions of defamation may arise ambiguity is best avoided as much as possible.
+It should not be a screen behind which a journalist is willing to wound, and yet afraid to strike.
+In the normal course a responsible journalist can be expected to perceive the meaning an ordinary, reasonable reader is likely to give to his article.
+Moreover, even if the words are highly susceptible of another meaning, a responsible journalist will not disregard a defamatory meaning which is obviously one possible meaning of the article in question.
+Questions of degree arise here.
+The more obvious the defamatory meaning, and the more serious the defamation, the less weight will a court attach to other possible meanings when considering the conduct to be expected of a responsible journalist in the circumstances.
+In Bonnick the Privy Council held the publishers to be protected by Reynolds privilege in circumstances where the journalist responsible for the publication had given evidence that he had not appreciated that the article that he had published bore the defamatory meaning found by the jury.
+The Board held that a responsible journalist might well not have appreciated that the article bore that defamatory meaning.
+While I find the result reached in Bonnick surprising, the approach to the test of responsible journalism adopted by the Board makes sound sense.
+When deciding whether to publish, and when attempting to verify the content of the publication, the responsible journalist should have regard to the full range of meanings that a reasonable reader might attribute to the publication.
+I do not know whether this was the reason why counsel agreed that it was unnecessary to choose between the meaning pleaded by Sergeant Flood and that pleaded by TNL, but it is one reason why I believe that their agreement was correct.
+It is for the judge to rule on a claim to Reynolds privilege, just as it is for the judge to rule on the range of meanings that a publication is capable of bearing.
+The judges conclusions as to the latter will inform his judgment as to whether the defendant acted responsibly in publishing the article.
+TNL have not, in this case, sought to argue that the Article is not capable of bearing one or other of the Chase level 2 meanings that I have quoted in para 9.
+A responsible journalist would have appreciated that the article might be read, by some readers at least, as indicating that there were strong grounds for suspecting that Sergeant Flood had been guilty of corruptly selling sensitive information to the ISC.
+Others might read it as alleging no more than the meaning asserted by TNL.
+The claim to Reynolds privilege must be assessed having regard to this range of meanings.
+The public interest issue
+Both Tugendhat J and the Court of Appeal considered that the subject matter of the article was of sufficient public interest to render publication of it justified in the public interest provided that the test of responsible journalism was satisfied.
+This was in the context of a concession by Mr Price that the report of the statement of the Metropolitan Police reported at para 7 of the Article was subject to statutory qualified privilege pursuant to section 15(1) of the Defamation Act 1996 and that Sergeant Flood could not have complained had TNL simply reported that he was the officer under investigation.
+That latter concession Mr Price withdrew, without objection from Mr Rampton.
+Mr Prices primary grounds for complaint were not, however, that TNL had named Sergeant Flood as the person who was the subject of the police investigation, but that they had published the details of the supporting facts that had been placed before the police in support of the accusation that the police were investigating.
+It follows that two matters have to be considered in relation to public interest. (i) Was it in the public interest that the details of the supporting facts should be published and (ii) was it in the public interest that Sergeant Flood should be named? Was it in the public interest that the supporting facts should be published?
+Mr Price submitted that, as a matter of principle, publication in the mass media of complaints, charges or denunciations, made under cover of anonymity to the police, and of the allegedly supporting evidence, before the subject of them had had an opportunity of answering the charges and before the investigation had taken place, would in many cases be contrary to the public interest and oppressive to the subject.
+He observed that accusations are often made to the police maliciously or misguidedly.
+The police may, none the less, be under a duty to investigate them.
+It cannot normally be in the public interest that, if the informant then informs the press of the allegations made to the police, the press should publish the allegations.
+Publication would be likely, in such circumstances, to be unfairly prejudicial to the subject of the allegations.
+Even if given the chance to respond to them, it would not be reasonable to expect him to do so.
+The protections normally afforded to a person charged with a criminal offence would be by passed.
+Mr Price conceded that there could be public interest in publishing reports of misconduct against a person that had been sufficiently verified by the press, but contended that they had not been in this case.
+This argument exemplified the overlap between the test of public interest in publication and the test of responsible journalism.
+Mr Price sought to support his submission that privilege should not attach to reports of allegations of misconduct by reference to two authorities of some antiquity.
+The first was Purcell v Sowler (1877) 2 CPD 215.
+In that case the defendant newspaper unsuccessfully claimed privilege for reporting charges of neglect made against the plaintiff, the medical officer of a union workhouse, which were made at a public meeting of the board of guardians for a local poor law union.
+The plaintiff was not present, so had no opportunity to respond to the charges.
+Mellish LJ, giving the leading judgment, plainly considered this significant.
+He observed at p 221: there is no reason why the charges should be made public before the person charged has been told of the charges, and has had the opportunity of meeting themSuch a communication as the present ought to be confined in the first instance to those whose duty it is to investigate the charges.
+The other case relied on by Mr Price was De Buse v McCarthy [1942] 1KB 156.
+There the publication was of an agenda of a town council committee which was posted in a number of public places.
+The agenda included a report that inferred that the four plaintiffs, who were council employees, had been involved in thefts of petrol.
+The defendants argued that the publication was privileged because they had a duty to communicate the matters in the report to the ratepayers and the ratepayers had an interest in receiving the communication.
+The defence failed because the Court of Appeal did not accept either proposition.
+Tugendhat J discounted these decisions in part on the ground that they had been overtaken by Reynolds and Jameel.
+The Master of the Rolls at para 38 remarked that Purcell was a decision on its facts.
+He went on at para 40 to remark that it was rather dangerous to rely on cases of such antiquity when dealing with fundamental issues of freedom of speech and respect for private life, the more so as in Reynolds the House of Lords had set out to redress the balance between the two in favour of greater freedom to publish matters of genuine public interest.
+I agree with those comments, and indeed Mr Price accepted that the law had moved on since those case were decided.
+He submitted, however, that they remained of value inasmuch as they contained statements that privilege should not be accorded to publication of allegations that had not been investigated or tried.
+Tugendhat J observed at para 131 that there was no dispute that the conduct of police officers in general, and police corruption in particular, was a matter of interest to the community.
+At para 215 he expressed the view that the real issue was whether the journalism was responsible in the sense of whether the publication was fair to the respondent.
+Was it a proportionate interference with his right to reputation given the legitimate aim in pursuit of which the publication was made? The legitimate aim was primarily the publication of a story that was of high public interest.
+At para 183 Tugendhat J dismissed the suggestion that there was a general rule that it was against the public interest for the media to engage in investigative journalism on a matter which was, or which, in the view of the media, should be the subject of police investigation.
+The law provided its own sanctions for publications that interfered with the course of justice.
+So far as concerned Mr Prices submission that it was not in the public interest to publish allegations that had not been verified, Tugendhat J considered that this contention could not stand with the decision in Jameel, where no attempt had been made to verify the existence of grounds for suspecting that the claimants had been a conduit for terrorist funds see paras 135, 153 and 181 of his judgment.
+I shall revert to this matter when I come to deal with verification.
+Lord Neuberger held at paras 37 and 39 that there was no reason to exclude allegations made to the police from the ambit of potential Reynolds privilege.
+Whether the allegations were made to the police, to a third party or directly to the journalist, and even if they amounted to allegations of criminal conduct, Reynolds privilege could, in principle, attach to them.
+Lord Nicholls in Reynolds had made it clear that publication of allegations of wrongdoing might or might not attract privilege, depending on all the circumstances of the particular case.
+So far as the publication of the supporting facts was concerned, Lord Neuberger at paras 57 to 59 accepted the following submission made by Mr Price: While allegations of police corruption are of public interest, the mere fact that particular allegations are being investigated by the police themselves should not enable the media to publish details of the allegations, without fear of being liable for defamation, unless (a) the publication of the allegations is in the public interest, and (b) the journalist responsible took reasonable steps to check on their accuracy.
+Dealing with those two criteria, Lord Neuberger at paras 68 and 69 accepted that the details of the allegations were of considerable public concern.
+He went on, however, to find that reasonable steps had not been taken to check on their accuracy.
+It was essentially on that basis that he reversed the decision of Tugendhat J.
+I shall consider his reasoning when I deal with verification.
+Moore Bick LJ at para 100 remarked that as the subject matter of the article was police corruption, there could be no doubt that it was a matter of public interest.
+He went on to consider whether this applied to the details of the allegations and the naming of DS Flood, and concluded that it did.
+He held that the allegations were the whole story.
+If the inclusion of the defamatory material was justifiable, so was the story, and vice versa.
+At para 102 he observed that there was no public interest in knowing the mere fact that an ISC insider had made allegations against a member of the Metropolitan Police, but there was a public interest in knowing the facts, insofar as the allegations were true.
+For this reason it was necessary to consider, in particular, what was the source of the journalists information and what steps were taken to verify it.
+At the end of his judgment he expressed agreement with the Master of the Rolls that the judge had reached the wrong conclusion because he failed to have sufficient regard to the serious nature of the allegations against Sergeant Flood and the journalists failure to take any significant steps to verify their accuracy, and because he misunderstood the effect of Jameel.
+Once again, failure to verify was at the heart of the refusal to accord TNL the protection of Reynolds privilege.
+But it is right that I should quote in full para 104 of the Lord Justices judgment, which endorsed the submissions of Mr Price that I have summarised at para 56 above: In my view responsible journalism requires a recognition of the importance of ensuring that persons against whom serious allegations of crime or professional misconduct are made are not forced to respond to them before an investigation has been properly carried out and charges have been made.
+It is very easy for allegations of impropriety or criminal conduct to be made, to the police, professional bodies and others who may have a duty to investigate their truth, out of malice, an excess of zeal or simple misunderstanding.
+If the details of such allegations are made public, they are capable of causing a great deal of harm to the individual concerned, since many people are inclined to assume that there is no smoke without fire.
+Moreover, there is a serious risk that once the allegations have been published the person against whom they are made will feel obliged to respond to them publicly, thereby depriving himself of the safeguard of the ordinary process and risking a measure of trial by press.
+I am not dealing here with the publication of the simple fact that a complaint has been made against a person, without any details being given, or with the publication of the fact that a person has been charged with a criminal offence.
+Such information is likely to be a matter of public interest.
+It is routinely made public in statements issued by the police and when that occurs a report of the statement is protected under section 15 of the Defamation Act 1996.
+However, it is unnecessary and inappropriate for such reports to set out the details of the allegations made against the person charged; the description of the charge itself is sufficient to inform the public of what it has an interest in knowing.
+The alternative is trial by press without proper safeguards, which is clearly not in the public interest.
+Moses LJ held that it was in the public interest that the public should learn that the police were pursuing an investigation of corruption against a fellow police officer.
+This was because it was important that public trust in the police should be upheld.
+He went on to hold, however, that there was not the same public interest in publication of the supporting facts on which the allegation against the respondent was based.
+This was because they merely added credence to the grounds on which the investigation was pursued.
+They invited the reader to think that there might be something in them notwithstanding that they had not been investigated let alone substantiated para 116.
+Once again, emphasis was placed on failure to verify, for at para 118 the Lord Justice summarised his conclusions by saying: I agree that publication without investigation of the details on which the allegation was based was not in the public interest. (My emphasis)
+Conclusions on publication of the details of the accusation
+I have set out in full para 104 of the judgment of Moore Bick LJ because he identifies matters that will often weigh conclusively against publication of details that appear to support an accusation that has been made against an individual of criminal conduct that is being investigated by the police.
+It may be that the details are, if true, of some public interest, but, the responsible journalist must weigh that fact against the prejudice that may be caused to the suspect that Moore Bick LJ has identified.
+At the end of the day, however, each case will turn on its own facts and the overriding test is that of responsible journalism.
+I have reached the conclusion that, subject to the issue of verification, it was in the public interest that both the accusation and most of the facts that supported it should be published.
+The story, if true, was of high public interest.
+That interest lay not merely in the fact of police corruption, but in the nature of that corruption.
+The object of the Extradition Unit of the Metropolitan Police was to assist in the due process of extradition.
+The accusation was that there were grounds for suspecting the respondent of selling sensitive information about extradition for the benefit of Russian oligarchs who might be subject to it.
+What was suggested was not merely a corrupt breach of confidentiality, but the betrayal of the very object of his employment by the police.
+The story told was a story of high public interest and, as Moore Bick LJ remarked, the allegations were the whole story.
+Tugendhat J accepted evidence given by Michael Gillard to the effect that he had doubts as to whether the police were exercising due diligence in investigating the information provided to them by the ISC Insider.
+He explained that one motive in publishing the Article was to ensure that the police investigation was carried out promptly.
+This finding has not been directly challenged, albeit that some of Mr Prices oral submissions verged upon such a challenge and Moore Bick LJ at para 106 said that he was unable to accept this.
+The judges finding was based upon his assessment of the oral evidence given by Michael Gillard see para 38 and there is no valid basis for challenging it.
+Lord Neuberger observed at para 54 that the journalists motives for publishing were of little relevance.
+In this instance I do not agree.
+Tugendhat J considered that Michael Gillards motive was relevant both because it constituted a legitimate aim of publishing para 200, and because it was in the public interest to ensure that the investigation was carried out promptly para 216.
+I consider that there is force in these points.
+Michael Gillard had good reason to doubt whether the investigation was being pursued with diligence.
+In fact, there is no evidence that there had been any investigation before the police reacted to TNLs intervention on 26 April.
+Michael Gillards concern, coupled with the high public interest in the story, justified its publication.
+There was, in the words of Lady Hale in Jameel at para 147, real public interest in having this information in the public domain.
+I have said that it was in the public interest that most of the facts that supported the story should be published because I have yet to deal with the publication of the Sergeant Floods name, coupled with the codeword Noah, which identified for readers of the Article the officer suspected of corruption.
+I now turn to the question of whether the publication of that matter also was in the public interest.
+Was it in the public interest that the respondents name should be published?
+Michael Gillard, who wrote the Article, gave the following reasons for naming the respondent: a.
+The Met had confirmed that he was under investigation; b. Other possible witnesses might not have come forward with information had I not named him; c.
+I suspected that the DPS was not properly investigating the matter and believed that if the matter was brought into the open it might help to ensure that they did so; d. The claimant was part of a reasonably small squad and if he was not named it would leave the newspaper open to complaints from others in the squad that the article referred to them; e. The claimant was already aware of the investigation, so was his family and colleagues in the extradition squad.
+Tugendhat J at para 218 held that the naming of Sergeant Flood was within the range of judgments open to TNL, partly because it gave the story the interest referred to by Lord Steyn in In re S (A Child) (Identification: Restrictions on Publication) [2004] UKHL 47; [2005] 1 AC 593, para 34, but more importantly because not naming the claimant would not have saved his reputation entirely.
+Rather it would have spread the damage to reputation to all the officers in the extradition unit.
+The issue in In re S was whether reporting restrictions should be imposed in respect of the name of a defendant in a murder trial in order to protect the privacy of her son.
+In para 46 above I have warned of the danger of applying directly to defamatory publications cases dealing with restrictions on publication in other contexts.
+Mr Rampton argued that naming the respondent was responsible journalism because, had he not been named, the Article would have lacked interest.
+Had it been possible to conceal Sergeant Floods identity by removing his name from the Article, together with the reference to Noah, but leaving it otherwise intact, I would not have accepted this argument.
+Sergeant Flood was not a public figure.
+Publication of his name can have meant nothing to most readers, and any interest that it added to the article would not have outweighed the damage that it caused to his reputation.
+Furthermore, adding interest to the Article was not a reason advanced by Mr Michael Gillard for naming the respondent.
+On the facts of this case, however, it was impossible to publish the details of the Article without disclosing to those close to the respondent that he was the officer to whom it related.
+He would be identified as such by the other members of the Extradition Unit and anyone else who knew that he had been removed from that unit.
+There is also force in the point that, if he were not named, other members of the Extradition Unit might come under suspicion.
+Having regard to these matters, I have concluded that naming the respondent was not, of itself, in conflict with the test of responsible journalism or with the public interest.
+The verification issue: the law
+Not all the items in Lord Nicholls list in Reynolds were intended to be requirements of responsible journalism in every case.
+The first question is whether, on the facts of this case, the requirements of responsible journalism included a duty of verification and, if so, the nature of that duty.
+I should insert a word of warning at the outset.
+Each case turns on its own facts.
+I use the phrase duty of verification as shorthand for a requirement to verify in the circumstances of this case.
+My comments should not be treated as laying down principles to be applied in cases of different facts.
+Mr Price alleged that TNL should have verified the accusation against Sergeant Flood reported in the Article.
+Tugendhat J concluded that Jameel was incompatible with such an obligation.
+He considered that Jameel showed that if it was in the public interest to publish the fact of an accusation, there was no obligation to verify the grounds of the allegation.
+Moore Bick LJ commented at para 95 that, if the judge were right, there was very little distinction to be drawn between the defence of reportage and the defence of responsible journalism in relation to the reporting of statements made by third parties.
+The judge was not right.
+Reportage is a special, and relatively rare, form of Reynolds privilege.
+It arises where it is not the content of a reported allegation that is of public interest, but the fact that the allegation has been made.
+It protects the publisher if he has taken proper steps to verify the making of the allegation and provided that he does not adopt it.
+Jameel was analogous to reportage because it was the fact that there were names of substantial Saudi Arabian companies on the black list that was of public interest, rather than the possibility that there might be good reason for the particular names to be listed.
+Just as in the case of reportage, the publishers did not need to verify the aspect of the publication that was defamatory.
+The position is quite different where the public interest in the allegation that is reported lies in its content.
+In such a case the public interest in learning of the allegation lies in the fact that it is, or may be, true.
+It is in this situation that the responsible journalist must give consideration to the likelihood that the allegation is true.
+Reynolds privilege absolves the publisher from the need to justify his defamatory publication, but the privilege will normally only be earned where the publisher has taken reasonable steps to satisfy himself that the allegation is true before he publishes it.
+Lord Hoffmann put his finger on this distinction in Jameel at para 62, when he said In most cases the Reynolds defence will not get off the ground unless the journalist honestly and reasonably believed that the statement was true, but there are cases (reportage) in which the public interest lies simply in the fact that the statement was made, when it may be clear that the publisher does not subscribe to any belief in its truth.
+Thus verification involves both a subjective and an objective element.
+The responsible journalist must satisfy himself that the allegation that he publishes is true.
+And his belief in its truth must be the result of a reasonable investigation and must be a reasonable belief to hold.
+What then does the responsible journalist have to verify in a case such as this, and what does he have to do to discharge that obligation? If this were a Chase level 1 case he would have to satisfy himself, on reasonable grounds, that the respondent had in fact been guilty of corruption.
+His defence would not get off the ground unless he reasonably believed in the respondents guilt.
+This is not, however, a Chase level 1 case, see my discussion of the meaning of the Article at paras 48 to 50 above.
+What did the duty of verification involve? There is authority at the level of the Court of Appeal that to justify a Chase level 2 allegation a defendant has to adduce evidence of primary facts that constituted reasonable grounds for the suspicion alleged.
+These will normally relate to the conduct of the claimant.
+Allegations made by others cannot be relied upon.
+The same may be true of a Chase level 3 allegation.
+The discussion in Gatley at para 11.6 and the three cases there cited support these principles.
+No such hard and fast principles can be applied when considering verification for the purpose of Reynolds privilege.
+They would impose too strict a fetter on freedom of expression.
+Where a journalist alleges that there are grounds for suspecting that a person has been guilty of misconduct, the responsible journalist should satisfy himself that such grounds exist, but this does not necessarily require that he should know what those grounds are.
+Their existence can be based on information from reliable sources, or inferred from the fact of a police investigation in circumstances where such inference is reasonable.
+I derive support for this conclusion from the fact that in Jameel the House of Lords accepted that appropriate steps had been taken to verify the fact that the claimants were named on the black list where there had been reliance upon reliable sources, even though the defendants were not prepared to name them.
+The present case has the following particular features.
+The Article did not simply consist of the Flood could be guilty accusation.
+It combined this with the Flood is guilty accusation and the supporting facts.
+Although the latter, when taken on their own, did not amount to strong grounds for suspecting Sergeant Flood of corruption, their incorporation into the Article both provided detail of the nature of the corruption of which Sergeant Flood was suspected and, as Moses LJ observed, added credence to the case being investigated.
+It was these features that made the Article capable of bearing the first of the two Chase level 2 meanings alleged by Sergeant Flood.
+Before publishing this Article responsible journalism required that the journalists should be reasonably satisfied both that the supporting facts were true and that there was a serious possibility that Sergeant Flood had been guilty of the corruption of which he was suspected.
+The latter requirement reflects the range of meanings that the Article was capable of conveying to its readers.
+The verification issue: the facts
+When considering the evidence, the trial judge made findings that were not challenged and that were highly relevant to the question of verification.
+The challenge made by Mr Rampton to the decision of the Court of Appeal is founded on an assertion that the Court of Appeal made an erroneous assessment of the relevant facts and failed to have regard to some of the findings of the trial judge.
+I propose first to summarise the relevant observations of the Court of Appeal before considering, in the light of these, the relevant findings of Tugendhat J.
+When dealing with verification, Lord Neuberger focussed on what he described as the Allegations.
+These he had, in para 25, identified as the matters alleged in paras 5, 8, 15 and 16 of the Article, but to these he subsequently added paras 10 and 19.
+The relevant parts of his judgment appear in the following paragraphs: 68.
+The Allegations were serious: accusing a fairly senior police officer of what was not inaccurately described in DS Flood 's pleaded case as an appalling breach of duty and betrayal of trust and . a very serious criminal offence is self evidently a very grave charge.
+Being identified as the officer the subject of the investigation described in paragraph [7] of the article in The Times may, on its own, have been pretty damaging to DS Flood (although I have doubts as to whether The Times would have published on that limited basis).
+However, by going further and publishing the allegations being made against him, with the details given in para [5], coupled with the references to Mr Berezovsky and others in paras [10], [15], [16] and [19], the journalists must have realised would be very likely to result in the article constituting a story with a far greater impact, and far greater effect on DS Flood 's reputation.
+As Lord Nicholls said [2001] 2 AC 127, 205 the more serious the charge, the more the public is misinformed and the individual harmed. 69.
+The nature of the information contained in the Allegations is of considerable public concern in that it involves police corruption, but the weight to be given to that point is very severely reduced by the fact that the information is contained in the Allegations, which, as the journalists knew, were largely unchecked and unsupported.
+That factor is particularly important once one appreciates that the main content of the Article was the Allegations, coupled with the identification of DS Flood, and the link with named Russian migrs. 73.
+When one turns to the steps taken to verify the information, the journalists do not seem to have done much to satisfy themselves that the Allegations were true.
+When they were published in the article, they were, as the passages just quoted from the judgment show, and as the journalists must have appreciated, no more than unsubstantiated unchecked accusations, from an unknown source, coupled with speculation.
+The only written evidence available to the journalists did not identify any police officer, let alone DS Flood, as the recipient of money from ISC at all, let alone for providing confidential information.
+Moore Bick LJ agreed.
+He accepted Mr Prices submission that the journalists had taken few, if any, steps to verify the truth of the allegations themselves.
+Moreover the status of the information was no more than that of an uninvestigated and unsubstantiated allegation.
+The dossier, which the journalists had seen, did not identify the respondent as Noah nor did it specifically support the allegation that any officer had been the recipient of payments from ISC.
+As I explained at para 68, Moses LJ also attached importance to the failure to verify what, at para 115, he had described as the details of the foundation of the allegation.
+At para 116 he commented that these exposed the respondent to the suggestion that unchecked and unsubstantiated allegations from an unknown source might be well founded.
+Mr Rampton submitted that the reference by both Lord Neuberger and Moses LJ to allegations from an unknown source demonstrated a failure to appreciate the important fact that the ISC Insider was known to the journalists.
+I do not believe that Lord Neuberger or Moses LJ had failed to appreciate this fact.
+In para 11 of his judgment Lord Neuberger had recorded meetings between the ISC Insider and both Mr Gillard Senior and the Metropolitan Police.
+Unknown should, I think, probably be read as undisclosed.
+I have drawn attention to the importance that all three members of the Court of Appeal attached to the fact that the supporting details of the allegations made against Sergeant Flood were unverified.
+I consider that importance to have been misplaced.
+The supporting details were true.
+Nor, so far as I can see, did Mr Price contend that the journalists were at fault for failing to verify them.
+Tugendhat J held at para 204 that the fact that payments in cash were made to Noah was soundly based on the documents.
+He added that it had not been suggested that the journalists ought to have doubted the authenticity of these.
+It does not seem to have been any part of Sergeant Floods case that the journalists were at fault for failing to verify the supporting details.
+The case that Mr Price has consistently advanced in relation to verification is very different.
+In para 18 of his written case he submitted that no attempt worthy of the name had been made to verify what he described as the accusation.
+By the accusation I understood him to mean the accusation that Sergeant Flood had corruptly received bribes in exchange for confidential information.
+If so, he put his case too high.
+For the reasons set out in para 82 above responsible journalism required that the journalists should be reasonably satisfied that there was a serious possibility that Sergeant Flood had been guilty of corruption.
+The submissions in relation to the facts made by Mr Price were, however, equally applicable to this requirement.
+I turn to consider whether, contrary to the submission of Mr Price, that requirement was satisfied.
+Mr Prices complaint was that the journalists made no attempt to investigate the truth of the allegations made to the police by the ISC Insider.
+This complaint focussed not on the contents of the dossier provided by the ISC Insider to the police but upon the ISC Insiders statement that he believed that the payments recorded as having been made to Noah had been made to Sergeant Flood.
+Mr Prices submission was that responsible journalists would have discovered that this expressed belief had no foundation.
+Sergeant Flood gave evidence, which was unchallenged, that he had had no information that would have been of any value to ISC.
+In particular he had no information in relation to the attempt to extradite Mr Berezovsky or his application for asylum that was of value.
+The journalists shortcoming, according to Mr Price, was in failing to inquire whether there was any confidential information available to Sergeant Flood that he could have sold to ISC.
+Such inquiry would have disclosed that there was none and thus that the ISC Insiders expressed belief that Sergeant Flood was Noah was wholly without foundation.
+Instead, the journalists had based their Article on allegations made by the ISC Insider, notwithstanding, as they had acknowledged, that he had his own axe to grind.
+In answer to this submission, Mr Rampton relied on the implications that could reasonably be drawn from the actions of the police themselves.
+The police, he argued, were best placed to form a view as to whether there was any substance in the allegations made against Sergeant Flood.
+Their actions in not merely investigating the allegations but in obtaining and executing a search warrant were a basis upon which the journalists could properly conclude that the allegations made against Sergeant Flood were allegations of substance.
+The inferences that could properly be drawn from the police activity constituted one of the central issues at the trial.
+It was Sergeant Floods case that it was the journalists own intervention on 26 April that had resulted in the police activity, so that they could not treat this as adding weight to the allegations that they had made.
+With hindsight it is apparent that this was factually correct.
+It was Michael Gillards evidence, however, that he had believed that the police action was a response to the information that had been provided by the ISC Insider in February.
+I turn to examine this part of the story in a little more detail.
+On 28 April Mr Calvert and Michael Gillard had invited Mr Hunter to comment on the fact that the police were investigating allegations that he had made corrupt payments to Sergeant Flood.
+Solicitors for Mr Hunter, in an e mail on 2 May followed by a letter on 3 May to Mr Calvert, alleged that the only reason for the police investigation had been TNLs own enquiries on 26 April.
+This led Mr Calvert to contact the MPS Press Office to ask whether the police began their investigation following allegations received from TNL or whether the investigation was already ongoing.
+The Press Office replied that they could not expand on their press statement of 28 April (which was that reported in para 7 of the Article) and so were unable to answer this question.
+It now seems clear that, both when drafting the initial press notice and in replying to Mr Calvert on 3 May, the MPS Press Office was anxious not to disclose the fact that the police investigation had only just been commenced.
+No doubt the Press Office were apprehensive, with good reason, that the police might be exposed to press allegations of dragging their feet.
+Michael Gillard and Mr Calvert met with DCI Crump and two other officers concerned in the police investigation on 9 May. DCI Crump then confirmed that the police had received intelligence before the journalists communications with the Press Office, but that those communications had probably forced their hand.
+Having heard Michael Gillard give evidence, the judge made the following findings.
+By mid April Michael Gillard had formed the impression that the police were not investigating at all the information that they had received from the ISC Insider.
+After 27 April, however, he changed his mind.
+The MPS press notice of 28 April led him to believe that there was an ongoing investigation, which had started, or ought to have started in February.
+He did not believe the suggestion made by Mr Hunters solicitors that the investigation had been started by TNLs own inquiries.
+Those findings by the judge have not been challenged.
+The judge considered that the fact of the police investigation augmented the ground for suspicion that arose from the supporting facts published in the Article.
+He commented at para 191 that the police do not automatically investigate every allegation that is made to them.
+They decide what to investigate and what not to investigate.
+At para 203 he commented that while the basis for the allegations was weak, in that there was no evidence that the claimant was Noah or that any confidential information had been received by ISC, nevertheless as early as 9 May and up to the time of publication on 2 June the police had confirmed that they had sufficient evidence to obtain a search warrant and to carry out an investigation.
+I have considered whether it was reasonable for Michael Gillard to conclude that the police activity at the end of April and the beginning of May owed at least something to the information that had been provided to them by the ISC Insider.
+I have concluded that it was.
+It is remarkable that the DPS should have obtained and executed a search warrant in respect of Sergeant Floods home and office, and removed him from the Extradition Unit, on the strength only of the inquiries made by the journalists on 26 April.
+It was not unreasonable for the journalist to have assumed that this action was, at least in part, a response to information provided by the ISC Insider in February.
+The natural inference was that the DPS had concluded that the accusation made against Sergeant Flood might be well founded.
+The information provided by the ISC Insider, including that set out in the dossier, amounted to quite a strong circumstantial case against Sergeant Flood.
+Michael Gillard stated that he regarded it as significant that the dossier showed in the same period payments by Mr Berezovsky to ISC and payments by ISC to Noah and that during that period Mr Flood was working at the Extradition Unit.
+It was of course during that period that Russia was attempting to extradite Mr Berezovsky.
+The statements attributed to Mr Hunter, as recorded in Mr Gillard Seniors memorandum, while gossipy in character, none the less lent support to the possibility that a police officer who fitted the description of Sergeant Flood was in the pay of Mr Hunter.
+The known friendship between Sergeant Flood and Mr Hunter made this more credible.
+It is true that Michael Gillard accepted that the ISC Insider might have had an axe to grind in making his allegations, but they were not allegations that were lightly made.
+The ISC Insider went to considerable lengths to place his information before the police.
+I am not greatly impressed by Mr Prices submission that inquiries should have been made which would have showed that Sergeant Flood had no confidential information to sell.
+Mr Gillard Senior gave evidence that, in his experience the Russians were happy to corrupt government officials and that of his own experience and knowledge the Extradition Unit would have had information that would have been of interest.
+Michael Gillard gave evidence that from his knowledge of the specialist squads of the MPS Sergeant Flood was likely to have confidential information at his fingertips.
+He added that if there was no information that Sergeant Flood could have passed on to Mr Hunter he would have expected the police to dismiss the allegations as ill founded rather than remove Sergeant Flood from his post.
+Having regard to all these matters I consider that the journalists could reasonably conclude that Sergeant Flood was in a position to provide information that Mr Berezovsky would consider justified payments to him.
+Conclusion
+Michael Gillard does not seem to have been asked in terms whether he believed that there was a serious possibility that Sergeant Flood had been guilty of corruption.
+Tugendhat Js judgment, when read as a whole, leaves me in no doubt that had he been asked, he would have given an affirmative answer to this question.
+Indeed the inference that I draw from that judgment is that Michael Gillard considered that Sergeant Flood had probably been guilty of corruption.
+The case against the respondent was circumstantial, but I consider that the journalists, together with Mr Gillard senior, were justified in concluding that it was a strong circumstantial case.
+They accepted that it was probable that the sources had interests of their own but Mr Gillard had had to seek out the ISC insider, and had had difficulty in persuading him to divulge the relevant information.
+I find far fetched the suggestion that he might have deliberately set out to deceive the police and Mr Gillard.
+Although the judge considered, on the basis of Jameel, that responsible journalism did not require verification of the accusation made by the Article, his careful analysis of the evidence involved consideration of the evidential base of the allegations made in the Article.
+The judge concluded that the case against Sergeant Flood was not strong on the facts known to the journalists, but found it significant that the police appeared to have sufficient evidence to justify obtaining a search warrant and the other action that they took.
+There is a danger of using hindsight in a case such as this.
+My initial reaction on reading the facts of this case was that the journalists had been reasonably satisfied, on the basis both of the supporting facts and of the action of the police that there was a serious possibility that Sergeant Flood had been guilty of corruption.
+After a detailed analysis of the case I remain of that view.
+Contrary to the decision of the Court of Appeal, I consider that the requirements of responsible journalism were satisfied.
+I would allow this limb of the appeal.
+Post Script: The approach to the decision of the trial judge
+Before concluding this judgment I wish to comment on one matter of general importance raised by the Court of Appeal.
+Before that court TNL invoked the following statement of principle by Sir Anthony Clarke MR when giving the judgment of the Court of Appeal in Galloway v Telegraph Group Ltd [2006] EWCA Civ 17, [2006] EMLR 221, para 68 another case involving Reynolds privilege: The right to publish must however be balanced against the rights of the individual.
+That balance is a matter for the judge.
+It is not a matter for an appellate court.
+This court will not interfere with the judges conclusion after weighing all the circumstances in the balance unless he has erred in principle or reached a conclusion which is plainly wrong.
+The Court of Appeal had no need to comment on this statement, for the court concluded that Tugendhat J had erred in principle in misunderstanding the effect of Jameel and paying no heed to the question of verification.
+However, Lord Neuberger MR and Moore Bick LJ suggested that the statement in Galloway wrongly treated the balancing exercise required by a judge in a case such as this as being akin to the exercise of a discretion.
+Lord Neuberger, at para 46 drew a distinction between the exercise of a discretion and the value judgment or balancing exercise that was necessary on the basis of the facts found in a case such as this.
+He described the latter as raising an issue of law, as to which there was only one right answer.
+He went on, however, (in para 48) to comment on a statement of Lord Bingham in Jameel [2007] 1 AC 359 para 36: 48.
+I note that, at the end of his opinion in Jameels case, Lord Bingham referred to the fact that the House of Lords had not, like the judge and the jury, heard the witnesses and seen the case develop day after day, and the fact that the House had read no more than a small sample of the evidence.
+Accordingly, he described it as a large step for the House to decide for itself whether Reynolds privilege could be invoked in that case.
+It could be said to be an even larger step for an appellate court, which has not (and should not have) been taken through all the evidence, and which has not seen the witnesses and the development of the case over four days, to disagree with the trial judge's assessment, unless he has misunderstood the evidence, taken into account a factor he ought not to have taken into account, failed to take into account a factor he ought to have taken into account, or reached a conclusion no reasonable judge could have reached. 49.
+In my view, a decision in a case such as this does not involve the exercise of a discretion and cannot therefore be approached as the court suggested in Galloways case.
+Where a first instance court carries out a balancing exercise, the appeal process requires the appellate court to decide whether the judge was right or wrong, but it should bear in mind the advantage that the trial judge had in the ways described in Jameels case.
+Where the determination is a matter of balance and proportionality, it is, generally speaking, difficult for an appellant to establish that the judge has gone wrong.
+Save in the first sentence of para 49, in this passage Lord Neuberger did no more than recognise the advantage that the trial judge has over the Court of Appeal where a decision turns, in part, on evidence heard by the trial judge.
+The extent to which the trial judge is at an advantage over the Court of Appeal will depend on the circumstances of the particular case.
+The greater the advantage of the trial judge, the greater the weight to be attached to his decision and the more cogent must be the basis for finding that his decision was wrong.
+The passage cited from Galloway went further.
+It applied in the context of Reynolds privilege the same test that an appeal court should apply when considering an appeal against an exercise of discretion by a judge of first instance.
+A decision on Reynolds privilege does not involve the exercise of discretion.
+There are, none the less, a number of cases in other contexts, some at the highest level, where appellate courts have applied or endorsed a similar approach to that stated in the fourth sentence of the quotation from Galloway set out above, principally in cases where there is room for a legitimate difference of judicial opinion as to what the answer should be and where it will be impossible to say that one view is demonstrably wrong and the other demonstrably right: see eg George Mitchell (Chesterhall) Ltd v Finney Lock Seeds Ltd [1983] AC 803, 815H per Lord Bridge, Designers Guild Ltd v Russell Williams (Textiles) Ltd [2001] FSR 113, 122 per Lord Hoffmann approving words of Buxton LJ in Novowzian v Arks (No 2) [2000] FSR 363, 370 and Pro Sieben Media AG v Carlton UK Television Ltd [1999] 1 WLR 605, 612 3 per Walker LJ; see also British Fame v MacGregor (The MacGregor) [1945] AC 197 and Datec Electronics Holdings Ltd v United Parcels Service Ltd [2007] UKHL 23, [[2007] 1 WLR 1325, para 46.
+Context is all important.
+There is a spectrum, well identified in In re Grayan Building Services Ltd [1995] Ch 241, 254, where Hoffmann LJ stated that generally speaking, the vaguer a standard and the greater the number of factors which the court has to weigh up in deciding whether or not the standards [i.e. the relevant legal standards or test] have been met, the more reluctant an appellate court will be to interfere with the trial judges decision.
+How, and in particular whether within or outside this spectrum, an issue of Reynolds privilege should be addressed is a matter on which I would wish to hear oral argument in a context where it mattered before reaching any conclusion.
+We have heard no oral argument on such points.
+In these circumstances I do not consider that this Court should lay down any general principle as to the approach to be adopted by an appellate court to an issue of Reynolds privilege.
+The second limb of the appeal.
+The DPS report clearing Sergeant Flood was made, internally, on 2 December 2006.
+Its result was not communicated to TNL until 5 September 2007.
+On that date the Article still remained on the TNL website, and TNL neither removed it nor qualified it.
+In these circumstances, Tugendhat J held that the protection of Reynolds privilege did not extend beyond 5 September 2007.
+Before the Court of Appeal TNL appealed without success against that finding.
+They have appealed against it before this Court.
+Time did not permit us to hear argument in relation to this limb of TNLs appeal, and it was agreed that it should be adjourned, to be pursued, if appropriate, after judgment had been given in respect of the first limb of the appeal.
+The Court is prepared to hear submissions on the second limb if so requested.
+LORD BROWN
+The critical issue for decision in this appeal is whether Reynolds priviledge attaches to TNLs publication of the article set out at para 4 of Lord Phillips judgment.
+The undisputed background to the publication was that the Metropolitan Police were at the time carrying out an investigation into allegations that Sergeant Flood had abused his position as a police officer with the Extradition Unit by corruptly accepting substantial bribes in return for passing confidential information about possible plans to extradite certain Russian oligarchs.
+The defamatory meanings contended for in respect of the article range from there were strong grounds to believe that Sergeant Flood was guilty of such corruption, through an intermediate meaning that there were reasonable grounds to suspect such guilt (these being Sergeant Floods alternative contended for meanings), to there were grounds which objectively justified such a police investigation (TNLs contended for meaning).
+It follows that this case has little to do with the repetition rule.
+It is not suggested that the article repeated as such an allegation that Sergeant Flood was guilty of corruption (Lord Phillips Chase level 1meaning see para 8).
+Rather it asserted one or other of the above range of lesser allegations.
+Accordingly, to attract Reynolds privilege, it is these lesser allegations that TNL must establish they were justified in publishing a different task, of course, from that which, were the Reynolds defence to fail, TNL would have a trial, namely to justify whichever meaning the jury then decided the Article in fact bore.
+I agree with Lord Phillips view (para 51) that the responsible journalist should have regard to the full range of meanings that a reasonable reader might attribute to the publication.
+As is now well established, Reynolds privilege attaches to a defamatory publication which may properly be regarded as being in the public interest notwithstanding that it may be incapable of being justified as true and may therefore leave the defamed individual with no opportunity to vindicate his reputation and no compensation for its destruction.
+It has been exhaustively considered in a series of authoritative judgments, most helpfully perhaps in Reynolds itself Reynolds v Times Newspapers Ltd [2001] 2 AC 127 , Loutchansky v Times Newspapers Ltd (Nos 2 5) [2002] QB 783, Bonnick v Morris [2003] 1 AC 300 and Jameel (Mohammed) v Wall Street Journal Europe Sprl [2007] 1 AC 359.
+In deciding whether Reynolds privilege attaches (whether the Reynolds public interest defence lies) the judge, on true analysis, is deciding but a single question: could whoever published the defamation, given whatever they knew (and did not know) and whatever they had done (and had not done) to guard so far as possible against the publication of untrue defamatory material, properly have considered the publication in question to be in the public interest? In deciding this single question, of course, a host of different considerations are in play.
+One starts with the (expressly non exhaustive) list of ten factors identified by Lord Nicholls in Reynolds itself.
+As the present case well illustrates, however, depending on the particular publication in question, there are likely to be other relevant considerations too.
+Amongst the additional relevant considerations arising here are, for example, the journalists view (accepted by the judge) that the publication of the article would not merely inform the public of the particular allegation of corruption being investigated but would also tend to encourage its speedy and thorough investigation.
+Further, with regard to the naming of Sergeant Flood, the consideration was, first, that his identity would in any event be known to all who knew that he had been removed from the Extradition Unit and, secondly, that, if he were not named, other members of that Unit might come under suspicion besides, of course, the consideration that names lend interest and impact to a publication, particularly where, as here, there is an obvious connection between Sergeant Floods name and Noah (referred to in paragraph 5 of the article).
+To my mind the critical question in this appeal indeed the only real point of principle calling for decision is whether it can ever properly be said to be in the public interest to publish, as here, the detailed allegations underlying a criminal investigation to publish, in effect, a summary of the case against the suspect, reliant in part on anonymous sources, before even the police have investigated the allegations, let alone charged the suspect.
+I confess that I was at one time very doubtful whether Reynolds privilege could ever attach to such a publication.
+This is not, after all, a case of pure reportage a case in which the public interest lies simply in the fact that the statement was made, when it may be clear that the publisher does not subscribe to any belief in its truth (Lord Hoffmann in Jameel at para 62) a case like Al Fagih v H H Saudi Research and Marketing (UK) Ltd [2002] EMLR 215 where the disinterested publication of the respective allegations and responses by both sides to a political dispute was held to attract Reynolds privilege, the mere fact of such allegations being made being a matter of public interest.
+Nor, indeed, is it a case like Jameel itself, helpfully described by Lord Phillips (para 78) as being analogous to reportage, where the real public interest in the publication lay in its demonstration of the fact that Saudi Arabia was cooperating with the United States in the fight against terrorism, the inclusion of the defamed companys name in the blacklist of those who might wittingly or unwittingly funnelled funds to terrorist organisations showing that this cooperation extended to companies which were by any test within the heartland of the Saudi business world (Lord Hoffmann at para 52).
+Rather the justification for the publication of the article here must lie in it being in the public interest that the public should know, in advance of the outcome of the investigation, that such an allegation has been made and is being duly investigated.
+TNL must establish that this public interest would not be sufficiently served by a report merely of the Metropolitan Police press release set out at para 7 of the statement (privileged as this is under section 15 of, and para 9(1) (b) of Schedule 1 to, the Defamation Act 1996) but rather required, or at least could properly be considered by TNL to require, an altogether fuller account of the nature of the alleged corruption and the case supporting it.
+None of this has seemed to me by any means self evident and, indeed, a strong case against such a publication being in the public interest can be made, founded upon authorities such as Purcell v Sowler (1877) 2 CPD 215 and De Buse v McCarthy [1942] KB 156 and upon the consideration that there may be more to lose than to gain by ventilating in public an anonymous accusation such as that made here before even it is investigated by the police.
+At the end of the day, however, I am persuaded that there is no principle of law which precludes TNL from invoking Reynolds privilege in a case such as this.
+As the Court of Appeal themselves noted, authorities like Purcell and De Buse pre dated the Human Rights Act 1998 and, indeed, the development of the Reynolds public interest defence itself.
+Reynolds, itself anticipating the 1998 Act and the impact of article 10 of the Convention, was intended, as Lord Hoffmann observed in Jameel (at para 38), to promote greater freedom for the press to publish stories of genuine public interest.
+Lord Phillips (para 47) and Lord Mance (at para 142) have both cited examples of recent Strasbourg jurisprudence plainly supporting the view that the press should enjoy such greater freedom.
+Of course not every anonymous denunciation to the police will attract Reynolds privilege.
+Far from it.
+That, as Mr Price QC for Sergeant Flood was at pains to point out, would indeed be a charter for malice.
+But where, as here, the denunciation is of a public officer, relates to a matter of obvious public importance and interest, and may justifiably appear to the journalists to be supported by a strong circumstantial case, it seems to me properly open to the trial judge to find the defence made out.
+I too, therefore, would allow the appeal and restore Tugendhat Js judgment on the first limb of the appeal.
+LORD MANCE
+Introduction
+The appellants (TNL) published in The Times on 2 June 2006 and also on their website an article in defamatory terms about Detective Sergeant Flood.
+TNL advance two defences, qualified justification and public interest privilege.
+The present appeal concerns only the latter, which was tried as a preliminary issue.
+Further, it concerns only the first limb of that issue: the existence of a public interest defence up to 5 September 2007, the date on which TNL learned of the internal police report clearing DS Flood but failed to remove or qualify the article on their website.
+The public interest defence
+The contours of a defence of public interest privilege have been considered in a line of recent cases including Reynolds v Times Newspapers Ltd [2001] 2 AC 127, Bonnick v Morris [2002] 1 AC 300 (PC) and Jameel Mohammed v Wall Street Journal Europe Sprl [2006] UKHL 44; [2007] 1 AC 359.
+Its basic elements are the public interest of the material and the conduct of the journalists at the time.
+Whether the material is true is a neutral circumstance.
+In contrast, whether at the time the relevant journalists believed it to be true is (other than in cases of purely neutral reportage of allegations) highly material when considering their conduct.
+See, on these points, Jameel, para 62, per Lord Hoffmann.
+Although the words I have cited from Jameel treat the conduct of the journalists as a separate element of the test, an alternative approach subsumes the second element within the first.
+It will not be, or is unlikely to be, in the public interest to publish material which has not been the subject of responsible journalistic enquiry and consideration.
+The alternative approach appears in Lord Nichollss speech in Reynolds, listing a series of matters as being of potential relevance to an overall decision whether publication was in the public interest.
+He said, at p 205A: Depending on the circumstances, the matters to be taken into account include the following.
+The comments are illustrative only. 1.
+The seriousness of the allegation.
+The more serious the charge, the more the public is misinformed and the individual harmed, if the allegation is not true. 2.
+The nature of the information, and the extent to which the subject matter is a matter of public concern. 3.
+The source of the information.
+Some informants have no direct knowledge of the events.
+Some have their own axes to grind, or are being paid for their stories. 4.
+The steps taken to verify the information. 5.
+The status of the information.
+The allegation may have already been the subject of an investigation which commands respect. 6.
+The urgency of the matter.
+News is often a perishable commodity. 7.
+Whether comment was sought from the plaintiff.
+He may have information others do not possess or have not disclosed.
+An approach to the plaintiff will not always be necessary. 8.
+Whether the article contained the gist of the plaintiff's side of the story. 9.
+The tone of the article.
+A newspaper can raise queries or call for an investigation.
+It need not adopt allegations as statements of fact. 10.
+The circumstances of the publication, including the timing.
+This list is not exhaustive.
+The weight to be given to these and any other relevant factors will vary from case to case.
+Lord Nicholls did not regard any of these factors as a pre condition which must always be satisfied.
+In particular, he viewed the steps taken to verify the information as one factor among all others.
+The same approach appears in the opinion which he gave in the Privy Council in Bonnick v Morris [2003] 1 AC 300.
+In determining the public interest of material, the court considers both its subject matter and content and the appropriateness of publishing it as and when it was (or is to be) published.
+The speeches in Jameel [2007] 1 AC 359 discuss the extent to which it remains helpful to view the privilege in terms of the test (traditionally applied in cases of qualified privilege) of a reciprocal duty on the part of the press to publish and an interest on the part of the public to know.
+It is a truism that what engages the interest of the public may not be material which engages the public interest: para 31 per Lord Bingham.
+Lord Bingham, with whom Lord Hope agreed, thought that a duty/interest test still underpinned public interest privilege: paras 31, 92 and 105 106.
+But Lord Hoffmann thought at para 50 that it should be regarded as a proposition of law that, where there is a public interest in publishing, the duty and interest are taken to exist.
+Lady Hale said at para 147 that there must be a real public interest in communicating and receiving the information and in having [it] in the public domain, but that was less than a test of what the public need to know, which would be far too limited.
+Lord Scott engaged in a detailed discussion at paras 128 138, concluding that the duty was the presss professional duty to publish information of real and unmistakeable public interest to the public, and the interest was the publics in free expression, both of which only existed provided that the press satisfied the test of responsible journalism.
+In so far as there was any difference between the speeches of the members of the House, he agreed with Lord Hoffmanns.
+Like Lord Phillips at para 44, I find Lady Hales formulation helpful.
+It also seems consistent with both Lord Hoffmanns succinct and Lord Scotts more detailed discussion of the point.
+It is for the court to determine whether any publication was in the public interest.
+But the court gives weight to the ordinary standards of responsible journalism.
+It does so in a broad and practical way, and in contexts going beyond the steps taken to check material.
+This can be illustrated, first, by reference to Bonnick v Morris [2002] 1 AC 300.
+In that case, a newspaper article had recorded in a restrained and even handed way a difference between an authoritative source and Mr Bonnick, former managing director of the company concerned, as to the legitimacy and propriety of two contracts.
+But it had continued Mr Bonnicks services as managing director were terminated shortly after the second contract was agreed.
+The article did not record Mr Bonnicks explanation that he had made [the company] fire him, because, based on the advice he had received, this would enable him to obtain more compensation.
+Without this explanation, the natural and ordinary meaning of the article, to an ordinary reader, was that he had been dismissed because the company was dissatisfied with his handling of the contracts.
+Nonetheless, the Privy Council held the public interest defence made out.
+Two points arise.
+First, the Privy Council held that the objective standard of responsible journalism was to be applied in a practical and flexible manner and not exclusively by reference to the single meaning which the law attributed to the particular words, para 24.
+A journalist should not be penalised for making a wrong decision on a question of meaning on which different people might reasonably take different views, para 24, although questions of degree arose and the more obvious the defamatory meaning, and the more serious the defamation, the less weight will a court attach to other possible meanings when considering the conduct to be expected of a responsible journalist in the circumstances, para 25.
+The report in Bonnick v Morris records, para 19, that the journalist (Mrs Morris) seems to have thought that she was not making any such statement as set out in the pre penultimate sentence of para 127 above, but the Privy Council said that rather more relevantly and importantly one of the judges in the Court of Appeal took the same view, in other words that the article was open to different readings in the eyes of reasonable persons.
+The principle endorsed by the Privy Council in Bonnick v Morris appears to be, therefore, that a responsible journalist would have had in mind the less damaging of the possible meanings that reasonable persons might attach to the article, and would have been entitled to focus in that direction when checking and reporting the relevant subject matter.
+In the present case, the possible meanings suggested by the opposing parties see para 154 below are so close that any such principle appears irrelevant.
+At all events, the parties have not suggested that significance attaches for present purposes to the differences between such meanings.
+I can therefore leave this aspect of Bonnick v Morris on one side, without attempting to analyse it or its implications further.
+The second, presently relevant, aspect of Bonnick v Morris is that, in forming its overall judgment as to the availability of the defence of public interest on the facts, the Privy Council was prepared to overlook some respects in which the journalists conduct could legitimately be criticised.
+The activities of the company and the competence of its management were matters of considerable public interest.
+The journalist had fallen short of the standards to be expected of a responsible journalist by not making further enquiries of the anonymous source about the reasons for Mr Bonnicks dismissal and not including his explanation (so that the case was near the borderline).
+But, despite this, the publication was held overall to be covered by public interest privilege: para 27.
+The need to look at the position in the round was also identified by Lord Bingham in Jameel, para 34, when he disclaimed too close a focus on particular ingredients which have (or have not) been included in a composite story.
+He said: This may, in some instances, be a valid point.
+But consideration should be given to the thrust of the article which the publisher has published.
+If the thrust of the article is true, and the public interest condition is satisfied, the inclusion of an inaccurate fact may not have the same appearance of irresponsibility as it might if the whole thrust of the article is untrue.
+A similar latitude has been recognised with regard to the content and presentation of news items of general public interest, particularly with regard to the naming of persons whose reputations might be adversely affected.
+In Jameel, the general public interest in the article was that it showed whether and how far the Saudi Arabian authorities were cooperating with United States authorities in cutting off funds to terrorist organisations.
+The potential libel was that the article meant that there were reasonable grounds to suspect, or alternatively to investigate, the involvement of Mr Jameel and his trading company in the witting or unwitting channelling of funds to terrorist organisations.
+Was it appropriate for the article to name Mr Jameel and his company? As to this, Lord Hoffmann said at paras 51 52: (b) Inclusion of the defamatory statement If the article as a whole concerned a matter of public interest, the next question is whether the inclusion of the defamatory statement was justifiable.
+The fact that the material was of public interest does not allow the newspaper to drag in damaging allegations which serve no public purpose.
+They must be part of the story.
+And the more serious the allegation, the more important it is that it should make a real contribution to the public interest element in the article.
+But whereas the question of whether the story as a whole was a matter of public interest must be decided by the judge without regard to what the editor's view may have been, the question of whether the defamatory statement should have been included is often a matter of how the story should have been presented.
+And on that question, allowance must be made for editorial judgment.
+If the article as a whole is in the public interest, opinions may reasonably differ over which details are needed to convey the general message.
+The fact that the judge, with the advantage of leisure and hindsight, might have made a different editorial decision should not destroy the defence.
+That would make the publication of articles which are, ex hypothesi, in the public interest, too risky and would discourage investigative reporting.
+In the present case, the inclusion of the names of large and respectable Saudi businesses was an important part of the story.
+It showed that co operation with the United States Treasury's requests was not confined to a few companies on the fringe of Saudi society but extended to companies which were by any test within the heartland of the Saudi business world.
+To convey this message, inclusion of the names was necessary.
+Generalisations such as "prominent Saudi companies", which can mean anything or nothing, would not have served the same purpose.
+Weight was therefore given to the newspapers editorial judgment as to what details (by way of naming) were necessary to convey the essential message, which was that US Saudi co operation went to the heart of the Saudi business world.
+This might simply have been asserted, without names, but the press was entitled to lend it credence by giving names.
+Subsequent authority underlines the point with regard to the inclusion of names.
+In re British Broadcasting Corpn; In re Attorney Generals Reference (No 3 of 1999) [2009] UKHL 34; [2010] 1 AC 145, the issue was whether an anonymity order should be discharged, to enable the BBC to identify a defendant who had been acquitted of rape on the basis of the trial judges decision (subsequently been held to be wrong in law) to exclude certain DNA evidence.
+The BBCs aim was to undermine his acquittal and campaign for a retrial pursuant to Part 10 of the Criminal Justice Act 2003.
+Lord Hope dealt with the issue of naming as follows: 25.
+Lord Pannick suggested it would be open to the BBC to raise the issue of general interest without mentioning D's name or in any other way disclosing his identity.
+But I think that Mr Millar was right when he said that the BBC should not be required to restrict the scope of their programme in this way.
+The freedom of the press to exercise its own judgment in the presentation of journalistic material has been emphasised by the Strasbourg court.
+In Jersild v Denmark (1994) 19 EHRR 1, para 31, the court said that it was not for it, nor for the national courts for that matter, to substitute their own views for those of the press as to what technique of reporting should be adopted by journalists.
+It recalled that article 10 protects not only the substance of the ideas and the information expressed but also the form in which they are conveyed.
+In essence article 10 leaves it for journalists to decide what details it is necessary to reproduce to ensure credibility: see Fressoz v France (1999) 31 EHRR 28, para 54.
+So the BBC are entitled to say that the question whether D's identity needs to be disclosed to give weight to the message that the programme is intended to convey is for them to judge.
+As Lord Hoffmann said in Campbell v MGN Ltd [2004] 2 AC 457, para 59, judges are not newspaper editors.
+They are not broadcasting editors either.
+The issue as to where the balance is to be struck between the competing rights must be approached on this basis. 26.
+Will the revealing of D's identity in connection with the proposed programme pursue a legitimate aim? I would answer that question in the affirmative.
+In Jersild v Denmark, at para 31 it was recognised that there is a duty to impart information and ideas of public interest which the public has a right to receive.
+The programme that the BBC wish to broadcast has been inspired by the removal of the double jeopardy rule.
+What this means in practice for our system of criminal justice is a matter of legitimate public interest. [T]he arguments that the programme wishes to present will lose much of their force unless they can be directed to the facts and circumstances of actual cases.
+The point about D's name is that the producers of the programme believe that its disclosure will give added credibility to the account which they wish to present.
+This is a view which they are entitled to adopt and, given the content of the programme as a whole, it is an aim which can properly be regarded as legitimate.
+Lord Hope went on to deal with the question of proportionality, balancing the public's right to receive information against D's right to be protected against publication of details of his private life, in the light of the fact that the statute now enabled application to be made to retry him for the offence of rape, of which he had been previously convicted; the conclusion reached was that, although the interference with D's article 8 right would be significant, it would be proportionate when account was taken of the weight to be given to the competing right to freedom of expression that the BBC wished to assert.
+Lord Brown put the matter tersely: 65.
+What weight, then, should be attached to the BBC's article 10 right to free expression? Whilst Lord Pannick naturally recognises the high value ordinarily attaching to the freedom of the media to report on court proceedings and to discuss matters of obvious public interest such as arise here, he nevertheless suggests that very little weight should be given to that right in this case.
+Why, he asks rhetorically, cannot the BBC broadcast their programme simply referring to D as D without actually identifying him? 66.
+The short answer to that submission is in my opinion to be found in paragraph 34 of Lord Steyn's speech in In re S (A Child) [2005] 1 AC 593 . : such a programme would indeed be very much disembodied and have a substantially lesser impact upon its audience.
+In a yet more recent case, re Guardian News and Media Ltd [2010] UKSC 1; [2010] 2 AC 697, para 63, Lord Rodger summarised the position characteristically: 63.
+Whats in a name? A lot, the press would answer.
+This is because stories about particular individuals are simply much more attractive to readers than stories about unidentified people.
+It is just human nature.
+Writing stories which capture the attention of readers is a matter of reporting technique, and the European Court holds that article 10 protects not only the substance of ideas and information but also the form in which they are conveyed: News Verlags GmbH & Co KG v Austria (2000) 31 EHRR 246, 256, para 39, quoted at para 35 above.
+More succinctly, Lord Hoffmann observed in Campbell v MGN Ltd, para 59, judges are not newspaper editors.
+See also Lord Hope of Craighead in In re British Broadcasting Corpn [2010] 1 AC 145, para 25.
+This is not just a matter of deference to editorial independence.
+The judges are recognising that editors know best how to present material in a way that will interest the readers of their particular publication and so help them to absorb the information.
+A requirement to report it in some austere, abstract form, devoid of much of its human interest, could well mean that the report would not be read and the information would not be passed on.
+Ultimately, such an approach could threaten the viability of newspapers and magazines, which can only inform the public if they attract enough readers and make enough money to survive.
+The courts therefore give weight to the judgment of journalists and editors not merely as to the nature and degree of the steps to be taken before publishing material, but also as to the content of the material to be published in the public interest.
+The courts must have the last word in setting the boundaries of what can properly be regarded as acceptable journalism, but within those boundaries the judgment of responsible journalists and editors merits respect.
+This is, in my view, of importance in the present case.
+The European Convention on Human Rights
+British courts have developed the defence of public interest privilege under the influence of principles laid down in the European Court of Human Rights.
+The case law of that Court is cited in passages from the judgments of Lord Hope and Lord Rodger, cited above.
+It emphasises the importance of the role of the press (and some other individuals or bodies, eg bodies protecting environmental interests) as public or social watchdogs (or chiens de garde): see eg Jersild v Denmark (1994) 19 EHRR 1, para 35, Goodwin v United Kingdom (1996) 22 EHRR 123, para 39, Affaire Vides Aizsardzbas Klubs v Lettonie (Application No 57829/00), para 42, Trsasg A Szabadsgjogokrt v Hungary (Application No 37374/05), paras 27, 36 and 38, Riolo v Italy (Application No 42211/07), para 55 and 62, Flux (No 7) v Moldova (Application No 25367/05), para 40, cited below in para 142, Axel Springer AG v Germany (Application No 39954/08) paras 79 and 91, Von Hannover v Germany (Applications Nos 40660/08 and 60641/08), paras 102 and 110.
+In that context, the court has been ready to tolerate a degree of exaggeration or even provocation in the way the press expresses itself: see eg Prager v Oberschlick (1995) 21 EHRR 1, para 38, Standard Verlagsgesellschaft mbH (no 2) v Austria (Application No 37464/02), para 40, Riolo v Italy, para 68 and Axel Springer AG v Germany, para 81, and has confirmed that it is not for the Court, any more than it is for the national courts, to substitute its own views for those of the press as to what techniques of reporting should be adopted in a particular case: Axel Springer AG v Germany para 81 and Von Hannover v Germany, para 102.
+It has also recognised that the bounds of press criticism admissible in respect of politicians and also, though not necessarily to the same extent, officials are larger than they are in relation to private individuals: see eg Affaire Vides, para 40c) and Flux (No 7) v Moldova, para 38, cited in para 142 below.
+The conduct of the judiciary, above all in exercising their functions, but also in other contexts, is likewise a legitimate subject of press scrutiny: Affaire Polanco Torres and Movilla Polcanco v Spain (Application No 34147/06), para 42.
+In relation to private individuals, the court stated in Pedersen and Baadsgaard v Denmark (No 2) (2006) 42 EHRR 486, para 78 that: special grounds are required before the media can be dispensed from their ordinary obligation to verify factual statements that are defamatory of private individuals.
+Whether such grounds exist depends in particular on the nature and degree of defamation in question and the extent to which the media can reasonably regard their sources as reliable with respect to the allegations (see, among other authorities, McVicar v the United Kingdom, no 46311/99, 84, ECHR 2002 III, and Bladet Troms and Stensaas, cited above, 66).
+This statement was effectively repeated in Riolo v Italy, para 61 and Standard Verlagsgesellschaft, para 38.
+But in Affaire Polanco Torres, above, allegations of reported irregularity in corporate affairs by the spouses of two court presidents and a chief prosecutor were seen as matters of public interest, because they were directed to the spouses as such, as well as because one of the spouses had in her reported denial pointed at the president of the region of Cantabria, the most senior regional politician, as probably responsible for a manoeuvre implicating her.
+The case did not therefore involve reporting on purely private aspects of a persons life: para 46.
+The extent to which the press may reproduce information derived from sources which it cannot itself prove has been considered by that Court in several cases which merit some examination.
+In White v Sweden (2006) 46 EHRR 23, two Swedish newspapers had published articles, which mainly contained reports of allegations made by others, in particular Dirk Coetzee, a former senior official of the South African security police.
+The articles contained strong statements which designated the applicant as a serious criminal including a statement by an unnamed source that He kills without a seconds hesitation and as having a reprehensible life style, involving smuggling and poaching in southern Africa, although it did not appear that he had been convicted of any crime.
+Among the criminal offences ascribed to him was the murder of Olof Palme, the Swedish Prime Minister (under a heading He is pointed out as PALMES MURDERER), although the articles also contained statements of other individuals which rejected the allegations made against the applicant and, in one case, a denial by the applicant himself.
+The journalists had gathered much information from conservation groups to support what was said about smuggling and poaching, but, although they had had high ambition to find the degree of truth of Coetzees statements regarding murder and Coetzee appeared credible, the truth of such statements was not shown.
+The Swedish Court of Appeal concluded in the light of the evidence about smuggling and poaching that Mr White was not an ordinary private person in respect of whom there was a particular need of protection (2006) 46 EHRR 23, para 28.
+The Court of Human Rights said in this light that: 29.
+The Court of Appeal balanced the applicants interests against the public interest in the relevant matters, namely the unsolved murder of the former Swedish Prime Minister Olof Palme and, especially, the so called South Africa trail, in the criminal investigation.
+Undoubtedly, both the murder of Mr Palme and that particular avenue of investigation were matters of serious public interest and concern.
+As such, there was little scope for restricting the communication of information on these subjects.
+The Court of Human Rights found that the Swedish courts had balanced the opposing interests appropriately, and were justified in finding that the public interest in publishing the information in question outweighed the applicants right to the protection of his reputation.
+The case involves unusual facts, but smuggling and poaching are not the same as murder, and the case indicates that there are circumstances in which the press may legitimately keep the public informed of matters of real public importance, even though they are under active criminal investigation, where the person affected is not an ordinary private person.
+The later case of Flux (No 7) v Moldova (Application No 25367/05) involved media reports of stories about politicians emanating from a source other than the applicant.
+The article complained of was published under the headline: Four more communists have obtained housing on our money, and it stated: According to certain sources in Parliament, who have asked to remain anonymous, the future owners of the relevant apartments include V.S., the president of the communist faction in Parliament, C.G., head of the Parliament apparatus, and M.R., the president of Floreti county.
+V.S. issued proceedings.
+The Court of Human Rights said that: 38.
+The plaintiff in the domestic proceedings was a politician and president of the Communist faction in Parliament at the time of the events.
+As such, he inevitably and knowingly lays himself open to close scrutiny of his every word and deed by both journalists and the public at large, and he must consequently display a greater degree of tolerance (see Lingens v Austria, 8 July 1986, 42, Series A no. 103).
+The domestic courts would have had to find a particularly pressing social need to sanction the newspaper in such circumstances.
+The Court observes that the article in question was aimed at criticising Parliament for alleged lack of transparency, rather than at disparaging V.S. specifically.
+The latter's name appeared twice in the entire article.
+While not focusing on any particular person, the article mentioned the names of all the alleged beneficiaries of the four apartments and described the attempts to verify the information with some of them, including V.S. 39.
+The Court also notes that the article published by the applicant newspaper dealt with the issue of whether the Parliament leadership had spent public money in a non transparent manner.
+This was therefore a matter of genuine public interest, which is also to be given additional protection under article 10 of the Convention. 40. [The Court] also reiterates that, as part of their role of public watchdog, the media's reporting on 'stories' or 'rumours' emanating from persons other than the applicant or 'public opinion' is to be protected where they are not completely without foundation (see Thorgeir Thorgeirson v Iceland, 25 June 1992, 65, Series A no. 239, and Timpul Info Magazin and Anghel, no. 42864/05 (27/11/2007), 36). 41.
+In situations such as this, where on the one hand a statement of fact is made and insufficient evidence is adduced to prove it, and on the other the journalist is discussing an issue of genuine public interest, verifying whether the journalist acted professionally and in good faith becomes paramount (see Flux v Moldova (no. 6), no. 22824/04 (29/07/2008), 26 et seq.).
+Flux (No 7) v Moldova is therefore an illustration of the more relaxed approach to press reporting on a matter of real public interest concerning an important public figure.
+These cases may be compared with the Strasbourg Courts decision in A v Norway (Application No 28070/06), in which reference was made to White v Sweden as a case in which the Court has recognised reputation.
+A v Norway was a case about a private individual, who had in 1988 been convicted of murder, attempted murder and assault using a knife and who now lived near and visited a recreation area known as Baneheira, in the city of Kristiansand.
+In May 2000 two young girls aged 8 and 10 were raped and stabbed to death in Baneheira.
+A newspaper then focused on two successive days on the applicant.
+He was repeatedly described as a convicted murderer, with sub titles relating to his convictions such as Beserk with a knife and Victims at random.
+In relation to the current rapes and killings, his assertions of innocence were recorded, but the place where the rapes and killings occurred was stated to be his nearest neighbour, and he was described as probably the most interesting of several criminally convicted persons whose movements are now being checked by the police.
+In answer to the question whether the police had got the murderer in the papers?, the chief constable was quoted as saying that the police have received so much information of substance that they have the answer in their documents to the question who had murdered the two young girls.
+Disagreeing with the majority judges in the Norwegian Supreme Court, the Strasbourg Court held at para 72 that the disputed press coverage was conducted in a manner which directly affected the applicants enjoyment of his right to respect for private life.
+It noted in this connection that, as observed by the minority in the Norwegian Supreme Court, the applicant was persecuted by journalists against whom he found it difficult to protect himself at a time when he was in a phase of rehabilitation and social integration ., had a fixed abode and pursued gainful employment, whereas [a]fter the publications he found himself unable to pursue his job and he had to leave his home and was driven into social exclusion para 72.
+There had been a particularly grievous prejudice to the applicants honour and reputation that was especially harmful to his moral and psychological integrity and to his private life para 73, and the majority in the Norwegian Supreme Court had failed to maintain a reasonable relationship of proportionality between the interests of the newspapers freedom of expression and those of the applicant in having his honour, reputation and privacy protected para 74.
+The decision in A v Norway is in my view unsurprising, bearing in mind that it concerned newspaper conduct which the Strasbourg Court found to have persecuted a private individual, caused him to be unable to work and to have to leave his home, driven him into social exclusion and so been especially harmful to his moral and psychological integrity and private life.
+The European Court of Human Rights in Affaire Polanco Torres (Application No 34147/06) affirmed the legitimacy under article 10 of the press reporting allegations of irregularity in corporate affairs based upon computer disks which El Mundo had received anonymously, in circumstances where (a) the companys former accountant (dismissed after the disappearance of its accounting disks) had verified to the newspaper as genuine in a meeting, and (b) the paper had contacted one of the spouses implicated and had published with its report her denial and her riposte pointing at the president of the region of Cantabria.
+The European Court regarded these as important steps showing responsible journalism (para 50) and it noted the relevance of having regard to the nature and degree of the defamation involved; it also noted the need to consider the reasonableness of a journalists reliance on his sources as the situation appeared to the journalist at the time, and not with hindsight: para 43.
+Most recently, in its judgment in Axel Springer AG v Germany (Application No 39954/08), delivered after the oral hearing in the present appeal, the Court stated, at para 82, that: special grounds are required before the media can be dispensed from their ordinary obligation to verify factual statements that are defamatory of private individuals.
+Whether such grounds exist depends in particular on the nature and degree of the defamation in question and the extent to which the media can reasonably regard their sources as reliable.
+In that case, the first article in issue involved the publication in the Bild Zeitung of a report that a well known actor who played the part of a police superintendent in a popular television series has been caught in possession of cocaine at the Munich Oktoberbierfest.
+The article was based on information provided by the press officer at the Munich public prosecutors office, and the Court said, citing previous authority, that Consequently . it had a sufficient factual basis para 105.
+The fact that the truth of the information was not in dispute in the subsequent proceedings in Germany and Strasbourg was mentioned by the Court as a separate point (para 105).
+The Court went on to conclude that there was nothing to suggest that the newspaper had not undertaken the appropriate exercise of balancing its interest in publishing against the actors right to respect for his private life, and, disagreeing with the German courts, that there was no reason to disagree with the newspapers decision to publish.
+The Court referred to both A v Norway and White v Sweden: see paras 61, 74, 83 and 90.
+It also drew a broad distinction between private individuals and persons acting in a public context (para 91), which it reiterated in identical terms in its parallel judgment in Von Hannover v Germany, para 110.
+German authority
+It is of interest also to note in passing jurisprudence in the highest German courts, regarding the responsibility of the press in relation to the publication of allegations of the commission of criminal offences.
+Of particular interest are decisions of the Federal Constitutional Court in 1 BvR 765/97, reported at NJW 1997, 2589 and 1 BvR 152/01 and 1 BvR 160/04, reported at BVerfGK 9, 317, and a decision of the Federal Supreme Court VI ZR 51/99, reported in BGHZ 143, 199 and referred to in the latter Constitutional Court case.
+In short, these decisions recognise as permissible in principle under German law the reporting of matters giving rise to the suspicion of commission of criminal offences, including those already under criminal investigation.
+Provided that the report is the product of appropriately careful journalism, identifying an appropriate minimum of facts speaking for its truth, so making it worthy of publication, and is fairly expressed without distortion or undue sensationalism, it is not incumbent on the press to be able to prove the truth of the reported suspicions.
+The press will however have to consider, inter alia, whether it is appropriate to disclose the name of the suspect.
+It usually will be with suspected criminality of a serious kind.
+But, where the suspicion relates to misconduct in public office, a particular public interest exists, which can, even in a case of lesser criminality, justify the publication of both the subject matter and the name of the public servant involved.
+Where a published article can be read as having a range of meanings, German law appears, from the Federal Supreme Courts decision (p 206), to take the meaning least detrimental to the suspect, and so most favourable to the press.
+As further developments occur (eg an outcome of criminal proceedings favourable to the accused), the press may have to permit publication of a corresponding report.
+The present case
+Against this background I return to the circumstances of the present appeal.
+It was common ground in the Court of Appeal that the publication of the polices press statement that that they were conducting an investigation into allegations that a serving officer made unauthorised disclosures of information to another individual in exchange for money was privileged under the express terms of section 15 of the Defamation Act 1996.
+In the Court of Appeal, Mr Price QC for Mr Flood was prepared to accept, in the light of this privilege and the significance attached to names in cases such as re British Broadcasting Corpn [2010] 1 AC 145 and In re Guardian News and Media Ltd [2010] 2 AC 697, that TNL was entitled to identify Mr Flood as the officer the subject of investigation.
+The Court of Appeal was prepared to proceed on that basis, although Lord Neuberger doubted whether TNL would have thought it worthwhile to publish an article which confined itself to doing this: para 68.
+Before the Supreme Court, Mr Price took a different line.
+He noted that Mr Flood would not have sued if all that had been done was report the police press statement and Mr Floods name.
+But he submitted, if necessary, that naming Mr Flood was not covered by any privilege and he relied on A v Norway.
+However, his principal submission was, that, whatever might be the position in that respect, the article went too far in the detail it gave of allegations made against Mr Flood.
+In particular, he submitted, and the Court of Appeal accepted, that the police informants allegations in paragraphs 5. 8, 15 and 16 of the article were prejudicial details which added inappropriate credence to the grounds on which the investigation was being pursued, and that their publication was not in the public interest.
+Tugendhat J held that the article as a whole was on a matter of public interest because the conduct of police officers in general, and police corruption in particular, is a matter of interest to the community: para 123 and 131.
+A police investigation into an allegation of police corruption was a story of high public interest and the purpose of publishing the story was to ensure that that investigation was carried out promptly which was also a matter of public interest: para 216.
+The journalism was responsible in the sense that the publication on 2 June 2006 was a proportionate interference with [the Claimants] right to reputation, given the legitimate aim in pursuit of which the publication was made: paras 215 216.
+He went on, that That is not to say that the judgment of [Times Newspapers] was a good judgment in the circumstances, but only that it was within the range of permissible editorial judgments which the court is required to respect: para 217.
+The Court of Appeal drew a distinction between the publication of detailed allegations of corruption where the corruption is proven, or reasonable steps have been take to verify its occurrence, and their publication in situations in which corruption is simply alleged and under investigation, paras 59, 63 and 68 per Lord Neuberger MR, paras 102 104 per Moore Bick LJ and paras 110 118 per Moses LJ.
+Lord Neuberger noted that the presss editorial judgment could not dispense with the requirements of Reynolds privilege, from which he concluded that the publication of the allegations could not be privileged, unless it can be said to have been responsible journalism, ie to have been in the public interest with the journalists having taken reasonable steps to verify the truth of the allegations: paras 64 66.
+Moore Bick LJ was unable to accept the judges conclusion that part of the public interest lay in prompting the police to pursue the investigation; had it been, the article would, he thought, have been written differently, para 106; Moses LJ also thought that the suggested subjective motives of the journalists to ensure that the investigation was vigorously pursued does [sic] not assist in identifying whether or not the publication was in the public interest and that the article was not drawn in a way which suggested such a purpose: para 114; he thought that the publication of an article simply recording that the police were pursuing an investigation of corruption against a fellow police officer would have been of public interest, as underlining the significance of alleged corruption, as providing some assurance to the public and also as providing some impetus to pursuing the investigation to conclusion: para 114, but that publication of the details on which the investigation was founded was not in the public interest, para 115 118.
+The newspaper must be left to justify any imputation, as yet undetermined, without protection of qualified privilege: para 118.
+In concluding that it was not in the public interest to publish the alleged details, the Court of Appeal was influenced by their largely unchecked and unsupported nature: para 69 per Lord Neuberger, para 90 per Moore Bick LJ and para 118 per Moses LJ.
+Lord Neuberger also said that When they were published in the article, they were . , as the journalists must have appreciated, no more than unsubstantiated unchecked accusations, from an unknown source, coupled with speculation: para 73; and Moses LJ said that their publication exposed DS Flood to the suggestion that unchecked and unsubstantiated allegations, from an unknown source, might be well founded: para 116.
+Analysis
+There is no suggestion that the article contained mere reportage.
+Equally, however, it did not contain out and out allegations that the details were true.
+Rather, it reported alleged details from which the nature and to some extent basis of the investigation could be ascertained.
+The libel alleged by DS Flood is that the article meant that there were strong grounds to believe, or alternatively reasonable grounds to suspect, that DS Flood had abused his position by corruptly accepting bribes from some of Russias most wanted suspected criminals in return for selling highly confidential Home Office and police intelligence about attempts to extradite them to Russia, to which TNLs response is that it meant that DS Flood was the subject of an internal police investigation and that there were grounds objectively justifying such an investigation into whether he had received payments in return for such information.
+The judge considered that these alternative meanings were not so far apart as to require any decision on meaning for present purposes.
+That conclusion has not been challenged.
+The suggestion of possible corruption of a very serious nature on the part of DS Flood was clearly very injurious to his reputation and feelings.
+On the other hand, the conduct under investigation was not only serious, but also of great public interest, involving the possibility of police corruption at the instance of Russian oligarchs in the context of proceedings for their extradition from the United Kingdom to Russia.
+None of the possible meanings amounts to a suggestion that DS Flood was guilty of the conduct under investigation.
+It was said only that Noah could be a reference to him.
+It was made clear that the whole investigation was based on information emanating from an unnamed source not an unknown source, the phrase used twice in the Court of Appeal: paras 73 and 116.
+It was also made clear that all parties concerned had been approached and offered the opportunity to comment, and that the conduct was categorically denied on all sides by DS Flood, by Mr Berezovsky and by Mr Hunter of ISC.
+The article was moderate in its tone and phrasing.
+It cannot be compared in content or in tone or in consequences with the persecution inflicted on the applicant in A v Norway.
+DS Flood was temporarily removed from the police extradition unit, but remained in service until restored to that unit.
+The judge was satisfied that the journalists had taken appropriate steps to verify the information.
+They had obtained as many documents as they could.
+They had not simply relied upon intermediaries, but had insisted on meeting the ISC insider, and had taken into account the possibility that he had an axe to grind in making the suggestions of corruption that he did.
+The judge regarded Jameel as indicating that what was required was verification of the making of an accusation by a source, not verification of the information which led to the accusation: para 135.
+The Court of Appeal concluded that this was insufficient, and, in passages from which I have quoted extracts in para 151 above, it concluded that what was required was that the journalists should verify, or at least take reasonable steps to verify, the truth of the details of the suggested corruption upon which they reported: paras 66, 103 and 118.
+This reasoning has a number of inter related aspects.
+One is that the article reported allegations made to the police and deriving from a source behind or beyond whom TNL had not gone.
+But in Reynolds Lord Nicholls expressly contemplated that the source of information might be informants with no direct knowledge of the events (para 123 above).
+In Jameel the reporter had relied upon a prominent Saudi businessman (source A) for information that the Saudi authorities were, at the request of US authorities, monitoring bank accounts to prevent them being used wittingly or unwittingly for the funnelling of funds to terrorist organisations: paras 4 and 8; but neither this information, nor so far as appears the alleged inference that there were reasonable grounds to suspect or investigate the involvement of Mr Jameel and his trading company in such funnelling, were or could be further investigated: paras 5 and 42.
+Further, as the Strasbourg authority of Flux (No 7) v Moldova illustrates, it is part of [the presss] role of public watchdog to report on stories or rumours emanating from persons other than the claimant: paras 138 and 142 above.
+The stories were in that case about politicians, but, as I have indicated in para 139 above, the European Court of Human Rights also recognises that stories which are in the public interest about officials also merit particular protection.
+I agree in this connection with what I understand to be Lord Phillips view that the defence of public interest privilege involves a spectrum.
+At one end is pure reportage, where the mere fact of a statement is itself of, and is reported as being of, public interest.
+Higher up is a case like the present, where a greater or lesser degree of suspicion is reported and the press cannot disclaim all responsibility for checking their sources as far as practicable, but, provided the report is of real and unmistakeably public interest and is fairly presented, need not be in a position to produce primary evidence of the information given by such sources.
+A second aspect of the Court of Appeals reasoning is that the source was unknown, or, better said, unnamed: para 73 per Lord Neuberger and para 116 per Moses LJ.
+But the media is entitled to protect the anonymity of sources, as recognised in Jameel, para 59 per Lord Hoffmann as well as in the European Court of Human Rights in Flux (No 7) v Moldova.
+It was in the present case (as in Flux (No 7) and presumably also Jameel) the wish of the sources to remain anonymous.
+A third, associated aspect of the Court of Appeals reasoning is that the detailed allegations contained in the report related to corruption which was simply alleged and under investigation and were themselves largely unchecked and unsupported and coupled with speculation: para 153 above.
+In para 73 Lord Neuberger went on to note that the only written evidence available to the journalists did not identify any police officer, let alone DS Flood, as the recipient of money from ISC at all, let alone for providing confidential information.
+These passages in my view both overstate the requirements of responsible journalism in the present context, and undervalue the nature and significance of the steps which TNLs journalists actually took.
+These steps are extensively summarised in Tugendhat Js judgment, paras 17 to 81.
+I can further abbreviate my treatment of them by adopting the summary contained in Lord Phillips judgment at paras 12 to 20 above.
+I note only a few specific points.
+First, Mr Gillard juniors journalistic interest in the possibility of corruption involving ISC and DS Flood went back to December 2005 and pre dated any involvement of any arm of the police service.
+By early January 2006 he had ascertained various matters which he concluded would suggest vulnerability on the part of DS Flood to a corrupt approach.
+Only on 30 January 2006 was he informed by source A that source B, who had access to the Intelligence Development Group (IDG) of the Directorate of Professional Standards (DPS) of the Metropolitan Police Service (MPS), had been in touch with the IDG at source As request and on behalf of an ISC insider.
+Mr Gillard junior spoke with and met source B, who told him that the police had been given a typed note of the allegations being made by the ISC insider, but that the DPSs attitude had been as if not interested.
+If this had remained the position and no subsequent investigation had followed, but Mr Gillards own enquiries had elicited the other information used in the article of 2 June 2006 and had been published both to inform and to stimulate an investigation, any argument that he should have awaited the outcome of an investigation would have disappeared.
+The second point relates to the claimants submission that it was pure speculation that Noah was DS Flood, the ISC having done no more than say that he believed Noah to be DS Flood.
+But DS Flood worked in the police extradition unit (unlike his brother), and the ISC insider also recounted that Mr Hunter used to refer to paying brown envelopes to my man at the Yard, and that a problem had once arisen in court when Mr Beresovskys lawyer spoke directly to DS Flood in court on one occasion, and Mr Hunter became very upset at this contact with my man.
+All this was recorded in the notes of the discussions with the ISC insider as well as in a long internal memorandum which Mr Gillard senior prepared.
+It is the case, as the judge noted, that none of this specific information about my man at the Yard was put to DS Flood through the Metropolitan press office, but that is a minor point in the overall picture, and there could have been no real doubt but that DS Flood would simply have denied it, as he did the other matters which were put to him.
+Third, Mr Gillard was aware (and so had in mind as a reason for caution) that the ISC insider had issues with Mr Hunter, or what might be called an axe to grind, but, as he said in evidence, sources often do have.
+On 13 March 2006 source A also sent to Mr Michael Gillard a copy of the note which had been given to the police in January 2006.
+The note was consistent with the conversations which Mr Gillard senior had had with the ISC, except that, rather than stating belief but not knowledge that NOAH was DS Flood, it was categorical in stating that DS Flood provided information for cash.
+Bearing in mind the circumstantial information, which was also given as set out in the previous paragraph, the difference appears less stark than it might otherwise have done.
+Fourth, in late April 2006 TNL approached the DPS asking the DPS to address a list of questions about their knowledge and position; and it was this, Tugendhat J found, that in fact led to the opening, for the first time, on 28 April 2006 of a police investigation by the police Investigations Unit.
+However, the MPS statement issued to TNL on the same day said that the The .
+Investigations Unit is currently conducting an investigation into allegations that a serving MPS officer made unauthorised disclosures of information to another individual in exchange for money, and the judge also found that this led Mr Gillard junior to think that the investigations related to what had been said to the police in February.
+At a meeting on 9 May 2006 between Mr Gillard junior and DCI Crump and others, DCI Crump accepted that intelligence had been received by the IDG in February 2006, but said that he did not know what the IDG had done with it when received, and asserted that it was TNLs inquiries at the MPS press office that had probably forced their [the polices] hands and led to the Investigation Unit being involved.
+Tugendhat J had in these circumstances to consider Mr Gillard juniors motivation in publishing the article of 2 June 2006.
+He accepted Mr Gillards evidence that he was sceptical about DCI Crumps explanations and concerned about the MPSs failure to follow up the intelligence provided in February 2006 and that the article was published as a means of keeping up pressure on MPS to investigate properly (para 41) and to ensure that that investigation was carried out promptly, to which the judge added That too was a matter of public interest para 216.
+Although the article did not itself focus on police dilatoriness or mention this motive, there was no appeal against these findings.
+The Court of Appeal was not in my view justified in departing from them, as Moore Bick LJ and Moses LJ did in passages which I have set out in para 152 above.
+Fifth, TNL also made attempts in late April 2006 to elicit their accounts from DS Flood, Mr Hunter and Mr Beresovsky.
+DS Flood through solicitors denied all allegations of impropriety.
+Mr Hunter through solicitors initially denied any knowledge of, but in a later letter gave an explanation, of operation Noah in a way which Mr Gillard junior thought suggested that he had something to hide.
+He also made suggestions about the ISC insiders motivation which Mr Gillard junior discounted.
+Mr Gillard junior also concluded that he could discount suggestions made by Mr Beresovskys solicitors that the police extradition unit would have no information of value to Mr Beresovsky.
+Mr Gillard believed that, if so, the MPS would have dismissed the allegations outright.
+The judge accepted his evidence on this point also: paras 164 and 199.
+Tugendhat Js conclusion was that no criticism could be made of what the journalists did by way of steps taken to verify the information received from the informants, including the ISC insider.
+In the light of what I have said in paras 158 to 166 above and the judges more detailed findings of fact, I do not consider that this conclusion can be faulted.
+The Court of Appeal was in my view in error in so far as it based its decision on apparent conclusions, firstly, that more was required as a matter of principle and, secondly (and largely, if not entirely, as a result), that TNLs journalists conduct and reporting could not, on the facts found by the judge, be regarded as meeting the standards of responsible journalism.
+The previous paragraphs lead back to the critical issues, which represent the fourth and fifth aspects of the Court of Appeals reasoning.
+They are whether it was in the public interest for TNL to publish an article naming DS Flood and to publish an article with the detail which this article had, when the allegations which it recorded were only at the stage of investigation.
+It is material here that the publication had the purpose of ensuring an effective investigation.
+As noted in para 164 above, TNL started its own investigation well before anyone supplied any intelligence to the police.
+It was of obvious public interest that the investigation should be pursued and the journalists were, not unreasonably, concerned that intelligence given to the MPS might not have been or be being handled as promptly or properly as would have been expected.
+Taking first the naming of DS Flood (about which no issue was raised in the Court of Appeal: para 148 above), his identification did not underline a central aspect of the articles message in quite the same way as the naming of Mr Jameel and his company in Jameel.
+But the naming was still in my judgment central to any publication.
+Without names, there would have been little to publish at all.
+Any article would have been very much disembodied: see para 135 above.
+The allegations of corruption made by the ISC insider touched Mr Beresovsky, ISC and Mr Hunter as much as DS Flood.
+To avoid the risk of identification of all or any of them, all would have had to have been anonymised.
+An article excluding all names, and consisting of a general and anonymised report of investigation into possible corruption in the extradition unit at the instance of unidentified foreigners at risk of extradition, would have been unlikely to be readable or publishable.
+It would also have been unlikely to fulfil the purpose of stimulating and ensuring diligent pursuit by the police of their investigation, which the judge found that Mr Gillard junior intended.
+Further, as Mr Gillard junior also noted in his evidence, a generalised report of investigation into corruption involving the MPS extradition unit could have cast a shadow over all officers in that fairly small unit.
+The authorities cited in para 127 136 above indicate that these are all material considerations.
+As to the detail of the allegations, TNL could have reproduced the police statement of 28 April 2006, together with a bare statement identifying DS Flood as the officer under investigation.
+But, as the Master of the Rolls acknowledged (Court of Appeal, para 68), it is doubtful how publishable any article would then have been.
+Again, it is also doubtful whether it would have achieved the purpose which the journalists had in mind.
+Here too, journalistic judgment and editorial freedom are entitled to weight: paras 132 137 above.
+These considerations do not however themselves determine the question whether it was in the public interest to publish an article with the names and detail in fact included, or whether, if without such names and detail there was no publishable article, TNL should not simply have awaited the outcome of the police investigation before contemplating any publication.
+Mr Price relied before the Supreme Court, as before the Court of Appeal, upon Purcell v Sowler (1877) 2 CPD 215 and De Buse v McCarthy [1942] 1 KB 156.
+I agree with what Lord Phillips says about these cases in his judgment at paras 58 to 60 above.
+Their significance needs to be reviewed in the light of more recent developments of legal principle, although they remain valuable for their emphasis on the significance of personal reputation in the face of unproven allegations of misconduct.
+But it is worth underlining that they are, even on their own terms, decisions reached on facts very different from the present.
+In Purcell v Sowler, no privilege was held to attach to the newspaper publication of a report of proceedings at a meeting of poor law guardians, at which ex parte charges of misconduct against the medical officer of the union were made, of neglect in not attending to the pauper patients when sent for.
+The conduct of such a medical officer was accepted to be of the greatest importance in the district and so to concern the public in general.
+But, although the meeting was a privileged occasion so far as the speaker was concerned, publication in the press was not: Reynolds, p 196A, per Lord Nicholls.
+The reasons of the four judges involved in Purcell v Sowler do however not coincide.
+Despite speaking earlier of the importance of the medical officers conduct, Cockburn CJ said that the court was concerned with a body with very limited jurisdiction, as to which it cannot be asserted that publicity is essentially necessary or usual, and he accepted that the proceedings of different bodies to whom part of the administration of the country is committed such as the Corporation of London might be matter of general discussion and publication.
+Baggallay JA was unready to extend the privilege granted to bodies such as Parliament, because of the advantage of publicity, to bodies such as the poor law guardians.
+In a case like the present, concerned with the possibility of police corruption in relation to extradition of Russian oligarchs, analogies with bodies with very limited jurisdiction or distinctions between the conduct of the MPS and the proceedings of bodies like the Corporation of London are unconvincing.
+Mellish and Bramwell JJA adopted different reasoning.
+First, they emphasised that there was no reason to make the charges public before the person charged had been told of them and had had an opportunity of meeting them.
+Second, they distinguished situations where the facts had been ascertained or were not in controversy.
+On the present appeal, DS Flood was told of and had the opportunity to respond to the allegations, though Mr Price points out that the facts have not been ascertained and are in controversy.
+Mr Price also submits that it would be unfair to have expected DS Flood to respond in detail, beyond a full denial, when the police investigation was under way.
+I am not, however, persuaded that this can have caused any unfairness on the facts of this case.
+Assuming his innocence, DS Floods response can only ever have been that he knew nothing of Noah or of any attempts to obtain information about extradition proceedings involving any Russian oligarch, because he was not Noah.
+In other words, the blanket denial which appeared in paragraph 11 of the article was essentially all that he would have said, however much detail about the allegations was put to him.
+In De Buse a town clerk circulated to council members and, as was the practice, to all local public libraries, an agenda attached to which was a report on loss of petrol from a council depot.
+The report recounted the conviction of two council employees for stealing the petrol, together with allegations of involvement on the part of other employees made by the convicted employees at their trial and repeated before the committee.
+The committee report recounted that the other employees had denied any such involvement, contained in terms no statement that the committee found the charges proved, but recommended the removal and transfer to other positions of the other employees.
+The Court of Appeal held that no privilege attached to the publication in public libraries.
+Even the ratepayers had no proper interest in a matter which was going to be examined internally, before it emerged in the shape of some practical action or practical resolution: p 166 per Lord Greene.
+Lord Greene went on to contrast Hunt v Great Northern Railway Co [1891] 2 QB 189, where a railway company, after dismissing a guard for gross neglect of duty, published the fact with details of the grounds in a circular to employees.
+Lord Greene thought such a publication to be obviously privileged, because it was clearly to the interest of railway company to bring home to its employees the type of action which was regarded by it as a proper subject for punishment by dismissal, and it was also to the interest of the employees to know that: p 167.
+De Buse therefore concerned a town clerks disclosure to the random cross section of society visiting public libraries of an agenda and report for a forthcoming meeting of the local authority.
+The meeting itself would shortly determine the consequences of the reported allegations.
+Several points arise.
+First, the case did not concern the press or its role as social watchdog in disclosing to the public information of real public interest.
+Tugendhat J pointed out (para 189), that the freedom of any public authority, including the police, to disclose information to the public body would now fall to be considered, not under the head of Reynolds public interest privilege, but under the Human Rights Act 1998 and article 8 of the Convention or the Data Protection Act 1998.
+Second, the public interest, even at a local level, of the allegations in De Buse does not compare with the public interest, at a national and international level, of the allegations of corruption in the MPS relating to the extradition of Russian oligarchs in the present case.
+Third, there was nothing in De Buse comparable to the feature of the present case, that the press had itself been investigating the matter, and was concerned that the police were not taking it as seriously as it appeared to merit.
+More fundamental though is the point noted by Lord Phillips, that the House of Lords in Reynolds and later also in Jameel has reconsidered the weight to be attached to protection of reputation and freedom of the press, and reached decisions of which the effect is to liberalise and to redress the balance in favour of greater freedom to publish matters of genuine public interest: Jameel, para 35, per Lord Bingham and para 38, per Lord Hoffmann.
+The Master of the Rolls took up these points and noted that the introduction of the Convention rights into domestic law potentially justified a different approach in relation to the circumstances of Purcell.
+The analysis of Convention authority which I have included in paras 138 146 above in my view bears this out.
+However, the Master of the Rolls was right to observe that both Purcell and De Buse remain as salutary reminders that publicising allegations of serious wrongdoing made by third parties, whether relayed to the police or not, can cause serious distress and reputational harm to the victim, and, if they turn out to be wrong, there should be a good reason before the victim is left without redress: para 43.
+Only the last part of this statement may be open to criticism, since the existence or otherwise of Reynolds privilege must be judged on the facts as they reasonably appeared to the journalist at the time.
+But any journalist who publishes allegations must consider carefully the public interest in doing so and the terms in which he does so, at a time when the allegations have not been investigated or their accuracy determined, and weigh these against the risk of unjustified damage to the reputations of those affected.
+The Master of the Rolls also noted in this connection Lord Nicholls warning in Reynolds, at p 201, that Protection of reputation is conducive to public good.
+It is in the public interest that the reputation of public figures should not be debased falsely.
+On the other hand, public officers with a role as important as that of the police must expect that their conduct will be open to close scrutiny by the press, as the European Court of Human Rights has made clear in cases such as Flux (No 7) v Moldova, paras 19 and 22, and Axel Springer AG v Germany, paras 91 and 99, where the Court indicated that the fact that the actor was known for his role as a police superintendent, whose mission was law enforcement and crime protection, itself bore on the public interest in being informed about his arrest for a criminal offence.
+Conclusion
+It follows from the analysis in paragraphs 154 to 178 above that in my view the Court of Appeal erred in its approach and in the reasons it gave for reaching conclusions differing from the judge.
+Balancing the competing interests in this case, the judge was in my view justified in the present case in regarding the article concerning DS Flood as covered by the public interest defence recognised in Reynolds and Jameel.
+The starting point is that the investigation into possible police corruption in the area of extradition of a Russian oligarch to Russia informed the public on a matter of great public interest and sensitivity.
+TNL journalists were motivated by a concern to ensure that the investigation was being or would be properly pursued.
+They had themselves investigated the sources and nature of the allegations exhaustively over a substantial period as far as they could.
+The article would have been unlikely to be publishable at all without details of the names and transactions involved in the alleged corruption.
+The facts regarding such transactions were accurately stated.
+The article, although undoubtedly damaging to DS Floods immediate reputation, was balanced in content and tone (certainly much more so, I add in parenthesis, than the articles in issue in White v Sweden: paras 140 141 above).
+It did not assert the truth of the reported allegations of impropriety made by the ISC insider, but it identified them as the basis of an investigation in progress to establish whether there had been any impropriety.
+DS Flood and all others implicated in the allegations of impropriety were given the opportunity of commenting, and their denials in that regard were in each case recorded.
+Such omissions as there may have been in the reporting were in the overall context minor.
+The judgment of the journalists and editors of TNL as to the nature and content of the article merits respect: paras 127 137 above.
+All these and other relevant factors fell and fall to be weighed in the balance.
+On this basis, there was, in my judgment, no good reason for the Court of Appeal to depart from the judges overall assessment that publication of the article was in the public interest, despite its immediate adverse effect on DS Floods reputation.
+On the contrary, I agree with the judges assessment.
+The proper appellate approach
+I agree with Lord Phillips that this is not the case in which to consider the proper appellate approach to the issue or issues involved in a decision on Reynolds privilege.
+It is unnecessary to do so.
+For the reasons given in paragraphs 121 181, I would allow the appeal and restore the judgment of Tugendhat J on the first limb of the appeal.
+LORD CLARKE
+Introduction
+I agree that the first limb of this appeal should be allowed for the reasons given by Lord Mance and Lord Dyson.
+I agree with Lord Brown that, for the reasons he gives, there is no principle of law that precludes TNL from invoking Reynolds privilege in a case such as this.
+I further agree with him that, as he puts it at para 113, in such a case the judge is deciding but a single question, namely whether those who published the defamation, given what they knew and did not know and whatever they had done or had not done to guard so far as possible against the publication of untrue defamatory material, could properly have considered the publication in principle to be in the public interest.
+I further agree with Lord Brown that, in deciding that question, a host of different considerations are in play.
+Lord Brown has identified some of them in para 113 above.
+Finally, I agree with his conclusion at para 119 that, where, as here, the denunciation is of a public officer, relates to a matter of obvious public importance and interest, and may justifiably appear to the journalists to be supported by a strong circumstantial case, it is properly open to the trial judge to find the defence made out.
+The question thus arises what is the correct approach of an appellate court to the determination of the question whether it was properly open to the trial judge to find the defence made out.
+I agree with the other members of the court that the answer to that question is not critical to the determination of the appeal because, as I read their judgments, they all agree that the appeal should be allowed, whatever the correct test.
+I had intended to express some views on this question.
+However, given that the question what is the correct test in a Reynolds privilege case was not the subject of oral argument, I agree with Lord Phillips, for the reasons he gives, that this is not the case in which this court should lay down any general principle in this class of case.
+LORD DYSON
+The general principles of Reynolds privilege are now well established: see Reynolds v Times Newpapers Ltd [2001] 2 AC 127, Bonnick v Morris [2002] 1 AC 300 and Jameel (Mohammed) v Wall Street Journal Europe Sprl [2007] 1 AC 359.
+These principles are not hard edged and, as is illustrated by the present case, their application in particular circumstances can give rise to real difficulty.
+As Lord Nicholls said in Reynolds at p 205D, the weight to be given to relevant factors will vary from case to case.
+Over time, a valuable corpus of case law will be built up.
+In Loutchansky v Times Newspapers Ltd [2002] QB 783, para 23, the Court of Appeal said that at the end of the day the court has to ask itself the single question whether in all the circumstances the duty interest test, or the right to know test has been satisfied so that qualified privilege attaches.
+Although this may be the ultimate question, the answer to it will usually depend on a number of specific considerations, which may include some or all of those identified by Lord Nicholls in his celebrated speech which is quoted by Lord Phillips at para 29 above.
+Thus necessary conditions for a Reynolds privilege defence will include that (i) there is a real public interest in communicating and receiving the information (the public interest issue); and (ii) the journalist must have taken the care that a responsible journalist would take to verify the information published (the verification issue): see, for example, per Baroness Hale at paras 147 to 149 of Jameel.
+But even if both of these conditions are fulfilled, it does not necessarily follow that the Reynolds privilege defence will be made out.
+As Lord Nicholls said in Reynolds, the existence of the defence will depend on whether there has been responsible journalism in all the circumstances.
+In the present case, the debate has focused on both the public interest and verification issues.
+They are factually distinct, although the rationale for Reynolds privilege tends to conflate them.
+Thus, it has been said that there is no duty to publish and the public has no interest to read material which the publisher has not taken reasonable steps to verify: see, for example, per Lord Bingham in Jameel at para 32.
+Lord Phillips and Lord Mance have explained in detail first why they consider that there was a public interest in the publication of most, if not all, of the facts that supported the story and in the naming of DS Flood; and secondly why they would hold that the journalists had taken reasonable steps to verify that there was a serious possibility that DS Flood had been guilty of corruption.
+I agree that the appeal should be allowed for the reasons given by Lord Mance and, subject to the qualifications that appear below, also for the reasons given by Lord Phillips.
+I propose to say nothing about the verification issue.
+But I wish to say something on three topics.
+The first arises from para 69 above, where Lord Phillips comments on para 104 of the judgment of Moore Bick LJ (quoted at para 67 above).
+The second is whether there was a public interest in naming DS Flood in the article.
+The third is whether the motives of the journalists were relevant to the public interest issue.
+Paragraph 104 of Moore Bick LJs judgment
+At para 104 of his judgment, Moore Bick LJ seems to set out a general principle as to when it will be in the public interest to publish details that appear to support an accusation that has been made against an individual of criminal conduct that is being investigated by the police.
+He appears to state in uncompromising terms as a general proposition that it is unnecessary and inappropriate (and therefore not in the public interest) for reports of serious allegations of crime or professional misconduct to set out the details of the allegations.
+The journalist should go no further than to describe the charge itself.
+That is sufficient to inform the public of what it has an interest in knowing.
+The alternative is trial by press without proper safeguards, which is clearly not in the public interest.
+In other words, regardless of the other circumstances of the case, it is not in the public interest to publish details that appear to support an accusation against an individual of criminal conduct that is being investigated by the police.
+This general principle would appear to deny a Reynolds defence even where, for example, the journalist has taken all reasonable steps to verify the truth of the details of the accusation, his sources are apparently reliable, the individual has been invited to comment on the accusations and his response is fairly reported and the tone of the article is measured.
+I can see no basis for a general rule in these uncompromising terms.
+So far as I am aware, there is no support for it in the authorities.
+I would reject it for three reasons.
+First, such a rule is not consonant with the statement by Lord Nicholls in Reynolds that all the circumstances of the case should be taken into account, which may include (but are not limited to) the ten factors listed by him.
+Secondly, Lord Nicholls emphasised the need to confine the interference with freedom of speech to what is necessary in the circumstances of the case.
+This is a point which is emphasised in many of the cases.
+It has particular importance in the light of the Human Rights Act 1998 and article 10 of the European Convention for the Protection of Human Rights and Fundamental Freedoms.
+In this respect, I agree with what Lord Mance says at paras 138 to 146 above.
+If (as para 104 would appear to suggest) it is unlawful to publish the details of an accusation of criminal conduct regardless of the public interest in the subject matter of the article and the other circumstances of the case, this is bound to have a chilling effect on investigative journalism of this type.
+This is undesirable in a democratic society.
+Thirdly, such a general rule is inconsistent with another important principle which is that, although the question of whether the story as a whole was a matter of public interest must be determined by the court, the question of whether defamatory details should have been included is often a matter of how the story should have been presented.
+On that issue, allowance must be made for editorial judgment: see per Lord Hoffmann in Jameel at para 51 quoted by Lord Mance at para 132 above.
+Moore Bick LJ recognised the importance of this point at para 100 of his judgment.
+He said: It has been recognised that a considerable degree of deference should be paid to editorial judgment when deciding whether the inclusion of the defamatory material was justified and undoubtedly setting out the allegations and naming DS Flood added force and credibility to the story.
+The paragraphs about various Russian oligarchs, their business affairs and their relationship with the Kremlin, were no doubt included essentially for colour and presentational purposes.
+Lord Phillips accepts that there is no general rule that it is not in the public interest to publish details that appear to support an accusation of criminal conduct that is being investigated by the police.
+But he says that the matters identified by Moore Bick LJ at para 104 will often weigh conclusively against publication of the details.
+In other words, the danger of trial by press without proper safeguards will often of itself determine that it is not in the public interest to publish the details.
+In my view, it is necessary to distinguish between allegations made against ordinary individuals and allegations made against persons who perform public functions (especially where they are about the alleged performance of those functions).
+I would accept that the danger of trial by press without proper safeguards will often weigh heavily against the publication of the details of an accusation against an ordinary individual.
+But where the accusation is of crime or professional misconduct by a person in his performance of a public function, I do not think that the danger of trial by press without proper safeguards weighs heavily, still less conclusively, against publication.
+As Lord Phillips says at para 69 above, subject to the issue of verification in this case, it was in the public interest to publish most of the facts that supported the accusation against DS Flood.
+The details of the accusation were likely to excite particular public interest since it concerned allegations of selling sensitive information about extradition for the benefit of Russian oligarchs.
+But I do not consider that the public interest in the publication of the details lay only in the particularly eye catching nature of the allegations of corruption in this case.
+It is generally likely to be in the public interest to publish the details of allegations of police corruption, whatever the nature of the alleged corruption, provided that the test of responsible journalism is met.
+It seems to me that the Reynolds privilege jurisprudence provides sufficient protection from the unjustified inclusion of the details of allegations of crime or professional misconduct.
+Thus not only must the story as a whole be in the public interest, but there must also be a public interest in the publication of the details of the allegations.
+The need for verification provides real protection for the individual concerned.
+More generally, Reynolds privilege is not available where there is some indication that the professional judgment of the editor or journalist was made in a casual, cavalier, slipshod or careless manner: per Lord Bingham in Jameel at para 33.
+And then there are other factors relevant to responsible journalism such as those identified by Lord Nicholls in Reynolds, including whether comment has been sought from the claimant, whether the article contains the gist of his side of the story and the tone of the article.
+I accept that, where the details of allegations which are being investigated by the police are published, the individual concerned may feel compelled to say something in response which he would be wiser not to say.
+But where he is asked by a journalist to comment on an allegation, he can seek legal advice.
+He can always deny the allegation (as DS Flood did in this case).
+Further, as Tugendhat J said at para 183 of his judgment, the law provides sanctions for interference with the course of justice or contempt of court.
+I would, therefore, hold that for all the reasons summarised by Lord Mance at paras 179 to 181 above, there was a public interest in the publication of the details of the allegations or the supporting facts in the article.
+Subject to what I have said at para 195 above, I also agree with what Lord Phillips says about this.
+The naming of DS Flood
+Lord Phillips deals with this at paras 73 to 75 and Lord Mance at paras 132 to 137 and 169.
+There is a difference of emphasis between them.
+The authorities referred to by Lord Mance at paras 132 to 137 show that weight should be given to a newspapers editorial judgment as to what details are necessary to convey the essential message.
+These include whether an individual should be named.
+Lord Phillips places little or no weight on the editorial judgment point but holds that, on the facts of this case, it was impossible to publish the details of the article without disclosing to those close to DS Flood that he was the officer to whom it related.
+I agree that this particular aspect of the case would support the conclusion that naming the officer was responsible journalism.
+But I would also reach this conclusion on the wider basis that the court should be slow to interfere with an exercise of editorial judgment and would hold on that ground too that the naming of the individual was justified in this case.
+The motive question
+The judge held that it was a matter of public interest that the police may not have been investigating allegations of police corruption in a timely fashion and that it was in pursuit of a legitimate aim (and therefore in the public interest) that TNL published the article with a view to attempting to ensure that an investigation took place, or took place in a timely fashion (paras 200 and 216).
+The Court of Appeal disagreed: [2011] 1 WLR 153.
+Lord Neuberger MR (para 54) said that the subjective motives of the journalist were irrelevant to whether the publication was in the public interest.
+Moore Bick LJ (para 106) did not accept that part of the public interest in publishing the story lay in prompting the investigation.
+He said that, if the purpose of the article had been to prompt the police to pursue an investigation, the article would have been written in a way that would have placed greater emphasis on the existence of the allegations and the failure of the police to pursue an investigation.
+Moses LJ (para 114) agreed with both.
+It is important to distinguish between the objective aim of a publication and the subjective motives of the journalist or publisher who publishes it.
+I agree that the subjective motives are usually irrelevant to the question whether the publication is in the public interest.
+That question should be determined objectively.
+I think that this is what Lord Neuberger was saying.
+The mere fact that an article is published because the journalist or publisher wants to hurt the subject of the article is not material to whether the publication is in the public interest.
+A story that a police officer is being investigated for corruption is prima facie in the public interest even if the story is published in furtherance of a personal vendetta by the journalist or publisher against the officer.
+If an investigation into allegations of police corruption is not being properly conducted, there is a public interest in the publication of a story about that failure.
+Quite apart from the public interest in the subject matter of the story, the objective aim of its publication might legitimately be to draw attention to the failure and to encourage the proper conduct of the investigation.
+It was in the public interest for the allegations against DS Flood to be investigated promptly, and that was relevant to whether it was in the public interest to publish a story about the investigation.
+Lord Nicholls said in terms in Reynolds at p 205C: A newspaper can raise queries or call for an investigation.
+By the same token, it can publish a story about an existing investigation and expressly or by implication criticise the manner in which the investigation is being conducted.
+Moore Bick LJ seems implicitly to have accepted this, but concluded that, if that had been the purpose of the Article, it would have been expressed differently.
+Like Lord Phillips (para 70) and Lord Mance (para 160), I am of the opinion that the Court of Appeal should not have interfered with the finding of the judge on this point (which in any event did not form a central part of his reasoning).
+Like Lord Clarke, I had intended to express an opinion as to the circumstances in which an appellate court should interfere with the assessment of the lower court on an issue such as whether a publication should be protected by Reynolds privilege.
+But I have been persuaded that, for the reasons given by Lord Phillips at paras 100 to 106 above, it would not be right to do so in the present case.

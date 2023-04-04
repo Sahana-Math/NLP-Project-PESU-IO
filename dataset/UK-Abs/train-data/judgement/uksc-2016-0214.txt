@@ -1,0 +1,201 @@
+The financial crisis of 2007 2008 revealed systemic weaknesses in the European banking system and the lack of an adequate legal framework for rescuing failing banks in some member states of the European Union.
+The result, after a long period of deliberation, was the European Bank Recovery and Resolution Directive 2014/59/EU (or EBRRD).
+The directive required member states to confer on their domestic Resolution Authorities (usually the Central Bank) certain minimum powers (or tools) for reconstructing the businesses of failing credit institutions and investment firms.
+One of the tools was the bridge institution tool, which is dealt with in section 3 (articles 40 41) of the EBRRD.
+This required designated national Resolution Authorities to have the power to transfer to a bridge institution any assets, rights or liabilities of a failing credit institution.
+The present appeal is about the recognition in the United Kingdom of measures by a foreign Resolution Authority in accordance with its own national legislation implementing the EBRRD.
+Any pan European scheme for dealing with the systemic risks of bank failures must depend for its efficacy on the widest possible recognition of a home states measures in other jurisdictions where banks in the course of reorganisation may have interests or assets or under whose laws it may have contracted.
+The EBRRD dealt with this issue mainly by amending the earlier Directive 2001/24/EC on the Reorganisation and Winding up of Credit Institutions (which I shall call the Reorganisation Directive).
+The Reorganisation Directive applied to credit institutions in the course of reorganisation or winding up in a member state.
+It provided for their assets and liabilities to be dealt with in a single process under the law of the home member state, and for the legal consequences to be recognised in all other member states, irrespective of any other relevant law.
+The EBRRD amended the Reorganisation Directive so that it applied to measures taken in accordance with the new tools with which member states were required to equip themselves.
+In addition, the EBRRD made supplementary provision for co operation among member states in giving effect to those measures.
+Oak Finance and Banco Esprito Santo SA
+The appellants sue as the assignees of the rights of Oak Finance Luxembourg SA.
+On 30 June 2014, Oak entered into a facility agreement with a Portuguese commercial bank, Banco Esprito Santo SA (BES), through the latters Luxembourg branch, under which it agreed to lend it about $835m.
+The facility agreement was governed by English law and provided for the English courts to have exclusive jurisdiction in respect of any dispute arising out of or in connection with this Agreement.
+The entire facility was drawn down on 3 July 2014.
+The first scheduled repayment, amounting to $52,860,814.22, was due on 29 December 2014.
+It shortly became clear, however, that BES was in serious financial difficulties.
+On 30 July 2014, BES reported losses for the first half of 2014 exceeding $3.5 billion, and on the following day applied to Banco de Portugal, the Central Bank of Portugal, for emergency liquidity assistance.
+Banco de Portugal is the designated Resolution Authority for Portugal for the purpose of the EBRRD.
+The relevant terms of the EBRRD had been incorporated into Portuguese law by various provisions added by amendment to the Banking Law (Regime Geral das Instituies de Crdito e Sociedades Financeiras).
+Articles 145 G, 145 H and 145 I of the Banking Law (as amended) implemented the provisions concerning the bridge institution tool.
+On 3 August 2014, the Central Bank decided to invoke these provisions in order to protect depositors funds.
+By a Deliberation published on that date it incorporated Novo Banco SA to serve as the bridge institution, and transferred to it the assets and liabilities of BES specified in Annexes 2 and 2A.
+Annex 2 specified all assets and liabilities recorded in its accounts with certain exceptions.
+Under article 145 H(2) of the Banking Law, no liability could be transferred to a bridge institution if it was owed to an entity holding more than 2% of the original credit institutions share capital.
+An exception to that effect was accordingly included as paragraph (b)(i)(a) of Annex 2 of the Central Banks decision.
+Annex 2A was the balance sheet of BES as at 30 June 2014 adjusted to the time of transfer to show what was then understood to be the value of the transferred assets and liabilities.
+The Oak liability was not mentioned there by name, but it was included in the totals for liabilities.
+There followed a number of further decisions of the Central Bank adjusting the transfer of both assets and liabilities as investigation of BESs affairs proceeded.
+One of these concerned the Oak liability.
+On 22 December 2014, a week before the due date of the first scheduled repayment of the Oak loan, an internal memorandum addressed to the Board of the Central Bank recorded that although it had originally been thought that the Oak liability was eligible for transfer to Novo Banco, subsequent investigations suggested (i) that Oak had entered into the facility agreement on behalf of Goldman Sachs, and (ii) that Goldman Sachs held more than 2% of BESs share capital.
+In these circumstances, the Board of the Central Bank reached a decision later that day.
+The document recording the decision recites that: there are serious and grounded reasons to justify the understanding that Oak Finance, in granting this loan, acted on account of Goldman Sachs International, an entity in relation to which serious and grounded reasons also exist to consider that it falls under paragraph a) of no 2 of article 145 H of the [Banking Law].
+The operative part of the decision, which follows, is in these terms: (a) Banco Esprito Santos liability towards Oak Finance pursuant to the loan agreement of 30 June 2014 was not transferred to Novo Banco; (b) This decision is effective as of 3 August 2014; (c) Novo Banco and Banco Esprito Santo must adapt their accounting records to the present decision and act in accordance with it.
+Goldman Sachs objected.
+They contended that while they had arranged the facility agreement they were not the true lenders.
+Nor were they holders of more than 2% of BESs share capital.
+The Central Bank did not accept either point.
+On 11 February 2015, its Board resolved to maintain its decision of 22 December 2014.
+The minutes record Goldman Sachs objection and the Central Banks view that it disclosed no grounds for departing from the decision.
+But it recites that any issue as to the eligibility of the Oak loan for transfer to Novo Banco would ultimately have to be resolved by a court of law.
+There are current administrative law proceedings in Portugal in which the appellants challenge the Central Banks decision of 22 December 2014.
+These have not yet been resolved.
+The present proceedings
+On 26 February 2015, the appellants commenced the present actions against Novo Banco in the High Court in England for sums due in respect of the Oak loan.
+The basis of their claims was that liability on the Oak facility had been transferred to Novo Banco by the Central Banks decision of 3 August 2014.
+On that footing, Novo Banco was bound by the jurisdiction clause in the facility agreement.
+Novo Banco countered by applying to set aside service of the claim forms in both actions for want of jurisdiction, on the ground that it had not been transferred, principally because the decision of 22 December 2014 conclusively determined that that was so.
+This is, accordingly, a case in which the fact on which jurisdiction depends is also likely to be decisive of the action itself if it proceeds.
+For the purpose of determining an issue about jurisdiction, the traditional test has been whether the claimant had the better of the argument on the facts going to jurisdiction.
+In Brownlie v Four Seasons Holdings Inc [2018] 1 WLR 192, para 7, this court reformulated the effect of that test as follows: (i) that the claimant must supply a plausible evidential basis for the application of a relevant jurisdictional gateway; (ii) that if there is an issue of fact about it, or some other reason for doubting whether it applies, the court must take a view on the material available if it can reliably do so; but (iii) the nature of the issue and the limitations of the material available at the interlocutory stage may be such that no reliable assessment can be made, in which case there is a good arguable case for the application of the gateway if there is a plausible (albeit contested) evidential basis for it.
+It is common ground that the test must be satisfied on the evidence relating to the position as at the date when the proceedings were commenced.
+Portuguese law
+There is, at least for the purposes of the jurisdiction issue, a large measure of common ground about the powers of the Central Bank and the legal status of its successive decisions as a matter of Portuguese law.
+The decisions of 3 August and 22 December 2014 were administrative acts governed by rules of administrative law which, as in other civil law systems, are distinct from the rules which govern civil matters.
+It is agreed that both decisions were valid acts establishing legal rights and obligations of third parties in accordance with their terms.
+It is agreed that a public authority may amend its own administrative act prospectively or interpret it with effect from the time it was made.
+It is agreed that a public authority may by a subsequent decision implement its own administrative act or apply it to a particular case.
+Finally, it is agreed that administrative acts are reviewable by the courts of Portugal, which may annul them on the ground that they were based on an erroneous factual assumption or on an error of law.
+But unless and until they are annulled, they remain binding and directly effective as a matter of law.
+The parties are not agreed about the meaning of the December decision.
+They are, however, agreed that it took effect according to its terms from 3 August 2014 and that subject to annulment by a Portuguese court it conclusively determined as a matter of Portuguese law that the Oak liability was not transferred to Novo Banco.
+The appellants case is that while the legal effect of the August decision in Portugal falls to be recognised in England, the legal effect of the December decision does not.
+Recognition: the Directives
+The rescue of failing financial institutions commonly involves measures affecting the rights of their creditors and other third parties.
+Depending on the law under which the rescue is being carried out, these measures may include the suspension of payments, the writing down of liabilities, moratoria on their enforcement, and transfers of assets and liabilities to other institutions.
+At common law measures of this kind taken under a foreign law have only limited effect on contractual liabilities governed by English law.
+This is because the discharge or modification of a contractual liability is treated in English law as being governed only by its proper law, so that measures taken under another law, such as that of a contracting partys domicile, are normally disregarded: Adams v National Bank of Greece SA [1961] AC 255.
+By way of exception, however, the assumption of contractual liabilities by another entity by way of universal succession may be recognised in England: National Bank of Greece & Athens SA v Metliss [1958] AC 509.
+The National Bank of Greece litigation arose out of the reconstruction under Greek law of the liabilities of an insolvent Greek bank which had issued bonds governed by English law, a context very similar to that of the present appeal.
+As regards banks, however, the law declared in those two decisions of the House of Lords was superseded by the Credit Institutions (Reorganisation and Winding Up) Regulations (SI 2004/1045), which gave effect in English law to the Reorganisation Directive, and by the Bank Recovery and Resolution (No 2) Order (SI 2014/3348) which amended the 2004 order to reflect the changes made to the Reorganisation Directive by the EBRRD.
+The purpose of the Reorganisation Directive is apparent from its recitals.
+Recitals (6), (7) and (16) are in the following terms: (6) The administrative or judicial authorities of the home member state must have sole power to decide upon and to implement the reorganisation measures provided for in the law and practices in force in that member state.
+Owing to the difficulty of harmonising member states laws and practices, it is necessary to establish mutual recognition by the member states of the measures taken by each of them to restore to viability the credit institutions which it has authorised.
+It is essential to guarantee that the reorganisation (7) measures adopted by the administrative or judicial authorities of the home member state and the measures adopted by persons or bodies appointed by those authorities to administer those reorganisation measures, including measures involving the possibility of a suspension of payments, suspension of enforcement measures or reduction of claims and any other measure which could affect third parties existing rights, are effective in all member states. (16) Equal treatment of creditors requires that the credit institution is wound up according to the principles of unity and universality, which require the administrative or judicial authorities of the home member state to have sole jurisdiction and their decisions to be recognised and to be capable of producing in all the other member states, without any formality, the effects ascribed to them by the law of the home member state, except where this Directive provides otherwise.
+The relevant substantive provision is article 3, which provides: Article 3 Adoption of reorganisation measures applicable law 1.
+The administrative or judicial authorities of the home member state shall alone be empowered to decide on the implementation of one or more reorganisation measures in a credit institution, including branches established in other member states. 2.
+The reorganisation measures shall be applied in accordance with the laws, regulations and procedures applicable in the home member state, unless otherwise provided in this Directive.
+They shall be fully effective in accordance with the legislation of that member state throughout the Community without any further formalities, including as against third parties in other member states, even where the rules of the host member state applicable to them do not provide for such measures or make their implementation subject to conditions which are not fulfilled.
+The reorganisation measures shall be effective throughout the Community once they become effective in the member state where they have been taken.
+Article 3 governs the recognition of reorganisation measures.
+Article 2, as amended by article 117(2) of the EBRRD, defines these as follows: reorganisation measures shall mean measures which are intended to preserve or restore the financial situation of a credit institution or an investment firm as defined in article 4(1), point (2) of Regulation (EU) No 575/2013 and which could affect third parties pre existing rights, including measures involving the possibility of a suspension of payments, suspension of enforcement measures or reduction of claims; those measures include the application of the resolution tools and the exercise of resolution powers provided for in Directive 2014/59/EU.
+Since it is not disputed that Banco de Portugal had power under Portuguese law to employ the bridge institution tool as it did, it is unnecessary to examine the detailed provisions of the EBRRD relating to the reconstruction of bank liabilities.
+For present purposes, the relevant provisions are those dealing with mutual recognition of the legal effects of measures taken in accordance with the tools and the provisions dealing with challenges to those measures in the courts of the home member state.
+As far as mutual recognition is concerned, recital (119) recites: (119) Directive 2001/24/EC of the European Parliament and of the Council provides for the mutual recognition and enforcement in all member states of decisions concerning the reorganisation or winding up of institutions having branches in member states other than those in which they have their head offices.
+That Directive ensures that all assets and liabilities of the institution, regardless of the country in which they are situated, are dealt with in a single process in the home member state and that creditors in the host member states are treated in the same way as creditors in the home member state.
+In order to achieve an effective resolution, Directive 2001/24/EC should apply in the event of use of the resolution tools both when those instruments are applied to institutions and when they are applied to other entities covered by the resolution regime.
+Directive 2001/24/EC should therefore be amended accordingly.
+Article 66 is a supplementary recognition provision dealing with (among other things) dispositions of assets and liabilities in the course of a reorganisation of a credit institution in its home state.
+It provides: Article 66 Power to enforce crisis management measures or crisis prevention measures by other member states. 1.
+Member states shall ensure that, where a transfer of shares, other instruments of ownership, or assets, rights or liabilities includes assets that are located in a member state other than the state of the resolution authority or rights or liabilities under the law of a member state other than the State of the resolution authority, the transfer has effect in or under the law of that other member state. 3.
+Member states shall ensure that shareholders, creditors and third parties that are affected by the transfer of shares, other instruments of ownership, assets, rights or liabilities referred to in paragraph 1 are not entitled to prevent, challenge, or set aside the transfer under any provision of law of the member state where the assets are located or of the law governing the shares, other instruments of ownership, rights or liabilities.
+Turning to proceedings to challenge measures taken in accordance with the tools, recitals (88) and (89) of the EBRRD recite the need for the decisions of a Resolution Authority to be subject to appeal to the courts on the ground (among others) of insufficient factual basis.
+Recitals (90) and (91) are in the following terms: (90) Since this Directive aims to cover situations of extreme urgency, and since the suspension of any decision of the resolution authorities might impede the continuity of critical functions, it is necessary to provide that the lodging of any appeal should not result in automatic suspension of the effects of the challenged decision and that the decision of the resolution authority should be immediately enforceable with a presumption that its suspension would be against the public interest. (91) In addition, where necessary in order to protect third parties who have acquired assets, rights and liabilities of the institution under resolution in good faith by virtue of the exercise of the resolution powers by the authorities and to ensure the stability of the financial markets, a right of appeal should not affect any subsequent administrative act or transaction concluded on the basis of an annulled decision.
+In such cases, remedies for a wrongful decision should therefore be limited to the award of compensation for the damages suffered by the affected persons.
+The corresponding substantive provision is article 85, which provides: Article 85 Ex ante judicial approval and rights to challenge decisions 1.
+Member states may require that a decision to take a crisis prevention measure or a crisis management measure is subject to ex ante judicial approval, provided that in respect of a decision to take a crisis management measure, according to national law, the procedure relating to the application for approval and the courts consideration are expeditious. 3.
+Member states shall ensure that all persons affected by a decision to take a crisis management measure, have the right to appeal against that decision.
+Member states shall ensure that the review is expeditious and that national courts use the complex economic assessments of the facts carried out by the resolution authority as a basis for their own assessment. 4.
+The right to appeal referred to in paragraph 3 shall be subject to the following provisions: (a) the lodging of an appeal shall not entail any automatic suspension of the effects of the challenged decision; (b) the decision of the resolution authority shall be immediately enforceable and it shall give rise to a rebuttable presumption that a suspension of its enforcement would be against the public interest.
+In paragraphs 3 and 4, a crisis management measure includes a resolution action: article 2(102).
+A resolution action includes the application of a resolution tool, or the exercise of one or more resolution powers: article 2(40).
+A resolution power refers to the powers under national law which are required in order to apply the resolution tools: articles 2(20) and 63.
+The judgments below
+Before Hamblen J, Novo Bancos case was that the effect of the December decision fell to be recognised in an English court by virtue of article 66 of the EBRRD.
+They did not rely on article 3 of the Reorganisation Directive.
+The judge approached the question in two stages: [2015] EWHC 2371 (Comm).
+He held, first, that it was sufficiently established for the purpose of jurisdiction (ie the claimants had the better of the argument) that Goldman Sachs held less than 2% of the share capital of BES and was not the real lender under the facility agreement.
+It followed that for the purpose of jurisdiction, it must be assumed that the Oak liability had been transferred to Novo Banco by the decision of 3 August 2014, there being (on that footing) no relevant exception covering it.
+That being so, he considered, secondly, that Novo Banco became party to the jurisdiction clause in the facility agreement on 3 August 2014.
+Novo Banco was therefore bound to submit to the English court any dispute arising out of or in connection with this Agreement, including the dispute about the effect of the December decision.
+On that footing he did not need to decide what the effect of the latter decision was, nor whether it fell to be recognised under article 66 of the EBRRD.
+These would be matters for trial.
+But in case he was wrong about that, he also held that article 66 did not require the recognition of the December decision in England because, whatever else it was, the December decision was not itself a transfer of assets.
+In the Court of Appeal the argument took a different turn as a result of the intervention of Banco de Portugal.
+Mr Howard QC, who appeared for them both in the Court of Appeal and before us, put at the forefront of his case on recognition article 3 of the Reorganisation Directive, which had received hardly any attention before Hamblen J.
+The significance of this is that article 3, unlike article 66 of the EBRRD, is not limited to requiring the mutual recognition of transfers.
+Mr Howards primary submission was, in summary, that the Directives required the recognition of the entire process of reorganisation under the EBRRD and that it was in principle wrong to consider the effect of the August decision independently of the December decision.
+Whatever the correct legal analysis of the December decision, an English court was bound to recognise its effect as a matter of Portuguese law, which was to determine conclusively that the Oak liability had not been transferred.
+The Court of Appeal allowed the appeal, substantially on that ground: [2016] EWCA Civ 1092; [2017] 2 BCLC 277.
+Application of the recognition provisions of the Directives
+The first thing that strikes one about the appellants submission is its inherent implausibility.
+The appellants accept, indeed assert, (i) that the August decision was a reorganisation measure entitled to recognition in England under article 3 of the Reorganisation Directive and (ii) that it was a transfer for the purpose of article 66 of the EBRRD.
+The result of separating the August decision from the December decision and giving effect only to the former is that in the eyes of an English court Portuguese law must be treated as having transferred the Oak liability to Novo Banco although it would not be so treated in the eyes of a Portuguese court.
+Since the ordinary purpose of any choice of law rule is to ascertain which legal rules should be applied in the relevant foreign jurisdiction, this is a paradoxical result.
+In assessing the appellants submission, the provision which is primarily relevant is article 3 of the Reorganisation Directive, as amended by the EBRRD to apply to reorganisation measures taken in the exercise of its various tools.
+Article 3 of the Reorganisation Directive, as its title declares, determines the applicable law to be applied to a reorganisation measure in England.
+Article 66 of the EBRRD is a more specific provision.
+Although its language may suggest some overlap with article 3 of the Reorganisation Directive it is, as its title declares, about enforcement.
+Its main purpose is to require other member states to take active steps to enforce transfers of assets or liabilities made in the course of a reorganisation in the home state and to prevent challenges to such transfers in their own jurisdictions.
+Two points need to be made about the Reorganisation Directive, and in particular about article 3.
+The first is that its purpose, as recital (119) of the EBRRD records, is to ensure that all assets and liabilities of the institution, regardless of the country in which they are situated, are dealt with in a single process in the home member state and that creditors in the host member states are treated in the same way as creditors in the home member state.
+This can be achieved only by taking the process as a whole and applying the legal effects attaching to it under the law of the home state in every other member state.
+It is not consistent with either the language or the purpose of article 3 that an administrative act such as the December decision, which affects the operation of a reorganisation measure under the law of the home state, should have legal consequences as regards a credit institutions debts which are recognised in the home state but not in other member states.
+This was the basis of both of the decisions of the Court of Justice on article 3 of the Reorganisation Directive.
+LBI hf v Kepler Capital Markets SA (Case C 85/12) (Judgment delivered on 24 October 2013) arose out of proceedings in France brought by a creditor of an insolvent Icelandic bank in the course of winding up in Iceland to attach a debt owed to the bank by Kepler.
+One of the questions referred to the CJEU was whether article 3 applied to an automatic statutory moratorium retrospectively introduced under the transitional provisions of an Icelandic statute, given that article 3 referred only to decisions of the home states administrative or judicial authorities.
+The CJEU answered that question by reference to the purpose of the Reorganisation Directive.
+The Court described that purpose as follows at para 22: At the outset, it must be borne in mind that, as is apparent from recital 6 in its preamble, Directive 2001/24 seeks to establish mutual recognition by the member states of the measures taken by each of them to restore to viability the credit institutions which it has authorised.
+That objective, and that of guaranteeing equal treatment of creditors, laid down in recital 16 to that directive, require that the reorganisation and winding up measures taken by the authorities of the home member state have, in all the other member states, the effects which the law of the home member state confers on them.
+The court went on, at para 39, to describe the Directive as establishing a system of mutual recognition of national reorganisation and winding up measures, without seeking to harmonise national legislation on that subject.
+It answered the question in the affirmative, because the effect of the transitional provisions was retrospectively to treat the judicial declaration of insolvency as ordering the moratorium.
+Similarly, in Kotnik v Dravni Zbor Republike Slovenije (Case C 526/14) [2017] 1 CMLR 753, one of the issues concerned the application of article 3 to a decision of the Slovenian central bank reconstructing the share and loan capital of an insolvent commercial bank.
+After referring to its analysis of the purpose of the Reorganisation Directive in LBI, the Court observed, at para 105: That objective entails that the reorganisation measures taken by the administrative or judicial authorities of the home member state, that is, the member state in which a credit institution has been authorised, must have, in all the other member states, the effects which the law of the home member state confers on them (see, to that effect, LBI EU:C:2013:697 at para 22).
+Secondly, an administrative act such as the August decision does not occur in a legal vacuum.
+It occurs in the context of a broader framework of public law.
+Article 3 does not only give effect to reorganisation measures throughout the Union.
+It requires them to be applied in accordance with the laws, regulations and procedures applicable in the home member state, unless otherwise provided in this Directive, and to be fully effective in accordance with the legislation of that member state.
+In this legal scheme, it cannot make sense for the courts of another member state to give effect to a reorganisation measure but not to other provisions of the law of the home state affecting the operation of a reorganisation measure.
+That is so, whether or not that other provision is itself a reorganisation measure.
+For these reasons I reject the proposition, which was fundamental to both the Judges analysis and the appellants case, that the effect of the August decision can be recognised without regard to the December decision.
+On the face of it, the December decision was not an interpretation of the August decision or an amendment of it, retrospective or otherwise.
+Nor was it a retransfer of a liability previously transferred to Novo Banco.
+It was a ruling that under the terms of article 145 H(2) of the Banking Law and paragraph (b)(i)(a) of Annexe 2 of the August decision, the Oak liability had never been transferred.
+But, like the courts below, I do not think that it matters what the correct analysis of the December decision is, provided that it is accepted (as it is) that as a matter of Portuguese law it is conclusive of that point unless and until annulled by a Portuguese administrative court.
+It follows from the agreed propositions of Portuguese law and from the requirement of article 3.2 of the Reorganisation Directive that an English court must treat the Oak liability as never having been transferred to Novo Banco.
+It was therefore never party to the jurisdiction clause.
+This makes it unnecessary to consider the alternative case advanced by Banco de Portugal and Novo Banco to the effect that the December decision was itself a reorganisation measure or an implied retransfer of the Oak liability to BES.
+A provisional decision?
+The appellants have an alternative case that even if the December decision is otherwise entitled to recognition in England, it should be disregarded on the ground that it was a provisional decision pending the final decision of a Portuguese administrative court on the questions whether Goldman Sachs was the true lender or a 2% shareholder in BES.
+The argument is that an English court should look to what the Portuguese administrative court would decide about those questions and not what the Central Bank has actually decided.
+Mr Rabinowitz QC, who appeared for Guardians of New Zealand Superannuation Fund and others, submitted that the Judges finding that the appellants had the better of the argument on those questions meant that we must assume that a Portuguese administrative court would decide them in the appellants favour.
+The first point to be made is that the December decision was not in terms a provisional decision.
+The Judge thought that Banco de Portugal had not stated or purported to find that the Oak liability is an Excluded Liability.
+He considered that the December decision simply asserted that there are serious and well grounded reasons so to conclude, while recognising that that was ultimately a matter for a court of law to determine.
+I respectfully disagree.
+He was referring to the recitals and not to the operative part of the decision.
+The minutes recited the Central Banks reasons for the decision, which were based on its current view of the facts.
+But the operative section determined that the Oak liability was not transferred to Novo Banco and directed that the accounting records of Novo Banco should be restated accordingly.
+It follows that the Appellants submission must be based on the mere fact that like any other administrative decision it was subject to review by a Portuguese administrative court.
+The appellants submission to this effect is based on the decision of the Court of Appeal in Guaranty Trust of New York v Hannay & Co [1918] 2 KB 623.
+The question at issue in this case was whether as a matter of New York law a particular bill of exchange was conditional.
+In previous proceedings on the same issue between the same parties a New York judge had held on demurrer that it was.
+Bailhache J and the Court of Appeal held that it was not.
+The ground of the decision was that the judgment was no more than evidence of New York law, and expert evidence put before the English courts showed it to be mistaken.
+The point was put with characteristic clarity by Scrutton LJ at p 667: Foreign law is a question of fact to an English Court; the judgment of a foreign judge is not binding on an English Court, but is the opinion of an expert on the fact, to be treated with respect, but not necessarily conclusive.
+In my opinion, this decision has no bearing on the present appeal.
+The issue in Guaranty Trust was not about the legal status of the New York judgment as a matter of New York law.
+The question was what the relevant rule of New York law was.
+That was a question of fact.
+In the present case, there is no issue about either the relevant content of Portuguese law or the status of the December decision, because it is agreed that as a matter of Portuguese law it determines creditors rights.
+The present issue is quite different, namely whether that decision is to be recognised as affecting rights under an English law contract.
+That is not a question of fact, but a question of private international law.
+True it is that the December decision was based on a factual premise which is being challenged in Portugal.
+But it does not matter for present purposes whether its factual premise was right or wrong.
+It is binding in Portuguese law in either case, unless and until it is set aside by a Portuguese court.
+No other conclusion would, as it seems to me, be consistent with the Directives.
+In the first place, it is not for an English court to decide what would amount to an appeal from an administrative act of the Portuguese Central Bank.
+Article 3(1) of the Reorganisation Directive provides that the implementation of a reorganisation measure such as the August decision is a matter for the administrative or judicial authorities of the home state alone.
+Consistently with that approach, article 85 of the EBRRD assigns appeals to the courts of the home state responsible for the reorganisation.
+Secondly, article 85(4) provides that an appeal is not to entail any automatic suspension of the challenged decision.
+This is because a banking reconstruction under the EBRRD requires decisive steps to be taken, often as a matter of urgency, which the authorities in other member states can act on.
+The scheme of the Directives would be undermined if the acts of a designated national Resolution Authority were open to challenge in every other member state simply because they were open to challenge in the home state.
+Reference to the Court of Justice of the European Union
+The relevant propositions of EU law are to my mind beyond serious argument.
+The decisive questions are questions of Portuguese domestic law, on which the parties are agreed.
+There is therefore no proper basis for a reference.
+Disposal
+I would dismiss the appeal.

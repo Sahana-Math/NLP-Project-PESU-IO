@@ -1,0 +1,49 @@
+This appeal concerns the principle that an individual extradited to the UK to face trial may only be tried for crimes allegedly committed before the extradition if those crimes form the basis of the extradition request (the specialty principle), and its application to contempt of court proceedings.
+In 2009 Mr OBrien came under investigation on suspicion of involvement in a large scale scheme to defraud investors, commonly known as a boiler room fraud.
+On 24 September 2009 the Common Serjeant of London made a restraint order against him under section 41 of the Proceeds of Crime Act 2002 (POCA).
+This order required Mr OBrien (amongst other things) to make disclosure of his assets, not to remove assets from England and Wales, and to return to England and Wales within 21 days any moveable asset in which he had an interest outside England and Wales.
+The order contained a penal notice, warning Mr OBrien that if he disobeyed the order he could be found to be in contempt of court.
+Mr OBrien disobeyed the order and fled to the United States.
+On 18 December 2009 the Common Serjeant found that he was in contempt and issued a bench warrant for his arrest.
+Mr OBrien was traced to Chicago.
+The Serious Fraud Office (SFO) sought his extradition to face charges relating to the alleged boiler room fraud.
+Mr OBrien consented to his extradition on 8 October 2010.
+Since there was a concern that the outstanding bench warrant could complicate the extradition, the SFO applied to the Common Serjeant to set aside the bench warrant, which he did on 18 November 2010.
+Mr OBrien was returned to the UK on 2 December 2010.
+He was arrested, charged with various fraud offences, and remanded in custody.
+Meanwhile the SFO had reviewed its concerns about the contempt allegation, and re applied to the Common Serjeant for Mr OBriens committal for contempt.
+Mr OBrien challenged the courts jurisdiction to hear the application.
+That challenge was rejected by the Common Serjeant and by the Court of Appeal.
+Mr OBrien now appeals to the Supreme Court on two grounds, namely that: On the correct construction of the Extradition Act 2003, the specialty rule applies to any extradition offence, defined as conduct occurring in the UK and punishable under the law of the UK with imprisonment or detention for 12 months or more (by reference to sections 148 and 151A of the Extradition Act 2003 (the 2003 Act)).
+Mr OBriens contempt satisfies these criteria and so falls within the specialty rule; or In the alternative, Mr OBriens contempt of court is a criminal contempt constituting a criminal offence, and so falls within the specialty rule.
+The Supreme Court dismisses the appeal.
+The judgment of the Court is given by Lord Toulson.
+On the first issue, the Court holds that section 151A does not directly apply to this case [34 35].
+In any event, the sections relied upon by Mr OBrien cannot be read in isolation, and reading the Act as a whole it is clear
+that conduct constituting an extradition offence must be a criminal offence under the law of the requesting state (here the UK) [36].
+On the second issue, the Court holds that there is a material distinction between civil and criminal contempt.
+The latter involves a serious interference with the administration of justice [41].
+The former is an inherent power used by a senior court in order to ensure that its orders are observed.
+Its primary purpose is to ensure that the courts orders are observed, and the contemnor does not acquire a criminal record [39 40].
+In this case Mr OBriens disobedience to the Common Serjeants order constitutes civil contempt, which does not constitute an extradition offence [45].
+First Ground: Mr OBrien argued that if his contempt satisfied the definition of extradition offence in section 148 of the 2003 Act, section 151A precluded a United Kingdom court dealing with him for that contempt [14 16].
+Mr OBriens argument required reading these two sections in isolation.
+However, it is necessary to see how those sections fit into the structure of the 2003 Act [20].
+Each of Parts 1 3 of the 2003 Act contain a similar definition of extradition offence, in each case referring to conduct punishable with imprisonment or another form of detention for a term of 12 months or a greater punishment, with a common structure across the definitions [21].
+The Extradition Act 1989 was replaced by the 2003 Act in order to implement, in Part 1 of the 2003 Act, an EU Framework Decision [22].
+Under the Framework Decision, it is a prerequisite of a valid arrest warrant that the conduct of which the person is accused or has been convicted constitutes a criminal offence under the law of the requesting state [25].
+In relation to Part 1 (dealing with extradition from the UK to other Member States), the definition of extradition offence accordingly requires that an offence either be a listed extraditable offence or an offence under the law of the United Kingdom [28].
+A similar scheme is in place in relation to extradition from the UK to those non EU countries with which the UK has extradition arrangements, governed by Part 2 of the 2003 Act.
+So, sections 137 and 138 of the 2003 Act require that an extradition offence concerns conduct which would constitute an offence under UK law [29 30].
+That accords with the essential nature of extradition as it has been understood in the UK [31 33].
+Part 3 of the 2003 Act deals with extradition to the UK. section 148 (within Part 3) has no direct application to this case, since the UK judiciary is not involved in the process of obtaining Mr OBriens extradition [35].
+Nonetheless section 151A should be understood in the light of the wider scheme of the 2003 Act.
+It is clear that nothing can constitute an extradition offence unless it is a criminal offence under the relevant state, here the UK [36].
+Second Ground: A restraint order under POCA is an interim remedy, aiming to prevent the disposal of realisable assets during a criminal investigation.
+The Crown Court has an inherent jurisdiction to treat breach of such orders as contempt of court [37 38].
+There is a well recognised distinction between criminal contempt, covering conduct itself a crime, and civil contempt, covering conduct which is not itself a crime but is punishable by the court in order that the courts orders be observed.
+A civil contemnor does not receive a criminal record [39 41].
+If a victim of Mr OBriens fraud had obtained a freezing order against him similar to the POCA restraint order and Mr OBrien had disobeyed and absconded, the victim would clearly have been able to bring contempt proceedings following his extradition [43].
+There is no relevant difference with a POCA order.
+The key is the nature and purpose of the order, not the court in which the order was made [44].
+Mr OBriens contempt was civil, and his committal is not barred by the specialty principle.

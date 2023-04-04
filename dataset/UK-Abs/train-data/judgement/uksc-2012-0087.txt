@@ -1,0 +1,101 @@
+Under the Food Safety Act 1990 the appellant local authority (the council) has responsibility for the enforcement of food safety laws in its area, many of which are contained in regulations made under the Act.
+We are concerned in this case with the Food Labelling Regulations 1996 (SI 1996/1499) (the regulations).
+The respondent (the company) carries on the business of buying, processing and selling meat products.
+On 29 June 2011 inspectors from the councils trading standards department visited the companys premises where they found a number of packages of frozen meat labelled with use by dates which had passed.
+An information was preferred against it, including 23 charges under regulation 44(1)(d).
+A sample charge was in the following terms: On 29 June [2011] at Cwmbran, you Douglas Willis Ltd, Unit 5, Grange Road, Industrial Estate, Cwmbran, Torfaen, did sell food, namely Pork Pigs Tongues labelled Use by 27/7/09, after the date shown in the use by date relating to it, Contrary to Regulation 44(1)(d) of the Food Labelling Regulations 1996 made under the Food Safety Act 1990.
+The charges were dismissed by Gwent Justices on 1 September 2011 on a submission by the company that it had no case to answer.
+The justices accepted the companys argument that the prosecution had to prove that at the date of the alleged offence the food was highly perishable and likely after a short period to constitute an immediate danger to human health.
+The council appealed by way of case stated to the Divisional Court.
+From the findings in the stated case, there was no evidence as to when the food items had been labelled or frozen.
+However, the justices concluded that since they were all frozen at the time of the inspection, they were not then highly perishable and so did not require a use by date under the regulations.
+Therefore no offence was committed under the relevant regulation.
+The appeal was heard by Aikens LJ and Maddison J, who delivered a joint judgment: [2012] EWHC 296 (Admin), [2012] CTLC 16.
+The company argued that the justices were right in their approach.
+The council argued that the justices were wrong and that the prosecution had only to show that the company was selling (within the meaning of the regulation) food which was the subject of a use by label displaying a date which had passed.
+The court did not accept either partys argument.
+It held that the prosecution did not have to show that the food was in a highly perishable state at the date of the alleged offence, but that it did have to show that the food had at some stage been in a state which required it to be labelled with a use by date and that the date had passed.
+At the request of the council, the court certified that the case involved the following point of law of general public importance: Does an offence under regulation 44(1)(d) of the Food Labelling Regulations 1996 require the prosecution to prove that the label or marking bearing the use by date, after which the food was sold, was applied at a time when (1) the food was ready for delivery to the ultimate consumer or to a catering establishment, and (2) from the microbiological point of view it was highly perishable and in consequence likely after a short period to constitute an immediate danger to human health?
+Permission to appeal was given by this court.
+The company was not represented on hearing of the appeal.
+The reasons are understandable but the result is unfortunate.
+From the councils viewpoint, the appeal raised a matter of general importance.
+From the companys viewpoint, the combination of the costs which it would incur in contesting the appeal and its potential liability to pay the councils costs presented a bigger threat to it than the likely amount of any fines.
+It is a small family company.
+In these circumstances the court asked a member of its legal staff to prepare a note of points which might have been made on behalf of the company.
+This was disclosed to Jonathan Kirk QC, who represented the council.
+In addition, mindful that he was appearing for a public authority against an unrepresented respondent, Mr Kirk himself invited the court to consider those points which he would have regarded as fairly capable of argument if he had been instructed on the other side.
+This was in accordance with the best tradition of the bar and we believe that it has enabled us fairly to evaluate all the arguments.
+Nevertheless, it is still unfortunate that the court did not the have the benefit of hearing argument on both sides.
+The regulations
+There are EU Directives about food labelling but the UK regulations go further than European law requires and it is not necessary to refer to the European provisions.
+Part 1 of the regulations contains definitions.
+Under regulation 2, sell is defined as meaning offer or expose for sale or have in possession for sale.
+The term appropriate durability indication is defined as meaning: (a) in the case of a food other than one specified in sub paragraph (b) of this definition, an indication of minimum durability, and (b) in the case of a food which, from the microbiological point of view, is highly perishable and in consequence likely after a short period to constitute an immediate danger to human health, a use by date.
+The term ultimate consumer is defined as meaning any person who buys otherwise than for the purposes of resale, for the purposes of a catering establishment or for the purposes of a manufacturing business.
+The term catering establishment has a definition which it is unnecessary to set out but it includes restaurants, schools and hospitals.
+Part II sets out labelling requirements.
+Regulation 4(1) provides: Subject to [exceptions which are immaterial in the present case], this Part of these Regulations applies to food which is ready for delivery to the ultimate consumer or to a catering establishment.
+Regulation 5 contains a general labelling requirement.
+It provides: Subject to the following provisions of this Part of these Regulations, all food to which this Part of these Regulations applies shall be marked or labelled with
+(c) the appropriate durability indication
+Regulation 21 deals with cases where a use by date is required by virtue of regulations 2 and 5.
+Regulation 21(1) provides: Where a use by date is required in respect of a food it shall be indicated by the words use by followed by (a) the date up to and including which the food, if properly stored, is recommended for use, and (b) any storage conditions which need to be observed.
+Regulation 35 prescribes the manner in which food is to be marked or labelled.
+It provides: When any food other than [immaterial exceptions] is sold, the particulars with which it is required to be marked or labelled by these Regulations shall appear (a) on the packaging, or (b) on a label attached to the packaging, or (c) on a label that is clearly visible through the packaging, save that where the sale is otherwise than to the ultimate consumer such particulars may, alternatively, appear only on the commercial documents relating to the food where it can be guaranteed that such documents, containing all such particulars, either accompany the food to which they relate or were sent before, or at the same time as, delivery of the food, and provided always that the particulars required by Regulation 5 (c) shall also be marked or labelled on the outermost packaging in which that food is sold.
+Part IV deals with offences and legal proceedings.
+Regulation 44 (1) provides: If any person (a) sells any food which is not marked or labelled in accordance with the provisions of Part II of these Regulations, or (d) sells any food after the date shown in a use by date relating to it, or (e) being a person other than whichever of (i) the manufacturer, (ii) the packer, or (iii) the seller established within the European Community, was originally responsible for so marking the food, removes or alters the appropriate durability indication relating to that food, he shall be guilty of an offence and shall be liable on summary
+conviction to a fine
+Regulation 46 provides that it is a defence to a charge under regulation 44(1)(e) to show that the removal or alteration was effected with the written authorisation of a person who could himself have effected the removal or alteration without committing an offence under that regulation.
+Regulation 48 confirms that the extended meaning of sale referred to above applies to offences under the regulations.
+Section 21 of the Act enables a person charged with an offence under the regulations to advance a defence of due diligence, ie that he took all reasonable precautions and exercised all due diligence to avoid the commission of the offence by himself or by a person under his control.
+The Divisional Courts judgment
+The reasoning of the Divisional Court may be summarised as follows: The labelling requirements in Part II together with the definitions in i) Part I are fundamental to the scheme of the regulations. ii) The offence under regulation 44(1)(a), ie selling food which is not marked or labelled in accordance with Part II of the regulations, is committed if food is sold which at the point of sale is not marked or labelled in the way that Part II requires it to have been marked or labelled.
+Accordingly, if a time had previously come when the food required to be labelled with a use by label, but there was a failure to do so, an offence would be committed by thereafter selling it without such a label, regardless of the condition of the food at the point of sale. iii) Likewise, the offence of selling food after the date shown in a use by date relating to it, contrary to regulation 44(1)(d), would be committed if food were sold after the date shown in a use by label which Part II required it to have had. iv) The need for the prosecution to show that Part II required the food to have had a use by label was implicit in the words a use by date relating to it.
+The court said at para 27: A use by label cannot, in our view, relate to the food if the food does not require that type of label to be attached to it.
+The court went on to say that if, as a result of a misunderstanding, a person put a use by label on food that was in a frozen state at the point when it became ready for delivery to the ultimate consumer or a caterer, an offence could not be committed under regulation 44(1)(d) by selling the food after the expiry of its supposed use by date. v) The court noted, as the prosecution had pointed out, that regulation 44(1)(d) did not include the words in accordance with the provisions of Part II of these Regulations, by contrast with the language of regulation 44(1)(a).
+However, it observed that the obligation to label food with a use by date could only arise by reason of the earlier provisions, and it considered that the reference in regulation 44(1)(d) to a use by date must be construed in accordance with the provisions of regulations 2, 4 and 5. vi) The court also noted the prosecutions concern that the courts construction would encourage widespread evasion of the regulations by freezing food after its use by date had passed and then selling it without committing any offence.
+However, the court considered that the fact that there was a use by label would be prima facie evidence that it was required, and that an evidential burden would lie on a person who sold the food after the relevant date to show that it had not in fact required a use by label.
+Discussion
+The Divisional Court was right to reject the companys argument that the prosecution had to prove that the food was in a highly perishable state at the time of the alleged offences under regulation 44(1)(d).
+On the wording of the paragraph, all that the prosecution had to prove was that (i) the food was in the companys possession for sale (and therefore sold within the extended meaning of that term), (ii) that the food had a use by mark or label relating to it, and (iii) that the date shown had passed.
+To read into paragraph (d) an additional requirement that the food was in a highly perishable state at the time of the alleged offence would seriously weaken the regulatory scheme and the protection provided to consumers.
+It would enable a retailer of perishable food, which had passed its use by date, to freeze it and then sell it without the consumer knowing how long it had been unfrozen.
+Mr Kirk submitted that it was similarly wrong for the Divisional Court to read into the paragraph a requirement for the prosecution to show not only that the product had a use by mark or label, showing a date which had passed, but that it was required to have such a marking.
+In his submission, this construction gave the paragraph, and in particular the word relating, a meaning which it did not naturally bear and which did not accord with the scheme and purpose of the regulations.
+As a matter of ordinary English, I would read relating to in the phrase sells any food after the date shown in a use by date relating to it as synonymous with referring to; or, in other words, as meaning simply that the food sold is the subject of a mark or label with a use by date.
+It denotes a factual connection rather than a legal requirement.
+The word relating is similarly used, for example, in regulation 35.
+Dealing with the ways in which marking may be done, that regulation permits certain particulars to appear on the commercial documents relating to the food. (In fairness to the Divisional Court, Mr Kirk acknowledged that its attention was not drawn to this point or to other examples in the regulations where relating to is used in the sense of referring to.)
+The next question is whether contextual considerations should lead to the conclusion that the words of regulation 44(1)(d) are intended to import an additional connection between the use by marking and the food, namely a requirement for the food to have such a marking under the provisions of Part II.
+With respect to the Divisional Court, I do not think that comparison with regulation 44(1)(a) supports such a conclusion.
+Rather, the reverse.
+It is significant that regulation 44(1)(a) contains the words marked or labelled in accordance with the provisions of Part II of these Regulations, which are missing from regulation 44(1)(d), and there is an intelligible reason for those words to appear in paragraph (a) but not in paragraph (d).
+Paragraph (a) deals with the sale of food which ought to have been, but was not, marked or labelled under Part II.
+Once food has been marked with a use by date, the regulations protect the consumer by prohibiting the removal or alteration of the marking, except by or with the written authority of the person originally responsible for it, and by prohibiting the sale of the food after the use by date shown.
+These prohibitions serve a parallel purpose and are set out in paragraphs (d) and (e).
+Consider the example given by the Divisional Court of a use by label being placed on food by a mistake.
+A retailer who bought the food in that state would commit an offence under paragraph (e) if he removed the label without the written authority of the original labeller.
+This is rational because the person responsible for the labelling will know, first hand, the relevant facts and circumstances.
+There would be a lacuna or anomaly if the retailer could nevertheless sell the product to a consumer after the relevant date had passed.
+Paragraph (d) prohibits him from doing so.
+If, therefore, there has in truth been a mistake, the way of correcting it within the scope of the regulations is to obtain written authorisation for removing or altering the label from the person who was originally responsible for it.
+As to the practical problems of enforcement if the Divisional Courts construction is correct, the potential complications would be significantly greater than in a case under paragraph (a).
+Where food inspectors find food which they consider has not been marked in accordance with the provisions of Part II, evidence will be available as to its actual condition at the time of inspection.
+The situation would be different in a prosecution under paragraph (d) if the food was frozen at the time of the inspection.
+On the Divisional Courts construction, questions would arise as to when the marking had been done and what had been the state of the food at the time of the marking, which would be matters unknown to the inspectors.
+Mr Kirk argued persuasively that it is not unrealistic to imagine a defendant being able to obtain expert evidence sufficient to raise an issue about whether the state of the food at the time of its marking (whenever that may have been) would have been such that from a microbiological point of view it was likely after a short period to constitute an immediate danger to human health.
+He referred to literature showing that this is potentially a complex and controversial topic.
+Realistically, an enforcement authority might be understandably reluctant to incur the expense of launching a prosecution if it were likely to become involved in issues of that kind.
+There was some discussion in argument about the position if a use by marking was applied maliciously by somebody who had no business to do so.
+Suppose that a disaffected customer, or a customer with a warped sense of humour, were to put labels with expired use by dates on meat in a supermarket before being noticed and stopped.
+Or suppose that an anonymous employee put false labels on food products as an act of industrial sabotage.
+We are not concerned with cases of that kind.
+It may be possible as a matter of common sense to construe paragraph (d) as not intended to apply to a marking made by someone who had no responsibility at the time of so doing for the production or custody of the food (ie the opposite of a person envisaged by paragraph (e) as having had such responsibility and therefore having authority to alter or remove a label) but who was merely acting as an interfering mischief maker.
+However, it is unnecessary to decide that point, about which the court did not hear argument, and I do not consider that such a remote consideration should affect the question of construction with which the court is concerned.
+I conclude that under regulation 44(1)(d) it is sufficient for the prosecution to prove that the defendant had food in its possession for the purpose of sale which was the subject of a mark or label showing a use by date which had passed.
+The justices were therefore wrong to accept the companys submission of no case to answer in relation to the 23 charges brought under that regulation.
+The answer to the question certified by the Divisional Court is no.
+In view of the passage of time, it would be inappropriate to remit the case to the original justices to continue the hearing.
+The Divisional Court ordered that the case should be remitted to a different panel of justices for a rehearing, and that order will stand, but the rehearing will be in accordance with the law stated in this judgment.
+To that extent, this appeal is allowed.

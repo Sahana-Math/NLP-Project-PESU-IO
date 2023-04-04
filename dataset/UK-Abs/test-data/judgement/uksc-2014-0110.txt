@@ -1,0 +1,190 @@
+This appeal concerns the interpretation of sections 103 and 106 of the Income and Corporation Taxes Act 1988 (ICTA) which imposed a charge to corporation tax on post cessation receipts from a trade, profession or vocation.
+The provisions were later rewritten in the Corporation Tax Act 2009.
+The receipts in question came about as follows.
+Over many years companies within the Littlewoods corporate group paid the Commissioners for Her Majestys Revenue and Customs (HMRC) substantial sums as value added tax (VAT) on an incorrect understanding of the law.
+HMRC later repaid the sums, which had been incorrectly paid, to a nominated member of the corporate group together with interest on those sums as required by sections 78 and 80 of the Value Added Tax Act 1994 (VATA 1994).
+At earlier stages in the proceedings, the dispute concerned HMRCs claim to tax several companies within the group on both repayments and also interest on those repayments, which in aggregate amounted to over 630m.
+Now the only question is whether a repayment of overpaid VAT of 124,963,600 is liable to corporation tax in the hands of the appellant, Shop Direct Group (SDG).
+SDG challenges the judgment of the Court of Appeal, upholding the determinations of the First tier Tribunal and the Upper Tribunal, that it is liable to corporation tax on the receipt of that sum.
+The prior law
+In order to understand the purpose of sections 103 and 106 of ICTA it is necessary to look at the prior law.
+In short, until Parliament intervened by enacting sections 32 34 of the Finance Act 1960, sums which a taxpayer received as income from his trade, profession or vocation after he had ceased to trade or carry on his profession or vocation escaped taxation.
+Case law established that the sums did not change their character after the discontinuance; their source was unchanged.
+The courts treated those sums as the fruit of the trade or profession or as its fruit or aftermath.
+The sums were held not to be taxable under Cases I or II of Schedule D because the trade, profession or vocation was not being carried on in the tax year in which the sums were received.
+As a result, an astute taxpayer might choose to retire so that he received such income post cessation and thus tax free.
+Similarly, as the case law shows, if the taxpayer were unfortunate and died before he had received income arising from his trade, profession or vocation, the receipts were not taxed as income in the hands of his personal representatives, heirs or assignees.
+In 1930 Rowlatt J set out the basic principle in Bennett v Ogston (1930) 15 TC 374, in a passage which the House of Lords approved in the later cases to which I refer below.
+He said (at p 378): When a trader or a follower of a profession or vocation dies or goes out of business and there remain to be collected sums owing for goods supplied during the existence of the business or for services rendered by the professional man during the course of his life or his business, there is no question of assessing those receipts to income tax; they are the receipts of the business while it lasted, they are arrears of that business, they represent money which was earned during the life of the business and are taken to be covered by the assessment made during the life of the business, whether that assessment was made on the basis of bookings or on the basis of receipts.
+Thus in Brown v National Provident Institution [1921] AC 222 the tax paying companies escaped tax on profits derived from transactions conducted in the preceding year because they did not carry on the trade in the tax year in which they received the profit generating sums.
+In Stainers Executors v Purchase [1952] AC 280, 23 TC 367, after the actor and film producer, Leslie Howard had been killed by enemy action in 1943, his executors received income from films, which he had produced or in which he had acted.
+The Crown argued that the sums had assumed a different character after his death and could no longer be treated as profits and gains of his profession.
+The House of Lords rejected this argument and held that the source of the payments was Mr Howards professional activity.
+Lord Simonds stated (at p 289) that they retained the essential quality of being the fruit of his professional activity and Lord Asquith of Bishopstone (at p 290) described the payments as the fruit or aftermath of the professional activities of Mr Leslie Howard during his lifetime.
+The House of Lords confirmed this approach in relation to royalties received after the death of an author in Carson v Cheyneys Executor [1959] AC 412.
+Tax legislation thus left the door wide open to tax avoidance so long as the taxpayer could, by choosing when to discontinue a business, escape tax on post cessation receipts.
+The statutory provisions
+Parliament sought to close that door by enacting the predecessors of the provisions which are the subject of this appeal, initially in sections 32 34 of the Finance Act 1960, and imposed a charge to tax on post cessation receipts primarily under Case VI of Schedule D. Later, sections 103 to 110 of ICTA became the relevant provisions for both income tax and corporation tax.
+Since the statutory provisions relating to income tax were separated from those relating to corporation tax in 2005, the ICTA provisions were amended to relate only to corporation tax.
+Section 103 of ICTA, as it was worded in 2007 2008 at the time of the relevant transaction, stated so far as relevant: (1) Where any trade, profession or vocation carried on wholly or partly in the United Kingdom the profits of which are chargeable to tax has been permanently discontinued, corporation tax shall be charged under Case VI of Schedule D in respect of any sums to which this section applies which are received after the discontinuance. (2) Subject to subsection (3) below, this section applies to the following sums arising from the carrying on of the trade, profession or vocation during any period before the discontinuance (not being sums otherwise chargeable to tax) (a) where the profits for that period were computed by reference to earnings, all such sums in so far as their value was not brought into account in computing the profits for any period before the discontinuance, and (b) where the profits were computed on a conventional basis (that is to say, were computed otherwise than by reference to earnings) any sums which if those profits had been computed by reference to earnings, would not have been brought into the computation for any period before the discontinuance because the date on which they became due, or the date on which the amount due in respect thereof was ascertained, fell after the discontinuance. (emphasis added) In this case sub section (2)(a) is relevant as the trading companies computed their profits by reference to earnings.
+The only other provision which it is necessary to set out is section 106 of ICTA (as amended by section 882 of, and paragraph 85 of Schedule 1 to, the Income Tax (Trading and Other Income) Act 2005) which governs the charge to tax in some, but not all, of the circumstances in which the rights to receive payments which are post cessation receipts are transferred.
+Section 106(1) addresses the circumstance of a transfer for value and provides: Subject to subsection (2) below, in the case of a transfer for value of the right to receive any sum to which section 103, 104(1) or 104(4) applies, any corporation tax chargeable by virtue of either of those sections shall be charged in respect of the amount or value of the consideration (or, in the case of a transfer otherwise than at arms length, in respect of the value of the right transferred as between parties at arms length), and references in this Chapter to sums received shall be construed accordingly.
+The subsection quantifies the charge to tax on the transferor of the right.
+Thus, for example, if a company, which was entitled to receive royalties from films or books, permanently discontinued its business and assigned the right to receive those royalties to a third party at full market value, the assigning company would be liable to corporation tax under section 103 on its profits calculated by reference to the value it received as consideration for the assignment.
+Subsection (2) of section 106 addresses the circumstance where, under sections 110(2)(a) and 337 of ICTA, there is a deemed discontinuance of a trade caused by a change in the persons carrying on the business.
+It provides: Where a trade, profession or vocation is treated as permanently discontinued by reason of a change in the persons carrying it on, and the right to receive any sum to which section 103 or 104(1) applies is or was transferred at the time of the change to the company carrying on the trade, profession or vocation after the change, corporation tax shall not be charged by virtue of either of those sections, but any sum received by that company by virtue of the transfer shall be treated for corporation tax purposes as a receipt to be brought into the computation of the profits of the trade, profession or vocation in the period in which it is received.
+So, if the transferee, while it is carrying on its trade, receives sums which are post cessation receipts of the former trade, section 103 does not apply to the transferees receipt.
+Instead, the subsection treats those receipts by the successor company as part of its trade, brings them into the computation of its profits in the period in which they are received and subjects them to a charge under Case I of Schedule D.
+The effect of subsection (2) can be seen in relation to income tax on a partnership, before it was re worded to apply only to corporation tax.
+It superseded the decision of the House of Lords in Crompton v Reynolds 33 TC 288, [1952] 1 All ER 888.
+In simplified form the facts of that case were as follows.
+A partnership of cotton brokers as originally constituted had as an asset of their business a debt owed by a customer incurred in the course of their trade.
+A change in the membership of the partnership gave rise to a technical dissolution of the old partnership and the new partnership acquired the assets and liabilities of the old partnership.
+The new partnership subsequently collected the debt and escaped income tax on it because the House of Lords held that the collection of the debt was not part of the new partnerships trading operation and thus was not assessable to tax under Case I of Schedule D. Section 106(2) closed the loophole by treating such collection of a prior partnerships debt as a trading receipt of the new partnership.
+The factual background
+As I have said, the case now concerns only one repayment of 124,963,600 of overpaid VAT which HMRC made in the tax year 2007 2008.
+It was referred to as VAT Repayment 2 or VRP2 in the decision of the First tier Tribunal and the judgments of the Upper Tribunal (Asplin J) and of the Court of Appeal and I will use the same term to describe it.
+The overpayments arose because VAT was wrongly calculated when goods were sold to agents of the supplier with a discount for commission.
+The complex facts are set out in full in the decision of the First tier Tribunal (Judge Roger Berner and Miss Sandi ONeill) [2012] UKFTT 128 (TC)).
+I can therefore present them briefly.
+The relevant supplies were made by companies in the group of companies between 1978 and 1996.
+In presenting the appeal counsel grouped the relevant supplies and the repayments relating to those supplies (which were components of VRP2) as follows.
+The supplies were made by: (i) SDG (then named John Noble Ltd) between 1 January 1986 and 31 December 1987 (VRP2A(i)); (ii) Reality Group Ltd (RGL) between 1 April and 30 September 1996 (VRP2A(ii)); (iii) Kay & Co Ltd (Kay & Co) between 1 January 1978 and 30 September 1996 and Abound Ltd (Abound) between 1 April 1978 and 30 September 1996 (VRP2B); and (iv) GUS plc or RGL between 1 January 1978 and 31 March 1996 (VRP2C).
+The VAT had been paid in relation to those supplies by the representative member of the group of companies under section 43 of VATA 1994, which until 11 February 1992 was GUS Merchandise Corporation Ltd and between then and 6 August 1997 was Kay & Co Ltd. By the time VRP2 was paid in 2007, each of the companies which had made the relevant supplies had permanently discontinued its trade.
+It is not necessary to set out the complex facts of the reorganisations of businesses within the group of companies in any detail.
+The relevant transfers may be summarised as follows: (i) the trade of SDG was transferred to RGL on 1 June 1991; (ii) the trade of GUS plc was transferred to RGL on 1 April 1996 but the transferors right to receive a VAT repayment, which became VRP2C, was retained; (iii) the trades of Kay & Co and Abound were transferred to RGL on 1 April 1997 but the transferors rights to VAT repayments, which became VRP2B, were retained; (iv) the trade of RGL was transferred to SDG on 25 November 2000; and (v) finally, after March UK Ltd (March) had acquired from GUS plc various companies, including SDG, RGL, Kay & Co and Abound, on 27 May 2003, the trade of SDG was transferred to Shop Direct Home Shopping Ltd (SDHSL) on 28 October 2005.
+No documentation vouching the transfers in (i) and (iv) above was available to the First tier Tribunal but the tribunal inferred and found as fact that in each case the whole of the trade was transferred, including the transferors right to VAT repayments.
+On 24 June 2003 GUS plc, which had become the representative member of the VAT group on 20 May in that year, made a claim for repayment of VAT under section 80 of VATA 1994 from HMRC.
+The claim included the various payments which led to the repayment which has been described as VRP2.
+The person entitled to receive the repayments under section 80 of VATA 1994 was the representative member of the VAT group.
+But the First tier Tribunal held that the benefit of the repayment was accepted as belonging to the appropriate companies acquired by March.
+The tribunal did not have evidence of how the GUS group operated its treasury function but inferred that the trading companies had had to account to the representative member to fund the VAT due on their trading and that the representative member had to account to them for any repayments of VAT.
+Argos Ltd (Argos) became the representative member of the VAT group on 9 October 2006.
+Because, by the time HMRC paid VRP2 in September 2007, Argos had been transferred to another group of companies under Home Retail Group plc (HRG), it was necessary for the interested parties to enter into agreements to determine which entity within the corporate group which was not being sold should receive the repayments from Argos, which was acting as the groups representative member.
+March, GUS plc and HRG agreed that the solicitors, Weil, Gotshal & Manges (WGM), be appointed agents of Argos and this was done.
+WGM were also appointed the agent of SDG to receive VRP2 as part of the administrative arrangements for the receipt of this payment from HMRC.
+Argos gave an irrevocable instruction to HMRC to pay all VAT repayments to WGM.
+To secure its position, HMRC obtained (a) an undertaking from SDG that it would repay VRP2 and the statutory interest thereon in specified circumstances and (b) releases from Kay & Co, RGL and Abound in relation to their entitlement (if any) to receive any repayment when the GUS home shopping business was sold to March in May 2003.
+On Marchs direction, WGM paid an amount equal to VRP2 to a Jersey registered company, L W Corporation Ltd (LWC), which March had made SDGs parent company on 25 October 2006.
+SDG, which had been dormant since October 2005, had become an unlimited company on 30 January 2007 and so did not have to file its accounts in Companies House but only with HMRC.
+This enabled it to avoid publicity regarding the receipt of VRP2 and the interest thereon.
+Amounts equal to the sums paid to LWC were recognised as an exceptional item in the profit and loss account of SDG and as an inter company receivable due from LWC on SDGs balance sheet.
+SDG thus received VRP2.
+Consistently with this presentation in SDGs accounts, the First tier Tribunal held that SDG received VRP2 as beneficial owner at the time of receipt.
+The tribunal interpreted Marchs agreed arrangements with GUS plc and HRG as an acknowledgement that SDG was entitled to VRP2.
+There was no suggestion in the findings of fact that any other company ever questioned SDGs right to receive VRP2.
+In my view the inference that SDG was beneficially entitled to VRP2 was obvious.
+The proceedings below
+After HMRC amended the corporation tax self assessments of the companies, including SDG, which received the various VAT repayments, the recipient companies appealed those assessments.
+The First tier Tribunal in a decision dated 14 February 2012 dismissed each of the appeals.
+On 19 April 2013 Asplin J sitting as a judge of the Upper Tribunal (Tax and Chancery Chamber) dismissed the appeal.
+SDG alone appealed to the Court of Appeal in respect of its assessment to corporation tax on VRP 2 and the related statutory interest.
+In a judgment dated 11 March 2014, which Briggs LJ wrote and with which Rimer LJ and Sir Stanley Burnton agreed, the Court of Appeal dismissed the appeal: [2014] EWCA Civ 255; [2014] STC 1383.
+SDG applied for permission to appeal to this court and was permitted to appeal in relation to VRP2 only.
+The issues now in dispute
+Mr David Goldberg QC for SDG submitted that the maximum sum (if any) on which SDG should be charged corporation tax was the sum of about 200,000 which related to the supplies that SDG itself had made in 1986 and 1987 and which was VRP2A(i) in para 10 above.
+He advanced three reasons in support of this contention.
+First, he submitted that section 103 of ICTA imposed a tax charge only on the original trader (ie the person from whose pre discontinuation trading the sum arises).
+As SDG did not carry on the trades which produced the bulk of VRP2, it was not liable to corporation tax on VRP2 except, possibly, for VRP2A(i).
+Secondly, if the receipt of a sum equivalent to VRP2 arose from an intra group transfer to SDG without any assignment of rights to it, section 103 did not impose a charge.
+Thirdly and alternatively, if the receipt of that sum were the result of a transfer to SDG of the right to the receipt, section 103 did not impose a charge and, in any event, section 106 precluded any charge to tax on SDG.
+Mr Malcolm Gammie QC for HMRC challenged this analysis on every count.
+He submitted (a) that it was illegitimate to read into section 103 any restriction that confined the charge to the original trader, (b) that section 106(1) applied only to transfers for value (which did not occur in this case) and (c) that section 106(2) did not apply unless the company to whom a trade was transferred received the transferors post cessation profits while it, the transferee, was trading (which also did not occur in this case).
+He pointed out that SDG and the other group companies had led no evidence of the intra company transactions and had been content to rely on an agreed statement of facts.
+It was not open to SDG to seek to undermine the First tier Tribunals findings of fact by inviting the court to make contrary inferences as to the nature of the intra group transactions.
+Analysis
+Section 6 of ICTA provided that corporation tax shall be charged on profits of companies.
+Section 8 of that Act provided that a company shall be chargeable to that tax on all its profits wherever arising, and section 9 provided that the amount of any income shall for purposes of corporation tax be computed in accordance with income tax principles, all questions as to the amounts which are or are not to be charged to tax as a persons income being determined in accordance with income tax law and practice.
+Section 18 of ICTA set out Schedule D which imposed a charge to tax on the annual profits or gains arising or accruing to any person residing in the United Kingdom from any trade, profession or vocation.
+Section 18(3) set out the Cases of Schedule D. Case I charged tax in respect of any trade carried on in the United Kingdom or elsewhere.
+Case VI, which section 103 brings into play, provided for tax in respect of any annual profits or gains not falling under any other Case of Schedule D .
+Finally, section 18(4) of ICTA provided: The provisions of Schedule D and of subsection (2) above are without prejudice to any other provision of the Tax Acts directing tax to be charged under Schedule D or under one or other of the Cases set out in subsection (3) above, and tax directed to be so charged shall be charged accordingly.
+Section 103 was one such provision.
+Against this background the first question is whether section 103, which I have set out in para 6 above, contains an implicit restriction so that the charge to tax on post cessation receipts falls only on the former trader, whose trade was the source of the income, as Mr Goldberg submitted.
+In my view the answer to that question is no, for the following three principal reasons.
+First, there is nothing in the words of section 103(1) or (2) which necessitates such implication.
+The charge to tax is clear: where a trade has been permanently discontinued, corporation tax shall be charged under Case VI on sums arising from the carrying on of the trade during any period before the discontinuance.
+Section 103(1) required only that the sums are received after the discontinuance.
+The section specified the source of the sums which fell within the charge but imposed no further restriction on the charge.
+In particular, it imposed no limit on who was the recipient of the sums and thus liable to the charge.
+Secondly, the mischief which section 103 addressed is clear.
+Its predecessor, section 32(2) of the Finance Act 1960, contained the same phrase, sums arising from the carrying on of the trade .
+The phrase referred in my view to the sums which the prior case law called the fruit of the trade.
+Section 32 of the 1960 Act addressed the circumstance, which I have discussed in paras 3 and 4 above, of sums from an otherwise taxable source escaping tax as a result of the permanent discontinuance of a trade.
+Like Briggs LJ (at para 29 of his judgment) I interpret the provision and its statutory successors as bringing into the Schedule D Case VI charge to tax the fruit of the discontinued trade not only in the hands of the former trader, his personal representatives and heirs but also in the hands of those to whom the rights to the post cessation receipts have been assigned or who are otherwise entitled to receive and keep the sums.
+The mischief was the loophole created by the need for a continuing source in the year of receipt.
+The purpose of section 103 was to make sure that sums which a person received, which arose from a discontinued trade and which were not otherwise taxed, were brought into a charge to tax.
+The statutory innovation was to impose the Case VI charge, absent that continuing source, on the recipient of the sums.
+No sound reason of policy has been suggested for confining the charge to the former trader and his personal representatives.
+Thirdly, neighbouring provisions in ICTA drew a distinction between the person chargeable to tax and the person who had previously carried on the trade, giving rise to the inference that the former person was not confined to the latter.
+Thus section 105, which provided for allowable deductions in the calculation of the section 103 charge, referred in subsection (1) in its pre 2005 form to computing the tax charge under section 103 in respect of sums received by any person and in its later form to sums received by any company.
+It listed as the allowable deductions both losses and expenses which the former trader (the person by whom [the trade] was carried on) would have deducted if the trade had not been discontinued and also capital allowances to which the former trader (the person who carried on the trade) was entitled before the discontinuance.
+Had Parliament intended that the section 103 charge should fall only on the former trader, there would have been no need to distinguish between any person on the one hand and the former trader on the other.
+Section 105(4) before 2005 also used the phrase any person in relation to an analogous charge to tax after a change of basis under section 104.
+Section 108 as initially enacted allowed the person by whom the trade had been carried on to elect to carry back the charge so that the sum in question was treated as if it had been received on the date of the discontinuance.
+The way the opening of the section was worded is illuminating.
+It provided the election was available: Where any sum is (a) chargeable to tax by virtue of section 103 or 104, and (b) received in any year of assessment beginning not later than six years after the discontinuance or, as the case may be, change of basis by the person by whom the trade, profession or vocation was carried on before the discontinuance or change, or by his personal representatives In my view again this wording suggests that there is a general charge to tax under section 103 and that the former trader (or his personal representative) is not the only recipient who falls within that charge.
+Parliament had no reason to spell out in (b) that the sum had to be received by the former trader or his representatives if that was inherent in section 103.
+Mr Goldberg also submitted that SDGs receipt of a sum equal to VRP2 did not have a former trade as its source but was the result of an intra group arrangement which was either a transfer for no consideration of that sum or a transfer for no consideration of the rights to VRP2.
+He posed the question, what is the receipt from? and submitted that the correct answer was the transfer of either the sum or the right.
+He referred to Hochstrasser v Mayes [1960] AC 376 and Abbott v Philbin [1961] AC 352 in support of the contention that regard must be had to the most proximate cause of the receipt.
+I do not accept this submission.
+In my view those cases have no bearing.
+They concern the charge to tax under Schedule E on the remuneration of an employee.
+I accept Mr Gammies submission that in the context of Schedule E the relevant statutory question focused on the character of the receipt in the employees hands.
+Rule 1 of the Schedule spoke of a charge on a person having or exercising an office or employment in respect of salaries perquisites or profits whatsoever therefrom (emphasis added).
+The question was whether the employee has received money or moneys worth representing remuneration for his services.
+By contrast, under section 103 the focus was on the original source of the receipt.
+The decisions and arrangements within the VAT group of companies about the specific company which was to receive the repayment did not alter the original source of the receipt.
+The question was whether the sum received arose from the discontinued trade before its discontinuance.
+Section 106(1), which I have set out in para 7 above, also supports a wide interpretation of the scope of the section 103 charge.
+Contrary to Mr Goldbergs submission, I cannot read the subsection as covering all transfers whether for value or for no consideration (other than the transfer of the right to receive the post cessation payments when there is a deemed discontinuance of the trade under subsection (2)).
+The opening words of subsection (1) show that the subsection relates to transfers for value.
+Where the transfer is at arms length, the transferor is charged under section 103 by reference to the stipulated consideration.
+The words in parenthesis substitute market value where the transfer is not at arms length.
+It is true that it may appear anomalous that the subsection governs a transfer for a nominal value, say 50 pence, in a transaction otherwise than at arms length but not a transfer for no consideration.
+But that is what the section says.
+Further, the anomaly is more apparent than real if, as I consider, section 103 imposes a charge on the gratuitous transferee.
+Thus, for example, section 103 when it extended to the individual taxpayer would have applied to an author who on his retirement assigned for value the future royalties arising from his work.
+Having chosen to capitalise his future income flow, he would be taxed at the market value of that income flow as at the date of transfer rather than on his future receipts as and when received.
+But where, on his retirement, he assigned the future royalties to his spouse or friend for no consideration, section 103 would tax the receipts when they are received by the transferee.
+That to my mind is a rational regime.
+Section 106(2), which I have set out in para 8 above, deals with the circumstance that a trade is treated as having been discontinued by reason of a change of the persons carrying it on and at the same time the right to receive the post cessation receipts is transferred to the company that carries on the trade thereafter.
+The rule is set out in the phrase: corporation tax shall not be charged by virtue of either [section 103 or 104], but any sum received by that company by virtue of the transfer shall be treated for corporation tax purposes as a receipt to be brought into the computation of the profits of the trade in the period in which it is received.
+I construe the words after the conjunction but as the trigger for disapplying sections 103 and 104.
+Like Briggs LJ, I adopt a purposive analysis.
+I do not accept that Parliament intended to create a large class of post cessation receipts which the transferee could release from a charge to tax by the simple expedient of discontinuing its trade or by creating a deemed discontinuation by transferring its trade to another person while reserving to itself the right to receive those receipts.
+That was the mischief which led to the enactment of sections 32 to 34 of the Finance Act 1960 in the first place.
+In my view this subsection takes effect only if the transferee receives those sums while it is trading.
+If it does, the transferee is taxed under Case I of Schedule D.
+If it does not receive the sums or if it receives them after it has ceased trading, section 103 applies to impose a charge on the recipient.
+In summary, (i) the basic rule in section 103 is that sums arising from the carrying on of the trade before discontinuance are, if received after discontinuance, charged to tax under Case VI of Schedule D; (ii) there is no restriction in section 103 itself on who the recipient of those fruits of the trade may be; (iii) section 106(1) quantifies the section 103 charge at the amount of the consideration or the market value of the rights to such sums when the former trader transfers its rights to those future receipts for value and the subsection imposes the charge on the former trader; and (iv) section 106(2) disapplies section 103 and substitutes Case I of Schedule D only if the transferee company is carrying on the continuing business when it receives the fruits of the trade, which is deemed to have been discontinued.
+It is necessary now to apply that analysis to the facts as found by the First tier Tribunal.
+Before so doing, I record that SDG did not argue before the First tier Tribunal that section 106(1) had the effect of imposing a charge to tax on an entity other than SDG.
+The Court of Appeal refused to allow SDG to run such an argument.
+I also am satisfied that it would not be fair to allow the argument to be advanced at this late stage.
+It involves SDG inviting the court to make inferences from findings of fact which were not directed to the argument it now wishes to advance.
+SDG did not lead any evidence about the various intra group transfers.
+It may be that SDG did not have the necessary evidence to explain how it was arranged that it should receive VRP2.
+But SDG had the burden of overturning the challenged assessment and did not lead evidence to achieve that.
+The court must therefore apply the law to the facts as found by the First tier Tribunal.
+In any event, SDGs principal case before this court was that there must have been an intra group transfer or transfers of the component parts of VRP2 the sum of money to it for no consideration and that there was no transfer to it of the rights to repayment which made up VRP2.
+If that is what occurred, or if there had been a transfer of the rights for no consideration, it would not assist SDGs appeal as section 106(1) would not apply to impose a charge on the transferor or transferors in the absence of a sale.
+Turning to the First tier Tribunals findings of fact, it is clear from the summary in para 11(ii) above that on the transfer of the trade of GUS plc in 1996, the entitlement to a VAT repayment arising from the discontinued trade, which became VRP2C, was not transferred.
+Similarly, Kay & Co and Abound retained their equivalent entitlements when their trades were transferred to RGL in 1997 (para 11(iii) above).
+Those entitlements became VRP2B. There is no explanation as to how those entitlements resulted in VRP2C and VRP2B being paid to SDG.
+There is no suggestion that either the transfer of the trade of SDG to RGL (para 11(i) above) or the later transfer of RGLs trade to SDG (para 11(iv) above), both of which may have relevance to the two components of VRP2A, was for value.
+Accordingly, section 106(1) is of no relevance to these transactions and no tax falls to be charged on the various transferors.
+Further, there was no evidence and no findings that any of the intra group transfers which may have occurred in order to transfer the right to receive VRP2 to SDG involved transfers for value.
+Again, section 106(1) has no application.
+Section 106(2) also is of no relevance.
+While the trade of SDG was transferred to SDHSL in 2005 (para 11(v) above), none of the repayments of VAT were made to SDHSL.
+That is the end of the matter.
+It is therefore not necessary to address Mr Goldbergs challenge to the finding by the First tier Tribunal that the transfer of SDGs trade to SDHSL did not include the entitlement to the VAT repayments, which was based on his construction of the transfer agreement between SDG and SDHSL in 2005.
+What is clear from the findings (viz paras 13 and 14 above) is that March organised the groups affairs so that VRP2 would be paid by HMRC to SDG via the solicitors, WGM, and that HMRC protected itself against other possible claimants by obtaining releases.
+SDG, as the First tier Tribunal found, received VRP2 as its beneficial owner.
+It received sums arising from the carrying on of the trade of the companies enumerated in para 11 above during periods before the discontinuance and the sums were not otherwise chargeable to tax.
+VRP2 accordingly is subject to a charge to corporation tax in the hands of its recipient, SDG.
+Conclusion
+Before concluding, I would like to acknowledge the admirable decision of the First tier Tribunal in this case, which involved grappling with many more factual and legal issues than this court has had to address.
+I would dismiss the appeal.

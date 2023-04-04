@@ -1,0 +1,33 @@
+These appeals raise questions about the availability of cross border group relief and the method of quantifying such relief.
+These questions arise in respect of claims made by Marks and Spencer plc (M&S) for group relief in respect of losses sustained by two of its subsidiaries: Marks and Spencer (Deutschland) GmbH (MSD), which was resident in Germany; and Marks and Spencer (Belgium) NV (MSB), which was resident in Belgium.
+In March 2001, M&S decided to withdraw from its continental European activity.
+MSD ceased trading in August 2001 and was dissolved following liquidation on 14 December 2007.
+MSB ceased trading on 22 December 2001 and was dissolved following liquidation on 27 December 2007.
+Between 2000 and 2008, M&S made several group relief claims in relation to losses sustained by MSD and MSB.
+The basic contention underlying all these claims was that the provisions in United Kingdom legislation which restricted group relief claims to losses of UK resident companies and, after the Finance Act 2000, losses of UK branches of non resident companies, were contrary to article 43 EC (now article 49 TFEU) on the freedom of establishment, and were thus unlawful.
+The first claims were originally made and refused by the Revenue (HMRC) more than ten years ago.
+The matter came before Park J, who made a reference to the CJEU.
+The CJEU ruled that article 43 EC did not preclude provisions of a Member State which prevented a resident parent company from claiming group relief for losses incurred by a subsidiary established in another Member State.
+The CJEU also ruled that it is contrary to articles 43 and 48 EC to preclude the possibility for the parent company to deduct from its taxable profits in that Member State the losses incurred by its non resident subsidiary where, in one Member State, the resident parent company satisfies two conditions: (i) the non resident subsidiary has exhausted the possibilities available in its State of residence of having the losses taken into account for the accounting period concerned by the claim for relief and also for previous accounting periods; and (ii) there is no possibility for the foreign subsidiarys losses to be taken into account in its state of residence for future periods either by the subsidiary itself or by a third party, in particular where the subsidiary has been sold to that third party.
+In giving effect to the CJEUs ruling, Park J, with whom the Court of Appeal agreed, held that the no possibilities test required an analysis of the recognised possibilities legally available given the objective facts of the companys situation at the relevant time, and that the test was to be applied at the date when the group relief claim was made.
+On the basis of that approach, the matter then made its way through the Tax Chamber of the First Tier Tribunal, and the Upper Tribunal, before reaching the Court of Appeal.
+Moses LJ, with whom Etherton and Lloyd LJJ agreed, disagreed with Park Js approach.
+They considered that the claimant should not be given an opportunity to take steps that
+might bring about a situation in which it could make a cross border claim.
+However, they concluded that they were bound by previous authority and could not depart from it.
+In the Supreme Court, four issues arise for consideration.
+The parties will be heard as to the answers to be given to three of those issues at a later date.
+The first of those issues addressed in this appeal concerns whether the CJEU decided it was contrary to article 43 EC to preclude cross border group relief in the Member State of the claimant company: (a) only where the taxpayer can show, on the basis of the circumstances existing at the end of the accounting period in which the losses in question arose, that there was no possibility of the losses in question being utilised in the Member State of the surrendering company in that accounting period, in any previous accounting period or in future accounting periods (as HMRC contend); or (b) where the taxpayer can show, on the basis of the circumstances existing at the date of the claim, that there has been no possibility of utilising the losses in the Member State of the surrendering company in any accounting period prior to the date of the claim and no possibility of such utilisation in the accounting period in which the claim is made or in future accounting periods (as M&S contend).
+The Supreme Court unanimously dismisses HMRCs appeal and adopts approach (b).
+Lord Hope gives the judgment of the Court.
+The exercise to be carried out is essentially a factual one.
+The claimant company ought to be given an opportunity to deal with it in as realistic a manner as possible.
+It would hardly ever be possible, if regard is had only to how matters stood at the end of the relevant accounting period, to exclude entirely the possibility that the losses in question might be utilised in the Member State of the surrendering company unless, of course, this was prevented by its local law.
+The CJEUs judgment in February 2013 in Case 123/11 Proceedings brought by A Oy makes clear that the claimant company is not required to be restricted to such an extent [30].
+There is no indication that selecting the date of the claim is likely in practice to give rise to any difficulty.
+On the contrary, that date has the advantage of certainty, as the facts to be inquired into will not be susceptible to change between the making of the claim and the commencement of the inquiry.
+The entitlement to cross border relief is to be examined, as stated in approach (b), on the basis of the circumstances existing at the date of the claim [31].
+The national court will, of course, be alert to the possibility that the claimant company may simply be choosing in which Member State it should be taxed.
+However, what M&S was doing can be attributed to the fact that the companies had ceased trading six years earlier, and not to the exercise of an option to choose where to seek relief for the losses that had been incurred.
+There is no reason to think that what it did must be seen as a threat to the balanced allocation of taxing powers [32].
+Therefore, the question for inquiry is whether the claimant company has been able to show, on the basis of the circumstances known at the date when it makes its claim, that there has been no possibility of the losses in question being utilised in the Member State of the surrendering company in any accounting period prior to the date of the claim and no possibility of such utilisation in the accounting period in which the claim is made or in any future accounting periods [33].

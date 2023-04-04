@@ -1,0 +1,630 @@
+This appeal arises out of the inquest held into the death of Mr James Maughan.
+It concerns the standard of proof, or degree of conclusivity, required for the determination of the result of an inquest into a death where the question is whether the deceased committed suicide.
+The result of an inquest may be given in a single short form conclusion (using simply the word suicide) and/or in a brief narrative statement (a narrative conclusion).
+This appeal has to consider whether the degree of conclusivity is the same in both cases, and what it is.
+There is nothing in the relevant primary legislation, which is the Coroners and Justice 2009 Act (the 2009 Act), about this.
+However, Note (iii) to the form for recording the results of an inquest prescribed by the Coroners (Inquests) Rules 2013 (SI 2013/1616) (the 2013 Rules) states the standard of proof for narrative conclusions is on a balance of probabilities, which is the rule (the civil rule) for civil proceedings, and for short form conclusions of suicide and unlawful killing it is the criminal standard, so the coroner or jury must be sure, and that means that they are satisfied beyond reasonable doubt.
+The civil rule applies in civil proceedings even if the issue is whether someone committed a criminal offence.
+A coroners inquest is not a criminal proceeding.
+At the time of the 2013 Rules, the common law was understood to be as stated in Note (iii).
+As I shall explain, there were at one time links between inquests and criminal proceedings.
+The 2013 Rules concretised the differential standard for short form and narrative conclusions in Note (iii).
+One of the issues on this appeal is whether that approach correctly reflects the common law, either historically or currently.
+Two elements must be established before suicide can be found: it must be shown that the deceased took his own life and that he intended to kill himself (or another): see Jervis on Coroners, 14th ed (2019), para 13.67 and Kennys Outlines of Criminal Law, 17th ed (1958), p 163.
+It may happen in one and the same inquest that the narrative conclusions find facts which in law mean that the deceased committed suicide and yet that conclusion cannot be recorded as a short form conclusion.
+The Divisional Court saw the logical difficulty in a situation where there might be narrative findings showing that the two elements of suicide were satisfied and yet no short form conclusion of suicide: [2018] EWHC 1955 (Admin); [2019] 1 All ER 561.
+It held: A narrative conclusion to the effect that on the balance of probabilities the deceased did a deliberate act which caused his own death intending the outcome to be fatal clearly amounts to a conclusion that the deceased committed suicide whether or not the word suicide is used.
+It is sophistry to say that such a conclusion is not one of suicide because the required standard of proof has not been met.
+The standard of proof even if referred to in the record of inquest, as it was in this case, is not itself part of the substantive conclusion adopted by the coroner or jury.
+It is simply a statement of the evidential test which must be met in order to reach a particular conclusion.
+If the standard of proof required to determine that the deceased committed suicide is the criminal standard and the necessary facts have been proved only on the balance of probabilities, this does not mean that a conclusion which records those facts is not one of suicide.
+It means that the coroner or jury cannot lawfully reach that conclusion. (para 25)
+Death of Mr James Maughan
+Tragically, early on 11 July 2016, the appellants brother, Mr James Maughan, was found in his prison cell hanging by a ligature from his bedframe.
+He was pronounced dead.
+He had had a history of mental health issues and was agitated on the previous evening and threatened self harm.
+At the inquest into the circumstances of Mr James Maughans death, the coroner, the Senior Coroner for Oxfordshire, applying the Chief Coroners Guidance No 17: Conclusions: Short Form and Narrative (referred to below as Guidance No 17 issued by the Chief Coroner), decided that the jury could not safely reach a short form conclusion of suicide on the basis of the criminal standard of proof, that is, on the basis that the jury was sure that Mr James Maughan had committed suicide.
+Nonetheless, the coroner considered that the jury should have the opportunity to make a narrative statement of the circumstances of Mr James Maughans death on a balance of probabilities.
+The jury answered the questions put to them by saying that the deceased had a history of mental health issues and that on a balance of probabilities the deceased intended fatally to hang himself and that increased vigilance would not have prevented his death.
+There was no short form conclusion of suicide.
+The appellant submits that this course was not open in law on the legal requirements as to standard of proof.
+If those standards were correctly applied, no issue is taken on the findings themselves.
+Parties to this appeal
+The first respondent to this appeal is Senior Coroner for Oxfordshire, who conducted the inquest and who understandably makes no submissions on this appeal.
+The first intervener is Chief Coroner of England and Wales, for whom Mr Jonathan Hough QC appears.
+INQUEST, a charity with expertise in relation to state related deaths and their investigation, with the permission of the court, intervene in this appeal (as they had done in the Court of Appeal) and Mr Adam Straw made submissions on their behalf.
+Changes in inquests and the introduction of narrative conclusions
+Longer, more judgemental narrative conclusions, as used by the coroners jury in this case, are relatively new.
+They result from the recent transformation of many inquests from the traditional inquiry into a suspicious death into an investigation which is to elicit the facts about what happened, and in appropriate cases identify lessons to be learnt for the future.
+This is the position in inquests which the state is now required to carry out because of the European Convention on Human Rights (enforceable in the domestic law of England and Wales since 2 October 2000).
+Article 2 of the Convention protects the right to life.
+One of the consequences of this is that there must generally be an effective investigation of deaths which occur while a person is in the custody of the state (state related deaths), and one of the ways in which this obligation may be discharged is by holding a coroners inquest, in which the next of kin of the deceased can participate.
+The relevant principles of domestic law have been established by decisions of the courts, including, in particular, the decision of the House of Lords in R (Middleton) v West Somerset Coroner [2004] UKHL 10; [2004] 2 AC 182 (Middleton).
+In his written submissions, the Chief Coroner states that an article 2 inquest:
+opens up the field for conclusions about underlying or contributory causes, such as failures to prevent suicide in prison.
+It may require a coroner to deliver (or elicit from a jury) a more extensive and judgmental form of narrative conclusion.
+The manner of eliciting such a conclusion in a jury case is for the coroners discretion but it is often done by means of questions (as in this case). (para 19)
+This is confirmed by the case of Scholes v Secretary of State for the Home Department [2006] EWCA Civ 1343; [2006] HRLR 44, which came before Pill LJ and myself in the Court of Appeal.
+It concerned a vulnerable 16 year old boy, Joseph Scholes, who was sent to a young offender institution instead of a secure home for boys of his age and who shortly thereafter hanged himself.
+The inquest revealed a worrying situation with regard to the detention of young offenders and the Secretary of State was required to take steps to improve the situation.
+There had to be an increase in the number of places available in secure homes for such individuals.
+Even though his mothers attempt to obtain a further inquiry failed, several improvements in the system resulted from the findings at the inquest.
+This case illustrates a point also made by the Chief Coroner that the family of the deceased often want findings to be made at an inquest so that steps can be taken to ensure that the same tragedy does not occur again.
+I need only refer to the consequences of the article 2 obligation that are relevant to this appeal.
+I will assume that, as in this case, the coroner sits with a jury.
+The purpose of the inquest is to determine how, when and where the deceased came by his death (2009 Act, section 5(1)).
+Where article 2 is engaged, how, when and where includes in what circumstances the deceased came by his or her death (2009 Act, section 5(2)).
+The inquest will generally hear evidence on these matters.
+After the evidence is given, the jury must make their determination as to how, when and where the deceased died (2009 Act, section 10).
+The Convention does not require any particular standard of proof or degree of conclusivity for these findings.
+The coroner will determine which facts in issue are at the centre of the case.
+A narrative statement of facts will often be necessary to express the findings of the jury on these facts (Middleton, para 36, and Guidance No 17 issued by the Chief Coroner).
+The coroner may formulate some questions to help the jury, and their answers will form the narrative conclusions recorded at the end of the inquest.
+The conclusion in such a narrative is of a factual nature (Middleton, para 37).
+That is reinforced by section 10(2) of the 2009 Act, which provides that a determination may not be framed so as to appear to determine any question of any question of criminal responsibility on the part of any named person or any civil liability.
+The conclusions of the inquest must be recorded in the Record of Inquest.
+Form 2 in the Schedule to the 2013 Rules is the mandatory prescribed form for this.
+The conclusion may be a short form conclusion which should be from the list provided in Form 2, such as suicide, accident or unlawful killing, but it may be or be also a narrative statement.
+Guidance No 17 issued by the Chief Coroner sets out a three stage process for arriving at a conclusion, namely: (a) that the facts should be found (on the evidence); (b) that the manner in which the deceased came by his death should then be distilled from the narrative findings; and, (c) the conclusion flowing from (a) and (b) should then be recorded.
+As explained, the 2009 Act did not provide for the standard of proof for conclusions at the end of an inquest, but section 45 of that Act provides for coroners rules for regulating the practice and procedure at or in connection with inquests.
+Section 45 gives specific examples of the matters to which the coroners rules might relate including, for example, provisions about evidence.
+That is the enabling power under which the 2013 Rules were made.
+It is to those Rules that I must first turn.
+Statement of the standard of proof in the 2013 Rules
+The 2013 Rules cover many procedural aspects of a coroners inquest.
+For the first time, use of the prescribed form to record the result of the inquest, Form 2, was made mandatory: see rule 34, which provides: A coroner or in the case of an inquest heard with a jury, the jury, must make a determination and any findings required under section 10 using Form 2.
+Form 2 is as follows: Form 2 Record of an inquest The following is the record of the inquest (including the statutory determination and, where required, findings) 1.
+Name of the deceased (if known): 2.
+Medical cause of death: 3.
+How, when and where, and for investigations where section 5(2) of the Coroners and Justice Act 2009 applies, in what circumstances the deceased came by his or her death (see note (ii)): 4.
+Conclusion of the coroner/jury as to the death: (see notes (i) and (ii): 5: Further particulars required by the Births and Deaths Registration Act 1953 to be registered concerning the death: 3 Sex 1 Date and place of death 2 Name and surname of deceased 5 Date and place of birth 6 Occupation and usual address 4 Maiden surname of woman who has married Signature of coroner (and Jurors): NOTES: (i) One of the following short form conclusions may be adopted: I. Accident or misadventure II.
+Alcohol/drug related III.
+Industrial disease IV.
+Lawful/unlawful killing V. Natural causes VI.
+Open VII.
+Road traffic collision VIII.
+Stillbirth IX.
+Suicide (ii) As an alternative, or in addition to one of the short form conclusions listed above under NOTE (i), the coroner or where applicable the jury, may make a brief narrative conclusion. (iii) The standard of proof required for the short form conclusions of unlawful killing and suicide is the criminal standard of proof.
+For all other short form conclusions and a narrative statement the standard of proof is the civil standard of proof. (Italics added)
+Note (ii) expressly contemplates that both short form and narrative conclusions may be used in the same inquest.
+Note (iii) uses very precise language, but the first question is whether it simply declares the common law position in a convenient form or whether it goes further and codifies the common law rules and makes them mandatory in this form so as to remove them from the reach of the courts when considering the true state of the common law.
+For that question, I must turn to consider the legal basis for Note (iii).
+Before I do that, I will refer to the guidance issued by the Chief Coroner, so far as relevant.
+One of the functions of the Chief Coroner is to give guidance to coroners.
+In discharge of this function he has issued Guidance to Coroners and a Bench Book.
+The 2009 Act does not attach particular status to these.
+The provisions relevant to the standard of proof are set out in the judgments below.
+Without in any way detracting from the importance of the Chief Coroners Guidance or the Coroners Bench Book, I do not repeat those passages in this judgment, save one, namely para 62 of the Chief Coroners Guidance, which advises on the possible explanation a coroner sitting without a jury might give where the coroner considers that suicide is not established to the criminal standard.
+Para 62 states: Looking at the two elements which must be proved to the higher standard of proof before a conclusion of suicide can be recorded, I am satisfied that [the deceased] took his own life, but I am not satisfied that he intended to do so.
+I cannot be sure about it.
+It is in my judgment more likely than not that he had that intention, but on the evidence looked at as a whole I cannot rule out that this was a terrible accident.
+For those reasons my conclusion is not suicide or accident but an open conclusion.
+Legal basis for the statement of the standard of proof in Note (iii)
+The issue here is: if Note (iii) constitutes a statutory statement of the standard of proof, does it constitute a matter of practice or procedure for the purposes of section 45 of the 2009 Act?
+In McKerr v Armagh Coroner [1990] 1 WLR 649, which concerned the question whether coroners rules could restrict a coroners right to compel witnesses, Lord Goff made some introductory points which are helpful here.
+He held that what is meant by practice and procedure must depend to some extent on the context in which the expression is used; that the distinction drawn for the purposes of civil proceedings between the mode of proceeding by which a legal right is enforced and the law which gives or defines the right (per Lush LJ in Poyser v Minors (1881) 7 QBD 329, 333) is not apt in relation to coronial proceedings, which are not concerned with the enforcement of a legal right.
+Nonetheless rules which regulate the mode of proceeding are rules which regulate the practice and procedure at an inquest.
+Lord Goff held that there was no real distinction between practice and procedure in coronial or civil proceedings (p 657).
+A question as to the meaning of procedure in a statute came before the Court of Appeal in R (LG) v Independent Appeal Panel for Tom Hood School [2010] EWCA Civ 142; [2010] PTSR 1462, paras 41 to 44 per Wilson LJ (as he then was).
+The issue was whether a statutory power to make rules for the procedure on appeals of a schools independent appeal panel included power to make a rule that a decision to exclude a pupil should be taken on a balance of probabilities.
+Wilson LJ, as he then was, gave the leading judgment.
+He held that the power was wide enough to cover the question of the standard of proof to be applied by the tribunal.
+I agree with this.
+As Wilson LJ sets out, the word procedure should be given a wide, purposive meaning to enable it to cover all the steps in the proceedings: The procedure on appeals is synonymous with the processing of appeals; and, when the panel takes the step (or reaches the stage) at which it determines a question whether a fact is established, a necessary part of its processing of that part of the appeal is to apply a particular standard of proof in reaching an answer to the question.
+A regulation about the inadmissibility of evidence of a specified character would in my view clearly fall within the rubric of procedure on appeal and there is in my view no material difference between a requirement that the panel should exclude evidence of a specified character and a requirement that it should apply a specified standard of proof to its appraisal of such evidence as is properly before it. (para 43)
+The expression of practice and procedure must have been intended to cover all the matters on which rules would be required for the efficient management of the inquests and so I see no reason therefore why the expression should not include the standard of proof to be required.
+The standard of proof is after all a necessary part of the process of making a determination and it is sometimes called the evidential standard, thus engaging the express provision in section 45(2)(a) authorising coroners rules to make provision about evidence.
+So far so good.
+But the fact that a note to a form as to the standard of proof can constitute a matter of procedure of the question is not the end of the matter on this appeal for several reasons, which I will explain in the succeeding paragraphs.
+Section 45 requires that the rules should be made for, that is, for the purpose of, regulating the practice and procedure at or in connection with inquests.
+That is the purpose of the power and the decision maker must not use it for any other extraneous purpose.
+Such purpose may include the provision of a new regulation for a matter which is already regulated by some other means.
+I will return to this particular point later.
+To begin, it is necessary to examine the background to the relevant part of the 2013 Rules.
+They were preceded by a public consultation conducted by the Ministry of Justice (MoJ) on the draft 2013 Rules: Implementing the coroner reforms in part one of the Coroners and Justice Act 2009 consultation on rules, regulations, coroner areas and statutory guidance CP 2/2013, 1 March 2013.
+This annexed Form 2 in draft, including Note (iii), but the body of the consultation document did not refer to the evidential standard.
+One of the consultation questions was: Question 18: Are you content with the draft rule and form on conclusions, determinations and findings? If not, how could they be improved? Do you agree with the addition of the new short form conclusions drink/drug related and road traffic collision? Please give your reasons.
+There was no question about whether the existing rules on standard of proof should be changed.
+Some of the consultees in their responses sought to raise the issue whether the standard of proof for the short form conclusion of suicide should be the civil standard, others sought to have the criminal standard applied.
+In the subsequently published analysis of responses, Implementing the coroner reforms in Part 1 of the Coroners and Justice Act 2009 Response to consultation on rules, regulations, coroner areas and statutory guidance 4 July 2013 the MoJ recorded: Suicide standard of proof We also received comments on the most appropriate standard of proof needed for a coroner or jury to give a suicide conclusion at an inquest.
+Under current practice (common law precedence), coroners may return a verdict of suicide only where the criminal standard of proof has been established, ie that it was beyond reasonable doubt that the deceased intended to take their own life.
+Some respondents expressed strong views on whether the current criminal standard should be replaced by the civil standard. (internal p 37)
+The MoJ response made it clear that the Government proposed to retain the standard established by case law: As the requirement to use the criminal standard of proof when returning a suicide verdict is established under case law rather than coroner legislation we cannot take forward a change in the law through secondary legislation flowing from the 2009 Act.
+However the Chief Coroner and the MoJ are considering the views expressed on this issue. (internal p 38)
+The decision therefore was that the 2013 Rules could not make a change in the law (we cannot take forward a change in the [case] law through secondary legislation), not that the criminal standard should be established in the 2013 Rules.
+Mr Straw submits that a mere consultation document and response would not be admissible on statutory interpretation in the same way that explanatory notes on an Act would be.
+But this is not so.
+The courts will look beyond explanatory notes (which are a comparatively recent innovation) in their endeavour to find the true intention of Parliament.
+In my judgment, the consultation documents and the response documents are documents which show the mischief to which Note (iii) was directed and their contents are therefore admissible when the courts seek to interpret Note (iii): see Bennion on Statutory Interpretation, 7th ed (2017), section 24.3 (External aids to construction may be used for a variety of different purposes.
+For example, they may be used to provide evidence as to the intended meaning of the words used ).
+Moreover, the consultation document and the response document were made available to Parliament, which is of some weight when deciding whether they should be admissible on interpretation.
+What is clear from these documents is that the mischief to which Note (iii) was directed was not any dissatisfaction with the case law or policy objective of altering it.
+The Note was simply part and parcel of an exercise of updating the forms in the light of the 2009 Act.
+Criticism of the standard of proof for suicide was not new in 2013 and would not have taken the MoJ by surprise.
+The Report of a Fundamental Review 2003 into Death Certification and Investigation in England, Wales and Northern Ireland (Cm 5831) referred to the criminal standard for suicide and considered that its justification was the need to find outcomes on issues of legal liability to higher evidential standards.
+Such an approach was not, however, considered to be appropriate: Present practice is that most short form inquest verdicts should be established to the civil standard of proof the balance of probabilities test.
+But for verdicts of suicide and unlawful killing it is the higher criminal standard of proof beyond reasonable doubt which is applied.
+The justification for this appears to lie in the need for outcomes which determine, or appear to determine, legal liability (albeit not that of a named individual) to be reached on the basis of standards which are properly applicable in the appropriate civil or criminal court.
+It is not feasible, however, for such standards to be systematically applied in an inquisitorial process whose role is to determine what may be a set of complex and interrelated facts. (para 30)
+The Report did not recommend altering the standard of proof for suicide.
+It may be that this was in part because the Report also recommended a substantial change in short form conclusions in any event (para 37).
+We are told that these recommendations of the 2003 Review were not accepted by the government.
+The standard of proof for suicide was also the subject of cogent criticism by Professor Paul Matthews (subsequently Judge Paul Matthews) in two valuable articles: The Coroner and the Quantum of Proof (1993) 12 (July) CJQ 279 and The Coroner and the Quantum of Proof a postscript (1994) 13 (October) CJQ 309.
+These articles drew attention to the differential evidential standards for the conclusion of suicide, perhaps for the first time in UK scholarly literature.
+They also drew attention to a body of Commonwealth authority applying the civil standard.
+They also made the point that, if narrative findings could be made but the standard of proof for a short form conclusion precluded a short form conclusion of suicide, and no other short form conclusion was appropriate, the coroner would have to enter an open conclusion.
+The point to be deduced from the response document is that, there being a common law rule in place to regulate the standard of proof for the conclusion of suicide, it would be outside the enabling power in section 45 to make a rule to substitute for a common law rule which was in place and represented the law of the land.
+In those circumstances the power to make rules could understandably not be used to state some new rule.
+A new rule stating the position at common law was unnecessary and a new rule altering the common law would not be a rule for regulating coronial practice and procedure.
+It would be for achieving a change in an existing rule of law.
+So the carefully worded response of the MoJ was: we cannot take forward a change in the [case] law through secondary legislation.
+So there was no point in even opening a dialogue on the point and it could not hold up placing the draft rules before Parliament.
+But the fact that this exchange took place in public documents is a valuable aid to interpretation of the 2013 Rules and enables the courts more clearly to see the meaning which Parliament intended Note (iii) to have.
+I would not assume that the drafter mistakenly thought that the notes were of no legislative force.
+It is true that in R v HM Coroner for North Humberside and Scunthorpe, Ex p Jamieson [1995] QB 1, 25, the Court of Appeal (Sir Thomas Bingham MR, McCowan and Hirst LJJ) held that the notes on the then current form 22 scheduled to the Coroners Rules 1984 (which covered different matters) were not binding.
+However, while no reason was given for this observation, the observation is readily distinguishable because the use of form 22 as opposed to Form 2 was not mandatory (see the Coroners Rules 1984 (SI 1984/552), rule 60).
+The Divisional Court (Leggatt LJ as he then was and Nicol J) considered this question of the meaning of Note (iii) briefly, and concluded that it was within the scope of the enabling power for the 2013 Rules but was simply stating, for the assistance of those using the form, what the law with regard to the standard of proof is understood to be, and not legislating what the law shall be (para 47).
+In the Court of Appeal, Davis LJ, with whom Underhill and Nicola Davies LJJ agreed, came to the same conclusion, [2019] EWCA Civ 809; [2019] QB 1218: If it was desired by the Coroners rules to make provision for the standard of proof (and it was common ground before us that section 45 of the 2009 Act would have so permitted) then the obvious place to do so would have been in the body of the Coroners rules themselves.
+The notes appended to the prescribed form cannot, in my view, be given the substantive status of rules.
+They simply set out, for the convenience of coroners, an understanding of the law. (para 76)
+The point made in the first sentence is a powerful one, and I agree with it.
+However, neither court referred to the consultation document or the consultation response document referred to in paras 25 to 27 above.
+I therefore turn to the interpretation of Note (iii) with the consultation document and response available to me.
+Meaning of Note (iii)
+The first point to make is that Note (iii) forms part of an enactment and must be interpreted in the same manner as any other enactment and as part of that enactment.
+As Brett MR held in Attorney General v Lamplugh (1878) 3 Ex D 214, 229: [A] schedule in an Act of Parliament is as much a part of the statute, and is as much an enactment as any other part.
+Moreover, all parts of a statute have operative effect and provisions are not to be treated simply as for the avoidance of doubt or guidance.
+Very occasionally, however, the contrary may be stated or the contrary may occur.
+Parliament may, for instance, occasionally provide examples which are not necessarily intended to be used as aids to restrict the interpretation of the principal provision.
+The same applies to footnotes to a schedule to an enactment.
+The principal authority on this is Hunt v RM Douglas (Roofing) Ltd [1990] 1 AC 398, to which the President of the Supreme Court, Lord Reed, drew counsels attention.
+The House of Lords there held that Parliament could change the law, in that case by harmonising different rules of procedure, by means of enacting a footnote to a form in a schedule to rules of procedure.
+The competing statutory provisions in that case were complex.
+The case concerned the start date for the accrual of interest on costs awarded by order of the court and it turned on a note to a prescribed form and the effect of its deletion.
+The appellant argued that under section 17 of the Judgments Act 1838 interest on costs ran from the date of judgment.
+The practice between the common law and the chancery courts between 1839 and 1875 differed in that the former took the date of the judgment and the latter the date of the certificate of taxation (there was no similar practice at common law).
+Eminent judges held different views as to which was the fairer rule.
+The Rules of Court 1875 enacted by section 16 of the Supreme Court of Judicature Act 1875 annexed a writ of execution (known as a writ of fi fa) for use in relation to judgments of the High Court and Court of Appeal adopting by way of a footnote the chancery practice.
+However, a new form of writ of execution was required to be used by new rules enacted in 1883.
+A footnote to this form provided that interest ran from the date of judgment.
+This footnote was not attached to the form when it appeared in the Rules of the Supreme Court 1965.
+The House analysed the issue of the date from which interest on costs should run as one of statutory interpretation.
+The footnote to the form of writ of execution in the 1883 Rules had swept away the chancery practice, as had been held by Field J in Pyman & Co v Burt, Boulton [1884] WN 100 and by a unanimous Court of Appeal in Boswell v Coaks (1887) 57 LJ (NS) Ch 101 (Cotton, Lindley and Lopes LJJ).
+The latter case was particularly striking as the effect of the change was directly in issue and the judgments were informative as to the contemporary practice: Lord Ackner, with whom the other members of the House agreed, referred to it several times.
+In Boswell v Coaks, judgment at trial had been given before the 1883 Rules were commenced but by the time the costs were assessed the 1883 Rules were in force.
+The 1883 Rules applied because the proceedings were still in progress until the assessment of costs and enforcement were completed and there was no vested right in a rule of practice.
+Lindley LJ in particular explained how the 1883 Rules had struck out the old rules and made one code applicable to all divisions of the Court (p 105).
+The House therefore overruled the earlier decision of the Court of Appeal in K v K (Divorce Costs: Interest) [1977] Fam 39, which held that the court was therefore able to choose which rule to adopt and adopted the old rule of the chancery courts.
+By implication, the House in Hunt v RM Douglas (Roofing) Ltd did not consider that the deletion of the footnote by the Rules of the Supreme Court 1965 resuscitated the old chancery rule which had been abolished in 1883.
+There is no doubt that Note (iii) in the present case expresses the common law as it was perceived to be but the question is whether Note (iii) is also to be interpreted as codifying the law and taking away the power of the courts to develop or elucidate or correct the common law.
+In my judgment, that is where the statement in the response to consultation by the MoJ comes in.
+Given that, as a result of the response to consultation published by the MoJ, neither Parliament nor the public had notice of any intention to change the common law rule, as would be the inevitable result of codifying it without reservation, it seems to me that the proper course is for the court to interpret Note (iii) as having an interpretation that accords with that position, stating the common law rule for short form conclusions as the (current) common law rule.
+I reach this conclusion as a matter of interpretation and my conclusion should not in any way be read as departing from the strong presumption that every provision of an enactment has legislative force.
+It turns on the very special background applying to Note (iii) informing the court in its interpretative role as to the presumed intention of Parliament.
+The footnote to the statutory form in Hunt v RM Douglas (Roofing) Ltd served an entirely different purpose, namely that of laying to rest a debate between two divisions of the High Court whose practice it was desired to harmonise.
+It will be recalled that shortly before 1883 the courts of common law and equity had been fundamentally reorganised by the Judicature Acts 1873 to 1875 so that there would in future be only one Supreme Court of Judicature in England and Wales in which the courts administered both law and equity, so harmony was essential and consistent with legislative policy.
+In relation to interest on costs, that legislative policy could not be achieved unless the common law and chancery rules were harmonised.
+The judgments in Boswell v Coaks, described in para 39 above, show that the debate was well known.
+The Court of Appeal interpreted the note against the background of the prior differences in practice.
+There was no equivalent debate in the case law in this case as to the correctness of the common law rule reflected in Note (iii) prior to its enactment.
+It would, moreover, be contrary to drafting conventions for a schedule to the Rules to be used to make what would clearly be a change of some consequence in the law.
+Lord Thring, the first Head of the Office of Parliamentary Counsel, states in his Practical Legislation (1877) that: As to Schedules Great care should be taken in the preparation of schedules.
+It is desirable to include in a schedule matters of detail; it is improper to put in a schedule matters of principle.
+The drawing [of] the proper line of demarcation between the two classes of matters is often difficult.
+All that can be said is that nothing should be placed in a schedule to which the attention of Parliament should be particularly directed; for example, the constitution of an electoral or financial body of persons should be found in the body of the Act; but the mode of conducting the election of the electoral body, and the rules as to proceedings at meetings of the financial body, may not improperly be placed in a schedule. (pp 100 101, reprint (1902))
+As I see it, to construe Note (iii) as having the effect of transforming a common law rule into a statutory one without any provision in the body of the Rules themselves would contravene at least two of the matters stated in this passage.
+Codification would reduce the role of the courts in keeping the common law up to date and in harmony, and that is not a matter of detail.
+Moreover, the change that would be effected by Note (iii) was a matter to which the attention of Parliament (not to mention, consultees) should have been drawn and there is nothing to suggest that this was done.
+The 2013 Rules were considered by the Joint Committee on Statutory Instruments with further explanation.
+The conventions observed by legislative drafters as described by Lord Thring in the passage I have set out make admirable good sense.
+Those conventions are part of the unwritten principles on which the British constitution depends, and the courts ought to proceed on the presumption that high standards of drafting have been observed.
+There is no reason to think that the principle behind the passage that I have quoted from Lord Thring is not equally valid today.
+The appellant submit that the view expressed by the MoJ in the Governments response to the 2013 consultation was wrong and that the effect of Note (iii) was to codify the common law.
+I do not agree for the reasons given above.
+The apparent width of section 45 of the 2009 Act is nothing to the point.
+The one place where the users might naturally expect to find guidance in this context on what the relevant law is, as opposed to some new operative provision, is in the notes to a prescribed form and Note (iii) provides that guidance for so long as the common law remains the same.
+But Note (iii) does not take away the role of the courts in reviewing the common law.
+As Davis LJ observed in the passage I have already cited, that Parliament was not intending to transform a common law rule into a statutory one is consistent with the fact that there is no rule in the 2013 Rules setting out the standard of proof and with the choice of wording in Note (iii) itself.
+That point cannot be universally true because there was no rule abolishing the chancery rule as to the commencement date for interest on costs in Hunt v RM Douglas (Roofing) Ltd, but as I have explained the context in which the footnote had to be interpreted was entirely different in that case.
+There is no equivalent or compelling legislative policy made known to the court here.
+Moreover, Note (iii) is completely silent on the provenance of the standard of proof for the short form conclusion of suicide or unlawful killing.
+If the source was the 2013 Rules, then the only relevant provision was Note (iii).
+It is hard to see how this could be because the word required is logically referring to a source of law which pre existed the 2013 Rules.
+That could be the 2009 Act, but that made no such provision.
+By a process of elimination, the provenance of that standard of proof could only be the common law.
+The word required is not used in the second sentence of Note (iii).
+I venture to suggest that it was not used there because the drafter could not point to any source for the statement outside the 2013 Rules and was merely making a statement based on his or her understanding of the effect of common law principles in this case.
+The courts had not had the opportunity of considering the standard of proof for narrative statements at that point.
+The drafter was merely making a deduction from the general principle that, in civil proceedings, the civil standard of proof applies.
+Another important feature of the drafting of Note (iii) is that it is in the present tense.
+It does not use the future tense.
+In my judgment, that means that the provision does not have the effect of ruling out any further change in the common law.
+The correct interpretation in the light of the background material is that Note (iii) was merely speaking as to the state of the law as at the date on which the 2013 Rules came into effect.
+Starting from the position that the standard of proof is set by the common law, the word is means has been held to be and is, and not is to be or shall be.
+If it had been intended to be mandatory for the future, it would have used the words shall be especially as these forms were to be seen and used not just by coroners but by jurors and other non lawyers.
+Finally, it is not without significance that under section 45 of the 2009 Act these Rules were made by the Lord Chief Justice of England and Wales in consultation with the Lord Chancellor.
+That reflects the constitutional principle that it is primarily a judicial function to lay down rules which govern the conduct of judicial hearings.
+It is the principle on which much of Schedule 4 to the Constitutional Reform Act 2005 on the division of functions between the Lord Chancellor and the Lord Chief Justice of England and Wales is based.
+Given that there was no statutory provision dealing with the standard of proof in inquests, and that it was governed by the common law, it would be very strange if the effect of the rules was to prevent the courts developing the common law in the future.
+The identity of the Lord Chief Justice as the person who was to make the rules (in consultation with the Lord Chancellor) would seem in any event to run counter to the notion that in that capacity he had power to make rules bringing about a substantial change, especially one that was controversial.
+Another factor relevant to interpretation is that Note (iii) produces the possibility of differential standards of proof in the same inquest, for which it must have appeared likely, even in 2013, that there might have to be some reconsideration in the future.
+Finally, there is a presumption in statutory interpretation that Parliament did not intend to make a casual change in the common law.
+As Bennion on Statutory Interpretation explains: (1) It is a principle of legal policy that law should be altered deliberately rather than casually, and that Parliament should not change either common law or statute law by a sidewind, but only by measured and considered provisions.
+In the case of common law, or Acts embodying common law, the principle is somewhat stronger than in other cases.
+It is also stronger the more fundamental the change is. (section 26.8)
+In all the circumstances, to hold that Parliament had set down the standard of proof in Note (iii) would in my judgment be inconsistent with this presumption.
+I therefore reject the appellants submission that Note (iii) has codified the law.
+All that has happened is that Note (iii) has set out the common law as at the date of the 2013 Coroners Rules and did not exclude the power of the courts to develop the common law.
+As I have said, Davis LJ made a powerful point when he held that, had that been the intention, there would have to have been a direct statement to that effect.
+of proof applying to short form conclusions at inquests.
+Case law in England and Wales on the criminal standard of proof in cases
+where there are grounds for a conclusion of suicide
+The real focus of the judgment of the Divisional Court was on the legal basis for what was essentially common ground before that court, namely that a conclusion of suicide had to be reached on the criminal standard of proof.
+Having examined the case law, their conclusion was: I turn next to consider the case law on the question of the criminal standard We consider the true position to be that the standard of proof required for a conclusion of suicide, whether recorded in short form or as a narrative statement, is the balance of probabilities, bearing in mind that such a conclusion should only be reached if there is sufficient evidence to justify it. (para 75)
+The Court of Appeal also examined the case law with great care and they also reached this conclusion.
+Their conclusion is to be found in para 88 of the judgment of Davis LJ: 88.
+The upshot is, in my judgment, that the decision in Ex p Evans is to be overruled.
+The reasoning in Ex p Gray (in so far as it relates to suicide) and the dictum of Woolf LJ in Ex p McCurbin with regard to suicide are not to be followed.
+The standard of proof to be applied at an inquest where an issue of suicide arises is in all respects, and whether for the purposes of a short form conclusion or for the purposes of a narrative conclusion, the civil standard of proof: that is to say, by reference to the balance of probabilities.
+There are many cases in which the Divisional Court or the Court of Appeal has in the past held that the criminal standard applies to suicide verdicts in a coroners inquest.
+In R v HM Coroner for Dyfed, Ex p Evans, (unreported) Divisional Court, 24 May 1984, Watkins LJ, with whom Forbes J agreed, held that it was not permissible for a coroners jury to bring in a verdict of suicide on a balance of probabilities.
+In R v West London Coroner, Ex p Gray [1988] 1 QB 467 Watkins LJ, with whom Roch J agreed, held that it was unthinkable that anything less than proof on the criminal standard would do.
+In R v Coroner for North Northumberland, Ex p Armstrong (1987) 151 JP 773, Woolf LJ and McCullough J held that the criminal standard applied.
+In R v Inner South London Coroner, Ex p Kendall [1988] 1 WLR 1186, Parker LJ and Simon Brown J held that the criminal standard applied.
+The criminal standard was assumed to be the correct standard in R v HM Coroner for Newbury, Ex p John (1991) 156 JP 456.
+It was held to apply in R v HM Coroner for Solihull, Ex p Nutt [1993] COD 449, R (Lagos) v City of London Coroner [2013] EWHC 423 (Admin), and Jenkins v HM Coroner for Bridgend and Glamorgan Valleys [2012] EWHC 3175 (Admin); [2012] Inquest LR 97.
+The Court of Appeal came to the same conclusion in R v Wolverhampton Coroner, Ex p McCurbin [1990] 1 WLR 719 and in R (Sreedharan) v HM Coroner for the County of Greater Manchester [2013] EWCA Civ 181; [2013] Med LR 89.
+The critical case in the analysis of both the Divisional Court and the Court of Appeal was Ex p Gray.
+The Court of Appeal held that the only one of the cases that held that the evidential standard for a conclusion of suicide in a coroners inquest was the criminal standard was Ex p Gray but that the holding was both obiter and per incuriam, since the court had not taken into account the decision in Hornal v Neuberger Products Ltd [1957] 1 QB 247, in which the Divisional Court held that where in civil proceedings it was in issue whether a criminal act had been committed, the evidential standard was the civil standard, not the criminal one.
+Accordingly, Davis LJ held that the Court of Appeal was not bound by it.
+I see no reason to doubt the conclusions of either the Divisional Court or the Court of Appeal on the effect of the existing case law.
+There is considerable authority for the proposition that suicide is not to be presumed and must be affirmatively proved by some evidence (see, for example, In re Davis, decd [1968] 1 QB 72, 82, per Sellers LJ).
+It must be proved, and it is not permissible to fill in gaps in the evidence.
+It is not sufficient to say that, if all other causes of death are ruled out, it must have been a suicide.
+We are not concerned with this branch of jurisprudence on this appeal.
+Should the standard of proof for short form conclusions of suicide and narrative conclusions of suicide be the same?
+Both courts below answered this question in the affirmative.
+The Divisional Court took what the Court of Appeal held was a bold course and held that, insofar as earlier authorities had held that the jury had to reach a verdict of suicide on the criminal standard, those authorities were wrong and should not be followed.
+Ms Karon Monaghan QC, for the appellant, submits that the lower courts were wrong not to follow the earlier decisions.
+The conclusion of suicide is a very serious one for the family of the deceased, as this case shows, and the family appearing at the inquest may be disadvantaged by the inquisitorial nature of the proceedings.
+It would not violate article 2 of the Convention to require the criminal standard.
+There was little assistance to be derived from the Commonwealth cases cited by the Divisional Court.
+Ms Monaghan also submits that the criminal standard for suicide should be maintained because of its implications for the family, who have a limited role in the inquest.
+The proceedings being inquisitorial, there are no parties.
+There is a statutory definition of interested persons which is wide enough to include the family but there are restrictions on the part that they can play in the proceedings.
+For instance, they can examine witnesses, but the coroner may disallow their questions.
+There are no closing submissions on the facts after the evidence has been led.
+There is no automatic disclosure of documents.
+In this case, Mr James Maughans widow was legally represented at the inquest and his family participated in the inquest, but there are considerable restrictions on public funding for representation of the family at an inquest.
+Ms Monaghan submits that, as (on their case) the criminal standard applies, the jury should not be invited to consider questions which enable them to make findings which effectively undermine the restriction on finding a conclusion of suicide on a balance of probabilities and enable them to avoid that restriction.
+There would on this basis be no narrative findings as to the elements of suicide if the suicide conclusion could not be reached on the criminal standard.
+That would, she submits, be a way of avoiding the strange situation in which a jury is able to make narrative findings on the elements of suicide but not make the short form conclusion itself.
+Ms Monaghan submits that there was a close affinity between suicide and a criminal offence.
+She pointed to the continuing application of the offence of encouraging or assisting in a suicide, which is a serious matter.
+The fact that coronial proceedings are said to be civil proceedings is not a deciding factor.
+My conclusions on this issue
+I fully accept that it may be an anxious cause of concern to the family of the deceased if the evidential standard for the short form conclusion of suicide is not the criminal standard but the lower civil standard.
+However, the issue of the correct standard of proof for a short form conclusion of suicide has to be decided on the basis of legal principle.
+The position is that to hold that a criminal standard applies is out of line not only with narrative conclusions but also with the principle applying to civil proceedings generally.
+I see no reason why the normal legal principles should not apply.
+On the contrary there are good reasons why they should apply.
+Short form conclusions on the basis of the civil standard may for instance enhance the recording of suicides and assist research for the future.
+In my judgment the arguments for doing so are compelling.
+I explain my reasons for so concluding below. (1) On legal principle, the civil standard should apply, and the common
+law does not demonstrate any cogent reason for not applying that principle
+The principle is clear and it is that in civil proceedings the civil standard of proof should apply.
+There may be cases where it does not so apply, for example, contempt and forfeiture, but they are rare.
+These particular situations involve risk to liberty and loss of property, both keenly protected by the common law.
+None of the many cases on dealing with the standard of proof for suicide cited here or below is binding on us.
+I have considered them for the assistance which they can give to this court today in deciding what standard of proof the law requires.
+The assistance is somewhat limited.
+In, for example, R v West London Coroner, Ex p Gray, [1988] QB 467, the Divisional Court was not bound by any earlier decision for the reasons which the Divisional Court in this case gave (para 59).
+So the Divisional Court in Gray had to articulate their own reasoning but they did not do so, perhaps because they had been misled into thinking that the earlier case of R v City of London Coroner, Ex p Barber [1975] 1 WLR 310 was decisive of the issue.
+The Divisional Court simply came to the view that it was unthinkable that any lesser standard should apply (see para 60 of the Divisional Courts judgment in this case).
+It is as if the common law had accepted that the criminal standard applied because of the links between coronial proceedings and criminal proceedings, the serious consequences of suicide (which at one time led to the denial of normal burial rites and the barbaric practice of burial on the highway impaled by a stake), and the then generally prevailing societal norms attaching stigma to suicide.
+There are rare occasions when the reason for a rule has disappeared but the rule remains.
+This would appear to be one of those situations.
+The rule cannot be left as it is.
+As the Divisional Court first pointed out, if the appellant is right and the criminal standard is applied to the findings which pertain to the elements of suicide, then some conclusions will be reached on one basis and some on another within a single inquest.
+A system of fact finding on this basis is internally inconsistent and unprincipled and does not meet the standards of a modern, principled legal system.
+It is quite different from the situation which Woolf LJ (as he then was) (with whom Lord Donaldson MR and Stocker LJ agreed) considered and found satisfactory in McCurbin.
+In that case, Woolf LJ saw no difficulty in the jury considering unlawful killing on the basis of the criminal standard and if not sure, misadventure on the civil standard: I am quite satisfied that, in a case where it is open to a jury, as a result of a coroners inquest, to come to a verdict of unlawful killing, the appropriate direction which the coroner should give to the jury is the simple one that they should be satisfied beyond all reasonable doubt or, as sometimes said, satisfied so that they are sure.
+That provides clear guidance to the coroners jury which they will be able to follow, and it is not necessary for them to be involved with sliding scales which are more appropriate for a judge than a jury.
+It is true that, in many cases where it is open to a coroners jury to find a verdict of unlawful killing, they may also have to consider the question of death by misadventure.
+However, in my view, this does not and should not give rise to problems.
+The coroner should indicate to the jury that they should approach, initially, the question as to whether or not they are satisfied so that they are sure that this is unlawful killing.
+If they come to the conclusion that it is unlawful killing, there is no need for them to go on to consider death by misadventure.
+But, if they come to the conclusion that it is not unlawful killing, they are not satisfied so that they are sure that that verdict is appropriate, then they will consider the question of misadventure and, in so doing, they do not need to bear in mind the heavy standard of proof which is required for unlawful killing.
+They can approach the matter on the basis of the balance of probabilities.
+The situation is that, just as it is important that a jury should not bring in a verdict of suicide unless they are sure, likewise they should not bring in a verdict of unlawful killing unless they are sure. (p 728)
+Finally, on this point, the civil standard still results in safeguarding the interests of those adversely affected by the conclusion.
+As the Divisional Court pointed out (para 56), a conclusion on the balance of probabilities still involves showing that it is more likely than not that the deceased took his own life and intended so to do.
+It is not enough for the coroner or the jury to think that because certain possibilities (for example, unlawful killing by a person unknown) can be discounted, that suicide must have occurred. (2) The criminal standard may lead to suicides being under recorded and
+to lessons not being learnt
+The retention of the criminal standard for the short form conclusion of suicide is likely to lead to the assessment of when, where and in what circumstances did the deceased meet his death being left in a partially complete and incoherent way, which may give an inaccurate understanding of the position.
+The reasons for suicide are often complex.
+It is important not to adopt a stereotypical attitude here as elsewhere.
+Society needs to understand the causes and to try and prevent suicides occurring.
+Statistics are the means whereby this can be done.
+If a criminal burden of proof is required, suicide is likely to be under recorded.
+This is especially worrying in the case of state related deaths.
+If there is an open verdict because the criminal standard of proof cannot be achieved, the circumstances of the case have to be analysed before it can be included in any statistics to show the true number of suicides.
+There is a considerable public interest in accurate suicide statistics as they may reveal a need for social and medical care in areas not previously regarded as significant.
+Each suicide determination can help others by revealing how suicide risks may be managed in future.
+I accept that to some extent policy makers and researchers can seek to mitigate the under recording of cases by examining cases of open conclusions but they may not be able to do so accurately and lowering the standard of proof would be a more satisfactory way of getting accurate figures. (3) The changing role of inquests and changing societal attitudes and
+expectations confirm the need to review the standard of proof
+I have answered the question on this appeal in terms of legal principle but it may be asked why the standard of proof should now be challenged and why it is thought that a different and lower standard should now apply.
+In answer I should like to record some significant changes in the legislative background and in societal attitudes and expectations that have occurred in recent years.
+As to legislative background, suicide used to be a crime, but it ceased to be such in 1961.
+Section 1 of the Suicide Act 1961 enacts that: The rule of law whereby it is a crime for a person to commit suicide is hereby abrogated.
+Although the offence has been abolished, it is still a crime to encourage or assist a person to commit suicide (Suicide Act 1961, section 2).
+There has been an unmistakeable change in societys understanding and attitude to suicide.
+This change is charted by Lloyd LJ in Kirkham v Chief Constable of the Greater Manchester Police [1990] 2 QB 283.
+In that case, the court was faced with the argument that there was a defence to a claim for damages against a prison authority where a person had committed suicide in circumstances where it was alleged that the prison authorities had been negligent, on the basis of the defence of ex turpi causa, namely that it was contrary to public policy for a person who had committed suicide to recover damages.
+Lloyd LJ rejected that defence, holding: It is apparent from these authorities that the ex turpi causa defence is not confined to criminal conduct.
+So we cannot adopt the simple approach favoured by the judge.
+We have to ask ourselves the much more difficult question whether to afford relief in such a case as this, arising, as it does, directly out of a mans suicide, would affront the public conscience, or, as I would prefer to say, shock the ordinary citizen.
+I have come to the conclusion that the answer should be in the negative.
+I would give two reasons.
+In the first place the Suicide Act 1961 does more than abolish the crime of suicide.
+It is symptomatic of a change in the public attitude to suicide generally.
+It is no longer regarded with the same abhorrence as it once was.
+It is, or course, impossible for us to say how far the change in the public attitude has gone.
+But that there has been a change is beyond doubt.
+The fact that aiding and abetting suicide remains a crime under section 2 of the Suicide Act 1961 does not diminish the force of the argument.
+The second reason is that in at least two decided cases courts have awarded damages following a suicide or attempted suicide.
+In Selfe v Ilford and District Hospital Management Committee, The Times, 26 November 1970, Hinchcliffe J awarded the plaintiff damages against a hospital for failing to take proper precautions when they knew that the plaintiff was a suicide risk.
+In Pigney v Pointers Transport Services Ltd [1957] 1 WLR 1121, to which I have already referred, Pilcher J. awarded damages to the dependants of a suicide under the Fatal Accidents Act 1846.
+Moreover, in Hyde v Tameside Area Health Authority, Court of Appeal (Civil Division) Transcript No 130 of 1981 another hospital case, the judge awarded 200,000 damages in respect of an unsuccessful suicide attempt.
+The Court of Appeal allowed the defendants appeal, on the ground that there had been no negligence on the part of the hospital, but not on the ground that the plaintiffs cause of action arose ex turpi causa.
+Selfe and Pigney are not binding on us.
+But they are important for this reason.
+They show, or appear to show, that the public conscience was not affronted.
+It did not occur to anyone to argue in either case that the granting of a remedy would shock the ordinary citizen; nor did it occur to the court.
+For the above reason I would hold that the defence of ex turpi causa is not available in these cases, at any rate where, as here, there is medical evidence that the suicide is not in full possession of his mind.
+To entertain the plaintiffs claim in such a case as the present would not, in my view, affront the public conscience, or shock the ordinary citizen. (p 291)
+Farquharson LJ and Sir Denys Buckley gave concurring judgments to the same effect.
+However, it must be pointed out that there are those who consider that suicide is a mortal sin, and suicide will constitute a stigma for the deceased and also for his family.
+In the more recent case of Braganza v BP Shipping Ltd [2015] UKSC 17; [2015] 1 WLR 1661, this court had to consider the application of the civil standard of proof where an employer alleged that the death of an employee, a chief engineer on a ship, who was lost overboard in the Atlantic, was suicide.
+The deceased was a Roman Catholic and considered that suicide was a mortal sin (per Lady Hale at para 41).
+If he had committed suicide, he would be disqualified from receiving a death in service benefit.
+In determining his entitlement, the employer had to take into account in forming its view the improbability of suicide having occurred.
+The deceaseds view of suicide must be recognised but it could not any more be described as a generally prevailing social attitude.
+Braganza illustrates that others may oppose suicide verdicts for a different reason: it may lead to the loss of employee and other benefits, such as the proceeds of life insurance.
+The role of inquests has also changed (see paras 8 to 10 above).
+Inquests are concerned today not with criminal justice but with the investigation of deaths.
+They take a new and different purpose in a case such as this.
+(4) Leading Commonwealth jurisdictions have taken this course
+As the Chief Coroner explains, courts in Canada, New Zealand and Australia have sought to align the evidential standard in inquests to that applying in civil litigation: see In re Beckon (1992) 93 DLR 4th 161, 176b f (Ontario Court of Appeal), Anderson v Blashki [1993] 2 VR 89 (Supreme Court of Victoria) (unlawful killing: These being civil proceedings, the assault allegation is required to be proved on the lesser standard on the balance of probabilities despite the criminal nature of the allegation.) and In re Sutherland (deceased) [1994] 2 NZLR 242, 251 (which cites with approval the first article of Professor Matthews).
+That leads to the further question about unlawful killing considered by the Court of Appeal, to which I now turn.
+Should the criminal standard be retained for unlawful killing?
+The Court of Appeal considered this question at the request of Mr Hough.
+The Court of Appeal considered that, if the civil standard applied to unlawful killing cases as well as suicide, that would promote consistency of approach within the proceedings, be consistent with principle and remove the internal inconsistency caused by having different rules for short form and narrative conclusions in this area too.
+However, the Court of Appeal rejected the view that the civil standard also applied to unlawful killing.
+While under section 10(2) of the 2009 Act, a finding of unlawful killing could not name the person thought to be responsible, criminal law concepts applied: see, for example, R (Duggan) v North London Assistant Deputy Coroner [2017] EWCA Civ 142; [2017] 1 WLR 2199.
+Moreover, the Court of Appeal was bound by the decision in McCurbin to hold that the criminal standard applied.
+Davis LJ also held that section 10(2) of the 2009 Act contemplated that the criminal standard would be available.
+Section 10(2) provides that the determination of the result of the inquest may not be framed in such a way as to appear to determine any question of criminal liability on the part of a named
+person
+I do not take Davis LJ to say that this provision means that the criminal standard must be applied in unlawful killing cases, as it is well established that the commission of an offence can be determined in civil proceedings on the civil standard.
+Davis LJ was rightly concerned about the protection for a person implicated in any conclusion of unlawful killing.
+Such conclusion might make it more likely that a criminal prosecution is brought.
+In practice, despite the provisions of section 10(2) of the 2009 Act (see para 12 above), the name of that person may be more likely to be identified if the standard of proof for unlawful killing is the civil standard, because that standard may be more easily met.
+That person might thus be less able to enjoy the protection that section 10(2) conferred on him.
+The Chief Coroners primary concern on this appeal is to place arguments before this court both ways, and the court is grateful to him for doing that.
+The Chief Coroner explains that the application of the criminal standard in unlawful killing cases derives from the fact that coronial proceedings used to be a means for finding criminal liability.
+It used to be the duty of the coroners jury where they found that the death was murder, manslaughter or infanticide, to state in the verdict the name of the person considered to have committed the offence or of being an accessory before the fact.
+However, section 56 of the Criminal Law Act 1977 provided that a coroners verdict shall not make any finding that any person is guilty of murder, manslaughter or infanticide or charge any person with any of these offences.
+On that basis, the criminal standard for unlawful killing has lost at least some of its historical purpose.
+The able and concise submissions of Mr Straw are principally directed to the question of the appropriate standard of proof for a verdict of unlawful killing.
+He submits that the civil standard should apply in all non criminal cases, unless there is some good reason to the contrary.
+There is no principled basis for distinguishing suicide and unlawful killing in this regard.
+He points out, as did Professor Matthews in his articles, that one unfortunate result of the criminal standard is that an open conclusion has to be entered and the family will be denied the determination of the jury on issues as to how the deceased came by his death and what could have been done in his case, or what could be done in the future, to prevent a recurrence.
+The person implicated in an unlawful killing is at no greater risk of prosecution than he would be if findings of fact had been made against him in civil proceedings.
+Mr Straw further submits that the identity of the person whom the jury considered was responsible for the death may be obvious to persons familiar with the facts, and he is at no greater risk than he would be in a civil trial.
+Ms Monaghan submits that the criminal standard of proof should be maintained for both unlawful killing and suicide.
+On her submission, it is additionally desirable to uphold that standard for unlawful killing as the person responsible for the death will often in practice be identifiable.
+In my judgment, the short form conclusions of unlawful killing and suicide cannot satisfactorily be distinguished with respect to the standard of proof.
+As Davis LJ accepted, both such decisions contrast with the standard applying to narrative statements and different standards of proof may therefore confusingly apply to different conclusions within the same inquest.
+It is said that it would not promote public confidence in the legal system if a conclusion of unlawful killing is reached in an inquest on the civil standard, and a prosecution is mounted as a result which then fails.
+But that can happen in any event, even if the existing criminal standard is maintained, and it is at least as likely that public confidence in the legal system will be diminished if the evidence at the inquest cannot lead to clear findings on a balance of probabilities.
+It would appear to the public as if the system has conspired to prevent the truth from being available to them.
+It seems to me that the public are likely to understand that there is difference between a finding at an inquest and one at a criminal trial where the accused has well established rights to participate actively in the process.
+Moreover, if there appears to be a risk that criminal proceedings will be brought before an inquest has been completed, the inquest can be adjourned, and in some circumstances must be adjourned (see the 2009 Act, Schedule 1).
+In that way the person who is at risk of prosecution is protected against a short form conclusion reached on a civil standard which is unfavourable to him.
+The person implicated in the conclusion of unlawful killing is equally liable to suffer prejudice from the findings by way of narrative statement, which can be found on a balance of probabilities.
+They may equally point a finger at him.
+In addition, as Mr Straw points out, the accused would be in the same position in an inquest as he already is if civil proceedings are brought against him.
+In summary, a common standard applying to both unlawful killing and
+suicide is more consistent with principle and removes an inherent inconsistency in the determinations made at an inquest.
+It reflects the general rule for the standard of proof in civil proceedings.
+In short, it seems to me that the arguments in favour of applying the rule that in most civil proceedings the civil standard will apply are stronger than those against, and that this Court should take the opportunity of so deciding.
+Conclusion
+conclusions at an inquest is the balance of probabilities.
+LORD CARNWATH:
+I am grateful for Lady Ardens comprehensive exposition of the factual, legal and policy background to this difficult case.
+Like her I agree with the conclusion of the courts below in respect of suicide, and would extend it to unlawful killing (not a course open to the courts below because of binding authority to the contrary).
+Since I understand there to be disagreement within this court, I will add a brief statement of my own reasons, which for the most part accord with hers.
+I would dismiss this appeal.
+The standard of proof for all short form
+As indicated by Lady Arden and the courts below, the previous case law is of no great help.
+The 2009 Act should in my view be approached as a new statute intended to restate the law in modern form, without undue regard to the history, but against the background of the current view of standards of proof in civil cases.
+The modern approach to that issue in respect of alleged suicide is usefully exemplified by the judgments of this court in Braganza (cited by Lady Arden at para 79).
+As was there recognised, earlier decisions, such as Ex p Gray, had been in effect overtaken by the approach authoritatively established in In re H (Minors) (Sexual Abuse: Standard of Proof) [1996] AC 563 and In re B (Children) (Care Proceedings: Standard of Proof) [2008] UKHL 35; [2009] AC 11, which made clear that in civil cases there is only one standard of proof, viz the balance of probabilities: Those cases make it clear that there is not a sliding scale of probability to be applied, commensurate with the seriousness of the subject matter or the consequences of the decision.
+The only question is whether something is more likely than not to have happened. (Braganza v BP Shipping Ltd [2015] 1 WLR 1661, para 34, per Lady Hale)
+I can find nothing in the 2009 Act to support a more restricted approach.
+I note in particular: Section 1(1) imposes a duty on the coroner to conduct an i) investigation into the relevant death; ii) Section 5(1) indicates that the purpose of the investigation is to ascertain certain matters including who the deceased was, how, when and where he died, and (in an article 2 case) in what circumstances he came by his death; iii) Section 10 requires a determination as to the questions in section 5(1), but not framed in such a way as to appear to determine any question of criminal liability on the part of a named person; iv) Section 45 allows rules for regulating the practice and procedure, including provision about evidence.
+The emphasis on investigation and ascertainment of the relevant facts is consistent with leading authorities on the purpose of the inquest, which make clear that the primary purpose is to find facts, not apportion guilt.
+As Lord Lane CJ said in R v South London Coroner, Ex p Thompson (1982) 126 SJ 625; The Times, 9 July 1982: it should not be forgotten that an inquest is a fact finding exercise and not a method of apportioning guilt.
+The procedure and rules of evidence which are suitable for one are unsuitable for the other.
+In an inquest it should never be forgotten that there are no parties, there is no indictment, there is no prosecution, there is no defence, there is no trial, simply an attempt to establish facts.
+It is an inquisitorial process, a process of investigation quite unlike a criminal trial where the prosecutor accuses and the accused defends, the judge holding the balance or the ring, whichever metaphor one chooses to use.
+This is also consistent with the fact finding purposes of an article 2 inquiry, as described in R (Amin) v Secretary of State for the Home Department [2003] UKHL 51; [2004] 1 AC 653, para 31 per Lord Bingham: to ensure so far as possible that the full facts are brought to light; that culpable and discreditable conduct is exposed and brought to public notice; that suspicion of deliberate wrongdoing (if unjustified) is allayed; that dangerous practices and procedures are rectified; and that those who have lost their relative may at least have the satisfaction of knowing that lessons learned from his death may save the lives of others.
+See also the recent discussion of effectiveness in the context of an article 2 investigation, in In re Finucane [2019] UKSC 7; [2019] 3 All ER 191, para 126ff per Lord Kerr.
+There is nothing in the Act to suggest that a different, or more restricted, approach to handling the evidence or fact finding is appropriate, or even permissible, in particular categories of case, such as where there may be a finding of suicide or unlawful killing.
+Reading the statute in the light of the contemporary understanding of the law, I see no reason to do other than treat all cases and all issues alike: that is, in accordance with the ordinary standard for civil proceedings.
+Must this view of the statutory scheme be modified to take account of footnote (iii)? The statutory material has been set out by Lady Arden.
+The footnote states simply: The standard of proof required for the short form conclusion of unlawful killing and suicide is the criminal standard of proof.
+For all other short form conclusions and a narrative statement the standard of proof is the civil standard of proof.
+It is not in dispute that a statutory footnote may be an operative part of the statute.
+Whether it is so, and its effect in any particular case, must depend on the true construction of the footnote in its context, taking account of the statutory framework and its policy background.
+Rule 33 requires the coroner to direct the jury as to the law.
+Rule 34 (Record of inquest) by contrast is not about the law or the decision making process, but as its title suggests about recording the decision.
+It requires the determination and any findings required under section 10 to be made using Form 2.
+The rule contains no specific reference to the notes as such, nor anything to suggest that the notes are intended to prescribe a standard of proof, or anything else.
+In the form itself, item 4 (Conclusion as to the death) specifically incorporates a reference to notes (i) and (ii).
+The purpose is to indicate the possible short form conclusions and the possibility of a brief narrative conclusion as an alternative or in addition.
+There is no equivalent reference in the body of the form to note (iii), which is most naturally read as guidance as to what is understood to be the existing state of the law, rather than as prescribing a particular standard.
+The Divisional Court said: We accept that the power under section 45 of the 2009 Act to make coroners rules is sufficiently broad to enable a rule to be made stipulating the standard of proof to be applied in coroners proceedings.
+But if the intention had been to make such a rule, the appropriate place to do so would be in the body of the rules, and not in a prescribed form.
+Form 2, as is clear from its subject matter, is simply a form which must be used to record the determination which the coroner or jury has made.
+Its function is not to enact rules about how evidence given at an inquest must be approached.
+In our view, the reasonable interpretation of note (iii) is simply as stating, for the assistance of those using the form, what the law with regard to the standard of proof is understood to be, and not as legislating what the law shall be. (para 47) I agree.
+Although I have reached this view without needing to rely on the preparatory materials cited by Lady Arden, they provide useful confirmation.
+Like Lady Arden, and for the reasons given by her, I would apply the same approach to unlawful killing.
+LORD KERR: (dissenting) (with whom Lord Reed agrees)
+Section 45(1) of the Coroners and Justice Act 2009 provides that: Rules may be made in accordance with Part 1 of Schedule 1 to the Constitutional Reform Act 2005 (c4) (a) for regulating the practice and procedure at or in connection with inquests.
+Subsection (2) states that rules may make provision as to various matters, including: (a) provision about evidence This power was used to make the Coroners (Inquests) Rules 2013.
+Rule 34 of the 2013 Rules deals with the record of the inquest.
+It states that [a] coroner, or in the case of an inquest heard with a jury, the jury must make a determination using Form 2 (emphasis added).
+This is a straightforward provision.
+It connotes that the provisions of form 2 have to be followed.
+Form 2 contains a range of sundry instructions.
+The record must contain the name of the deceased (if known); the medical cause of death; how, when and where the death came about; and further particulars required by the Births and Deaths Registration Act 1953.
+There is nothing to indicate that compliance with these instructions is other than mandatory.
+Note (i) of the Notes to Form 2, by contrast, comprises a list of possible short form conclusions which may be adopted.
+These include at IV lawful/unlawful killing and at IX suicide.
+Plainly, it is not compulsory that any of the short form conclusions be reached.
+Note (ii) likewise contains a permissive provision.
+It states that [as] an alternative, or in addition to one of the short form conclusions listed under NOTE (i), the coroner or where applicable the jury, may make a brief narrative conclusion.
+Again, it is clear that arriving at a narrative conclusion is not obligatory.
+The critical note, for the purposes of this appeal is Note (iii).
+It provides: The standard of proof required for the short form conclusions of unlawful killing and suicide is the criminal standard of proof.
+For all other short form conclusions and a narrative statement the standard of proof is the civil standard of proof.
+The meaning of Note (iii) general considerations
+Two features of this note are significant.
+First, from the nine possible short form conclusions outlined in Note (i) (traditionally known as verdicts) only unlawful killing and suicide are identified as those to which the criminal standard applies.
+Secondly, the use of the word is clearly denotes that if a verdict of suicide or unlawful killing is to be reached, that may only occur where the coroner or the jury has been brought to a point of conviction beyond reasonable doubt that such a verdict is warranted.
+In my view, the framing of the note in this way was deliberate.
+The rendering of a short form conclusion is not obligatory but if one is expressed, then in the case of two specifically chosen verdicts, the criminal standard of proof must be applied.
+The reasons for this are not difficult to divine.
+A short form conclusion that the deceased died from, say, accident or misadventure; or natural causes; or a road traffic accident will, in the general run of cases, not be as significant as finding that they were unlawfully killed or committed suicide.
+The latter verdicts denote a solemn pronouncement and they have clear resonances beyond those of other short form conclusions.
+I do not find any incongruity in the circumstance that a narrative statement in respect of any of the verdicts listed in Note (i), including unlawful killing and suicide, should be on the basis of the civil standard of proof.
+The clear distinction (in cases of unlawful killing and suicide) between a short form conclusion (verdict) and a narrative statement (recital of the relevant testimony and transitory conclusions) should be recognised.
+A narrative statement recounts the salient evidence and circumstances.
+In the case of unlawful killing and suicide it should not purport to constitute a final conclusion on that evidence unless the coroner or the jury has become convinced beyond reasonable doubt that it is justified.
+The meaning of Note (iii) a textual approach
+In R (LG) v Independent Panel for the Tom Hood School [2010] EWCA Civ 142; [2010] PTSR 1462, section 52(3)(d) of the Education Act 2002 was considered.
+It stated that regulations shall make provision as to the procedure on appeals from orders excluding pupils from school.
+The relevant regulations made provision as to the standard of proof to be applied.
+Wilson LJ held that the procedure on appeals covered the issue as to the particular standard of proof that was applicable in reaching an answer to a question.
+At para 43 he said: The procedure on appeals is synonymous with the processing of appeals; and, when the panel takes the step (or reaches the stage) at which it determines a question whether a fact is established, a necessary part of its processing of that part of the appeal is to apply a particular standard of proof in reaching an answer to the question.
+A regulation about the inadmissibility of evidence of a specified character would in my view clearly fall within the rubric of procedure on appeal and there is in my view no material difference between a requirement that the panel should exclude evidence of a specified character and a requirement that it should apply a specified standard of proof to its appraisal of such evidence as is properly before it.
+Section 45(2) of the Coroners and Justice Act 2009 is, if anything, more explicit than section 52(3)(d) of the Education Act.
+Whereas the latter refers only to procedure on appeals, the Coroners and Justice Act 2009 expressly provides that the rules may make provision about evidence.
+And what is a stipulation about the standard of proof to be applied if it is not a provision about evidence?
+In para 35 of her judgment, Lady Arden says that Note (iii) to Form 2 of the rules forms part of an enactment and must be interpreted in the same manner as any other enactment and as part of that enactment.
+I agree.
+It is no less binding than a provision contained in a section of the Act itself.
+Its meaning and force should be considered as if it was prominent in the opening provision of the legislation.
+As Bennion states, If material is put into the form of a footnote it is still fully part of the Act and must be construed accordingly.
+And in Hunt v RM Douglas (Roofing) Ltd [1990] 1 AC 398 it was held that inclusion of rules in a footnote to a form that must be used has the effect of creating binding law.
+What then does Note (iii) mean? Lady Ardens approach to its interpretation is that the word required in the first sentence of the note is logically referring to a source of law which pre existed the 2013 Rules para 49 of her judgment.
+But why should this be so? In my view, the verb required in this context has a straightforward meaning.
+It is that the standard of proof which must be observed is the criminal standard.
+To construe it as referring to some form of provenance or earlier prescription of the standard to be applied is, in my respectful opinion, contrived.
+In its natural and ordinary meaning the note is simply saying that this is the standard that is needed before a verdict of suicide or unlawful killing may be returned.
+For the same reason, I find it impossible to attach any significance to the omission of the word, required from the second sentence of Note (iii) (para 50 of Lady Ardens judgment).
+I cannot agree with the (admittedly speculative) suggestion that this was because the drafter could not point to any source for the statement outside the 2013 Rules and was merely making a statement based on his or her understanding of the effect of common law principles in this case.
+In my view, there was no occasion for the drafter to look for a source for the statement.
+He or she was merely stating what the law was to be.
+Underpinning Lady Ardens analysis is the premise that the drafting of Note (iii) was linked to and dependent on the common law.
+On this basis, the meaning of the note would shift and change to reflect future developments in the common law.
+That would be, to say the least, an unusual way to proceed and one which would surely require express articulation in the provision itself.
+Again, therefore, I find myself in regretful disagreement with the suggestion that the use of the present tense in the note supports this conclusion and cannot see any warrant for investing the word is with the quite different connotation from the normal understanding of the word suggested in para 51 of Lady Ardens judgment.
+In fact, of course, her discussion of the use of the present tense requires that the note be interpreted as if the word is meant not only, as she suggests, has been held to be and is but has been held to be and is until future change in the common law.
+I cannot believe that such an unnatural meaning is justified when the text of the note is susceptible to a simple, straightforward construction viz that this is the standard to be applied so long as the statutory provision remains in force.
+The public consultation
+Lady Arden was influenced to her choice of interpretation of Note (iii) by what she considered to be the outcome of the consultation exercise conducted by the Ministry of Justice on the 2013 Rules when they were in draft form.
+Her consideration of this matter is at paras 24 to 31 of her judgment.
+I need not repeat details of the consultation document and the responses received.
+These have been fully set out in Lady Ardens judgment.
+Part of the Ministrys response to the consultation (set out by Lady Arden at para 26) does bear repetition, however: As the requirement to use the criminal standard of proof when returning a suicide verdict is established under case law rather than coroner legislation we cannot take forward a change in the law through secondary legislation flowing from the 2009 Act.
+However the Chief Coroner and the MoJ are considering the views expressed on this issue.
+This statement was made in reaction to the strong views expressed by some respondents to the consultation document on whether the criminal standard of proof for suicide should be replaced by the civil standard.
+Lady Arden has interpreted the Ministrys response as meaning that it had been decided that the 2013 Rules could not make a change in the law.
+I agree that this is an interpretation which may be placed on the Ministrys response.
+But I do not agree that it was outside the enabling power in section 45 to make a rule for coronial proceedings which replaced a common law rule para 31 of Lady Ardens judgment.
+It is trite that a common law rule can be amended, modified or even abolished by legislation.
+And, since, as Lady Arden says in para 35, Note (iii) forms part of an enactment and, as was said in Hunt v RM Douglas (Roofing) Ltd (see para 119 above) Rules in a footnote to a form that must be used have the effect of creating binding law, it would have been possible to effect a change in the law by the use of a note in a form provided for in the Rules.
+Of course, the note did not purport to change the law.
+But it confirmed the existing law.
+And the plain effect of that, in my opinion, was to give statutory expression to the common law rule.
+Once the 2013 Rules were enacted, therefore, the common law rule that proof to the criminal standard was required for a verdict of suicide or unlawful killing, was given statutory force.
+It became a statutory rule.
+And it could only cease to have force and effect by the enactment of a statutory provision amending or abolishing it.
+Conclusion on the proper interpretation of Note (iii)
+I have decided therefore that Note (iii) of Form 2 admits of no interpretation other than that the prescribed short form conclusion in inquests involving questions of unlawful killing or suicide can only be reached by applying the criminal standard of proof.
+In light of that view, it is not strictly necessary to consider case law relating to three associated issues: (i) the standard of proof in civil proceedings where a criminal offence is alleged; and (ii) how the verdict of suicide has been traditionally regarded; and (iii) the nature of proceedings in an inquest.
+Since the first (and to some extent the second) of these played a significant part in the decisions of the Divisional Court and the Court of Appeal, it is appropriate to say something of the issues, albeit briefly.
+The standard of proof required to establish a criminal offence in civil proceedings
+It is accepted (rightly) by the appellant that in civil proceedings generally the standard of proof applicable in relation to findings of fact is the balance of probabilities.
+It is also accepted (again rightly) that whereas it was previously considered that the standard of proof in civil proceedings could be adjusted according to the gravity of the allegation (Hornal v Neuberger Products Ltd [1957] 247, 266; R v Secretary of State for the Home Department, Ex p Khawaja [1984] AC 74, at 112 114), it is now established that there is a single standard to be applied in proceedings which are properly to be regarded as civil.
+In In re H (Minors) (Sexual Abuse: Standard of Proof) [1996] AC 563, 586C Lord Nicholls said: Where the matters in issue are facts the standard of proof required in non criminal proceedings is the preponderance of probability, usually referred to as the balance of probability.
+This is the established general principle.
+Lord Nicholls recognised that there could be exceptions to this general rule and subsequent cases have confirmed his caveat.
+In In re D (Secretary of State for Northern Ireland intervening) [2008] UKHL 33; [2008] 1 WLR 1499, while the balance of probabilities standard was applied to findings in parole proceedings, Lord Carswell at para 23 accepted that the criminal standard of proof could apply in some civil proceedings.
+At para 49, Lord Brown observed that the criminal standard of proof might apply in quasi criminal cases.
+In In re B (Children) (Care Proceedings: Standard of Proof) [2008] UKHL 35; [2009] 1 AC 11, while the House of Lords held that the civil standard of proof applied in care proceedings, Lady Hale, at para 69, stated that there were some proceedings, although civil in form, which were of such a nature as to make it appropriate that the criminal standard of proof be applied.
+Examples of quasi criminal cases justifying the application of the criminal standard of proof or something akin to it are to be found in a number of decisions between 2001 and 2009.
+The first of these was B v Chief Constable of Avon and Somerset Constabulary [2001] 1 WLR 340 concerning the making of sex offenders orders.
+Lord Bingham CJ applied a standard of proof that was for all practical purposes indistinguishable from the criminal standard in view of the seriousness and implications of the matters to be proved para 41(a).
+In Gough v Chief Constable of the Derbyshire Constabulary [2002] QB 1213, Lord Phillips MR applied an exacting standard of proof in practice hard to distinguish from the criminal standard because of the consequences that would follow if a football banning order was made.
+In R (McCann) v Crown Court at Manchester [2002] UKHL 39; [2003] 1 AC 787, a case on the making of anti social behaviour orders, Lord Steyn suggested a standard of proof that was virtually indistinguishable from the criminal standard given the seriousness of matters involved para 37.
+Significantly, at paras 56 and 82 83, Lord Hope stated that it was not an invariable rule that the lower standard of proof must be applied in civil proceedings.
+In some cases, he said, the interests of fairness, the criminal or quasi criminal nature of an allegation, or the serious consequences of a finding could require the criminal standard.
+The other members of the Appellate Committee agreed with Lord Steyn and Lord Hope.
+In Birmingham City Council v Shafi [2008] EWCA Civ 1186; [2009] 1 WLR 1961, the Court of Appeal followed the reasoning in McCann to apply the criminal standard in applications for an injunction in circumstances where the relief was identical or almost identical to an anti social behaviour order.
+What these cases illustrate is that the characterisation of proceedings as criminal or civil will not automatically predetermine the standard of proof to be applied.
+If the proposition which is sought to be established is sufficiently grave or carries significant consequences for those whom it will affect, the criminal standard of proof may be deemed to be appropriate.
+How a finding of suicide has traditionally been regarded
+As the appellant submitted, the verdict of suicide has traditionally been regarded as one which carries serious legal and social consequences.
+Consideration of whether the verdict should be returned is one of the utmost seriousness and potential complexity, not least because it involves consideration of whether the deceased intended to kill himself or herself.
+Until the introduction of the Suicide Act 1961, a finding of suicide was also a finding of guilt of a criminal offence.
+Encouraging or assisting the suicide or attempted suicide of another still constitutes a criminal offence: section 2 of the 1961 Act.
+In R v West London Coroner, Ex p Gray [1988] QB 467, 477, Watkins LJ said that a suicide conclusion was a drastic action which often leaves in its wake serious social, economic and other consequences.
+In R v HM Coroner for Dyfed, Ex p Evans (unreported 24 May 1984) it was stated that an overly ready verdict of suicide oppresses the living and demeans the dead.
+A verdict of suicide causes stigma to the memory of the deceased in circumstances in which there is a clearly established policy of avoiding so far as possible any unnecessary stigma per Simon Brown J in R v Inner South London Coroner, Ex p Kendall [1988] 1 WLR 1186, 1192.
+Most recently, in this court, there was unanimous agreement as to the seriousness of a conclusion that a death was due to suicide (although there was disagreement as to the outcome of the appeal).
+In Braganza v BP Shipping Ltd [2015] UKSC 17; [2015] 1 WLR 1661, Lady Hale said at para 36 that such a finding had serious consequences for the family of the deceased and at para 41 that for many religions suicide was a mortal sin.
+At para 61 Lord Hodge stated that a finding that an employee had committed suicide carried a stigma for his spouse.
+Lord Neuberger acknowledged (at para 107) that, having suffered the blow of losing her husband, the finding of an inquiry that he had killed himself would involve additional blows.
+There can be no doubt, therefore, of the gravity of a finding of suicide or of the need to distinguish it from other causes of death in terms of the level of proof required to establish it.
+There are, of course, contrary views as to whether the criminal standard should be applied.
+Some of these have been referred to in the judgment of Lady Arden.
+But none suggests that a verdict of suicide is other than a very serious matter.
+There is nothing in the least untoward, therefore, in placing suicide (and unlawful killing) in a special category requiring proof of those verdicts to the criminal standard.
+Note (iii) expressly does so and, for the reasons given at para 116 above, there is nothing incongruous in the circumstance that a short form conclusion requires that heightened level of proof, whereas the narrative version does not.
+Even if such an incongruity existed, that would not warrant a refusal to apply the plain effect of the language of Note (iii), constituting as it does a direct statutory provision that a short form conclusion as to suicide and unlawful killing may only be made where there is proof beyond reasonable doubt to sustain it.
+Whatever anomaly might be said to arise, it is not open to the courts to disapply what is unambiguous statutory language.
+True it may be, as Lady Arden says in para 27 of her judgment, that the Ministry of Justice decided that it could not make a change in the law by the 2013 Rules.
+And it may also be true, as she says in the same para, that the criminal standard was not established by those rules, for it had its origins in the common law.
+But what the 2013 Rules unquestionably established was a statutory basis for the application of the criminal standard of proof for verdicts (or short form conclusions) in cases of suicide and unlawful killing and that statutory imperative cannot be displaced by judicial pronouncement.
+It has full force and effect until amended or abolished by subsequent statutory provision.
+The nature of proceedings in an inquest
+As submitted by the appellant, inquests are not civil or criminal proceedings.
+They are sui generis proceedings with rules of procedure of their own.
+In R v South London Coroner, Ex p Thompson (1982) 126 SJ 625; The Times, 9 July 1982, Lord Lane CJ said: it should not be forgotten that an inquest is a fact finding exercise and not a method of apportioning guilt.
+The procedure and rules of evidence which are suitable for one are unsuitable for the other.
+In an inquest it should never be forgotten that there are no parties, there is no indictment, there is no prosecution, there is no defence, there is no trial, simply an attempt to establish facts.
+It is an inquisitorial process, a process of investigation quite unlike a criminal trial where the prosecutor accuses and the accused defends, the judge holding the balance or the ring, whichever metaphor one chooses to use.
+It is unwise, therefore, to categorise inquests as civil proceedings simply because they do not fit the criminal model.
+It is even less appropriate to consider that the civil standard of proof should apply to all matters which fall to be decided in an inquest.
+Given the unique nature of inquests, it is not surprising that some issues should be susceptible to differing standards of proof.
+Overall conclusion
+It would be ironic, to say the least, that Note (iii) which, on its face, decrees that verdicts of suicide and unlawful killing should only be returned if proof of them measures up to the criminal standard, proved to be the instrument of the abolition of this traditional rule.
+The inference that this is its effect is based on what is perceived to be the anomaly that a narrative conclusion effectively permits a verdict of suicide on the basis of the balance of probabilities, whereas a short form conclusion requires proof beyond reasonable doubt.
+For the reasons that I have sought to explain, there is, in truth, no incongruousness between the two.
+In my view, on a proper understanding of the effect of Note (iii), the present state of the law is that there must be proof beyond reasonable doubt before a verdict of suicide or unlawful killing may be returned.
+I would allow the appeal.

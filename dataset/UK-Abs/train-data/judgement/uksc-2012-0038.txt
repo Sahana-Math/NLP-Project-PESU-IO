@@ -1,0 +1,242 @@
+This appeal raises two issues as to the common law privilege against self incrimination.
+The first issue is as to the meaning of the words proceedings for infringement of rights pertaining to intellectual property in section 72(2)(a) of the Senior Courts Act 1981 (the 1981 Act).
+The second issue is whether, on the footing that the appellant, Mr Glenn Mulcaire, would by complying with an order of Mann J made on 19 November 2010 tend to expose himself to criminal proceedings for conspiracy, such proceedings would or would not be for a related offence within the meaning of section 72(5) of the 1981 Act.
+The facts
+These issues arise in the context of the interception of mobile phone messages, at present a topic of widespread interest and concern.
+The respondent, the claimant in the proceedings, is Ms Nicola Phillips.
+She worked for Max Clifford Associates (MCA), the corporate vehicle of Mr Max Clifford, the well known public relations consultant.
+Her responsibilities included both trying to place in the media favourable stories about clients of MCA, and trying to prevent the placing in the media of unfavourable stories about them.
+Mr Mulcaire was during 2005 and 2006 working as a private investigator.
+He was often engaged by staff on the News of the World, then a Sunday newspaper published by News Group Newspapers Ltd (NGN).
+NGN is a party to the proceedings but did not appear before the Court of Appeal or in this Court.
+During the same period Mr Clive Goodman was employed by NGN as a reporter on the News of the World with responsibility for news about the royal family and household.
+After an investigation by the Metropolitan Police Mr Mulcaire and Mr Goodman were charged with one count of conspiracy to intercept communications, contrary to section 1(1) of the Criminal Law Act 1977 (the 1977 Act).
+This charge related to voicemail messages of three members of the royal household.
+Mr Mulcaire was also charged with five further counts under section 1(1) of the Regulation of Investigatory Powers Act 2000, one relating to voicemail messages on Max Cliffords mobile phone.
+In November 2006 Mr Mulcaire pleaded guilty to all these counts, and Mr Goodman pleaded guilty to the count of conspiracy.
+In January 2007 Mr Mulcaire was sentenced to a total of six months imprisonment, and Mr Goodman to four months.
+During 2008, 2009 and 2010 a large number of civil claims were commenced by individuals who claimed that messages on their mobile phones had been unlawfully intercepted.
+These claims were brought against NGN, and sometimes against Mr Mulcaire as well.
+They were often referred to as phone hacking claims.
+Case management of the claims was undertaken by Vos J. Many of the claims have already been compromised.
+On 10 May 2010 Ms Phillips commenced proceedings against NGN (initially as the only defendant).
+Part of her case (set out in particulars within her re amended particulars of claim, para 8.5) is as follows: Ms Phillipss clients often leave voicemail messages on her mobile phone and she on theirs.
+In addition to dealing with their commercial affairs, Ms Phillips often develops amicable relationships with her clients over the course of time.
+Accordingly, voicemail messages left by Ms Phillipss clients sometimes contain factual information, some of which is private information and some of which is commercially confidential information.
+This includes private and/or confidential information relating to her clients personal lives and relationships, health, finances, incidents in which the police have become involved, personal security or publicity issues, commercial business transactions, professional relationships and future career plans.
+The first issue, in more concrete terms, is whether the information described in this pleading is technical or commercial information falling within the definition of intellectual property in section 72(5) of the 1981 Act.
+Paragraphs 9, 10 and 11 of her re amended particulars of claim plead facts on the basis of which it is contended that Mr Mulcaire and NGN owed Ms Phillips an equitable duty of confidence and a duty of privacy in respect of her incoming and outgoing voicemail messages.
+The pleading also states (para 15) that Mr Mulcaire was at the time a contracted employee of NGN (though counsel did not treat that as relevant to the issues in this appeal).
+Ms Phillips claims an injunction, detailed disclosure of information, delivery up of documents, and an inquiry as to damages or (at her election) an account of profits.
+She does not claim that the alleged interception of her emails has caused her personal financial loss.
+Her pleaded case is verified by her appended statement of truth and a short witness statement by her solicitor, Mr James Heath.
+On 12 October 2010 Ms Phillips applied for an order that Mr Mulcaire should be joined as a defendant in the proceedings and that he should serve a witness statement disclosing information under several heads.
+Mr Mulcaire did not resist being joined as a party, but he did resist the order for disclosure on the ground of his privilege against self incrimination.
+Against that Ms Phillips relied on section 72 of the 1981 Act as excluding the privilege.
+She was successful before Mann J, who gave judgment on 17 November 2010 [2010] EWHC 2952 (Ch).
+The Court of Appeal dismissed Mr Mulcaires appeal on 1 February 2012 [2012] EWCA Civ 48, [2012] 2 WLR 848.
+At the same time it dismissed a similar appeal from Vos J in proceedings brought by Mr Stephen Coogan, the well known comedian.
+Mr Mulcaire appeals to the Supreme Court with permission granted on 14 February 2012.
+In the meantime Mr Ian Edmondson, an employee of NGN, has been joined as a third defendant in the proceedings.
+Section 72 of the 1981 Act
+Section 72, as amended in immaterial respects by the Copyright, Designs and Patents Act 1988 and the Civil Partnership Act 2004, is in the following terms: (1) In any proceedings to which this subsection applies a person shall not be excused, by reason that to do so would tend to expose that person to proceedings for a related offence or for the recovery of a related penalty (a) from answering any questions put to that person in the first mentioned proceedings; or (b) from complying with any order made in those proceedings. (2) Subsection (1) applies to the following civil proceedings in the High Court, namely (a) proceedings for infringement of rights pertaining to any intellectual property or for passing off; (b) proceedings brought to obtain disclosure of information relating to any infringement of such rights or to any passing off; and (c) proceedings brought to prevent any apprehended infringement of such rights or any apprehended passing off. (3) Subject to subsection (4), no statement or admission made by a person (a) in answering a question put to him in any proceedings to which subsection (1) applies; or (b) in complying with any order made in any such proceedings, shall, in proceedings for any related offence or for the recovery of any related penalty, be admissible in evidence against that person or (unless they married or became civil partners after the making of the statement or admission) against the spouse or civil partner of that person. (4) Nothing in subsection (3) shall render any statement or admission made by a person as there mentioned inadmissible in evidence against that person in proceedings for perjury or contempt of court. (5) In this section intellectual property means any patent, trade mark, copyright, design right, registered design, technical or commercial information or other intellectual property; related offence, in relation to any proceedings to which subsection (1) applies, means (a) in the case of proceedings within subsection (2)(a) or (b) (i) any offence committed by or in the course of the infringement or passing off to which those proceedings relate; or (ii) any offence not within sub paragraph (i) committed in connection with that infringement or passing off, being an offence involving fraud or dishonesty; (b) in the case of proceedings within subsection (2)(c), any offence revealed by the facts on which the plaintiff relies in those proceedings; related penalty, in relation to any proceedings to which subsection (1) applies means (a) in the case of proceedings within subsection (2)(a) or (b), any penalty incurred in respect of anything done or omitted in connection with the infringement or passing off to which those proceedings relate; (b) in the case of proceedings within subsection (2)(c), any penalty incurred in respect of any act or omission revealed by the facts on which the plaintiff relies in those proceedings. (6) Any reference in this section to civil proceedings in the High Court of any description includes a reference to proceedings on appeal arising out of civil proceedings in the High Court of that description.
+The section was introduced as an amendment to the Bill which became (under its original name) the Supreme Court Act 1981.
+Its legislative purpose must be found within the four corners of the section; it is not part of any wider legislative scheme.
+But it is common ground that it was enacted as Parliaments response to the decision of the House of Lords in Rank Film Distributors Ltd v Video Information Centre [1982] AC 380.
+That was a case of large scale infringement of copyright by making and marketing unauthorised video copies of feature films made and distributed by the Rank Organisation.
+It was the first case in which the House of Lords considered Anton Piller orders: Anton Piller KG v Manufacturing Processes Ltd [1976] Ch 55.
+Such orders have been put on a statutory basis by section 7 of the Civil Procedure Act 1997 and are now called search orders.
+The House of Lords cast no doubt on the courts jurisdiction to grant such orders but held, reluctantly, that such an order could not be made because of the defendants potential exposure to a charge of conspiracy to defraud: see Lord Wilberforce at p 441 and Lord Fraser of Tullybelton at pp 445 446.
+The other Law Lords agreed with one or both of Lord Wilberforce and Lord Fraser.
+Lord Russell of Killowen observed (p 448): Inasmuch as the application of the privilege in question can go a long way in this and other analogous fields to deprive the owner of his just rights to the protection of his property I would welcome legislation somewhat on the lines of section 31 of the Theft Act 1968: the aim of such legislation should be to remove the privilege while at the same time preventing the use in criminal proceedings of statements which otherwise have been privileged.
+Section 31 of the Theft Act 1968 is only one of numerous statutory provisions by which Parliament has thought it right to restrict the privilege against self incrimination, while providing alternative means of protection in criminal proceedings, in order to avoid the injustice of victims of crime being deprived of an effective civil remedy.
+Mr Beloff QC (appearing with Mr Jeremy Reed for Ms Phillips) provided the Court with a list of no fewer than 25 statutory provisions, apart from section 72 of the 1981 Act, which qualify the privilege.
+A further list specifies a number of cases (including the decisions of both the Court of Appeal and the House of Lords in Rank and in AT & T Istel Ltd v Tully [1993] AC 45, the latter case being one which it will be necessary to return to) in which some very distinguished judges have criticised the privilege against self incrimination as it may operate in cases of serious commercial fraud or piracy.
+For the present it is sufficient to cite what Lord Neuberger MR said in the Court of Appeal in this case, [2012] 2 WLR 848, para 18.
+After referring to some of the earlier criticisms he observed: I would take this opportunity to express my support for the view that PSI has had its day in civil proceedings, provided that its removal is made subject to a provision along the lines of section 72(3).
+Whether or not one has that opinion, however, it is undoubtedly the case that, save to the extent that it has been cut down by statute, PSI remains part of the common law, and that it is for the legislature, not the judiciary, to remove it, or to cut it down.
+The second sentence of this paragraph must carry no less weight than the first.
+In relation to the correct general approach to the construction of section 72 Lord Neuberger stated (para 26): The purpose of section 72 is self evidently to remove PSI in certain types of case, namely those described in section 72(2).
+While there have been significant judicial observations doubting the value of PSI in civil proceedings, it would be wrong to invoke them to support an artificially wide interpretation of the expression, as it is clear that Parliament has decided that section 72 should contain only a limited exception from the privilege.
+On the other hand, in the light of the consistent judicial questioning as to whether PSI is still appropriate in civil proceedings, it would be rather odd for a court to interpret such a provision narrowly.
+Further, the fact that PSI is an important common law right does not persuade me that the expression should be given a particularly narrow meaning.
+He then referred with approval to some observations of Moore Bick LJ in Kensington International Ltd v Republic of Congo [2007] EWCA Civ 1128, [2008] 1 WLR 1144, para 36, as to the significance of the removal of the privilege being largely, if not entirely, balanced by the disclosed material being made inadmissible in criminal proceedings.
+Mr Millar QC (for Mr Mulcaire) submitted that the correct approach was to be found in cases like Sociedade Nacional de Combustiveis de Angola UEE v Lundqvist [1991] 2 QB 310, 337 (Beldam LJ) and R v Director of Serious Fraud Office, Ex p Smith [1993] AC 1.
+Committee agreed) said at p 40, In the latter case Lord Mustill (with whom the rest of the Appellate That there is strong presumption against interpreting the statute as taking away the right of silence, at least in some of its forms, cannot in my view be doubted.
+Recently, Lord Griffiths (delivering the opinion in the Privy Council in Lam Chi ming v The Queen [1991] 2 AC 212, 222) described the privilege against self incrimination as deep rooted in English law, and I would not wish to minimise its importance in any way.
+Nevertheless it is clear that statutory interference with the right is almost as old as the right itself.
+Since the 16th century legislation has established an inquisitorial form of investigation into the dealings and assets of bankrupts which is calculated to yield potentially incriminating material, and in more recent times there have been many other examples, in widely separated fields, which are probably more numerous than is generally appreciated.
+These statutes differ widely as to their aims and methods.
+In the first place, the ways in which the overriding of the immunity is conveyed are not the same.
+Sometimes it is made explicit.
+More commonly, it is left to be inferred from general language which contains no qualification in favour of the immunity.
+Secondly, there are variations in the effect on the admissibility of information obtained as a result of the investigation.
+The statute occasionally provides in so many terms that the information may be used in evidence; sometimes that it may not be used for certain purposes, inferentially permitting its use for others; or it may be expressly prescribed that the evidence is not to be admitted; or again, the statute may be silent.
+Since then Parliament has (by section 59 of and Schedule 3 to the Youth Justice and Criminal Evidence Act 1999) amended a considerable number of different statutory provisions of this type so as to introduce a prohibition on material disclosed under compulsion being used in evidence in criminal proceedings.
+This was no doubt in anticipation of the coming into force of the Human Rights Act 1998.
+I have some reservations as to whether the existence of a balancing provision of this sort alters the need for clear words if the privilege is to be removed or curtailed.
+As Moore Bick LJ acknowledged, there is not a perfect balance; material disclosed under compulsion may point to a line of inquiry producing evidence which is admissible in criminal proceedings, to the detriment of the accused.
+But I respectfully agree with Lord Neuberger that in a case where Parliament has left no room for doubt that it intends the privilege to be withdrawn, there is no need for the Court to lean in favour of the narrowest possible construction of the reach of the relevant provision.
+As already noted, an important part of the legislative purpose of these provisions is to reduce the risk of injustice to victims of crime, and that purpose might be frustrated by an excessively narrow approach.
+The structure and language of section 72
+Section 72(1) contains the heart of the section.
+It provides (so far as relevant to this appeal) that in civil proceedings to which it applies, a person is not to be excused from answering any questions put to him, or from complying with any order, by reason that to do so would tend to expose that person to proceedings for a related offence.
+It is not suggested by either side that the meaning of the phrase tends to expose in the subsection is any different from its traditional meaning, which goes back at least to R v Boyes (1861) 1 B & S 311, and is now given statutory form in section 14 of the Civil Evidence Act 1968.
+The classic statement in R v Boyes, at p 330, was cited by Mann J in para 23 of his judgment.
+Subsection (2), in conjunction with the definition of intellectual property in subsection (5), raises the first issue: are the proceedings taken by Ms Phillips proceedings for infringement of rights pertaining to any intellectual property? The definition of related offence in subsection (5) raises the second issue: would a charge of conspiracy to commit offences under section 1(1) of the 1977 Act be the charge of an offence (i) committed by or in the course of the infringement to which Ms Phillipss civil proceedings relate, or (ii) committed in connection with that infringement . being an offence involving fraud or dishonesty? If such a conspiracy would not be a related offence, Mr Mulcaire is entitled to rely on his privilege against self incrimination, regardless of the fact that he might also be charged with another offence or offences which are related offences.
+A reasonable apprehension of being charged with a single non related offence would be enough to preserve the claim to privilege.
+In Rank [1982] AC 380, 441, Lord Wilberforce recognised the need to consider the practical probabilities (rather than theoretical possibilities) of what charges might be brought, and concluded on the facts of that case that a charge of conspiracy to defraud was the most likely charge so that (subject to a final escape route which was closed off) privilege must inevitably attach.
+These observations may possibly have had some influence on the drafting of the definition of related offence in section 72(5).
+Section 72(3) contains the balancing provision in a form which mirrors the structure of subsection (1).
+It is qualified (in relation to proceedings for perjury or contempt of court) by subsection (4).
+The definition of intellectual property
+Mr Millar, and to a lesser extent Mr Beloff, placed before the Court a variety of definitions of the expression intellectual property, some taken from statutes and some from the works of legal scholars.
+They are not particularly helpful because, as Vos J put it succinctly in his judgment on Mr Coogans claim, and another linked claim, reported as Gray v News Group Newspapers Ltd [2011] EWHC 349 (Ch), [2011] 2 WLR 1401, para 77: A review of intellectual property textbooks shows that there is no universal definition of the term, which is no doubt why Parliament has adopted a variety of definitions for different situations.
+The starting point must be the language of the definition in section 72(5).
+Bennion on Statutory Interpretation, 5th ed (2008) quotes this definition, at p 570, as an example of what he terms a clarifying definition, the purpose of which is to avoid doubt as to whether the term does or does not include certain matters: A common remedy is to specify the main ingredients, and rely for any others on the potency of the term defined.
+This greatly reduces the danger area.
+The form is T means A, B, C or D, or any other manifestation of T.
+The term potency is explained at pp 562 564, with a citation of what Lord Hoffmann said in MacDonald v Dextra Accessories Ltd [2005] UKHL 47, [2005] 4 All ER 107, para 18: a definition may give the words a meaning different from their ordinary meaning.
+But that does not mean that the choice of words adopted by Parliament must be wholly ignored.
+If the terms of the definition are ambiguous, the choice of the term to be defined may throw some light on what they mean.
+Here there is no particular potency about the expression intellectual property because there is a general consensus as to its core content (patents for inventions, literary, dramatic, musical and artistic copyright, copyright in recordings, films and broadcasts, registered and unregistered design rights and trademarks, all now governed by national statutes and international treaties), but no general consensus as to its limits.
+The sweeping up words at the end of the definition (or other intellectual property) no doubt include new and specialised statutory rights akin to those in the core content, such as plant breeders rights under the Plant Varieties Act 1997 and database rights under the Copyright and Rights in Databases Regulations 1997 (SI 1997/3032).
+But for present purposes the essential point is that the definition in section 72(5) contains the words technical or commercial information.
+Parliament has made plain that information within that description is, for the purposes of section 72, to be regarded as intellectual property, whether or not it would otherwise be so regarded.
+Such limited potency as there is in the expression intellectual property (and more generally, the legislative purpose of section 72 in enhancing protection against unlawful trade competition) may be of assistance in determining the meaning of technical or commercial information.
+It must be something in which a civil claimant has rights capable of being infringed, since infringement of rights pertaining to intellectual property is what section 72(2)(a) is concerned with.
+The fact that technical and commercial information ought not, strictly speaking, to be described as property (the majority view of the House of Lords in Boardman v Phipps [1967] 2 AC 46, 89 90, 103 and 127 128; cf 107 and 115) cannot prevail over the clear statutory language.
+Whether or not confidential information can only loosely, or metaphorically, be described as property is simply irrelevant.
+I cannot therefore accept Mr Millars submission that the natural meaning of technical or commercial information is limited (in practice, it would be almost nullified) by the sweeping up words or other intellectual property.
+Nor do I accept that that construction is supported by what Lord Lowry said in AT & T Instel Ltd v Tully [1993] AC 45, 64 65.
+Lord Neuberger went very fully into that point at paras 41 to 44 of his judgment in the Court of Appeal, and I respectfully and completely agree with his analysis.
+What Lord Lowry said was not obiter, but his use of the Latin phrase ejusdem generis tended to obscure the real point that he was making.
+That was that the case was not a claim for infringement of either intellectual property rights or rights in respect of confidential information.
+Istel (the first plaintiff) had bought control of Abbey (the second plaintiff) from the first two (of 25) defendants, and then discovered that under their control Abbey, a supplier of computer services, had perpetrated a large scale fraud on the Wessex Health Authority.
+They obtained an ex parte order for disclosure of a range of information and documents, which was then set aside on the ground of the first and second defendants privilege against self incrimination.
+This was upheld, with considerable reluctance, by the Court of Appeal and the House of Lords.
+It was not open to the first instance judge, Buckley J to attempt, as he did, to replace the privilege with some alternative protection of his own devising.
+Section 72 (which seems to have been the plaintiffs last ditch argument) was not in point at all because the claim was for equitable compensation for a breach of fiduciary duty and damages for fraud.
+The point that Lord Lowry was making was put more simply by Lord Donaldson MR in the Court of Appeal [1992] QB 315, 325: If section 72 were to avail the plaintiffs, they would have to show that they had brought proceedings to obtain disclosure of information relating to an infringement of rights pertaining to commercial information.
+In fact they are seeking information relating to alleged breaches of quite different rights, namely, the rights to damages for fraud or breach of trust in the various respects alleged in the statement of claim.
+Technical or commercial information
+The meaning of technical or commercial information is a more difficult point.
+Again, there is no doubt general consensus as to its core content.
+In Faccenda Chicken Ltd v Fowler [1987] Ch 117, a case concerned with the extent of an ex employees duty of confidence, Neill LJ said at p 136: It is clear that the obligation not to use or disclose information may cover secret processes of manufacture such as chemical formulae (Amber Size and Chemical Co Ltd v Menzel [1913] 2 Ch 239), or designs or special methods of construction (Reid & Sigrist Ltd v Moss & Mechanism Ltd (1932) 49 RPC 461), and other information which is of a sufficiently high degree of confidentiality as to amount to a trade secret.
+He also said at p 138: It is clearly impossible to provide a list of matters which will qualify as trade secrets or their equivalent.
+Secret processes of manufacture provide obvious examples, but innumerable other pieces of information are capable of being trade secrets, though the secrecy of some information may be only short lived.
+Whatever the difficulties of exhaustive enumeration, it is clear that the scope of trade secrets extends not only to products and processes, but also to a wide range of financial information about the management and performance of a business, and plans for its future.
+Mr Millar reminded the Court that the definition in section 72(5) does not refer in terms to confidential information.
+Not all technical or commercial information is confidential.
+Huge amounts of technical and commercial information are available to anyone with a personal computer.
+Businessmen may, especially when faced with losing a valued employee, seek to push out the boundaries of commercial confidentiality.
+Hoffmann J commented on this in Lock International plc v Beswick [1989] 1 WLR 1268, 1281, a case that warned against abuse of the Anton Piller jurisdiction: Many [employers] have great difficulty in understanding the distinction between genuine trade secrets and skill and knowledge which the employee may take away with him .
+Judges dealing with ex parte applications are usually also at a disadvantage in dealing with alleged confidential knowledge of technical processes described in technical language, such as the electric circuitry in this case.
+It may look like magic but turn out merely to embody a principle discovered by Faraday or Ampere.
+It is only if the information is indeed confidential in the eyes of the law that a claim for breach of confidence (that is, infringement of a right of confidence) can arise.
+Conversely not all confidential information can, in normal usage, be described as technical or commercial.
+A secret about a persons private life (for instance, to give an example already mentioned, a life threatening disease which the sufferer does not wish to disclose) is not naturally described in those terms, even if it could (where the individual involved is a celebrity) be turned to financial advantage by disclosing it, in breach of confidence, to the media.
+In para 32 of his judgment Lord Neuberger recognised this: As a matter of ordinary language, just as technical information means information of a technical nature, it seems to me that commercial information means information which is commercial in character, rather than information which, whatever its nature, may have a value to someone.
+In other words, the word commercial appears to be a description of the character of the information rather than the fact that it has value.
+But he went on to consider, in paras 45 to 52, whether confidential information about a persons private life might instead come in as other intellectual property.
+This was a point that Mann J (para 48) had noted and regarded as arguable, but said no more about.
+Vos J in Gray and Coogan [2011] 2 WLR 1401, para 84, noted that this point had been raised but received less and less emphasis in the argument of Mr Reed (who then appeared for both claimants).
+Vos J commented that it would be stretching the statutory definition far too widely to hold that it included confidential private information even where such information could be protected by action.
+It may not be strictly necessary to decide this point in order to dispose of this appeal, since there is evidence that many of the voicemails on Ms Phillipss mobile phone were both confidential and of a commercial nature.
+But the point is of general importance and may well be determinative of other claims which are focused on confidential information of a private and personal nature.
+On this point I respectfully disagree with Lord Neuberger and the other members of the Court of Appeal.
+In para 45 Lord Neuberger takes as the starting point of his discussion a proposition that I regard as the obviously correct conclusion: At first sight, it might seem that the answer [to the question: can personal information be other intellectual property?] is no, as the draftsman of the definition limited its ambit to technical and commercial information.
+He then considers a number of arguments leading towards the opposite conclusion.
+I have to say that I do not find these arguments at all convincing.
+Paras 46 to 52 make and develop the point that when section 72 was enacted in 1981, the law of confidence was routinely invoked in connection with trade secrets, but rarely in connection with personal secrets.
+Duchess of Argyll v Duke of Argyll [1967] Ch 302 was an isolated exception.
+That is so, but it is, with respect, simply confirmation of the natural reading of the definition.
+The legislative purpose of section 72 was to prevent remedies against commercial piracy, including in particular Anton Piller search orders, from being frustrated by the privilege against self incrimination.
+Then it is said (para 51) that it would be surprising if the privilege could be invoked by a defendant in relation to a claim for breach of confidence relating to private information of a personal nature, but not a claim for breach of confidence in respect of trade secrets or other information of a commercial nature.
+This is really the same point put in a different way.
+The numerous statutory exceptions to the privilege have been introduced in a fairly random way.
+They are something of a patchwork.
+The central purpose of section 72 is to fortify remedies against unlawful trading practices, not to cover the whole of the law of confidence, bifurcated as it now is.
+The last point (para 52) is that the same information could be commercial in one persons hands and personal in the hands of another.
+This is a point of considerable interest but I do not think that it leads to the conclusion that Lord Neuberger draws.
+In Douglas v Hello! Ltd (No 3), reported with OBG Ltd v Allan and Mainstream Properties Ltd v Young [2007] UKHL 21, [2008] AC 1, Lord Hoffmann discussed the point in considering the unauthorised photographs taken at the wedding in New York of Michael Douglas and Catherine Zeta Jones.
+He said at para 118: Whatever may have been the position of the Douglases, who, as I mentioned, recovered damages for an invasion of their privacy, OK!s claim is to protect commercially confidential information and nothing more.
+So your Lordships need not be concerned with Convention rights.
+OK! has no claim to privacy under article 8 nor can it make a claim which is parasitic on the Douglases right to privacy.
+The fact that the information happens to have been about the personal life of the Douglases is irrelevant.
+It could have been information about anything that a newspaper was willing to pay for.
+What matters is that the Douglases, by the way they arranged their wedding, were in a position to impose an obligation of confidence.
+They were in control of the information.
+This may be a pointer to some further development in the law.
+But it is not an argument for an unnatural construction of the definition in section 72(5).
+It is a recognition that in the world of celebrities (which is very much the milieu in which MCA and Ms Phillips were operating) there is commercial value in even the most intimate personal information, subject only to the restraints imposed by the developing law of privacy.
+For a few celebrities, their colourful private lives are part of their stock in trade.
+The implication is that, if the definition in section 72 remains in its present form, the court may have some difficult borderline cases as to the meaning of commercial information.
+But that is not a reason for adopting an unnatural construction of the definition as a whole.
+Lord Neuberger considered (para 53) that the difficulties of what he called mixed messages would be far greater if his construction were not adopted.
+But there is in my view no great difficulty about that point in this appeal.
+Ms Phillipss pleading, verified by her statement of truth and her solicitors witness statement, is to the effect that the voicemail messages left by her clients contained commercially confidential information, including information about finances, incidents in which the police have become involved, personal security or publicity issues, commercial business transactions, professional relationships and future career plans.
+Neither the pleading nor the witness statement attempts to quantify the proportions of personal and commercial information, but there was no reason to suppose that the latter was not significant.
+It is also pleaded, rather repetitively, that Ms Phillips regularly spoke on her mobile phone (para 6 of the re amended particulars of claim) to clients, predominantly entertainers and celebrities, many of whom are well known; individuals who are suddenly caught up in a breaking news story; newspapers and journalists; producers, editors, researchers, and journalists from various sectors of the media, including TV, radio, newspapers and magazines.
+I would therefore uphold, although for more limited reasons, the Court of Appeals conclusion that Ms Phillips proceedings are proceedings for rights pertaining to intellectual property within the meaning of section 72 of the 1981 Act.
+Related offence: the authorities
+There must be a sufficient connection between the subject matter of the claimants civil proceedings and the offence with which, under the test in R v Boyes (1861) 1 B & S 311, the defendant (as the person required to make disclosure under compulsion) has a reasonable apprehension of being charged.
+The requisite connection is defined, so far as now relevant, by section 72 (5)(a): (i) any offence committed by or in the course of the infringement . to which those proceedings relate; or (ii) any offence not within sub paragraph (i) committed in connection with that infringement . , being an offence involving fraud or dishonesty.
+So the offence must be committed by or in the course of the infringement, unless the offence involves fraud or dishonesty, in which case a looser connection (not further defined in the statute) is sufficient.
+In forming a view as to whether any criminal proceedings are likely to be commenced, and if so on what charges, the civil court has to proceed on a realistic assessment of what charges are likely in practice, rather than possible in theory.
+In Rank [1982] AC 380, 441, Lord Wilberforce noted that the Copyright Act 1956 created a number of criminal offences, each punishable by a maximum fine (for a first offence) of 50.
+In practice prosecutions were very rare.
+Lord Wilberforce thought that that potential liability should be disregarded.
+But there was a real likelihood of a charge of conspiracy to defraud: A charge of conspiracy to defraud, so far from being, as it sometimes is, a contrived addition to other charges, is here an appropriate and exact description of what is being done.
+So far from it being contrived, fanciful or imagined, it is the charge on which [an associate of the individual defendants] is to stand trial.
+Similar views were expressed in the cases mentioned in the next two paragraphs.
+The point has arisen several times in relation to section 31 of the Theft Act 1968.
+In Sociedade Nacional [1991] 2 QB 310, in which large quantities of crude oil had been sold at an undervalue by a dishonest consultant and his associates, the Court of Appeal held that a conspiracy was not an offence under the Theft Act, and that privilege was available because a charge of conspiracy was probable.
+Sir Nicolas Browne Wilkinson V C (at p 338) expressed the hope that Parliament would extend the scope of section 31.
+In Tate Access Floors Inc v Boswell [1991] Ch 512 privilege was relied on as a defence to an application for a Mareva freezing order and an Anton Piller search order in a case in which senior employees were suspected of misappropriating the plaintiff companies funds.
+The Vice Chancellor recognised that a single count of conspiracy would be a proper course for the prosecution to take.
+In consequence privilege was available and the stayed ex parte Anton Piller order was set aside.
+In Renworth Ltd v Stephansen [1996] 3 All ER 244 there was a full discussion of the authorities, including Khan v Khan [1982] 1 WLR 513, in which the Court of Appeal, in order to avoid what it saw as a monstrous result, took a fairly robust view of what the charges were in substance.
+In Renworth the defendant was an interior designer with responsibility for subcontractors engaged on the expensive refurbishment of a house.
+After she had submitted bills for about 670,000 the architect became suspicious and civil proceedings were taken against her.
+On an interlocutory application she claimed privilege and her counsel suggested six separate types of conspiracy with which she might be charged.
+The Court of Appeal upheld the disclosure order, taking the view that she was more likely to be charged, if at all, with substantive offences under the Theft Act.
+Neill LJ (who gave the leading judgment) preferred not to put his decision on the in substance approach taken in Khan v Khan.
+Related offence: discussion and conclusions
+The related offence point was not taken before Mann J, or before Vos J in Mr Coogans case.
+It was raised for the first time, without objection by Ms Phillipss counsel, in the Court of Appeal.
+Even then (so far as appears from Lord Neubergers judgment) Mr Millar was not relying on the likelihood of Mr Mulcaire being charged with conspiracy.
+The law report shows that Khan v Khan, Tate Access and Renworth were cited in the Court of Appeal, but none of them is mentioned in the judgment.
+The appellants written case in this court states (para 79) that the Master of the Rolls considered that the conspiracy took place in the course of the infringement.
+I have not found any reference to conspiracy in this part of Lord Neubergers judgment.
+The discussion in para 66 was addressing liability as an accessory, not conspiracy.
+In the Court of Appeal Mr Millars argument (as summarised in the judgment) seems to have been based on a supposed need for the disclosure order to be limited to matters occurring in the course of the infringement of Ms Phillipss right to confidentiality.
+That argument shows some confusion of thought as to the way section 72 works, and I am not surprised that Lord Neuberger did not accept it.
+He held that the claimant had a gateway under para (a)(i) of the definition, but not under para (a)(ii) or para (b).
+For practical purposes, therefore, the conspiracy issue is raised as a new issue in this court.
+It has to be said that it has not been fully explored in the parties written and oral submissions.
+The appellants written case cites Renworth [1996] 3 All ER 244, and in particular a passage in the judgment of Neill LJ at pp 248 249.
+But section 31 of the Theft Act refers simply to an offence under this Act, and it was clear that conspiracy (whether statutory or at common law) was not such an offence.
+Para (a)(i) of the definition in section 72 takes a different form, referring to any offence committed by or in the course of the relevant infringement which is, in Ms Phillipss case, a series of infringements occurring every time confidential information of a commercial character was intercepted on her voicemail.
+The respondents written case does not press any argument on para (a)(ii) or para (b).
+It submits that the language of para (a)(i) encompasses the infringement from conception to death and that any agreement which amounted to a criminal conspiracy to intercept messages is sufficiently wrapped up with the interception to come within para (a)(i).
+Neither the respondents written case nor Mr Beloffs oral submissions cited any authority in support of these metaphorical propositions.
+But there is authority which provides such support.
+It is well established that conspiracy is a continuing offence.
+While the offence is committed as soon as the unlawful agreement is made, the conspiracy continues until the point when the agreement is terminated by completion, abandonment or frustration.
+Viscount Dilhorne explained this principle in Director of Public Prosecutions v Doot [1973] AC 807, 825, which was concerned with territorial jurisdiction in an international drug smuggling case: though the offence of conspiracy is complete when the agreement to do the unlawful act is made and it is not necessary for the prosecution to do more than prove the making of such an agreement, a conspiracy does not end with the making of the agreement.
+It continues so long as the parties to the agreement intend to carry it out.
+It may be joined by others, some may leave it.
+Similarly Lord Pearson stated (p 827): A conspiracy involves an agreement express or implied.
+A conspiratorial agreement is not a contract, not legally binding, because it is unlawful.
+But as an agreement it has its three stages, namely (1) making or formation (2) performance or implementation (3) discharge or termination.
+When the conspiratorial agreement has been made, the offence of conspiracy is complete, it has been committed, and the conspirators can be prosecuted even though no performance has taken place: R v Aspinall (1876) 2 QBD 48, per Brett JA, at pp 58 59.
+But the fact that the offence of conspiracy is complete at that stage does not mean that the conspiratorial agreement is finished with.
+It is not dead.
+If it is being performed, it is very much alive.
+So long as the performance continues, it is operating, it is being carried out by the conspirators, and it is governing or at any rate influencing their conduct.
+The conspiratorial agreement continues in operation and therefore in existence until it is discharged (terminated) by completion of its performance or by abandonment or frustration however it may be.
+If Mr Mulcaire conspired with one or more persons to intercept messages on mobile phones, an offence was committed when the unlawful agreement was made.
+But the offence continued so long as the agreement was being performed.
+Every interception pursuant to the unlawful agreement would be in the course of the infringement, and Renworth and other cases on section 31 of the Theft Act 1968 are distinguishable.
+For these reasons I would dismiss this appeal.

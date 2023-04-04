@@ -1,0 +1,58 @@
+Section 64 of the Police and Criminal Evidence Act 1984 (PACE) required the destruction of samples or fingerprints taken from a person in connection with the investigation of an offence if he was cleared of that offence.
+Section 64(1A) of PACE, enacted by section 82 of the Justice and Police Act 2001 (the 2001 Act), replaced that statutory obligation to destroy data with a discretion.
+Section 64(1A) provides that samples taken in connection with the investigation of an offence may be retained after they have fulfilled the purposes for which they were taken.
+Section 64(1A) was supplemented by guidelines issued by the Association of Chief Police Officers (ACPO).
+These guidelines provided that data should be destroyed only in exceptional cases.
+The polices retention policy was challenged in R (S) v Chief Constable of the South Yorkshire Police and R (Marper) v Chief Constable of South Yorkshire Police [2004] 1 WLR 2196 (Marper UK).
+The claimants argued that the retention by the police of their finger prints and DNA samples was incompatible with article 8 of the European Convention on Human Rights (the ECHR).
+The majority of the House of Lords held that retention did not constitute an interference with the claimants article 8 rights and they held unanimously that in any event any such interference was justified under article 8(2).
+However, in 2008, the European Court of Human Rights (ECtHR) disagreed: see S and Marper v United Kingdom (2008) 48 EHRR 50 (Marper ECtHR).
+It found the indefinite retention of data to be an interference which was not justified under Article 8(2).
+The Governments immediate response was to remove children under the age of 10 from the database.
+They then opened a consultation period to consider the appropriate legislative reform.
+This resulted in legislation which, following the change of government in May 2010, was not brought into force.
+The Coalition Government is promoting new legislation to take account of the ECtHRs judgment.
+In December 2007, GC was arrested on suspicion of common assault on his girlfriend.
+He denied the offence.
+A DNA sample, fingerprints and photographs were taken after his arrest.
+On the same day he was released on police bail without charge and was subsequently informed that no further action would be taken.
+In March 2009, C was arrested on suspicion of rape, harassment and fraud.
+His finger prints and a DNA sample were taken.
+He denied the allegations.
+He was charged in respect of the rape allegation but no further action was taken in respect of the harassment and fraud allegations.
+In the Woolwich Crown Court in May 2009, the prosecution offered no evidence and C was acquitted.
+In both cases, the appellants requested the destruction of the data taken.
+Their requests were refused as there were no exceptional circumstances within the meaning of the ACPO guidelines.
+The appellants issued proceedings for judicial review of the retention of their data on grounds that, in light of Marper
+ECtHR, its retention was incompatible with their article 8 rights.
+In the circumstances, the Divisional Court (Moses LJ and Wyn Williams J) dismissed the applications for judicial review and granted a certificate that the cases were appropriate for a leapfrog appeal to the Supreme Court: [2010] EWHC 2225 (Admin).
+The Supreme Court, by a majority, allows the appeals (Lords Rodger and Brown dissenting).
+Lord Dyson gives the lead judgment.
+The majority grant a declaration that the present ACPO guidelines are unlawful because they are incompatible with article 8 of the ECHR.
+They grant no other relief.
+Interpretation of section 64(1A) of PACE It is common ground that Marper UK should be overruled.
+It is also agreed that in light of Marper ECtHR, the indefinite retention of the appellants data under the current retention policy is a breach of article 8 ECHR.
+The only issue in these appeals, therefore, is what the court should do about that in the present circumstances.
+Section 3 of the Human Rights Act 1998 (HRA) requires the court, insofar as it is possible to do so, to interpret legislation in a way which is compatible with Convention rights.
+It is uncontroversial that the statutory purpose of section 64(1A) was to remove the requirement to destroy data after it had served its immediate purpose so as to create a greatly extended database.
+The extended database was to facilitate the prevention of crime, the investigation of offences and the conduct of prosecutions.
+However, this does not mean that Parliament intended that, save in exceptional circumstances, the data should be retained indefinitely.
+Rather, Parliament conferred a discretion on the police to retain data.
+The natural meaning of the word may in section 64(1A) is permissive not mandatory.
+There is no reason to suppose that Parliament must have intended its statutory purpose to be achieved in a disproportionate way so as to be incompatible with article 8: [23] [24], [88] [89].
+The police were entrusted with setting out the precise means of achieving the statutory purpose: [26].
+There is no reason in principle why the police, with the input of the Secretary of State, should be less well equipped than Parliament to create guidelines for the exercise of this power: [40] [44].
+Accordingly, it is possible to read section 64(1A) in a way which is compatible with article 8 ECHR as interpreted in Marper ECtHR.
+A declaration of incompatibility is not appropriate and section 6(2)(b) of the HRA is not engaged: [35], [55], [69].
+Lords Rodger and Brown dissent.
+They would have dismissed the appeals.
+In their view, the history shows that Parliament's purpose in enacting section 64(1A) was to ensure that in future samples taken from suspects would be retained indefinitely: [94] [97].
+Therefore, the police had no choice but to retain the data: [108] [109].
+In their view, it is not possible to interpret section 64(1A) in accordance with section 3 HRA: [115], [146] [147].
+However, since the police could not have acted differently in substance, what they did and what they continue to do, falls within section 6(2)(a) or section 6(2)(b) HRA and is lawful: [119].
+Appropriate relief The present intention of the government is to bring the new legislation into force later this year.
+In these circumstances, in relation to biometric data it is sufficient to grant a declaration under section 8(1) HRA that the present ACPO guidelines are unlawful because they are incompatible with the ECHR.
+Where Parliament is seised of the matter, it is not appropriate to make an order requiring a change in the legislative scheme within a specific period or an order requiring destruction of data: [45] [49], [73], [91] [92].
+It is, however, open to ACPO to reconsider and amend the guidelines in the interim: [73], [81], [90].
+Lord Rodger would have preferred to grant a declaration of incompatibility under section 4 HRA: [121].
+In relation to the photographs of GC, in view of the manner in which the issue was raised in the Divisional Court and the consequent lack of any substantive judgment, the Supreme Court expresses no opinion on this part of the appeal: [50] [51].

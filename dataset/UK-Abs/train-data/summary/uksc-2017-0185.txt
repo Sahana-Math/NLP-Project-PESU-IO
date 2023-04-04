@@ -1,0 +1,58 @@
+This is a procedural appeal about the jurisdiction of the English courts in relation to a group tort claim.
+It concerns alleged toxic emissions from the Nchanga Copper Mine (the Mine) in Zambia.
+The claimants (the respondents to this appeal) are approximately 1,826 Zambian citizens who live in the Chingola District.
+They are very poor members of rural farming communities who are reliant on open bodies of water for drinking and irrigation for their crops.
+They allege that their health and farming activities have been damaged by the discharge of toxic matter from the Mine into those waterways from 2005 onwards.
+The owner of the Mine is the second defendant, Konkola Copper Mines plc (KCM).
+KCM is a Zambian company.
+The first defendant, Vedanta Resources PLC (Vedanta), is KCMs ultimate parent company.
+It is incorporated and domiciled in the United Kingdom.
+The Zambian government has a significant minority stake in KCM, but Vedantas published materials state that, in practice, it has the same ultimate control of KCM as it would if it were a wholly owned subsidiary of Vedanta.
+The claims against the defendants (the appellants to this appeal) are for the torts of negligence and breach of statutory duty.
+The claims against KCM, as the foreign defendant, are based on its role as the operator of the Mine.
+The claims against Vedanta rely on its allegedly high level of control and direction over KCMs mining operations and compliance with applicable health, safety and environmental standards.
+Against Vedanta, the claimants rely on its domicile in England, pursuant to article 4.1 of Regulation (EU) 1215/2012 (Recast Brussels Regulation).
+Against KCM, the claimants rely on the necessary or proper party gateway for service out of the jurisdiction in paragraph 3.1 of Practice Direction 6B in the Civil Procedure Rules (CPR).
+The claimants issued the present proceedings in England in July 2015.
+Vedanta was served within the jurisdiction, while KCM was served out of the jurisdiction, with permission obtained on a without notice application.
+Both Vedanta and KCM applied to challenge jurisdiction.
+Coulson J, in the High Court, dismissed that challenge in May 2016.
+The Court of Appeal dismissed the defendants appeals in October 2017.
+The defendants appealed to the Supreme Court and the claimants cross appealed.
+The main issues are: (1) whether it is an abuse of EU law to rely on article 4 of the Recast Brussels Regulation for jurisdiction over Vedanta as anchor defendant so as to make KCM a necessary or proper party; (2) whether the claimants pleaded case and supporting evidence disclose no real triable issue against Vedanta; (3) whether England is the proper place in which to bring the claims; and (4) even if Zambia would otherwise be the proper place, whether there was a real risk that the claimants would not obtain access to substantial justice in the Zambian jurisdiction.
+Both in the High Court and in the Court of Appeal, the claimants succeeded on all four issues.
+The Supreme Court dismisses the appeal.
+Lord Briggs gives the lead judgment, with which all members of the Court agree.
+The claimants succeed on issues (1), (2) and (4), though not on issue (3).
+(1) Abuse of EU law: Article 4.1 of the Recast Brussels Regulation confers a right on any claimant (regardless of their domicile) to sue an English domiciled defendant in England irrespective of connecting factors to other jurisdictions [16].
+Issue (1) presupposes that there is a real triable issue against Vedanta [17, 26].
+Further, the judges finding that Vedanta was sued in England for the genuine purpose of obtaining damages, even though attracting English jurisdiction over KCM was a key contributing factor, is not open to challenge [27].
+Any implied exception to the effect of article 4.1 must be construed narrowly [29 30].
+The EU case law on abuse of law under article 8.1 (related defendants) is equally restrictive [31 34].
+In that context, the test is whether the sole purpose of joining a defendant is to sue them other than in their Member State of domicile [35].
+The EU case law also suggests that the abuse of law doctrine is limited to situations where EU law is invoked collusively to subvert other EU provisions [36].
+In light of the decision in Owusu v Jackson (C 281/02) [2005] QB 801 (CJEU), arguments based on forum conveniens cannot justify derogating from the primary rule of jurisdiction in article 4.1 [36 40].
+The concern about the wide effect of article 4.1 in this case is best addressed under the domestic law on the necessary or proper party gateway [40].
+The claimants thus succeed on issue (1) [41]. (2) Real triable issue as against Vedanta: The summary judgment test applies to issue (2) and it falls to be decided without cross examination or disclosure of the opposing partys documents, given the need for proportionality [42 43].
+In this case, the question what level of managerial intervention by Vedanta in KCMs operation of the Mine is sufficient to attract liability in negligence is a question for Zambian law, but the question what that level actually was is a pure question of fact [44].
+The assertion that the negligence claim against Vedanta raises a novel and controversial legal issue is misplaced, as the liability of parent companies in relation to the activities of their subsidiaries is not, in itself, a distinct category of negligence unsuited to summary determination [49 51, 54].
+On the facts, there was sufficient material identified by the judge in support of the view that the claimants case was arguable and the judge made no error of law in assessing this issue, so his decision on the negligence claim must stand [55 62].
+Further, as Zambian law requires substantially the same factual inquiry for the breach of statutory duty claim, the judge properly concluded that this claim was also arguable and, in any event, the point is academic [65]. (3) England as the proper place: The domestic law proper place test requires a summary examination of connecting factors to one or more potential jurisdictions [66].
+The search is for a single jurisdiction in which the claims against all defendants may most suitably be tried [68].
+Importantly, in cases where it was found that the claim(s) against the anchor defendant will be continued in England, the courts have treated the risk of irreconcilable judgments as a decisive factor in favour of England as the proper place for the claim against the non EU defendant as well [70].
+The judge in this case applied that approach [71 72].
+That was a legal error in circumstances where Vedanta had by the time of the hearing offered to submit to the Zambian jurisdiction, so that the whole case could be tried there [75, 79].
+While an offer to submit does not preclude a claim in England against Vedanta alone, it has the effect that a risk of irreconcilable judgments would be the result of the claimants choice to exercise their article 4 right, rather than because Zambia is not an available forum for all the claims [75].
+Leggatt Js judgment in OJSC VTB Bank v Parline Ltd [2013] EWHC 3538 (Comm) is overruled on this point since: (1) article 4 is not designed to avoid the risk of irreconcilable judgments; (2) article 8.1 on joinder is limited to the intra EU context and gives claimants a choice to consolidate proceedings in order to avoid that risk; and (3) there is no reason therefore why claimants should not have to make the same choice, merely because the foreign defendant is domiciled outside the EU [79 83].
+It does not follow that the risk of irreconcilable judgments is not a relevant factor in this case, but it is no longer a trump card such that
+the judge made an error of principle in regarding it as decisive [84].
+Looking at the relevant connecting factors in the round, Zambia would plainly have been the proper place for this litigation as a whole, provided substantial justice was available to the parties in Zambia [85 87].
+The risk of irreconcilable judgments mainly concerns the claimants, and they have the choice to avoid it by suing all the defendants in Zambia, or to incur it by exercising their right to sue Vedanta in England. (4) Substantial justice in Zambia: Even if the court concludes that a foreign jurisdiction is the apparently the proper place, the court may still permit service of English proceedings on the foreign defendant if cogent evidence shows that there is a real risk that substantial justice would not be obtainable in that foreign jurisdiction [88].
+In this case, the judge identified access to justice issues in Zambia [89].
+It is not in doubt that Zambia has independent judges, courts and civil procedure which would ensure a just trial of large environmental group claims like this one [89].
+The issues are twofold.
+First, the practicable impossibility of funding such group claims where the claimants are all in extreme poverty, because they could not obtain legal aid and because conditional fee agreements (CFAs) are unlawful in Zambia [89 90].
+Secondly, the absence within Zambia of sufficiently substantial and suitably experienced legal teams to enable effective litigation of this size and complexity, in particular against a well resourced opponent like KCM [89].
+The criticisms that the judge failed in his approach to the access to justice issue are not well founded [92 98].
+Overall, the defendants fail on issue (4), which means their success on issue (3) is academic [101 102].
+Conduct of litigation on jurisdiction: The court takes the opportunity to warn litigants of the need to conduct jurisdiction disputes in an economical and proportionate manner [6 14].

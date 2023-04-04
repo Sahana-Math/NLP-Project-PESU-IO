@@ -1,0 +1,53 @@
+This appeal concerns the procedure for collective proceedings in competition damages claims.
+This is the first collective proceedings case of this kind to reach the Supreme Court.
+It addresses important questions about the correct legal requirements for certification of a claim.
+Mr Merricks claim arises out of the European Commissions decision in December 2007 that the appellants (Mastercard) breached competition law by fixing a default interchange fee as part of their payment card schemes between May 1992 and December 2007 (the Commission Decision).
+These payment card schemes allow consumers to purchase goods and services from retailers by card.
+The details of the scheme are at [6 8] and they were also considered by the Supreme Court earlier this year ([2020] UKSC 24).
+Mr Merricks issued a collective proceedings claim form against Mastercard under section 47B(1) of the Competition Act 1998 as amended (the Act).
+In the claim form, Mr Merricks argues that the difference between the interchange fee banks would have paid but for Mastercards breach of competition law, and the interchange fee that they did in fact pay, is an overcharge which retailers paid to their banks and crucially, which retailers then passed onto their customers.
+As a result, he argues that consumers paid higher prices for goods and services than they would otherwise have done.
+Mr Merricks seeks to bring the collective proceedings as the class representative on behalf of all UK resident adult consumers of goods and services purchased in the UK during the infringement period from retailers accepting Mastercard, unless the consumer opts out (the class).
+He seeks an award of damages for the whole class (an aggregate award), rather than damages for the claim of each class member [11 13].
+To proceed with his collective proceedings claim, Mr Merricks needs the Competition Appeal Tribunal (the CAT) to certify the claim by making a Collective Proceedings Order (CPO) under section 47B of the Act.
+To certify a claim, the CAT must be satisfied that two main criteria have been met.
+First, that it is just and reasonable for Mr Merricks to act as the class representative (sections 47B(5)(a) of the Act).
+Second, that the claims are eligible for inclusion in collective proceedings (section 47B(5)(b) of the Act), which means that the claims all raise common issues of fact or law and are suitable to be brought in collective proceedings (section 47B(6) of the Act).
+The CAT refused to make a CPO as the claims failed this second requirement because: (1) the claims were not suitable for an aggregate award of damages per rule 79(2)(f) of the Competition Appeal Tribunal Rules 2015 (the CAT Rules) (the suitability for aggregate damages issue); and (2) Mr Merricks proposed distribution of any award did not satisfy the compensatory principle in common law, which the CAT considered relevant under rule 79(2) of the CAT Rules (the distribution issue).
+The Court of Appeal allowed Mr Merricks appeal, finding that the CAT had made five errors of law.
+Mastercard appealed to the Supreme Court.
+The Supreme Court dismisses Mastercards appeal.
+It agrees with the Court of Appeal that the CATs decision is undermined by error of law and sends Mr Merricks application for a CPO back to the CAT.
+Lord Briggs gives the main judgment, with which Lord Thomas agrees.
+Lord Kerr had agreed that the appeal should be dismissed for the reasons set out in Lord Briggs judgment prior to his retirement on 30 September 2020.
+Three days before the judgment was initially due to be handed down, Lord Kerr sadly died.
+The President of the Supreme Court re constituted the panel under section 43(4) of the Constitutional Reform Act 2005 to consist of Lord Briggs, Lord Sales, Lord Leggatt and Lord Thomas.
+Lord Sales and Lord Leggatt give a combined separate judgment in which they disagree with Lord Briggs reasoning in part.
+They do not dissent as they recognise that they were in the minority and the pure happenstance that Lord Kerr died after completion of the judgments, but just before they could be handed down, should not mean that the case has to be re heard due to an evenly divided panel [82 83].
+Collective proceedings are a special form of civil procedure.
+They are designed to provide access to justice and ensure the vindication of private rights where an ordinary individual civil claim would be inadequate for that purpose.
+This purpose helps interpret the legal requirements of the certification process [45].
+An important element of the background to collective proceedings is that courts frequently have to deal with difficult issues in calculating damages.
+Courts do not deprive an individual claimant of a trial merely because of these quantification issues, provided there is a triable issue that the claimant has suffered more than nominal loss [46 47].
+If these issues would not have prevented an individual consumers claim from proceeding to trial, the CAT should not have stopped the collective proceedings claim at the certification phase [56].
+This fundamental requirement of justice that the court must do its best on the available evidence in relation to damages is the broad axe principle and it applies to competition cases [51].
+Justice requires that damages be quantified in order to vindicate a claimants rights and to ensure that a defendant pays to reflect the wrong done, especially where anti competitive conduct may never otherwise be restrained if individual consumers are unable to bring claims [53 54].
+Another important element is to understand the meaning of suitable, both under section 47B(6) of the Act which requires the claims to be suitable to be brought in collective proceedings, and in rule 79(2)(f) which says that they must be suitable for an aggregate award of damages.
+Suitable means suitable relative to individual proceedings.
+Therefore, the CAT should have asked itself whether the claims were suitable to be brought in collective proceedings as compared to individual proceedings, and suitable for an award of aggregate damages as compared to individual damages [56 57].
+Against this background, the Supreme Court finds that the CAT made five errors of law [64].
+First, it failed to recognise that in addition to overcharge, the merchant pass on issue was also a common issue (as the Court of Appeal had found and which was not appealed to the Supreme Court).
+This should have been a powerful factor in favour of certification (rule 79(2)(a) of the CAT Rules) [66].
+Second, the CAT placed great weight on its decision that the case was not suitable for aggregate damages.
+This is a relevant factor for certification, but it is not a condition [61, 67 69].
+Third, the CAT should have applied a test of relative suitability.
+If the forensic difficulties would have been insufficient to deny a trial to an individual claimant, they should not have been sufficient to deny certification for collective proceedings [70 71].
+Fourth (the most serious error), the CAT was wrong to consider that difficulties with incomplete data and interpreting the data are a good reason to refuse certification.
+Civil courts and tribunals frequently face problems with quantifying loss and the CAT owes a duty to the class to carry out the task in a case of proven breach of statutory duty coupled with a realistically arguable case that some loss was suffered [72 74].
+Fifth, the CAT was wrong to require Mr Merricks proposed method of distributing aggregate damages to take account of the loss suffered by each class member.
+A central purpose of the power to award aggregate damages in collective proceedings is to avoid the need for individual
+assessment of loss and the Act expressly modifies the ordinary requirement for the separate assessment of each claimants loss [58, 77].
+Lord Sales and Lord Leggatt agree with Lord Briggs that the CAT was wrong to refuse certification on the distribution issue [148 150].
+However, they disagree on the suitability for aggregate damages issue.
+They consider that the CAT applied the test to determine the suitability of a class of claims for an aggregate award of damages under section 47C(2) of the Act correctly and thus the CAT was entitled to conclude that the claims were not suitable to be brought in collective proceedings [167 169].
+Their key reasons are at [111, 116 119, 121, 124, 153, 156 166].

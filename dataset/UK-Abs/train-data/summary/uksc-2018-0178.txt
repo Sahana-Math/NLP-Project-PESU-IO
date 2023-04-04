@@ -1,0 +1,45 @@
+The respondent, Mr Sevilleja, owned and controlled two companies (the Companies) incorporated in the British Virgin Islands (BVI).
+The appellant, Marex Financial Ltd (Marex), brought proceedings against the Companies for sums due under contract.
+After a trial in the Commercial Court before Field J, Marex obtained judgment for over US$5.5 million, plus costs of1.65 million.
+On 19 July 2013, Field J gave the parties a confidential draft of his judgment, due to be handed down six days later.
+From 19 July 2013, Mr Sevilleja allegedly procured the offshore transfer of over US$9.5 million from the Companies London accounts into his personal control.
+By the end of August 2013, the Companies assets were just US$4,329.48, such that Marex could not receive payment of its judgment debt and costs.
+In December 2013, Mr Sevilleja placed the Companies into liquidation in the BVI, their alleged debts exceeding US$30 million.
+Marex is the only creditor not connected to Mr Sevilleja.
+According to Marex, the liquidation process is effectively on hold, with the liquidator failing to investigate claims submitted to him, to locate Marexs missing funds, or to issue proceedings against Mr Sevilleja.
+In the present proceedings, Marex seeks damages from Mr Sevilleja in tort for (1) inducing or procuring the violation of its rights under Field Js judgment and orders, and (2) intentionally causing it to suffer loss by unlawful means.
+The sums claimed are (1) the judgment debt, interest and costs awarded by Field J, less an amount Marex recovered in US proceedings, and (2) costs incurred by Marex in its attempts to obtain payment.
+Mr Sevilleja contends that Marexs claim in respect of (1) is barred by the reflective loss principle.
+That contention was upheld by the Court of Appeal.
+The Supreme Court unanimously allows the appeal.
+The leading judgment is given by Lord Reed, with whom Lady Black and Lord Lloyd Jones agree.
+Lord Hodge gives a separate judgment agreeing with the reasoning of Lord Reed.
+Lord Sales delivers a separate judgment, with which Lady Hale and Lord Kitchin agree, allowing the appeal on a wider basis.
+After explaining relevant general principles of law [2 13], and the background to the appeal [14 22], Lord Reed examines the decisions which are said to have established the reflective loss principle, namely Prudential Assurance Co Ltd v Newman Industries Ltd (No 2) [1982] Ch 204 [23 39] and Johnson v Gore Wood & Co [2002] 2 AC 1 [40 67].
+He concludes that Prudential laid down a rule of company law: a diminution in the value of a shareholding or in distributions to shareholders, which is merely the result
+of a loss suffered by the company in consequence of a wrong done to it by the defendant, is not in the eyes of the law damage which is separate and distinct from the damage suffered by the company, and is therefore not recoverable.
+The rule is based on the rule in Foss v Harbottle (1843) 2 Hare 461, which would be subverted if the shareholder could pursue a personal action in those circumstances [35 39].
+That understanding of the rule is consistent with the speech of Lord Bingham in Johnson.
+Lord Milletts speech, however, treated the reflective loss principle as a wider principle of the law of damages, based on the avoidance of double recovery [61 63].
+Lord Reed then reviews subsequent cases in which the reflective loss principle as explained by Lord Millett has developed, including Giles v Rhind [2002] EWCA Civ 1428, Perry v Day [2004] EWHC 3372 (Ch), and Gardner v Parker [2004] EWCA Civ 781 [68 77].
+This examination makes clear the need to distinguish (1) cases where claims are brought by a shareholder in respect of loss which he has suffered in that capacity, in the form of a diminution in share value or in distributions, which is the consequence of loss sustained by the company, in respect of which the company has a cause of action against the same wrongdoer, and (2) cases where claims are brought, whether by a shareholder or by anyone else, in respect of loss which does not fall within that description, but where the company has a right of action in respect of substantially the same loss [80].
+The first kind of case is barred by the rule in Prudential, regardless of whether the company recovers its loss in full [80 83].
+In the second kind of case, recovery is permissible in principle, although it may be necessary to avoid double recovery [84 88].
+In light of this, Lord Reed holds that the reasoning in Johnson (other than that of Lord Bingham) should be departed from, and that Giles, Perry and Gardner were wrongly decided [89].
+The rule in Prudential does not apply to Marex, which is a creditor of the Companies, not a shareholder [92].
+Lord Hodge agrees with Lord Reeds reasons, noting that the panel was in agreement that the reflective loss principle has been expanded too greatly and would cause injustice if applied to Marexs situation [95].
+Lord Hodge also points out the central role of company law in the Court of Appeals judgment in Prudential, and how the reflective loss principles departure from those foundations has given rise to problems and uncertainties in the law [95 108].
+The bright line rule has a principled basis in company law and ought not to be departed from now [109].
+Lord Sales concludes that Marexs appeal should be allowed, but for reasons differing from those of the majority [116].
+The majority see the reflective loss principle, per Prudential, to be a rule of law deeming a shareholders loss by reduction in value of their shares or dividends to be irrecoverable where the company has a parallel claim.
+However, in Lord Saless view, Prudential did not lay down a rule that would exclude a shareholders recovery where, factually, the loss was different from that of the company.
+The court in Prudential set out reasoning why it thought a shareholder in such a case had suffered no separate loss, but this is not sustainable [117 118].
+The governing principle is indeed avoidance of double recovery, as was the view of the Law Lords in Johnson (contra Lord Reed) [119].
+Lord Sales criticises the authorities use of the word reflective as being unhelpful.
+Although there is necessarily a relationship between a companys loss and the reduction in share values that it causes, the loss suffered by the shareholder is not the same as the loss suffered by the company and there is no one to one correspondence between the two [132].
+The Court of Appeal in Prudential conflated the rationale for the rule in Foss v Harbottle with that for the reflective loss principle and assumed that a personal action would subvert the rule.
+That is not the case [142].
+A shareholder ought not to be prevented from pursuing a valid personal cause of action; double recovery can be prevented by other means [149 155].
+Lord Sales therefore questions the justification for the reflective loss principle and whether it should still be recognised [194].
+Even if the principle is accepted, it should not be extended to cover a case involving loss suffered by a creditor of the company.
+There are better ways to avoid double recovery in such a situation, such as by according the wrongdoer a right of subrogation to the extent he pays the creditor sums in respect of the debt owed by the company [198 205].

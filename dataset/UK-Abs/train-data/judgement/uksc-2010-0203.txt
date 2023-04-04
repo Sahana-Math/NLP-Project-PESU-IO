@@ -1,0 +1,254 @@
+This is another case arising out of the economically controversial but legally well established policy of the EU relating to parallel imports of genuine goods bearing registered trade marks.
+Broadly stated, the question at issue is whether a person who has imported goods bearing the mark into the EEA and offered them for sale there without the consent of the trade mark proprietor, is entitled to defend an action for infringement on the ground that the proprietor of the mark is engaged in conduct calculated to obstruct the free movement of such goods between member states or to distort competition in the EEA market for them.
+Ever since the Trade Marks Act 1994 gave effect in the United Kingdom to directive 89/104/EC, the rights of proprietors of registered trade marks have been governed by a uniform scheme of EU law.
+That directive has now been replaced by the current directive 2008/95/EC, but the two directives are in the same terms in every respect relevant to the present dispute.
+I shall refer to them indifferently as the Trade Mark Directive or the directive.
+The fundamental provisions are articles 5 and 7.
+Article 5 defines the rights of the trade mark proprietor.
+It provides, so far as relevant: Rights conferred by a trade mark 1.
+The registered trade mark shall confer on the proprietor exclusive rights therein.
+The proprietor shall be entitled to prevent all third parties not having his consent from using in the course of trade: (a) any sign which is identical with the trade mark in relation to goods or services which are identical with those for which the trade mark is registered; 3.
+The following, inter alia, may be prohibited under paragraphs 1 and 2: (a) affixing the sign to the goods or to the packaging thereof; (b) offering the goods, or putting them on the market or stocking them for these purposes under that sign, or offering or supplying services thereunder; (c) importing or exporting the goods under the sign; (d) using the sign on business papers and in advertising.
+Article 5 is subject to article 7, which provides: Exhaustion of the rights conferred by a trade mark 1.
+The trade mark shall not entitle the proprietor to prohibit its use in relation to goods which have been put on the market in the Community under that trade mark by the proprietor or with his consent. 2.
+Paragraph 1 shall not apply where there exist legitimate reasons for the proprietor to oppose further commercialisation of the goods, especially where the condition of the goods is changed or impaired after they have been put on the market.
+It has been accepted ever since the decisions of the Court of Justice in Silhouette International Schmied GmbH & Co. KG v Hartlauer Handelsgesellschaft mbH (Case C 355/96) [1999] Ch 77 and Sebago Inc v GB Unic SA (Case C 173/98) [2000] Ch 558, that the combined effect of articles 5 and 7.1 of the directive is to confer on the trade mark proprietor the exclusive right to control the first marketing in the EEA of goods bearing his trade mark, even if they are genuine goods which have previously been put on the market by him or with his consent outside the EEA.
+This is the only right attaching to the trade marks which is relevant in the present case.
+The subsequent decision of the Court in Zino Davidoff SA v A&G Imports Ltd (Joined Cases C 414/99 to 416/99) [2002] Ch 109, underlined its absolute nature by establishing that the consent of the trade mark proprietor had to be such as to amount to an unequivocal renunciation of the right.
+It could therefore rarely be implied, and never from the mere fact of his having placed the goods on the market outside the EEA and/or his silence on the question whether they had been lawfully placed in the market within the EEA: see paras 53 56.
+These decisions are understandably unpopular with parallel traders not forming part of the authorised distribution network of the trade mark proprietors.
+But they are securely established as part of the legal order of the EU in the domain of trade mark protection.
+Proposals to modify their effect or to adopt a rule of international exhaustion have been firmly rejected by the EC Commission and the Economic and Social Committee and no attempt was made to change the position when the new directive was adopted in 2008.
+There is an interesting account of these debates in Stothers, Parallel Trade in Europe (2007), at pp. 347 354.
+The Claimants, Oracle America Inc, were at the relevant time called Sun Microsystems and that is how I shall refer to them.
+They are manufacturers of computer systems, workstations and related goods.
+They are also the proprietors of five relevant Community trade marks and two relevant United Kingdom trade marks registered for use in connection with computer hardware.
+M Tech is a supplier of computer hardware in Manchester, which in 2009 fulfilled a trap order from a purchaser called KSS Associates in Epsom for 64 new Sun disk drives.
+The disk drives had originally been supplied by Sun to purchasers in China, Chile and the United States.
+M Tech had bought them through a broker in the United States and imported them into the United Kingdom.
+Although there was at one time a dispute about this, it is now common ground that Sun had not consented to their being put on the market in the EEA.
+On the face of it, therefore, M Tech infringed the marks contrary to article 5.1(a) by using them in circumstances where Suns exclusive right had not been exhausted under article 7.1.
+The present appeal arises out of an application initially made by Sun to Kitchin J for summary judgment for (among other things) damages for the infringement, and an injunction restraining any further infringements of the same kind.
+There is no challenge to the validity of the trade marks, nor to the facts said to constitute the infringement.
+M Techs defence is set out in a number of witness statements, whose contents are the basis of a draft pleading served shortly after Sun applied for summary judgment.
+In summary, M Tech say that Suns trade marks are not enforceable because (i) the object and effect of enforcement would be to partition the EEA market in Sun hardware contrary to the treaty provisions relating to the free movement of goods (articles 34 to 36 of the Treaty on the Functioning of the European Union); and (ii) the exercise of Suns trade mark rights is connected with its distribution agreements, which are said to contain restrictive provisions inconsistent with article 101.
+After the hearing before Kitchin J, M Tech added a third argument, to the effect that enforcement of Suns trade marks would constitute an abuse of rights as that concept is understood in EU law.
+Euro defences of this kind have been deployed by alleged infringers of intellectual property rights for many years, and the English courts have varied in the robustness with which they approach them.
+The dilemma is that litigation devalues intellectual property rights, by increasing the cost and delay associated with their enforcement.
+It may also serve to confer on the alleged infringer a temporary immunity or an improvement of his bargaining power in settlement negotiations, to which he will turn out not to be entitled.
+The effect can often extend beyond the parties or transactions in issue, to many other cases in which similar questions might be raised.
+These factors mean that defences like the present one must be scrutinised with some care, even if that requires a certain amount of analysis.
+On the other hand, a defendant must be allowed to go to trial if it has raised a triable issue of fact which is relevant in point of law.
+For obvious reasons, this is especially important when the case is founded on fundamental principles of the European Union such as the free movement of goods and undistorted competition.
+Kitchin J resolved this dilemma in favour of the trade mark proprietor.
+He gave summary judgment, ordering (among other things) an inquiry as to damages and an injunction.
+The Court of Appeal (Lord Neuberger of Abbotsbury MR, Arden LJ and Tomlinson LJ) allowed the appeal and set aside the order.
+This court has been invited to order a reference to the Court of Justice of the European Union.
+It is I think common ground that if there is an arguable defence in EU law, there will have to be a reference at some stage, either now or after the facts have been found at a trial.
+But the first question is whether there is.
+Articles 34 to 36: Free movement of goods
+Articles 34 and 35 of the treaty prohibit quantitative restrictions on imports and exports between member states and measures having equivalent effect.
+Both are subject to article 36, which provides that they do not apply to prohibitions or restrictions. justified on grounds of. the protection of industrial and commercial property, provided that these do not constitute a means of arbitrary discrimination or a disguised restriction on trade between member states.
+The facts on which M Tech relies as engaging these provisions are disputed, at least in part, but must for present purposes be assumed to be true.
+They can be summarised as follows.
+There is a large global market for second hand computer hardware, much of which is in the hands of independent resellers who do not belong to the manufacturers authorised distribution networks.
+In 2007, according to M Tech, the secondary market in the EEA for Sun hardware alone was worth US$1.07 billion, of which US$0.64 billion was sold by independent resellers.
+Much of the trade which independent resellers handle is entirely lawful because it involves goods which were previously marketed in the EEA by or with the consent of the trade mark proprietors.
+The allegation is that since 2007 Sun has deliberately set about securing this market for itself and its authorised dealers by declining to supply information which would enable independent resellers to discover whether any particular equipment was first put on the EEA market by or with Suns consent.
+This information is not available from any other source.
+It is not apparent from the goods themselves.
+Nor can it be inferred from the circumstances in which they have been acquired.
+This is because the same goods may be resold several times in the course of their serviceable life and they are not necessarily located in the same territory as the vendor or broker selling them.
+The result, they say, is to produce a chilling effect on independent sellers, deterring them from dealing in any Sun hardware, whether it is legitimately present on the EEA market or not, because their inability to distinguish between the two exposes them to the risk of enforcement actions by Sun.
+This risk is increased by the vigour with which Sun enforces its trade mark rights against independent resellers found dealing in the EEA in hardware which has not been marketed there by them or with their consent.
+The combination of aggressive enforcement of its trade mark rights and the withholding of information about provenance has, says M Tech, both the object and the effect of eliminating the legitimate as well as the illegitimate parallel trade in the EEA, thus giving Sun effective control of the secondary market in its products there, and enabling them to partition that market through its control of an authorised network of dealers.
+M Tech say that they have been harmed by Suns practice of withholding information about the provenance of their products, because that practice was among the reasons why they had largely ceased to deal with Sun equipment by about 2007 or 2008.
+The KSS transaction of 2009 is said to have occurred as a result of a failure of their ordinary procedures.
+However, it is important to note that the 64 disk drives supplied to KSS were new goods which were imported into the EEA and first marketed there by M Tech themselves, without Suns consent as they now accept.
+M Tech do not say that this happened as a result of any policy on Suns part of withholding information about the provenance of the goods.
+The position is exactly the same in relation to transactions affected by the injunction.
+In the form that Kitchin J granted it, the injunction restrained only the marketing by M Tech within the EEA of Suns trade marked goods which had not previously been marketed there by Sun or with its consent.
+There is a proviso designed to ensure that Sun does supply information about the provenance of goods potentially affected by the injunction.
+Its effect is that the injunction is not to apply to goods marketed by M Tech unless Sun have confirmed within ten days of being told the serial and part numbers of the goods in question that their records show that they have not been put on the EEA market by them or with their consent.
+It will be apparent that it is not good enough for M Techs purposes to establish a breach of the treaty.
+It has to show that that breach gives them a defence to an action for infringement of the marks.
+There is a principle of English public policy, which is common to the national legal systems of most member states, that a person may not profit from his own illegal act.
+The Court of Justice has held that it is open to member states to apply that principle to causes of action arising from directly applicable provisions of EU law, as indeed it has sometimes done itself: see Courage Ltd v Crehan (Case C 453/99) [2002] QB 507, at para 31.
+However, Mr. Vajda QC (who appeared for M Tech) disclaimed any reliance on the principle.
+His case is that Sun has no enforceable rights under article 5 of the Trade Mark Directive in the circumstances of this case, because that article is subject to an implied limitation to be derived as a matter of construction from articles 34 to 36 of the EU treaty.
+The effect of the suggested limitation is to preclude any exercise of trade mark rights which would have the object or effect of partitioning the EU internal market.
+What this amounts to is a general suspension of a proprietors trade mark rights as against the entire EEA market, and not just in respect of those transactions which are affected by Suns policy of refusing to disclose the provenance of the goods.
+M Tech must, as it seems to me, put its case in this way because the chilling effect on the secondary market, which is said to result from that policy, has not affected the particular transaction which has given rise to the allegation of infringement in this case and cannot affect any future transactions restrained by the injunction.
+It follows that the fundamental question on this appeal is whether the implied limitation on the application of article 5 of the directive for which Mr. Vajda contends can be supported as a matter of EU law.
+The Trade Mark Directive is in most respects substantially based on the case law of the Court of Justice as it had developed over the two previous decades.
+It is a harmonising measure concerned with (among other things) the achievement of the internal market and the free movement of goods: see recitals (2) and (10).
+Its efficacy as a harmonising measure uniformly applicable across the whole of the EU depends on treating it as an exhaustive statement of the rights of trade mark proprietors.
+For that reason, the Court of Justice held in Silhouette International Schmied GmbH & Co. KG v Hartlauer Handelsgesellschaft mbH (Case C 355/96) [1999] Ch 77, at para 25 that articles 5 to 7 of the Trade Mark Directive must be construed as embodying a complete harmonisation of the rules relating to the rights conferred by a trade mark.
+In Zino Davidoff SA v A&G Imports Ltd (Joined Cases C 414/99 to 416/99) [2002] Ch 109 the Court of Justice reaffirmed the principle, observing that articles 5 to 7 of the Directive accordingly define the rights of proprietors of trade marks in the Community: paras 32, 39.
+These statements reflect the general rule that where a particular area of commercial activity engaging the principle of the free movement of goods is regulated by harmonising legislation of the EU, then that legislation supersedes the general provisions of articles 34 to 36 of the treaty.
+The rule, which originates in the decision of the Court of Justice in Tedeschi v Denkavit Commerciale Srl (Case 5/77) [1977] ECR 1555, has been reiterated many times in many contexts, including the EU legislation relating to trade marks: see Bristol Myers Squibb v Paranova A/S (Joined Cases C 427/93, C 429/93, C 436/93) [2003] Ch 75 at paras 25 26; Phytheron International SA v Jean Bourdon SA (Case C 352/95) [1997] ECR I 1729 at para 17.
+Its rationale is not that the EU legislator is at liberty to override or displace the provisions of the treaty.
+It is that harmonisation measures are directed to the achievement of the single market.
+They must therefore be treated, assuming that they are valid, as giving effect in the relevant commercial context both to the principle of the free movement of goods and to the limitations on that principle embodied in article 36.
+In its Guide to the Application of Treaty Provisions governing the Free Movement of Goods (2010), at para 3.1.1, the European Commission, after stating the Tedeschi principle, puts the point in this way: This is due to the fact that harmonising legislation can be understood as substantiating the free movement of goods principle by establishing actual rights and duties to be observed in the case of specific products.
+Therefore, any problem that is covered by harmonising legislation would have to be analysed in the light of such concrete terms and not according to the broad principles enshrined in the treaty.
+Mr. Vajda submits that the treaty remains relevant as the dominant instrument which informs the construction of the directive.
+For my part, I need no persuasion of this.
+To say that the directive is the relevant source of law is entirely consistent with resort to the treaty as an aid to discovering what it means.
+The Trade Mark Directive must be construed on the assumption that it was intended to be consistent with treaty provisions relating to the free movement of goods, and indeed with other relevant treaty provisions.
+The case law which I shall cite below can be treated as so many variations on that theme.
+But I do not think that this carries the argument any further, because there is no potential inconsistency between the language of the directive and the provisions of the treaty which calls to be resolved by reference to the latter.
+This is because the scheme of articles 5 and 7 of the directive already embodies both the primary provisions governing the free movement of goods in articles 34 and 35, and the limited exception in article 36 for the protection of industrial and commercial property.
+Article 5 of the directive provides that the proprietor of a trade mark shall be entitled to exercise certain rights, including the right to prevent the use by others of his own or an identical trade mark in connection with goods of the class for which the mark is registered.
+It is not qualified by any proviso relating to the free movement of goods within the EU, because it does not need to be.
+The reason is that the reconciliation between article 5 of the directive and articles 34 to 36 of the treaty is achieved in the directive by article 7.
+The rights derived from article 5 of the directive are exhausted under article 7.1 as soon as the goods are first put on the market in the EU by or with the consent of the proprietor of the mark.
+Thereafter, subject to article 7.2, the proprietor has no subsisting rights capable of engaging the prohibition in articles 34 and 35 of restrictions on trade between member states.
+As the Court of Justice observed in Bristol Myers Squibb v Paranova A/S (Joined Cases C 427/93, C 429/93, C 436/93) [2003] Ch 75 at para 40: Article 7 of the Directive, like article 36 of the treaty, is intended to reconcile the fundamental interest in protecting trade mark rights with the fundamental interest in the free movement of goods within the common market, so that those two provisions, which pursue the same result, must be interpreted in the same way.
+The one exception to the EU rule of exhaustion stated in article 7.1 of the directive is the situation envisaged by article 7.2.
+This deals with the only circumstances in which a proprietor may, by virtue of his trade mark, control the marketing (commercialisation) of the goods after they have been put on the market in the EEA by him or with his consent.
+It is therefore qualified by the requirement that there should be legitimate reasons for him to exercise that control.
+Since the exception in article 36 for the protection of industrial or commercial property does not extend to the use of the rights derived from that property as disguised restrictions on trade between member states, it goes without saying that a desire to achieve such restrictions does not constitute legitimate reasons.
+The case law of the Court of Justice accordingly differentiates between (i) cases where the goods have not previously been marketed in the EEA by the proprietor or with his consent and the proprietor is seeking to exercise his rights under article 5 of the Trade Mark Directive in circumstances where his rights are not yet exhausted under article 7.1, and (ii) cases governed by article 7.2, where the goods are legitimately in circulation within the EEA but the proprietor nevertheless claims to have legitimate reasons to oppose their further commercialisation.
+Category (i): Enforcement to prevent first marketing in the EEA
+The law relating to cases in this category was stated in EMI Records Ltd v CBS United Kingdom Ltd (Case 51/75) [1976] ECR 811.
+This case was decided long before the first Directive was adopted in 1989, and turned on direct application of what are now articles 34 to 36 of the treaty.
+The main question at issue was whether EMI, which owned the Columbia trademark throughout the European Community, could consistently with those provisions of the treaty prevent CBS from marketing in the Community records bearing the mark that had been imported from third countries.
+The Court considered that the principle of the free movement of goods was incapable of restricting the right of a trade mark proprietor to prevent the first marketing within the Community of goods imported from outside the Community: 9 Article 36, in particular, after stipulating that Articles [34 and 35] shall not preclude restrictions on imports, exports or goods in transit justified inter alia on grounds of the protection of industrial and commercial property, states that such restrictions shall in no instance constitute a means of arbitrary discrimination or disguised restriction on trade between Member States. 10 Consequently the exercise of a trade mark right in order to prevent the marketing of products coming from a third country under an identical mark, even if this constitutes a measure having an effect equivalent to a quantitative restriction, does not affect the free movement of goods between Member States and thus does not come under the prohibitions set out in Article [34] et seq. of the Treaty.
+In such circumstances the exercise of a trade mark right does 11 not in fact jeopardize the unity of the common market which Article [34] et seq. are intended to ensure. 21 It follows that neither the rules of the Treaty on the free movement of goods nor those on the putting into free circulation of products coming from third countries nor, finally, the principles governing the common commercial policy, prohibit the proprietor of a mark in all the Member States of the Community from exercising his right in order to prevent the importation of similar products bearing the same mark and coming from a third country.
+This decision is not an aberration, nor does it depend on any quirk of the facts.
+It has subsequently been applied in the context of the corresponding rule of exhaustion relating to patent protection: see Generics (UK) Ltd and Harris Pharmaceuticals Ltd v Smith Kline & French Laboratories Ltd. (Case C 191/90) [1992] ECR I 5335, at para. 17.
+It is regularly cited as authoritative by Advocates General, for example Advocate General Jacobs in his opinions in Criminal proceedings against Aim Richardt and Les Accessoires Scientifiques (Case C 367/89) [1991] ECR I 4621, at para 14, and Silhouette [1999] Ch 77, at para 49.
+It has continued to be regarded as self evident by text book writers: see, in particular, Kerlys Law of Trade Marks and Trade Names, 15th ed. (2011), para 16.091.
+In Levi Strauss & Co v Tesco Stores Ltd [2003] RPC 18, Pumfrey J observed at para 51 that it could hardly be clearer.
+It has formed, with the principle of exhaustion, the basis for the application of the principles of free movement in the context of trade marks and other intellectual property rights.
+I agree with this observation, and I think that it is worth pausing to note the context in which it was made.
+The Levi Strauss case was, like the present one, concerned with goods imported into the European Community without the consent of the trade mark proprietor.
+It had been joined in the same reference to the Court of Justice as Zino Davidoff SA v A&G Imports Ltd (Joined Cases C 414/99 to 416/99) [2002] Ch 109.
+I have already referred to the Courts decision on this reference as part of a consistent line of authority for the propositions (i) that the Directive must be construed as a definitive statement of the harmonised law concerning the rights of trade mark proprietors, and (ii) that it confers on trade mark proprietors a right to control the first marketing of their goods in the EEA save in cases where that right had been unequivocally renounced.
+Pumfrey J, after noting these propositions and referring to the statement of principle in EMI Records, proceeded to reject a submission very similar to M Techs in the present case, that the exercise of a right to control the first marketing of the goods in the EEA could be precluded by the treaty provisions relating to the free movement of goods.
+He gave summary judgment in favour of the proprietor, and declined to refer the question to the Court of Justice: see paras 51 55, 58.
+Category (ii): Enforcement to prevent further commercialisation
+The position in relation to the exercise of the proprietors extended right under article 7.2 is different.
+This is because in cases governed by article 7.2 the goods have by definition been put onto the market in the EEA by or with the consent of the proprietor, who is seeking to prevent their further commercialisation.
+It follows that the principle of the free movement of goods may be engaged, depending on the facts.
+The great majority of cases in this category are repackaging cases.
+Their characteristic feature is that the trade mark proprietor is seeking to prevent a trader who has acquired the proprietors branded goods in one member state from altering them so as to enable them to be sold in another member state, commonly by repackaging them with the same mark so as to comply with different national languages, regulations or marketing practices.
+The proprietor in these cases is generally attempting to exercise his trade mark rights in a way which directly partitions the internal market by objecting to a repackaging which is necessary to enable the goods to be sold in a particular national market.
+The case law on what may constitute legitimate reasons really begins with the decision of the Court of Justice in Hoffmann La Roche AG & Co v Centrafarm Vertriebsgesellschaft Pharmazeutischer Erzeugnisse mbH (Case C 102/77) [1978] ECR I 1139, but the leading modern decision is Bristol Myers Squibb v Paranova A/S (Joined Cases C 427/93, C 429/93, C 436/93) [2003] Ch 75.
+Two arguments were advanced in Bristol Myers Squibb to justify the proprietors position.
+The first was that article 7.1 provided for the exhaustion of the proprietors trade mark rights only in respect of the goods in the exact form in which they were originally put on the market in the EEA.
+Therefore, even without article 7.2, the proprietor was said to be entitled to object to their being marketed in their repackaged form.
+The Court of Justice rejected this contention because one of the objectives of the EU principle of exhaustion was precisely to allow trade in branded goods between member states once they had been put on the market in the EEA by or with the consent of the trade mark proprietor: paras 34 37.
+The second argument was that article 7.2 justified the proprietors position because there were legitimate reasons for opposing the further commercialisation of the goods in their repackaged form.
+In addressing this argument, the Court took it for granted that the protection of a national market within the EU was not a legitimate reason.
+It then proceeded to formulate the conditions on which a trade mark proprietor might oppose repackaging which was necessary for sales to be made in a particular market.
+Broadly speaking, the least that he would have to show was that his opposition was objectively justified by some adverse effect of the repackaging on the condition or reputation of the goods.
+The same principles were applied in two cases decided at the same time, Eurim Pharm Arzneimittel GmbH v Beiersdorf AG (Joined Cases C 71 73/94) [1996] ECR I 3603 and MPA Pharma GmbH v Rhone Poulenc Pharma GmbH (Case 232/94) [1996] EC I 3671; and later in Pharmacia & Upjohn SA v Paranova A/S (Case C 379/97) [2000] Ch 571.
+On the same ground, it has been held that a trade mark proprietor may not object to the removal of identification codes or marks which would reveal the traders sources of supply to the trade mark proprietor and thereby make it impossible for the trader to serve that market at all: Frits Loendersloot (t/a F Loendersloot Internationale Expeditie) v George Ballantine & Sons Ltd. (Case C 349/95) [1997] ECR I 6227, at para 40.
+The reasoning of these decisions is applicable only in cases where the goods are already lawfully in circulation within the EEA with the consent of the trade mark proprietor, and he is trying to exercise the only right of control which the directive allows him in that situation.
+It is right to add that even in that context, the Court did not hold that a right expressly conferred by the directive in unqualified terms was unenforceable when the effect of enforcement would be to impede trade between member states.
+What it held was that the right did not exist at all.
+That conclusion was possible in the case of rights governed by article 7.2 because it provides that the rights exist only if there are legitimate reasons.
+A corresponding conclusion would not have been possible in the case of rights governed by article 5 which were not exhausted under article 7.1, because those rights are in every relevant respect unqualified.
+There was a good deal of debate before us, as there was in the courts below, about the effect of the case law of the Court of Justice concerning the burden of proving whether the trade mark proprietor did or did not consent to the marketing of the goods in the EEA.
+This question does not arise in the present case, because it is now accepted that the goods were first marketed in the EEA by M Tech and that Sun did not consent.
+But the case law is said to have a broader relevance, as authority for the general approach of the Court of Justice to the enforcement of trade mark rights in a manner said to be inconsistent with the free movement of goods.
+In summary, the rule is that while national law may place the burden of proving consent on the alleged infringer who asserts it, nevertheless if the effect would be to enable the trade mark proprietor to partition national markets within the EU, the burden of proof must lie with the proprietor.
+The authority for this is Van Doren + Q GmbH v Lifestyle sports and sportswear Handelsgesellschaft mbH (Case C 244/00) [2003] ECR I 3051, paras 37 41.
+It is apparent from the judgment in that case at paras 21 and 40, that the concern of both the referring court and the Court of Justice was that a requirement that the alleged infringer should prove that the goods had been marketed in the EEA with the proprietors consent would in practice require him to identify an authorised distributor in the EEA from whom he had obtained his supplies, thereby enabling the proprietor to use his control over his distribution network to prevent him from obtaining any more.
+However, the rule does not apply (indeed, the problem does not arise) in a case where it is admitted or clear, as it is in the present case, that the goods in question were imported into to the EEA by third parties without the proprietors consent: Zino Davidoff SA v A&G Imports Ltd (Joined Cases C 414/99 to 416/99) [2002] Ch 109 at para 54; subsequently reaffirmed in Class International BV v Colgate Palmolive Company (Case C 405/03) [2006] Ch 154, at paras 71 74.
+The difference between the two situations is discussed in the judgment in Van Doren, at paras 28 31.
+It corresponds to the long standing distinction between trademarked goods which are already legitimately in circulation in the EEA and those which are not.
+The reason for the difference of treatment is that where it is established that the goods have not previously been on the market in the EEA, the proprietor is only exercising his right to control the first marketing of his branded goods in the EEA.
+This right is conferred on him by EU law and does not engage the treaty provisions concerning the free movement of goods.
+Where, on the other hand, it may turn out that the goods were already legitimately circulating in the EEA because the trade mark proprietor had consented to their previous marketing there, the attempted enforcement of the trade mark rights potentially affects trade between member states.
+Application to the facts alleged by M Tech
+The real question in the present case is whether, applying those principles, the facts alleged by M Tech would give them a defence if they could be proved.
+Like Kitchin J, I do not consider that they would.
+The reason is that, once the scheme of articles 5 and 7 of the directive are correctly understood, it is clear that the unlawful conduct alleged by M Tech is collateral to the particular right which Sun is seeking to enforce.
+The first and main reason follows directly from the scheme of those articles.
+On the agreed facts, these goods were never marketed in the EEA until they were imported and marketed there by M Tech without Suns consent.
+It is therefore not in dispute that the only right derived from its trade marks which Sun is seeking to enforce by these proceedings is its right to control the first marketing of the goods in the EEA.
+This is an exercise of rights which does not engage the principle of the free movement of goods between member states embodied in articles 34 to 36 of the treaty.
+It affects only the entry of the goods onto the EEA market, not the movement of the goods within it.
+It is specifically authorised by articles 5 and 7.1 of the Trade Mark Directive, which are part of an exhaustive code that itself fully reflects the requirements of articles 34 to 36 of the treaty.
+M Techs argument to the contrary, and the decision of the Court of Appeal accepting it, are both substantially based on decisions of the Court of Justice under article 7.2 concerning the use of trade mark rights to obstruct the trading between member states of goods already legitimately in circulation within the EEA.
+That is a different, and for present purposes irrelevant situation.
+Second, what produces the impediment to the free movement of goods is not the enforcement of Suns right to control the first marketing of its products in the EEA.
+On M Techs account of the facts, the adverse effect on the free movement of goods arises from the partitioning of the market through Suns controlled distribution network.
+That is made possible by the disappearance of the independent secondary market for its hardware, which removes any alternative source of supply.
+The disappearance of the independent secondary market is in turn the result of Suns refusal to disclose where any particular goods were first marketed and, if it was in the EEA, whether it happened with its consent.
+This is said to achieve the chilling effect on both the legitimate and the illegitimate parallel trade, which has served to eliminate independent resellers in both categories.
+This is the only economically intelligible way in which M Techs case may be understood.
+It is also the mechanism which is clearly being put forward in the evidence of the two witnesses, Mr. Marion and Mr. Buta, who deal with this matter on their behalf.
+The difficulty about M Techs argument is that the act of a trade mark proprietor in seeking to control the first marketing of his products in the EEA is in principle an ordinary exercise of the essential right conferred on him by articles 5 and 7.1 of the directive.
+He may or may not also engage in activities such as withholding information about provenance, which are designed to eliminate the independent parallel trade.
+But Sun cannot be prevented from doing something which is in itself entirely lawful and consistent with the principle of the free movement of goods, simply because it proposes to do something else as well which is unlawful and inconsistent with that principle.
+It does not advance the argument to say, as M Tech does, that Suns policy of withholding information about provenance is effective only because it is combined with a policy of vigorously enforcing its trade mark rights.
+The only conceivable relevance of the fact that Sun seeks to control the first marketing of its trade marked products in the EEA is that if they did not do this, then it would be impossible to eliminate independent resellers by withholding information about provenance, because they could supply themselves with stock from outside the EEA regardless of provenance and market it in the EEA regardless of Suns objection.
+But that is the very thing that EU law unquestionably says that they cannot do.
+It cannot therefore follow that because Sun enforces its trade mark rights vigorously it should have no trade mark right to enforce in those circumstances.
+Nor, in my view, does it advance the argument to refer to the enforcement of Suns trade mark rights as part of a scheme to eliminate the independent resellers from the secondary market.
+This is simply a pejorative way of making the same unsustainable point.
+Third, even if (which is not the case) the jurisprudence arising from article 7.2 about the obstruction of trade within the EEA in goods which are already legitimately in circulation there had any application to the particular right which Sun is seeking to enforce, the case law would not justify the conclusion pressed upon us by M Tech.
+I have already discussed the cases on article 7.2.
+They are authority for the proposition that a trade mark proprietor cannot claim a right under the directive to oppose the further commercialisation of the goods if the exercise of that right would itself unjustifiably impede the free movement of goods between member states.
+However, none of the cases go so far as to hold non existent or unenforceable rights whose exercise would in itself have no impact on trade between member states, merely because they are accompanied by other acts which do.
+The law responds to this situation by restraining the acts which do.
+It does not pull down the whole temple.
+Fourth and last, it is a consequence of the collateral character of the unlawful acts alleged against Sun that M Tech have to advance a case which may fairly be characterised as extreme.
+The argument that article 5 of the directive is impliedly limited in the manner suggested by Mr. Vajda necessarily operates to suspend Suns trade mark rights indiscriminately as against the entire EEA market, including traders who are entirely unaffected by the withholding of information about provenance because, for example, they are knowingly importing Suns goods without their consent.
+The argument would be exactly the same, and just as sound or unsound whether or not the trader needed to be told the provenance of the goods.
+Mr. Vajda accepts this.
+Logically, as he also acknowledged, the effect would be to make the rights unavailable not only as against unauthorised parallel importers like M Tech but as against any other categories of infringer, for example industrial counterfeiters.
+This is a submission of truly remarkable breadth.
+In Imperial Chemical Industries Ltd v Berk Pharmaceuticals Ltd [1981] 2 CMLR 91, at [9], Sir Robert Megarry V C characterised a somewhat similar argument as a proposal to treat a person guilty of collateral breaches of the treaty as an outlaw, unable to enforce any of his rights against any one.
+None of the cases relied upon by M Tech come close to justifying such a proposition, which would be quite unnecessary to vindicate the principles of the treaty and contrary to the object and express terms of the directive.
+It may well be that M Tech has a perfectly good cause of action against Sun based on articles 34 to 36 of the treaty for damages for preventing them from selling Sun products by their policy of withholding information about the previous history of the goods.
+I make no comment on that, because it is irrelevant to this appeal.
+We are not concerned in these proceedings with business that M Tech have been prevented from doing, still less with business that other traders have been prevented from doing.
+We are concerned with business which M Tech have done in infringement of Suns trade marks.
+It is not a defence to proceedings brought on that basis that there is other business that M Tech have been prevented from doing by Suns arguably unlawful policy of withholding information.
+Article 101: anti competitive agreements
+Article 101 of the treaty prohibits agreements and concerted practices so far as they have as their object or effect the prevention, restriction or distortion of competition within the internal market.
+An intellectual property right is not itself an agreement or concerted practice capable of contravening article 101 of the treaty.
+But there are undoubtedly circumstances in which it may be unenforceable because there is a sufficient nexus between the exercise of the right and the agreement or concerted practice in question.
+The test, which dates back to the venerable but still authoritative decision of the Court of Justice in Sirena Srl v Eda Srl (Case 40/70) [1971] ECR 69, at para 9, is whether it is the subject, the means or the result of a restrictive practice: see also Keurkoop BV v Nancy Kean Gifts BV (Case C 144/81) [1982] ECR 2853, at para 27 (the exercise of that right may be subject to the prohibitions contained in the Treaty when it is the purpose, the means or the result of an agreement or concerted practice.
+The facts relied upon as engaging article 101 in this case are that Sun distributes its products through a network of authorised dealers.
+The dealers are said to be bound by distribution agreements which require them to obtain their supplies from Sun or from other authorised Sun dealers, unless the goods in question cannot be supplied from those sources.
+It is alleged that this is contrary to article 101, and for present purposes Sun is prepared to assume that it is.
+The question is whether that has any relevant connection with the exercise by Sun of its right to control the first marketing in the EEA of its trade marked goods.
+The argument seems to have undergone a certain amount of refinement since it was presented to the judge.
+As presented in M Techs printed case, it was that the restriction in the distribution agreements served to reinforce the chilling effect of withholding information about the provenance of the goods.
+This is because, so it is said, Suns authorised dealers are able to access the Sun database from which the provenance of the goods can be identified.
+They are not therefore inhibited from sourcing their supplies from independent resellers by Suns policy of withholding provenance information from the independent market.
+Therefore, in order to achieve its objective of eliminating the independent secondary market, it is necessary to prevent the authorised dealers contractually from buying from them.
+In effect, what is being said is that Sun has two tactics for eliminating the independent secondary market, one (withholding information) aimed directly against independent resellers and the other aimed at their own distributors.
+The two tactics. , say M Tech, work in tandem.
+There are two insuperable difficulties about this part of M Techs case.
+The first is that there is no relevant connection between the policy of withholding information about provenance and the prevention, restriction and distortion of competition by means of the distribution agreements.
+The whole premise of the argument is that the policy of withholding information has no anti competitive effect on the choices of Suns authorised distributors.
+The second difficulty is that there is no relevant connection between the policy of withholding information about provenance and the enforcement of Suns right to control the first marketing of its trade marked products in the EEA, for the same reasons as there is no such connection in the context of articles 34 to 36.
+More generally, neither the trade marks nor the rights conferred on their proprietor by the directive can be characterised as the subject, the means or the result of an agreement or concerted practice contravening article 101.
+Abuse of rights
+The final point taken by M Tech seems to me to be incapable of succeeding in circumstances where their other points have failed.
+The leading case on the EU concept of abuse of rights is the decision of the Court of Justice in Halifax Plc v Customs and Excise Comrs (Case C 255/02) [2006] Ch 387, in which a tax saving scheme which formally complied with the requirements of the Sixth VAT Directive was said to be abusive.
+In his opinion, at paras 62 71, Advocate General Poiares Maduro traced the development of the concept in the jurisprudence of the Court of Justice, before expressing the principle as being that no provision of Community law can be formally relied on to secure advantages manifestly contrary to its purposes and objectives: para. 74.
+This test was adopted by the Grand Chamber in its judgment.
+The Court said: 74 it would appear that, in the sphere of VAT, an abusive practice can be found to exist only if, first, the transactions concerned, notwithstanding formal application of the conditions laid down by the relevant provisions of the Sixth Directive and the national legislation transposing it, result in the accrual of a tax advantage the grant of which would be contrary to the purpose of those provisions. 75 Secondly, it must also be apparent from a number of objective factors that the essential aim of the transactions concerned is to obtain a tax advantage.
+As the Advocate General observed in para 89 of his opinion, the prohibition of abuse is not relevant where the economic activity carried out may have some explanation other than the mere attainment of tax advantages. 76.
+It is for the national court to verify in accordance with the rules of evidence of national law, provided that the effectiveness of Community law is not undermined, whether action constituting such an abusive practice has taken place in the case before it.
+The rule of EU law which Sun is invoking in the present case is to be found in articles 5 and 7.1 of the Trade Mark Directive.
+It is beyond argument that the purpose of those provisions was (among other things) to enable the trade mark proprietor to control the first marketing of his trade marked goods in the EEA.
+The exercise of that right by Sun did not only satisfy the formal requisites of those articles.
+It was entirely consonant with their purpose.
+Even if (contrary to my view) M Tech were right to say that by achieving that purpose Sun was enabled to do other things which tended to eliminate independent resellers from the secondary market, that would not make it an abuse of rights.
+Reference
+Once the Court of Justice has laid down the relevant principles of law in terms which are clear, consistent, and sufficient for the decision of the case, it is the function of national courts to apply them.
+That there are obscurities in parts of this area of EU law is beyond question.
+But the particular legislative provisions and legal principles which make M Techs case impossible are in my judgment entirely clear.
+A reference is not required to elucidate them.
+M Techs real problem, under all three heads of their argument, is that they are unable to establish a relevant connection between the exercise of Suns right to control the first marketing of their trade marked goods in the EEA and any breach of the treaty.
+Conclusion
+I would allow the appeal and restore the order of Kitchin J.

@@ -1,0 +1,54 @@
+This appeal concerns complex statutory provisions relating to corporation tax on financial transactions known as repos.
+These provisions have now been replaced.
+The general interest of the appeal lies in the approach to be taken to deeming provisions in statutes, namely those which create statutory hypotheses.
+A repo is a financial transaction under which shares or securities are sold at one price and are later repurchased by the seller at a different price, fixed in advance.
+Although in legal theory a sale and repurchase, in economic substance a repo is a secured loan by the buyer to the seller.
+The payment of the purchase price by buyer to seller is the advance of the loan; the shares or securities act as security for the loan; and the repurchase price is the repayment of the loan.
+A dividend or instalment of interest may become payable during the period of the repo.
+In a gross paying repo, the contract will provide for the interim holder (i.e. the buyer under the repo) to pay that dividend or interest over to the seller.
+Such a payment is, for tax purposes, called manufactured interest.
+In a net paying repo, the dividend or interest is retained by the interim holder, and the repurchase price adjusted to take account of the receipt.
+The Appellant (DCC) and a Bank entered into five consecutive net paying repo transactions in respect of UK government gilts.
+For the purposes of this case, these were treated as one composite transaction.
+The Bank sold gilts to DCC for 812m.
+During the 18 day period when DCC held the gilts, interest of 28.8m (payable half yearly) was received.
+The Bank repurchased the gilts for 785m.
+The Finance Act 1996 (the 1996 Act) made major changes in the taxation of interest for corporation tax purposes.
+Companies are now chargeable to corporation tax on the profits and gains from their loan relationships.
+In terms of section 84(1) of the 1996 Act, the credits and debits to be brought into account in respect of a companys loan relationships shall be the sums which, in accordance with an authorised accounting method, and when taken together, fairly represent . all interest under the companys loan relationships.
+Because of the approach of the tax legislation, the repos gave rise to three loan relationships.
+The question in this appeal was what debits and credits should be brought into account for DCC in respect of three loans relationships.
+They were: (1) the actual loan relationship between the UK government and the holder of the gilts.
+The payment of interest under the gilts created a credit in DCCs favour, as the holder of the gilts. (2) a deemed loan relationship between DCC (as lender) and the Bank (as borrower).
+Section 730A of the Income and Corporation Taxes Act 1988 (the 1988 Act) provided that the difference between the sale price and the repurchase price was to be treated as interest paid by the repurchaser (the Bank) on a deemed loan from the interim holder (DCC).
+This deemed payment gave rise to a credit for DCC. (3) a deemed loan relationship between the Bank (as lender) and DCC (as borrower) under which DCC was treated as making a payment of deemed manufactured interest: section 737A(5) of the 1988 Act & 97(2) & (4) of the 1996 Act.
+This deemed payment gave rise to a debit for DCC.
+The parties agreed that the second loan relationship created a credit to DCC of 1.8m (i.e. the repurchase price of 785m plus the gilt interest of 28.8m minus the purchase price of 812m.) There was no agreement as to the credit in respect of the first loan relationship (the interest on the gilts received by DCC) and the debit in respect of the third loan relationship (the payment of deemed manufactured interest deemed to have been made by DCC).
+The Special Commissioner and High Court reached different results.
+By a majority, the Court of Appeal concluded that the answer was credit 28.8m, debit 28.8m.
+DCC appealed to the Supreme Court.
+It argued that the answer was credit 2.9m; debit 28.8m, which would produce an overall debit.
+That would be to DCCs advantage, as it could set this against group profits to reduce the group overall tax bill.
+The Supreme Court unanimously dismisses the appeal, but adopts different reasoning to the Court of Appeal.
+It holds that the credit in respect of the interest on the gilts is 2.9m.
+The purpose of the deemed payment of manufactured interest by DCC being to cancel out that receipt and to allow it to be taxed as income in the hands of the Bank, the debit for that payment was also 2.9m.
+Lord Walker gives the judgment of the Court.
+Lord Walker examines the history of the tax treatment of repos.
+Under the regime prior to the 1996 Act, in the simple case where no gilt interest was payable during the period of the repo, the interim holder was treated as having made a loan of the sale price to the seller and was taxed on the interest he received on the loan, namely the difference between the repurchase price and the sale price.
+This corresponded to the economic reality of a repo.
+In a net paying repo, where interest was received by the interim holder during the period of the repo, the interim holder was deemed to make a payment representative of that interest to the seller: [14] [19].
+There was a need for symmetry between these two payments.
+They were intended to cancel each other out, so that the buyer could be taxed on the repo as if it had made a secured loan at interest, and also to allow the gilts interest to be taxed as income of the seller: [26].
+The 1996 Act effected a major change in the taxation of loan interest for corporation tax.
+Interest was to be computed in accordance with an authorised accounting method, in this case an accruals basis: [7], [23].
+It was reasonable to expect that, when effecting this change, Parliament intended to preserve rather than to destroy the essentials of the existing provisions: [33].
+Applying an accruals basis of accounting, DCCs credit in respect of interest on the gilts was 2.9m: the total payment of 28.8m accrued over a 6 month period, and DCC held the gilts for only 18 days: [30], [32], [44].
+DCC submitted that applying an accruals basis of accounting to the deemed third loan relationship, the appropriate debit was 28.8m.
+No other result was possible, because it would mean that the balance of that payment vanished into the ether.
+Lord Walker emphasises that it is important when interpreting a deeming provision not to take the hypothesis further than is warranted: [40].
+The payment which section 737A(5) of the 1988 Act deems DCC to make is said to be representative of the interest on the gilts received during the repo period.
+Section 97(2)(a) of the 1996 Act provides that this deemed payment is to be treated as interest paid under a hypothetical loan relationship.
+It was unwarranted to assume that this hypothetical loan relationship lasted no longer than the repo period, so that the entire payment needed to be treated as accruing during the 18 days during which DCC held the gilts.
+The interest on the gilts accrued during a period of six months but DCCs interest in the gilts lasted only 18 days: [42].
+Its receipt of interest was therefore apportioned.
+The debit under a hypothetical relationship under which DCC was making a payment representative of that interest should also be a time apportioned sum, with the apportionment carried out in the same way: [43].

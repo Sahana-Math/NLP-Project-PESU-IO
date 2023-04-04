@@ -1,0 +1,150 @@
+This appeal arises out of applications by the Financial Services Authority for orders to wind up the appellants in the public interest under section 367(1)(c) of the Financial Services and Markets Act 2000, on the ground that each of them is carrying on, or has carried on, a regulated activity in contravention of the general prohibition.
+The general prohibition is the prohibition in Section 19 of the Act, which provides that no person may carry on a regulated activity unless he is either an authorised or an exempt person.
+Regulated activities are those specified by subordinate legislation: see section 22(5).
+They include a wide range of general insurance business, defined by Article 10 of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 (SI 2001/544), as the business of effecting or carrying out any of eighteen classes of contract of general insurance listed in Schedule 1, Part I to the Order.
+The class which is most directly relevant to the present appeal is Class 16 (Miscellaneous Financial Loss).
+The first appellant is Digital Satellite Warranty Cover Ltd and the second is Bernard Freeman and Michael Anthony John Sullivan trading as Satellite Services.
+The business of both firms consisted of selling and performing extended warranty contracts under which, in consideration of a periodic payment, they contracted to repair or if necessary replace satellite television dishes, digital boxes and associated equipment in the event of breakdown or malfunction or, in certain cases, physical damage.
+This is a sufficient summary of the terms for present purposes.
+Two further points should, however, be made about them.
+The first is that the courts below proceeded on the footing that at common law the contracts were contracts of insurance.
+That assumption, although not accepted by the appellants, is not challenged on these appeals.
+The second is that it was an important feature of the contracts that the appellants undertook only to provide benefits in kind, i.e. repair services or replacement goods.
+There was no contractual obligation to pay money.
+The appellants were not authorised under the Financial Services and Markets Act 2000 to carry on any kind of insurance business, and no question of exemption arises.
+Their case is that even on the footing that they were making and performing contracts of insurance, the contracts were not of a kind which required their business to be authorised under Financial Services and Markets Act 2000.
+Warren J [2011] Bus LR 981 rejected that argument and ordered the appellants to be wound up.
+Their appeal was dismissed by the Court of Appeal [2012] Bus LR 990, and in my opinion it should be dismissed here also.
+The United Kingdom legislation governing the authorisation and regulation of direct general insurance business was enacted to give effect to the successive EC Council Non life Directives.
+The eighteen classes in the Regulated Activities Order substantially correspond to the eighteen classes in the Annex to the First Council Non life Insurance Directive 73/239/EEC as amended by Council Directive 84/641/EEC.
+The argument as presented to us was that in this Directive Classes 1 to 17 do not extend to contracts of insurance providing benefits in kind, and that in transposing the Directives into national law, member states were not entitled to regulate either wider or narrower classes of direct non life business.
+Therefore, so it is said, the Regulated Activities Order must be construed as applying only to contracts of insurance providing for pecuniary benefits.
+Ms Anderson QC, who appeared for the appellants, accepted that member states were entitled to regulate additional categories of direct non life business, but not in the same legislative provisions which transposed the Directive into national law and not by redefining classes of business specified in the Directives more broadly than the Directives themselves.
+They could do it, she submitted, only by a distinct enactment and then only by identifying distinct additional categories.
+Ms Anderson also accepted that Class 18 (Assistance), which covers contracts of insurance providing assistance for persons who get into difficulties, did extend to those providing benefits in kind.
+But the Authority has not sought to bring the present case within Class 18.
+The Court of Appeal doubted whether it was correct that Classes 1 to 17 in the Annex to the First Non life Directive excluded contracts of insurance providing for benefits in kind.
+For my part I share these doubts, but it may well be that that question could be finally resolved only by a reference to the Court of Justice.
+So, like the Court of Appeal, I would not decide this appeal on that ground.
+The real problem about the appellants case is more fundamental.
+It depends upon the proposition that in specifying certain categories of direct non life insurance business which member states must regulate in accordance with EU law, the First Directive has precluded member states from regulating further or wider categories under their national law, at any rate in the same legislative provisions which transpose the Directive into national law.
+I do not accept this.
+It is in my view clear that the First Directive is concerned only to prescribe what kinds of business national law must regulate and not what other kinds of business it may regulate.
+Still less is it concerned with the legislative technique that member states may employ to regulate other kinds of business to which the Directive ex hypothesi does not apply.
+It follows that even if one assumes in the appellants favour that Classes 1 to 17 in the Annex to the First Directive are confined to insurance of the relevant descriptions providing pecuniary benefits, there is nothing to prevent the United Kingdom from legislating to regulate insurance of those descriptions irrespective of whether they provide benefits in cash or kind or both.
+To explain why this must be so, it is necessary to say something about the way in which the statutory regulation of insurers has developed in the United Kingdom and in the European Union.
+Statutory regulation began in the United Kingdom in a limited way with the
+Life Assurance Companies Act 1870 which applied, as its name suggests, only to life offices, whose contracts depended on their maintaining their solvency over what might be very long periods.
+However, the first reasonably comprehensive scheme of statutory regulation dates from the Insurance Companies Act 1958 and Part II of the Companies Act 1967.
+The 1958 Act introduced a basic scheme of solvency regulation applicable to all insurers writing specified classes of business, apart from Lloyds underwriters and certain trade unions and friendly societies.
+The Act of 1967 modified that scheme and introduced a system of authorisation and control based mainly on the suitability of officers and controllers.
+It also brought wider categories of insurance business within the scope of regulation, including pecuniary loss insurance business.
+Both Acts, together with amendments made by the Insurance Companies Amendment Act 1973, were consolidated with insignificant changes in the Insurance Companies Act 1974.
+Since the United Kingdom joined the EEC in 1973, the regulation of
+insurance business has been governed by increasingly comprehensive schemes of regulation based on EC Directives.
+The Insurance Companies Act 1974 was already obsolescent at the time that it was passed, because in July 1973, the EC Council of Ministers issued the First Non life Insurance Directive which introduced a wholly different principle of regulation.
+This had been under consideration by the institutions of the European Community since the middle of the 1960s at a time when the United Kingdom was not a member and consequently had only limited input into it.
+United Kingdom legislation up to and including the Insurance Companies Act 1974 had been entirely concerned with consumer protection.
+The protection of assureds is of course in one sense the ultimate purpose of all regulation of the sector.
+But the legal base of the First Non life Directive was Article 57(2) of the original treaty, which was one of a number of treaty provisions concerned with freedom of establishment.
+It provided for the co ordination of national schemes of regulation concerning the engagement in and exercise of non wage earning activities.
+The Directive was concerned to limit the propensity of national schemes of insurance regulation to impede freedom of establishment.
+It had two main objects.
+One was to provide a limited measure of uniformity in the principles governing the authorisation of insurers to carry on direct non life business under the various national schemes of regulation.
+The other was to ensure that the national schemes assessed the solvency of insurers in accordance with a uniform system of solvency margins, calculated as a specified percentage of premium income or of claims and provisions, whichever was the higher.
+The authorisation of insurers was dealt with by Section A (Articles 6 12).
+Article 6 required member states to have a system for authorising insurers carrying on business in their territory, which would apply whether the insurers head office was in that member state or in another one.
+But the Directive did not lay down common rules or criteria for authorisation except in the particular respects identified in Articles 6 to 12.
+These were, in summary, as follows: (i) member states were not permitted to make authorisation conditional on the provision of a deposit or security (Article 6.3), or to grant it in the light of the economic requirements of the market (Article 8.4); (ii) member states were required to authorise insurers for specified classes of business, and to identify those classes by reference to a standard list in the Annex (Article 7); (iii) only certain kinds of legal entity could be authorised (Article 8.1(a)); (iv) authorised insurers must be required to limit their business activities to insurance (Article 8.1(b)); (v) authorised insurers were to be required to furnish specified categories of information, both at the time of seeking authorisation and afterwards (Articles 8.2 and 9 11); (vi) where authorisation was refused, reasons had to be given, and a right of appeal to a court made available (Article 12).
+Section C: Withdrawal of authorization (Article 22) provided that an authorisation once given could be withdrawn on specified grounds, essentially non compliance with other provisions of the Directive.
+Solvency regulation was dealt with by Section B (Articles 13 21).
+This imposed a common solvency margin and a number of criteria for the assessment of solvency, together with detailed provisions for the administrative supervision of insurers solvency on a common basis.
+For present purposes it is enough to make two observations about this part of the Directive.
+The first is that both the premium basis and the claims basis for assessing solvency required national regulators to take account of the whole insurance business of the relevant insurer, including those parts of it which were not within the scope of the Directive (such as reinsurance) or were excluded from it by Article 2 (such as permanent health insurance) or were not referred to in the standard classes listed in the Annex.
+This is clear from Article 16.3, which requires the premium basis of solvency assessment to be applied by reference to premiums in respect of all direct business and reinsurance, and the claims basis of solvency assessment to be applied by reference to claims and provisions in respect of all direct business and reinsurance.
+These provisions must be read with Article 8.1(b), which requires member states when authorising insurers to require them to limit their business to the business of insurance and operations directly arising therefrom to the exclusion of all other commercial business.
+This is not limited to insurance business in the eighteen standard classes.
+It covers the whole of insurance as opposed to other commercial business.
+Indeed, no workable scheme of solvency regulation could operate on any other basis.
+The second observation to be made about Section B of the Directive is that it provides for a guarantee fund of one third of the solvency margin, but subject to a minimum value which varies depending on which of the classes of business listed in the Annex the insurer engages in.
+The First Non life Directive originally covered only business within what are now Classes 1 to 17 of the Annex.
+In 1984, it was amended by Directive 84/641/EEC so as to add a new Class 18 covering assistance in cash or kind to persons who get into difficulties while travelling.
+A number of consequential amendments were made to deal with the new Class 18.
+The amending Directive of 1984 did not, however, alter the basic scheme of the original Directive governing either authorisation or solvency.
+Manifestly the First Non life Directive, whether in its original or its amended form, was not intended to impose a comprehensive scheme of authorisation.
+Nor can the eighteen standard classes of insurance business listed in the amended Annex have been intended to limit the freedom of member states to regulate other categories of business.
+In the First Directive, Article 7.2 requires that with specified exceptions authorisations are to be given by reference to the standard classes.
+This affects the operation of the Directive in only two ways.
+First, it is relevant to the question what information must be included in the scheme of operations which Article 8.1(c) requires to be submitted in support of an application for authorisation.
+Information about the nature of the risks to be written or the tariffs to be charged is dispensed with for certain classes: see Articles 9 and 10.1.
+Secondly, it is relevant to the determination under Article 17.2 of the minimum size of the guarantee fund, which varies according to the classes of business written.
+In neither respect would the operation of these provisions be undermined if member states were to regulate further or wider categories of insurance business.
+In particular, claims and premiums generated by insurance business fall to be included in the solvency assessment whether the business falls within the standard classes or not.
+In the unlikely event that an insurer carried on business none of which fell within any of the standard classes, it would be impossible to calculate a minimum guarantee fund for the purpose of Article 17.1, but it would be unnecessary to do so because such an insurer would not fall within the scope of the Directive at all: see Article 1.
+The partial character of the scheme of authorisation imposed by the First Non life Directive is recognised in its recitals.
+These show that it was appreciated that significant differences between national schemes of authorisation would persist, and that these would continue to operate as partial barriers to the exercise of the right of establishment.
+Thus Recital (2) of the Directive as originally issued records that it was necessary to eliminate certain divergencies between national schemes of regulation.
+Recitals (2) and (3) of the amending Directive of 1984 recorded that differences between national schemes of authorisation and regulation for insurance providing for benefits in kind had hitherto operated as barriers to the exercise of the right of establishment.
+It must therefore have been appreciated that insurance of this kind was being authorised and regulated by member states under their national law even if it was not within the original seventeen standard classes.
+It is clear from the scheme of the First Non life Directive as a whole that the object was to impose certain uniform principles of authorisation and regulation on insurance business in the standard classes but not on any business falling outside those classes.
+This is why Article 1 of the Directive identified its subject matter as being the conduct of business in the classes of insurance defined in the Annex to this Directive.
+The wording changed after the amendment of 1984, but not the substance.
+The standard classes in the Annex to the First Non life Directive acquired a wider significance after 1988 with the Second and Third Non life Directives.
+The Second Directive 88/357/EEC introduced what has been called passporting (although the term does not appear in it).
+Insurers established in any member state were entitled to write large risks in any other member state without a separate authorisation in the host state.
+The Third Directive 92/49/EEC extended passporting more widely.
+Recital (3) recorded that the three Non life Directives marked stages of a progressive extension of regulation based on common standards derived from EU law, and at Recital (5) that the approach of all three consisted in bringing about such harmonization as is essential, necessary and sufficient to achieve the mutual recognition of authorizations and prudential control systems.
+Recital (8) recorded that its object was (among other things) to define minimum standards, and that a home member state may lay down stricter rules for insurance undertakings regulated by its own competent authorities.
+Its substantive provisions extensively amended the First Directive so as to enable insurers authorised in one member state to carry on a category of insurance business in the Annex to the First Directive, to carry on the same category of business in every other member state without a separate authorisation there.
+What this means is that if the insurer is authorised in, say, the United Kingdom to carry on a category of business which is not included in the eighteen classes in the Annex, the premium income and claims generated by that category of business will still count for solvency purposes provided that at least part of his other business falls within the standard classes.
+However, he will not by virtue of his UK authorisation be entitled to carry on that particular category of business in another member state.
+He will have to submit himself to whatever rules the other member state may apply to it.
+Member states deal with each others authorisations by reference to the standard classes in the Directive.
+As far as they are concerned, any difference between the content of those classes and that of the corresponding categories of business in national law is irrelevant.
+More generally, it is impossible to discern any rational reason why the EU legislator should have wished to prevent member states from imposing their own authorisation regime on insurance business outside the standard classes.
+Any adverse impact that that might have on the exercise of the right of establishment would be the inevitable, and recognised, consequence of the EU legislators decision not to bring insurance of that kind within the scheme of the Directives governing authorisation.
+If the Directives were to be read as precluding national regulation of insurance business not within the scope of its authorisation regime, the result would not be to prevent that category of business from being written.
+It would be to allow it to be carried on without any regulatory protection for consumers whatever, whether under EU or national law, except for the protection conferred by the solvency margin required by the First Directive, which applies regardless of the categories of business written.
+Ms. Andersons concession that member states are entitled to regulate insurance business lying outside the standard classes under legislative provisions distinct from those which transpose the Directives into national law, is a tribute to her forensic realism.
+But it contributes nothing to the coherence of her case.
+The only remaining question is whether the Regulated Activities Order does in fact apply to business of the kind which these appellants were carrying on.
+I can deal with this question relatively shortly, because both Warren J and the Court of Appeal answered it against the Appellant for reasons which I regard as compelling.
+The point turns on the question whether the appellants business falls within any of the classes of business specified in Schedule 1, Part I to the Order.
+These classes, as the Court of Appeal pointed out in Phoenix General Insurance Co of Greece SA v Halvanon Insurance Co Ltd [1988] 1 QB 216, 262, define categories of regulated business by reference to the nature of the risk insured.
+They are derived by the Regulated Activities Order, with only insubstantial changes, from the previous United Kingdom statutory instruments giving effect to the First Non life Directive.
+In its unamended form, the First Directive was implemented by the Insurance Companies (Classes of General Business) Regulations 1977 SI 1977/1552, which were made under section 2 of the European Communities Act 1972.
+Class 18 was added by the Insurance Companies (Assistance) Regulations 1987 SI 1987/2130.
+In some cases, the classes were described in these instruments in terms lifted directly from the Annex to the Directive.
+In others, they were not.
+One of the classes which was not lifted directly from the Annex was Class 16 (Miscellaneous Financial Loss).
+In the form in which it appears in Schedule 1, Part I to the Regulated Activities Order, Class 16 is as follows: Miscellaneous financial loss 16.
+Contracts of insurance against any of the following risks, namely (a) risks of loss to the persons insured attributable to interruptions of the carrying on of business carried on by them or to reduction of the scope of business so carried on; (b) risks of loss to the persons insured attributable to their incurring unforeseen expense (other than loss such as is covered by contracts falling within paragraph 18); (c) risks which do not fall within sub paragraph (a) or (b) and which are not of a kind such that contracts of insurance against them fall within any other provision of this Schedule.
+This language was obviously thought to be at least as broad as the language of Class 16 in the Annex to the First Directive, but it is in fact derived from the definition of pecuniary loss insurance business in section 83(6) of the Insurance Companies Act 1974 as originally enacted.
+The same definition appeared before that in section 59(7) of the Companies Act 1967, which first brought pecuniary loss business within the scope of the pre Directive scheme of English statutory regulation.
+In both cases, the definition was relevant to the provisions relating to authorisation under the domestic statutory scheme which existed before the First Non life Directive was implemented.
+Warren J held that the extended warranty agreements which the appellants made in the course of their business fell within Class 16(b), or if not within sub paragraph (b) then within (c).
+His reason was as follows: 70.
+In my judgment, a contract for repair or replacement only in the event of breakdown or malfunction which does not oblige the insurer to indemnify the insured for costs which the insured himself incurs does fall within paragraph 16(b) of Schedule 1 (or if not within subparagraph (b), then within subparagraph (c)).
+I do not consider that there is any material distinction when it comes to determining whether a contract falls within paragraph 16 between a contract which provides only for repair or replacement and one which also provides an indemnity for costs actually incurred by the insured.
+In each case, the risk covered is essentially the same; it is the possibility of the equipment breaking down or malfunctioning.
+It is the cover, not the risk which is different in the two cases.
+If the equipment does break down or malfunction, then it is inevitable that the insured will need to incur cost if he is to have a set of working equipment: he will either have to pay for its repair or he will have to replace it.
+In my view, a contract which brings about the result which he would otherwise have to pay to achieve (ie having functioning equipment) can properly be categorised as a contract which protects him from financial loss.
+And this is so whether or not the insurer is obliged to pay the cost incurred by the insured if, in fact, the insured himself pays for the repair or replacement in the first instance.
+The contract which provides only for repair and replacement, and not for payment of any indemnity, therefore falls within paragraph 16(b).
+I agree with this analysis and cannot improve on it.
+The only contrary argument is that the schedule to the Order should be read subject to an implied exclusion of insurance providing for benefits in kind.
+This is certainly not the position at common law.
+A contract of insurance is a contract for the payment of a sum of money, or for some corresponding benefit: Prudential Insurance Co v Inland Revenue Commissioners [1904] 2 KB 658, 664 (Channell J); and see Department of Trade & Industry v St Christopher Motorists Association Ltd [1974] 1 WLR 99, 105 (Templeman J).
+The argument must therefore be (and is) that the common law on this point is displaced by the principle which requires an English court to construe its own legislation so as to conform to EU law.
+I am prepared to assume for this purpose (contrary to my instinctive view) that the First Non life Directive excludes insurance providing for benefits in kind, except in cases falling within Class 18.
+On that footing there is not one but two principles at issue, but neither of them applies.
+The first is the principle of conforming construction which requires English legislation to be construed as far as possible so as to conform with mandatory requirements of EU law: see Marleasing SA v La Comercial Internacional de Alimentacin SA (Case C 106/89) [1990] ECR I 4135.
+I have explained earlier in this judgment why in my view the only mandatory requirement of EU law is to regulate the 18 standard classes in accordance with the provisions of the First Non life Directive.
+There is no mandatory requirement to regulate any other insurance business.
+It follows that an English court must construe the 18 classes in the schedule to the Order so that it is no narrower than the corresponding classes in the Annex to the Directive.
+But on the footing that the United Kingdom is at liberty to impose an authorisation regime on further or wider classes of business not specified in the Directive, the question whether it has done so is a pure question of English law.
+This is not, however, the end of the matter, because the second principle which is arguably engaged is that where the language of an enactment is based on that of some other instrument with an established meaning, the latter is properly to be treated as part of the factual background against which the enactment is to be construed.
+This is a weaker principle than the first.
+It is also one which can have no application to this case, because the language used in Class 16 in the Schedule to the Order to describe miscellaneous financial loss insurance is derived, not from In my view the present appeal should be dismissed. the Annex to the Directive, but from the statutory definition of business covered by the previous, wholly domestic, scheme of statutory regulation dating back (in the relevant respects) to 1967.
+In those circumstances, the question whether the appellants business falls within Classes 8 or 9 of the Schedule to the Regulated Activities Order does not arise.

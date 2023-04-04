@@ -1,0 +1,35 @@
+This test case raises a question about the jurisdictional boundary between the specialist tax tribunal and the ordinary courts, as well as an underlying issue as to the approach taken by the Revenue to enquire into a claim for loss relief made as part of a tax avoidance scheme used by some 200 taxpayers [1].
+On 31 October 2008, Maurice David Cotter filed a tax return for the 2007/08 year of assessment.
+He made no claim for loss relief in the return, and let the Revenue calculate his tax for that tax year.
+This resulted in a calculation of income and capital gains tax of 211,927.77 [2].
+In January 2009, Mr Cotters accountants wrote to the Revenue enclosing a provisional 2007/08 loss relief claim and amendments to his 2007/08 return.
+These added various entries to boxes in the return intimating that Mr Cotter had sustained an employment related loss of 710,000 in the tax year 2008/09 for which he claimed relief in tax year 2007/08 under the Income Tax Act 2007 [3 4].
+He acknowledged that his interpretation of the applicable tax law might not accord with that of the Revenue and stated, for these reasons I assume you will open an enquiry [5].
+His accountants then sent a copy of the loss relief claim to a Revenue recovery office, stating: As a result of this claim no further 2007/08 taxes will be payable by Mr Cotter [6].
+The Revenue wrote to Mr Cotters accountants to confirm that the tax return had been amended and that enquiries would be opened into the claim and the tax return.
+It indicated that it did not intend to give effect to any credit for the loss until those enquires were complete.
+On the same day, it issued a fresh tax calculation of 211,927.77.
+The Revenue then wrote to Mr Cotter intimating that it was enquiring into the amendment and the loss claim under Schedule 1A to the Taxes Management Act (TMA).
+His accountants informed the recovery office that they had asked the Revenue to amend the self assessment calculation [7].
+They asserted that (i) no further taxes were payable for 2007/08 because of the loss claim which was the subject of enquiry and (ii) that if tax were due as a result of an enquiry under section 9A TMA, it was not payable until the enquiry had been completed.
+Meanwhile, advisors acting for Mr Cotter wrote to the Revenue arguing that legal proceedings against him would be unlawful because his self assessment showed that no tax was payable as at 31 January 2009, and the Revenue had not amended his self assessment return [8].
+On 22 June 2009, the Revenue issued proceedings in the county court seeking recovery of 203,243, namely the income and capital gains tax for 2007/08 and the first payment of account for 2008/09.
+Mr Cotter argued that he was entitled to use his loss claim to reduce to nil the tax otherwise payable for 2007/08 and that the First tier Tribunal (Tax Chamber) had exclusive jurisdiction to determine whether that was the case [9].
+The proceedings were transferred to the High Court (Chancery Division) and on 14 April 2011 David Richards J held that the court had jurisdiction and that Mr Cotter was not entitled to rely on his claim for loss relief as a defence to the Revenues claim [10].
+This was overturned in the Court of Appeal.
+Lady Justice Arden (with whom Lords Justices Richards and Patten agreed) held that if the Revenue wished to dispute an item contained in a tax return it had to follow the procedure set out in section 9A TMA, which would have given Mr Cotter a right to appeal to the tribunal [11].
+The Supreme Court unanimously allows the Revenues appeal, restoring the relevant provisions of the High Courts order [35].
+The central question is whether the Revenue was correct to have carried out its enquiry under Schedule 1A to TMA (allowing postponement of relief until completion of the enquiry), or whether any enquiry ought to have been made under section 9A (with effect given to the claim meantime).
+Section 9A allows an officer to enquire into anything contained in the return, or required to be contained in the return, including any claim or election included in the return [19].
+Part of the appeal therefore involved a consideration of the meaning of a return in the relevant legislation.
+Delivering the Courts judgment, Lord Hodge provides guidance as to how the system works [33 36].
+In summary, where a taxpayer makes a claim for relief in a tax return form which is, on its face, relevant to that particular year of assessment, or where he chooses to calculate the amount payable and allows for the relief in his calculation, the Revenue may correct the tax return if it disagrees with the claim for relief.
+If the taxpayer rejects the amendment, the Revenue may institute a section 9A enquiry.
+Upon the closure of that enquiry, the taxpayer will have a right of appeal to the tribunal.
+In the meantime, effect is given to the loss relief claim [27; 34].
+If, by contrast, the taxpayer chooses to let the Revenue calculate his tax but includes a claim for relief in a tax return form which is clearly not relevant to the calculation of tax for that particular year of assessment, the Revenue may ignore the claim in its calculation.
+In other words, it may treat the claim as made otherwise than in a return, and Schedule 1A TMA shall apply.
+The Court considers that, in the present context, a return refers to the information in the tax return form which is submitted for for the purpose of establishing the amounts in which a person is chargeable to income tax and capital gains tax for the relevant year of assessment and the amount payable by him by way of income tax for that year (section 8(1) TMA) [24 25; 35].
+Lord Hodge notes that whilst treating everything on the tax return form as the tax return is attractive in its simplicity, it would expose the Revenue to irrelevant claims made in the form which have no merit and which serve only to postpone the payment of tax due [20 21].
+Having concluded, correctly, that the claim in respect of losses incurred in 2008/09 did not alter the tax chargeable or payable in relation to 2007/08, the Revenue was entitled indeed obliged to use Schedule 1A as the vehicle for its enquiry (section 42(11)(a) TMA) [26].
+The county court and the High Court had jurisdiction in this case as it was not an appeal against an assessment to tax in respect of a particular year of assessment (the exclusive jurisdiction of the tribunal [29]) but a question of whether a claim for relief for losses incurred in 2008/09, which the taxpayer had made in his tax return form for 2007/08, constituted a defence to the Revenues claim for immediate payment of the tax it had calculated as payable in respect of 2007/08 [29 32].

@@ -1,0 +1,264 @@
+Can a member of a Limited Liability Partnership (LLP) be a worker within the meaning of section 230(3) of the Employment Rights Act 1996 (the 1996 Act)? If she is, she may claim the benefit of the protection given to whistle blowers in sections 43A to 43L of that Act, inserted by the Public Interest Disclosure Act 1998.
+There are also potentially other rights involved if the member is a worker.
+Section 230(3) of the 1996 Act defines two sorts of worker for the purpose of that Act.
+Limb (a) covers an individual who has entered into, works under or has worked under a contract of employment.
+No one has suggested that the contract between the member and the LLP in this case was a contract of employment.
+The question is whether the member falls within limb (b) of section 230(3), which covers an individual who has entered into or works under or worked under any other contract, whether express or implied and (if it is express) whether oral or in writing, whereby the individual undertakes to do or perform personally any work or services for another party to the contract whose status is not by virtue of the contract that of a client or customer of any profession or business undertaking carried on by the individual.
+Section 230(5) is also relevant: In this Act, employment . (b) in relation to a worker, means employment under his contract; and employed shall be construed accordingly.
+Section 230(4) provides that in the Act, employer means the person by whom the worker is employed. 4.
+The immediate context is whether the member can claim the benefit of the protection given to whistle blowers by the 1996 Act.
+But limb (b) workers are also able to claim two other rights under the 1996 Act, the right not to suffer an unauthorised deduction from wages (section 13) and the right not to be subjected to a detriment for exercising rights under the Working Time Regulations (SI 1998/1833) (section 45A).
+The same definition of worker is also used in some other legislation, most notably the National Minimum Wage Act 1998, the Working Time Regulations 1998 (SI 1998/1833), and the Part time Workers (Prevention of Less Favourable Treatment) Regulations 2000 (SI 2000/1551).
+But the rights given to this type of worker are much less extensive than those given to workers under a contract of employment.
+They do not, for example, include protection against unfair dismissal.
+The facts 5.
+The appellant is an English qualified solicitor.
+In 2005 she was employed by Shadbolt & Co LLP to develop a joint venture with a Tanzanian law firm, with whom she also had an employment contract.
+In 2009, Shadbolt ended their joint venture with that firm but entered into a joint venture with a different Tanzanian firm.
+Later in 2009, Clyde & Co LLP were negotiating to take over various parts of Shadbolts business, including the Tanzanian joint venture.
+On 24 December 2009, they made a formal offer to the appellant, subject to completion of the deal with Shadbolt.
+Under this, she would become an Equity Partner of the LLP.
+Her annual share of the LLP profits was fixed at 103,000 (whether or not the LLP actually made a profit).
+Her existing arrangements with the Tanzanian joint venture would continue.
+The LLP would look to propose her as a Senior Equity Partner once the results of the joint venture are able to provide a track record showing the sustainability of income and profit to satisfy our partnership process. 6.
+The deal with Shadbolt was completed in February 2010, when the appellant became a member of Clyde & Co LLP.
+She signed a Deed of Adherence to the LLPs Members Agreement.
+The other parties to the Deed were the LLP and each of the Members individually.
+Under the Members Agreement, there were two levels of membership, Equity Members and Senior Equity Members.
+Senior Equity Members were placed on the LLPs lockstep, each level of which conferred a certain number of profit sharing units.
+Equity Members received a fixed annual share of profits and such profit sharing units as the management board might determine.
+The rights of the Senior Equity Members were more extensive than those of the Equity Members, but they could all vote to elect the Senior Partner and the members of the management board.
+Members agreed that the objective of each Member shall be to carry on business for the best advantage of the LLP so as to promote the wellbeing and success of the Business for the prosperity and advantage of all Members and to that end each Member shall devote his full time and attention to the Business and that each Member shall be just and faithful to the LLP in all transactions relating to the Business and in relation to the property and other assets of the LLP.
+Business is defined as the business to be carried on by the LLP as set out in clause 3, which states that [t]he LLP carries on business as solicitors, foreign lawyers and registered European lawyers. 7.
+In November 2010, the appellant reported to the LLPs money laundering reporting officers that the managing partner of the Tanzanian law firm had admitted paying bribes to secure work and to secure the outcome of cases.
+She claims that these were protected disclosures within the meaning of section 43A of the 1996 Act.
+She also claims that she was subject to a number of detriments as a result, including suspending her, making allegations of misconduct against her and ultimately expelling her from the LLP in January 2011.
+These claims are denied by the LLP and have not yet been tried. 8.
+In February 2011, the appellant brought claims in the Employment Tribunal against the LLP and one of its Senior Equity Members under the sex discrimination provisions of the Equality Act 2010 and under the whistle blowing provisions of the 1996 Act.
+The respondents preliminary objection to both claims, that the Tribunal had no jurisdiction because the appellant worked primarily outside the jurisdiction in Tanzania, has been resolved in her favour.
+The respondents also objected to her whistle blowing claim on the ground that she was not a worker within the meaning of section 230(3) of the 1996 Act. 9.
+The Employment Tribunal found that she was not a worker, although she worked under a contract to do or perform personally work or services for the LLP, because she was in business in her own right receiving a share of the profits in relation to the work carried out.
+In the Employment Appeal Tribunal, Judge Peter Clark allowed her appeal and held that she was a worker.
+She was an integral part of the LLPs business, she could not offer her services to anyone else, she was in a subordinate position and the LLP was not her client. (The Court of Appeal commented that Judge Clark appears to have considered the issue of subordination in the context of determining whether the LLP was a client or customer rather than as an independent requirement in its own right: [2013] ICR 883 para 30).
+The LLPs appeal to the Court of Appeal was successful, but on a completely different ground from those argued in the Tribunals: [2012] EWCA Civ 1207.
+The decision of the Court of Appeal 10.
+The Court of Appeal held that the appellant could not be a worker for the purpose of section 230(3) of the 1996 Act because of section 4(4) of the Limited Liability Partnerships Act 2000.
+This provides: A member of a limited liability partnership shall not be regarded for any purpose as employed by the limited liability partnership unless, if he and the other members were partners in a partnership, he would be regarded for that purpose as employed by the partnership. 11.
+The LLP argued that employed by should be widely construed to include both types of 1996 Act worker.
+The appellant claimed that its natural meaning was restricted to contracts of employment.
+Elias LJ (with whom the other members of the court agreed) accepted that focusing simply on the language, the argument is not clear cut (para 48).
+But the intention seems to me to be that whatever the employment status of the partners under the 1890 Act, it should not alter as a result of incorporation.
+If Parliament did not intend to change their status as regards whether they were employees under limb (a), I can see no logical reason why Parliament would have adopted a different position with respect to the questions whether they may be limb (b) workers (para 48). 12.
+There was no previous case considering whether a partner could be a limb (b) worker.
+But both Ellis v Joseph Ellis & Co [1905] 1 KB 324 and Cowell v Quilter Goodison Co Ltd [1989] IRLR 392 established that a partner could not be an employee.
+Essentially this was because the partners were all in a contractual relationship with one another in a joint venture and thus each partner would have to be employed, inter alia, by himself.
+He would be both workman and employer, which is a legal impossibility (para 63).
+Further, [t]he very concept of employment presupposes as a matter of sociological fact a hierarchical relationship whereby the worker is to some extent subordinate to the employer .
+Where the relationship is one of partners in a joint venture, that characteristic is absent (para 64).
+These reasons applied just as much to limb (b) status as they did to employees. 13.
+Given that section 4(4) produced this result, Elias LJ did not have to consider whether it was an essential part of the definition of worker that one party was in a subordinate relationship to the other (para 68).
+He acknowledged that there is a powerful case for saying that, focusing solely on the language of section 230, the terms of the statutory definition of worker were satisfied in this case.
+He agreed with the EAT that the LLP could in no sensible way be said to be either the client or the customer of the claimant (para 69).
+But the analysis has to be more subtle than that (para 70).
+Underlying the statutory definition of worker is the notion that one party has to be in a subordinate relationship to the other.
+An LLP could not properly be described as a client or a customer but neither could it properly be described as an employer of its members (para 71).
+Hence he was inclined to the view that the employment judge was correct.
+He would be minded to hold that the member of an LLP would not by virtue of that status alone constitute either an employee or a worker (para 73).
+Whether they might enter into some separate employment relationship with the partnership, rather in the manner that a company director can do, would be a different question (para 73).
+This appeal 14.
+Mr Thomas Linden QC, on behalf of the appellant claimant, argues that the plain wording of section 230(3)(b) includes his client.
+It is common ground that she is employed under a contract personally to perform work or services for the LLP; she was an integral part of their business and the LLP was not her client or customer.
+There is no additional element of subordination involved in the concept of employment; but if there is, the claimant was subordinate for this purpose.
+Section 4(4) of the 2000 Act does not modify the 1996 Act in respect of worker status, but even if it did, she would have been a worker in a partnership.
+Finally, he argues that the claimants right to freedom of expression under article 10 of the European Convention on Human Rights requires that we construe the legislation so as to afford her effective protection for her rights. 15.
+On the statutory construction point, Mr Andrew Stafford QC, for Clyde & Co LLP, argues that the Court of Appeal were right for the reasons they gave.
+A partner under an ordinary partnership cannot be an employee of a partnership of which she is a member.
+Section 4(4) of the 2000 Act was plugging into that rule and applies just as much to the wider definition of worker as it does to employees.
+Under article 10, he argues that our whistle blowing protection is more advanced than that in much of Europe, the Convention right is not as extensive, and so it is not necessary to interpret section 230 of the 1996 Act so as to cover members of an LLP; and in any event it would go against the grain of the legislation as he has identified it, and thus not be within the bounds of possible readings for the purpose of section 3 of the Human Rights Act 1998.
+Discussion 16.
+The immediately striking thing about this case is how much hard work has to be done in order to find that a member of an LLP is not a worker within the meaning of section 230(3)(b) of the 1996 Act.
+It is common ground that the appellant worked under a contract personally to perform any work or services.
+It is now common ground that she provided those services for the LLP.
+It is also now common ground that the LLP was not her client or customer.
+The Court of Appeal accepted (para 69) that there was a powerful case that the definition was satisfied.
+How then can it be said that she was not a worker for this purpose? 17.
+The argument which found favour with the Court of Appeal was that section 230(3) had impliedly been modified by section 4(4) of the 2000 Act.
+It is, of course, the case that when passing the 1996 Act, or when amending it in 1998 to insert the whistle blowing provisions, Parliament could not have had limited liability partnerships in mind, because they did not then exist.
+It was not then known whether the pressure, mainly from large accountancy firms, to introduce some new form of business structure with limited liability would be heeded, or, if it was, what form such a structure might take.
+It might have retained the traditional form of partnership in England and Wales, in which the firm is not a separate legal personality but a group of individuals who contract with one another and collectively with others; or it might have been a completely new form, in which, although called a partnership, the entity has a separate legal personality.
+The latter course was eventually chosen. 18.
+Meanwhile, in another part of the forest, the Law Commission and Scottish Law Commission were conducting a joint project on partnership law.
+They published a joint consultation paper in 2000, shortly after the Limited Liability Partnerships Act 2000 received the Royal Assent (Law Commission Consultation Paper No 159, Scottish Law Commission Discussion Paper No 111).
+In this they pointed out that there was doubt in Scots law, which does accord separate legal personality to a partnership, whether a partnership could enter into an employment contract with one of its partners (para 23.21; referring to Allison v Alisons Trustees (1904) 6 F 496 and Fife County Council v Minister of National Insurance 1947 SC 629).
+They provisionally recommended that, if a partnership were to have a separate legal personality, it should be able to enter into a contract of employment with one of its partners.
+It may well be, therefore, that those with an interest in partnership law were already alert to the fact that, if a partnership were to become a separate legal entity, at the very least the arguments about whether partners could also be employees would be different.
+There is, after all, no problem at all about a majority shareholder also being, not only a Director, but also an employee of a limited company. 19.
+The Law Commissions published their Report on Partnership Law in 2003 (Law Com No 283, Scot Law Com No 192).
+This reported that the response of consultees to their suggestion that it should be possible for partners to become employees was divided.
+The Commissions were persuaded that the status, right and obligations of a partner were wholly different from those of an employee (para 13.52).
+Hence they recommended that a partnership should not be capable of engaging a partner as an employee. 20.
+We cannot know what prompted the inclusion of section 4(4) in the 2000 Act (and intriguingly, the Law Commissions do not refer to it either in their Consultation Paper or in their Report).
+We do know that section 4(4) has caused some bewilderment among English lawyers.
+In Tiffin v Lester Aldridge LLP [2012] 1 WLR 1887, para 31, Rimer LJ commented that [t]he drafting of section 4(4) raises problems.
+That is because in law an individual cannot be an employee of himself.
+Nor can a partner in a partnership be an employee of the partnership, because it is equally not possible for an individual to be an employee of himself and his co partners (see Cowell v Quilter Goodison Co Ltd [1989] IRLR 392).
+Unfortunately, the authors of section 4(4) were apparently unaware of this.
+He went on to conclude that what section 4(4) must have been getting at is not what it says that it is getting at, which is whether the member would be regarded as employed by the partnership if the members of the LLP were partners in a partnership; instead, in his view, it must have been getting at whether the LLP member would be regarded as a partner had the LLP been a partnership. 21.
+But once it is recognised that the 2000 Act is a UK wide statute, and that there is doubt about whether partners in a Scottish partnership can also be employed by the partnership, then there is no need to give such a strained construction to section 4(4).
+All that it is saying is that, whatever the position would be were the LLP members to be partners in a traditional partnership, then that position is the same in an LLP.
+I would hold, therefore, that that is how section 4(4) is to be construed. 22.
+The issue in Tiffin was whether a member of an LLP could make a claim for unfair dismissal against the LLP.
+That, of course, depends, not upon whether she is a worker in the wider sense used in section 230(3)(b) of the 1996 Act, but upon whether she is an employee under a contract of employment.
+On any view, employed by in section 4(4) would cover a person employed under a contract of service. 23.
+The question for us is whether employed by in section 4(4) bears a wider meaning than that and also covers those who undertake to do or perform personally any work or services for another party to the contract .
+In my view, it does not. 24.
+First, the natural and ordinary meaning of employed by is employed under a contract of service.
+Our law draws a clear distinction between those who are so employed and those who are self employed but enter into contracts to perform work or services for others. 25.
+Second, within the latter class, the law now draws a distinction between two different kinds of self employed people.
+One kind are people who carry on a profession or a business undertaking on their own account and enter into contracts with clients or customers to provide work or services for them.
+The arbitrators in Hashwani v Jivraj (London Court of International Arbitration intervening) [2011] UKSC 40, [2011] 1 WLR 1872 were people of that kind.
+The other kind are self employed people who provide their services as part of a profession or business undertaking carried on by some one else.
+The general medical practitioner in Hospital Medical Group Ltd v Westwood [2012] EWCA Civ 1005; [2013] ICR 415, who also provided his services as a hair restoration surgeon to a company offering hair restoration services to the public, was a person of that kind and thus a worker within the meaning of section 230(3)(b) of the 1996 Act.
+Had Parliament wished to include this worker class of self employed people within the meaning of section 4(4), it could have done so expressly but it did not. 26.
+Thirdly, however, doing so would have raised the question of whether partners in a traditional partnership can also be workers for that partnership in this wider sense.
+That would be a very different question from whether they can be employees.
+If Parliament had indeed wished to exclude that possibility, which might have been a change in the law, it could be expected to do so directly and expressly, but it did not. 27.
+Fourthly, and perhaps most importantly, there are the provisions of section 230 of the 1996 Act itself.
+Section 230(1) defines an employee as an individual who has entered into, works, or has worked under a contract of employment.
+Section 230(2) defines a contract employment as a contract of service or apprenticeship.
+Section 230(5) expressly provides that, in the 1996 Act, employment means both the employment of an employee under a contract of employment and the employment of a worker under his contract.
+Employed is to be construed accordingly.
+Thus, in order to be able to use the words employed and employment in a wider sense than they would normally carry, so as to cover the employment of class (b) workers and those for whom they work, Parliament expressly enacted an extension to what would otherwise be the natural and ordinary meaning of those words.
+Such an extension is conspicuously lacking in the 2000 Act.
+With the greatest of respect to Lord Clarke, I do not consider it possible to construe the wording of the 2000 Act, the conventional meaning of which is quite clear, by reference to an extended definition in an earlier Act which was restricted to that Act.
+For all purposes in section 4(4) of the 2000 Act refers to all the purposes for which employment under a contract of service is relevant. 28.
+For all those reasons, I conclude that section 4(4) of the 2000 Act does not mean that members of an LLP can only be workers within the meaning of section 230(3) of the 1996 Act if they would also have been workers had the members of the LLP been partners in a traditional partnership. 29.
+This means that there is no need to consider the subsidiary but important questions which would arise had section 4(4) borne the meaning for which Clyde & Co contend: (i) is it indeed the law, as held by the Court of Appeal in Cowell v Quilter & Goodison and Tiffin v Lester Aldridge LLP that a partner can never be an employee of the partnership; and (ii) if so, does the same reasoning which leads to that conclusion also lead to the conclusion that a partner can never be a worker for the partnership? Suffice it to say that Mr John Machell QC, for the interveners, Public Concern at Work, mounted a serious challenge to the rule against dual status.
+Ellis v Joseph Ellis was decided before section 82 of the Law of Property Act 1925 made it clear that a person could contract with himself and others.
+There are some contracts which a partner may make with the members of the partnership, such as lending them money or granting them a lease or a tenancy.
+So why should it be legally impossible to be employed, under either type of contract, by the partnership? This question raises two subsidiary questions: (a) whether such a relationship can arise from the terms of the partnership agreement itself (as apparently suggested by Lord Clarke at para 52 of his judgment), or (b) whether it can only arise by virtue of a separate contract between the partner and the partnership (a possibility kept open by Elias LJ in the Court of Appeal, see para 13 above).
+As it is not necessary for us to resolve any of these issues in order to decide this case, I express no opinion upon a question which is clearly of some complexity and difficulty. 30.
+Having reached the conclusion that section 4(4) of the 2000 Act does not operate so as to exclude the appellant from being a worker within the meaning of section 230(3)(b) of the 1996 Act, it is necessary to consider the more subtle analysis addressed in the Court of Appeal, that underlying the statutory definition of worker is the notion that one party has to be in a subordinate relationship to the other (para 71).
+Elias LJ would have been minded to hold that the member of an LLP would not by virtue of that status alone constitute either an employee or a worker (para 73).
+If by that he meant only that there are some members of an LLP who are purely investors and do not undertake personally to work for the LLP, then of course I would agree.
+But if by that he meant that those members who do so undertake (whether by virtue of the membership agreement or otherwise) cannot be workers, then I respectfully disagree. 31.
+As already seen, employment law distinguishes between three types of people: those employed under a contract of employment; those self employed people who are in business on their own account and undertake work for their clients or customers; and an intermediate class of workers who are self employed but do not fall within the second class.
+Discrimination law, on the other hand, while it includes a contract personally to do work within its definition of employment (see, now, Equality Act 2010, s 83(2)) does not include an express exception for those in business on their account who work for their clients or customers.
+But a similar qualification has been introduced by a different route. 32.
+In Allonby v Accrington and Rossendale College (Case C 256/01) [2004] ICR 1328, the European Court of Justice was concerned with whether a college lecturer who was ostensibly self employed could nevertheless be a worker for the purpose of an equal pay claim.
+The Court held, following Lawrie Blum v Land Baden Wurttemberg (Case C 66/85) [1987] ICR 483 that there must be considered as a worker a person who, for a certain period of time, performs services for and under the direction of another person in return for which he receives remuneration (para 67).
+However, such people were to be distinguished from independent providers of services who are not in a relationship of subordination with the person who receives the services (para 68).
+The concept of subordination was there introduced in order to distinguish the intermediate category from people who were dealing with clients or customers on their own account.
+It was used for the same purpose in the discrimination case of Jivraj v Hashwani. 33.
+We are dealing with the more precise wording of section 230(3)(b).
+English cases in the EAT have attempted to capture the essential distinction in a variety of ways.
+Thus in Byrne Bros (Formwork) Ltd v Baird [2002] ICR 667, Mr Recorder Underhill QC suggested, at para 17(4), that [t]he reason why employees are thought to need such protection is that they are in a subordinate and dependent position vis a vis their employers: the purpose of the Regulations is to extend protection to workers who are, substantively and economically, in the same position.
+Thus the essence of the intended distinction must be between, on the one hand, workers whose degree of dependence is essentially the same as that of employees and, on the other, contractors who have a sufficiently arms length and independent position to be treated as being able to look after themselves in the relevant respects.
+In Cotswold Developments Construction Ltd v Williams [2006] IRLR 181, 34.
+Langstaff J suggested, at para 53, that . a focus on whether the purported worker actively markets his services as an independent person to the world in general (a person who will thus have a client or customer) on the one hand, or whether he is recruited by the principal to work for that principal as an integral part of the principals operations, will in most cases demonstrate on which side of the line a given person falls. 35.
+In James v Redcats (Brands) Ltd [2007] ICR 1006, Elias J agreed that this would often assist in providing the answer but the difficult cases were those where the putative worker did not market her services at all (para 50).
+He also accepted, at para 48, that . in a general sense the degree of dependence is in large part what one is seeking to identify if employees are integrated into the business, workers may be described as semi detached and those conducting a business undertaking as detached but that must be assessed by a careful analysis of the contract itself.
+The fact that the individual may be in a subordinate position, both economically and substantively, is of itself of little assistance in defining the relevant boundary because a small business operation may be as economically dependent on the other contracting party, as is the self employed worker, particularly if it is a key or the only customer. 36.
+After looking at how the distinction had been introduced into the sex discrimination legislation, which contained a similarly wide definition of worker but without the reference to clients and customers, by reference to a dominant purpose test in Mirror Group Newspapers Ltd v Gunning [1986] ICR 145, he concluded, at para 59: . the dominant purpose test is really an attempt to identify the essential nature of the contract.
+Is it in essence to be located in the field of dependent work relationships, or is it in essence a contract between two independent business undertakings? .
+Its purpose is to distinguish between the concept of worker and the independent contractor who is on business in his own account, even if only in a small way. 37.
+The issue came before the Court of Appeal in Hospital Medical Group Ltd v Westwood [2012] EWCA Civ 1005, [2013] ICR 415, a case which was understandably not referred to in the Court of Appeal in this case; it was argued shortly before the hearing in this case, but judgment was delivered a few days afterwards.
+The Hospital Medical Group argued that Dr Westwood was in business on his own account as a doctor, in which he had three customers, the NHS for his services as a general practitioner, the Albany Clinic for whom he did transgender work, and the Hospital Medical Group for whom he performed hair restoration surgery.
+The Court of Appeal considered that these were three separate businesses, quite unrelated to one another, and that he was a class (b) worker in relation to the Hospital Medical Group. 38.
+Maurice Kay LJ pointed out (at para 18) that neither the Cotswold integration test nor the Redcats dominant purpose test purported to lay down a test of general application.
+In his view they were wise not to lay down a more prescriptive approach which would gloss the words of the statute.
+Judge Peter Clark in the EAT had taken the view that Dr Westwood was a limb (b) worker because he had agreed to provide his services as a hair restoration surgeon exclusively to HMG, he did not offer that service to the world in general, and he was recruited by HMG to work as an integral part of its operations.
+That was the right approach.
+The fact that Dr Westwood was in business on his own account was not conclusive because the definition also required that the other party to the contract was not his client or customer and HMG was neither.
+Maurice Kay LJ concluded, at para 19, by declining the suggestion that the Court might give some guidance as to a more uniform approach: I do not consider that there is a single key with which to unlock the words of the statute in every case.
+On the other hand, I agree with Langstaff J that his integration test will often be appropriate as it is here.
+For what it is worth, the Supreme Court refused permission to appeal in that case. 47.
+The issues in this appeal depend essentially upon the true construction of section 230(3)(b) of the Employment Rights Act 1996 (the ERA) and section 4(4) of the Limited Liability Partnerships Act 2000 (the LLPA).
+I agree with Lady Hale that, on the true construction of section 230(3)(b) of the ERA, construed without reference to the LLPA (if that were possible), the appellant could properly be described as a limb (b) worker because she would satisfy the terms of the sub section.
+In short, for the reasons given by Lady Hale, by the terms of the appellants contract with the respondent LLP (Clyde & Co), she undertook to perform personally certain work or services for it and its status was not by virtue of the contract that of a client or customer. 48.
+That question could not however have fallen for consideration before the LLPA came into effect because until then there was no such entity as an LLP.
+The status of a person working for an LLP must now be determined by reference both to the ERA and to the LLPA.
+As Lady Hale observes at para 10, the Court of Appeal held that the appellant could not be a worker for the purposes of section 230(3) of the ERA because of section 4(4) of the LLPA, which provides: A member of a limited liability partnership shall not be regarded for any purpose as employed by the limited liability partnership unless, if he and other members were partners in a partnership, he would be regarded for that purpose as employed by the partnership. 49.
+I appreciate that this is a minority view in this Court but it seems to me, as it has seemed to me throughout, that the effect of section 230(3) and (5) of the ERA and section 4(4) of the LLPA, read together, is that a person who is a limb (b) worker within section 230(3) is a person regarded for any purpose as employed by the LLP within section 4(4) of the LLPA.
+This is in part because of section 230(5) of the ERA, which provides: In this Act, employment (b) in relation to a worker, means employment under his contract; and employed shall be construed accordingly. 50.
+I entirely understand that at common law employment has traditionally had a narrow meaning and means, in effect employment under a contract of employment.
+However, under the ERA it has been given a wider meaning and extends to a limb (b) worker, who is by definition working under any other contract, that is any contract other than a contract of employment.
+There cannot I think be any doubt that the appellant was a member of an LLP.
+Moreover, for the reasons given by Lady Hale she was a worker within section 230(3)(b). 51.
+As I see it, the question is whether, on these facts, the appellant is being regarded for any purpose as employed by the limited liability partnership.
+I would answer that question in the affirmative because she is being so regarded by the express terms of section 230(5) of the ERA.
+I appreciate that section 230(5) defines the meaning of employment in this Act, that is the ERA but this to my mind a purpose which falls within the expression for any purpose in section 4(4). 52.
+If that were correct it would follow that, whether the appellant was employed as a worker by the LLP for the purposes of the ERA would depend upon whether if [she] and the other members were partners in a partnership [ie an 1890 Act partnership] [she] would be regarded for that purpose as employed by the partnership.
+This raises the question which Lady Hale describes at para 29 as of some complexity and difficulty.
+There is to my mind much to be said for the view that, if the appellant had been a partner in an 1890 Act partnership, she would now be treated as employed by the partnership, especially in the light of section 82 of the Law of Property Act 1925.
+As Lady Hale asks rhetorically, why should it be legally impossible to be employed, under either type of contract, by the partnership? If the answer to that question is that there is no good reason why the appellant 53. would not be regarded as employed by the partnership within the meaning of the last part of section 4(4) of the LLPA, so that section 4(4) does not prevent the appellant from being regarded for the purpose of the ERA as employed as a worker, the whole provision (as I see it) makes sense because its underlying purpose is, at any rate in this respect, to treat partners in both types of partnership in the same way. 54.
+Notwithstanding those points, the question remains, as Lady Hale says, of some complexity and difficulty.
+In these circumstances, it is desirable that it should be determined in a case in which it is necessary for it to be decided.
+That being the position, at any rate so long as I remain in the minority on the first point, it would be better for me to refrain from expressing an opinion on the second point.
+LORD CARNWATH 55.
+I agree that the appeal should be allowed for the reasons given by Lady Hale.
+I would emphasise that this conclusion turns on the special characteristics of a limited liability partnership, which is something of a hybrid as between a conventional 1890 Act partnership and a limited company.
+It does not necessarily have any direct relevance to the resolution of equivalent issues in relation to other forms of partnership, under English or Scottish law. 56.
+I would only add a short comment in relation to the alternative argument of Mr Machell QC, which Lady Hale found it unnecessary to address (para 29).
+This challenged the traditional view that a partner cannot be an employee of his own firm.
+That view is put in strong terms in the current (19th) edition of Lindley & Banks on Partnerships (2010).
+Commenting critically on the second part of section 4(4) of the Limited Liability Partnerships Act 2000, the editors say: Note that the drafting of this sub section is wholly defective Partnership and employment are, of course, mutually exclusive concepts and there are no circumstances under English law where a partner could be regarded as employed by his own firm. (para 2 40 n 145, their emphasis) That comment is cross referenced to a later paragraph headed Partner or Employee? (para 5.55) which discusses the criteria for deciding whether a salaried partner is to be regarded as a partner or an employee, and adds: What is certain is that if the salaried partner is held to be and treated as a partner in law, he cannot also be an employee in the firm.
+Cases referred to include Ellis v Joseph Ellis & Co [1905] 1 KB 324 and Cowell v Quilter Goodison Co Ltd [1989] IRLR 392, cited by Lady Hale (para 12). 57.
+As far as concerned English law, that was also the basis on which the Law Commissions proceeded in their recent review of Partnership Law, mentioned by Lady Hale.
+It does not appear to have been questioned by anyone during the consultation.
+As she notes (para 18 19), the Commissions recognised possible doubts as to whether that was also the position under Scots law.
+But they resolved them by recommending that, in both jurisdictions, a partnership should not be capable of engaging a partner as an employee (para 13.43; draft bill cl 7(4)). 58.
+Mr Machell relies in particular on section 82(1) of the Law of Property Act 1925 which provided: Any covenant, whether express or implied, or agreement entered into by a person with himself and one or more other persons shall be construed and be capable of being enforced in like manner as if the covenant or agreement had been entered into with the other person or persons alone.
+Of the cases cited by Lindley, he observes that Ellis was decided before the enactment of section 82(1), which as he puts it, abolished the two party rule; Cowell was a decision on its own facts.
+He offers no academic support for this submission.
+Nor does he explain how the point has apparently been overlooked for so long by practitioners and academics.
+By way of analogy, he asserts that a partnership can take a lease of premises owned by one or more of the partners, for which proposition he cites inter alia Rye v Rye [1962] AC 496 and, Lindley & Banks para 10.45. 59.
+Although I agree with Lady Hale that it is unnecessary for us to decide this issue, for my part I am currently unpersuaded by Mr Machells submissions.
+Whatever may be the position or legal analysis in respect of leases (on which the authorities to which he refers are not conclusive), section 82 does not assist him in the present context in my view.
+A contract treated as being between a particular partner and the other members of his firm may be effective in law for many practical purposes.
+But it cannot be equated with a contract between the partner and the firm as such, since each partner is an essential part of the firm.
+Furthermore, the reasoning of the Court of Appeal in Ellis v Joseph Ellis does not turn simply on the lack of capacity to contract.
+As Lord Collins MR said, the particular arrangements made in that case in relation to payment for work did not affect the workers relation to the other partners, which was that of co adventurers and not employees.
+In my view this was a statement of principle about the fundamental difference between the relationship of partners and that of employer and employee, a difference which is not bridged by section 82. 39.
+I agree with Maurice Kay LJ that there is not a single key to unlock the words of the statute in every case.
+There can be no substitute for applying the words of the statute to the facts of the individual case.
+There will be cases where that is not easy to do.
+But in my view they are not solved by adding some mystery ingredient of subordination to the concept of employee and worker.
+The experienced employment judges who have considered this problem have all recognised that there is no magic test other than the words of the statute themselves.
+As Elias J recognised in Redcats, a small business may be genuinely an independent business but be completely dependent upon and subordinate to the demands of a key customer (the position of those small factories making goods exclusively for the St Michael brand in the past comes to mind).
+Equally, as Maurice Kay LJ recognised in Westwood, one may be a professional person with a high degree of autonomy as to how the work is performed and more than one string to ones bow, and still be so closely integrated into the other partys operation as to fall within the definition.
+As the case of the controlling shareholder in a company who is also employed as chief executive shows, one can effectively be ones own boss and still be a worker.
+While subordination may sometimes be an aid to distinguishing workers from other self employed people, it is not a freestanding and universal characteristic of being a worker. 40.
+It is accepted that the appellant falls within the express words of section 230(3)(b).
+Judge Peter Clark held that she was a worker for essentially the same reasons that he held Dr Westwood to be a worker, that she could not market her services as a solicitor to anyone other than the LLP and was an integral part of their business.
+They were in no sense her client or customer.
+I agree.
+Human Rights 41.
+I have reached that conclusion without the help of the European Convention on Human Rights.
+But it may be worth noting that that conclusion is entirely consistent with the appellants rights under article 10, whereas a different conclusion would pose more problems.
+Article 10 provides for a qualified right to freedom of expression.
+In Heinisch v Germany [2011] IRLR 922, that right was held to extend to a geriatric nurse in a nursing home who reported her employers to the prosecuting authorities because of the understaffing.
+The European Court of Human Rights held that her dismissal without notice on the ground that she had lodged a whistleblowing complaint against her employer and the failure of the domestic courts to order her reinstatement had violated her rights under article 10.
+Her right to impart information could be restricted if this was in accordance with the law, pursued a legitimate aim (in this case to protect the rights and reputation of the employer), and was proportionate to that aim.
+The court considered a number of factors relevant to the proportionality calculation, bearing in mind the duty of loyalty owed by an employee to her employer.
+It was important to establish whether the employee was acting in good faith and had reasonable grounds for the complaint, whether the information disclosed was in the public interest, and whether there was any more discreet means of remedying the wrongdoing; proportionality also required a careful analysis of the severity of the penalty imposed upon the whistle blower and its consequences (see paras 62 to 70).
+Hence article 10 operates as a protection for whistle blowers who act responsibly. 42.
+In Heinisch, the court also recalled, at para 44, that article 10 applies to the workplace in general: Kudeshkina v Russia, Application no 29492/05, judgment of 26 February 2009 shows that a professional person such as a judge is entitled to the freedom to criticise the judicial system.
+It also applies when relations between employer and employee are governed by private law: the state has a positive obligation to protect it even in the sphere of relationships between private persons: see Fuentes Bobo v Spain (2000) 31 EHRR 1115. 43.
+Hence it is argued that, if the appellants claims as to the reasons for her dismissal are made good, it would be incompatible with her convention rights for the law to deny her a remedy.
+If the whistle blowing provisions of the 1996 Act apply to her, she would have such a remedy.
+Those provisions are consistent with the proportionality calculation carried out in Heinisch.
+The expectation is that disclosure will first be made to the employer or the person responsible for the wrong doing or to a prescribed regulator (see sections 43C, 43E, 43F).
+Disclosure may only be made to other persons in more limited circumstances (see sections 43G, 43H), for example where the worker reasonably believes that she will be subject to a detriment if she discloses to her employer, and it must be reasonable in all the circumstances of the case.
+If those provisions do not apply to the appellant, then it is difficult to see what other protection she would have, given that she is not entitled to protection from unfair dismissal.
+Hence it is our duty under section 3 of the Human Rights Act 1998 to interpret the 1996 Act so as to give her that protection. 44.
+This argument raises what might be a difficult question.
+Under section 3(1) of the Human Rights Act 1998, we have a duty to read and give effect to legislation in a way which is compatible with the convention rights (and this means that it may have a different meaning in this context from the meaning it has in others).
+While it is comparatively easy to see how this may be done in order to prevent the state from acting incompatibly with a persons convention rights, in other words, to respect the negative obligations of the state, it is a little more difficult to assess whether and when this is necessary in order to give effect to the positive obligations of the state and thus to afford one person a remedy against another person which she would not otherwise have had.
+It is at this point that the respondents argument that the 1996 Act gives better protection than is required under the Convention might be relevant. 45.
+Fortunately, however, as the appellant already has that protection under the 1996 Act as interpreted in a completely conventional way, it is not necessary for us to decide whether her convention rights would require and permit us to interpret it compatibly.
+Conclusion 46.
+In my view, the appellant clearly is a worker within the meaning of section 230(3)(b) of the Employment Rights Act 1996 and entitled to claim the protection of its whistle blowing provisions.
+That conclusion is to my mind entirely consistent with the underlying policy of those provisions, which some might think is particularly applicable to businesses and professions operating within the tightly regulated fields of financial and legal services.
+The appeal must be allowed and the case remitted to the employment tribunal to determine her claim under those provisions along with her sex discrimination claim.
+LORD CLARKE

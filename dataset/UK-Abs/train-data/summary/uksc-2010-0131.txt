@@ -1,0 +1,50 @@
+Scottish Widows Plc (Scottish Widows) is a life assurance company.
+It was established in 2000, when it acquired the business of Scottish Widows Fund and Life Assurance Society (the Society) under a scheme of transfer which had been approved by the Court of Session in Scotland.
+Scottish Widows acquired assets under the scheme which had an approximate value of 25bn, and it became subject to actuarial liabilities of approximately 19bn.
+Members of the Society received compensation of approximately 5.8bn, which represented the surplus of the Societys assets over its liabilities at the time of the transfer.
+The compensation was paid by Scottish Widows holding company, in return for the members of the Society giving up their right to participate in the surplus.
+The scheme provided that Scottish Widows was to establish and maintain a Long Term Business Fund (LTBF) to fund its long term insurance business.
+It also provided that there was to be a memorandum account within the LTBF, called the Capital Reserve.
+This was said to represent the value of shareholders capital within the LTBF.
+Life assurance companies are required to submit annual regulatory returns, in particular to demonstrate solvency.
+Various forms are prescribed for these returns.
+One these is known as Form 40, which is a revenue account in respect of the LTBF.
+In the years following transfer the value of the assets of Scottish Widows LTBF fell substantially, principally because of falls in the stock markets.
+To cover those losses and to allow for distributions to policyholders, Scottish Widows brought into account amounts on Form 40 for each of the accounting periods 2000, 2001 and 2002.
+These amounts were recorded in line 15 of the relevant Form 40s.
+They were described as transfers from the Capital Reserve.
+Section 83 Finance Act 1989 provides for certain sums to be brought into account in the computation of the profits of an insurance company in respect of its life assurance business for the purposes of corporation tax.
+In the terms that were in force between 2000 and 2003 section 83(2) provided that: [T]he following items, as brought into account for the period of account (and not otherwise), shall be taken into account as receipts of the period (a) the companys investment income from the assets of its long term business fund, and (b) any increase in value (whether realised or not) of those assets.
+Section 83(3)(a) made provision for ascertaining whether or to what extent a company had incurred a loss in respect of its life assurance business where an amount was added to an insurance companys long term business fund as part of or in connection with a transfer of business to that company.
+The Revenue maintained that the amounts to be brought into account as receipts for the computation of profits or losses for tax purposes under section 83(2)(b) or, in the alternative, under section 83(3)(a) were the amounts shown in line 15 on Form 40.
+It maintained that the reference to a difference in value as brought into account directed attention to the figures that had been entered on Form 40, not the market value of the assets of the LTBF.
+Scottish Widows argued that the words increase in value in section 83(2)(b) meant an increase in the actual value of actual assets, and that the words as brought into account were concerned with when the
+increase was brought into account, not the extent of the increase.
+Here the value of the assets of the LTBF had fallen during each of the relevant periods.
+So there was no increase which could be brought into account.
+The parties referred the question whether, in computing the Case I profit or loss of Scottish Widows for the accounting periods ending in 2000, 2001 and 2002, the amounts that fell to be taken into account as receipts to the Special Commissioners were the amounts shown in line 15 of Form 40.
+It was agreed that, if Scottish Widows argument that it is actual values and not those amounts that should be taken into account is correct, it will have allowable losses in respect of those years of 28.7m, 612.6m and 431.3m.
+The Special Commissioners answered the question in the affirmative.
+They held that, although the amounts shown on Form 40 were not to be brought into account by section 83(2), they were covered by section 83(3)(a).
+The Inner House unanimously dismissed the Revenues appeal against the decision on section 83(2) and by majority (Lord Emslie dissenting) dismissed Scottish Widows cross appeal against the decision in respect of section 83(3)(a).
+Scottish Widows appealed and the Revenue cross appealed.
+The Supreme Court unanimously allows the Revenues cross appeal and holds that the amounts that were to be taken into account as receipts by virtue of section 83(2) were the amounts shown on Form 40.
+It therefore answers the question that was referred to the Special Commissioners in the affirmative.
+Lord Hope and Lord Walker both give detailed judgments.
+Lady Hale and Lord Neuberger give shorter judgments, agreeing with each other and with Lord Hope and Lord Walker.
+Lord Clarke agrees with all of the judgments.
+Although the applicable statutory provisions had been amended on various occasions, it was not helpful to look at their legislative history.
+That should only be done where there is an interpretative difficulty which classical methods of construction cannot solve.
+The proper approach was to concentrate on the wording of sections 83(2) and (3)(a) as they were during the relevant accounting periods: [15], [73], [122] [124].
+Lord Walker analyses in detail the regulatory and taxation regime which applies to life assurance companies and the particular features of the demutualisation scheme so as to provide a backdrop to the statutory construction: [40] [71].
+There were two particularly important points.
+One was that when completing regulatory returns, book values could be used, and that an insurer enjoyed a certain freedom in determining what amount of its actuarial surplus to recognise in its returns: [82] [86].
+It was also particularly important to appreciate the nature of the Capital Reserve.
+It was not a fund of particular assets, separate from the LTBF, but was merely an accounting category recording an initial value within the LTBF: [87] [91] [101].
+The key to interpreting section 83(2) was the phrase as brought into account and, in particular, the use of the word as: [22], [76], [116], [125].
+This demonstrated that the computation must proceed on basis of what was actually entered on the appropriate regulatory account, in this case the form known as Form 40.
+It was important that, when completing its returns, an insurance company should be permitted to use book values: [20].
+The various arguments which were advanced in favour of Scottish Widows construction, based on general principles of interpreting tax legislation ([24] [26], [101] [102]), the statutory scheme and specific aspects of the drafting ([23], [107] [112]), fell to be rejected in the face of this clear statutory language.
+The Special Commissioners and, to some extent, the Court of Session had attached too much weight to the label Capital Reserve, which had led them to attach undue weight to the notion that capital gains ought not to be taxed under Schedule D, Case I: [26], [101].
+Given that the Court allows the Revenues cross appeal, a majority preferred to express no view on section 83(3)(a).
+Lord Hope indicated that, had it been necessary to decide the point, he would have held in agreement with the majority in the Inner House that the relevant amounts would have been covered by section 83(3)(a): [28] [31].

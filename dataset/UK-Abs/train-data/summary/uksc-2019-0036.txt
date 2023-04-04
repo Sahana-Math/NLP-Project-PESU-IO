@@ -1,0 +1,41 @@
+This case is about the relationship between (a) the adjudication regime for building disputes and (b) a rule of insolvency law called insolvency set off.
+Adjudication was introduced by Parliament in 1996 to help resolve disputes in the building industry.
+Parties to a construction contract have the right to refer their disputes to an independent adjudicator for a quick decision.
+The adjudicators decision is binding unless and until it is successfully challenged in court.
+In the meantime, the losing party must comply with the adjudicators decision a principle known as pay now, argue later which is designed to stop financial disputes from holding up the projects cash flow.
+Insolvency set off means that, when a company enters liquidation and there are mutual debts between the company and one of its creditors, the debts in each direction automatically cancel each other out.
+This leaves a single net balance owed in one direction.
+The liquidator of the company will calculate the balance and decide how much the company owes or is owed overall.
+The facts of the case Bresco and Lonsdale are electrical contractors.
+In 2014 Bresco carried out installation work for Lonsdale on a construction site at 6 St Jamess Square, London SW1.
+In 2016 Bresco entered insolvent liquidation.
+Both parties claimed they were owed money by the other.
+Lonsdale said Bresco had abandoned the project prematurely, forcing them to pay 325,000 for replacement contractors.
+Bresco said Lonsdale had never paid for some work Bresco had done, so Lonsdale owed 219,000 in unpaid fees plus damages for lost profits.
+In 2018 Brescos liquidators took steps to refer their 219,000 claim to an adjudicator.
+Lonsdale objected to the adjudication.
+They said Brescos claim (if any) and Lonsdales cross claim had cancelled each other out by the process of insolvency set off.
+This meant there was no longer any claim, or therefore any dispute under the contract, so adjudication was unavailable (the jurisdiction point).
+In any case the adjudicators decision would not be enforced until the liquidator calculated the net balance.
+So an adjudication was pointless (the futility point).
+Mr Justice Fraser accepted both Lonsdales points and granted an injunction to stop the adjudication.
+Following an appeal by Bresco, the Court of Appeal rejected the jurisdiction point but upheld the injunction on the basis of the futility point.
+Bresco appealed again to the Supreme Court.
+Lonsdale cross appealed on the jurisdiction point.
+The Supreme Court unanimously allows the appeal and dismisses Lonsdales cross appeal, with the result that the adjudication can go ahead.
+Lord Briggs gives the only judgment.
+(1) The jurisdiction point The Supreme Court concludes that the adjudicator does have jurisdiction.
+The insolvency set off between Brescos claim and Lonsdales cross claim does not mean that there is no longer a dispute under the construction contract, or that the claims have simply melted away [47].
+The claims maintained their separate identity for many purposes [29].
+Despite insolvency set off, Bresco could have brought court proceedings to determine the value of its claim, or exercised a contractual right to go to arbitration [50 51].
+It follows that Bresco could also refer its claim to adjudication [52]. (2) The futility point The Court of Appeal thought there was a basic incompatibility between adjudication and insolvency set off.
+If the adjudicator found in favour of Bresco, the courts would refuse to enforce the award because it would interfere with the insolvency process.
+The adjudication would not promote the goal of pay now, argue later: it was futile and a waste of resources [54 56].
+The Supreme Court rejects that view [58].
+Bresco has a statutory and contractual right to adjudication.
+It would ordinarily be inappropriate for the court to interfere with the exercise of that statutory and contractual right [59].
+Maintaining cash flow is not the only purpose of adjudication under the 1996 Act.
+Adjudication was designed to be a method of alternative dispute resolution (ADR) in its own right.
+In reality most decisions of an adjudicator are never challenged in court and they lead to a speedy, cost effective and final resolution of the dispute [13 15].
+Here an adjudication will be a simple, proportionate method for Brescos liquidators to determine the net balance [60 62].
+It is possible that the courts will not grant summary enforcement of the adjudicators decision due to the insolvency process, but that does not deprive the adjudication of its potential usefulness to the liquidators [64 67].

@@ -1,0 +1,43 @@
+This appeal concerns the scope of the exclusion in a marine insurance policy for loss caused by inherent vice in the subject matter insured.
+The oil rig Cendor MOPU had been laid up in Galveston, Texas.
+In May 2005, it was purchased by the Respondents for conversion into a mobile offshore production unit for use off the coast of Malaysia.
+The Respondents obtained insurance from the Appellant for carriage of the oil rig on a towed barge from Texas to Malaysia.
+The policy covered all risks of loss or damage to the subject matter insured except as provided in Clauses 4 .
+Clause 4.4 excluded loss, damage or expense caused by inherent vice or nature of the subject matter insured.
+The oil rig consisted of a platform and three legs extending down to the seabed.
+The legs were massive tubular structures, made of welded steel and cylindrically shaped, with a diameter of 12 feet and a length of 312 feet.
+Each weighed 404 tons.
+The rig was carried on the barge with its legs in place above the platform, so that the legs extended some 300 feet into the air.
+The tug and barge set off from Galveston in August 2005 and arrived at Saldanha Bay, just north of Cape Town, in October 2005 where some repairs were made to the legs.
+The voyage then resumed but on the evening of 4 November 2005 one leg broke off and fell into the sea.
+The following evening the other two legs fell off.
+The breakages were the result of metal fatigue caused by the motion of the waves.
+In addition, the impact of a leg breaking wave was required to generate the final fracture.
+The weather experienced on the voyage was within the range that could reasonably have been contemplated.
+The Respondents made a claim under the policy for the loss of the three legs.
+The Appellant rejected the claim and the matter came for trial before the Commercial Court.
+The Judge held that the proximate cause of the loss was the fact that the legs were not capable of withstanding the normal incidents of the insured voyage, including the weather reasonably to be expected.
+Therefore the cause was inherent vice within the meaning of Clause 4.4 and the Appellant was not liable.
+The Court of Appeal reversed the decision, holding that the proximate cause of the loss was an insured peril in the form of the leg breaking wave.
+The Appellant appealed to the Supreme Court.
+The Supreme Court unanimously dismisses the appeal.
+The Court finds that the cause of the loss was an insured peril rather than inherent vice.
+The issue before the Supreme Court was whether the proximate cause of the loss was an insured peril, in the form of the stresses put upon the oil rig by the height and direction of the waves encountered on the voyage, or inherent vice in the subject matter insured.
+The reason for the focus on the proximate cause is to be found in section 55 of the Marine Insurance Act 1906, which provides that an insurer is liable for any loss proximately caused by a peril insured against.
+The proximate cause is not the cause closest in time to the loss, but that which is proximate in efficiency.
+The 1906 Act also contains provision regarding inherent vice: section 55(2)(c) provides that an insurer is not liable for inherent vice in the subject matter insured.
+It was not suggested that the exception in Clause 4.4 for inherent vice bore any different meaning to that in the 1906 Act: [17] [23].
+The classic definition of inherent vice is that of Lord Diplock in Soya GmbH Mainz Kommanditgesellschaft v White [1983] 1 Lloyds Rep 122: It means the risk of deterioration of the goods shipped as a result of their natural behaviour in the ordinary course of the contemplated voyage without the intervention of any fortuitous external accident or casualty.
+The Supreme Court relied and expanded upon that definition.
+Lord Mance noted that the reference to the ordinary course of the contemplated voyage was not intended to embrace weather conditions foreseeable on such a voyage.
+Further, there is no apparent limitation in the qualification without the intervention of any fortuitous external accident or casualty.
+Thus anything that would otherwise count as a fortuitous external accident or casualty will suffice to prevent the loss being attributed to inherent vice: [80].
+The Supreme Court also emphasised that the question of the proximate cause is to be answered, as Bingham LJ noted in T M Noten BV v Harding [1990] Lloyds Rep 283, applying the common sense of a business or seafaring man: [19].
+Applying these principles, it was not possible to fit the facts of the current case into any normal conception of deterioration of the goods shipped as a result of their natural behaviour in the ordinary course of the contemplated voyage.
+The loss had many obvious characteristics which one would associate with a fortuitous marine accident or casualty and that was how it should be seen.
+In particular, the breaking of the legs was neither expected nor contemplated.
+It only occurred under the influence of a wave of a direction and strength catching the first leg right at the right moment, leading to increased stress on and collapse of the other two legs in turn: [46]; [65]; [84].
+The fact that the legs were not capable of withstanding the normal incidents of the insured voyage, in particular the weather reasonably to be expected, did not make inherent vice the proximate cause.
+If that were the case, the cover would only extend to loss or damage caused by perils of the sea that were exceptional, unforeseen or unforeseeable.
+That would frustrate the purpose of all risks cargo insurance, which is to provide an indemnity in respect of loss or damage caused by, among other things, all perils of the sea: [35].
+The Court therefore held that the proximate cause of the loss was a peril of the sea, for which the insurers were liable, and not inherent vice.

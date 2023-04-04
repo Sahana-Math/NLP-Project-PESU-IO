@@ -1,0 +1,53 @@
+On 6 December 2010 the Crown Prosecution Service applied to the Crown Court for restraint orders under section 41 of the Proceeds of Crime Act 2002 (POCA) against two individuals, and restraint and receivership orders (under section 48 POCA) against Eastenders Group.
+Eastenders Group, of which the individuals were the joint owners, was a holding company for a number of trading cash and carry retail outlets.
+These orders were sought because the CPS was conducting a covert investigation into a suspected fraud on HMRC, allegedly carried out through Eastenders Group companies.
+A POCA restraint order prevents named persons from dealing with their own assets until the order is discharged.
+A receivership order appoints a receiver to manage the assets of the company subject to the restraint order.
+The CPS sought to have Mr Barnes, a partner in a well known firm of accountants, appointed as Eastenders Groups receiver under a letter of agreement between the CPS and Mr Barnes.
+The letter of agreement suggested that Mr Barnes would be remunerated from Eastenders Group property.
+The restraint and receivership orders were made by the Crown Court judge after a short hearing.
+Mr Barnes was appointed and began to manage the Group.
+On 23 December 2010, the Eastenders Group sought to have its orders discharged, but the judge refused.
+The Group appealed to the Court of Appeal, heard on 25 January 2011.
+On 26 January 2011 the Court of Appeal quashed the orders over the Group.
+They held that the orders should never have been made: there was no good arguable case that the Group assets should be regarded as the individuals assets, and 95% of the business of the Group was demonstrably legitimate.
+However, during the period of the receivership, the receiver had incurred costs and expenses of 772,547.
+This included significant sums for site security, legal expenses and the receivers fees.
+The receiver applied to the Crown Court for permission to draw his remuneration and expenses from Eastenders Group assets.
+The application was refused by Underhill J, who held that requiring the companies to pay would breach the Groups right to peaceful enjoyment of its possessions under Article 1 of Protocol 1 to the European Convention on Human Rights (A1P1), and so would be unlawful under section 6 Human Rights Act 1998 (section 3 HRA 1998).
+He went on to hold that it was possible to interpret POCA (by section 3 HRA 1998) to give the court the power to require the CPS to pay the receivers remuneration and expenses.
+The CPS appealed to the Court of Appeal.
+The majority of the Court of Appeal upheld Underhill Js decision that the Groups rights under A1P1 would be infringed by an order entitling the receiver to draw his remuneration from its assets on the basis that the order was insufficiently foreseeable.
+Laws LJ, dissenting on that point, would have allowed the receiver to draw his remuneration from Eastenders assets.
+The Court was unanimous that there was no basis under POCA or the HRA 1998 for the CPS to be required to pay the receivers remuneration and expenses.
+The receiver appealed to the Supreme Court.
+The Supreme Court unanimously allows the receivers appeal (only) against the Court of Appeals refusal to have the CPS to pay the receivers remuneration and expenses.
+Lord Toulson gives the leading judgment, with a short concurrence by Lord Hughes dealing with the practical application of the courts decision.
+It is a general principle of the law of receivership that a court appointed receiver is entitled to remuneration from the assets of the administered company.
+That law is clear and foreseeable.
+However, where the administered company is not itself a defendant, nor at the time of the order was there any reasonable cause to regard its assets as the defendants, it would be a disproportionate interference with the companys A1P1 rights for the receivers remuneration to be drawn from the companys assets.
+However, to leave the receiver without a remedy would be to substitute one injustice for another and violate the receivers A1P1 rights.
+In this case the receiver and the CPS acted on a common assumption, fundamental to the agreement, that the receiver would be able to claim his remuneration and expenses from the Eastenders Group.
+That assumption failed: the receiver accordingly has a valid right to restitution from the CPS.
+It is an established principle of the common law of receivership that a court appointed receiver may draw his remuneration and expenses to the assets placed by the court in his/her control.
+The receiver has a lien over those assets for that purpose [44].
+That common law, together with the provisions of POCA and the Criminal Procedure Rules, provide amply clear and foreseeable authority for the making of such order, and Laws LJ was correct so to hold [83].
+The critical question in this case is not foreseeability, but proportionality.
+Would it be disproportionate to order that the Receivers expenses be drawn from the companies? [87].
+The taking of property without compensation is, in general, a disproportionate interference with A1P1 [88].
+In this case the Group were neither defendants nor (as the Court of Appeal found) was there any reasonable cause for regarding the Group assets as those of the defendants at the time when it was made [89], [125 130].
+Divesting the Group of its assets in that situation is disproportionate [94].
+It is as if the assets of an innocent defendant were sought to be used to cover the costs of detaining and prosecuting him or her [92].
+The Receivers application to recover his expenses from Eastenders Group therefore fails [96].
+However, that conclusion would leave the court in an invidious position, since to leave the Receiver without recompense would violate his A1P1 rights [96].
+The Receiver had, however, entered on his receivership pursuant to a letter of agreement with the CPS [98].
+It was the mutual expectation of both the Receiver and the CPS that the Receiver would have a legally enforceable lien over the receivership property [99].
+Unjust enrichment may cover a variety of situations.
+Failure of services at the request of another is capable of being regarded as enrichment, and it would be unjust if the receiver were not paid for the services which he provided [100 117].
+Hence the receiver has a claim in unjust enrichment against the CPS [117].
+The restraint and receivership orders were made in this case on an application at short notice.
+Applications by the CPS for such orders should be made as early as possible, with proper time estimates and reading lists, enabling the court to consider the necessary arrangements [118 119].
+The fact that such applications are made ex parte places a special burden of candour on the CPS and considerable responsibility upon the court [120].
+Failure to discharge the duty of candour could well be considered serious misconduct [121].
+The court should always consider such applications carefully: making such orders should never be a rubber stamping exercise.
+In certain cases, it could be appropriate to attach a Piggott condition to a receivership order providing that if property was shown not to be realisable property, the receivers costs should fall on the CPS [124].

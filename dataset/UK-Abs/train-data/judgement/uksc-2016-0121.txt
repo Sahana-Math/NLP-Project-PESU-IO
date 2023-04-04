@@ -1,0 +1,151 @@
+This case is about a credit reference negligently supplied by a bank for a person who subsequently defaulted.
+The facts are to that extent similar to those of Hedley Byrne & Co Ltd v Heller & Partners Ltd [1964] AC 465.
+But there is a critical difference.
+The reference was relied upon not by the party to whom it was addressed but by that partys undisclosed principal.
+The question at issue on this appeal is whether the bank is liable to the latter.
+In October 2010 Hassan Barakat wished to gamble at the London Playboy Club.
+He visited the club and applied for a cheque cashing facility for up to 800,000.
+Mr Barakat was a Lebanese resident and a well known figure at a casino in Lebanon.
+But he had only once played at the London club.
+Playboy Clubs policy for gamblers like him was to require a credit reference from his bankers for twice the amount of the facility, ie 1.6m.
+But in order to avoid disclosing the purpose of the credit facility, the Clubs practice was not itself to ask its customers bank for the reference.
+Instead, it arranged for an associated company called Burlington Street Services Ltd to do so without disclosing the purpose of the inquiry or the fact that the reference was required for the benefit of another company.
+Mr Barakat completed a written application for the cheque cashing facility, naming his bankers as Banca Nazionale del Lavoro in Reggio Emilia, Italy (BNL).
+A Status Enquiry Request was completed.
+It was written on Burlingtons printed letterhead and addressed to the relevant branch of BNL.
+The operative part of the request read: We request your opinion as to the means and standing of Hassan Barakat [details follow] and his/her trustworthiness to meet a financial commitment to the extent of 1,600,000 at any one time.
+Mr Barakat signed the form of authority at the foot of the printed form.
+The operative part of the authority was in the following terms: I, Hassan Barakat, hereby consent to BNL BNP Paribas Bank providing a reference on me to Burlington Services Ltd. The request was then sent to the Clubs bankers, National Westminster Bank, who forwarded it to BNL under cover of a letter beginning: We enclose a request on behalf of Burlington Street Services Ltd, who would be glad of your opinion on the character and standing of Hassan Barakat.
+The reply from BNL, faxed on 13 October 2010, was addressed to Burlington c/o National Westminster Bank.
+It confirmed that Mr Barakat had an account with them and that he was trustworthy up to 1,600,000 in any one week.
+It added: This information is given in strict confidential (sic).
+In reliance on the reference, the Club granted the cheque cashing facility on 13 October 2010 and shortly afterwards increased it to 1.25m.
+Over four days from 15 to 18 October Mr Barakat played at the club.
+He drew two cheques on BNL for a total of 1.25m in return for gaming chips of the same amount.
+His net winnings were 427,400, which the Club paid out to him.
+He then returned to Lebanon and was not seen again at the Club.
+Both cheques were returned unpaid.
+Including gaming duty, the Club suffered a total net loss of 802,940.
+It is common ground that BNL had no reasonable basis for their reference.
+It held no account for Mr Barakat until two days after the reference was sent, when an account was opened in his name which had a nil balance until it was closed on 14 December 2010.
+The Playboy Club, Burlington and another associated company subsequently began these proceedings against BNL.
+It is common ground that of the three claimants the Club is the only party with an interest, neither of the others having suffered any loss.
+The trial judge (His Honour Judge Mackie QC) said that BNL owed a duty of care in relation to its reference to the Club [2014] EWHC 2613 (QB).
+The Court of Appeal disagreed.
+They held that the only duty was owed to Burlington, to whom the reference was addressed [2016] 1 WLR 3169.
+The decision of the House of Lords in Hedley Byrne & Co Ltd v Heller & Partners Ltd was a landmark in the development of the law of tort.
+Contrary to the ordinary rule as it had previously been understood, it allowed the recovery of a purely economic loss in negligence where the existence of a special relationship between claimant and defendant made this appropriate.
+The facts were that Hedley Byrne asked its bank, National Provincial Bank, to obtain a credit reference for a company wishing to place advertising contracts through it.
+The companys bank, Heller & Partners, supplied the reference to National Provincial.
+The Appellate Committee inferred as a matter of fact that Heller & Partners must have appreciated that National Provincial was not acting for its own account but wanted the reference for a client intending to do business with Hellers client, even though they did not know who that client was: see, in particular, pp 482 (Lord Reid), 493 494 (Lord Morris of Borth y Gest), 530 (Lord Devlin).
+The ratio of the decision was that the reasonable reliance of Hedley Byrne on the reference, combined with Heller & Partners appreciation of the fact that they would reasonably rely on it, gave rise to a direct relationship between them involving a duty of care.
+All five members of the Appellate Committee gave reasoned judgments, but Lord Devlins analysis has generally been treated in the subsequent case law as most clearly expressing the reasoning.
+At pp 529 530, Lord Devlin, said this: I have had the advantage of reading all the opinions prepared by your Lordships and of studying the terms which your Lordships have framed by way of definition of the sort of relationship which gives rise to a responsibility towards those who act upon information or advice and so creates a duty of care towards them It is a responsibility that is voluntarily accepted or undertaken, either generally where a general relationship, such as that of solicitor and client or banker and customer, is created, or specifically in relation to a particular transaction.
+Responsibility can attach only to the single act, that is, the giving of the reference, and only if the doing of that act implied a voluntary undertaking to assume responsibility.
+This is a point of great importance because it is, as I understand it, the foundation for the ground on which in the end the House dismisses the appeal .
+I do not go further than this for two reasons.
+The first is that I have found in the speech of Lord Shaw in Nocton v Lord Ashburton and in the idea of a relationship that is equivalent to contract all that is necessary to cover the situation that arises in this case All that was lacking was formal consideration I shall therefore content myself with the proposition that wherever there is a relationship equivalent to contract, there is a duty of care.
+Such a relationship may be either general or particular.
+Examples of a general relationship are those of solicitor and client and of banker and customer There may well be others yet to be established.
+Where there is a general relationship of this sort, it is unnecessary to do more than prove its existence and the duty follows.
+Where, as in the present case, what is relied on is a particular relationship created ad hoc, it will be necessary to examine the particular facts to see whether there is an express or implied undertaking of responsibility.
+The principle thus established is capable of development.
+Indeed it has undergone considerable development since 1964, for example to cover omissions and the negligent performance of services.
+But these have been incremental changes within a consistent framework of principle.
+One area in which the courts have resisted expanding the scope of liability concerns the person or category of persons to whom the duty is owed.
+The defendants voluntary assumption of responsibility remains the foundation of this area of law, as this court recently confirmed after a full review of the later authorities in NRAM Ltd (formerly NRAM plc) v Steel [2018] 1 WLR 1190, paras 18 24 (Lord Wilson JSC).
+It is fundamental to this way of analysing the duty that the defendant is assuming a responsibility to an identifiable (although not necessarily identified) person or group of persons, and not to the world at large or to a wholly indeterminate group.
+In Caparo Industries plc v Dickman [1990] 2 AC 605, the Appellate Committee held that foreseeability, although it was a necessary condition for liability, was not necessarily a sufficient one.
+The foundation of the duty is proximity, which may require more than the mere foreseeability of reliance.
+The problem before the Appellate Committee was to identify the outer limits of the class of persons whose reliance on a statement could properly be said to give rise to a sufficiently proximate relationship.
+They found the relevant limiting factors in the defendants knowledge of (i) the person known to be likely to rely on the statement, and (ii) the transaction in respect of which he was known to be likely to rely on.
+After reviewing the authorities supporting a duty of care for negligent statements, both before and after Hedley Byrne, Lord Bridge (with whom Lord Roskill, Lord Ackner and Lord Oliver agreed), summarised the position as follows at pp 620 621: The salient feature of all these cases is that the defendant giving advice or information was fully aware of the nature of the transaction which the plaintiff had in contemplation, knew that the advice or information would be communicated to him directly or indirectly and knew that it was very likely that the plaintiff would rely on that advice or information in deciding whether or not to engage in the transaction in contemplation.
+In these circumstances the defendant could clearly be expected, subject always to the effect of any disclaimer of responsibility, specifically to anticipate that the plaintiff would rely on the advice or information given by the defendant for the very purpose for which he did in the event rely on it.
+So also the plaintiff, subject again to the effect of any disclaimer, would in that situation reasonably suppose that he was entitled to rely on the advice or information communicated to him for the very purpose for which he required it.
+The situation is entirely different where a statement is put into more or less general circulation and may foreseeably be relied on by strangers to the maker of the statement for any one of a variety of different purposes which the maker of the statement has no specific reason to anticipate.
+To hold the maker of the statement to be under a duty of care in respect of the accuracy of the statement to all and sundry for any purpose for which they may choose to rely on it is not only to subject him, in the classic words of Cardozo CJ to liability in an indeterminate amount for an indeterminate time to an indeterminate class: see Ultramares Corpn v Touche (1931) 174 N.E. 441, 444; it is also to confer on the world at large a quite unwarranted entitlement to appropriate for their own purposes the benefit of the expert knowledge or professional expertise attributed to the maker of the statement.
+Hence, looking only at the circumstances of these decided cases where a duty of care in respect of negligent statements has been held to exist, I should expect to find that the limit or control mechanism imposed upon the liability of a wrongdoer towards those who have suffered economic damage in consequence of his negligence rested in the necessity to prove, in this category of the tort of negligence, as an essential ingredient of the proximity between the plaintiff and the defendant, that the defendant knew that his statement would be communicated to the plaintiff, either as an individual or as a member of an identifiable class, specifically in connection with a particular transaction or transactions of a particular kind (eg in a prospectus inviting investment) and that the plaintiff would be very likely to rely on it for the purpose of deciding whether or not to enter upon that transaction or upon a transaction of that kind.
+In support of that analysis, Lord Bridge adopted the celebrated dissenting judgment of Denning LJ in Candler v Crane, Christmas & Co [1951] 2 KB 164 on the persons to whom an auditor owed a duty of care in respect of his audit report.
+At pp 180, 182, 184, Denning LJ had said: To whom do these professional people owe this duty? I will take accountants, but the same reasoning applies to the others.
+They owe the duty, of course, to their employer or client; and also I think to any third person to whom they themselves show the accounts, or to whom they know their employer is going to show the accounts, so as to induce him to invest money or take some other action on them.
+But I do not think the duty can be extended still further so as to include strangers of whom they have heard nothing and to whom their employer without their knowledge may choose to show their accounts.
+Once the accountants have handed their accounts to their employer they are not, as a rule, responsible for what he does with them without their knowledge or consent The test of proximity in these cases is: did the accountants know that the accounts were required for submission to the plaintiff and use by him? To what transactions does the duty of care extend? It extends, I think, only to those transactions for which the accountants knew their accounts were required My conclusion is that a duty to use care in statement is recognised by English law, and that its recognition does not create any dangerous precedent when it is remembered that it is limited in respect of the persons by whom and to whom it is owed and the transactions to which it applies.
+In his concurring judgment, Lord Oliver, at p 638, identified the circumstances in which a duty of care may typically be held to exist as follows: (1) the advice is required for a purpose, whether particularly specified or generally described, which is made known, either actually or inferentially, to the adviser at the time when the advice is given; (2) the adviser knows, either actually or inferentially, that his advice will be communicated to the advisee, either specifically or as a member of an ascertainable class, in order that it should be used by the advisee for that purpose; (3) it is known either actually or inferentially, that the advice so communicated is likely to be acted upon by the advisee for that purpose without independent inquiry, and (4) it is so acted upon by the advisee to his detriment.
+The defendants knowledge of the transaction in respect of which the statement is made is potentially relevant for three purposes: (i) to identify some specific person or group of persons to whom he can be said to assume responsibility; (ii) to demonstrate that the claimants reliance on the statement will be financially significant; and (iii) to limit the degree of responsibility which the defendant is taken to assume if no financial limit is expressly mentioned.
+We are presently concerned with its significance for the first of these purposes, which will vary according to what is known about the person or group expected to rely on the statement.
+Thus in Hedley Byrne itself, the defendant understood that the statement would be relied on by the unidentified, but readily identifiable, client on whose behalf National Provincial Bank was known to be making the inquiry.
+It was enough that the proposed transaction was said to be an advertising contract for 8,000 to 9,000.
+It would probably have been enough even if the transaction had not been identified as an advertising contract but simply as some kind of business transaction.
+For Lord Morris, for example, it was enough that the person contemplated was some one who was contemplating doing business with Easipower Ltd: see pp 493 494.
+In Caparo on the other hand, where the persons said to have been entitled to rely on the defendants audit report were any potential bidder for the auditors client, the absence of a specific transaction in the defendants contemplation assumed decisive significance.
+Mr Salzedo QC, who appeared for the Playboy Club, accepted that there was no evidence that BNL knew that its reference would be communicated to or relied on by anyone other than Burlington.
+He also accepted that in the ordinary course where a statement is relied upon by B to whom A has passed it on, the representor owes no duty to B unless he knew that the statement was likely to be communicated to B.
+That concession was plainly justified.
+I would go further and say that the representor must not only know that the statement is likely to be communicated to and relied upon by B. It must also be part of the statements known purpose that it should be communicated and relied upon by B, if the representor is to be taken to assume responsibility to B. Mr Salzedos submission was that the present case was different because the Club was Burlingtons undisclosed principal.
+He submitted that the relationship between BNL and the Club was, in Lord Devlins phrase, equivalent to contract because in contract the Club would have been entitled to declare itself and assume the benefit of the contract.
+This is an ingenious argument, but in my opinion it is fallacious.
+The rule of English law that an undisclosed principal may declare himself and enter upon a contract is an anomalous legacy of eighteenth and nineteenth century jurisprudence, which survives in the modern law on account of its antiquity rather than its coherence.
+The law on the point was summarised by Lord Lloyd of Berwick in Siu Yin Kwan v Eastern Insurance Co Ltd [1994] 2 AC 199, 207: (1) An undisclosed principal may sue and be sued on a contract made by an agent on his behalf, acting within the scope of his actual authority. (2) In entering into the contract, the agent must intend to act on the principals behalf. (3) The agent of an undisclosed principal may also sue and be sued on the contract. (4) Any defence which the third party may have against the agent is available against his principal. (5) The terms of the contract may, expressly or by implication, exclude the principals right to sue, and his liability to be sued.
+To this I would add that the third party must irrevocably elect whether to sue the agent or the undisclosed principal.
+The first problem about the appellants argument is that it assumes that because a relationship equivalent to contract is generally sufficiently proximate to found a duty of care, it must follow that the legal incidents of a contractual relationship are imported into it.
+This is a non sequitur.
+The expression equivalent to contract originates in the speech of Lord Shaw in Nocton v Lord Ashburton [1914] AC 932, 971 972.
+He used it to describe any kind of relationship which gave rise to a duty to give information or advice, and hence to liability for giving it negligently.
+The phrase was adopted by Lord Devlin in Hedley Byrne, at pp 528 529, and has passed into common currency: see in particular Smith v Bush [1990] 1 AC 831, 846 (Lord Templeman), Henderson v Merrett Syndicates Ltd [1995] 2 AC 145, 181 (Lord Goff), Spring v Guardian Assurance plc [1995] 2 AC 296, 324 (Lord Goff).
+It serves (i) as an allegory of proximity, to describe a case where a service is performed for a person pursuant to a relationship which would be contractual if there were consideration passing from that person; and (ii) as an explanation of why it is appropriate to award a purely economic loss as damages for negligence in the course of such a relationship.
+But it does not follow from the fact that a non contractual relationship between two parties is as proximate as a contractual relationship, that it is legally the same as a contractual relationship or involves all of the same legal incidents.
+Secondly, the relationship between a person dealing with another and the latters undisclosed principal is not at all analogous to the kind of relationship which will give rise to a duty of care.
+Whether a relationship is sufficiently proximate to give rise to a duty of care is essentially a question of fact from which the law draws certain conclusions.
+The liability of a contracting party to his counterpartys undisclosed principal, however, is not a legal conclusion from any factual relationship between them.
+It is a purely legal construct.
+The whole point about the law relating to undisclosed principals is that a person may be brought into contractual relations with some one with whom he has no factual relationship at all.
+As Lord Lloyd of Berwick observed in Siu Yin Kwan v Eastern Insurance Co Ltd [1994] 2 AC 199, 207F G, the doctrine runs counter to fundamental principles of privity of contract.
+Such a relationship is by definition not proximate.
+Nor is it in any relevant sense voluntary or consensual so as to give rise to an assumption of responsibility.
+It has none of the features which were held in Caparo to be necessary to bring the claimant into proximity with the defendant.
+Thirdly, the appellants submission would require one to import into the law of tort just one aspect of the law relating to undisclosed principals.
+But in fact the law in this area is a complex bundle of interrelated rights and liabilities most of which are entirely inapposite to the law of tort.
+The relationship between A and Bs undisclosed principal may not be consensual, but it is at least mutual.
+The I would dismiss the appeal. undisclosed principal may not only sue but be sued on the contract.
+A may elect to sue the agent.
+If A is sued by the undisclosed principal, he may take any defences which would have been available to him as against B. But in the absence of a true contract there would be no corresponding mutuality in tort.
+It is impossible to feel much sympathy for BNL given the circumstances in which they came to give a favourable credit reference for some one with whom they appear to have had no relevant dealings.
+But they had no reason to suppose that Burlington was acting for some one else, and they knew nothing of the Playboy Club.
+In those circumstances, it is plain that they did not voluntarily assume any responsibility to the Club.
+It may well be, since they knew nothing of Burlington either, that they were indifferent to whom they were dealing with.
+But the fact that a representor may have been equally willing to assume a duty to some one else does not mean that he can be treated as if he had done so.
+LORD MANCE:
+I agree with the judgment which has been prepared by Lord Sumption.
+But one can, as he observes in para 16, have little sympathy for BNL; and the Club has suffered significant loss in undoubted reliance on BNLs negligent misrepresentation of Mr Barakats trustworthiness.
+In these circumstances, I think that there are one or two points worth examining further in order to identify precisely why the Clubs claim nevertheless fails.
+BNL was prepared to make an unconditional representation of credit worthiness without knowing anything about Burlington Street Services Ltd (Burlington).
+And all it knew about the context was, in Burlingtons words, that Burlington was seeking its opinion as to the means and standing of Hassan Barakat and his trustworthiness to meet a financial commitment to the extent of [1.6m] at any one time, or, in the words of NatWest, passing on Burlingtons request, its opinion of the character and standing of Hassan Barakat and trustworthiness in the way of business to the extent of [1.6m] at any one time.
+In response, BNL, without further enquiry, represented that Mr Barakat was trustworthy to the extent of 1.6m in any one week, adding This information is given in strict confidential [sic].
+Passages can be found in authority where courts have used language suggesting that, for a duty of care to arise in tort in respect of a representation, (a) not only must the claimant be a specific person or within a group to whom responsibility may be said to have been undertaken, but (b) the purpose for which the representation is required must be specifically in connection with a particular transaction or transactions of a particular kind or must, whether particularly specified or generally described, be made known, either actually or inferentially, to the representor: see eg per Lord Bridge and Lord Oliver in Caparo Industries plc v Dickman [1990] 2 AC 605, 620 621 and 638, cited by Lord Sumption in his paras 8 and 9.
+BNL has argued that the Clubs claim must fail because it satisfies neither of the elements (a) and (b) suggested by these passages.
+The Court of Appeal [2016] 1 WLR 3169 focused on element (a), although two sentences in para 19 of Longmore LJs judgment may also indicate that the Court saw the claim as failing because neither element was satisfied.
+Longmore LJ said in particular: In the present case the customer was identified by name as Burlington and the true purpose of the reference (for a gambling club) was not revealed.
+In these circumstances there cannot, to my mind, be an assumption of responsibility to the Club (rather than to Burlington) or indeed a responsibility for its use by the Club in trusting Mr Barakat in his gambling activities (a purpose of which the Bank was unaware).
+I do not consider that this claim should fail for want of communication of the purpose or kind of purpose for which an assessment of trustworthiness was required.
+Had Burlington been the operator of the gambling club and suffered the loss, it should have succeeded.
+On the face of it, BNL was prepared, without further enquiry, to take the open risk of exposure to the tune of up to 1.6m in any one week whatever financial commitment or business to that tune was intended.
+There is no reason in principle why a duty of care should not arise in relation to so unspecific a purpose, provided (as is here clear) that the representation was requested and given in terms showing that it was intended to be and would be relied on.
+The decision in Caparo does not exclude liability on this basis.
+Caparo turned on the statutory purpose of an audit being to enable shareholders to exercise their class rights in general meeting, rather than to enable individual shareholders to buy more shares in the company (unless of course the auditors specifically agreed to extend the use of their audit report to such a use).
+The only contrary argument regarding purpose has to be that gambling is so unusual and risky a financial commitment in Burlingtons terms, or business in NatWests terms, that it must be excluded from what was objectively and reasonably covered by the representation sought and made.
+But many other high risk businesses other than gambling can be contemplated, eg trading in derivatives or on margin.
+BNL was evidently prepared to take the risk of all or any of these.
+So I would not be inclined to accept that argument, in a context where the bank showed absolutely no interest in the nature of the proposed commitment(s) or the level of risk involved.
+I would therefore dismiss the claim only because element (a) is not satisfied.
+The representation was directed simply and solely to Burlington.
+It is true that, so far as appears, BNL was probably as uninterested in Burlington and its identity as it was in the nature and purpose of the intended financial commitment.
+But the representation was, objectively, requested by Burlington alone and, objectively, confined in its making to Burlington.
+To my mind, this consideration is strengthened by the notation This information is given in strict confidential in BNLs representation mail.
+Had the representation been made, expressly or impliedly, for the benefit of an unnamed (rather than an entirely undisclosed) principal or client of Burlington, the case would have paralleled Hedley Byrne & Co Ltd v Heller & Partners Ltd [1964] AC 465, and the claim should then have succeeded.
+Had it been made, expressly or impliedly, for the benefit of any principal or client of Burlington, to which Burlington might make it available, the same would have applied.
+BNL would then have undertaken an open exposure, as it did in my view in relation to the purpose for which the representation as to trustworthiness was sought.
+I agree with Lord Sumptions disposal of the ingenious and well presented submission that, as the Club could have intervened to rely on the representation had consideration been furnished for it to BNL, so the Court should recognise the existence for tortious purposes of a relationship akin to contract, in the absence of any consideration.
+The right of an undisclosed principal to intervene in contract is not easy to rationalise, but it does not rest or bear on proximity for tortious purposes.
+It is true that it follows from this that contributory fault will not be available as a response to a claim by an undisclosed principal relying on a representation for which consideration has been given since there will be no concurrency of contractual and tortious liability: see Vesta v Butcher [1989] AC 852, CA.
+But the oddity here is again, if anything, the existence of the right to intervene, or the limitations of the Law Reform (Contributory Negligence) Act 1945, not the absence of a relationship of duty of care.
+For these reasons, additional to those given by Lord Sumption, and tempting though the thought is that BNL is very lucky to avoid liability to the Club, I agree that the appeal falls to be dismissed.

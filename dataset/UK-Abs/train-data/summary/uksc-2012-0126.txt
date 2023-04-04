@@ -1,0 +1,29 @@
+In May 2010 Mr Mark Irvine made requests under the Freedom of Information (Scotland) Act 2002 (FOISA) to the appellant, South Lanarkshire Council (the Council), for information about the number (but not the identity) of its employees in a particular post at particular points on the Councils pay scales.
+His purpose was to investigate whether the appellants pay gradings favoured work traditionally done by men.
+The Council refused his request on the ground that to comply with it would contravene the Data Protection Act 1998 (DPA).
+Information is exempt from disclosure under the FOISA if it constitutes personal data under the DPA and disclosure would contravene any of the data protection principles in that act.
+The DPA provides that personal data should not be processed unless at least one of the conditions set out in Schedule 2 is met.
+The relevant condition, condition 6, would be satisfied if disclosure were necessary for the purposes of legitimate interests pursued by Mr Irvine, except where it would be unwarranted by reason of prejudice to the rights and freedoms of the data subjects.
+Mr Irvine complained to the respondent, the Scottish Information Commissioner (the Commissioner), who investigated and then held that the Council should disclose the information Mr Irvine sought.
+The Council appealed against this ruling to the Inner House of the Court of Session, alleging in addition that the Commissioner acted in breach of natural justice by failing to disclose to the Council certain communications sought and received by him in the course of his investigation.
+The appeal was dismissed and the Council pursued a further appeal on both issues to the Supreme Court.
+The Supreme Court unanimously dismisses the appeal.
+It holds that the Commissioner was entitled to reach his conclusion that disclosure of the information should be given by the Council to Mr Irvine, and that there had been no breach of the rules of natural justice when the Commissioner did not copy the correspondence to the Council.
+Lady Hale gives the only judgment.
+The right to the disclosure of information under the FOISA did not trump the provisions of the DPA, which continued to protect the right to privacy with respect to the processing of personal data [6 7].
+The conditions in Schedule 2 of the DPA applied to any kind of operation performed on personal
+The word necessary was used in several of the conditions and likely to have the same meaning throughout.
+Interpretation of this word had to be capable of applying equally well with each of the situations envisaged in the conditions, some of which involved compliance with legal obligations [8].
+Condition 6 required three questions to be answered in relation to Mr Irvines request [18]: (i) Was Mr Irvine pursuing a legitimate interest or interests? (ii) Was the processing of the personal data necessary for the purposes of those interests? (iii) Was the processing unwarranted in this case by reason of prejudice to the rights and freedoms or legitimate interests of the employees? The European Court of Justice (ECJ) had confirmed that Council Directive 95/46/EC (to which the DPA gives effect in the United Kingdom), insofar as it governs the processing of personal data which is likely to infringe fundamental freedoms, in particular the right to privacy, should be interpreted in the light of fundamental rights.
+National legislation which was incompatible with the right to privacy secured by Article 8 of the European Convention on Human Rights would not satisfy the requirements of the Directive [20 22].
+The concept of necessity had its own independent meaning, although the ECJ had not supplied a definition.
+The Council argued on the appeal that there was a strict test of necessity and that questions of proportionality only came into other aspects of the conditions [23].
+The Supreme Court agreed that the word necessary had to be considered in relation to the processing to which it relates, but condition 6 had a counterbalance with the rights and interests of the data subjects built into it and it might not matter where the proportionality requirements of Article 8(2) were considered as long as the overall result was compliant with them [25].
+In this case, where the identity of the employees would not be revealed, it was difficult to see how there would be any interference with their rights to privacy and it was enough to apply condition 6 in its own terms [26].
+It was well established in community law that, in the context of justification, necessary meant reasonably rather than absolutely or strictly necessary.
+It formed part of the proportionality test and any measure which interfered with a right protected by community law must be the least restrictive for the achievement of a legitimate aim [27].
+The Commissioner, in applying a proportionality approach to the meaning of necessary in condition 6, had adopted a test which was probably more favourable to the Council than was required and certainly no less favourable.
+It was quite clear that he was entitled to reach the conclusion that he did [28].
+On the second aspect of the appeal, it was common ground that the Commissioner had a duty to act fairly, especially as the sole finder of facts.
+He was entitled to make his own inquiries and obliged to give notice to the public authority from which disclosure of information was being sought under the FOISA of any new material elicited by his inquiries which was adverse to its interests [29 31].
+In this case the material contained in the correspondence generated by the Commissioners enquiries was already known to the Council and it was not a breach of the rules of natural justice for the Commissioner to refrain from copying it to the Council [32 33].

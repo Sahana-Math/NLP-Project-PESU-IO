@@ -1,0 +1,160 @@
+The issue that arises on this appeal is whether the Financial Services Authority (the FSA) has power to prosecute offences of money laundering contrary to sections 327 and 328 of the Proceeds of Crime Act 2002 (POCA).
+The appellant contends that the FSAs powers to prosecute criminal offences are limited to the offences referred to in sections 401 and 402 of the Financial Services and Markets Act 2000 as amended (FSMA), which do not include offences under POCA.
+The Court of Appeal (Richards LJ, Irwin J and HH Judge Baker QC) held that the FSAs powers were not limited in that way and that it had the power to bring prosecutions in respect of other offences.
+The appellant faces charges for (i) offences of insider dealing contrary to section 52 of the Criminal Justice Act 1993 and (ii) offences of money laundering contrary to sections 327 and 328 of POCA.
+The former offences relate to the sale of shares in a company by which he was employed.
+The latter relate to the transfer of part of the proceeds of the sale from his bank account to a bank account in his fathers name.
+He does not challenge the FSAs power to prosecute the insider dealing offences, since this is expressly provided for by section 402(1) of FSMA.
+But he does challenge the FSAs power to prosecute the money laundering offences, since this is not provided for by section 402(1) of FSMA.
+The FSA
+The FSA is a company limited by guarantee.
+It was incorporated in June 1985 under the name of The Securities and Investments Board (the SIB).
+Its name was changed to the FSA in October 1997.
+The April 2000 version of its memorandum and articles of association, reflecting various amendments since the original incorporation of the company as the SIB, expressed the companys objects and powers in broad terms.
+For example, by clause 3(A)(i)(a) of the memorandum its objects included to promote and maintain high standards of integrity and fair dealing in the carrying on of investment business, deposit taking business, insurance business, business carried on by building societies, friendly societies, industrial and provident societies and credit unions and the provision of other financial services.
+More specifically, but without prejudice to the generality of paragraph (i), by clause 3(A)(ii)(a) its objects included to do anything with a view to or arising in connection with the transfer to the Company of all or any of the functions to which section 114 of the Financial Services Act 1986 applies or the vesting in the Company of powers or functions pursuant to any other law or any regulation from time to time having effect in any part of the United Kingdom.
+As to powers, clause 3(B) provided as follows: With respect to the foregoing objects the powers of the Company shall include (but not be limited to) powers to do any of the following where the directors of the Company consider the same to be incidental or conducive to the objects of the Company: . (vi) to institute legal or arbitration proceedings or itself to establish and operate procedures for the settlement of disputes.
+In February 2001, following the enactment of FSMA, clause 3 was
+amended and simplified.
+In its amended form it reads: The Authoritys objects are: (A) to carry out any functions conferred on the Authority by or under any provision of any legislation, as amended from time to time, and to carry out such other functions or exercise such powers as, from time to time, may be carried out or exercisable by the Authority; (B) to carry out any other function or exercise any other power as may, in the Authoritys view, assist or enable it to carry out the functions and powers referred to above or which the Authority considers incidental, desirable or expedient.
+The relevant provisions of FSMA (as amended)
+So far as material, FSMA (as amended) provides: 1.
+The Financial Services Authority 2.
+The Authoritys general duties (1) The body corporate known as the Financial Services Authority (the Authority) is to have the functions conferred on it by or under this Act. (2) The Authority must comply with the requirements as to its constitution set out in Schedule 1. (3) Schedule 1 also makes provision about the status of the Authority and the exercise of certain of its functions. (4) Section 249 of the Banking Act 2009 provides for references to functions of the Authority (whether generally or under this Act) to include references to functions conferred on the Authority by that Act (subject to any order under that section). (1) In discharging its general functions the Authority must, so far as is reasonably possible, act in a way (a) which is compatible with the regulatory objectives; and (b) which the Authority considers most appropriate for the purpose of meeting those objectives. (2) The regulatory objectives are (a) market confidence; (ab) financial stability; (b) public awareness; (c) the protection of consumers; and (d) the reduction of financial crime. 401.
+Proceedings for offences (1) In this section offence means an offence under this Act or subordinate legislation made under this Act. (2) Proceedings for an offence may be instituted in England and Wales only (a) by the Authority or the Secretary of State; or (b) by or with the consent of the Director of Public Prosecutions. (3) Proceedings for an offence may be instituted in Northern Ireland only (a) by the Authority or the Secretary of State; or (b) by or with the consent of the Director of Public Prosecutions for Northern Ireland. (4) Except in Scotland, proceedings for an offence under section 203 may also be instituted by the Office of Fair Trading. (5) In exercising its power to institute proceedings for an offence, the Authority must comply with any conditions or restrictions imposed in writing by the Treasury. 402.
+Power of the Authority to institute proceedings for certain other offences (6) Conditions or restrictions may be imposed under subsection (5) in relation to (a) proceedings generally; or (b) such proceedings, or categories of proceedings, as the Treasury may direct. (1) Except in Scotland, the Authority may institute proceedings for an offence under (a) Part V of the Criminal Justice Act 1993 (insider dealing); (b) prescribed regulations relating to money laundering; or (c) Schedule 7 to the Counter Terrorism Act 2008 (terrorist financing or money laundering). (2) In exercising its power to institute proceedings for any such offence, the Authority must comply with any conditions or restrictions imposed in writing by the Treasury. (3) Conditions or restrictions may be imposed under subsection (2) in relation to (a) proceedings generally; or (b) such proceedings or categories of proceedings, as the Treasury may direct.
+The FSAs powers to prosecute before the enactment of FSMA
+The central submission of Mr Miskin QC is that sections 1(1), 401 and 402 of FSMA provide a complete code within which the FSA must operate and that its only powers to prosecute are those referred to in sections 401 and 402.
+As we shall explain, before the enactment of FSMA the FSA could initiate criminal proceedings for any offence which fell within its objects as defined by its memorandum and articles of association, subject to any restriction or condition that was imposed by the statute which created the offence.
+Every person has the right to bring a private prosecution: see, for example Gouriet v Union of Post Office Workers [1978] AC 435, 497H per Lord Diplock.
+The right to bring private prosecutions has been expressly preserved by section 6 of the Prosecution of Offences Act 1985 which provides: (1) Subject to subsection (2) below, nothing in this Part shall preclude any person from instituting any criminal proceedings or conducting any criminal proceedings to which the Directors duty to take over the conduct of proceedings does not apply.
+Nothing in section 6(1) excludes bodies corporate from the definition of any person.
+A corporation may therefore bring a prosecution provided that it is permitted to do so by the instrument that gives it the power to act.
+As Lord Mance noted in Jones v Whalley [2007] 1 AC 67 at para 38, private prosecutions may be initiated by private bodies such as high street stores, by charities such as NSPCC and RSPCA, or by private individuals.
+In Broadmoor Special Health Authority v Robinson [2000] QB 775 at para 25, Lord Woolf MR said: The statutes only rarely provide expressly that a particular public body may institute proceedings in protection of specific public interests.
+It is usually a matter of implication.
+If a public body is given responsibility for performing public functions in a particular area of activity, then usually it will be implicit that it is entitled to bring proceedings seeking the assistance of the courts in protecting its special interests in the performance of those functions.
+In R (Hunt) v Criminal Cases Review Commission [2001] QB 1108 at para 20, Lord Woolf CJ said in relation to the common law power of the Inland Revenue Commissioners to bring prosecutions: Great importance has always been attached to the ability of an ordinary member of the public to prosecute in respect of breaches of the criminal law.
+If an ordinary member of the public can bring proceedings for breaches of the criminal law, it would be surprising if the Inland Revenue were not in a similar position.
+The general position, therefore, is that the FSA has always been able to bring any prosecution subject to statutory restrictions and conditions and provided that it is permitted to do so by its memorandum and articles of association.
+Most statutes which create offences do not specify who may prosecute or on what conditions.
+Typically, they simply state that a person who is guilty of the offence in question shall be liable to a specified maximum penalty, it being assumed that anybody may bring the prosecution.
+Examples of this technique of statutory drafting are to be found in the provisions of POCA which are in play in the present case.
+Section 327(1) provides that a person commits an offence if he (a) conceals criminal property; (b) disguises criminal property etc.
+Section 328 provides that a person commits an offence if he enters into or becomes concerned in an arrangement which .
+A person guilty of an offence under section 327 or 328 is liable to the maximum penalties specified in section 334.
+It follows that before the enactment of FSMA, the FSA could have prosecuted the appellant for offences contrary to sections 327 and 328 of POCA, if POCA had been in force at that time.
+But some statutes specify who may prosecute and impose restrictions and conditions on their power to prosecute.
+These are often statutes which create technical or financial offences.
+An example of such a statute which affected the FSA before FSMA was enacted was the Financial Services Act 1986.
+Section 201(1) of that Act provided that proceedings in respect of an offence under any provision of that Act (other than section 133 or 185) should not be instituted in England and Wales except by or with the consent of the Secretary of State or the Director of Public Prosecutions (DPP).
+Section 114 provided that the Secretary of State could transfer certain functions to other bodies.
+Section 201(4) provided that these functions included the institution of proceedings but any transfer of that function shall be subject to a reservation that it is to be exercisable by him concurrently with the designated authority and so as to be exercisable by the agency subject to such conditions or restrictions as the [Secretary of State] may from time to time impose.
+By article 7 of the Financial Services Act 1986 (Designation) Order 1987, the function of the Secretary of State under section 201(1) of the 1986 Act to institute proceedings with respect to any offence specified in Schedule 3 to the Order was transferred to the SIB subject to a reservation that it is to be exercisable by the Secretary of State concurrently with the [SIB] and so as to be exercisable by the [SIB] subject to such conditions or restrictions as the Secretary of State may from time to time impose.
+The general position before the enactment of FSMA was that the FSA had the power of a private individual to prosecute provided that this fell within the scope of its objects and prosecution was not precluded or restricted by the terms of the relevant statute.
+It is against that background that the true construction of FSMA falls to be considered.
+The particular question that arises is whether the effect of sections 1(1), 401 and 402(1) was to deprive the FSA of the general power it previously enjoyed to bring prosecutions and confine it to the power to bring prosecutions falling within sections 401 and 402(1).
+The true construction of FSMA
+Section 401 deals with the prosecution of offences under FSMA itself or any subordinate legislation made under it.
+Section 401(2) provides that proceedings for such an offence may be instituted in England and Wales only by the FSA or the Secretary of State or by or with the consent of the Director of Public Prosecutions.
+We agree with the Court of Appeal that the purpose of this provision is not to confer the power to prosecute, but to limit the persons who may prosecute for such offences.
+If the statute had not specified who could prosecute, then any individual could have prosecuted as could any corporate body, provided that it was authorised by its constitution to do so.
+As for section 402(1), Mr Miskin submits that it defines exhaustively the other offences which the FSA may prosecute.
+If that is not its purpose, he asks: what is its purpose?
+Before we turn to the detail of section 402, it is legitimate to ask why Parliament should have intended to deprive the FSA (but no one else) of the power it previously enjoyed to bring prosecutions for offences other than those mentioned in sections 401 and 402.
+Mr Miskin was unable to identify any policy reason why Parliament should have intended to do this.
+No mischief has been identified which required such action.
+Far from there being any reason why Parliament would have intended to remove from the FSA a power to prosecute which it previously enjoyed, there are reasons internal to FSMA itself which suggest that Parliament would not have intended to deprive the FSA of the power to prosecute for offences of financial crime (of which sections 327 and 328 of POCA are examples).
+One of the functions of the FSA is, so far as is reasonably practicable, to act in a way which it considers most appropriate for the purpose of meeting the regulatory objectives which include the reduction of financial crime: see section 2 of FSMA.
+One of the ways that the FSA might reasonably consider that this objective can be met is by prosecuting those who commit offences of a financial nature.
+It would have been perverse of Parliament to impose on the FSA the general duties set out in section 2 of FSMA and yet at the same time deprive it of the power it previously enjoyed to prosecute financial offences.
+It would have been even more perverse not to remove the power to bring prosecutions for offences (other than those under FSMA and its subordinate legislation itself) from anyone else, including private individuals.
+It is most unlikely that Parliament would have intended to create such a regime.
+Further, if the power of the FSA is limited to the prosecution of offences under sections 401 and 402 then, as Mr Perry QC points out, there are consequences which it is unlikely that Parliament intended.
+For example, it means that, if in the course of its investigations, the FSA discovers evidence which would support a prosecution under section 401 or 402 of FSMA and a prosecution for other offences, it has to refer the question whether to prosecute those other offences to the DPP.
+This is a most inefficient and unsatisfactory way of prosecuting crime.
+It also means that, if the evidence given at trial does not support a count on the indictment which is being prosecuted by the FSA, but it does support a different offence which ex hypothesi the FSA cannot prosecute, an application for leave to amend the indictment to add a new count to reflect the evidence cannot be made by the FSA, even though a prosecutor would ordinarily make such an application.
+Parliament cannot have intended to create such an absurd state of affairs.
+Finally, it also means that the FSA cannot prosecute an offence of conspiracy to commit offences under FSMA, since the offence of conspiracy, whether under section 1 of the Criminal Law Act 1977 or at common law, falls outside the powers of prosecution expressly conferred by sections 401 and 402.
+As to this last point, Mr Miskin responds that the substantive offence of insider dealing may be committed by encouraging another to deal or disclosing information to another: see section 52(2) of the Criminal Justice Act 1993.
+But a conspiracy to deal is different from encouraging another to deal or disclosing information to another, not least because it may be committed at an earlier stage of the enterprise.
+Mr Miskin also makes the point that offences under the prescribed regulations relating to money laundering (section 402(1)(b)), Schedule 7 to the Counter Terrorism Act 2008 (section 402(1)(c)) and under FSMA and its subordinate legislation (section 401(1)) are all conduct offences or regulatory compliance offences.
+But that does not mean that it is impossible for one person to conspire with another to commit such an offence.
+In these circumstances, it is unlikely that Parliament would have intended to restrict the power of the FSA to the prosecution of the offences mentioned in sections 401 and 402.
+The technique usually employed by the legislature to indicate an intention to limit the class of persons who may prosecute a particular offence is the obvious one of stating expressly that a particular offence may only be prosecuted by a specified person or persons.
+That is the technique that was employed in section 401(2).
+It is striking that it was not employed in section 402(1).
+Other forms of words are sometimes used, but to the same effect.
+Thus section 66(1) of the Industrial and Provident Societies Act 1965 provides that proceedings for the recovery of a fine which is recoverable under that Act on summary conviction may be instituted by the persons specified (these include the FSA) and (except in Scotland) no other person may institute such proceedings.
+Another example is to be found in section 96(5) of the Banking Act 1987 which provides that no proceedings for an offence under that Act shall be instituted in England and Wales except by or with the consent of the Director of Public Prosecutions or the Bank.
+There is no such provision in FSMA excluding the power of the FSA to prosecute offences which are not mentioned in section 401 or 402.
+So what purpose is served by section 402(1)? It is necessary to consider each paragraph separately.
+In order to understand the reason for section 402(1)(a), regard must be had to section 61 of the Criminal Justice Act 1993 which provides for penalties and prosecutions in relation to the offence of insider dealing.
+Section 61(1) specifies the maximum penalties that may be imposed.
+Section 61(2) provides that proceedings for offences under this Part shall not be instituted in England and Wales except by or with the consent of the Secretary of State or the DPP.
+The effect of section 402(1)(a) and (2) in relation to prosecutions for insider dealing by the FSA is twofold.
+First, where a prosecution for the offence is instituted by the FSA, the need for the consent of the Secretary of State or DPP is dispensed with.
+It was correctly held by the Divisional Court in R (Uberoi and another) v City of Westminster Magistrates Court [2009] 1 WLR 1905 at para 29 that the effect of section 402(1)(a) is that the FSA can prosecute offences of insider dealing without first obtaining consent of the Secretary of State or the DPP.
+Sir Anthony May P reached this conclusion by construing may institute in section 402(1) as having the same meaning as may be instituted by in section 401(2).
+But the better view is simply that the effect of the plain language of section 402(1)(a) is to dispense with the requirement for consent imposed by section 61(2) of the 1993 Act.
+Secondly, in prosecuting for this (and any other offence under section 402(1)), the FSA must comply with any conditions or restrictions imposed in writing by the Treasury.
+As regards section 402(1)(b), it is true that its purpose is not to dispense with the need for the consent of the Secretary of State or the DPP.
+It is also true that the Money Laundering Regulations 1993 (SI 1993/1933) which, by the Financial Services and Markets Act 2000 (Regulations Relating to Money Laundering) Regulations 2001 (SI 2000/1819), were prescribed regulations for the purposes of section 402(1)(b) of FSMA, contained no restriction on who could prosecute offences created by those regulations and imposed no requirement that the consent of the Secretary of State or the DPP be obtained for such a prosecution.
+But section 402(1)(b) envisaged that there might be other prescribed regulations in the future and it provided in advance that the FSA would have the power to prosecute offences under those regulations.
+Indeed, the Money Laundering Regulations 2007 (SI 2007/2157), which came into force on 15 December 2007, were such prescribed regulations.
+Regulation 45 of these regulations created the offences of failing to comply with the requirements specified in various of the regulations.
+Regulation 46(1) provided that proceedings for an offence under regulation 45 may be instituted by a number of specified persons or bodies.
+These did not include the FSA, no doubt because section 402(1)(b) had already conferred that power on the FSA.
+But perhaps the main reason for section 402(1)(b) is that in this way Parliament ensured that any prosecution by the FSA of offences under the prescribed regulations relating to money laundering would be subject to the conditions and restrictions imposed by the Treasury.
+Section 402(1)(c) was inserted by paragraph 33(4) to Schedule 7 to the Counter Terrorism Act 2008.
+Paragraph 33(1) provides that proceedings for an offence under Schedule 7 may be instituted in England and Wales only by and there follows a list of five bodies including the FSA and the DPP.
+It is true, therefore, that there was no need to state in section 402(1) of FSMA (by amendment) that the FSA has the power to institute proceedings for an offence under Schedule 7 to the 2008 Act.
+This is not, however, the only place in FSMA where, oddly, one finds a cross reference to and statement of the effect of the provision of another statute: see section 1(4).
+But section 402(1)(c) also serves the important purpose of ensuring that any prosecution for offences under Schedule 7 to the 2008 Act is subject to the conditions and restrictions imposed by the Treasury.
+It follows that there are rational reasons for the inclusion in FSMA of section 402(1)(a), (b) and (c).
+There is no need to infer that Parliament must have intended to limit the FSAs power to the prosecution of the offences stated in those three paragraphs on the ground that there is no other explanation for their inclusion in the statute.
+In support of their view that FSMA did not provide a complete code, the Court of Appeal relied on section 1(4) of the Act: see para 20 of their judgment.
+They said that section 1(4), which refers in the context of the Banking Act 2009 to functions of the FSA whether generally or under this Act contemplates that the FSA has wider functions than those under FSMA.
+Mr Miskin submits that the Court of Appeal placed undue weight on the wording of section 1(4) as an aid to the construction of FSMA, since it was a later amendment introduced by the Banking Act 2009 and, in the absence of clear language, section 1(4) cannot widen the functions of the FSA if they were otherwise limited.
+We consider that at most section 1(4) is consistent with what we consider to be the true meaning and effect of sections 401 and 402.
+If it stood alone, it would not carry any weight.
+But there is a yet further reason why the complete code theory must be rejected.
+The effect of the Financial Services and Markets Act (Mutual Societies) Order 2001/2617 was to confer on the FSA powers (including the power to prosecute) previously enjoyed by other bodies.
+Examples are the power to prosecute for the recovery of a fine under section 66(1) of the Industrial and Provident Societies Act 1965; the power to take proceedings under section 111 of the Building Societies Act 1986; and the power to take proceedings under section 107 of the Friendly Societies Act 1992.
+The way this was done by the 2001 Order was to amend the earlier legislation by substituting the FSA for the body previously designated as the prosecuting authority.
+Thus, for example, para 190 of Schedule 3 to the 2001 Order provided that in section 111 of the Building Societies Act 1986 the FSA was substituted for the Commission.
+It did not provide that the power to prosecute conferred by these statutes was now deemed to be conferred by FSMA.
+It follows that the powers of the FSA under these statutes were not derived from FSMA and were not treated as being so derived.
+It is clear, therefore, that sections 401 and 402 do not exhaustively define the prosecutorial powers of the FSA.
+The force of this point is not weakened by the fact that there are provisions in other enactments on which Mr Miskin relies which provide that functions performed by the FSA under those other statutes are deemed to be performed under FSMA.
+For example, section 15(2) of the Insolvency Act 2000 provides that For the purposes of the Financial Services and Markets Act 2000, the functions conferred on the Financial Services Authority by virtue of Schedules 1 and 2 are to be treated as conferred by that Act.
+Other examples are para 38 of Schedule 11 to POCA and para 41(1) of Schedule 7 to the Counter Terrorism Act 2008.
+The latter provides that the functions of the FSA under this Schedule shall be treated for the purposes of Parts 1, 2 and 4 of Schedule 1 to the Financial Services and Markets Act 2000. as if they were functions conferred on the FSA under that Act.
+It is only if all functions performed by the FSA under other statutes were deemed to be performed under FSMA that these deeming provisions could be relied on in support of the argument that sections 401 and 402 create a complete code.
+But as has been seen, that is not the case.
+We should briefly refer to some of the other arguments advanced by Mr Miskin.
+He relies on paras 710 to 713 of the Explanatory Notes to FSMA which, we are prepared to accept, arguably suggest that the draftsman of the Notes believed that section 401 and 402 provides an exhaustive code.
+Para 712 states that section 402 allows the Authority to prosecute in England, Wales or Northern Ireland two criminal offences which are not in this Act (section 402(1)(c) was added in 2008).
+It is unnecessary to dwell on this point.
+The Notes, prepared by the Treasury, indicate the intention and belief of the Treasury.
+They cannot be relied on to determine the intention of Parliament: see R (Westminster City Council) v National Asylum Support Service [2002] 1 WLR 2956 per Lord Steyn at para 6.
+Mr Miskin also relies on section 1(1) as showing that the FSAs functions are limited to those conferred by FSMA.
+He submits that, unless it is so construed, the subsection is superfluous, since no purpose is served by providing that the functions conferred on the FSA by FSMA are the functions of the FSA.
+This is a weak argument as arguments based on superfluity usually are.
+But section 1(1) is not superfluous.
+Its purpose is to make clear at the outset that it is the FSA, rather than any other person or body, who is to have the functions that are conferred on it by FSMA.
+It neither states nor implies that the FSA is to have only those functions conferred on it by FSMA.
+As has been seen, the FSA unquestionably has other functions too.
+The next argument is that there is a symmetry between the FSAs prosecutorial powers contained in sections 401 and 402 and its investigative powers under Part XI, for example its powers to require information of authorised persons (section 167); its power to appoint persons to carry out investigations in particular cases (section 168); its power to require any person to attend and provide information or documents and to provide assistance (section 173); and to obtain warrants for entry of premises on a failure to comply with information requirements etc (section 176).
+It is also submitted that there is a symmetry between the FSAs prosecutorial powers in sections 401 and 402 and its powers under Part XXV to seek injunctions and restitution.
+It is said that all these particular powers, tailored to the offences in sections 401 and 402, support the complete code interpretation.
+But in the light of all the other factors which we have mentioned, it is impossible to infer from the inclusion of these powers that Parliament intended that the FSAs power to prosecute should be limited to offences under sections 401 and 402.
+As the Court of Appeal said at para 32, the right of private prosecution does not depend on the enjoyment of corresponding powers of investigation, and it will frequently be the case that a private prosecutor lacks relevant statutory powers of investigation.
+The fact that the FSA does not have statutory powers of investigation in relation to offences under POCA tells one nothing about its power to prosecute those offences.
+It is also to be noted that, in so far as FSMA applies to Scotland, the FSA has the powers of investigation but the Lord Advocate prosecutes the offences referred to in sections 401 and 402.
+Thus, there is no symmetry in Scotland.
+This provides further support for the view that the lack of symmetry in England and Wales is of no significance.
+Finally, Mr Miskin advanced, albeit faintly, the argument that a prosecution of offences contrary to sections 327 and 328 of POCA fell outside the objects of the FSAs memorandum and articles of association.
+But in view of the wide language of clause 3 of the amended memorandum of association and the general duties of the FSA imposed by section 2 of FSMA, this argument is hopeless.
+Overall conclusion
+For all these reasons, we would hold that the FSA has the power to prosecute offences of money laundering contrary to sections 327 and 328 of POCA.

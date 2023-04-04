@@ -1,0 +1,735 @@
+The underlying claim in this appeal arises out of a series of contracts between the appellant, Taurus Petroleum Ltd (Taurus), a Swiss domiciled oil trading company, and the respondent, State Oil Marketing Company of Iraq (SOMO), for the sale of crude oil and LPG.
+Disputes arose between the parties which were referred to UNCITRAL arbitration in accordance with the contracts.
+Although the seat of the arbitration was Baghdad, by agreement all hearings took place in London before Mr Ian Hunter QC as sole arbitrator.
+It was nevertheless agreed that the seat remained in Baghdad.
+In due course a partial final award was made on 23 October 2012 and a final award was made on 13 February 2013, whereby SOMO was ordered to pay Taurus US$8,716,477.
+SOMO declined to honour the award and has paid nothing towards it, save that the debt has been reduced by set off of orders for costs made in favour of SOMO at first instance and in the Court of Appeal in these proceedings.
+SOMO made an application to set aside the partial final award before the Iraqi courts on the basis that it was not fair and failed to recognise justice.
+The application was dismissed by a judgment of the Iraqi court dated 27 December 2012 on the ground that the application was premature because the partial final award did not deal with all the issues between the parties and because neither SOMO nor Taurus had asked the Iraqi court to ratify the award.
+Since then, neither SOMO nor Taurus has taken steps to have either award ratified in Iraq and SOMO has made no further challenge to either award in the Iraqi courts.
+Taurus is now seeking to enforce the award in England.
+The issue in these proceedings is whether Taurus is entitled to enforce the award or judgment by means of a combination of third party debt orders and/or receivership orders to recover moneys owed to Taurus.
+Under CPR 72 it is the pre requisite to the making of a third party debt order that there should be a debt due or accruing due to the judgment debtor from the third party.
+I can take the underlying facts from the judgment of Moore Bick LJ in the Court of Appeal: [2015] EWCA Civ 835; [2016] 2 All ER Comm 1037.
+Taurus learned that a company in the Shell group (in the event Shell International Eastern Trading Co) had purchased two parcels of crude oil from SOMO, the price of which was to be paid under letters of credit issued by the London branch of the French bank Crdit Agricole SA (Crdit Agricole).
+Taurus applied to the High Court without notice for leave to enforce the award as a judgment under section 66(1) of the Arbitration Act 1966, for an interim third party debt order and for the appointment of a receiver in respect of the funds receivable by SOMO under the letters of credit.
+On 11, 13 and 22 March 2013 the High Court made orders in those terms and on 22 March 2013 Crdit Agricole paid the sum of US$9,404,764.08 into court.
+SOMO has not challenged the order under section 66(1) or the courts jurisdiction to make it.
+SOMO did however challenge the other orders.
+It originally did so principally on the grounds of want of jurisdiction and state immunity but also on the true construction of the letters of credit.
+In summary, each of the letters of credit provided for payment to be made in New York to the Iraq Oil Proceeds Account at the Federal Reserve Bank of New York and each contained a separate promise on the part of Crdit Agricole in favour of the Central Bank of Iraq (CBI) to make payment in that way.
+SOMO contended that the debts created by the letters of credit were therefore situated in New York and that the High Court had no jurisdiction to make third party debt orders in respect of them.
+SOMO also argued that the debts were the property of the Republic of Iraq and were therefore immune from execution.
+On 18 November 2013 Field J ([2014] 1 All ER (Comm) 942) held that the debts were situated in London rather than New York and that SOMO was a separate entity from the state of Iraq and did not contract as its agent.
+As a result, if the debts under the letters of credit had been owed to SOMO alone, they would not have been immune from execution.
+However, each letter of credit contained a single joint promise in favour of SOMO and CBI and thus a joint debt in respect of which the court could not make a third party debt order.
+He also held that the debts, being the property of CBI as the Central Bank, were in any event immune from execution under sections 13(2) and 14(4) of the State Immunity Act 1978.
+He therefore set aside the interim third party debt orders and the receivership orders.
+He also granted permission to appeal and ordered a stay of execution.
+Both parties appealed to the Court of Appeal, comprising Moore Bick, Sullivan and Briggs LJJ.
+They dismissed the appeals and the cross appeal on 28 July 2015, albeit (as explained below) in some respects for different reasons.
+The Court of Appeal made the same orders as the judge but refused permission to appeal.
+Permission to appeal to this Court was subsequently granted by Lord Neuberger, Lord Toulson and Lord Hodge.
+The international background
+As Moore Bick LJ, who gave the leading judgment, explained, as was well known, in 2003 the United Nations Security Council passed a Resolution imposing sanctions on Iraq under which the proceeds of sales of oil by Iraq were to be paid into an account held by CBI at the Federal Reserve Bank in New York designated the Oil Proceeds Receipts Account.
+The bulk (95%) of receipts was to be used for development within Iraq; the balance (5%) was to be used to provide reparations to Kuwait.
+By 2011 the formal requirements of the sanctions regime had been relaxed in relation to the use of funds for the benefit of Iraq, but the government of Iraq decided to continue the existing arrangements under which it used the Oil Proceeds Receipts Account to receive the proceeds of export sales of oil and gas from which 95% would be transferred to a separate account in the name of CBI and 5% would continue to be paid into the UN compensation fund for Kuwait.
+The decision was confirmed by a Note Verbale dated 29 April 2011.
+The letters of credit construction
+It is convenient to consider first the construction of the letters of credit, an issue which divided the Court of Appeal.
+It was submitted by Mr Pollock QC on behalf of Taurus that letters of credit are intended to be self contained, in the sense that they stand apart from the commercial transactions which they are intended to support and must therefore be construed in accordance with their terms without taking into account the wider background.
+For that reason, he argued, the arrangements made by Iraq for receiving and disposing of its oil revenues were of no relevance to the construction of these letters of credit.
+Moore Bick LJ said (in para 5) that in his view that approach was broadly correct.
+Although a bank must carefully assess the creditworthiness of its own customer before agreeing to open a letter of credit at its request, the actual process of doing so is essentially mechanical.
+The terms of the credit are likely to be determined largely, if not entirely, by the seller and will be communicated by the buyer to its bank.
+The bank in its turn will then issue the credit in the terms required, undertaking a liability to the beneficiary against which it will seek an indemnity from its customer.
+Moore Bick LJ added that one should therefore be very cautious before construing letters of credit by reference to extraneous circumstances of the kind he described and there was no evidence before the court of the extent to which those engaged in financing the trade in Iraqi oil were or were not generally aware of the arrangements to which he had referred.
+Moore Bick LJ further added that in those circumstances he was not persuaded that they provide any assistance in construing the letters of credit, the terms of which were prescribed by the standard form of sale contract used by SOMO.
+I agree.
+Each of the letters of credit was issued by Crdit Agricole in London and was sent in the form of a telex (as Moore Bick LJ put it) typical of this kind of business.
+It was addressed to CBI and provided, so far as material, as follows: Please advise our following irrevocable documentary credit to Oil Marketing Company (SOMO) after adding your confirmation.
+Our reference GBRM300017 We hereby establish our irrevocable documentary letter of credit Number GBRM3000017 By order of: [Shell] In favour of: Oil Marketing Company (SOMO).
+For a maximum amount of USD Expiry: 20 April 2013 at the counters of Central Bank of Iraq, Baghdad.
+This letter of credit is available by deferred payment at thirty (30) days from bill of lading date against presentation not later than 20 April 2013 of the following documents at the counters of the Central Bank of Iraq, Baghdad for negotiation.
+SOMOs duly signed original commercial invoice This letter of credit is not assignable and not transferable.
+All banking charges within Iraq are for beneficiarys account whereas all charges outside Iraq are for applicants account. [A] Provided all terms and conditions of this letter of credit are complied with, proceeds of this letter of credit will be irrevocably paid in to your account with Federal Reserve Bank New York, with reference to Iraq Oil Proceeds Account.
+These instructions will be followed irrespective of any conflicting instructions contained in the sellers commercial invoice or any transmitted letter. [B] We hereby engage with the beneficiary and Central Bank of Iraq that documents drawn under and in compliance with the terms of this credit will be duly honoured upon presentation as specified to credit CBI A/c with Federal Reserve Bank New York. [[A] and [B] added] This credit is subject to the Uniform Customs and Practice for Documentary Credits (2007 Revision) International Chamber of Commerce Publication No 600.
+Special Instructions to Central Bank of Iraq: Upon receipt of your authenticated telex/SWIFT confirming that you have taken up documents in strict conformity with credit terms and conditions and couriered them to us, we undertake to effect payment at maturity as per your instructions, provided that such telex/SWIFT is received at least 1 New York/London banking day prior to due date.
+Otherwise, payment will be made 1 New York/London banking day later.
+If our cover does not reach you in time to reimburse you for your payment under the credit on due date, we hereby undertake to compensate you for any loss of interest incurred by you due to this delay.
+In the course of the argument particular attention was paid to the two provisions which I have italicised above, which were referred to by Moore Bick LJ in para 8 of his judgment as A and B respectively.
+As Moore Bick LJ said at para 7, Mr. Pollock submitted that, although these letters of credit included some clauses that are not routinely to be found in documents of this kind, their basic structure follows the pattern which has been established over many years for documentary credits incorporating the Uniform Customs and Practice (UCP).
+The opening section contains the instructions to the advising bank, in this case CBI, to notify a named party, in this case SOMO, after adding its own confirmation, that a documentary credit has been established in terms which are then set out in the body of the letter.
+There follow the basic terms of the issuing banks undertaking, identifying the person on whose instructions the credit has been opened, the person in favour of whom it has been opened, the expiry date, the place at which documents are to be presented and a detailed description of the documents that are required.
+Moore Bick LJ added at para 8 that Mr Pollock further submitted that SOMO was the sole beneficiary of each of the letters of credit.
+He expressed the view that in conventional terms that was correct.
+The opening section states that the credit is opened in favour of SOMO and to regard SOMO as the beneficiary of the undertaking is consistent with the way the term beneficiary is used in the special conditions in contradistinction to CBI.
+However, he noted that that leaves open the question of the meaning and effect of the special conditions A and B quoted above.
+Moore Bick LJ then noted at para 9 that Mr Pollock emphasised that the issue of a documentary credit ordinarily gives rise to a bundle of separate bilateral obligations reflecting the relationships between the different parties involved in the transaction.
+None of them, however, constitutes a joint obligation.
+On that basis Mr Pollock submitted that the two conditions contained nothing more than a collateral promise by Crdit Agricole in favour of SOMO and CBI which is separate from the primary obligation to make payment under the letter of credit.
+That obligation was owed to SOMO alone as the beneficiary.
+It followed that CBI had no interest of a proprietary nature in the debt due under the letter of credit; it was simply the beneficiary of a separate promise on the part of Crdit Agricole that the debt to SOMO would be discharged by making a payment into the designated account in New York.
+In para 10 Moore Bick LJ summarised the position of Mr Dunning QC on behalf of SOMO.
+Mr Dunning did not challenge Mr Pollocks analysis of the rights and obligations which arise under an ordinary letter of credit, but he submitted that the special conditions included in this particular letter of credit prevented SOMO from being anything more than a nominal beneficiary.
+It was unable to vary any of the terms governing the method of payment, which made it impossible for it to receive any of the funds due under them itself.
+In truth, SOMO was not really the beneficiary of Crdit Agricoles obligation; there was in substance one obligation to make payment, which was owed to CBI alone.
+No one other than CBI could take the benefit of it and enforce it.
+The critical part of Moore Bick LJs judgment is set out at his paras 11 and 12, which can be summarised thus.
+He agreed that in the ordinary way a documentary credit gives rise to a bundle of separate bilateral obligations of the kind described by Mr Pollock, none of which is joint in nature.
+That is because in almost all cases each of the parties to the transaction is a person or company acting solely on that partys own behalf.
+He could see no reason in principle why a letter of credit should not be issued in favour of joint beneficiaries, as for example if goods or property were being sold by joint owners.
+However, that was not much help in interpreting the special conditions in these particular letters of credit.
+He described the first difficulty as being to identify who is the beneficiary of the promise contained in condition A.
+The telex from Crdit Agricole was sent to CBI, not to SOMO, but since it contained a request to notify SOMO of the terms of the banks undertaking, it must be taken to have been addressed principally to SOMO rather than CBI.
+He thus concluded that that paragraph was to be read as directed to SOMO and as containing an undertaking to pay the sum due under the letter of credit to CBIs Iraq Oil Proceeds Account at the Federal Reserve Bank in New York.
+He added that whether that made CBI an agent for collection in the usual sense did not matter for present purposes.
+The reference to the beneficiary in condition B, on the other hand, must be to SOMO and accordingly it was clear that that paragraph did contain a joint promise in favour of SOMO and CBI that the proceeds of the letter of credit would be paid into CBIs account in New York.
+Moore Bick LJ accepted that letters of credit, like other commercial contracts, must be construed as a whole in accordance with established principles, but he did not think that, when dealing with such a well recognised and familiar form of financial instrument, it was right to ignore the established structure within which the parties must be taken to have been working.
+He accepted that SOMO was the beneficiary of these letters of credit in the conventional sense and was therefore, in the absence of a clear statement to the contrary, the party to whom Crdit Agricole incurred the primary obligation to make payment.
+Again critically, he added that the fact that Crdit Agricole was required to discharge that obligation by making payment to the account of CBI did not detract from that position.
+Nor did the fact that it also entered into a separate, independent, obligation to CBI to pay the funds due under the letters of credit to its account in New York.
+In these circumstances he concluded that Mr Pollock was right to submit that each of the letters of credit gave rise to two separate obligations: an obligation to pay the proceeds into the account of CBI in New York, which was owed to SOMO alone and sounded in debt, and a separate collateral obligation to pay the proceeds into that account which was owed to SOMO and CBI jointly and sounded in damages.
+I agree with Moore Bick LJs construction of the letters of credit and prefer it to that advanced by Sullivan and Briggs LJJ and indeed Lord Neuberger and Lord Mance.
+The language of the letters of credit seems to me to bear out Moore Bick LJs approach.
+It begins as follows: Please advise our following irrevocable documentary credit to Oil Marketing Company (SOMO) after adding your confirmation.
+Our reference GBRM300017 We hereby establish our irrevocable documentary letter of credit Number GBRM3000017 By order of: [Shell] In favour of: Oil Marketing Company (SOMO).
+A little further down the letters of credit expressly refer to SOMOs duly signed original commercial invoice as one of the documents to be presented at the counters of CBI in Baghdad.
+The letters of credit thus identify SOMO throughout as the sole beneficiary of the letter of credit, which, as Moore Bick LJ observed was clear from the expression We [ie Crdit Agricole] engage with the beneficiary and CBI.
+This view is also supported by the provision that the credit was subject to UCP 600, in which Beneficiary is defined in article 2 as the party in whose favour a credit is issued.
+UCP 600 also contains many other references to the expression beneficiary.
+In article 18 it states that, subject to one irrelevant exception, a commercial invoice must appear to have been issued by the beneficiary.
+As I see it, it follows from UCP 600 that SOMO was the sole beneficiary in this case.
+This is in my opinion of some importance because UCP 600 commands world wide support.
+In its foreword it describes its objective as follows: The objective, since attained, was to create a set of contractual rules that would establish uniformity in that practice, so that practitioners would not have to cope with a plethora of often conflicting national regulations.
+The universal acceptance of the UCP by practitioners with widely divergent economic and judicial systems is a testament to the rules success.
+What then was the status of CBI under the letters of credit? I agree with Lord Mance that the references to you and your in the letters of credit are references to CBI.
+However their role was said in the first sentence of the letters of credit quoted above to be to advise our (ie Crdit Agricoles) following irrevocable documentary credit to SOMO after adding your (ie CBIs) confirmation.
+Thus one possibility is that CBI was to be a confirming bank, which is defined in article 2 of UCP 600 as meaning the bank that adds its confirmation to a credit upon the issuing banks authorisation or request.
+In fact it appears that, whatever was originally intended CBI was simply a notifying bank and did not in the event add its confirmation.
+In para 57 Briggs LJ expressed these conclusions in respect of each letter of credit: its unusual terms make CBI not SOMO the only creditor in respect of the money promised to be paid, and therefore solely entitled to property in the debt thereby created, and that it conferred on SOMO (rather than CBI) only a non proprietary right to seek damages for breach of contract.
+That would of course have been fatal to the imposition of a TPDO in relation to the debt, regardless of the rule as to situs in Power Curber [infra].
+The knock on consequence of that view is that I would also have concluded that, since the debt was the property of CBI and not SOMO, it was therefore immune from execution under section 14(4) of the [State Immunity] Act [1978] including by way of equitable execution.
+In my opinion, given that it is clear that SOMO was and remained the beneficiary of the letters of credit, I do not think that it is correct to conclude that the debt was the sole property of CBI and not SOMO.
+As I see it, Moore Bick LJ was correct to hold that in the absence of a clear statement to the contrary, SOMO was the party to whom Crdit Agricole incurred the primary obligation to make payment.
+Moore Bick LJ expressed his conclusion thus at the end of para 12, which I have summarised in para 15 above.
+In short, each of the letters of credit gave rise to two separate obligations: an obligation to pay the proceeds into the account of CBI in New York, which was owed to SOMO alone and sounded in debt, and a separate collateral obligation to pay the proceeds into that account which was owed to SOMO and CBI jointly and sounded in damages.
+I accept Mr Pollocks submission that it is a startling proposition that a promise to pay a debt owed to a named beneficiary via a nominated bank account in the name of another substitutes the latter for the former as the only beneficiary under a letter of credit.
+In my opinion it does not.
+This is an important conclusion because, as Field J said at para 13, if Crdit Agricoles obligation to pay under the credits was owed to SOMO and CBI jointly, the debt due under that promise could not be attached by a third party debt order pursuant to CPR Part 72.2(1) because the words any debt due or accruing due to the judgment debtor from the third party connote a debt owed solely to the judgment debtor.
+Field J added at the end of para 13: Otherwise, since payment to the judgement creditor in compliance with a TPDO discharges the debt owed to the judgement creditor (CPR 72.9 (2)), the joint promisee would be cut out of his interest in the debt.
+Nor in my view could execution be made in respect of the debt under the letters of credit by virtue of the receivership order because either CBI would be deprived of its interest as a joint promisee or Credit Agricole would have to pay twice, once to Taurus and again to CBI.
+Given that conclusion on the construction of the letters of credit, Moore Bick LJ did not have to consider a further submission made by Mr Pollock that, even if CBI was the beneficiary of the banks promises to pay under these letters of credit, they were not promises which it could enforce, because they were not supported by consideration.
+He did not consider this point in any detail but did say that he would be loath to hold, particularly in a commercial context, that a promise which both parties intended should be relied on was unenforceable for want of consideration.
+So would I.
+For the reasons given above, I would allow the appeal on the true construction of the letters of credit and hold that SOMO was the beneficiary of and thus the sole owner of the debts created by the letters of credit and the sole entity to which Crdit Agricole incurred the primary obligation to make payment.
+In all the circumstances I would accept Mr Pollocks submission that CBI had no proprietary interest in the debt and that any promise made to SOMO or to CBI as to how the debt in favour of SOMO would be paid was no bar to those debts being taken in execution at the instance of Taurus as a judgment creditor of SOMO.
+Lord Sumption and Lord Hodge reach similar conclusions for similar reasons, with which I agree and need not repeat here.
+State Immunity
+Before the judge and the Court of Appeal SOMO argued that it had state immunity against execution on the ground that it was an emanation of the Iraqi state.
+However that argument was rejected in both courts below and is no longer pursued.
+Situs of the debts
+It is common ground that all property, whether tangible or intangible, has a situs for legal purposes.
+It is further common ground that, as Moore Bick LJ put it in para 14, in Socit Eram Shipping Co Ltd v Cie Internationale de Navigation [2003] UKHL 30; [2004] 1 AC 260 the House of Lords held that a third party debt order is a proprietary remedy, which, when complied with, operates to discharge the debt and to release the debtor from his obligation.
+Since it involves dealing with property, the English courts do not have jurisdiction to make such an order in respect of debts situated outside the jurisdiction, unless by the law applicable in that place an English order would be recognised as discharging the liability of the third party to the judgment debtor: see, in particular, per Lord Bingham of Cornhill at para 26.
+The parties agree that it is therefore necessary to identify the situs of the debts which Crdit Agricole owes to SOMO.
+Taurus argument is that in the case of debts the rule chosen and applied by English law is that the situs of a debt is the debtors residence, the place where the debt is recoverable.
+This is a long standing rule which goes back at least to the beginning of the last century.
+As Mr Pollock correctly put it, its nature and application were explained in detail by Lord Hobhouse in Socit Eram Shipping Co Ltd v Cie Internationale de Navigation [2004] 1 AC 260, 287 288.
+As explained above, the letters of credit were issued by the London branch of Crdit Agricole, which also had places of business in France.
+Insofar as there was a relevant account, it would have been the account of the opener of the letters of credit, Shell, with Crdit Agricole in London.
+In the case of letters of credit the position of a bank with different branches has been specifically addressed by the UCP 600, which provides by article 3 that Branches of a bank in different countries are considered to be separate banks.
+I would accept Mr Pollocks submission that on this basis it follows that for the purposes of the letters of credit the London branch of Crdit Agricole is to be treated as a separate bank, and that therefore the sole residence of the debtor under the letters of credit is London.
+It further follows that, in accordance with the general rule as to the situs of debts the situs of the debts due under the letters of credit is England.
+The Court of Appeal did not however resolve this issue on that basis because of the decision of the Court of Appeal in Power Curber International Ltd v National Bank of Kuwait SAK [1981] 1 WLR 1233, where it was held by a majority that in the case of debts due under letters of credit the situs of the debt was the place of payment.
+Lord Denning MR and Griffiths LJ comprised the majority on this point, with Waterhouse J dissenting.
+The Court of Appeal in this case was bound by that decision but we are not.
+Mr Pollock invites us to hold that Power Curber was wrongly decided and submits that we should not follow it.
+I would accept that invitation.
+The reasoning of the majority was not extensive.
+The case involved a sale of goods paid for under a letter of credit.
+There were issues as to whether (a) the proper law of the contract and (b) its situs were North Carolina or Kuwait.
+Payment of the price was to be made against presentation of documents in North Carolina.
+The National Bank of Kuwait was the paying bank which was held to be in default.
+The Court of Appeal held that the proper law of the contract was the law of North Carolina.
+However, we are concerned only with what was said about the lex situs.
+Lord Denning said this at p 1240F: Nor can I agree that the lex situs of the debt was Kuwait.
+It was in North Carolina.
+A debt under a letter of credit is different from ordinary debts.
+They may be situate where the debtor is resident.
+But a debt under a letter of credit is situate in the place where it is in fact payable against documents.
+I would hold therefore that Parker J. was right in giving summary judgment against the National Bank of Kuwait for the sums due.
+The reasoning of Griffiths LJ was similarly brief.
+He said at p 1242G: Secondly, it was submitted that payment was unlawful according to the lex situs of the debt which it is said is Kuwait.
+But this is a debt that is owed in American dollars in North Carolina; I do not regard the fact that the bank that owes the debt has a residence in Kuwait as any reason for regarding Kuwait as the lex situs of the debt.
+The lex situs of the debt is North Carolina, and this ground for giving leave to defend cannot be supported.
+Waterhouse J agreed with the majority as to the result of the appeal but on the lex situs point he said this at p 1244B D: The more difficult issue for me has been that relating to the lex situs of the debt.
+A debt is generally to be looked upon as situate in the country where it is properly recoverable or can be enforced and it is noteworthy that the sellers here submitted voluntarily to the dismissal of their earlier proceedings against the bank in North Carolina.
+We have been told that they did so because of doubts about the jurisdiction of the North Carolina court, which was alleged in the pleadings to be based on the transaction of business by the bank there, acting by itself or through another named bank as its agent.
+As for the question of residence, the bank has been silent about any residence that it may have within the United States of America.
+In the absence of any previous binding authority, I have not been persuaded that this debt due under an unconfirmed letter of credit can be regarded as situate in North Carolina merely because there was provision for payment at a branch of a bank used by the sellers in Charlotte: and I do not regard the analogy of a bill of exchange or a security transferable by delivery as helpful.
+We were not referred to any other English case which has considered Power Curber.
+The only English text to which we were referred was para 22 033 of the 15th ed (2012) of Dicey, Morris and Collins on the Conflict of Laws, which shows no enthusiasm for the decision.
+It says that, according to the decision of the Court of Appeal in Power Curber a claim under a letter of credit is situate where it is payable against documents, even if (it seems) the debtor is not resident there.
+It adds, by reference to the short passages from the case quoted above: This exception to the general rule appears to have been laid down for reasons of policy.
+Under the general rule, it is more likely that the debt would be situate in the buyers country; under the exception, it is more likely to be situate in the sellers country.
+The effect of the exception is, therefore, to increase the sellers security, since the courts of his country are less likely to interfere with payment (by seizing or attaching the debt) than those of the buyers country.
+To attain this policy objective, however, it was necessary to sacrifice the link between situs and recoverability.
+In the Power Curber case, the issuing bank was a Kuwaiti bank.
+The place of payment (and hence, according to the Court of Appeal, the situs of the debt) was North Carolina.
+The bank apparently had no branch there.
+When it failed to pay (because the debt had been attached by a court in Kuwait), the plaintiff initially brought proceedings in North Carolina, but these were discontinued.
+Instead it sued in England, where the bank had a branch.
+It seems that there was some doubt whether the courts of North Carolina had jurisdiction; so the debt was probably not recoverable there.
+In view of this, it could be argued that it was wrong to regard the debt as situate there.
+In the last part of that passage the editors specifically refer to part of the judgment of Waterhouse J noted above.
+I detect a distinct lack of enthusiasm for the majority view.
+For my part, I prefer the general rule identified in paras 30 to 31 above, which is supported by the UCP.
+It is fair to say that Mr Dunning provided the court with a review of the position in other common law jurisdictions on the situs of a debt under a letter of credit.
+Many of them apply both the same general principle as is applied in England for the situs of a debt and the same exception as was derived in England from Power Curber.
+The respondents note addresses five jurisdictions: (i) Singapore; (ii) Australia; (iii) Malaysia; (iv) New Zealand and (v) Canada.
+Halsburys Laws of Singapore, Australia and Malaysia all state that the situs of a debt under a letter of credit is the place where it is payable.
+However, Power Curber is the only, or primary, authority cited in support of this statement.
+So none of them provides support for the reasoning in Power Curber.
+It is accepted on behalf of the respondent that the situs of a debt under a letter of credit does not appear to have been addressed under New Zealand law.
+The passage cited in Butterworths The Laws of New Zealand does not specifically address the position under New Zealand law as to the situs of a debt under a letter of credit.
+Canada is the only jurisdiction referred to in the note in which the principle in Power Curber appears to have actually been applied.
+The two cases in which it has been applied are both decisions of the Superior Court of Quebec.
+In neither of them did the case turn exclusively on the question of where the debt was situated.
+In HL Boulton Co v Banque Royale du Canada [1944] JQ 1448 and [1995] RLQ 213 the defendant asked the court to decline jurisdiction under article 3135 of the Civil Code, which provides that even though a Quebec authority has jurisdiction to hear a dispute, it may exceptionally decline jurisdiction if it considers that the authorities of another country are in a better position to decide.
+It was agreed that the Quebec court was competent to hear the dispute, as the defendant had its head office in Montreal.
+The question was whether British Columbia was a more appropriate forum.
+The court decided it was.
+The only link between the case and Quebec was the registered office of the defendant.
+The confirmation of the letter of credit was in Vancouver and payment was to take place in Vancouver where the respondents place of business was.
+All the witnesses from both sides were in British Columbia.
+The court stated that in addition, under private international law, the situs of a LC was where it was payable.
+It cited only Power Curber and a Canadian text on conflict of laws as authority, but did not provide any analysis of its own.
+The second case was Alessandra Yarns LLC v Tongxiang Baoding Textile Co Ltd [2015] QCCS 346.
+This case was about whether the fraud exception to a letter of credit had been met such that the court should issue an interlocutory injunction to prevent the beneficiary claiming under the letter of credit.
+There were four criteria that had to be met in order to grant the injunction: (1) urgency; (2) a serious question to be tried or a strong prima facie evidence of fraud by the beneficiary of the credit; (3) irreparable harm; and (4) if the prima facie case is doubtful, the balance of convenience favours granting the injunction.
+The situs of the debt under the letter of credit was a factor that was relevant to the fourth question.
+The court stated that the situs of a letter of credit is the place in which it is payable citing HL Boulton Co v Banque Royale du Canada but did not provide any further analysis.
+In addition, the court had already answered questions (1) to (3) in the affirmative, so arguably did not need to answer the fourth question.
+Those cases do not add to the reasoning in Power Curber, such as it is.
+None of the references persuades me to alter my conclusion that Power Curber was wrong in principle and should not be followed.
+As stated above, I would hold that the lex situs of the letters of credit in this case was England.
+Honest dealing
+Under this head at paras 25 to 28 Moore Bick LJ considered Mr Dunnings submission that the existence of the undertaking by Crdit Agricole to CBI to pay the proceeds of the letters of credit into the designated account in New York was itself enough to prevent the court from making third party debt orders in relation to them.
+Given the conclusion of the Court of Appeal on the lex situs point, this argument did not strictly arise.
+However, given my conclusion on the point, it does in principle arise.
+Moore Bick would have rejected it if it had arisen.
+He would have done so shortly for these reasons.
+The argument was based on certain comments to be found in In re General Horticultural Co, Ex p Whitehouse (1886) 32 Ch D 512, which Moore Bick LJ discussed at para 25.
+He summarised the position thus: In that case Wills, to whom a sum had been allowed in a winding up for work done for the liquidator, charged the amount due to him as security for the payment of three debts, the total amount of which exceeded the sum due to him from the company.
+Notice of the first charge was duly given to the liquidator.
+Some time later Whitehouse obtained a judgment against Wills, which he sought to enforce by garnishee order nisi against the sum due from the company.
+Later, the second and third of Wills creditors gave notice to the liquidator of their charges.
+It was accepted that the interest of the first chargee could not be overridden by the garnishee order, but a question arose whether Whitehouse was entitled to execute on the remainder of the debt, notwithstanding the second and third chargees.
+Chitty J held that he could not because a garnishee order charges only what the judgment debtor can himself honestly deal with.
+He pointed out that the assignment by way of charge between Wills and the second and third creditors was binding as between them and that the equitable doctrine of notice was concerned only to determine priority between competing incumbrancers.
+To allow the garnishee order to override the charges would enable the judgment creditor to obtain not the property of the judgment debtor, but that of someone else.
+Field J accepted that argument on the basis that, since SOMO had no interest in or rights over CBIs account with the Federal Reserve Bank in New York, the debts which Taurus sought to attach were never within SOMOs free disposition and could therefore not be the subject of a third party debt order.
+Moore Bick LJ disagreed.
+In para 28 he accepted Mr Pollocks submission, which he set out in para 27, that In re General Horticultural Co does not establish any independent principle of honest dealing; it merely reaffirms that a judgment creditor cannot by means of a third party debt order levy execution on property that does not belong to the judgment debtor.
+Moore Bick LJ accepted the submission that in that context it may be said that the judgment debtor cannot honestly deal with a debt which he has assigned to a third party and that the judgment creditor cannot execute on such a debt, but that is because it is no longer the property of the judgment debtor.
+He also referred to Rogers v Whitely (1889) 23 QBD 236.
+submission in this way: In para 28 Moore Bick LJ expressed his reasons for accepting Mr Pollocks The cases do not support the proposition that there is an independent principle limiting the scope of third party debt orders to debts with which the judgment debtor can honestly deal, otherwise than by reference to the existence of proprietary interests.
+Although in the present case SOMO had no control over funds once they reached the account of CBI, CBI itself had no proprietary interest of a recognised kind in the debts arising under the letters of credit until they had been paid.
+In my view the judge was wrong to hold that the terms of the letters of credit and SOMOs inability to control funds in CBIs account were sufficient to prevent the attachment of the debts by third party debt order.
+I agree with those reasons.
+Receivership order
+All three members of the Court of Appeal concluded that the receivership order should be discharged even if the debt was owed to SOMO.
+The grounds for this view were set out in the judgment of Moore Bick LJ.
+His reasoning was twofold: first, that the link between SOMO and the English jurisdiction created by the order under section 66 of the Arbitration Act 1996 was too tenuous to justify the exercise of the receivership jurisdiction; and second, that payment by Crdit Agricole to a receiver would deprive CBI of the benefit of the collateral promise made to it that payment to SOMO would be made by means of a bank account held in the name of CBI.
+The relevant principles are not in dispute.
+They were set out by Collins LJ in Masri v Consolidated Contractors International (UK) Ltd (No 2) [2008] EWCA Civ 303; [2009] QB 450.
+Moore Bick LJ set out the key parts of Lawrence Collins LJs judgment in paras 30 to 32 of his own judgment in this case.
+In particular, he noted the view expressed by Lawrence Collins LJ in para 35 of Masri that the mere fact that an order is in personam and is directed towards someone who is subject to the personal jurisdiction of the English court does not exclude the possibility that the making of the order would be contrary to international law or comity, and outside the subject matter jurisdiction of the English court.
+In para 31 Moore Bick LJ set out paras 50 and 51 of Lawrence Collins judgment in Masri, which he said followed a reference to the Socit Eram case, as follows: 50.
+In my judgment, there is no rule that the court cannot ever make a receivership order by way of equitable execution in relation to foreign debts and that the judge did not exceed the permissible limits of international jurisdiction in making such an order in the circumstances of this case.
+In summary my reasons are that (a) the order has no
+proprietary effect and acts in personam against the judgment debtor; (b) any adverse effects which the order might have on foreign parties with knowledge of the order are removed by the Babanaft provisos; (c) since the nineteenth century the English courts have recognised the legitimacy of the appointment by the court of receivers in relation to foreign property; (d) the fact that those appointments in the reported cases have been receivers appointed by the court on the application of debenture holders, or receivers appointed prior to judgment, does not affect that conclusion in relation to receivers appointed by way of equitable execution; (e) nothing in the Socit Eram Shipping Co case affects the conclusion. 51.
+In para 32 Moore Bick LJ said that Lawrence Collins LJ added this caveat: 59.
+As I have said, the fact that [the court] acts in personam against someone who is subject to the jurisdiction of the court is not determinative.
+In deciding whether an order exceeds the permissible territorial limits it is important to consider (a) the connection of the person who is the subject of the order with the English jurisdiction; (b) whether what they are ordered to do is exorbitant in terms of jurisdiction; and (c) whether the order has impermissible effects on foreign parties.
+Moore Bick LJ gave careful consideration to the question whether the order should have been made.
+He observed that the same obstacles did not exist as in the case of a third party debt order but that some caution was required as noted by Lawrence Collins LJ.
+One of the factors which led him to conclude that such an order should not be made was that, on his view of the case, as described above, the debt was not situated in England and Wales.
+He said in para 33 that SOMOs connection with this country was tenuous unless it can be said to be the owner of a debt which [is] situated in this country and for the reasons I have given I do not think that is the case.
+For the reasons I have given above, I have concluded that the situs of the debt was in this country.
+It follows from Moore Bick LJs approach that he would have taken a different view of the connection if he had held as I have done that that was the case.
+I note in passing that he concluded in para 35 that to make a receivership order in this case would not infringe the rights of Crdit Agricole.
+In all the circumstances it seems to me to be likely that, if Moore Bick LJ had concluded that the lex situs was England, he would have taken a different view.
+As I see it, it is open to us to consider this part of the case afresh.
+I would accept Mr Pollocks submissions on this point as follows.
+International trade, and particularly the international oil trade, is conducted predominantly by means of letters of credit.
+London is one of the two major financial centres of the world and enormous numbers of letters of credit are issued by international banks from their London branches.
+It would have been entirely foreseeable by SOMO that a majority of the letters of credit against which they sold oil would be issued out of London and subject to English law.
+SOMOs trade therefore involved a long term connection with the jurisdiction.
+Successful international commerce depends upon the enforcement of contracts, the enforcement of arbitration awards and the enforcement of judgments.
+Both the international plane, through the 1958 New York Convention and the UNCITRAL Model Law and Rules, and the domestic plane, through the Arbitration Act 1996, evince a clear policy to ensure the efficient recognition and enforcement of arbitration awards.
+In these circumstances it was predictable that, if SOMO failed to honour an UNCITRAL arbitration award, it would find itself sued in an English court for the purpose of enforcing that award in accordance with international norms.
+The Arbitration Act 1996 allowed the English court to assert jurisdiction over SOMO for the purpose of enforcing an award as a judgment of the High Court.
+The court did so, and SOMO has challenged neither that jurisdiction, nor the judgment.
+I would further accept Mr Pollocks submission that it seems inconsistent to allow an international arbitration award to be turned into an English judgment for the purpose of enforcing the award and then to limit the means available for enforcement on the grounds of an allegedly insufficient connection with the jurisdiction.
+Mr Pollock further challenges para 37 of Moore Bick LJs judgment as follows.
+He concluded that the effect of a receivership order would be to prevent CBI obtaining the benefit of Crdit Agricoles promise that the funds would be paid to SOMO via CBIs account in New York.
+However, CBI has no interest of any type in the Letter of Credit debts.
+Its account is merely the conduit via which moneys paid from Crdit Agricole at the instance of Shell pass onwards into the Iraqi government budget.
+If the promise as to the route of payment to SOMO is breached because of interception by judicial execution, the CBI has suffered no loss and could make no complaint, whether against Crdit Agricole or against SOMO.
+The obligation on Crdit Agricole to pay in accordance with its promised method is necessarily subject to the implicit qualification that the funds have not been intercepted by judicial intervention.
+There appears to me to be some force in that submission.
+Further, it appears that Crdit Agricole has so far advanced no objection to the making of a receivership order and no evidence has been adduced by SOMO to the effect that the making of the order would in any way prejudice Crdit Agricole.
+Mr Pollock concedes that Crdit Agricole would in any event have an opportunity to make representations hereafter should it wish to do so.
+In all the circumstances, I would restore the receivership order.
+I would only add that, given the above conclusion that the third party debt orders should be restored, I am not sure in what circumstances the receivership orders will be effective.
+Conclusion
+For these reasons I would allow the appeal and restore the third party debt orders and the receivership orders.
+The parties should make written submissions on the form of order and on costs within 28 days of the handing down of the judgments in this appeal.
+LORD SUMPTION:
+I agree with the disposal proposed by Lord Clarke, and with his reasons.
+I also agree with the concurring judgment of Lord Hodge.
+I add a judgment of my own because the Court is divided and it appears to me to be useful in response to some highly intricate arguments to identify the salient points of principle which have led me to this conclusion.
+In doing so, I shall use the same abbreviations as Lord Clarke.
+The first question is whether there is a debt due or accruing due to the judgment debtor [SOMO] from the third party [Credit Agricole] for the purposes of CPR Part 72, which regulates Third Party Debt Orders.
+This turns on the construction of a most unusual form of letter of credit.
+For all its unusual features, however, the instrument must be construed as a whole, and as far as possible in such a way as to make each part of it consistent with every other part.
+Moreover, it must as far as possible be read consistently with the UCP, which are expressly incorporated into it.
+The UCP may be modified or excluded in specified respects by the terms of the credit, but otherwise it is a code of rules which enables letters of credit to be routinely dealt with by banks across the world on a common basis.
+It is therefore fundamental to their acceptability in international commerce.
+The essential obligation of the issuing bank is to pay, conditionally on the presentation of conforming documents.
+Under the terms of this credit, it is I think clear that SOMO is the sole beneficiary of the issuing banks obligation to pay.
+The credit is expressed to be issued in favour of SOMO.
+Under UCP article 2, the party in whose favour a letter of credit is issued is the beneficiary.
+The purpose of the credit is to secure a debt identified in the commercial invoice, which is usually one of the documents to be presented, as it was in this case.
+UCP article 18 provides that the commercial invoice required to be presented, must appear to have been issued by the beneficiary, ie SOMO.
+The specified documents in this case included SOMOs duly signed original commercial invoice.
+Nothing in Conditions A and B purports to alter the identity of the beneficiary as that expression appears in the credit itself or in the UCP.
+Indeed, Condition B is framed as an engagement on the part of the bank with the beneficiary and Central Bank of Iraq, a formulation which necessarily identifies SOMO and not CBI as the beneficiary.
+The letter of credit is expressed not to be assignable or transferrable.
+The effect of this is to exclude the provision expressly made in UCP article 38 for transfer to another beneficiary.
+In the context of a credit in favour of SOMO, what is the effect of the irrevocable undertaking in Conditions A and B to honour the credit by paying into CBIs account with the Federal Reserve Bank New York? There are two possibilities.
+The first is that the parties have thereby agreed to treat CBI as the issuing banks debtor, subject to the presentation of conforming documents.
+But that cannot be inferred from the mere fact that the money is contractually payable to CBI.
+This is because the second possibility is that the parties have agreed that the debt is owed to SOMO as beneficiary, but that the manner of its discharge is to be by payment into CBIs account with the Federal Reserve Bank.
+In my opinion the latter is the better construction of Conditions A and B in this case.
+It accords better with the insistent identification of SOMO as the beneficiary and the exclusion of assignment or transfer of the credit to any one else.
+One can infer from the fact that the promise to pay into CBIs account is irrevocable and is made to CBI as well as SOMO that CBI must have had some interest of its own in the debt being discharged in that particular way.
+But nothing can be inferred from the terms of the credit about the nature of that interest.
+There are a number of possibilities: (i) CBI may have a proprietary interest in the conditional debt created by the credit, in effect by way of equitable assignment of the credit; or (ii) CBI may have stipulated for an equitable interest in the proceeds once they have been paid or, which amounts to the same thing, for there to be no liability to account to SOMO for the proceeds once it has reached CBIs New York account; or (iii) it may have a purely commercial, administrative or political interest in receiving the funds.
+The issuing bank would be directly affected by (i) but not by (ii) or (iii).
+Since either (ii) or (iii) would sufficiently explain the existence of the direct undertaking to CBI, I see no reason to assume that there was more to it than that.
+If the parties had wanted to make CBI the debtor, the obvious way of doing it would have been to make the credit transferrable in accordance with UCP article 38, a possibility which they have ostentatiously excluded.
+This is why, quite apart from the absence of any basis for it in the terms of the credit, I am unable to accept Lord Neubergers suggestion that Conditions A and B record an assignment or novation of the credit itself.
+In my view the credit gave rise to a debt due to SOMO as beneficiary which was required to be discharged by payment into CBIs New York account.
+It did not give rise to a debt owed to CBI itself.
+It follows, in my view, that the undertakings given jointly to CBI and SOMO are correctly analysed by Mr Pollock as collateral undertakings sounding in damages.
+I do not find this result odd, let alone pretty strange or mystical.
+As it happens, we know that the interest of the CBI was not in fact in the debt, but in the mechanics of its discharge.
+It had an interest in the use of its account with the Federal Reserve Bank of New York as the prescribed mode of receipt by SOMO, because of the political arrangements made by the state of Iraq to comply with the United Security Council resolution governing the use of Iraqi oil revenues.
+CBIs account in New York was no more than the conduit pipe used for that purpose.
+This fact is not relevant to the construction of the credit, which is an autonomous instrument.
+But it provides a condign warning of the dangers of treating Conditions A and B as a transfer of the conditional debt arising under the credit when that is in reality no more than a speculation about why Conditions A and B might have been (but were in fact not) required under arrangements to which the issuing bank was not privy.
+On that footing, the next question is whether a purely contractual obligation owed to CBI as to the manner in which the debt owed to SOMO would be discharged is a ground for declining to make a Third Party Debt Order.
+The argument is that the judgment creditor steps into the shoes of the judgment debtor and cannot succeed to any right the he did not have.
+If therefore the judgment debtors right to dispose of some asset is restricted by his contractual engagements to third parties, the judgment creditor cannot be any better off.
+The principal authority cited for this proposition is the statement of Chitty J in In re General Horticultural Co (1886) 32 Ch D 512, 515 that a garnishee order charges only what the judgment debtor can himself honestly deal with.
+I would not accept this statement without reservation.
+The context in which it was made was the attachment of a debt that had been assigned to a third party, but without notice being given to the debtor.
+The court held that the assignment was still binding as between the assignor and the assignee, and that notice to the debtor was relevant only to the priorities between competing assignees.
+It followed that the assignor had parted with his interest in the debt, and the rights of the garnishor were defeated.
+In Merchant International Co Ltd v Natsionalna Aktsionerna Kompaniia Naftogaz Ukrainy [2014] EWCA Civ 1603, the position was substantially the same.
+The debt sought to be attached was said to be owed by a bank to the judgment debtor Naftogaz.
+But the bank had received the money from Naftogaz as the agent bank under a loan agreement for distribution to the loanholders.
+It was not therefore, in the banks hands, a debt payable to Naftogaz.
+By comparison, in Rekstin v Severo Sibirsko Gosudarstvennoe Aksionernoe Obschestvo Koseverputj and the Bank for Russian Trade Ltd [1933] 1 KB 47 the result was different because the debt sought to be attached represented moneys deposited by the judgment debtor with a bank which had merely received a revocable instruction from the judgment debtor to pay it to another bank.
+The garnishee order was held to operate as a revocation of that instruction.
+These cases reflect what is in my view the general rule, namely that the essential condition for the effectiveness of a Third Party Debt Order, as with any process of enforcement against assets, is that there should be a subsisting debt owed to the judgment debtor.
+They are authority, on more or less complex facts, for the straightforward proposition that execution cannot be levied against a debt if the judgment debtor has parted with his interest in it.
+In my opinion it is necessary to distinguish between an arrangement between (i) the judgment debtor and a third party which passes a proprietary interest, legal or equitable, in the relevant asset to a third party, and (ii) a purely personal obligation owed to a third party as to the disposal of that asset.
+The essential point about a Third Party Debt Order is that it modifies purely personal obligations.
+A third party owes money to the judgment debtor.
+He has a personal obligation to pay the judgment debtor.
+The Third Party Debt Order overrides that obligation by requiring it to be paid to the judgment creditor instead.
+Otherwise a judgment debtor could defeat any process of execution against his assets simply by undertaking for good consideration not to comply with an order by way of enforcement.
+It is different if the judgment debtor has parted with his interest in the debt by assigning it, in law or equity, to another.
+In that case, he no longer has the asset against which enforcement is sought to be made.
+In the present case, on the footing that the debt created by the letter of credit was owed to SOMO, as I think it was, the issuing bank had a personal obligation to SOMO to pay it by crediting CBIs New York account.
+That obligation was modified by the overriding effect of the Third Party Debt Order.
+On the footing, which I also think correct, that the obligation owed by the issuing bank to CBI was to discharge the debt owed to SOMO by crediting CBIs New York account, that obligation depended on the continued existence of the debt owed to SOMO.
+Once it had been discharged by operation of law by payment to the judgment creditor in accordance with the Third Party Debt Order, there was no subsisting debt to be paid by the issuing bank into the New York account.
+I would agree with Lord Neuberger and Lord Mance that a Third Party Debt Order ought not to be made unless compliance with it would discharge the third party debtor.
+But this argument is only a reformulation of the one which I have already considered.
+The obligation owed by the issuing bank to SOMO is a debt and the obligations owed to both SOMO and CBI is an obligation as to the manner in which that debt is to be discharged.
+The subject matter of both obligations is one and the same debt.
+Upon its discharge neither obligation has any further content.
+It follows that compliance with the Third Party Debt Order would discharge the issuing bank as against both SOMO and CBI.
+LORD HODGE:
+I agree with Lord Clarke and Lord Sumption that this appeal should be allowed.
+In this short judgment, I will use the acronyms and abbreviations which Lord Clarke has used.
+I gratefully adopt Lord Clarkes summary of the relevant facts in the interest of brevity.
+While there is agreement as to the situs of the debt, the question of state immunity (which was not argued in the appeal) and the making of a receivership order, this court is divided on (a) whether Crdit Agricoles debt under the letter of credit is owed to SOMO or to CBI and (b) whether the contractual commitment to CBI in the letter of credit prevents the making of a TPDO.
+I confine my comments to the questions which divide us.
+To whom the debt is owed?
+The answer to the first question is found by construing the unusual terms of the letter of credit.
+A letter of credit has to be construed according to its terms which establish the nature and conditions of the banks duty to pay.
+Like other contracts, a letter of credit must be construed as a whole: individual clauses must be interpreted in their contractual context.
+In ascertaining the meaning of a particular clause or clauses, especially in an unusual contract such as this letter of credit, it is helpful and often necessary to adopt an iterative process by which an initial prima facie view as to meaning is tested against indications of another meaning or other meanings which the document gives when considered as a whole.
+It is well established law that a letter of credit creates an obligation to pay which is independent of and detached from the underlying contract between a seller and a buyer.
+The autonomous nature of a letter of credit means that, subject to qualifications which are irrelevant in this case, the conditions governing the issuing banks obligations to pay are to be found exclusively in the terms of the letter of credit.
+The background to the letter of credit is the international sanctions against Iraq following the invasion of Kuwait and the later continuation by the government of Iraq of the arrangement for the payment of the proceeds of sales of oil by Iraq of which a portion was used to finance the UN compensation fund for Kuwait.
+But I agree with Moore Bick LJ that that background in this case does not assist the construction of the letter of credit, not least as there does not appear to have been evidence of the banks knowledge of those arrangements.
+The focus therefore is exclusively on the terms of the letter of credit.
+Lord Clarke has set out the relevant parts of the letter of credit in para 9 of his judgment.
+In carrying out an iterative interpretation I choose in this case to start at the beginning.
+The letter of credit is addressed to CBI and asks CBI to advise SOMO that it has established the documentary credit by order of Shell in SOMOs favour.
+In that regard CBI is to act as the advising bank.
+The letter of credit envisages that CBI would also be the confirming bank, but in the event no such confirmation was given.
+Payment under the letter of credit is to be made on presentation of SOMOs duly signed original invoice.
+The letter of credit is stated to be neither assignable or transferable.
+Thus far, the letter of credit is straightforward and follows a familiar pattern: a documentary credit is created by Crdit Agricole on the order of the buyer in favour of the seller, suggesting that the debt thereby created is owed to the seller, SOMO.
+But the letter of credit then contains the two conditions [A] and [B] which the parties have added and which differ from the standard letter of credit, by constituting, in condition [A], an irrevocable undertaking in favour of CBI that the proceeds of the letter of credit will be paid into its (CBIs) Iraq Oil Proceeds Account with the Federal Reserve Bank, New York, and in Condition [B], an engagement to both SOMO (described as the beneficiary) and CBI so to pay the money on presentation of the documents which comply with the letter of credit.
+I agree with each of Lord Clarke, Lord Neuberger and Lord Mance, that the undertaking in Condition [A] is addressed to CBI.
+Read by itself or along with Condition [B], it might constitute a debt in favour of CBI.
+It is necessary to reconcile the provisions which I summarise in para 74 above with those in para 75 above.
+In my view that reconciliation is assisted by the paragraph of the letter of credit which follows the added conditions.
+It makes the credit subject to UCP 600, which seeks to facilitate the flow of international trade by creating a set of international rules that establish uniformity in the practice (ie the handling) of letters of credit.
+To my mind, it is both legitimate and necessary to look at UCP 600 as a guide to the interpretation of the letter of credit both because of its incorporation into the letter of credit and because the letter of credit reflects an established structure of documentary credit, which is consistent with UCP 600, but with the two conditions added.
+As Lord Clarke points out (para 19) UCP 600 (article 2) defines beneficiary as the party in whose favour a credit is issued.
+Further, as Lord Clarke observes, the term beneficiary is used repeatedly in UCP 600, including in article 18, which requires, subject to an irrelevant exception, that a commercial invoice must appear to have been issued by the beneficiary.
+There is no doubt in my mind that SOMO is the beneficiary of the letter of credit as envisaged by UCP 600.
+The use in Condition [B] of the word beneficiary to describe SOMO is consistent with this understanding.
+It is also consistent with the view that Conditions [A] and [B] are not intended to alter the person in whose favour the credit was issued.
+On this approach there is no need to struggle to give content to the use of the term beneficiary in the added Condition [B] or to the idea, which the use of that word encapsulates, that the letter of credit is in favour of SOMO.
+I construe the added conditions in their contractual context, which is that SOMO is the beneficiary of the letter of credit and that the credit in its favour is not assignable (para 74 above).
+Those two provisions are to my mind critical to the interpretation of the letter of credit and dictate a narrow view of the effect of the added conditions.
+Absent an assignment of the credit to CBI, which the letter of credit expressly forbids, CBI has no proprietary interest in the debt due by Crdit Agricole.
+But that does not denude the added conditions of content.
+The added conditions entail an undertaking by Crdit Agricole to SOMO and CBI jointly as to the mode of payment of SOMOs debt.
+It is not possible to discover from within the four corners of the letter of credit what was the relationship between SOMO and CBI which explains why SOMOs debt had to be paid into CBIs bank account and whether CBI had to account to SOMO for its receipt.
+It appears that one public body has required that its debt be paid into the bank account of another public body, for a purpose which the letter of credit does not disclose.
+But I see no basis for inferring from the terms of the letter of credit that SOMO has transferred any beneficial interest in the debt to CBI.
+In agreement with Lord Clarke and Lord Sumption, I conclude that the Crdit Agricoles debt was owed to SOMO.
+Does the contractual commitment to CBI exclude a TPDO?
+If I am correct in concluding that the letter of credit created a debt in which SOMO had both the legal interest and the beneficial interest, the TPDO would, if made, override and discharge Crdit Agricoles obligation to SOMO.
+Were that to occur, I do not see how there would be any content in the obligation as to the mode of payment of that debt which Crdit Agricole owed to both SOMO and CBI.
+The discharge of the debt would discharge the ancillary obligation as to the mode of its payment, leaving CBI with no claim for damages or otherwise against the issuing bank.
+I therefore agree that CBIs rights under the added conditions do not bar the making of a TPDO.
+The contrary views
+In so concluding, I find myself in respectful disagreement with Lord Neuberger and Lord Mance.
+In relation to Lord Neubergers judgment, we differ as I attach more significance to the established practice of documentary credits in construing the letter of credit and in particular to the incorporated terms of UCP 600, to which Condition [B] indirectly refers in its description of SOMO as the beneficiary.
+I see no basis for inferring an assignment by SOMO to CBI of the beneficial interest in the debt.
+In relation to Lord Mances judgment, the principal difference again appears to be that I attach more significance to the established structure of letters of credit upheld by UCP 600 and the use of its terminology in Condition [B] in providing the contractual context of the added conditions, to which he and Lord Neuberger have given priority over the other terms.
+To my mind, our differences are not ones of principle but of the construction of an unusual document, which on my reading (a) creates a debt in favour of SOMO but (b) requires that the money to discharge that debt be paid into CBIs bank account.
+On such a reading, no violence is done to the law of garnishee orders or third party debt orders.
+Conclusion
+In summary, I conclude (i) that Crdit Agricoles debt was and is owed to SOMO, (ii) the separate and ancillary obligation owed to CBI as well as SOMO was merely an obligation as to the manner of payment of SOMOs debt, and (iii) on the discharge of SOMOs debt by the making of the TPDO, the ancillary obligation as to the mode of payment also would be discharged.
+LORD MANCE: (dissenting)
+I agree with Lord Clarke for the reasons he gives that the situs of the debts constituted by the letters of credit should be held to be at the London branch of Crdit Agricole which issued the letters of credit.
+I would therefore allow the appeal.
+Debt capable of being subject of a third party debt order
+I am however unable to agree that there was or is any debt owed or due to SOMO under either letter of credit opened by Crdit Agricole, capable of being attached by a third party debt order under CPR72.
+Under that rule, it is a pre requisite to the making of a third party debt order that there should be a debt due or accruing due to the judgment debtor from the third party.
+Here, that means a debt due or accruing due from Crdit Agricole to SOMO.
+It is of no relevance to refer to any debt by way of the price of oil which may, or may not, have been owed by a company in the Shell group to SOMO outside or apart from the letter of credit.
+If there is a fundamental principle which is presently relevant, it is that a letter of credit is a contract separate from any underlying sale contract: UCP 600, article 4.
+So it must be construed according to its own terms.
+The issue whether a third party debt order can be made in respect of Crdit Agricoles undoubted indebtedness to someone under each letter of credit has two at points related aspects.
+The first is the correct construction of the letters of credit.
+The second is a correct understanding and application of the principles governing the making of third party debt orders.
+As to construction, the difference between the majority and minority conclusions may, in the grand scheme, be relatively unimportant.
+But, in my view, the majority judgments of Lord Clarke, Lord Sumption and Lord Hodge are forcing the present arrangement, in Procrustean fashion, into a pre conceived model (reflecting the conventional position when conforming documents are presented by a named beneficiary under a letter of credit) into which it in no way fits.
+In doing so, they are in this instant case also over riding rights clearly given to CBI.
+As to the principles governing third party debt orders, the majority judgments raise a more general concern.
+They fail in my view to give proper effect to the governing principles, they risk creating confusion and, on the facts of this case, they prejudice, without justification, the deliberately agreed rights of a fourth party (CBI).
+I add that it is in retrospect surprising (though it may reflect the respondents view about the obviousness of the principles involved) that not all the relevant authorities on third party debt orders were put before the Court, and that their case only addressed the caselaw in two short paragraphs and a footnote.
+Principles governing construction of the letters of credit
+As to construction, the general principles of construction are, I hope, well established to the point where they need little discussion.
+As Lord Hodge, speaking for the Supreme Court, said in Wood v Capita Insurance Services Ltd [2017] UKSC 24; [2017] 2 WLR 1095: 10.
+The courts task is to ascertain the objective meaning of the language which the parties have chosen to express their agreement.
+It has long been accepted that this is not a literalist exercise focused solely on a parsing of the wording of the particular clause but that the court must consider the contract as a whole and, depending on the nature, formality and quality of drafting of the contract, give more or less weight to elements of the wider context in reaching its view as to that objective meaning.
+Interpretation is a unitary exercise; where there are 11. rival meanings, the court can give weight to the implications of rival constructions by reaching a view as to which construction is more consistent with business common sense.
+But, in striking a balance between the indications given by the language and the implications of the competing constructions the court must consider the quality of drafting of the clause ; and it must also be alive to the possibility that one side may have agreed to something which with hindsight did not serve his interest: Similarly, the court must not lose sight of the possibility that a provision may be a negotiated compromise or that the negotiators were not able to agree more precise terms. 12.
+This unitary exercise involves an iterative process by which each suggested interpretation is checked against the provisions of the contract and its commercial consequences are investigated To my mind once one has read the language in dispute and the relevant parts of the contract that provide its context, it does not matter whether the more detailed analysis commences with the factual background and the implications of rival constructions or a close examination of the relevant language in the contract, so long as the court balances the indications given by each.
+Principles governing the making of a third party debt order
+There is no magic about the general concept of a debt.
+Jowetts Dictionary of English Law (3rd ed) defines it as A sum of money due from one person to another, points out that A debt exists when a certain sum of money is owing from one person (the debtor) to another (the creditor), and adds that Debt denotes not only the obligation of the debtor to pay, but also the right of the creditor to receive and enforce payment.
+In The Scottish Law of Debt, W A Wilson, Lord President Reid Professor of Law at Edinburgh University, quotes the definition of debts in Bell, Commentaries, II, 15, as mere rights to demand payment of money at a stipulated time, going on to distinguish a debt from an obligation to account.
+The concept of a debt for the purposes of a third party debt order, or its predecessor the garnishee order, is particularly well settled by authority.
+First, The test of debt due is whether it is one for which the creditor could immediately and effectually sue: Pagets Law of Banking 14th ed (2014), para 31.8; see also Allinsons Enforcement of a Judgment 12th ed (2016), para 8 03.
+The test goes back at least to Webb v Stanton (1883) 11 QBD 518.
+There a garnishee order was obtained against a trustee purporting to attach the beneficiarys share of the trust income.
+No income was however in the trustees hands which he was at that time due to pay to the beneficiary.
+The garnishee order was set aside, on the basis that the trustee could not be said to be a debtor unless he has got in his hands money which it is his duty to hand over to the cestui que trust (p 526, per Lindley LJ); see also p 530, per Fry LJ).
+The Court of Appeal pointed out that an available and appropriate course in this situation would be to apply for the appointment of a receiver.
+The trustees receipt of income is in this situation a pre condition to the existence of a debt.
+So too the fulfilment of any other pre condition, such as the obtaining of an architects certificate as a pre condition to a contractors entitlement to be paid for works completed: see Dunlop & Ranken Ltd v Hendall Steel Structures Ltd [1957] 1 WLR 1102.
+Secondly, and as a concomitant of the first principle, a judgment creditor cannot stand in a better position than the judgment debtor did in relation to the third party against whom the third party debt order is sought: Ferrera v Hardy [2015] EWCA Civ 1202; [2016] HLR 9, para 13, per Floyd LJ, approving the commentary to rule 72.2.1 in the Civil Procedure White Book to that effect.
+In In re General Horticultural Co (1886) 32 Ch Div 512, 515, the issue was whether a judgment creditor could by garnishee order attach a third party debt which the judgment debtor had assigned in equity, although the assignee had given no notice of the assignment to the third party.
+In holding that notice was irrelevant in this context (as opposed for example to a situation of competing assignments), Chitty J said that a garnishee order: charges only what the judgment debtor can himself honestly deal with; that rule is now settled. [Counsel argues] that I ought not to apply the well settled rule to this case.
+But I see no reason why any Act of Parliament or Rules of Court should be so interpreted as to make a man do a dishonest act, and yet if I were to allow [counsels] argument the judgment creditor would obtain, not the property of the judgment debtor, but that of some one else.
+In parenthesis, this principle means that the court will look at the judgment debtors actual entitlement to sue for the money.
+What the third party debtor in In re General Horticultural Co would have said about the identity of the person to whom he owed money, before he had notice of the assignment, was irrelevant.
+Thirdly, and again as a further concomitant of the previous two principles, where a judgment debtor has precluded itself contractually from having any immediate right to recover what would otherwise be a third party debt, a third party debt order cannot be obtained.
+There is in this respect no difference in principle between a fetter which arises contractually and for proprietary reasons.
+A requirement for an architects certificate (para 89 above) is a form of contractual fetter.
+In Merchant International Co Ltd v Natsionalna Aktsionerna Kompaniia Naftogaz Ukrainy [2014] EWCA Civ 1603, Merchant International Co Ltd (MIC) had an outstanding judgment against Naftogaz.
+Naftogaz had, by agency agreement, engaged BNYM as its principal paying agents for the purposes of loan notes under which Naftogaz owed interest instalments to loanholders.
+Naftogaz made a payment to BNYM to meet one such instalment, but its use for that purpose was interrupted by a third party debt order obtained by MIC against BNYM.
+Naftogaz then arranged for the interest instalment to be paid by a second payment.
+The first payment would have been repayable but for a Supplemental Agreement covering the second payment.
+This provided that the first payment should, notwithstanding the discharge of the relevant interest instalment, be retained by BNYM for the purposes of the agency agreement, pending a court order in the third party debt proceedings or further written agreement in terms acceptable to BNYM.
+By a second third party debt order MIC sought to attach the repayment which it alleged was in substance due from BNYM to Naftogaz.
+MIC submitted that, despite the Supplemental Agreement, the first payment was in BNYMs hands no different to moneys in a bank account repayable on demand.
+The Court of Appeal rejected the submission on the basis that the Supplemental Agreement had a commercial purpose; it was designed to preserve the status quo in view of the unexpected impact of, inter alia, the first third party debt order (para 48).
+The parties mutual arrangements negated any immediate and unconditional obligation on BNYMs part to make a repayment.
+Another in relation to the circumstances of the present appeal, very telling authority is Rekstin v Severo Sibirsko Gosudarstvennoe Akcionernoe Obschestvo Komseverputj and the Bank for Russian Trade Ltd [1933] 1 KB 47.
+There, the judgment debtors instructed their bank to close a current account, and transfer the moneys in to another body, to whom they owed nothing.
+The bank closed their account, but had not yet made or informed the other body of the proposed transfer.
+The judgment creditors at that stage obtained a garnishee order against the bank.
+The instructions were held still to be revocable, and to have been revoked by service of the garnishee order, which was therefore valid.
+What had been done by the bank, by way of closing the account, was mere internal machinery for recording what was to be done.
+But what is for present purposes significant is the Court of Appeals identification of the relevant test of the existence of a debt as being whether the direction was revocable, and not subject to any contrary commitment towards the other body: see per Lord Hanworth MR, at p 64, Slesser LJ at p 69 and Romer LJ at pp 71 72.
+In this connection, Lord Hanworth MR cited with approval a note at the end of Gibson v Minet (1824) 1 Car & P 247, 250 on the case of Williams v Everett (also reported at (1811) 14 East 582 in slightly different terms), according to which note Lord Ellenborough said: The remitter may give and countermand his directions, as often as he pleases, and the persons to whom it was remitted, may hold the bill, or its amount, for the use of the remitter himself, until by some engagement entered into by themselves, with the person who is the object of the remittance, they have precluded themselves from so doing, and have appropriated the remittance to the use of such person.
+After such a circumstance, they cannot retract the consent they have once given.
+In short (a) a mere naked authority to pay given to a banker can be revoked, but (b), once the banker has not only been authorised to pay but has committed itself to pay a fourth party, there is no debt which can form the basis of a garnishee or third party debt order.
+The present case falls precisely within (b), and the majority are in error in treating it as if it fell within (a).
+Finally, a basic principle governing third party debt orders was underlined by the House of Lords in Socit Eram Shipping Co Ltd v Cie Internationale de Navigation [2003] UKHL 30; [2004] 1 AC 260.
+It is, as stated in the headnote to that case: an integral feature of the procedure, established by legislation and the rules of court, that where a final order [is] made the third party, in making payment in compliance with the order, [is] discharged from his liability in respect of the debt to the extent of his payment, and it [is] not open to the court to make an order where it appear[s] that such discharge would not be available under the law which govern[s] the debt.
+Construction of the letter of credit
+Each letter of credit identified SOMO as the beneficiary of the letter of credit as well as the relevant seller whose invoice in that capacity was among the documents required for presentation under the letter of credit.
+However, it is important not to be mesmerised by the term beneficiary or by the normal expectations which it generates.
+What matters is, as the citations from Wood v Capita Insurances Services Ltd (para 86 above) state, the effect of the particular arrangements which parties have put in place, viewed as a whole.
+I of course accept that, under a more normal form of letter of credit, the expectation arising from the description beneficiary would be that SOMO would also be the person to whom the proceeds of such presentation would be owed or due and who could sue in debt if they were not paid.
+This would be so, even if the letter of credit stipulated for their payment to a particular bank account in the name of someone other than the beneficiary; that would correspond with the simple situation identified by Lord Hodge at the end of his para 80.
+The potential recipient would not have or be given the benefit of any promise of payment to itself under the credit.
+Any payment to it would simply represent the means agreed between the issuing bank and the beneficiary for discharge of a debt which remained due to the beneficiary alone.
+Here matters go much further, because of two special and unusual provisions, which have been set out and identified by Lord Clarke as conditions A and B. Each letter of credit contains contractual arrangements made between three parties, Crdit Agricole by whom it is issued, Central Bank of Iraq (CBI) to whom it is in the first place directed, and SOMO to whom CBI was asked by Crdit Agricole to advise (and, although this did not happen, confirm) the credit.
+There is not, and could not consistently with important and well established principles governing letters of credit be, any suggestion that these arrangements were not supported by consideration or that they are not binding according to their terms, as between all these three parties.
+As I read the special conditions, the first, condition A, contains a promise made to CBI.
+Moore Bick LJ erred in reading it as containing a promise to SOMO.
+There is common ground between Lord Clarkes and my judgment on this point.
+My reasons for this conclusion are as follows.
+The reference to payment to your account with Federal Reserve Bank New York, with reference to Iraq Oil Proceeds Account must to my mind be a reference to CBIs account at that Bank in New York, to which the second, condition B, expressly refers.
+It is most improbable that the two conditions were referring successively to the same account as being both SOMOs and CBIs, quite apart from the fact that the reference Iraq Oil Proceeds Account points towards an account of CBI, rather than SOMO.
+A second reason for concluding that your in the first special condition refers to CBI, to whom each letter of credit is addressed, is that this is so on all the other occasions when the letter of credit uses the word your or you: see the first paragraph of the credit, the special instructions to CBI (following shortly after the two special conditions) whereby Crdit Agricole undertook to pay as per your instructions after receipt of confirmation that you have taken up documents and the next paragraph with its five further references to CBI by the words you or your.
+A third reason is that the first special condition makes little if any sense, read as an undertaking confined to SOMO.
+It would amount to an engagement to SOMO to pay the proceeds of the credit to a particular Federal Reserve Bank account irrespective of any conflicting instructions contained in the sellers [ie SOMOs] invoice or any transmitted letter.
+What is the sense, or legal force, of an undertaking to X to do something even if X gives contrary instructions? In contrast, an undertaking to CBI to pay CBI even if SOMO gives contrary instructions is comprehensible and valuable.
+Fourthly, the fact that the first special condition is addressing primarily CBI and its (your) account, rather than SOMO or any account of its, is highlighted by the contrasting use of the phrase sellers commercial invoice when reference did come to be made to SOMO in that condition.
+So read, the two special conditions are mutually reinforcing.
+They constitute a tri partite agreement between Crdit Agricole, CBI and SOMO that the proceeds of the letter of credit will be paid, and paid only by irrevocable agreement, to CBI.
+It is, as I have indicated, now accepted, realistically, that whatever contractual arrangements are contained in the letters of credit are binding, and that no problem relating to absence of consideration arises.
+That being so, I am unable to see how any debt can, upon presentation of the required documentation, be said to be owed by Crdit Agricole to anyone save CBI.
+No doubt, Crdit Agricole is party to a binding and irrevocable agreement with both SOMO and CBI that payment will be made to, and only to, CBI.
+No doubt SOMO might seek an order for specific performance of that obligation on Crdit Agricoles part towards CBI, or damages for its non performance, if SOMO could show any.
+But the only party which can be said to have a right to the payment, upon and following such presentation, is CBI.
+The only debt which can be said to be due is to CBI.
+When three parties have agreed between themselves, irrevocably and bindingly, that a debt which would otherwise have been payable by A to S will instead be paid, and paid only, by A to C, I cannot see how it can be said that the debt still remains, in some metaphysical world, due from A to S and that payment to C remains a means of discharging a continuing liability to section The tripartite nature of the agreement means that it is goes beyond simple assignment, in two respects: first, the debt never becomes due by the third party debtor (Crdit Agricole) to SOMO in the first place; it is from the outset due to CBI; and, second, Crdit Agricole has promised CBI, directly and irrevocably, to pay CBI the proceeds.
+The first reason also means that the situation goes beyond novation.
+But these respects make it even less permissible for a court to conclude that any debt exists in favour of SOMO.
+Tauruss submission that each letter of credit can be analysed as giving rise, upon presentation of the required documents, to, first, a debt in favour of SOMO, coupled with a collateral agreement that the debt would be met by paying, and paying only, CBI is, to my mind, extremely odd.
+Whatever the position under any sale contract (which is here irrelevant: see para 84 above), there is under the letter of credit no antecedent debt or Urschuld.
+This is a composite letter of credit, creating one set of rights, which must be construed as a whole.
+There is no question of any right to payment by Crdit Agricole arising prior to or outside the terms of the credit, and the only right to payment which the credit creates is, by agreement of all concerned, in favour of CBI.
+I can think of no precedent for an analysis (see per Lord Clarke in para 23 of his judgment) which would mean that, under one and the same tri partite contract, Crdit Agricole owed and could be obliged to pay moneys to SOMO (which is the precondition for a third party debt order by Taurus), but would, by performing this obligation towards SOMO, be in breach of contract towards, and become liable to pay damages to, CBI.
+Why an obligation to pay CBI money should only sound in damages, rather than debt, is also unexplained.
+I address later in this judgment the majoritys further suggestion that Crdit Agricoles obligation to CBI to pay CBI, or to pay damages in default, to CBI would somehow be conditional upon no third party debt order having been made against SOMO: see paras 109 and 110 below.
+I add, for completeness and not because it is critical in this case, that, even if CBI was to receive the sum of money as trustee for SOMO, still it would be CBI that would be owed the sum, not SOMO.
+Even if it could be suggested that the irrevocable tripartite agreement was for CBI to receive the sum simply as SOMOs banker (rather than by virtue of some arrangement giving CBI its own interest in receiving the moneys and in the moneys received), still the terms of the letter of credit make it impossible for SOMO to intervene and insist on payment to itself; the only debt due to SOMO, and capable of being the subject of a third party debt order, would on this hypothesis be the debt due by CBI as banker to SOMO, once CBI had received the proceeds of the credit.
+In fact, however, it is clear that CBI was not simply receiving the moneys as SOMOs banker or for the credit of SOMO, but in order to hold them for the credit of the State of Iraq in the Oil Proceeds Account, from which 95% of such moneys would be transferred to the States Oil Development Fund, while 5% would go to the United Nations Compensation Fund Account for reparations to Kuwait.
+It is common ground, as Field J records in para 69 of his judgment, and it was also expressly accepted by Mr Gordon Pollock QC for Taurus in his submissions before the Supreme Court, that, once the money reached CBI, it was gone, and SOMO would have no interest or rights in or over it.
+The effect of the parties tripartite and irrevocable agreement is, without more, to give CBI an interest of its own in the debt being discharged by payment to it.
+It also clear, as Lord Sumption accepts (para 64) that this must been created to protect a wider general interest in the ultimate disposition of the proceeds.
+Whether that wider general interest engaged CBI itself or only those for whom it was to hold the proceeds is however irrelevant.
+It is irrelevant to engage in speculations about possibilities, as Lord Sumption goes on to invite in para 64.
+The enforceable interest given to CBI sounds in debt, whether it was given to protect CBI itself or those to whom CBI was to account for the proceeds.
+However, if we do look at the facts, the State of Iraq and/or the United Nations Compensation Fund had the clearest interest in CBI being entitled to receive as well as receiving the moneys which it was CBIs role to hold to their credit.
+One can readily infer that it was to protect that interest that it was ensured that each credit contained the tripartite agreement irrevocably committing Crdit Agricole to pay the letter of credit moneys to the credit of CBI, rather than of SOMO.
+To attach relevance to the possibility that CBI was not thereby ultimately going to benefit itself ignores the fact that contractual arrangements are frequently made for the benefit of third parties.
+That does not make them any the less valid or enforceable.
+If the arrangements involve the creation of an obligation to CBI to pay CBI a specific sum of money, that it enforceable as such as a debt.
+If (contrary to the position here) the arrangements take some other form, their breach will give rise to a claim for whatever damages may flow, and be recoverable in law, as a result of that breach. (Under the doctrine of transferred loss such damages might in some cases even embrace loss suffered by the other parties for whose benefit the arrangements were made, but, whether that is so or not is irrelevant to the binding nature of the contractual arrangements themselves).
+References to the possibility of a transfer of the credit under UCP 600, article 38 (Lord Sumption, para 64) carry matters nowhere.
+Article 38 concerns transfer of the benefit of a credit to a different beneficiary, to enable it to present in its own name conforming documents in respect of all (or, where a credit is divisible, some) of the transactions to which the credit relates.
+It has nothing to do with and in no way impacts upon either (a) an assignment to a person other than the named beneficiary of the debt resulting from the presentation of conforming documents by the named beneficiary or (b) the present case, where all parties to the credit agreed from the outset that payment of the debt should be due, and due only and irrevocably, to such a person (here CBI).
+The majoritys suggestion is that a debt which remains owed to SOMO can be severed from a collateral obligation existing to pay it to CBI.
+The first point about this is that it begs the question to describe the obligation to pay CBI as collateral.
+It is the obligation to pay under the letter of credit.
+That is a point which takes one back to the proper construction of each credit.
+The second point is, however, that the suggested collateral obligation is said to entitle CBI, if it does not receive payment, at least to claim damages against Crdit Agricole (para 23 of Lord Clarkes judgment).
+But that on its face at once exposes Crdit Agricole to double liability contrary to Socit Eram.
+The answer which Lord Clarke and Lord Sumption apparently give to this objection is that the making of a third party debt order against the debt owed to SOMO would in some way or another discharge Crdit Agricoles liability to pay CBI: see their paras 56 and 69 70.
+Lord Sumption speaks of a third party debt order as modifying or over riding personal obligations.
+That is fair enough if one is talking about the effect of such an order in requiring a third party debtor, who actually owes money to a judgment debtor, to pay the money instead to the judgment creditor.
+As long as the third party debt is sited in the jurisdiction making the third party debt order, the effect of such payment will be to discharge the third party debtor.
+The third party debtors obligations are only modified to the extent of the destination of its payment.
+As long as whatever payment it makes discharges its liability, the modification is of no concern to the third party debtor; it is not disadvantaged.
+Lord Sumptions proposition is, in contrast, that a third party debt order can modify the rights of an unconnected fourth party to whom the judgment debtor and the third party have in fact contracted that the third party will pay any indebtedness.
+That is a completely novel proposition and contrary to principle.
+No feature of the legislation, rules or case law relating to third party debt orders exists, or has hitherto ever been suggested to exist, that could in this way discharge the contractual rights of a person in CBIs position owing no debt whatever to Taurus.
+Lord Sumption suggests (para 69) that: Otherwise a judgment debtor could defeat any process of execution against his assets simply by undertaking for good consideration not to comply with an order by way of enforcement.
+This suggestion is, with respect, difficult to follow.
+A judgment debtor clearly cannot contract with anyone not to comply with a court order.
+Such a contract would, among other things, be contrary to public policy.
+But a judgment debtor can part with assets or enter into arrangements which give another person rights that would in other circumstances be the judgment debtors.
+If, as here, a judgment debtor has effectively agreed that a contractual asset that might otherwise have been his, should enure solely and irrevocably to another person, the judgment debtor does not possess that asset.
+Lord Clarke (para 56) suggests an alternative route to his desired answer, viz that Crdit Agricoles obligation to pay in accordance with its promised method is necessarily subject to the implicit qualification that the funds have not been intercepted by judicial intervention.
+But implicit qualifications are no exception to the usual rules of contractual implication.
+There is no basis (still less any necessity) for implying that CBI (still less those to whom it was to channel the moneys) would be prepared to forego CBIs contractual right to payment, merely because a judgment creditor of SOMO happened to seek or obtain a third party debt order.
+The legal position is quite the opposite.
+It is integral to the principles governing third party debt orders, and clear beyond doubt in the caselaw discussed above, that the making of a third party debt order depends on the existence of contractual indebtedness by the third party to the judgment debtor alone, in which no fourth party has any other legally enforceable interest.
+Lord Sumptions more developed suggestion is that, since the obligation owed by the issuing bank to CBI was to discharge the debt owed to SOMO by crediting CBIs New York account, that obligation depended on the continued existence of the debt owed to SOMO (para 70).
+This again takes one back to construction of the credits.
+But in doing so it highlights the extent to which the majoritys construction ignores the agreement by all parties to the credits that CBI (and indirectly those for whom CBI would be receiving the proceeds) should have an interest protected by an irrevocable promise in payment being made, and made only, to CBI.
+One may ask: what is left of that promise if its enforcement is conditional on the debt owed to SOMO not being discharged? The logic of Lord Sumptions suggestion is, indeed, that, if, quite irrespective of any third party debt order, Crdit Agricole had chosen to pay SOMO rather than CBI, any right which CBI had to receive payment would have ceased to exist.
+If, on the other hand, Lord Sumption would, in some way, seek to distinguish between voluntary discharge by Crdit Agricole of the supposed debt to SOMO and forced discharge by payment to Taurus under a third party debt order, the distinction is neither explained nor justified.
+It would give a third party debt order a priority over the rights of innocent fourth parties which is, again, contrary to the caselaw and unprincipled.
+Summary
+In the present context, and in the light of the terms of each letter of credit and the well established principles governing construction and the meaning of debt for the purposes of third party debt orders, I am quite unable to see how SOMO itself can be said to have been owed a debt, when the terms of the letter of credit constitute an irrevocable agreement between Crdit Agricole, CBI and SOMO that (i) any payment under the credit should be made to CBI, and that (ii) SOMO should have no right itself to demand, receive from or enforce against Crdit Agricole any such payment (except no doubt a right to demand that Crdit Agricole make any payment to CBI).
+More particularly, the majoritys emphasis on SOMOs role as beneficiary is incapable of justifying the majority conclusion.
+SOMO as beneficiary has rights, which it is entitled to enforce.
+It can insist on performance of the letter of credit terms.
+But its rights do not, under the terms of this letter of credit, include the right to require or obtain payment to itself.
+This right it has foregone, by a binding contractual engagement, which it committed itself contractually not to revoke.
+Further, to hold, in these circumstance, that Crdit Agricole owes SOMO a debt, which can be the subject of a third party debt order, is in direct contradiction with the principle that a judgment creditor cannot stand in a better position than the judgment debtor did in relation to the third party against whom the third party debt order is sought: Ferrera v Hardy [2015] EWCA Civ 1202; [2016] HLR 9, para 13, per Floyd LJ, cited in para 90 above.
+This is, as I see it, precisely the same principle as Chitty J put in slightly more moralistic terms, when he said (para 90 above) that a third party debt order: charges only what the judgment debtor can himself honestly deal with; that rule is now settled. [Counsel argues] that I ought not to apply the well settled rule to this case.
+But I see no reason why any Act of Parliament or Rules of Court should be so interpreted as to make a man do a dishonest act, and yet if I were to allow [counsels] argument the judgment creditor would obtain, not the property of the judgment debtor, but that of some one else.
+Here, it is clear that the relevant property the contractual right to claim payment to itself under each credit was vested, by agreement of all concerned, in CBI, not SOMO.
+The majority judgment is also inconsistent with the reasoning of Lord Ellenborough cited with approval by the Court of Appeal in the Rekstin case (para 92 above).
+The suggested distinction between and co existence of inconsistent principal and collateral obligations under one and the same tri partite contract (paras 103 and 108 above) is a remarkable, and to my mind incoherent, novelty in our law, with potential to create confusion in future.
+Just as importantly, the majority judgment undermines the clarity and simplicity of the law regarding garnishee or third party orders as hitherto understood.
+Finally, it appears irreconcilable with the underlying principle governing third party debt orders highlighted by the House of Lords in Socit Eram.
+State immunity
+I prefer to express no opinion on this subject.
+It does not arise on the view I take of the case, because there is on that basis no question of making any third party debt order (or receivership order).
+Since I cannot accept the analysis of a (principal) debt owed to SOMO, with an irrevocable collateral obligation to pay it to CBI, which would then hold the proceeds for the State of Iraq (and, as to 5%, the United Nations), I find it difficult to address the implications of such an analysis.
+I would not exclude the possibility that, on this analysis, the making of a third party debt order against Crdit Agricole might constitute indirect impleading with the right to the proceeds which the State of Iraq would otherwise have enjoyed.
+But I would wish, if it had been appropriate or necessary, to consider the point further.
+A receivership order
+Had the debt under each credit been owed by Crdit Agricole to SOMO alone, with no question of any obligation (whether described as collateral or otherwise) owed to CBI to pay CBI, then I would have agreed that a receivership order could and should be made.
+But on the majoritys analysis of the case as involving a principal debt owed by Crdit Agricole to SOMO with a collateral obligation at the same time owed to CBI to pay it to CBI, I am unable to see how it would be appropriate to make a third party receivership order against Crdit Agricole.
+Such an order should not be made to interfere with the rights of an uninvolved fourth party (CBI) owing nothing to the judgment debtor (Taurus) which is what CBI on any view is.
+Conclusion
+The reasons I have given in paras 84 to 117 above for dismissing this appeal correspond broadly with, though expand upon, reasons given by both Sullivan and Briggs LLJ.
+They also correspond broadly with those given by Lord Neuberger whose judgment I have had the benefit of seeing after preparing the bulk of paras 84 to 117.
+I therefore consider that the Court of Appeal reached the right conclusion, that there was no basis for a third party debt order over the proceeds of the letters of credit in favour of Taurus and that the appeal should be dismissed on this point.
+LORD NEUBERGER: (dissenting)
+Introductory
+This appeal arises out of an application by Taurus Petroleum Ltd (Taurus) to enforce an Iraqi arbitration award for some US$8.7m against State Oil Marketing Company of the Ministry of Oil (SOMO) by means of a third party debt order (TPDO) under CPR 72.
+The TPDO sought by Taurus is in relation to sums payable pursuant to certain letters of credit (the Letters of Credit), which were issued at the request of Shell International Eastern Trading Co (Shell) by the London branch of Crdit Agricole SA, and which named SOMO as the beneficiary.
+Those Letters of Credit provided for payment to be made to an account in the name of the Central Bank of Iraq (CBI) at the Federal Reserve Bank of New York (FRB) in New York, and included a promise in favour of CBI that payment would be made in that way.
+Each of the Letters of Credit is in identical form and has been drafted by inserting two paragraphs, condition A and condition B, into the middle of what is otherwise a fairly familiar or standardly worded letter of credit, without careful thought having apparently been given to the interrelationship between those two conditions and the rest of the document.
+The precise terms of the Letters of Credit are as set out in para 9 of the judgment of Lord Clarke.
+There are five issues to which this application potentially gives rise.
+Those issues are as follows: a.
+What is the situs of the debts created by the Letters of Credit? A TPDO can only be made in respect of a debt outside the jurisdiction if compliance with the TPDO would be recognised in that jurisdiction as discharging the primary debtors liability; if the debts in this case are sited not in London but in New York, as was held below, this requirement would not be satisfied. b.
+To whom are the debts created by the Letters of Credit owed? Under CPR 72.2(1), a TPDO can only be granted in respect of a debt due or accruing due to SOMO; Taurus accordingly have to establish that the debts are owed to SOMO (as Moore Bick LJ held); Taurus cannot succeed if (as Field J held) the debts were also owed to CBI, let alone if (as Sullivan and Briggs LJJ held) they were not owed to SOMO at all but to CBI. c.
+If the debts could otherwise be subjected to a TPDO, should the commitment to CBI in the Letters of Credit prevent the court from making a TPDO? Moore Bick LJ considered that it should not. d.
+Does state immunity prevent the making of TPDO? The Court of Appeal decided that section 14(4) of the State Immunity Act 1978 would preclude the making of a TPDO if the debts were owing to CBI (as the sole or a joint debtor), but state immunity did not apply if the debts were owed to SOMO alone; there is no appeal against either limb of this conclusion. e.
+Should a receivership order be made against SOMO? The Court of Appeal decided that such an order should not be made.
+Taurus appeals against that decision.
+Although this is not quite the same order as that in which the points were argued, it seems to me that it is more logical to discuss first the self contained issue of the situs of the debts created by the Letters of Credit, then to deal with the other questions relating to the TPDO issue, all of which arise from the unusual provisions conditions A and B, and finally to address the free standing receivership issue.
+The first issue: the situs of the debts
+Lord Clarke has explained in paras 29 to 41 above why the Court of Appeal concluded that the situs of the debts created by the Letters of Credit was New York and why he considers that conclusion is wrong.
+For the reasons which Lord Clarke succinctly gives in para 31, the situs of the debts in this case is London.
+The reason the court below held that it was New York was because they were bound by the majority decision of the Court of Appeal on the situs of debt issue in Power Curber International Ltd v National Bank of Kuwait SAK [1981] 1 WLR 1233.
+In that case, Lord Denning MR and Griffiths LJ decided, without explaining why, that [a] debt under a letter of credit is different from ordinary debts, to quote Lord Denning at p 1240F.
+At p 1244B D, Waterhouse J dissented on this point, and he was quite right to do so.
+I can see no reason for holding that a debt due under a letter of credit should be differently treated from other debts for the purpose of deciding its situs.
+Such unreasoned distinctions do the common law, and in particular, commercial law, no favours.
+Consistency, certainty and clarity should be guiding principles.
+Ironically, because the decision on this point in Power Curber has stood unchallenged for over 35 years, it must be accepted that there is an argument based on certainty for not departing from it.
+Hence the valuable analysis of the textbooks and cases in this and other common law jurisdictions in paras 36 to 40 above.
+In agreement with Lord Clarke, I consider that this analysis clearly establishes that Power Curber has not been nearly well enough established as representing the law to justify us following its mistaken conclusion on this issue.
+The second issue: to whom are the debts owed?
+The issue to be resolved is the nature of the right granted to CBI as a result of the inclusion of conditions A and B in the Letters of Credit.
+Taurus argues that those conditions involve Crdit Agricole as debtor (i) agreeing with SOMO as the person owed the debt that the debt will be met by the sums due under the Letters of Credit (the Sums) being paid into CBIs account at FRB, and (ii) collaterally agreeing with CBI that it will pay the Sums into CBIs account at FRB.
+By contrast, SOMO argues that the effect of the inclusion of the two conditions in the Letters of Credit is that Crdit Agricole as debtor (i) agrees with CBI to pay the Sums into CBIs account at FRB, thereby rendering CBI the person owed the debt, and (ii) agrees with SOMO, as the initial beneficiary of the Letters of Credit, and CBI, as the person owed the debt, to comply with that obligation.
+The first analysis is consistent with the opening part of the Letters of Credit, bearing in mind in particular that the Letters of Credit are stated to be to SOMO, and in favour of SOMO and that SOMO is therein described as the beneficiary.
+Those expressions indicate that, in the normal way, the Sums due from the buyer requesting the issue of the Letters of Credit, Shell, are owing to SOMO, as the seller and beneficiary under the Letters of Credit.
+That, of course, reflects the fact that, as between buyer and seller at the time of issue of the Letters of Credit, there was simply a debt owing from the buyer, Shell, to the seller, SOMO, which, in the absence of any contrary provision one would expect to see reflected in the Letters of Credit.
+If conditions A and B simply contained a commitment by Crdit Agricole to pay the sums due into CBIs account with FRB, it would make no difference to this conclusion.
+However, in my opinion, the problem with the first analysis lies in the fact that conditions A and B involve commitments to CBI.
+Reading conditions A and B together, there can be no doubt that the your in condition A must refer to CBI, given that condition B requires payment into CBIs account at FRB as specified, and condition A is an obligation to pay into your account with FRB with reference to Iraq Oil Proceeds account.
+Accordingly, under condition A, Crdit Agricole agrees with CBI that it will ensure that the Sums will be paid into an account in the name of CBI not of SOMO.
+To put it at its lowest, that is a pretty good indication that the beneficiary, or at least a beneficiary, of the right to be paid the sums in question is CBI: if X agrees with Y that X will pay a sum of money into Ys account, the natural inference is that the debt is owed to Y. The opening words of the condition add nothing, as the sum would not have to be paid in any event unless all terms and conditions of this letter of credit [were] complied with.
+The point is reinforced by the irrevocability of the commitment as recorded in the last sentence of condition A, and also in my opinion by condition B.
+That condition is a promise to, or engagement with, SOMO as well as CBI, but, subject to any other provision of the Letter of Credit, this appears to me only to amount to a separate contractual commitment by Crdit Agricole to SOMO, as well as to CBI, to pay the Sums into CBIs account with FRB as already stated in condition A ie a collateral commitment.
+A contract by X with Y and Z to pay money to Y, it would, at least normally, create a debt in favour of Y, and not of Z, who merely has a contractual right to require X to pay the sum to Y. All the more so in the case of condition B, given that it follows on from condition A.
+Turning back to the part of the Letters of Credit preceding conditions A and B, I do not consider that there is any provision which calls into question the conclusion that the debt created by the document is owed to CBI alone.
+It is true that each Letter of Credit is described as being issued [i]n favour of SOMO, and that SOMO must be the person described as the beneficiary (because SOMO is clearly the beneficiary in condition B).
+However, in the light of conditions A and B, I am unpersuaded that those features justify the conclusion that the SOMO thereby is to be treated as entitled to the sums payable under the Letters of Credit.
+As I have mentioned, the Letters of Credit were issued to and in favour of SOMO as beneficiary because SOMO was providing the oil to Shell, and, therefore, subject to any agreement to the contrary, would be entitled to the Sums.
+However, the fact that the Letters of Credit were issued to and in favour of SOMO as beneficiary is by no means inconsistent with the notion that SOMO was obliged to ensure, and was therefore irrevocably directing, that payment of the Sums were to be made to CBI for CBIs benefit.
+In effect, viewed in this context, conditions A and B can be seen as recording a formal acknowledgment, binding on SOMO, CBI and Crdit Agricole, of an irrevocable assignment by SOMO to CBI of the right to receive the Sums or a novation of the contractual right to be paid those sums.
+A right can properly be described as created in favour of X in a case where, in the document creating or recording the right, X irrevocably assigns the whole of the right to Y or the right is novated in favour of Y.
+I do not regard Crdit Agricoles commitment to SOMO in condition B as inconsistent with such an analysis: the fact that the debt became vested in CBI does not mean that SOMO had no interest in where or to whom it was paid.
+It is true that in article 2 of UCP 600, referred to in paras 18 and 19 above, beneficiary is defined in article 2 as the party in whose favour a credit is issued.
+However, as I have sought to explain, that does not, at least in my view, assist Taurus in these proceedings.
+The Letters of Credit in this case can fairly be said to have been issued in favour of SOMO, but as at the moment they were issued the benefit of the right to be paid was effectively accepted, and irrevocably accepted, as having been divested from SOMO and vested in CBI.
+Accordingly, I agree with Briggs LJ when he said at para 57 of his judgment in the Court of Appeal that the unusual terms of the Letters of Credit in this case make CBI not SOMO the only creditor in respect of the money promised to be paid, and therefore solely entitled to property in the debt thereby created and that they conferred on SOMO only a non proprietary right to seek damages for breach of contract.
+Although I must confess to having been initially attracted by it, I have considerable difficulty with the conclusion reached by the majority, namely that, as Lord Clarke puts it, each Letter of Credit gave rise to two separate obligations: an obligation to pay the proceeds into the account of CBI , which was owed to SOMO alone and sounded in debt, and a separate collateral obligation to pay the proceeds into that account which was owed to SOMO and CBI jointly and sounded in damages.
+Where X agrees with Y and Z that a sum of money will be paid to Y, it is a pretty strange conclusion (unless Z is Ys principal, trustee or the like) that the debt is owed to Z (and that Z is the creditor) and Y only has a collateral right in contract to enforce payment.
+Conceptually, it may be possible for an agreement to have that effect, but to my mind it would require very clear words to rebut the natural presumption, namely that the debt is owed to Y (and that Y is the creditor) and Z is the beneficiary of a collateral contractual commitment from X.
+In my view, far from rebutting the natural presumption, the terms of the Letters of Credit support it.
+I have already explained why that is my view, but, in summary terms it is as follows.
+Conditions A and B spell out the tripartite nature of the arrangement.
+Condition A, being an irrevocable promise to CBI pay the Sums into its bank account, appears to bear all the hallmarks of identifying the creditor as CBI: it is a promise to CBI (and CBI alone) to pay and specifically to pay into CBIs bank account.
+Condition B, being a promise to CBI and SOMO to honour this irrevocable promise as specified, bears all the hallmarks of a purely contractual obligation collateral to that in condition A: it comes after, and refers back to, condition A, and it is a promise to SOMO as well as to CBI.
+Further, it seems to me somewhat odd to treat each Letter of Credit as imposing on Crdit Agricole an obligation to pay the proceeds into the account of CBI which was owed to SOMO alone and sounded in debt when condition A contains a clear commitment to CBI to pay the proceeds into the account of CBI.
+I appreciate that Lord Clarkes analysis is based on the earlier part of the Letters of Credit, but, for the reasons I have given, it does not appear to me that they undermine what appears to me to be the clear effect of conditions A and B.
+If this conclusion is right, the third issue does not arise.
+However, in view of the majority conclusion on this second issue, it does arise.
+In any event, it would be right to decide the issue, as it involves a point of some significance.
+The third issue: the effect of the agreement with CBI
+This issue has to be approached on the basis that (as the majority of this court have concluded and contrary to my view) SOMO is owed, and CBI is not owed, the debts created by the Letters of Credit.
+In other words, this issue must be approached on the assumption that each Letter of Credit gave rise to two separate obligations: an obligation to pay the proceeds into the account of CBI , which was owed to SOMO alone and sounded in debt, and a separate collateral obligation to pay the proceeds into that account which was owed to SOMO and CBI jointly and sounded in damages, to quote again Lord Clarkes conclusion.
+At first sight, the conclusion that SOMO is the sole creditor in respect of the debts appears to justify the conclusion that a TPDO can be made in respect of them.
+But it is argued by SOMO that such an order would be inconsistent with what is sometimes called honest dealing, because it would cut across the rights of third parties.
+In this case, even assuming that the sum payable under each of the Letters of Credit was a debt owed to SOMO alone, each Letter of Credit also contained a contractual commitment to CBI to pay the sum into its account at FRB in New York.
+Despite the fact that Moore Bick LJ and the majority of this Court have concluded that CBIs contractual rights as recorded in the Letters of Credit should not prevent the court making a TPDO, it seems to me that it would be inappropriate for a TPDO to be made.
+If the TPDO is made, then the debts owing to SOMO under the Letters of Credit would be discharged through payment of the Sums to Taurus by virtue of the TPDO, but I do not see why that should mean that the separate right enjoyed by CBI under condition A should be treated as discharged by such payment.
+In other words, even if the TPDO is granted and has effect, I consider that CBI should still be able to sue to enforce its contractual right under condition A to have the sum paid into its account.
+The enforcement of CBIs right, on this hypothesis, would only sound in damages, but it is hard to see how the measure of damages would not be an amount equal to the sum.
+In effect, therefore, the making of a TPDO would impose on Crdit Agricole the obligation to pay the sum due under each of the Letters of Credit twice, once as a debt to Taurus pursuant to the TPDO, and once by way of damages to CBI.
+In my view, if that is the result of the making of a TPDO, then it cannot be right to make such an order.
+It would, in my judgment, be an abuse of the courts power to make a TPDO if it had such an effect.
+It may well be that, as I think is suggested by Lord Mance, this conclusion can be justified by reference to a general principle that a TPDO (like its predecessor, a garnishee order) will only be made in respect of a sum which is otherwise due to be paid to the person on whose liability the applicant for the TPDO relies see eg Webb v Stanton (1883) 11 QBD 518, at pp 526 and 530, per Lindley LJ and Fry LJ respectively.
+Condition B does not call this conclusion into question, as it is additional to condition A.
+In fact it provides another ground for the same conclusion.
+Condition B involves a promise for the joint and/or several benefit of SOMO and CBI to have the Sums paid into CBIs account.
+Given that the promise is for the joint benefit of SOMO and CBI, it cannot be satisfied by a payment which can only be treated as being for the benefit of SOMO alone.
+It is right to add that, even if I am wrong in my view expressed in para 141 above that CBIs contractual claim would survive the grant and enforcement of the TPDO sought by Taurus, I would still consider it wrong to grant the TPDO.
+On this hypothesis, the grant of the TPDO would deprive CBI of its separate contractual right to be paid the sums due under the Letters of Credit.
+For the court to grant a TPDO would, on this hypothesis, involve enabling Taurus to obtain a right over the Sums which is superior to the rights of CBI, even though CBIs rights in relation to those sums would pre date those of Taurus, and Taurus would have had notice of CBIs rights when the TPDO was granted, indeed when it applied for the TPDO.
+That would seems to be contrary to normally accepted commercial practice and legal principle.
+I agree with Lord Mance that this conclusion derives support from the recent decision of the Court of Appeal in Merchant International Co Ltd v Natsionalna Aktsionerna Kompaniia Naftogaz Ukrainy [2014] EWCA Civ 1603.
+The argument that the grant of a TPDO would give Taurus a proprietary right over the debts created by the Letters of Credit, which is superior to CBIs simple contractual right to have the debts satisfied by payment into its account at FRB, takes matters no further in my view.
+It involves Taurus dragging itself up by its own bootstraps: the primary issue is whether a TPDO should be granted, not the effect of a TPDO once it is granted.
+As at the date that the TPDO was sought, Taurus was simply a creditor of SOMO with no rights in relation to the debts created by the Letters of Credit, whereas CBI had a contractual right to have the sums meeting the debts paid into its account.
+As I have said, and subject to what I say in the next paragraph of this judgment, it seems to me that it would be an abuse of the courts powers to grant a TPDO to Taurus if it would deprive CBI of its prior and bona fide contractual rights created in the very document giving rise to the debt which Taurus is seeking to divert.
+And if the TPDO does not prevent CBI from enforcing its contractual rights, then it would still be an abuse, as it would land Crdit Agricole with the obligation of having in effect to pay the same debt twice.
+In my view, the only way in which Taurus can get round this problem would be if CBIs contractual right under the Letters of Credit is no more than a right to insist on Crdit Agricole complying with its obligations to SOMO under the Letters of Credit.
+If that were the right analysis, then there would be no problem about making a TPDO: the making and implementing of a TPDO would not represent a breach of SOMOs rights, and therefore would not represent a breach of CBIs rights.
+However, I find it very difficult to accept that it is the right analysis.
+Even if the effect of conditions A and B is to give CBI no more than a contractual right against Crdit Agricole to have the Sums paid into its account, I do not consider that those conditions can be sensibly interpreted as limiting CBIs rights to those to which SOMO is entitled.
+Condition A is expressed as being an unqualified obligation, and I see no reason for implying into it a limitation of this nature.
+At least equally tellingly, condition B is expressed as being an obligation to both SOMO and CBI, without any suggestion that either of them is subordinate to the other.
+The fact that the debts arising from the Letters of Credit are (as I am assuming in connection with the third issue) owed to SOMO does not justify giving the limited effect to CBIs rights under the two conditions as, at least in my view, is required if a TPDO is to be granted.
+The fourth issue: state immunity
+No argument was developed on the issue of state immunity, although it was an issue in the courts below.
+Given that it is accepted that Moore Bick LJ was right to conclude that state immunity would apply if CBI was the sole creditor or a joint creditor, but not if SOMO was the sole creditor, this is readily understandable.
+As explained in para 123(b) above, a TPDO could anyway only be made if SOMO was the sole creditor, so the state immunity issue has no effect on the outcome of this appeal.
+The fifth issue: should a receivership order have been made?
+I have read Lord Clarkes observations on this issue in paras 47 to 58 above.
+The principles are not in doubt, but their application in this case is not easy.
+I agree that we can consider the point afresh as Moore Bick LJs decision to refuse a receivership order was clearly affected by his (inevitable but mistaken) view that the situs of the debts was outside the jurisdiction in New York, whereas it is in London.
+On balance, I agree with Lord Clarke that a receivership order is appropriate for the reasons which he gives.
+Conclusions
+Accordingly, I conclude that: a.
+The situs of the debts created by the Letters of Credit is England and there is therefore no jurisdictional impediment to the grant of the TPDO sought by Taurus; b. However, the debts are owed to CBI, and not to SOMO, so it is not open to the court to grant a TPDO as it is SOMO, not CBI, which owes money to Taurus; c.
+If, contrary to my view, the debts are owed to SOMO, I would still hold that a TPDO could not be granted in the light of CBIs contractual rights under the Letters of Credit; d.
+As CBI has state immunity, that is another reason why a TPDO cannot be granted; but if the debts were owed solely to SOMO, it would not have state immunity; e. A receivership order could properly be made against SOMO.
+Accordingly, in the light of my conclusions in paras 148(b), (c) and (d) above, I would dismiss Tauruss appeal so far as it challenges the refusal of the Court of Appeal to grant a TPDO, but, in the light of my conclusion in para 148(e) above, I would allow Tauruss appeal in so far as it challenges the refusal of the Court of Appeal to make a receivership order.

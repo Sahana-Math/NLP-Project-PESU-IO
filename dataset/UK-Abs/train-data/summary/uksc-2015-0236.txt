@@ -1,0 +1,33 @@
+In October 2014, PST Energy 7 Shipping LLC and Product Shipping and Trading S.A., the owners and managers of the vessel Res Cogitans, (collectively, the Owners) ordered a quantity of marine fuel, (the bunkers) from OW Bunker Malta Ltd (OWB).
+The contract between OWB and the Owners provided for payment 60 days after delivery and included a clause under which property was not to pass to the Owners until payment for the bunkers had been made.
+It also entitled the Owners to use the bunkers for the propulsion of Res Cogitans from the moment of delivery.
+OWB obtained the bunkers from its parent company, OW Bunker & Trading A/S (OWBAS).
+OWBAS obtained the bunkers from Rosneft Marines (UK) Ltd (RMUK), which obtained them from RN Bunker Ltd (RNB).
+In November 2014 OWBAS announced that it was applying to the Danish courts for restructuring and subsequently became insolvent.
+ING Bank NV (ING) became the assignee of OWBs rights against the Owners.
+The Owners consumed all of the bunkers in the vessels propulsion, without making payment to OWB, which did not make payment to OWBAS, which in turn did not make payment to RMUK.
+RMUK paid RNB and demanded payment from the Owners, asserting that it remained the owner of the bunkers.
+The Owners commenced arbitration against OWB and ING, seeking a declaration that they were not bound to pay for the bunkers, or damages for breach of contract, on the grounds that OWB had been unable to pass title to them, owing to the application of section 2(1) and s.49 of the Sale of Goods Act 1979 (SoGA).
+The arbitrators determined that OWB did not undertake to transfer property in the bunkers to the Owners under the Contract and that the Owners therefore remained liable to pay OWB/ING.
+Males J agreed and the Court of Appeal dismissed a further appeal by the Owners.
+The Supreme Court unanimously dismisses the appeal by the Owners, PST Energy.
+Lord Mance gives the only judgment, with which the other Justices agree.
+There are three issues before the Supreme Court: (1) Was the contract a contract of sale within the meaning of section 2(1) of SoGA? (2) If not, was it subject to any implied term that OWB would perform or had performed its obligations to its supplier, in particular by paying for the bunkers timeously? (3) Should the Court of Appeal decision F G Wilson (Engineering) Ltd v John Holt & Co (Ltd) [2014] 1 WLR 2365 (known as Caterpillar) be overruled? [22, 24]
+Was the contract a contract of sale under section 2(1) the Sale of Goods Act 1979? section 2(1) of SoGA defines a contract of sale of goods as one by which the seller transfers or agrees to transfer the property in goods to the buyer for a money consideration, called the price.
+OWB argues that this was a contract of sale within that definition.
+But bunker suppliers know that bunkers are for use prior to payment [27].
+OWBs contract with the Owners therefore cannot be regarded as a straightforward agreement to transfer the property in the bunkers to the Owners for a price under section 2(1).
+It was a sui generis (unique) agreement, with two aspects: first, to permit consumption prior to any payment and without any property ever passing in the bunkers consumed; and second, if and so far as bunkers remained unconsumed, to transfer the property in the bunkers remaining to the Owners in return for the Owners paying the price for all of the bunkers, whether consumed before or remaining at the time of payment [28, 34].
+Even if the contract were to be analysed as a contract of sale, in that it contemplated the transfer of property in any bunkers unused at the date of payment, OWB could not owe any obligation to transfer property in bunkers consumed before payment.
+It would cease to be a contract of sale if and when all such bunkers were consumed before payment [36 37].
+Was there an implied term that OWB would pay timeously? In consequence of his conclusion at [28] Lord Mance finds that OWBs only implied undertaking as regards the bunkers which it permitted to be used, and which were used by the Owners in propulsion prior to payment, was that OWB had the legal entitlement to give such permission [39, 59].
+Should Caterpillar be overruled? The Court of Appeal held in Caterpillar that where goods are delivered under a contract of sale but title is reserved pending payment of the price, the seller cannot enforce payment of the price by an action [42]. section 49(1) of SoGA enables an action for the price where the seller has transferred property, with or without delivery, and the buyer has failed to pay the price due [44].
+Lord Mance considers that section 49(2) reflects an established common law exception to the rule in section 49(1) [45].
+The question of principle is whether section 49 excludes any claim to recovery of a price outside its express terms. section 49(2) relaxes only partially the strictness of section 49(1).
+The 1893 Act which introduced the wording now found in section 49(2) reflected the common law in an era when freedom of contract and trade were axiomatically accepted as beneficial.
+Therefore a court should be cautious about recognising claims to the price of goods in cases not falling within section 49 but this leaves at least some room for claims for the price in other circumstances [53].
+For instance, the price may be recovered in respect of goods undelivered which remain the sellers property but are at the buyers risk and are destroyed by perils of the seas or by fire.
+The present situation is an even stronger example [57].
+Lord Mance declined to set the precise limits for the circumstances in which the price may be recoverable outside section 49.
+Had the contract between OWB and the Owners been one of sale, Lord Mance would have held, over ruling the Caterpillar case on this point, that section 49 is not a complete code of situations in which the price may be recoverable under a contract of sale.
+In the present case the price was recoverable by virtue of its express terms in the event which has occurred, namely the complete consumption of the bunkers supplied [58, 60].

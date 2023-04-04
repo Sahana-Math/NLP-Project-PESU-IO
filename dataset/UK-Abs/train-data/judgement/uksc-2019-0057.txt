@@ -1,0 +1,974 @@
+This is a more than usually anxious case.
+It concerns the death penalty.
+The United Kingdom is party to the Thirteenth Protocol to the European Convention on Human Rights (2004).
+In its preamble, the contracting states state that they are convinced that everyones right to life is a basic value in a democratic society and that the abolition of the death penalty is essential for the protection of this right and for the full recognition of the inherent dignity of all human beings.
+The UK Parliament had already demonstrated this conviction by finally abolishing the death penalty for murder in 1969 and for the few remaining offences to which it applied in 1998.
+As Lord Dyson MR put it, in R (Sandiford) v Secretary of State for Foreign and Commonwealth Affairs [2013] EWCA Civ 581; [2013] 1 WLR 2938, the death penalty is (in my view) rightly regarded by the Government as immoral and unacceptable (para 61).
+But it is not enough to think the death penalty immoral and unacceptable.
+The issue in this case is the legality of the Governments decision to provide mutual legal assistance to the United States in the shape of the product of police enquiries to facilitate the prosecution of the claimants son in the United States for very serious offences, some carrying the death penalty, without seeking assurances that the death penalty would not be imposed or, if imposed, would not be carried out.
+What is immoral and unacceptable is not necessarily unlawful.
+As judges, our role is to uphold the law.
+It is understandable, therefore, that this judgment has taken a long time to emerge, as members of the court hold different views about the current state of the law.
+Because of that, I have prepared this short guide to the judgments which follow.
+The decision is attacked on two grounds (the questions certified by the Divisional Court are set out at para 19 of Lord Kerrs judgment): (i) it is unlawful at common law for the Government to facilitate the carrying out of the death penalty in a foreign state, not only by deporting or removing a person from the United Kingdom to be tried in that state, but also by providing information which may be used by that state in the trial of a person who is not currently in the United Kingdom; (ii) the decision to provide such information, insofar as it consists of personal data within the meaning of the Data Protection Act 2018 (the 2018 Act), was unlawful under Part 3 of that Act.
+The leading judgment in this case is given by Lord Kerr.
+It contains a comprehensive account of the facts, the issues, the competing arguments and the relevant national and international materials.
+It is essential reading.
+The crimes of which the claimants son is accused are the worst of the worst.
+Nevertheless, having surveyed the development of the law in great detail, Lord Kerr concludes that the decision was unlawful both at common law and under the 2018 Act.
+The majority of the Justices are unable to share his view of the common law.
+The reasons for considering that the common law has not (at least yet) developed so far are explained by Lord Reed and Lord Carnwath.
+Lord Reed also explains that the decision might be open to challenge on the more conventional ground that it lacked rationality.
+He refers to two aspects of the Secretary of States reasoning: first, that prosecution in a foreign state was necessary to ensure that justice is done, even though there is insufficient evidence to prosecute him in the UK for an offence under UK law and UK law might regard his prosecution as an abuse of process; and second that possible execution in the US was regarded as preferable to detention in Guantanamo Bay.
+Where the right to life is at stake, even decisions taken under prerogative powers may be subject to more anxious scrutiny than they otherwise would be, given the value which UK law attaches to the sanctity of all human life.
+Lord Reed does not express a view on either point.
+It is not open to the court to decide the case on this basis, as the claimant did not argue that the decision was irrational for these reasons and the Secretary of State has not had the opportunity of responding to it in this appeal.
+The issue of whether the allegations could be tried in the UK has been the subject of separate judicial review proceedings.
+The court is, however, unanimous in holding that the decision was unlawful under the 2018 Act.
+We have had the benefit, not only of very full argument on the matter from Richard Hermer QC on behalf of the claimant, but also of a very helpful intervention by Gerry Facenna QC on behalf of the Information Commissioner.
+The 2018 Act is discussed by Lord Kerr at paras 152 to 159 of his judgment and by Lord Carnwath at paras 207 to 228 of his judgment.
+The short point is that, insofar as the information provided, or to be provided, to the US authorities consisted of personal data (which much of it did) the processing of such data by the Secretary of State as data controller required a conscious, contemporaneous consideration of whether the criteria for such processing were met.
+Substantial compliance with those criteria, as found by the Divisional Court, is not enough.
+It is not in dispute that the Secretary of State, when making the decision in question, did not address his mind to the 2018 Act at all.
+There is, moreover, a further point under the 2018 Act (referred to by Lord Carnwath at para 220 of his judgment) which raises the question of whether such processing in these circumstances could ever be lawful.
+This question was explored in the argument before us but in the light of our decision on the main point it is unnecessary for us to express a concluded view.
+Nevertheless, it is worth some fuller explanation because it would undoubtedly merit further consideration if a similar issue were to arise in future.
+Part 3 of the 2018 Act makes provision about the processing of personal data by competent authorities for the law enforcement purposes and implements the European Unions Law Enforcement Directive (Directive (EU) 2016/680) (the LED) (section 1(4)).
+That Directive is therefore a legitimate aid to the interpretation of the 2018 Act.
+The law enforcement purposes listed in section 31 include the investigation, detection and prosecution of criminal offences.
+Chapter 5 of Part 3 deals with the transfer of personal data to third countries or international organisations.
+Sections 73 to 76 set out the general conditions which apply to such transfers (section 72(1)(a)).
+The data controller cannot transfer personal data unless three conditions are met (section 73(1)(a)).
+Condition 3 need not concern us, because Condition 1 was not met and it is arguable that Condition 2 could never be met.
+Condition 1 is that the transfer is necessary for any of the law enforcement purposes (section 73(2)).
+In Guriev v Community Safety Development (UK) Ltd [2016] EWHC 643 (QB), Warby J held (in the context of restricting the subjects right of access to his personal data) that: The test of necessity is a strict one, requiring any interference with the subjects rights to be proportionate to the gravity of the threat to the public interest (para 45).
+The parties agree that the same test applies in this context.
+This obviously requires the data controller to address his mind to the proportionality of the transfer.
+Condition 2 is that the transfer (a) is based on an adequacy decision of (at that time) the European Commission (see section 74); (b) if not based on an adequacy decision, is based on there being appropriate safeguards; transfers must be documented (see section 75); or (c) if not based on an adequacy decision or appropriate safeguards, is based on special circumstances (see section 76) (section 73(3)).
+This transfer was not based on an adequacy decision or on there being appropriate safeguards, because there were none.
+In this connection, it is instructive that recital (71) to the LED contemplates among those safeguards that personal data will not be used to request, hand down or execute a death penalty or any form of cruel and inhuman treatment.
+In the absence of an adequacy decision or appropriate safeguards, Condition 2 could only be met if there were special circumstances.
+Once again, it is instructive that recital (72) to the LED regards these as derogations from its requirements and as such they should be interpreted restrictively and limited to data which are strictly necessary.
+A transfer to a third country or international organisation is based on special circumstances if it is necessary for any of the five purposes listed in section 76(1).
+Only two could be relevant here: (d) in individual cases for any of the law enforcement purposes; or (e) in individual cases for a legal purpose.
+Once again, the test of necessity is a strict one, requiring the controller to address his mind to the proportionality of the transfer.
+Crucially, however, section 76(2) provides: But subsection (1)(d) and (e) do not apply if the controller determines that fundamental rights and freedoms of the data subject override the public interest in the transfer.
+Once again, this obviously requires the controller to address his mind to the fundamental rights and freedoms of the data subject and to whether they override the public interest in the transfer.
+Recital (1) to the LED states that the protection of natural persons in relation to the processing of their personal data is a fundamental right.
+Recital (17) makes it clear that the protection it affords should apply to natural persons whatever their nationality or place of residence.
+Crucially in this connection, recital (46) states that any restriction on the rights of data subjects must comply with the Charter of Fundamental Rights of the European Union and the European Convention on Human Rights and in particular respect the essence of those rights.
+Clearly, therefore, the fundamental rights and freedoms of the data subject referred to in section 76(2) must include the rights protected by the European Convention.
+These are to apply even where the data are to be transferred to a third country outside the European Union and whatever the nationality or place of residence of the data subject.
+The most fundamental of the rights protected by the European Convention is the right to life.
+This is an absolute right, not qualified by the possibility of restrictions or interferences which are necessary in a democratic society.
+Article 2.1 prohibits the state from taking anyones life intentionally: the former exception for the death penalty when provided by law has gone following the Sixth and Thirteenth Protocols to the European Convention.
+There are three limited exceptions in article 2.2, none of which apply to the infliction of the death penalty as such.
+However, article 2.2(a) does allow for a death which results from the infliction of force which is no more than absolutely necessary in defence of any person from unlawful violence.
+And recital (73) to the LED acknowledges that there may be an urgent need to transfer personal data to save the life of a person who is in danger of becoming a victim of a criminal offence or in the interest of preventing an imminent perpetration of a crime, including terrorism.
+The Government did not engage directly with the argument.
+Collectively, these provisions point towards an interpretation of section 76(2) which would not allow the transfer of personal data to facilitate a prosecution which could result in the death penalty; but which would allow such a transfer if it was urgently necessary to save life or prevent an imminent crime.
+Had it been necessary, I would have been prepared so to hold.
+LORD KERR:
+Introduction
+Shafee El Sheikh is the son of the appellant, Maha Elgizouli.
+Mr El Sheikh and another, Alexanda Kotey, are suspected of involvement in heinous offences committed in Syria.
+The enormity of those offences was rightly accepted by Mr Edward Fitzgerald QC who appeared on behalf of Mrs Elgizouli on this appeal.
+Indeed, Mrs Elgizouli also admits that these crimes are of the most awful nature.
+She accepts without question that her son should face trial for his alleged involvement in those dreadful offences.
+But she considers that that trial should take place in this country rather than in the United States of America, where, at the time of the hearing of this appeal, it was contemplated that Mr El Sheikh and Mr Kotey would be tried.
+So that there be no doubt as to the monstrous nature of the crimes of which it is claimed Mr El Sheikh and Mr Kotey are guilty, one may refer to the summary of those offences in the witness statement of Mr Graeme Biggar, the Director of National Security in the Home Office.
+His account of those crimes has not been disputed by any of the parties to this appeal.
+Mr El Sheikh and Mr Kotey are believed to be part of a group which was responsible for extremely grave offences committed against several individuals.
+These include the beheadings of 27 men.
+The US citizens James Foley, Steven Sotloff and Peter Kassig and the British citizens David Haines and Alan Henning are believed to be amongst those killed.
+These killings came to global attention by all, except one, being filmed and posted on the internet.
+It is difficult to imagine more horrific murders than those which Mr El Sheikh and Mr Kotey are alleged to have carried out.
+It is entirely understandable, therefore, that Mr Biggar should aver that the deaths suffered by those men who were brutally killed have brought untold anguish to their families.
+It is equally understandable that the families affected wish to see those responsible brought to justice.
+That aim, Mr Biggar says, is strongly supported by HM Government.
+It is an aim which must surely be shared by all right thinking members of our society.
+The proceedings so far
+This appeal raises the issue whether it was lawful for the Secretary of State for the Home Department to provide evidence to the United States that could facilitate the imposition of the death penalty.
+The appellant brought a judicial review of the provision of mutual legal assistance (MLA) relating to her son after the Daily Telegraph published a letter from the Secretary of State to the US Attorney General revealing that such assistance had been provided.
+The Divisional Court dismissed her claim on the merits, but certified two questions of law of public importance: (i) Whether it is unlawful for the Secretary of State to exercise his power to provide MLA so as to provide evidence to a foreign state that will facilitate the imposition of the death penalty in that state on the individual in respect of whom the evidence is sought; and (ii) Whether (and if so in what circumstances) it is lawful under Part 3 of the Data Protection Act 2018, as interpreted in light of relevant provisions of European Union data protection law, for law enforcement authorities in the UK to transfer personal data to law enforcement authorities abroad for use in capital criminal proceedings.
+Jihad in Syria and Mr El Sheikhs suspected involvement
+Thousands of extremists wishing to engage in violent jihad have travelled to Syria from around the world.
+A significant number of these have joined the Islamic State of Iraq and the Levant (Daesh).
+The nature of the conflict in Syria and the presence of these terrorists have made that country a significant source of threat to United Kingdom and United States interests.
+The activities of Daesh in Syria have put civilian life there at considerable risk.
+They also constitute a wider risk to the stability of the region.
+Adherents to the terrorist cause of Daesh have been involved in the most abhorrent of crimes, including murder, rape, kidnap and the enslavement of people.
+A number of persons from the United Kingdom have joined Daesh and other terrorist organisations in Syria.
+They present particular challenges for this country.
+They pose risk to life by (among other things) radicalising, inspiring, enabling or directing potential terrorists in the UK.
+The government has responded to this phenomenon in three ways.
+In the first place, attempts are made to prevent UK citizens from leaving this country to fight abroad.
+Where those attempts are not successful, the government seeks to stop those who have engaged in fighting abroad from returning to the UK, where it is appropriate and lawful to do so per Mr Biggars witness statement.
+Where, despite those efforts, terrorists manage to return, a range of measures is deployed designed to minimise the risk that they might present to the public.
+The effort to defeat Daesh has resulted in many foreigners who are suspected of having been terrorist fighters being detained by, among others, the Syrian Democratic Forces.
+Mr El Sheikh and Mr Kotey were captured by these forces in northern Syria in January 2018.
+It is believed that both were members of a notorious group nicknamed the Beatles on account of their British accents.
+It is also suspected that this group was responsible for many unspeakable crimes against UK and US citizens.
+Since this appeal was heard, the court has been informed that Mr El Sheikh and Mr Kotey have been taken into US custody.
+No information has been given as to their current whereabouts.
+Although he had been a British citizen, on 22 December 2014 Mr El Sheikh was deprived of his citizenship under section 40(2) of the British Nationality Act 1981.
+This provides that the Secretary of State may deprive a person of a citizenship status if satisfied that the deprivation is conducive to the public good.
+It may not be ordered, however, if the subject is rendered stateless.
+It was determined that Mr El Sheikh was entitled to Sudanese citizenship.
+The decision to deprive him of his British citizenship is not under challenge in these proceedings.
+The request for mutual legal assistance
+A treaty between the governments of the United Kingdom and the United States on mutual legal assistance in criminal matters was made in 1994.
+It came into force in 1996.
+Under its terms, the governments agreed to provide mutual assistance in the form, inter alios, of documents, records and evidence (article 1(2)(b)) for the purposes of criminal and other proceedings.
+Proceedings are defined in article 19 of the treaty as including proceedings related to criminal matters and any measure or step taken in connection with the investigation or prosecution of criminal offences .
+In June 2015 the United States made a request to the United Kingdom under the treaty for MLA in respect of a criminal investigation that it was conducting into the activities of terrorists who had a connection with the UK, who were operating in Syria, and who were suspected of involvement in the murders of United States citizens there.
+The US request was for materials which had been gathered by UK police as part of a UK investigation into this group.
+Two of the offences which the US was investigating (homicide and hostage taking resulting in death) carried the death penalty.
+The Rt Hon Theresa May MP, who was then the Home Secretary, was prepared to accede to the mutual legal assistance request.
+But, as was customary, she sought a number of assurances from the US.
+These were outlined in a letter sent on her behalf to the US Department of Justice on 29 October 2015.
+It stated: As you will be aware, the UK will not provide formal mutual legal assistance in cases where the death penalty is a likely or possible punishment without a written assurance from the Requesting State that they would not seek to impose or, if imposed, carry out such penalty.
+As two of the offences for which the suspects are sought (homicide and hostage taking) carry the death penalty, we require, as a pre condition to the provision of the assistance requested by you, that you provide a written undertaking that the death penalty will not be sought or imposed or, if imposed, will not be carried out against anyone found guilty of any criminal offence arising from this investigation and/or UK assistance provided.
+This request was precisely in line with the long standing policy of steadfast opposition by successive UK governments to the imposition of the death penalty in any circumstances whatever.
+The unequivocal terms of the letter are significant.
+It is firmly stated that the UK will not provide MLA where the death penalty is a possible punishment without the normal death penalty assurances.
+The letter makes it plain that a written undertaking to that effect is required as a pre condition to the supply of the information.
+The imperative tone of the letter reflects the circumstance that not only has the death penalty been abolished in this country (capital punishment was suspended for murder in 1965 and finally abolished in 1969 (1973 in Northern Ireland)), governments since then have refused to countenance its imposition on UK citizens.
+Moreover, in 2004 the Thirteenth Protocol to the European Convention on Human Rights (ECHR) became binding on the United Kingdom, prohibiting the restoration of the death penalty for as long as the UK is a party to the Convention.
+The abhorrence with which our law regards the imposition of this most dire penalty is also reflected in the jurisprudence of the Judicial Committee of the Privy Council which shall be referred to below.
+The US response to the Home Secretarys letter was given in a letter from the Department of Justice of 21 March 2016 which said: With regard to potential application of the death penalty to any person found guilty of an offense arising from this investigation, we can respond as follows: While no persons have yet been charged in connection with this conduct, persons charged with offenses arising from such conduct could be subject to the federal death penalty.
+The United States provides the assurance that it will introduce no evidence obtained in response to this request in a proceeding against any person for an offense that is subject to the death penalty.
+In the event the evidence were to be so introduced, the United States would take a decision not to seek the death penalty, a decision which in the federal system absolutely precludes the death penalty from being imposed.
+While, therefore, the evidence actually supplied by the UK would not be directly used in order to seek the death penalty, on the basis of this letter, that penalty could have been sought by recourse to other material which might have been generated as a result of the information which the authorities in this country had provided.
+This point was made in a letter from the Home Office dated 10 August 2017: The contents of your letter of 21 March 2016 have been carefully considered.
+However, it is our view that the assurance provided in respect of the death penalty falls short of that which was requested In light of this [we invite] you to reconsider your response to our request for assurances as provided by article 3(2) and article 7(3)(a) of the UK US Mutual Legal Assistance Treaty.
+As stated in our earlier letter, the UK will not provide mutual legal assistance in cases where the death penalty is a likely or possible punishment without a written assurance that the Requesting State would not seek to impose or, if imposed, would not carry out such a penalty.
+As offences for which the suspects are sought carry the death penalty, we require, as a pre condition to the provision of the requested assistance, that you provide a written undertaking that the death penalty will not be sought or imposed or, if imposed will not be carried out against anyone found guilty of any criminal offence arising from this investigation and/or UK assistance provided.
+In any event, the assurance proposed by you in March 2016 would, in our view, allow UK assistance to be used for the purposes of another investigation to obtain other evidence which would not be caught by the assurance and which could lead to the death penalty being imposed and carried out.
+The UK wishes to provide the widest measure of assistance in this case but regrets that we will only be in a position to accede to your request if you are able to give the undertakings as requested above.
+No official response to this letter was received.
+It was informally indicated that the assurances sought would not be given.
+The terms of the correspondence from the British government are important and significant.
+They reflect the deep seated nature of this countrys opposition to the death penalty.
+Indeed, it is noteworthy that some of the families of the victims of the alleged depredations of Mr El Sheikh and Mr Kotey have publicly stated that they do not wish to have that penalty imposed upon them.
+These considerations, while in no way determinative, are indications as to whether our common law should now be recognised as having developed to the point where there is a right enshrined in the law of this country that our government will not act to facilitate in any way the possibility of the imposition of that most extreme punishment.
+Mr El Sheikhs detention in January 2018 marked what Mr Biggar described as a profound shift in the importance of the request for assistance.
+As he explained, it brought immediate political reality and urgency to the question of where he could and should be brought to justice.
+This prompted greater focus on the request which the British authorities had made for assurances and the reaction of the US Department of Justice to that request.
+Importantly also, there had been a change in the administration in America since the original request for assurances had been made.
+Mr Biggar explained the significance of this in his witness statement: It was the strong (and publicly stated) view of senior members of the new US administration that those states from which [foreign terrorist fighters] had originally come ought to try those individuals.
+The US position was that other states should not assume that it would take up responsibility for non US terrorists apprehended in Syria or Iraq.
+In the aftermath of the capture of El Sheikh in January 2018, set against the wider issues of responsibility for [foreign terrorist fighters] in detention in Syria, US representatives strongly reiterated this message to the UK.
+The new US administration also had different views on the US military detention facility at Guantanamo Bay.
+President Trump had been elected on, among other things, a commitment to reverse his predecessors
+decision to close Guantanamo
+It was made clear that the strong preference of the US government was that the UK should assume responsibility for Mr El Sheikh and that he should be prosecuted in this country.
+The Crown Prosecution Service had determined, however, in January 2016 that the evidence available was not sufficient to warrant charging Mr El Sheikh.
+That position was reviewed in February 2018 and it was again concluded that there was insufficient evidence to charge him.
+The authorities in the US and the UK decided, however, that there should be a joint review of the prospects of a successful prosecution in either jurisdiction.
+This took place in March 2018.
+Police officers from the Counter Terrorism Command and specialist prosecutors from the CPS visited the US at the end of March 2018 and were given access to the evidence which the US investigators had gathered.
+FBI agents had already visited the UK and had seen and considered the evidence gathered by UK investigators.
+At the time of the hearing of the appeal it was not considered feasible to prosecute Mr El Sheikh in this jurisdiction.
+That decision by the CPS was the subject of a separate challenge which need not be referred to further here.
+The court has learned, however, that, in light of Mr El Sheikhs being in the custody of US authorities, the feasibility of his being tried in this country may be revisited.
+Any prosecution of Mr El Sheikh in the US depends critically on the evidence which has been obtained by the British authorities.
+According to Mr Biggar, following the meeting between US and UK officials in March 2018, the clear view of the UK officials was that a prosecution of Mr El Sheikh in the US federal court system, which included the UK evidence, represented the only realistic prospect of securing justice for the victims and their relatives.
+Despite this, again according to Mr Biggar, senior members of the US administration continued to state their opposition to foreign terrorist fighters, including Mr El Sheikh, being tried in the US.
+This reflected the ongoing concern of the US that it should not fall to that country to bring within its criminal justice system those such as Mr El Sheikh for whom it felt other states bore responsibility.
+In particular, the US considered that the UK ought to set an example to the wider international community by accepting responsibility for bringing foreign terrorist fighters such as Mr El Sheikh and Mr Kotey to trial.
+Another factor that was present to the mind of the British authorities was the prospect that the US might transfer Mr El Sheikh to Guantanamo Bay.
+The assessment made in this country was that the US was more likely to do that than to try him in the federal criminal system.
+In March 2018, the then Home Secretary visited Washington and spoke to US Attorney General Sessions.
+As well as expressing his clear view that all foreign terrorist fighters should be prosecuted in their home countries, the Attorney General referred to them as prisoners of war and suggested that transfer to Guantanamo Bay was therefore appropriate (its purpose, in the Attorney Generals view, being the detention of prisoners of war).
+The UK has consistently opposed the regime in Guantanamo Bay.
+In this case, an additional consideration, according to Mr Biggar, was that the families of those kidnapped and killed have a strong desire to ensure that those suspected of involvement should be tried before a civilian court.
+The UK, he has said, was conscious that a number of families of those killed by terrorist acts in Syria opposed the transfer of those suspected of involvement in those killings to Guantanamo Bay, because they felt that this would end any prospect of securing justice for the murder of their loved ones.
+A third consideration was the apprehension that Mr El Sheikh might be released from custody in Syria.
+This was not believed to be likely, but it nevertheless played some part in the governments deliberations.
+It seems clear, however, that the factor of overwhelming importance was what Mr Biggar described in his witness statement as the strong message from the US administration, relayed directly by US officials as well as through the UK Embassy, that it was strongly opposed to the UK seeking death penalty assurances, in the event that the UK, itself, decided that it could or would not prosecute; and that, if the UK was pressing the US to prosecute because a UK prosecution was not viable.
+Mr Biggar has averred that in early March 2018 the UKs lobbying on the death penalty had been described as an irritant by a very senior US official.
+This statement is both enlightening and concerning.
+It indicates how the UK authorities were coming under (and might become susceptible to) political pressure from the US.
+For reasons discussed below that pressure does not appear to have taken into account, much less reflected, either the UKs longstanding policy in this area nor the joint experience of the UK and the US in the request for and the furnishing of such assurances.
+The statement also raises questions as to whether pragmatic considerations, at the expense of a principled approach, might begin to influence the UKs reaction to the demand that it should cease its lobbying in relation to the death penalty assurances.
+On 16 April 2018, the Office for Security and Counter Terrorism in the Home Office and the UK Central Authority (UKCA) each provided submissions to the then Home Secretary, the Rt Hon Amber Rudd MP, and the Security Minister, the Rt Hon Ben Wallace MP.
+UKCA recommended that the Home Secretary should maintain her predecessors decision to accede to the request dated 19 June 2015, but only on the basis that a full death penalty assurance would be provided.
+It also suggested that she should endorse the UKCA decision to reject the current direct use death penalty assurance offered by the US. (It should be noted that this submission was made on the premise that the earlier direct use assurance was still available, although UK officials understanding was that later contact with the Department of Justice had cast some doubt on the continued availability of this assurance.)
+The Security Minister responded to this advice on 17 April 2018 saying that he agreed with the first recommendation but disagreed with the second.
+He indicated that the views of the Foreign Secretary should be sought on whether the assurance, then believed still to be on offer, should be accepted.
+The Home Secretary did not consider this submission before she resigned on 29 April.
+Mr Wallace had talks with Department of Justice officials on 20 April 2018.
+A theme of those exchanges was that senior officials in the US administration did not consider that Mr El Sheikh and Mr Kotey should be tried in the US federal courts.
+Mr Wallace was also told that if the US was required to deal with them, their transfer to Guantanamo Bay was more likely if the UK imposed restrictions on the release of information to the US authorities.
+The picture which emerges from these exchanges is one of increasing and applied pressure by the US on the UK to minimise any restrictions on the use of the released evidence.
+That pressure was two pronged.
+First that a trial in the federal courts of America might be refused on the basis that the UK should undertake their trial.
+Secondly, that if Mr El Sheikh and Mr Kotey were transferred to the US, the chances of their being incarcerated in Guantanamo Bay increased, if assurances from the US authorities about the use of the evidence were sought.
+The US authorities must have known that these indications would put pressure on the UK to dilute or eliminate the request for assurances.
+Indeed, it seems highly likely that this was their purpose.
+And, as it proved, before long the pressures began to have effect.
+Mr Biggars assessment of the exchanges between the Americans and the British was that if the UK wanted to obtain support for a US prosecution, it would be critical that evidence provided by the UK came with the [fewest number] of restrictions possible.
+The US authorities position was put bluntly by Attorney General Sessions when he gave evidence at a Senate panel hearing on 25 April 2018.
+He expressed disappointment that the British are not willing to try the cases but tend to tell us how to try them and they have certain evidence that we need .
+He also indicated that he was supportive of sending Mr El Sheikh and Mr Kotey to Guantanamo Bay.
+Inasmuch as this statement might be taken to indicate that the British authorities considered that Mr El Sheikh could have been tried in the UK but preferred to transfer that responsibility to the US, it is plainly wrong.
+As pointed out in para 32 above, the CPS had decided that it was not feasible to prosecute Mr El Sheikh in this country and that decision had been confirmed after a review in February 2018.
+The Rt Hon Sajid Javid MP became Home Secretary on 30 April 2018.
+He spoke to Attorney General Sessions on 4 May 2018.
+Mr Biggar gives the following account of the conversation in para 39 of his statement: This was their first conversation and it was regarded as significant that this case was one of the first topics that the US Attorney General raised with the Home Secretary.
+The US Attorney General indicated that he was concerned that the UK had said that it was not interested in prosecuting El Sheikh; that the death penalty should not be an issue for the UK and that he did not want the UK to tie his hands in relation to the use of the material.
+The US Attorney General also referred favourably to Guantanamo Bay.
+The Home Secretary indicated that a formal decision would be taken shortly.
+There is no reference in Mr Biggars account of that conversation to the Attorney General having been told of the longstanding practice of the British authorities to seek assurances in relation to the death penalty.
+It does not appear that Mr Sessions was told that a decision not to follow that practice would represent a very significant departure from the UKs policy over very many years.
+Nor was he told of the Death Penalty Assistance Policy which provides that, in general, where there is a significant risk of the death penalty being imposed, before it is agreed that assistance be provided, assurances should be sought that that penalty will not be imposed. (It is, of course true that the policy does contemplate that in certain exceptional circumstances, the request for assurances may be foregone but the pre eminence of the general rule it appears at para 1 of the policy is testament to how deeply embedded is the practice of seeking assurances.)
+In May 2018 the UK ambassador in Washington was asked for his opinion as to the likely reaction of the US authorities if the request for assurances was persisted in.
+He replied that Department of Justice career officials would not be surprised; indeed, it is what they would expect.
+But he advised that this did not apply to senior political figures in the administration.
+His advice continued: Their reaction is likely to be something close to outrage.
+They already feel that we are dumping on them a problem for which we should take responsibility.
+They have been signalling to us for weeks now that we are in no position to attach any conditions to this.
+At best they will think we have tin ears.
+At worst, they will wind the President up to complain to the PM and, potentially, to hold a grudge.
+We might argue that the UK position on this is well known and that we were simply behaving in a way consistent with our long term policy.
+There might be some understanding of this.
+But I have to warn that there might also be some damage to the bilateral relationship. (Emphasis added)
+In the italicised sentences above, it had been suggested that it could be pointed out that the UK position was not only familiar but that it reflected this countrys longstanding policy.
+There is nothing in Mr Biggars statement or in the evidence presented to the Divisional Court to indicate that this suggestion was taken up.
+The ambassador considered that seeking death penalty assurances might prompt the US not to pursue a prosecution.
+Some officials had suggested as much.
+And it would point the way towards transfer to Guantanamo.
+If the well established practice of requiring death penalty assurances in all but exceptional cases was not drawn to the attention of the senior political figures in the administration, this is surely surprising.
+If their anticipated reaction was one of outrage, is it not to be expected that information about this practice would or, at least, should have been mitigated by a patient and well marshalled account of how this practice had operated in the past? Attorney General Sessions, in his presentation to the Senate panel hearing in April 2018, had portrayed the UK stance as one of unwillingness to try Mr El Sheikh, while seeking to dictate how he should be tried in the US.
+That is a portrayal which it should have been easy to correct.
+This was not a case of the UK being unwilling to have Mr El Sheikh tried in this jurisdiction.
+Rather, it was considered by the CPS, an institution entirely independent of government, that such a trial was not feasible.
+Equally, the UK did not seek to dictate how Mr El Sheikh should be tried in the US.
+The assurances sought were directed solely to the question of penalty, not the mode of trial.
+Indeed, the assurances sought did not even preclude the possibility that the death penalty might be imposed (although that was the preliminary request).
+Ultimately, the request was for an undertaking that, if imposed, the death penalty would not be carried out.
+The absence of direct evidence as to what passed between senior political figures in the US administration and the UK authorities cannot be deemed to establish that there was a failure on the part of the latter adequately to make the case for acceptance of or the need for compliance with the assurances, however.
+There may well have been exchanges which are not referred to in the evidence which was presented to the Divisional Court and relied on before this court.
+In any event, it would have been a matter for political judgment as to whether representations along those lines would have been availing.
+Absent a glaring and obviously irrational failure on the part of the UK government to make pertinent representations to the US administration, the courts are powerless to intervene.
+On 18 May 2018 UKCA made a further submission to ministers.
+They maintained their advice that the Home Secretary should continue to require a full death penalty assurance.
+In a telling passage in the submission, the following appears: [The need for a comprehensive assurance that the suspects will not be subject to the death penalty] is critical to the consistency with which we apply HMGs policy on Overseas Security and Justice Assistance Were we not to apply this practice to this case, it could undermine all future efforts to secure effective written death penalty assurances from the US authorities for future UK security and justice assistance.
+The exception made for the US in this case could also undermine future efforts to secure similar assurances from other countries with which we have a security relationship particularly if as seems likely there is litigation which leads to the disclosure of the level of assurance.
+It could leave HMG open to accusations of western hypocrisy and double standards which would undermine HMGs Death Penalty Policy globally, including in the US.
+These were formidable arguments in favour of maintaining the long standing policy of the UK and of resisting the pressure from the US authorities.
+But, in a note of 24 May 2018, the director of Home Office International declined to accept them: Although it clearly runs the risk of creating a precedent for the future and with other countries, taken in the round I am comfortable that proceeding with no assurances is appropriate in securing justice for the families; notwithstanding the fact [that] we understand the families wish to avoid application of the death penalty.
+There appears to me to be an inherent illogicality in this statement.
+As the director had observed, the families wished to avoid the application of the death penalty.
+Yet, the mooted justification for the decision not to seek assurances concerning the death penalty was the securing [of] justice for the families.
+The species of justice that the families wished to have was one where there was not the possibility of the imposition of the death penalty.
+The decision not to seek assurances opened up that very possibility.
+To fulfil their wishes, it was surely required that the hallowed practice of seeking death penalty assurances be observed.
+On 24 May 2018, the Security Minister notified Home Office officials that his final position was to make a strong recommendation, in this exceptional case, that HMG does NOT seek assurances (either full or direct use) around the death penalty, when sharing evidence for a Federal Prosecution only.
+The Home Secretarys private secretary confirmed on 29 May that both ministers had concluded that no assurances should be sought from the US.
+A meeting took place between the Home Secretary and Attorney General Sessions on 30 May 2018.
+Mr Sessions repeated his view that the US should not be left to assume responsibility for other nations terrorist fighters.
+He said that if the US were to [be] willing to try Mr El Sheikh in a civilian court as opposed to a military one, he could not see how the US could do that without the UK evidence or without recourse to the death penalty.
+Mr Biggar described Mr Javids reaction to this approach in the following passage of his witness statement: It became clear to the Home Secretary during the course of [that] meeting that the position of the US remained unchanged and that there was no prospect of the Attorney General offering any form of undertaking whatsoever.
+He assessed that, if he asked for assurances (whether full or partial), it was likely to prompt the sort of outrage he had been advised of, and would damage the prospects of a US criminal prosecution.
+He judged that the question of assurances was critical to whether Attorney General Sessions consented in due course to such a prosecution.
+Into his calculation about pressing the assurances point during the meeting, he also considered the wider UK government interests at stake, including co operation on security issues and potential damage to the bilateral relationship.
+Again, it is not suggested that the Home Secretary raised the point that the seeking of assurances about the death penalty was a traditional feature of this type of exchange.
+Nor does it appear to have been suggested that the UK was opposed, as a matter of entrenched principle, to the taking of any step that would facilitate the imposition and carrying out of the death penalty.
+One may not assume, however, (largely for the reasons given at para 51 above) that these matters were not drawn to the attention of the Attorney General.
+Still less may one assume that it was not decided that it was either pointless or impolitic to do so.
+On either basis, the omission to raise these matters, however cursorily surprising, does not warrant judicial interference.
+The Home Secretary made it clear, however, that the UK could not provide material to be used in a military court or any process at Guantanamo Bay.
+This is somewhat perplexing.
+Why was the prospect of detention so much less favourable than the possibility of Mr El Sheikh being executed? This has not been explained.
+The day after the Home Secretarys meeting with the American Attorney General, a submission was made by civil servants to the Secretary of State for Foreign and Commonwealth Affairs.
+Three options were identified: first, to seek a full death penalty assurance; secondly, to seek a partial death penalty assurance; and thirdly to seek no assurance.
+The advice to the Foreign Secretary was to urge the Home Secretary to seek a full assurance.
+Seeking comprehensive assurances was consistent, the submission stated, with the general expectations set out in UK policy on overseas security and justice assistance and with all past practice when dealing with US mutual legal assistance requests.
+The submission accepted that sharing information without assurances provided the greatest chance that the US would pursue a federal prosecution.
+It then continued: A successful prosecution will serve as a deterrent to others and give the public confidence in our ability to see justice served.
+However, there are wider national security risks if the prosecution results in execution as this could be used by radicalisers in the UK.
+The Home Secretary wrote to the Foreign Secretary on 11 June 2018, indicating that significant attempts had been made to obtain full assurances but that the time had arrived to accede to the request for information without seeking any assurance.
+He acknowledged that there was a serious risk that Mr El Sheikh and Mr Kotey would, if prosecuted and convicted, face execution as a direct result of UK assistance.
+The Foreign Secretary replied on 20 June 2018.
+His letter concluded, On a balanced assessment of the key risks , I agree that as this is a unique and unprecedented case, it is in the UKs national security interests to accede to an MLA request for a criminal prosecution without death penalty assurances for Mr Kotey and Mr El Sheikh.
+The Home Secretary duly informed Attorney General Sessions on 22 June 2018 that the UK would not seek death penalty assurances.
+Many witness statements were then supplied to the US authorities.
+As the Divisional Court has pointed out, however, this does not render the present challenge academic.
+Further material may be sought and it is, in any event, entirely possible that the UK would refuse to permit witnesses employed by the state, such as police officers, to travel to the US to give evidence without adequate assurances.
+The appellants arguments (i) There is a common law principle that the UK will not give mutual legal assistance where there is a risk that this would lead to the imposition of the death penalty.
+The appellant submits that the UK, by signing two death penalty protocols to the ECHR, in 1999 and 2004, is committed to the abolition of the death penalty in all circumstances.
+In particular, since the signing of the Sixth Protocol to the European Convention in 1999, the UK has maintained a firm policy of refusing extradition or deportation to countries that impose the death penalty, no matter how serious the offence, and no matter how repellent the offender.
+The appellant argues that this is not just some alien obligation imposed on us by the European Court.
+To the contrary, the UK has taken that stance as a legal principle and it now forms part of the common law of this country.
+That claim is fortified, the appellant claims, by the circumstance that the UK has signed the Second Optional Protocol to the United Nations International Covenant on Civil and Political Rights (ICCPR) on the abolition of the death penalty in December 1989.
+It is further suggested that the UK has adopted a policy of not providing evidence that might give rise to the risk of the imposition of the death penalty unless assurances are given by the requesting state that that penalty will not be carried out.
+At the Thirteenth Special Session of the UN General Assembly on 19 April 2016, the UK declared: The United Kingdom has a proud history of championing human rights, and we oppose the use of the death penalty in all circumstances as a matter of principle.
+The United Kingdom does not provide criminal justice or other assistance that may result in a death sentence being applied.
+We will hold international agencies funded by the United Kingdom to account for compliance with that principle and all other human rights obligations.
+The appellant points out that the policy of seeking assurances has been repeatedly referred to by UK authorities as the logical consequence of this countrys position of rejecting the death penalty as wrong in all circumstances everywhere.
+It was reflected in the statement to the UN in April 2016, and in the Foreign Office recommendation recorded in the UKCA briefing of 18 May 2018 (para 52 above).
+The policy accords, the appellant claims, with the obligation imposed on abolitionist states by the ICCPR, as authoritatively interpreted by the Human Rights Committee in its General Comment No 36, para 63, which says, inter alia, that states who are parties to the covenant have an obligation to respect and to ensure the rights of all persons who are subject to its jurisdiction, that is, all persons over whose enjoyment of the right to life it exercises power or effective control.
+The appellant argues that the frequently declared policy of the UK government, reflecting as it does the obligation in the ICCPR, to which it has subscribed, gives effect to a principle of law.
+That principle is that, in the exercise of its formal powers in the criminal justice field, the government of this country should not act in any way that is directly instrumental in the imposition of the death penalty.
+The appellant accepts that, in providing evidence to the United States, the Home Secretary was exercising a prerogative power.
+But she argues that that power must be exercised in accordance with the fundamental principles of the common law, the dictates of humanity, and the requirements of international human rights law.
+It is argued that the death penalty offends against the evolving requirements of humanity enshrined in the common law.
+It is also argued that the death penalty (and any facilitation of it) is contrary to article 10 of the Bill of Rights 1688 which prohibits the infliction of cruel and unusual punishments.
+The Bill of Rights is, the appellant says, an always speaking statute and its prohibition of cruel and unusual punishments must be interpreted dynamically in accordance with evolving standards of decency.
+For these reasons, the appellant contends that it is an unlawful exercise of public power to impose the death penalty, or knowingly and directly to facilitate its imposition.
+(ii) The non facilitation argument
+The appellant submits that it cannot be lawful or rational to facilitate a penalty that the UK regards as inhuman.
+At para 34 of the Human Rights Committees General Comment No 36 (see para 65 above) it is stated: States parties that abolished the death penalty cannot deport, extradite or otherwise transfer persons to a country in which they are facing criminal charges that carry the death penalty, unless credible and effective assurances against the imposition of the death penalty have been obtained.
+The facilitation of inhuman treatment, it is suggested, is contrary to the fundamental principles of the common law and the European Convention.
+The appellant accepts that Strasbourg case law on the non facilitation principle has not yet been expressly extended beyond cases involving extradition or expulsion.
+It has not yet been applied to cases where the facilitation takes the form of the provision of mutual legal assistance which is likely to contribute causally to the imposition of the death penalty in a foreign state.
+But, as a matter of logic, it should be, the appellant says.
+If it is wrong to extradite or deport persons who would face execution in the countries to which they are extradited or deported, it is equally wrong to supply information or evidence which would lead to their execution in the country to which the evidence has been provided.
+The practical reason for the fact that Strasbourg jurisprudence and the case law of this country founded on the Human Rights Act 1998 (HRA) have not addressed this question is, the appellant says, that the person who invokes Convention protections must be within the jurisdiction of a Convention state at the time of the injustice he complains of.
+But this, it is claimed, should not inhibit the development of the common law.
+The appellant is herself in this jurisdiction and therefore within the jurisdiction of the Convention.
+It might have been argued that, as the close relative of Mr El Sheikh, she could claim to be a victim of a potential breach of her sons right to life (see Rabone v Pennine Care NHS Trust (INQUEST intervening) [2012] UKSC 2; [2012] 2 AC 72).
+This is not the basis of the appellants case, however, which is that the common law prohibition on facilitation applies regardless of the location of any individual.
+It is therefore not necessary for this court to consider any alternative route under the Convention.
+The domestic law principle on which the appellant relies is said to be founded on the duty of the state not knowingly to contribute to the imposition of an inhuman punishment through the exercise of its formal powers.
+That duty, it is claimed, cannot rationally or justly be limited to cases where the individual in question is in the UK.
+The person who is extradited to face the death penalty is in precisely the same position as he whose execution has been facilitated by the provision of mutual legal assistance.
+In both instances there is in play an underlying principle that it is inconsistent with a fundamental common law principle of justice for the government to facilitate the imposition of a cruel and inhuman punishment in a foreign state. (iii) Should the common laws development outstrip the limits of Strasbourg case law?
+The Divisional Court held that the HRA set the limits of any development in this area when it gave effect to the European Convention, with the accompanying territorial limits to the application of the Convention.
+It then held that it was wrong to develop the common law in a manner not sanctioned by the relevant statutory provisions.
+In challenging these conclusions, the appellant argues that the HRA contains no express or considered limitation to the developments of common law principles in respect of the non facilitation of the death penalty.
+It is too general a statute to serve such a function.
+It is pointed out that in such cases as R (Osborn) v Parole Board [2013] UKSC 61; [2014] AC 1115, Kennedy v Information Comr (Secretary of State for Justice intervening) [2014] UKSC 20; [2015] AC 455 and A v British Broadcasting Corpn (Secretary of State for the Home Department intervening) [2014] UKSC 25; [2015] AC 588 this court has asserted that the HRA does not remove or limit the power of the common law to develop so as to protect fundamental rights.
+It was further submitted that the HRA should not be regarded as providing the sum of common law wisdom on the death penalty.
+The jurisdictional limits of that Act and the Convention were the product of the way in which the Convention was drafted nearly 70 years ago.
+There was no reason, the appellant argued, that domestic principles of public law should not go further, particularly when they give effect to the underlying rationale of the extradition cases, namely that the UK should not make itself complicit in the imposition of the death penalty by positively facilitating it.
+The Divisional Court held that the decisions in R (Sandiford) v Secretary of State for Foreign and Commonwealth Affairs [2014] UKSC 44; [2014] 1 WLR 2697 and R (Zagorski) v Secretary of State for Business, Innovation and Skills [2010] EWHC 3110 (Admin); [2011] HRLR 6 presented obstacles to the recognition of the common law right claimed by the appellant.
+It was submitted that these decisions were readily distinguishable.
+That submission will be considered in the discussion section of this judgment. (iv) Does the US death penalty regime give rise to cruel and inhuman punishment?
+Relying on, among other cases, the decision of Pratt v Attorney General of Jamaica [1994] 2 AC 1, the appellant argued that the death penalty regime in the US gave rise to a specific risk of inhuman and cruel punishment.
+This was because inevitably execution was delayed many years after the death penalty had been imposed.
+Prolonged delay by itself violates the protection against cruel, inhuman or degrading treatment, the appellant argued.
+The Divisional Court rejected this argument, observing that the decision in Pratt turned on the interpretation of the Jamaican Constitution and that it did not establish a rule of the common law, either in Jamaica or generally, that particular periods of delay made the enforcement of the death penalty unlawful.
+The appellant contended that this constituted a misunderstanding of the Pratt decision.
+It was also argued that what was described as the death row phenomenon was contrary to customary international law.
+In this context, the appellant relied on article 5 of the Universal Declaration of Human Rights 1948, which provides: No one shall be subjected to torture or to cruel, inhuman or degrading treatment or punishment, and article 7 of the UN International Covenant on Civil and Political Rights and the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment.
+Again, these arguments will be considered in the discussion section of this judgment. (v) Does the provision of mutual legal assistance breach the Data Protection Act 2018 (DPA)?
+Finally, the appellant argued that the provision of mutual legal assistance in the form of various statements from witnesses etc was in breach of the 2018 Act as interpreted in light of relevant provisions of European Union data protection law.
+The DPA was intended to give effect to the UKs obligations under the EU Law Enforcement Directive 2016/680 (the LED).
+It was argued that the DPA should be interpreted by reference to the EU Charter of Fundamental Rights (the Charter).
+On that basis, the appellant claimed that it was unlawful for law enforcement authorities in the UK to transfer personal data to law enforcement authorities abroad for use in capital criminal proceedings.
+It was common ground between the appellant and the respondent that the transfer of material by the Home Secretary to the US in July 2018 pursuant to the mutual legal assistance request involved processing of personal data for a law enforcement purpose by a controller which is a competent authority for the purposes of Part 3 of the Act.
+On this account, the appellant claimed, the Home Secretarys decision to transfer personal data to authorities in the US without seeking and obtaining a death penalty assurance was an unlawful breach of (1) the first data protection principle in section 35 of the Act; (2) the second data protection principle in section 36; (3) the provisions governing international transfers of personal data for law enforcement purposes in sections 73 to 76; and (4) the special processing restrictions in section 80.
+It is claimed, moreover, that the Home Secretary paid no regard to the duties imposed on him by the 2018 Act.
+These arguments will also be considered below.
+The respondents case
+The respondent submits that there is no support as a matter of ECHR law or international law for the existence of an obligation not to provide legal assistance to another state on the basis that it may be used to charge an individual and then, if convicted and so sentenced, lead to the imposition of the death penalty.
+The essence of the appellants case is, the respondent says, that, despite her sons being excluded from the protection of the ECHR/HRA and, having elected to go abroad to engage in terrorist activities, he is nonetheless entitled to rights which extend well beyond any ECHR rights recognised to date.
+The second principal submission of the respondent was that there is no recognised common law prohibition on the provision of legal assistance to a foreign state, where such assistance might be used in proceedings leading to the death penalty in that state.
+Indeed, the respondent claims, the case law indicates that, aside from those established categories of case in which a duty of care is imposed, there is no general common law duty on the Secretary of State to take positive steps to protect an individuals life from the actions of a third party.
+Nor should, the respondent says, the common law be developed to recognise such a contemporaneous principle.
+The common law develops incrementally.
+The recognition of a right prohibiting the provision of mutual legal assistance to a country whose legal system permits (in appropriate cases) the imposition of the death penalty would not be an incremental change.
+Such a development would be a considerable and controversial step.
+There were, the respondent claimed, specific reasons for particular caution here: the creation of the prohibition would take effect in the context of a treaty with a state with whom the UK co operates closely and which adheres to the rule of law; the UK is equally a beneficiary of that co operation; the provision of mutual legal assistance relates to extremely serious crimes (with international ramifications); it risked having a significant, adverse impact upon UK relations with a most important international partner, the US (and indeed on relations with any other state which continues to impose the death penalty).
+The respondent submitted that the recognition of a common law principle forbidding mutual legal assistance in all circumstances where that might lead to the imposition of the death penalty would carry the prospect of it being applied in a myriad of circumstances with consequences which could not be foretold.
+The principle has the potential to be expanded into spheres where it would risk creating real damage, for example, to public protection and national security, as Hughes LJ acknowledged in R v Ahmed (Rangzieb) [2011] EWCA Crim 184; [2011] Crim LR 734.
+The respondent poses the questions, what degree of causal connection to the death penalty would suffice? To what forms of cruel, degrading or inhuman treatment would the principle extend would it extend to the provision of assistance in a case in which there were serious concerns about the state of prisons in the foreign jurisdiction?.
+These issues, the respondent claims, illustrate that the extension of the common law in the way contended for by the appellant would be no small step and are powerful factors in favour of not extending the common law.
+On the question of facilitation, the respondents overarching submission was that there is nothing in the jurisprudence of the ECHR, international law or the common law which supported the notion of an obligation going beyond not removing an individual from within the jurisdiction to another state where there exist substantial grounds for believing the individual will be subject to the death penalty.
+The concept of facilitation has not been extended beyond this.
+In particular, the respondent relied on the circumstance that the contracting states had ceded to the European Court of Human Rights (ECtHR) a jurisdiction with well defined territorial limits.
+Unless an individual was within the jurisdiction of one of the member states of the Council of Europe, he or she was not entitled to have recourse to rights arising under the ECHR.
+The domestic transposition of the ECHR into the HRA gave rise to a similar restriction.
+In any event, the respondent says, relying on the decision of the Strasbourg court in Khan v United Kingdom (2014) 58 EHRR SE15, the ECtHR does not consider that the substantive protections of the ECHR apply to prevent or control decisions or steps taken by the state (within its jurisdiction) which may expose persons to ill treatment at the hands of a foreign state.
+In this connection, the respondent also relied on the decision of this court in Sandiford.
+It had been held in that case that there was no general Convention principle that the United Kingdom should take steps within the jurisdiction to avoid exposing persons, even United Kingdom citizens, to injury to rights which they would have if the Convention applied abroad para 23.
+On the question of customary international law, the respondent submitted that, while some multilateral international conventions oblige state signatories not to impose the death penalty within their own jurisdictions, this was by no means a universal prescription.
+The example of the ICCPR was cited.
+Subject to the conditions enshrined in article 6 of that Convention (which provides, inter alia, that no one is to be arbitrarily deprived of life and that the sentence of death may only be imposed in those countries where that penalty has been retained for the most serious crimes) the death penalty continues to be permitted.
+The respondent points out that the UN Human Rights Committees (UNHRC) General Comment No 36 (2018) on article 6 ICCPR at para 34 does not stipulate that mutual legal assistance cannot be provided by states where the death penalty has been abolished to states where it remains a possible penalty.
+The material part of the relevant paragraph reads, States parties that abolished the death penalty cannot deport, extradite or otherwise transfer persons to a country in which they are facing criminal charges that carry the death penalty, unless credible and effective assurances against the imposition of the death penalty have been obtained.
+It is therefore plain, the respondent says, that UNHRC regards the obligations which apply to state parties to the ICCPR that have abolished the death penalty as limited to deportation, extradition or transfer to a state which carries the death penalty.
+The omission of mutual legal assistance in this General Comment is reflective, it is claimed, of there being no authority or state practice supporting the extension of the concept of facilitation to the provision of mutual legal assistance in the international law sphere.
+The case for the existence of a right under customary international law forbidding the provision of mutual legal assistance without death penalty assurances is, the respondent claims, further undermined by the absence of specific reference to the death penalty in important mutual legal assistance treaties and the absence of any state practice preventing this type of assistance.
+In particular, the respondent has referred to the 1994 Treaty on Mutual Legal Assistance in Criminal Matters between the UK and the US (as amended); the Agreement between the US and the European Union (both of which are silent on the question of obtaining death penalty assurances where mutual legal assistance is sought and provided); and the Agreement between the EU and Japan on mutual legal assistance in criminal matters (article 11 of which expressly recognises that the death penalty should be a discretionary rather than a mandatory ground for the refusal of assistance).
+Australia has made express reference (in the Mutual Assistance in Criminal Matters Act 1987, as amended, section 8(1A) and (1B)) to the question whether mutual legal assistance should be provided in death penalty cases.
+The relevant provisions require that a request by a foreign country for assistance must be refused if it relates to the prosecution or punishment of a person charged with, or convicted of, an offence in respect of which the death penalty may be imposed in the foreign country, unless the Attorney General is of the opinion, having regard to the special circumstances of the case, that the assistance should be granted.
+In relation to the argument that the inevitable delay in carrying out a sentence of death gave rise to a distinct basis for concluding that the regime in the US constituted cruel and inhuman punishment, the respondent contended that there was no consensus in international law to support that claim.
+Moreover, it was expressly disavowed by the jurisprudence of UNHRC see LaVende v Trinidad and Tobago, (Communication No 554/1993) (unreported) 14 January 1998.
+Indeed, said the respondent, the UNHRC had consistently rejected the contention that delay in applying the death penalty amounts to a breach of either article 7 or article 10 of the ICCPR.
+Finally on the question of international law, the respondent submitted that, even if any support could be discerned from that source for a prohibition on the provision of mutual legal assistance in circumstances such as arise in the present case, the question of transposition or incorporation into domestic law as a controlling principle of public law provides an insuperable barrier.
+Any state obligation under customary international law does not automatically become a domestically enforceable public law obligation.
+The constraints on transposition are constitutional.
+The translation of a particular international obligation into domestic law was something for Parliament to consider.
+It was not one for the courts to impose.
+The respondent presented several arguments in reaction to the case made by the appellant on data protection.
+It is unnecessary to rehearse all of them here.
+In broad summary, the respondent submitted firstly that neither the Charter nor EU law in fact contains the prohibition the appellant claimed arose from the DPA.
+Secondly, the respondent says that, whether or not the Home Secretary gave separate consideration to the DPA, there was substantive compliance with its provisions, and it was the substantive lawfulness of the transfer of the information which was critical.
+Thirdly, it was common ground between the parties that the transfer of evidence in the present case was outside the scope of EU law.
+In particular, on 1 December 2014, the UK exercised its right under article 10(4) of Protocol 36 to the EU Treaties to opt out of acts of the Union in the field of police cooperation and judicial cooperation in criminal matters which have been adopted before the entry into force of the Treaty of Lisbon.
+The opt out included the EU US MLA agreement.
+Since the opt out, mutual legal assistance between the UK and the US has been governed exclusively by the 1994 Treaty on Mutual Legal Assistance in Criminal Matters between the UK and the US (as amended), the respondent argues.
+Different interpretational approaches apply to Part 3 of the DPA depending on whether the LED applies to the processing in question.
+Where the LED does apply, the full purposive approach of EU law (including the Charter) will apply to the implementing measures.
+Where it does not apply, the LED is of more attenuated relevance, although the respondent accepts that it may still be a legitimate aid to construction as a matter of domestic law.
+But this is no warrant for introducing the Charter through the back door.
+In any event, the respondent says, the Charter has never been interpreted to
+preclude transfer of evidence in a case such as the present.
+Article 19(2) provides: No one may be removed, expelled or extradited to a state where there is a serious risk that he or she would be subjected to the death penalty, torture or other inhuman or degrading treatment or punishment.
+That formulation simply reflects the jurisprudence of the ECtHR.
+It is dealing with a situation in which the individual concerned is within the jurisdiction of the member state and is removed, expelled or extradited.
+It does not deal with a situation in which information or evidence is transferred.
+As to the appellants claim that the transfer of information offended the first data protection principle in section 35 of the DPA, the respondent argued that the transfer was both lawful and fair as the section required.
+It was also necessary in the sense of being necessary for the performance of a task carried for [the law enforcement purpose] by a competent authority section 35(2)(b).
+On the appellants argument relating to the various conditions which must be met for the transfer of personal data for law enforcement purposes, the respondent challenged the appellants claim that section 73 established a hierarchy of steps to be taken sequentially by the data controller at least to the extent that it is argued that the final step, namely, where there are special circumstances which justify the transfer, may only be invoked as a last resort.
+It is common case that the decision was not based on a European Commission adequacy decision, the first condition under section 73(3).
+The second step is to consider whether there were adequate safeguards in place.
+The respondent disputes the suggestion that this gave rise to an obligation on the part of the controller to investigate whether adequate safeguards existed, and in all cases refrain from transferring unless it was deemed that the safeguards were inappropriate.
+In any event, the respondent says that section 35 of the Act (which deals with sensitive processing) did not apply in the case of Mr El Sheikh.
+The respondent disputed that there had been a breach of the second data principle. (It arises where personal data collected for a law enforcement purpose may be processed for any other law enforcement purpose section 36(3)).
+Even if the decision to transfer the evidence to the US constituted a different law enforcement purpose, such that the second data protection principle applied, it was patently authorised by law, necessary and proportionate to that other purpose, the respondent argued.
+As to the appellants argument based on section 80 of the Act, the respondent submitted that this provision simply did not apply to Mr El Sheikhs case.
+Discussion
+(i) How the common law develops
+Article 10 of the Bill of Rights 1688 prohibits the infliction of cruel and unusual punishments.
+Of course, at that time, and for almost three centuries afterwards, the carrying out of the death penalty continued without its being thought to offend article 10.
+But, for the reasons set out below, the death penalty is now recognised by the common law as constituting such punishment.
+The Bill of Rights may be considered to provide the backdrop to contemporary consideration of whether the facilitation of the imposition of the death penalty is contrary to what should now be recognised as the common law of the United Kingdom.
+What is conceived to be cruel and unusual punishment adjusts, like so many other societal perceptions, to changes in the standards and values of society which develop over time with the growth of knowledge and the evolution of attitudinal changes.
+The common law of the UK rises to the challenge of those changes.
+As long ago as 1800, Lord Kenyon uttered these celebrated words in R v Rusby (1800) 2 Pea 189, 192: The common law, though not to be found in the written records of the realm, yet has been long well known.
+It is coeval with civilised society itself, and was formed from time to time by the wisdom of man.
+Good sense did not come with the Conquest, or at any other one time, but grew and increased from time to time with the wisdom of mankind.
+In A v Secretary of State for the Home Department (No 2) [2005] UKHL 71; [2006] 2 AC 221, para 152, Lord Carswell picked up that theme when he said: We have long ceased to give credence to the fiction that the common law consists of a number of preordained rules which merely require discovery and judicial enunciation.
+Two centuries ago Lord Kenyon recognised that in being formed from time to time by the wisdom of man it grew and increased from time to time with the wisdom of mankind: R v Rusby Sir Frederick Pollock referred in 1890 in his Oxford Lectures, p 111 to the freshly growing fabric of the common law and McCardie J spoke in Prager v Blatspiel, Stamp and Heacock Ltd [1924] 1 KB 566, 570 of the demand of an expanding society for an expanding common law.
+Similarly, in the US Supreme Court 121 years ago Matthews J said in Hurtado v California (1884) 110 US 516, 531 that: as it was the characteristic principle of the common law to draw its inspiration from every fountain of justice, we are not to assume that the sources of its supply have been exhausted.
+On the contrary, we should expect that the new and various experiences of our own situation and system will mould and shape it into new and not less useful forms.
+As Peter du Ponceau said of the common law (A Dissertation on the Nature and Extent of the Jurisdiction of the Courts (1824), Preface): Its bounds are unknown; it varies with the successions of ages, and takes its colour from the spirit of the times, the learning of the age, and the temper and disposition of the judges.
+It has experienced great changes at different periods, and is destined to experience more.
+It is by its very nature uncertain and fluctuating; while to vulgar eyes it appears fixed and stationary.
+The common law will not develop in an area where Parliament has legislated definitively.
+But that is not the case here.
+The HRA does not prevent the common law from upholding rights or obligations that are outside the scope or jurisdiction of the ECHR.
+Moreover, nothing can be inferred from the fact that Parliament has not legislated to prohibit the provision of assistance without death penalty assurances.
+The respondent makes the point that section 16 of the Crime (Overseas Production Orders) Act 2019 (the 2019 Act) does not require the obtaining of an assurance, only the seeking of one, before designating an agreement under section 52 of the Investigatory Powers Act 2016 (IPA).
+But section 52 of the IPA does not concern the transfer of information to another country.
+It deals only with the obtaining of information by interception of communications.
+It may be considered appropriate for the Secretary of State to designate an agreement without a general assurance, as later a specific assurance can be requested before transferring specific information collected.
+This is emphatically not a case of Parliament stepping into the arena.
+It has said nothing about the legality of transferring information without a death penalty assurance.
+The only relevance of the 2019 Act is, as the appellant has contended, that it shows Parliaments general support for seeking death penalty assurances in the context of MLA.
+(ii) ECHR jurisprudence
+Development of the common law is not immune from nor does it disavow external influence.
+In R (Osborn) v Parole Board [2013] UKSC 61; [2014] AC 1115, this court endorsed the view that the courts of the United Kingdom are able to (and should where appropriate) take account of obligations arising under the ECHR in the development of the common law see per Lord Reed at para 57.
+To like effect, the remarks of Lord Mance in Kennedy v Information Comr (Secretary of State for Justice intervening) [2014] UKSC 20; [2015] AC 455, para 46 where he said, Convention rights represent a threshold protection; and, especially in view of the contribution which common lawyers made to the Conventions inception, they may be expected, at least generally even if not always, to reflect and to find their homologue in the common or domestic statute law.
+And in Lin v Comr of Police of the Metropolis [2015] EWHC 2484 (QB), applying Kennedy and relying also on Pham v Secretary of State for the Home Department (Open Society Justice Initiative intervening) [2015] UKSC 19; [2015] 1 WLR 1591, Green J at para 51 stated that it was perfectly plain . that the common law, EU law and the Convention can walk side by side when protecting rights.
+What then are the external influences which ought to bear on the question whether there should now be recognised a common law principle that the UK government will not facilitate the imposition of the death penalty? First, the jurisprudence of the Strasbourg court. The case law relating to Protocol 13 does not exactly constitute an external influence, since the UK has ratified this in October 2003, with it coming into force on 1 February 2004. (Ratification of Protocol 6, which expressed a general tendency in favour of abolition of the death penalty, had taken place in 1999.
+But Protocol 13 is of greater contemporary relevance.)
+Protocol 13 in article 1 abolished the death penalty.
+Article 2 forbade any derogation from the provisions of the Protocol under article 15 of the Convention and article 3 stipulated that no reservation may be made under article 57 of the Convention in respect of the provisions of the Protocol.
+It is therefore a comprehensive charter forbidding the death penalty in all circumstances.
+The Protocol was considered by the ECtHR in Al Saadoon v United Kingdom (2010) 51 EHRR 9.
+Its nature and extent and the background to its introduction are described in paras 115 118 of the judgment.
+These are of significance when considered in the context of the claim that it is now a principle of the common law that there should not be any facilitation of the imposition of the death penalty either by the extradition or deportation of an individual to a foreign country where such a sentence might be carried out or by the provision of legal assistance to such a country where the individual is already located.
+The paragraphs therefore merit quotation in full: 115.
+The court takes as its starting point the nature of the right not to be subjected to the death penalty.
+Judicial execution involves the deliberate and premeditated destruction of a human being by the state authorities.
+Whatever the method of execution, the extinction of life involves some physical pain.
+In addition, the foreknowledge of death at the hands of the state must inevitably give rise to intense psychological suffering.
+The fact that the imposition and use of the death penalty negates fundamental human rights has been recognised by the member states of the Council of Europe.
+In the preamble to Protocol No 13 the Contracting States describe themselves as convinced that everyones right to life is a basic value in a democratic society and that the abolition of the death penalty is essential for the protection of this right and for the full recognition of the inherent dignity of all human beings. 116.
+Sixty years ago, when the Convention was drafted, the death penalty was not considered to violate international standards.
+An exception was therefore included to the right to life, so that article 2(1) provides that No one shall be deprived of his life intentionally save in the execution of a sentence of a court following his conviction of a crime for which this penalty is provided by law.
+However, as recorded in the explanatory report to Protocol No 13, there has subsequently been an evolution towards the complete de facto and de jure abolition of the death penalty within the member states of the Council of Europe.
+Protocol No 6 to the Convention, which abolishes the death penalty except in respect of acts committed in time of war or of imminent threat of war, was opened for signature on April 28, 1983 and came into force on March 1, 1985.
+Following the opening for signature of Protocol No 6, the Parliamentary Assembly of the Council of Europe established a practice whereby it required states wishing to join the Council of Europe to undertake to apply an immediate moratorium on executions, to delete the death penalty from their national legislation and to sign and ratify Protocol No 6.
+All the member states of the Council of Europe have now signed Protocol No 6 and all save Russia have ratified it. 117.
+In October 1997 the Council of Europe Heads of State and Government called for the universal abolition of the death penalty.
+Resolution II adopted at the European Ministerial Conference on Human Rights on 3 November 2000 invited the Committee of Ministers to consider the feasibility of a new additional protocol to the Convention which would exclude the possibility of maintaining the death penalty in respect of acts committed in time of war or of imminent threat of war.
+Protocol No 13, which abolishes the death penalty in all circumstances, was opened for signature on May 3, 2002 and entered into force on July 1, 2003.
+At the date of adoption of the present judgment, Protocol No 13 has been ratified by 42 member states and signed but not ratified by a further three.
+Azerbaijan and Russia are alone in not having signed the Protocol.
+It was signed by the United Kingdom on May 3, 2002, ratified on October 10, 2003 and entered into force in respect of that State on February 1, 2004. 118.
+The court considers that, in respect of those states which are bound by it, the right under article 1 of Protocol No 13 not to be subjected to the death penalty, which admits of no derogation and applies in all circumstances, ranks along with the rights in articles 2 and 3 as a fundamental right, enshrining one of the basic values of the democratic societies making up the Council of Europe.
+As such, its provisions must be strictly construed.
+A number of features should be noted from this passage.
+First, how attitudes to the death penalty have evolved over the period since the drafting of the Convention, and, indeed since the ratification of Protocol 6.
+Secondly, the all embracing reach of Protocol 13.
+No derogation from it is permitted.
+The right not to be subjected to the death penalty applies in all circumstances.
+Thirdly, it is to be regarded as a fundamental right, ranking alongside article 2 (the right to life) and article 3 (the right not to be subject to torture or inhuman or degrading treatment).
+Fourthly, the near universal subscription to this charter by the countries which comprise the Council of Europe is testament to the widespread abhorrence to the imposition of the death penalty, whatever the prevailing circumstances or conditions.
+The respondent dismissed the relevance of the ECtHR jurisprudence, relying on Khan v United Kingdom (see para 88 above) and Sandiford and Zagorski (para 74 above).
+It was submitted that the ECHR/HRA jurisprudence is positively against the concept of the state being responsible for any broader concept of facilitation extending beyond the physical removal of the individual.
+Specifically, the case law was said to be against the state being under an obligation not to take steps within its jurisdiction which might expose an individual who is not within the jurisdiction to the risk of treatment that would or might otherwise be contrary to the ECHR.
+I will examine those decisions presently but, by way of preliminary comment, one may observe that the purpose of referring to ECtHR jurisprudence is not to suggest that the Strasbourg court has endorsed the notion that there is an extra territorial dimension to the obligation not to facilitate the death penalty.
+To the contrary, the significance of the Strasbourg case law and Protocol 13 lies in its illustration of the practically unanimous opposition to the death penalty in any circumstances whatever.
+The jurisprudence is thus important and noteworthy as an influencer to the conclusion that the contended for common law right should be recognised, rather than as providing any directly binding decision to that effect.
+In Khan at paras 25 and 26, the court said: 25.
+A states jurisdictional competence under article 1 is primarily territorial.
+However, the court has recognised two principal exceptions to this principle, namely circumstances of state agent authority and control and effective control over an area (see Al Skeini v United Kingdom (2011) 53 EHRR 18, paras 130 141).
+In the present case, where the applicant has returned voluntarily to Pakistan, neither of the two principal exceptions to territorial jurisdiction apply.
+This is particularly so when he does not complain about the acts of British diplomatic and consular agents in Pakistan and when he remains free to go about his life in the country without any control by agents of the United Kingdom.
+He is in a different position, both to the applicants in Al Saadoon (who were in British detention in Iraq and thus, until their handover to the Iraqi authorities, were under British authority and control) and to the individuals in Al Skeini (who had been killed in the course of security operations conduct by British soldiers in South East Iraq). 26.
+Moreover, and contrary to the applicants submission, there is no principled reason to distinguish between, on the one hand, someone who was in the jurisdiction of a Contracting State but voluntarily left that jurisdiction and, on the other, someone who was never in the jurisdiction of that state.
+Nor is there any support in the courts case law for the applicants argument that the states obligations under article 3 require it to take this article into account when making adverse decisions against individuals, even when those individuals are not within its jurisdiction.
+From these passages it is clear that the courts principal preoccupation was with the territorial reach of the Convention, not with opposition to the death penalty.
+Likewise, in Sandiford and Zagorski, although in the latter case observations were made concerning the nature of a common law obligation to take positive steps to protect an individuals life from the actions of a third party.
+These observations will require close consideration.
+In Sandiford, as the respondent in the present case submitted, the appellant had argued unsuccessfully that the UK was obliged to fund legal representation for a person facing a capital charge in Indonesia; or had applied too rigid a policy against doing so.
+The Supreme Court concluded that the claimant was not within the jurisdiction of the UK so as to engage any ECHR/HRA rights.
+But that is nothing to the present point.
+The appellant does not argue that she or her son are entitled to rely directly on a Convention right.
+Mr El Sheikh is not within the territorial jurisdiction of the ECHR.
+The purpose of referring to ECtHR jurisprudence and Protocol 13 is to demonstrate the almost complete ubiquity of opposition in the countries which comprise the Council of Europe to the imposition of the death penalty in any circumstances whatever.
+Observations by Lord Dyson MR in Sandiford when it was before the Court of Appeal ([2013] EWCA Civ 581; [2013] 1 WLR 2938) are, however, worthy of note.
+At para 7 of his judgment he said: It is the longstanding policy of the UK to oppose the death penalty in all circumstances as a matter of principle.
+Its strategy and policy in relation to the death penalty is set out in the HMG Strategy on Global Abolition of the Death Penalty: 11 October 2010.
+The strategy confirms that the goals of the UK government are to increase the number of abolitionist countries or countries where a moratorium exists on the use of the death penalty; to seek further restrictions on the use of the death penalty in countries where it is used and a reduction in the number of executions; and to ensure that EU minimum standards are met in countries which retain the death penalty. (Emphasis added) and at para 61: The death penalty is (in my view) rightly regarded by the government as immoral and unacceptable.
+No challenge was made by the respondent to the correctness of these statements.
+The appellant therefore submits that they provide powerful support for the recognition of a common law principle that the death penalty should not be facilitated by the government of this country.
+I shall examine EU law on this issue later.
+But in the meantime, Lord Dyson MRs statement, that one goal of the governments strategy was to ensure that EU minimum standards [were] met in countries which retain the death penalty must be viewed against the background that both EU and ECHR law have a consistent theme, viz that the death penalty is to be condemned and opposed in every circumstance.
+How could compliance with that position be reconciled with a decision to provide material to a country which retains the death penalty when the very provision of that material could lead to the imposition of that penalty?
+In Zagorski the claimants were citizens of the US who had been sentenced to death in that jurisdiction.
+They were due to be executed by lethal injection consisting of an anaesthetic, sodium thiopental, followed by other injections.
+They applied for judicial review to challenge the decisions of the Secretary of State for Business, Innovation and Skills refusing to impose a control pursuant to the Export Control Act 2002 on the export of sodium thiopental from the United Kingdom to the United States.
+It was held that the claimants were not entitled to the protection of ECHR.
+The obligation of the United Kingdom under the Convention did not extend to securing Convention rights to these claimants as they had never been, at any material time, within the territorial jurisdiction of the United Kingdom.
+The Divisional Court acknowledged that the common law can act to protect human rights independently of the HRA but there was no general common law duty on the government to take positive steps to protect an individuals life from the actions of a third party.
+At para 80 Lloyd Jones J said: I require no persuading that the common law can act to protect human rights quite independently of the Human Rights Act 1998.
+However, the extent of such protection and the relationship of the common law to the statutory rights conferred by the Human Rights Act require careful consideration.
+For example, beyond the established categories of case where a duty of care is imposed, there is no general, common law duty on Her Majestys Government to take positive steps to protect an individuals life from the actions of a third party.
+Moreover, the common law has shown a reluctance to remedy apparent lacunae in the ECHR regime.
+The appellant in the present case argues that the ratio in Zagorski was that there was no general common law duty on the Secretary of State to take positive steps to protect an individuals life from the actions of a third party.
+Here, by contrast, the position is not one of abstaining from taking an action that could prevent the US from carrying out the death penalty.
+In this case the respondent has authorised the provision of assistance which, on his own admission, has created a serious risk that the individuals concerned will, if prosecuted and convicted, face execution as a direct result of UK assistance in this matter.
+If there is a common law principle that the UK should not facilitate the carrying out of the death penalty in any circumstances whatever, there should not be a valid distinction between taking positive steps to prevent an execution and taking an action that facilitates the execution.
+But it ought to be noted that, although originally the claimants in Zagorski had argued that the common law must step in to impose the fundamental principle of the right to life, where for purely jurisdictional reasons the Human Rights Act does not protect that fundamental right, that argument was substantially modified in the course of the hearing see paras 78 and 79 of the judgment.
+At para 83, Lloyd Jones J outlined the change of position of the claimants: Miss Lieven came to accept in her oral submissions that the essence of her case on the common law in this context was that the importance the common law attaches to fundamental rights means that they have to be given very considerable weight in any decision making process where they are in play.
+She accepted that that would not mean that a decision refusing to impose a ban on the export of the drug to the United States would necessarily be unlawful.
+However, the standards which the court would apply to such a decision would be intensified and an increased level of justification would be required.
+It was therefore unnecessary for the court in Zagorski to address the question whether there existed a common law principle that the government should not facilitate the imposition or the execution of the death penalty in a foreign state.
+True it is that Lloyd Jones J said (at para 84) that there was no free standing, common law ground for challenging the decisions in issue but that observation must be seen against the modification which the claimants had made to their original case.
+I do not consider that Zagorski can be regarded as authority for the proposition that the common law should not now be regarded as having evolved to the point where there should be no facilitation of the death penalty.
+Moreover, the case in Zagorski had been framed as one where the court should act to fill what was regarded as a lacuna in ECHR law.
+For the reasons given earlier, I consider that the principal significance of Convention jurisprudence is as an indicator of the prevalence throughout the countries of the Council of Europe of settled opposition to the death penalty.
+I do not accept that it is an appropriate exercise to seek to identify gaps in ECHR law and then consider whether those should be filled by the development of the common law.
+Rather, I believe that the common law should be seen as an autonomous organism, open to external influence but developing on its own initiative rather than in response to perceived deficiencies in other systems of law.
+(iii) European Union law
+Article 2 of the European Charter provides in para 1 that everyone has the right to life and in para 2 that no one shall be condemned to the death penalty or executed.
+The Divisional Court (at para 181 of its judgment) rejected a submission made on behalf of the appellant that the absolute objection to the death penalty contained in the Charter permeates all aspects of EU decision making at both the political and legislative level.
+Before this court, the appellant submits that the Divisional Court was wrong to reject her argument as to the effect of EU law.
+In addition to the absolute prohibition on the death penalty reflected in various articles in the Charter, the EUs absolute opposition to the death penalty is, the appellant says, reflected in an array of other instruments including: (1) the EU Guidelines on Death Penalty (2013), which set out the EUs strong and unequivocal opposition to the death penalty in all times and in all circumstances; (2) Council Regulation (EC) No 1236/2005 of 27 June 2005 concerning trade in certain goods which could be used for capital punishment, torture or other cruel, inhuman or degrading treatment or punishment; (3) Parliament and Council Regulation (EU) 2016/2134 of 23 November 2016 concerning trade in certain goods which could be used for capital punishment, torture or other cruel, inhuman or degrading treatment or punishment (which specifically focuses on the death sentence rather than the generalised prohibition on torture and inhumane treatment); (4) numerous Resolutions of the European Parliament; and (5) recital (71) to the LED, which requires a data controller to take into account that the personal data will not be used to request, hand down or execute a death penalty or any form of cruel and inhuman treatment before transferring data to a foreign law enforcement authority.
+On 10 October 2018 the EU and the Council of Europe issued a Joint Declaration marking the European and World Day against the Death Penalty.
+The Joint Declaration stated: On the European and World Day against the Death Penalty, the Council of Europe and the European Union (EU) reiterate their strong opposition to capital punishment in all circumstances and for all cases.
+The death penalty is an affront to human dignity.
+It constitutes cruel, inhuman and degrading treatment and is contrary to the right to life.
+The death penalty has no established deterrent effect and it makes judicial errors irreversible Member states should continue taking effective measures to prevent their involvement, however indirect, in the use of the death penalty by third countries, such as by adopting measures that prevent the trade in goods that could
+subsequently be used to carry out executions
+The reason that the Divisional Court concluded that there was no absolute EU law prohibition against the death penalty was the provision in article 11(1)(b) of the EU Japan MLA agreement.
+The Divisional Court considered that this indicated that the existence of the death penalty in Japan is treated as a discretionary, rather than a mandatory, ground for the refusal of assistance para 89.
+The appellant submitted that these conclusions were erroneous for the following reasons: (1) Article 11(1)(b) of the EU Japan MLA agreement makes it clear that member states may provide mutual legal assistance in connection with an offence punishable by death under the laws of the requesting state if the requested state and the requesting state agree on the conditions under which the request can be executed.
+In other words, it permits member states to make the provision of MLA conditional upon exactly the sort of death penalty assurance which the appellant submits the Home Secretary was required to obtain in this case.
+Nothing in the EU Japan MLA agreement qualifies or detracts from the EUs longstanding and consistent stance of absolute opposition to the death penalty in all circumstances. the EU Japan agreement (2) The suggestion that demonstrates that EU law is not absolutely opposed to the death penalty is also inconsistent with: (a) The travaux preparatoires of the agreement, which record that the EUs specific objective in negotiating the agreement was to allow for effective mutual legal assistance but at the same time ensure that evidence transmitted by a member state, could in no circumstances be used to impose a death sentence (b) the European Parliaments resolution of 16 February 2012 on the death penalty in Japan; and (c) the statement of the European Union Delegation to Japan and the Heads of Mission of EU member states dated 6 July 2018, which stated that the European Union is strongly and unequivocally opposed to the use of capital punishment under all circumstances and we aim at its universal abolition and which called on the Japanese Government to abolish capital punishment.
+The respondent disputes all of this.
+It is submitted that article 11 of the EU Japan MLA agreement leaves it to the discretion of the member state to decide whether to refuse to provide data on the basis that it relates to a capital offence.
+Reliance on the travaux preparatoires of the agreement was misguided the respondent says.
+The document demonstrates that the EUs line to take in respect of the provision of MLA in a death penalty case was open to negotiation: The aim of a possible agreement between the European Union and Japan on mutual legal assistance would be to enhance and facilitate mutual legal assistance between Japan on the one hand and the 27 member states of the EU on the other hand based, while safeguarding fundamental rights and guaranteeing that the death penalty could not be imposed on the basis of evidence submitted by the EU member states. it has been made clear to Japan that the issue of death penalty/life imprisonment is of crucial importance to the EU.
+It appears that a satisfactory solution to this issue could be found in the negotiations.
+This, the respondent says, clearly indicates that the arrangement was one that was open to negotiation as regards its implementation.
+The respondent also claims that the appellants reliance on the European Parliaments resolution of 16 February 2012 on the death penalty in Japan [AB/99] (para 12.4(2)(b)) and the statement on executions in Japan of the EU Delegation to Japan and the Heads of Mission of EU member states dated 6 July 2018 was misconceived.
+These do not constitute a legally binding prohibition on the provision of MLA to Japan in the context of an offence punishable by death.
+Reliance on various non binding statements of policy opposition to the death penalty is likewise misconceived, the respondent says.
+These do not amount to a legal prohibition on the provision of MLA in a case such as the present.
+I find it unnecessary for present purposes to resolve the dispute as to whether the EU Japan agreement precluded completely the provision of MLA.
+It is relevant to the data protection issue which I shall turn to later in this judgment.
+The context for the present examination of EU law is to assess its influence on the possible development of the common law.
+Whether it is technically possible under the EU Japan agreement for mutual legal assistance to be provided without death penalty assurances is not directly germane in this context.
+I find it impossible to resist the conclusion that the overwhelming character of EU law is one of settled, unmistakable opposition to the death penalty in every circumstance.
+It cannot be irrelevant to the development of our common law that the UK was a member of the EU for more than 40 years.
+The influence that EU law in general and its hostility to the death penalty in particular has on a decision as to the current state of the common law is undeniable.
+(iv) Delay in carrying out the death penalty
+In Pratt v Attorney General for Jamaica [1994] 2 AC 1 the Judicial Committee of the Privy Council held that a state which wished to retain capital punishment must ensure that execution followed as swiftly as practicable after sentence, allowing a reasonable time for appeals.
+To execute a prisoner years later, after long delays caused by his legitimate use of all the appellate procedures available, was to subject him to an inhuman or degrading punishment.
+The appellant in the present case, drawing on the reasoning in Pratt and observing that the inevitable delay in carrying out any execution of her son after the imposition of the death penalty by a US court was unchallenged, submitted that to facilitate such a process would involve complicity in the infliction of punishment which was cruel and inhuman.
+The Divisional Court dealt with the Pratt case at para 86 of its judgment: There is undoubtedly support in international jurisprudence for the contention that prolonged delay in carrying out a sentence of death may be unlawful.
+For example, in Pratt v Attorney General of Jamaica [1994] 2 AC 1, the Privy Council held that section 17(2) of the Jamaican Constitution authorised the death penalty but that did not prevent the court investigating the circumstances in which the executive intended to carry out the sentence.
+It held that execution should take place as soon as reasonably practicable after sentence; to carry out executions after a delay of 14 years would constitute inhuman punishment contrary to section 17(1) of the Constitution.
+But that case turned on the construction of the Jamaican Constitution.
+It did not establish a rule of the common law, either in Jamaica or generally, that particular periods of delay made the enforcement of the death penalty unlawful.
+The appellant criticised this passage, submitting that in reaching its decision, the Privy Council had to address the question of whether delayed execution was contrary to the common law.
+That was necessary in order to establish that the practice of execution after long delay was already unlawful pre independence.
+That practice was therefore not rescued by the savings clause in section 17(2) of the Constitution, which only protected from constitutional challenge treatment and punishment that had been lawful prior to independence.
+I consider that the appellants submissions on this point must be accepted.
+At p 19C D, Lord Griffiths, who delivered the judgment of the Board, said, Prior to independence, applying the English common law, judges in Jamaica would have had the power to stay a long delayed execution (emphasis added).
+Lord Griffiths relied on statements to like effect by Lord Diplock in Abbott v Attorney General of Trinidad and Tobago [1979] 1 WLR 1342, 1348 and Lord Templeman in Bell v Director of Public Prosecutions [1985] AC 937, 950.
+Moreover, at p 20G H and p 28F G of the judgment, the Board expressly stated that execution after long delay could have been stayed as an abuse of process before independence by the application of common law principles.
+Finally, in a telling passage at p 29G H, Lord Griffiths said: There is an instinctive revulsion against the prospect of hanging a man after he has been held under sentence of death for many years.
+What gives rise to this instinctive revulsion? The answer can only be our humanity; we regard it as an inhuman act to keep a man facing the agony of execution over a long extended period of time.
+The case therefore did not turn on the construction of the Jamaican Constitution, as the Divisional Court held.
+On the contrary, it was because the common law before the enactment of the Constitution condemned a long extended period between the passing of a sentence of death and execution that the Jamaican Constitution could not save the situation.
+That this was the product of the common law was confirmed in the later case of Guerra v Baptiste [1996] AC 397, 409G H, where the Privy Council again held that the prohibition on execution after long delay was consonant with the tradition of the common law.
+And in Henfield v Attorney General of the Commonwealth of the Bahamas [1997] AC 413, 425B C, where a lesser period of three and a half years was deemed inhuman.
+That prolonged delay by itself violates the protection against cruel, inhuman or degrading treatment was confirmed by the decision of the Caribbean Court of Justice in the case of Attorney General for Barbados v Boyce [2006] CCJ 1 (AJ), which pronounced that Pratt was rightly decided and that: the practice of keeping persons on death row for inordinate period of time is unacceptable, and infringes constitutional provisions that guarantee humane treatment at para 47.
+The same approach has been taken by a number of the highest courts in the Commonwealth India (Singh v State of Punjab (1983) 2 SCR 583, 593); Zimbabwe (Catholic Commission for Justice and Peace in Zimbabwe v Attorney General (2001) AHRLR 248 (ZwSC 1993), paras 119 120) and Uganda (Attorney General v Kigula [2009] UGSC 6, pp 47 48), where three years from confirmation of sentence was regarded to be the maximum period.
+(v) Factors favouring recognition of the common law principle
+The factors and strands of influence which tell in favour of a common law right not to have ones trial in a foreign state facilitated where there is a prospect that such a trial would lead to the death penalty being carried out may now be assembled and enumerated. 1.
+The Bill of Rights, an always speaking statute, forbade cruel and unusual punishment.
+It is surely now beyond controversy that the death penalty is regarded by the common law to constitute such punishment. 2.
+British contemporary values are reflected in the abolition of the death penalty for murder in 1965 and the resolute refusal of government and Parliament to countenance any change to that position.
+The Death Penalty Project (DPP), an intervener in this appeal, has submitted that the UKs consistent and long standing approach to the death penalty is clear and supports the assertion that the death penalty is now regarded by this country as a cruel and unusual punishment.
+To that end the DPP points out that for more than 15 years, it has been funded by the Foreign and Commonwealth Offices Human Rights and Democracy Department in its work to promote restriction of the use of the death penalty worldwide.
+DPPs work furthers the FCOs Human Rights and Democracy Programme, which lists one of its priority targets to be the abolition of the death penalty abroad.
+The FCO recognises that the death penalty is an inhuman punishment and has stated that: Our ambition remains a world free of capital punishment and torture and that: [we] oppose the death penalty in all circumstances as a matter of principle, because we consider that its use undermines human dignity, that there is no conclusive evidence of its deterrent value, and that any miscarriage of justice leading to its imposition is irreversible and irreparable. (Human Rights and Democracy: The 2014 Foreign & Commonwealth Office Report, dated 12 March 2015, Executive Summary, and Human Rights and Democracy: The 2017 Foreign and Commonwealth Report, updated 5 October 2018, chapter 1.) 3.
+ECHR jurisprudence.
+Although it does not arise directly in this case because of jurisdictional restrictions, it can and should inform the development of the common law see paras 107 124 above.
+Moreover, the UKs ratification of the Thirteenth Protocol is an unequivocal statement of this countrys stance on the death penalty.
+Developments in international human rights law are significant pointers to the interpretation of the common law.
+As Lord Hoffmann said in R v Lyons [2002] UKHL 44; [2003] 1 AC 976, para 27, there is a strong presumption in favour of interpreting English law (whether common law or statute) in a way which does not place the United Kingdom in breach of an international obligation.
+And in A v Secretary of State for the Home Department (No 2) [2005] UKHL 71; [2006] 2 AC 221, para 27 Lord Bingham of Cornhill said that where development of the common law is called for, such development should ordinarily be in harmony with the United Kingdoms international obligations and not antithetical to them. 4.
+EU jurisprudence.
+The European Union has categorically condemned the death penalty as absolutely wrong in all circumstances.
+This declamation chimes exactly with UK standards and values as described in the DPPs intervention. 5.
+The fundamental illogicality of, on the one hand, refusing to extradite or deport individuals for trial in a foreign state where there was a risk of the imposition of the death penalty, without requisite assurances, and, on the other hand, facilitating such a trial when precisely the same outcome is in prospect without demanding assurances.
+The irrationality of this approach can be illustrated by a decision of the Constitutional Court of South Africa Mohamed v President of the Republic of South Africa [2001] ZACC 18.
+The court identified a principle of non complicity as a justification for the refusal to extradite without a death penalty assurance.
+The court referred to the commitment implicit in the Constitution that South Africa will not be party to the imposition of cruel, inhuman or degrading punishment (para 59).
+The rationale was not confined to the fact that the person to be extradited was within the jurisdiction of the courts of South Africa.
+It extended to any complicity in the imposition of cruel, inhuman or degrading punishment.
+If it is objectionable to be complicit in exposing an individual to the risk of execution by extraditing him, it is surely equally objectionable to be complicit in facilitating that result by providing material which has the same result.
+As the appellant submitted, what matters is whether the state whose actions are impugned has, by its actions, established the crucial link in the causal chain that would make possible the execution of the author: per the decision of the UNHRC in Judge v Canada (2005) 40 EHRR SE4, para 10.6.
+The anomaly created by the difference in approach was well captured by Professor Christof Heyns, a former UN Special Rapporteur and currently a member of the UNHRC, in Report of the Special Rapporteur on extrajudicial, summary or arbitrary executions, A/70/304, 7 August 2015, para 102: A dilemma emerges when abolitionist states provide assistance to retentionist states in criminal matters and that assistance leads to the use of the death penalty.
+Even though the individual facing the death penalty in such cases may never have been in the jurisdiction of the abolitionist state, such assistance could amount to complicity in the death penalty.
+The same legal principles apply here as in the case of transfer of persons: states that have abolished capital punishment may not assist in bringing about the death penalty in other countries.
+JCPC jurisprudence and case law from Commonwealth countries 6. paras 135 140 above.
+Although the cases discussed in this section relate to delays in carrying out execution, rather than objection to the death penalty itself, they carry unmistakable evidence of the growing revulsion for that punishment felt by many throughout the world.
+Drawing all these factors together, I believe that the time has arrived where a common law principle should be recognised whereby it is deemed unlawful to facilitate the trial of any individual in a foreign country where, to do so, would put that person in peril of being executed.
+This is not a conclusion of the considerable and controversial variety suggested by the respondent.
+It is a natural and inevitable extension of the prohibition (in the common law as well as under the HRA) of extradition or deportation without death penalty assurances.
+If it appears to be an incremental step, that is only because this is the first time the matter has come before the courts for consideration, largely because the two previous occasions since 2001 on which according to the respondent MLA was provided without a death penalty assurance, that was done without public knowledge and so without the possibility of judicial scrutiny.
+I have therefore decided that the combination of the above factors (beginning with the recognition in Pratt that delayed execution was contrary to common law) leads inexorably to the conclusion that it is unlawful at common law for the state to facilitate the execution of the death penalty against its citizens or others within its jurisdiction anywhere in the world.
+Law, whether enacted or developed through the common law, if it is operating as it should, must be responsive to societys contemporary needs, standards and values.
+It is a commonplace that these are in a state of constant change.
+That is an essential part of the human condition and experience.
+As a deeper understanding of the human psyche and the enlightenment of society increase with the onward march of education, tolerance and forbearance in relation to our fellow citizens, the law must march step by step with that progress.
+I am convinced that the adjustment to the common law which I propose reflects the contemporary standards and values of our society.
+There is no evidence that the insistence on assurances in the case of extradition or deportation has led to any rupture in the relations between the two countries.
+Moreover, several other countries have required assurances without any evidence of negative consequences (for example, Germanys requiring an assurance before providing MLA for the federal prosecution of Zacarias Moussaoui, one of the 9/11 conspirators).
+In any event, the reaction of the US has no bearing on the existence of the common law principle.
+Nor is there any warrant for suggesting that the recognition of the proposed common law principle would forbid mutual legal assistance in all circumstances.
+It would be applied precisely as is the rule relating to deportation and extradition.
+Mutual legal assistance can continue when the appropriate assurances are given.
+I likewise do not accept that the principle has the potential to be expanded into spheres where it would risk creating real damage, for example, to public protection and national security.
+The principle will only apply in cases where proceedings are either in train or contemplated and where a possible outcome is the infliction of the death penalty.
+The free flow of information on matters of public protection and national security between this country and its allies will continue unimpeded.
+It is suggested by Lord Carnwath in para 191 of his judgment that there is as yet no established principle (under the common law, the Convention or any other recognised system of law), which prohibits the sharing of information relevant to a criminal prosecution in a non abolitionist country.
+Since the passing of the Human Rights Act 1998, there may have been a tendency to see the law in areas touched on by the Convention solely in terms of Convention rights.
+But ECHR rights represent a threshold protection; and, although they may be expected to reflect and to find their homologue in the common or domestic statute law, they should not be regarded as an inhibitor to the development of the common law.
+Lord Goff of Chieveley in Attorney General v Guardian Newspapers Ltd (No 2) [1990] 1 AC 109, 282 284 expressed the view that in the field of freedom of speech there was no difference in principle between English law and article 10 of ECHR.
+But, in some areas, the common law may go further than the Convention, and in some contexts it may also be inspired by the ECHR rights and jurisprudence (the protection of privacy being a notable example).
+And in time, of course, a synthesis may emerge.
+But the natural starting point in any dispute is to begin with domestic law, and it is certainly not to focus exclusively on the Convention rights, without surveying the wider common law scene.
+As Toulson LJ said in R (Guardian News and Media Ltd) v City of Westminster Magistrates Court [2012] EWCA Civ 420; [2013] QB 618, para 88: The development of the common law did not come to an end on the passing of the Human Rights Act 1998.
+It is in vigorous health and flourishing in many parts of the world which share a common legal tradition.
+(vi) Customary international law
+In his intervention in this case Professor Heyns suggested that there is an emerging norm of customary international law that the death penalty as such is a violation of the absolute right against torture and cruel, inhuman and degrading treatment of punishment, and that a norm against the facilitation of the death penalty follows from that.
+Professor Heyns accepts that in order to determine the existence and content of a rule of particular customary international law, it is necessary to ascertain whether there is a general practice among the states concerned that is accepted by them as law among themselves Celiberti de Casariego v Uruguay: (1981) 68 IRL 41, paras 10.1 10.3.
+In my opinion, the material on which one could reasonably conclude that there is such a general practice has not been produced.
+The arguments advanced by the respondent (and set out between paras 88 and 92 above) do not establish that customary international law is not in the process of evolving to the point where the death penalty as such is a violation of the absolute right against cruel and inhuman punishment.
+But those arguments and the material on which they were based are sufficient to cast sufficient doubt on that proposition.
+As Professor Heyns has pointed out, the United Nations Special Rapporteur on torture and other cruel, inhuman or degrading treatment or punishment, concluded in 2012: there is an evolving standard whereby states and judiciaries consider the death penalty to be a violation per se of the prohibition of torture or cruel, inhuman or degrading treatment The Special Rapporteur is convinced that a customary norm prohibiting the death penalty under all circumstances, if it has not already emerged, is at least in the process of formation.
+Interim Report of the Special Rapporteur on torture and other cruel, inhuman or degrading treatment or punishment, 9 August 2012, (A/67/279), para 72.
+In the absence of firm, tangible evidence that the process of evolution has been completed or that there is a general practice such as is referred to in para 144 above, it is impossible to accept the appellants argument based on customary international law.
+(vii) Data protection
+The starting point on this subject is the agreement between the parties that the provision of material by the Home Secretary to the United States in July 2018 involved processing of personal data for a law enforcement purpose by a controller which is a competent authority for the purposes of Part 3 of the Act.
+It is also agreed that the Home Secretary did not expressly consider his duties under the Act.
+The respondent argues, however, that there was substantial compliance with the Act.
+Section 34 of the DPA provides an overview and general duty of the data controller.
+It summarises six data protection principles.
+The appellant complains that the first two of these were breached.
+So far as relevant to this case they are (i) that the processing of personal data for any law enforcement purposes must be lawful and fair section 35(1) and (ii) that the law enforcement purpose for which personal data is collected on any occasion must be specified, explicit and legitimate section 36(1)(a).
+Since I have concluded that the transfer of material to the US authorities without obtaining death penalty assurances was contrary to law, it follows that neither condition can be said to have been met.
+The processing of the material was not lawful.
+Nor was the law enforcement purpose for which it was collected legitimate, since it was to be used in the prosecution of Mr El Sheikh in a trial where he was at risk of being sentenced to death and executed in consequence.
+That purpose cannot be legitimate in light of my view as to the current state of the law of this country.
+On that account, it is unnecessary for me to consider the elaborate arguments deployed by the parties on the proper approach to the interpretation of the DPA, beyond paying tribute to the ingenuity of those arguments and the skill with which they were presented.
+Sections 73 to 76 set out the general conditions that apply to the transfer of personal data to third countries or international organisations.
+A controller may not transfer personal data to a third country or to an international organisation unless the three conditions set out in subsections (2) to (4) of section 73 are met.
+The second condition is the relevant one for the purposes of this case.
+It is contained in section 73(3) and is in these terms: (3) Condition 2 is that the transfer is based on an adequacy decision (see section (a) 74), (b) if not based on an adequacy decision, is based on there being appropriate safeguards (see section 75), or (c) if not based on an adequacy decision or on there being appropriate safeguards, is based on special circumstances (see section 76).
+It is not in dispute that the transfer was not based on an adequacy decision.
+In view of my finding in relation to the need to obtain proper death penalty assurances, I am bound to find that the decision to transfer the material to US authorities was not based on there being appropriate safeguards.
+Section 76 deals with transfers on the basis of special circumstances.
+In material part it provides: (1) A transfer of personal data to a third country or international organisation is based on special circumstances where the transfer is necessary to safeguard the legitimate interests of the data to protect the vital interests of the data subject or (a) another person, (b) subject, (c) for the prevention of an immediate and serious threat to the public security of a member state or a third country, (d) enforcement purposes, or (e) in individual cases for any of the law in individual cases for a legal purpose.
+The Divisional Court held that the transfer could be justified on the basis of special circumstances.
+The appellant submits that the court was wrong to characterise the transfer as being necessary for any purpose.
+Accordingly, the condition in section 76(1) was not met.
+Secondly, the appellant submits that, since section 76 refers to a transfer which is based on or takes place in reliance on the existence of special circumstances, conscious and contemporaneous reliance on the gateway by the transferor at the time of the transfer is required and there was no such reliance in this case.
+Thirdly, the narrowness of this residual gateway is reinforced by recital (72) to the LED which states that the gateway should be interpreted restrictively and should be limited to data strictly necessary.
+I consider that the requirement that the data be limited to that which is strictly necessary behoves the data controller to make an assessment of what, in the context of the DPA, is strictly necessary and, since it is accepted that the Home Secretary did not have regard to his duties as data controller, the special circumstances gateway was not available.
+Moreover, it is not enough to say that the data protection provisions were substantially met, where direct, personal evaluation was required.
+The appellants final argument in relation to the DPA was based on section 80 (regarding special processing restrictions where, for a law enforcement purpose, a controller transmits or otherwise makes available personal data to an EU recipient or a non EU recipient).
+I am inclined to accept the respondents argument that this provision does not apply to Mr El Sheikh but, in light of my other conclusions, it is unnecessary for me to reach a final conclusion on it.
+I refrain from making a finding on that argument, therefore.
+Conclusions
+I have concluded that a common law principle should now be recognised to the effect that it is unlawful to facilitate by the provision of material to be used in the trial of a person in a foreign country where there is a risk that, as a result of those proceedings, that person would be at risk of execution.
+On that account the Home Secretary should not have supplied the material to the US authorities in July 2018 without having obtained the customary death penalty assurances.
+It matters not that the Home Secretary was exercising a prerogative power.
+This court is required by long established law to examine the nature and extent of the prerogative power and to determine whether the respondent has transgressed its limits particularly where the prerogative power may be being used to infringe upon an individuals rights.
+The courts have carried out a similar examination in several earlier cases, including Sandiford (considered above) see also the recent decision of this court in the associated cases of R (Miller) v Prime Minister (Lord Advocate intervening) [2019] UKSC 41; [2019] 3 WLR 589, paras 30 32 and, in particular, para 35.
+It might be said that the limit on the prerogative is grounded in the private law right to life and freedom from cruel and unusual treatment but this does not mean that a private law claim could be brought against a private individual choosing to give evidence in a death penalty trial, as the focus here is on the public law principle regarding the use of executive powers.
+The challenge here may be said to stem from the asserted right that Mr El Sheikh should not be exposed to the risk of having the death penalty imposed on him.
+And it is possible to characterise that as a private law right.
+But the decision to release papers and other material without obtaining death penalty assurances involves the exercise of the prerogative which is rooted firmly in the public law domain.
+If there is recognised a common law principle that the death penalty should not be facilitated (save in wholly exceptional circumstances which I shall discuss in the next paragraph and which do not obtain in this instance), then the exercise of the prerogative must yield to that principle and be exercised in accordance with it.
+The restraint on the power to exercise the prerogative in the way that the authorities have done and wish to do in this case derives from such a common law principle, not from the assertion of a private law right.
+It lies emphatically therefore in the sphere of public law.
+The only circumstances in which I conceive that the common law principle should not apply are these: if the relay of information or intelligence was absolutely necessary as a matter of urgency in order to save lives or to protect the security of the nation, the possibility of facilitating the imposition of the death penalty on someone whose identity or activities would thereby be revealed would be outweighed by those momentous considerations.
+There is nothing of the kind here.
+No one has suggested that the information was required because of any imminent threat.
+Had I not held that it was unlawful to facilitate the trial of a person in a foreign country where there was a risk of his being executed, I would nevertheless have held that facilitating his trial in the US with the attendant and inevitable considerable delay between the passing of the sentence of death and its being carried out would be unlawful.
+For the reasons earlier given, the respondent failed to comply with the requirements of a number of the provisions in the DPA.
+On that account also his decision to supply the material was unlawful.
+It follows that no further assistance should be given for the purpose of any proceedings against Mr El Sheikh in the United States of America without the appropriate death penalty assurances.
+LORD REED: (with whom Lady Black and Lord Lloyd Jones agree)
+I agree with Lord Carnwath, for the reasons which he gives, and with the other members of the court, that the Secretary of States decision is vitiated by his failure to comply with the requirements of the Data Protection Act 2018.
+The second ground of appeal should therefore be upheld, and the appeal must be allowed.
+I also agree with Lord Carnwath that the first ground of appeal should be dismissed, for the reasons which he gives, and for also the additional reasons given below.
+I regret that I am unable to agree with Lord Kerrs conclusion that individuals (including citizens of foreign states) possess a common law right under English law not to have their trial in a foreign jurisdiction facilitated where there is a prospect that such a trial would lead to the death penalty being carried out.
+Out of respect for Lord Kerrs careful judgment, I should briefly explain the additional reasons, besides those given by Lord Carnwath, for my taking a different view.
+I fully accept that the common law is subject to judicial development, but such development builds incrementally on existing principles.
+That follows from two considerations.
+The first is that judicial decisions are normally backward looking in the sense that they decide what the law was at the time which is relevant to the dispute between the parties.
+In order to preserve legal certainty, judicial development of the common law must therefore be based on established principles, building on them incrementally rather than making the more dramatic changes which are the prerogative of the legislature.
+Following that approach, new rules may be introduced, or existing rules may be reformulated or departed from, but the courts continue to apply principles which formed an established part of the law at the time of the events in question.
+The judges are then faithful to their oath to do right to all manner of people after the laws and usages of this Realm.
+Secondly, that constraint on judicial law making is also compatible with the pre eminent constitutional role of Parliament in making new law, and with the procedural and institutional limitations which restrict the ability of litigation before the courts to act as an engine of law reform.
+The development of the law proposed by Lord Kerr does not appear to me to be an incremental step.
+I do not find in the sources cited by Lord Kerr an established principle, of which a right having the characteristics he describes can be regarded as an incremental development, largely for the reasons given by Lord Carnwath.
+For example, the principal domestic source on which Lord Kerr relies is article 10 of the Bill of Rights 1688.
+That article appears under the heading The Subjects Rights, and states that excessive Baile ought not to be required nor excessive Fines imposed nor cruel and unusual Punishments inflicted.
+Its prohibition of cruel and unusual punishments concerns the infliction of punishment by the Crown.
+That is not the subject matter of the present case.
+Nevertheless, there is no doubt that, as Lord Bingham of Cornhill observed in R (Amin) v Secretary of State for the Home Department [2003] UKHL 51; [2004] 1 AC 653, para 30, [a] profound respect for the sanctity of human life underpins the common law.
+There are many areas of the law which reflect that respect, including the criminal law relating to homicide, the law of tort and the law relating to coroners.
+The present case is not, however, concerned with a deprivation of life which would constitute a crime or a tort under English law, or would call for a coroners inquest.
+It is concerned with a decision by the Secretary of State, taken (it is accepted) in the exercise of prerogative powers, to provide mutual legal assistance to a foreign government, in the form of information concerning a foreign citizen for use in a criminal investigation, and possibly at a trial, in that jurisdiction.
+The special feature of the case is that it is possible that the person under investigation may be tried on charges for which the death penalty is an available punishment.
+If he were to be convicted of such charges, a trial could result in his judicial execution.
+It also appears from the evidence before this court that a prosecution overseas would be reliant on the material provided by the Secretary of State.
+The consequence of the Secretary of States decision is therefore to place a person at risk of execution.
+In my opinion, Sir James Eadie was correct in submitting on behalf of the Secretary of State that the common law rights and obligations which are relevant to that situation are to be found in public law.
+There is however a risk of over simplification if one says, as Sir James put it, that public law goes no further than to recognise that rational and proper judgments have to be made.
+It is necessary to bear in mind that the context of a decision, and in particular, its potential implications for the life of the person concerned, may affect the application of the familiar grounds of judicial review of administrative action to which Sir James was referring.
+In that regard, it is relevant to consider the idea of a right to life, which is included among the common law constitutional rights listed in De Smiths Judicial Review, 8th ed (2018), eds Woolf et al, para 11 054, and has been discussed in a number of authorities.
+Those authorities do not vouch the existence of a right in the sense in which that term is used in the law of obligations, and the idea that there might be a right of that character is absent from leading cases concerned with questions of life and death, such as Airedale NHS Trust v Bland [1993] AC 789, R v Cambridge Health Authority, Ex p B [1995] 1 WLR 898, In re A (Children) (Conjoined Twins: Surgical Separation) [2001] Fam 147 and R (Nicklinson) v Ministry of Justice (CNK Alliance Ltd intervening) [2014] UKSC 38; [2015] AC 657.
+Nevertheless, the authorities support the recognition of what might more aptly be described as a value to which the courts attach great significance when exercising their supervisory jurisdiction.
+Judicial recognition of the right to life, understood in that sense, can have an important influence on adjudication.
+A well known example is the case of R v Secretary of State for the Home Department, Ex p Bugdaycay [1987] AC 514, which concerned the approach which should be adopted to the consideration of applications for asylum, where it was claimed that the asylum seekers life would be at risk if his application were refused.
+Lord Bridge of Harwich, in a speech with which the other members of the Appellate Committee expressed agreement, referred to the limitations on judicial review of the exercise of discretion, and continued at p 531: Within those limitations the court must, I think, be entitled to subject an administrative decision to the more rigorous examination, to ensure that it is in no way flawed, according to the gravity of the issue which the decision determines.
+The most fundamental of all human rights is the individuals right to life and when an administrative decision under challenge is said to be one which may put the applicants life at risk, the basis of the decision must surely call for the most anxious scrutiny.
+To similar effect, Lord Templeman stated at p 537: In my opinion where the result of a flawed decision may imperil life or liberty a special responsibility lies on the court in the examination of the decision making process.
+On that basis, the House of Lords carried out a more searching review of the Secretary of States consideration of the facts of the case than would be usual on an application for judicial review.
+Another example is the case of R v Cambridge Health Authority, Ex p B [1995] 1 WLR 898, concerned with a challenge to a health authoritys refusal to provide what was argued to be potentially life saving medical treatment.
+Sir Thomas Bingham MR, with whom Sir Stephen Brown P and Simon Brown LJ agreed, stated at pp 904 905: [I]t is important that I should state very clearly, as the judge did, that this is a case involving the life of a young patient and that that is a fact which must dominate all considerations of all aspects of the case.
+Our society is one in which a very high value is put on human life.
+No decision affecting human life is one that can be regarded with other than the greatest seriousness.
+This approach is now firmly established.
+For example, in R (Sandiford) v Secretary of State for Foreign and Commonwealth Affairs [2014] UKSC 44; [2014] 1 WLR 2697, para 66, Lord Carnwath and Lord Mance stated: Irrationality is a high threshold, but it may be easier than otherwise to surmount in a case involving an imminent risk of death by execution of a British citizen deprived of financial support abroad.
+The courts role is given added weight in a context where the right to life is at stake (see R v Secretary of State for the Home Department, Ex p Bugdaycay [1987] AC 514).
+A keen scrutiny of the policy and its application must on any view be required in such circumstances.
+In the more recent case of Pham v Secretary of State for the Home Department [2015] UKSC 19; [2015] 1 WLR 1591, Bugdaycay was cited as one of a number of authorities demonstrating that the intensity of rationality review depends on the context, and that a more rigorous approach is required when the courts are reviewing the exercise of discretion in contexts where fundamental rights are at stake: see paras 105 106 and 114.
+Sir James Eadie submitted that the Secretary of States decision in the present case complied with that standard.
+There was, he said, no irrational change of position by the Secretary of State.
+The decision was subjected to the most anxious scrutiny.
+Sir James also emphasised that the decision was taken in the conduct of foreign affairs, in an area shot through with diplomatic judgement.
+This was an area where the courts recognised the institutional competence and democratic legitimacy of the executive.
+I fully accept that in reviewing a decision such as that in issue, the court has to take full account of the considerations to which Sir James referred.
+I also accept that, contrary to the submission made on behalf of the appellant, the fact that the Secretary of States decision represented a departure from the Governments usual approach in death penalty cases did not in itself render it irrational: the Governments policy in this area was more nuanced than was acknowledged in those submissions.
+Postscript
+However, I should not leave this matter without observing that, examining the decision with the intense care which its potential consequences require, there are some other aspects which might have given rise to a question as to whether it complied with the common law requirement of rationality, if they had been raised.
+I should make it clear that, as these matters were not raised on behalf of the appellant, I do not express any view on them, and they have played no part in my decision as to the outcome of the appeal.
+I mention them only because they might be relevant if a similar issue were to come before the Secretary of State on some future occasion.
+One such aspect is the Secretary of States conclusion that the provision of the information in question was justified because it was in the interests of justice that Mr El Sheikh should be tried in the United States.
+According to a witness statement of Mr Graeme Biggar, a senior official in the Home Office whose statement was said by Sir James to set out the Secretary of States reasoning, the Crown Prosecution Service (the CPS) considered that there was insufficient evidence for a prosecution to take place in the UK, even taking into account the cumulative effect of the evidence available in both the UK and the US.
+Against that background, Mr Biggar stated, [t]he Home Secretarys priority was to ensure insofar as possible that Mr El Sheikh faced justice before a criminal court.
+The Secretary of State himself wrote, in the relevant letter dated 22 June 2018: The UKs aim is for these individuals to face justice in the most appropriate jurisdiction which maximises our collective chances of a successful prosecution.
+To this end the (operationally independent) Counter Terrorism Command of the Metropolitan Police (S015) and Crown Prosecution Service (CPS), have been engaged in a dispassionate assessment of the evidence available and likelihood of prosecution in the UK.
+In parallel our investigators have also been working with the FBI to explore the likelihood of prosecution in the US or other jurisdictions Regretfully, as a result of this process, the CPS have determined there is insufficient evidence to prosecute Shafee El Sheikh in the UK Ensuring foreign fighters face justice raises a real challenge for all our jurisdictions, however in this instance we believe a successful federal prosecution in US is more likely to be possible because of differences in your statute book and the restrictions on challenges to the route by which defendants appear in US courts.
+The US currently has additional charges for terrorism offences which are not available under UK criminal law, and those offences carry long sentences.
+We are therefore committed to assisting the US with a federal prosecution of Alexanda Kotey and Shafee El Sheikh, and after careful consideration I have decided to accede to your current request for mutual legal assistance which is with the UK Central Authority.
+This letter implies that the problem faced by the CPS was not merely that there was insufficient evidence to convict Mr El Sheikh of any offence under UK law.
+Two other matters were mentioned: the need to create new offences, and possible challenges to the route by which defendants appear in court.
+In relation to the second point, Sir James Eadie explained that there was a concern that Mr El Sheikh could challenge the procedure by which he might be brought before a UK court as an abuse of process, on the basis of R v Horseferry Road Magistrates Court, Ex p Bennett [1994] 1 AC 42.
+The Secretary of States reasoning appears therefore to be based on the view that the prosecution of a person in a foreign jurisdiction is necessary to ensure that justice is done, notwithstanding that (a) the conduct for which he might be prosecuted does not constitute an offence under the law in force in the UK, (b) there is insufficient evidence to establish that he has committed any offence under UK law, and (c) the law in force in the UK might treat his prosecution as an abuse of process.
+A second aspect of the reasoning is that the Secretary of State seemingly regarded the prospect of Mr El Sheikhs possible execution as preferable to the prospect of his detention at Guantanamo Bay.
+In relation to that matter, Mr Biggar states: The second issue was the prospect that the US might transfer El Sheikh to Guantanamo Bay The UK has consistently and publicly opposed Guantanamo Bay; and considers that it is a radicalising factor in the UK It was the Home Secretarys assessment in his meeting with the US Attorney General that to press for an assurance would be to imperil the prospect of prosecution (and instead pave the way for a transfer to Guantanamo).
+To view the risk of Mr El Sheikhs execution as preferable to the risk of his detention at Guantanamo Bay is understandably described by Lord Kerr as perplexing.
+LORD CARNWATH:
+I am grateful for Lord Kerrs comprehensive account of the legal and factual background to this troubling case.
+Taken with the similarly complete judgment of the Divisional Court, it enables me to express my own views relatively briefly.
+The appellants submissions fall under two main headings: (i) Unlawfulness of facilitating the death penalty; (ii) Violations of the Data Protection Act 2018.
+In short, I would dismiss the appeal under the first heading, substantially for the reasons given by the Divisional Court; but in agreement with Lord Kerr I would allow the appeal under the second heading.
+On the latter issue we have had helpful submissions, not available to the Divisional Court, from Mr Facenna QC on behalf of the Information Commissioner.
+Facilitating the death penalty
+The citations given by Lord Kerr leave no doubt as to the strength of the opposition to the death penalty in this and many other countries.
+The issue is how far that is reflected in a rule of law applicable to the present facts.
+Certain principles of law or policy are not in doubt: (i) It is the clear policy of the UK to oppose the death penalty in all circumstances as a matter of principle, to seek to increase the number of abolitionist countries and to seek further restrictions on the use of the death penalty in countries where it is used (see the citations in R (Sandiford) v Secretary of State for Foreign and Commonwealth Affairs [2013] EWCA Civ 581; [2013] 1 WLR 2938 CA, para 7). (ii) Within countries subject to the European Convention on Human Rights the right not to be subjected to the death penalty (article 2 and the Thirteenth Protocol) is now recognised as a fundamental right and as one which admits of no derogation and applies in all circumstances (Al Saadoon v United Kingdom (2010) 51 EHRR 9, para 118). (iii) There is as yet no settled rule of customary international law to like effect (Lord Kerr para 149). (iv) It is an established principle both of the common law and other jurisprudence (including the European Convention) that prolonged delay in carrying out the death penalty (the death row phenomenon) may be unlawful as violating protections against cruel, inhuman or degrading treatment (Pratt v Attorney General of Jamaica [1994] 2 AC 1, Soering v United Kingdom (1989) 11 EHRR 439; and other cases cited by Lord Kerr at paras 138 140).
+I agree with Lord Kerr that the Divisional Court in this respect took too narrow a view of the principle. (v) Convention law (under article 2) also prohibits In addition to prohibiting the death penalty in member states, the extradition or deportation of an individual to another state where substantial grounds have been shown for believing that he or she would face a real risk of being subjected to the death penalty there. (Al Saadoon at para 123) The same principle applies under article 3 where there is a real risk of prolonged exposure to the death row phenomenon (Soering at para 111). (vi) To similar effect UN Human Rights Committees (UNHRC) General Comment No 36 (2018) on article 6 of the International Covenant on Civil and Political Rights provides (para 34): States parties that abolished the death penalty cannot deport, extradite or otherwise transfer persons to a country in which they are facing criminal charges that carry the death penalty, unless credible and effective assurances against the imposition of the death penalty have been obtained.
+These points are not in dispute.
+However, so far as appears from the materials before the court, there is as yet no established principle (under the common law, the European Convention or any other recognised system of law), which prohibits the sharing of information relevant to a criminal prosecution in a non abolitionist country merely because it carries a risk of leading to the death penalty in that country.
+Against that background Mr Fitzgerald QC faced an uphill task in seeking to persuade the court that it should now fashion a common law rule to that effect.
+He sought to do so, first, by invoking Lord Carswells well known affirmation in A v Secretary of State for the Home Department (No 2) [2005] UKHL 71; [2006] 2 AC 221, para 152, of the evolving character of the common law, citing for example Matthews J in Hurtado v California (1884) 110 US 516, 531: as it was the characteristic principle of the common law to draw its inspiration from every fountain of justice, we are not to assume that the sources of its supply have been exhausted.
+On the contrary, we should expect that the new and various experiences of our own situation and system will mould and shape it into new and not less useful forms.
+Secondly, he relied on recent statements in this court as to the ability of the common law to respond to developments in European Convention law: R (Osborn) v Parole Board [2013] UKSC 61; [2014] AC 1115, para 57 per Lord Reed; Kennedy v Information Comr (Secretary of State for Justice intervening) [2014] UKSC 20; [2015] AC 445, para 46 per Lord Mance.
+Neither reference seems to me to assist his case.
+As the Divisional Court said, the power of the courts to develop the common law is not in doubt, but it is a power to be exercised with caution.
+The recent statements in this court support the development of the common law in line with the European Convention, but not beyond as here proposed.
+So far as concerns Lord Carswells comments in the A case, he was speaking in the context of an issue as to the admissibility of evidence obtained by torture, against a background in which from its very earliest days the common law of England set its face firmly against the use of torture (per Lord Bingham of Cornhill at para 11, citing authorities dating from the 15th century).
+As Lord Carswell acknowledged, other members of the House had accepted the view that the common law as it stands would forbid the reception in evidence of any statement obtained by the use of torture.
+In that context his proposal represented at most a very limited development of the law.
+By contrast, as the Divisional Court pointed out (para 94), the death penalty as such has never attracted the attention of the common law.
+It is notable that the developments of the law have come relatively recently, from Parliament or the European Court of Human Rights, rather than the domestic courts.
+It was not until 1965 that the death penalty was abolished for murder (Murder (Abolition of Death Penalty) Act 1965); abolition of the penalty for the remaining offences had to wait until the Crime and Disorder Act 1998.
+Much more recently Parliament has made express provision in respect of death penalty assurances in one context.
+Section 16 of the Crime (Overseas Production Orders) Act 2019, which amends section 52 of the Investigatory Powers Act 2016 (interception of communications in accordance with overseas requests) to provide, in the case of agreements with non abolitionist countries, a prohibition on designation unless the Secretary of State: has sought a written assurance, or written assurances, relating to the non use of information obtained by virtue of the agreement in connection with proceedings for a death penalty offence in the country or territory.
+The possible relevance is two fold.
+First it confirms that this is an area in which Parliament remains directly involved.
+Secondly, where the statute applies, the Secretary of State is required to seek assurances, but there is no specific prohibition on the exchange of material where no such assurance is ultimately obtained.
+As regards the European Convention, the right to life under article 2 of the Convention in its original form included an exception for the execution of a sentence of a court following his conviction of a crime for which this penalty is provided by law.
+It was not until 2004 that the Thirteenth Protocol to the European Convention was adopted excluding the death penalty in all circumstances.
+Nor can it be assumed that the domestic courts unaided by Strasbourg would have developed a rule of law corresponding to the Soering principle.
+The principle itself was not uncontroversial.
+In the later Grand Chamber decision in Chahal v United Kingdom (1997) 23 EHRR 413 there was strong minority support for a more flexible approach when dealing with removal on security grounds.
+In a dissenting judgment, seven judges (including the British judge Sir John Freeland) said: We agree with the majority that national security considerations could not be invoked to justify ill treatment at the hands of a Contracting State within its own jurisdiction, and that in that sense the protection afforded by article 3 is absolute in character.
+But in our view the situation is different where, as in the present case, only the extra territorial (or indirect) application of the article 3 is at stake.
+There, a Contracting State which is contemplating the removal of someone from its jurisdiction to that of another state may legitimately strike a fair balance between, on the one hand, the nature of the threat to its national security interests if the person concerned were to remain and, on the other, the extent of the potential risk of ill
+treatment of that person in the state of destination
+Under domestic law, powers to deport or extradite are conferred by statute and as such subject to review on public law grounds, including, where the right to life is at stake the anxious scrutiny principle (R v Secretary of State for the Home Department, Ex p Bugdaycay [1987] AC 514).
+However, it is difficult to see how, under established common law principles of statutory construction (apart from the European Convention), the discretion conferred on the Secretary of State by the relevant statutes could have been construed as subject to an absolute prohibition on removal by reference to the possible consequences in the receiving state, as opposed to a discretion along the lines of that proposed by the minority in Chahal.
+In any event, even if such a common law principle relating to physical removal could be made out, I am unpersuaded that the references given by Mr Fitzgerald could properly lead the court to recognise as part of the common law a broader non facilitation principle: that is a principle (in his words) that it cannot be lawful or rational to facilitate a penalty that we ourselves regard as inhuman.
+I take them in turn.
+He relies first on the words of Lord Kerr in R (Ismail) v Secretary of State for the Home Department [2016] UKSC 37; [2016] 1 WLR 2814 to describe the basis of the Soering principle: It was because the actions of the UK authorities, in extraditing the applicant to a country where he faced the possibility of suffering the death penalty, facilitated that outcome that a violation of article 3 was held to be present.
+In effect, the UK would have been directly instrumental in exposing Soering to the risk of being executed (para 35 emphasis added) As I understand that passage in context, Lord Kerr was giving no more than shorthand description of the basis of the Soering principle, with a view not to extending it, but to distinguishing it as applied to the facts of the case before him.
+To similar effect is the reference by the Constitutional Court of South Africa in Mohamed v President of the Republic of South Africa [2001] ZACC 18 to the states commitment under its Constitution not to be party to the imposition of cruel, inhuman or degrading punishment (para 59).
+The full paragraph shows that again it was concerned with physical removal rather than other forms of assistance: For the South African government to cooperate with a foreign government to secure the removal of a fugitive from South Africa to a country of which the fugitive is not a national and with which he has no connection other than that he is to be put on trial for his life there, is contrary to the underlying values of our Constitution.
+It is inconsistent with the governments obligation to protect the right to life of everyone in South Africa, and it ignores the commitment implicit in the Constitution that South Africa will not be party to the imposition of cruel, inhuman or degrading punishment. (para 59 emphasis added)
+The same can be said of Mr Fitzgeralds reference to the UNHRC decision in Judge v Canada (2005) 40 EHRR SE4, para 10.6.
+The full paragraph reads: 10.6 For these reasons, the Committee considers that Canada, as a state party which has abolished the death penalty violated the authors right to life under article 6, para 1, by deporting him to the United States, where he is under sentence of death, without ensuring that the death penalty would not be carried out.
+The Committee recognizes that Canada did not itself impose the death penalty on the author.
+But by deporting him to a country where he was under sentence of death, Canada established the crucial link in the causal chain that would make possible the execution of the author.
+Mr Fitzgerald relies on the reference to a causal chain, but that again was in the narrow context of physical removal to a country where he was already under sentence of death.
+Finally Mr Fitzgerald relies on the report of the UN Special Rapporteur (Professor Christof Heyns) on extrajudicial, summary or arbitrary executions, A/70/304, 7 August 2015, which states: A dilemma emerges when abolitionist states provide assistance to retentionist states in criminal matters and that assistance leads to the use of the death penalty.
+Even though the individual facing the death penalty in such cases may never have been in the jurisdiction of the abolitionist state, such assistance could amount to complicity in the death penalty.
+The same legal principles apply here as in the case of transfer of persons: states that have abolished capital punishment may not assist in bringing about the death penalty in other countries. (para 102 emphasis added)
+The report goes on (para 106) to refer to the possible need for further guidance on what sort of assistance might constitute unlawful complicity in the death penalty, supported by a non exhaustive list drawn up by OHCHR detailing what assistance might be proximate enough to engage responsibility.
+While the earlier passage might be thought to imply a more general principle aimed at any form of assistance, the report does not suggest that it has achieved the status of a binding rule of law by virtue of any legal instrument or judicial pronouncement, national or international.
+It is also relevant that we are not here considering facilitation in general, but facilitation by the transfer of information.
+The development of a common law rule would have to take account of the fact that, at least as respects the transfer of personal data, Parliament has recently legislated in this field, in the 2018 Act.
+That provides a detailed and carefully calibrated regime for the transfer of such information to third countries.
+It is difficult to reconcile that scheme with the development of an absolute common law prohibition of transfer of information in defined circumstances.
+Notably, even where transfer would otherwise be prohibited, for example because of the lack of appropriate safeguards, transfer may be allowed in special circumstances, including in section 76(1)(c) for the prevention of an immediate and serious threat to the public security of a member state or a third country.
+It is not difficult to envisage circumstances where urgent exchange of information with the US security forces might be required relating to an immediate threat to public security, which should not be inhibited by concerns that it might ultimately lead to a risk of the death penalty.
+For these reasons I would dismiss the appeal under the first heading.
+Data Protection Act 2018
+The provisions of the Data Protection Act 2018, which regulates the processing of personal data, are set out and discussed in detail in the Divisional Courts judgment (paras 141ff).
+It is not in dispute that the data transmitted to the US authorities include personal data relating to Mr El Sheikh together with personal data relating to any other suspect, to witnesses and possibly others, along with other material not falling within the definition of personal data.
+It is also not in dispute that in the course of their consideration of the question whether to provide the US authorities with the material, the UK authorities gave no separate consideration to the requirements of the 2018 Act (Divisional Court paras 141 142).
+It is Part 3 of the Act that is of particular relevance in the present case.
+As the Divisional Court explains (paras 143, 175), Part 3 is designed to implement the EUs Law Enforcement Directive (Directive (EU) 2016/680) or LED, which accordingly is a legitimate aid to construction.
+The appellant argues that the authorities breached the provisions of the 2018 Act in a number of respects.
+I propose to turn straight to the arguments that she advances in relation to the provisions governing transfers of personal data to a third country (sections 72 to 78 of Part 3), because it is these provisions which, to my mind, provide the answer to the data protection issues in this case.
+Section 73 sets out general principles for such transfers.
+It prohibits transfer of personal data unless the three conditions set out in subsections (2) to (4) are met.
+Condition 1 is that the transfer is necessary for any of the law enforcement purposes.
+It is common ground that the test of necessity is a strict one (Guriev v Community Safety Development (UK) Ltd [2016] EWHC 643 (QB), para 45).
+The law enforcement purposes are: the purposes of the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, including the safeguarding against and the prevention of threats to public security. (section 31)
+is based on an adequacy decision (see section
+Condition 2 is that: the transfer (a) 74), (b) if not based on an adequacy decision, is based on there being appropriate safeguards (see section 75), or if not based on an adequacy decision or on there (c) being appropriate safeguards, is based on special circumstances (see section 76).
+Condition 3 concerns the status of the intended recipient of the data.
+There is no dispute that it is satisfied, and it need not concern us further.
+It is upon Condition 2 that the argument in the instant case has centred.
+Each of the three limbs of this condition directs the reader on to a further section of Part 3.
+There was no adequacy decision in this case (Condition 2(a)), so section 74 need not be considered.
+However, there is debate as to the applicability of both Condition 2(b) and Condition 2(c), and it is therefore necessary to turn to sections 75 and 76.
+Section 75 defines the circumstances in which a transfer is based on there being appropriate safeguards, and sets out procedural requirements which must be complied with, including as to documentation and as to providing information to the Information Commissioner.
+Relevant also to appropriate safeguards is recital (71) of the LED: Transfers not based on such an adequacy decision should be allowed only where appropriate safeguards have been provided in a legally binding instrument which ensures the protection of personal data or where the controller has assessed all the circumstances surrounding the data transfer and, on the basis of that assessment, considers that appropriate safeguards with regard to the protection of personal data exist In addition, the controller should take into account that the personal data will not be used to request, hand down or execute a death penalty or any form of cruel and inhuman treatment (Emphasis added)
+The Divisional Court rejected the appellants submission based on recital (71) that in the absence of an assurance as to use, the safeguards would necessarily be inadequate.
+They said: if this recital were intended to be a red line prohibition it (a) would be expressed clearly as such, (b) would be expressed in imperative terms (must rather than should and not merely take into account), and (c) would be in an article rather than a recital. (para 182)
+The court (paras 202ff) also rejected the submission that the section required express consideration of the applicability of the requirements before transfer takes place: What matters is whether, in substance, appropriate safeguards for the protection of the data existed; whether, in other words, the decision proceeded in circumstances where there were appropriate safeguards in place.
+It was evident, in the Divisional Courts view, that ministers and officials took account of the potential use of the data in respect of the death penalty: in fact, that was central to the assessment.
+The terms on which the data were transferred to the US authorities were set out in the letter under challenge, and the careful consideration by ministers and officials of the question whether to make the transfer in the absence of death penalty assurance met the requirement that the data controller must assess all the circumstances surrounding transfer of that type of personal data to the US as required by section 75(1)(b).
+As to the lack of communication with the Information Commissioner as required by section 75(2) the court accepted the submission of counsel for the Secretary of State that a failure in that regard cannot operate to undermine a transfer which in substance is lawful.
+Mr Facenna for the Information Commissioner submits that the Divisional Court erred in its understanding of the applicable gateway under sections 73 to 76.
+Section 73 requires, as he puts it, conscious and contemporaneous consideration of the statutory tests prior to any transfer taking place.
+Further, the record keeping requirement, including the requirement to set out the justification for the transfer (which features in both section 75 and section 76) cannot sensibly be read as requiring no more than ex post facto consideration of whether a transfer was justified.
+He submits also that the court was wrong to focus on the extent to which ministers took account of the potential use of the data in respect of the death penalty, and he emphasises the particular reference in the LED to the consideration that the data will not be used to request, hand down or execute a death penalty.
+In my view, Mr Facenna is correct to submit that section 73 requires specific consideration by the relevant controller of the statutory tests, including the strict test of necessity.
+The clear purpose of the provisions is to set out a structured framework for decision making, with appropriate documentation.
+This did not happen in this case, and to that extent there was a clear breach of the Act.
+I also agree that the issue under Condition 2 is not what matters the controller took into account, but whether the decision was based on there being appropriate safeguards or (when we come to sections 73(3)(c) and 76) special circumstances.
+It is true that recital (71) is no more than an interpretative aid, and that its wording could be clearer.
+However, the words will not be used seem to leave little room for discretion.
+The expectation is that the appropriate safeguards will be designed to achieve that objective.
+That is also consistent with the governments long standing policy of seeking full death penalty assurances in all cases.
+Given that in this case the information was transferred without any safeguards at all, I am unable to see how (if the question had been considered) the Secretary of State could have regarded this condition as satisfied.
+The Divisional Court was wrong in my view to find otherwise.
+The lawfulness of the transfer therefore stands or falls on the special circumstances condition contained in section 73(3)(c).
+The circumstances in which a transfer is based on special circumstances are defined in section 76, which, like section 75, also includes procedural requirements.
+According to section 76(1), a transfer is based on special circumstances where it is: necessary (a) another person, to protect the vital interests of the data subject or to safeguard the legitimate interests of the data (b) subject, (c) for the prevention of an immediate and serious threat to the public security of a member state or a third country, (d) enforcement purposes, or (e) in individual cases for any of the law in individual cases for a legal purpose.
+It is upon paragraphs (d) and (e) that the Secretary of State relies. [L]aw enforcement purposes (paragraph (d)) are defined in section 31, see para 210 above.
+A legal purpose (paragraph (e)) includes the purpose of any legal proceedings (including prospective legal proceedings) (section 76(4)(a)).
+Paragraphs (d) and (e) do not apply if the controller determines that fundamental rights and freedoms of the data subject override the public interest in the transfer (section 76(2)).
+Also relevant to section 76 is recital (72) of the LED, which states: Where no adequacy decision or appropriate safeguards exist, a transfer or a category of transfers could take place only in specific situations, if necessary [inter alia] in an individual case for the purposes of the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, including the safeguarding against and the prevention of threats to public security Those derogations should be interpreted restrictively and should be limited to data strictly necessary.
+Such transfers should be documented and should be made available to the supervisory authority on request in order to monitor the lawfulness of the transfer. (Emphasis added)
+The Divisional Court held that if necessary the Secretary of State was entitled to rely on the special circumstances condition: 207.
+The transfer here was necessary in an individual case for any of the law enforcement purposes (section 76(1)(d)) or, alternatively, in an individual case for a legal purpose: section 76(1)(e).
+Given the specific nature of the evidence transferred in the present case it cannot be said to fall within the categories of frequent, massive and structural transfers of person data, or large scale transfers of data (which recital (72) suggests would not be permitted under this head). 208.
+The controller had not determined that the fundamental rights and freedoms of the data subject overrode the public interest in the transfer: section 76(2).
+Although no specific document was created to meet the requirements of section 76(3) the details of the transfer were documented by UKCA and the justification for the transfer is reflected in various contemporaneous documents.
+I agree with Lord Kerr (para 158), in line with the submission of the Information Commissioner, that the Act requires a specific assessment under section 73, and that this did not take place.
+Insofar as reliance might be placed on the derogation for the prosecution of criminal offences (recital (72)), the Secretary of State would need to be satisfied that that the transfer of any personal data was strictly necessary for that purpose.
+A convenient summary of the thinking at the time is set out in the email of 6 June 2018 from the Home Secretarys private office (referred to by Mr Biggar, para 68): a. He was extremely mindful of the greater imperative of ensuring the prosecution of these individuals.
+That must be the highest priority in this instance given their shocking crimes. b. He weighed the decision of seeking assurances against the likelihood of being able to agree them with American counterparts.
+Again the priority must be to ensure prosecution in the US system, as there was insufficient evidence for prosecution in the UK. c.
+He also judged that by not assisting the US in bringing this to trial, it ran the risk of the two being moved to Guantanamo.
+He was aware of the victims families clear wish for a criminal prosecution to take place.
+It was his judgment that prosecution was most likely in a US court and therefore this was the best course of action to meet the families wishes. d. Lastly he was mindful of the UKs international obligation to tackle [foreign terrorist fighters].
+This course of action was best judged to achieve that commitment.
+He felt we must send a clear message that people who commit these acts will be brought to justice, and they cannot be allowed back on the streets to radicalise others.
+It is apparent that the decision was based on political expediency, rather than strict necessity under the statutory criteria.
+There was no consideration as to whether transfer of personal data as such was required.
+There was also a notable lack of any assurance, if the information were made available, as to the prospects of a prosecution in fact taking place in the US.
+Given that there was insufficient evidence to prosecute in the UK, it is not clear why the legal position was thought to be any different in the US.
+So long as the prospects of any prosecution was uncertain, it would seem premature to say that any particular information was strictly necessary for that purpose.
+Of course, if there were no prosecution, concerns about the risk of the death penalty would fall away, but that in itself could not affect the need for the transfer to be justified under the statutory criteria.
+As Lady Hale explains, a further issue arises under section 76(2) relating to special circumstances.
+Although I would have welcomed fuller argument on the point, I see the force of her comments.
+At the least, failure to consider this point is a further reason for holding that the decision cannot stand.
+Conclusion
+For these reasons I would allow the appeal on the second issue only.
+It seems that circumstances may have changed since the hearing of the appeal, in that the Crown Prosecution Service is understood to be reconsidering the possibility of a prosecution in this country.
+That would clearly be relevant to any reconsideration of the issues by the Secretary of State, in particular the necessity of the transfer.
+I would seek further submissions on the appropriate form of order.
+LORD HODGE:
+I agree that the appeal must be allowed.
+The Secretary of States decision cannot stand because in reaching that decision he did not comply with the requirements of the Data Protection Act 2018 (the 2018 Act).
+In this regard I agree with Lady Hale, Lord Reed, Lord Kerr and Lord Carnwath, essentially for the reasons given by Lord Reed and Lord Carnwath.
+I see the force of Lady Hales point in relation to section 76(2) of the 2018 Act, but, as it was not fully argued, would reserve my position on it.
+But, for the reasons given by Lord Reed and Lord Carnwath, I agree that the first ground of appeal must be dismissed.
+I am satisfied that the common law does not recognise a right to life which can be used to bar the Secretary of State, in his exercise of prerogative powers in the conduct of foreign affairs, from providing information to a foreign country concerning a foreign citizen in the context either of mutual legal assistance or the sharing of intelligence.
+In the domestic laws of the United Kingdom it is Parliamentary legislation rather than the common law which has created and delimits the right to life by the abolition of the death penalty for all offences and the enactment of the Human Rights Act 1998 (the 1998 Act).
+It is in the 1998 Act that the right to life has become part of our domestic laws.
+Further protection has been provided, indirectly, by data protection legislation, now the 2018 Act, and, as far as it goes, by section 16 of the Crime (Overseas Production Orders) Act 2019 (the 2019 Act), which amends section 52 of the Investigatory Powers Act 2016.
+It is not difficult to envisage circumstances in which the Secretary of State might want to provide intelligence to the government of another country to avert serious loss of life in a planned terrorist attack and that intelligence might expose a person in the custody of the foreign state to criminal charges which may carry the death penalty.
+The United Kingdoms international obligation to protect the right to life under article 2 of the European Convention on Human Rights, which section 1 of the 1998 Act introduced into our domestic laws, would, it appears to me, require the Secretary of State to balance the necessity of providing information to save lives against the possibility of facilitating the imposition of the death penalty on that person.
+Were the courts to recognise a parallel common law right to life and similar qualifications to that right, that would not be the incremental development of the law building on established principles of the common law; it would amount to judicial legislation.
+It is for Parliament to decide whether it wishes to go beyond the amendment which it made in the 2019 Act.
+Our public law reflects the very high value which our society places on human life by requiring the courts to adopt an especially intense scrutiny when reviewing the legality of a decision which may imperil a persons life.
+Having regard to the arguments advanced in this appeal, that scrutiny involves the review of the exercise of prerogative powers against the common law criterion of reasonableness (in relation to the Secretary of States change of position) and against the requirements which Parliament has imposed in the 2018 Act.
+While the appeal fails on the former basis, it succeeds on the latter.

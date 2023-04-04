@@ -1,0 +1,37 @@
+Prior to 4 October 2007, Mr and Mrs Fielding, (the Defendants) were directors and controlling shareholders of Burnden Holdings (UK) Limited (the Claimant).
+The Claimant was the holding company of a number of trading subsidiaries, including Vital Energi Utilities Ltd (Vital).
+On 4 October 2007, the shareholders of the Claimant exchanged their shares for shares in a new holding company for the group, BHU Holdings Ltd (BHUH).
+On 12 October 20071, in an approved transaction, the Claimant effected a distribution in specie of its shareholding in Vital to BHUH.
+Subsequently, the shareholding in Vital was transferred to another new holding company (VHL).
+Mrs Fielding later sold her shareholding in VHL, and the Claimant went into liquidation.
+On 15 October 2013, more than six years after the 12 October 2007 distribution, the Claimant, by its liquidator, issued proceedings against the Defendants for the unlawful distribution in specie of the Claimants shareholding in Vital.
+This was outside of the six year limitation period set out in section 21(3) of the Limitation Act 1980 in respect of an action by a beneficiary for breach of trust.
+The Defendants applied to the High Court for summary judgment on the basis that the claim was time barred.
+For the purposes of the present appeal, it is assumed that the distribution was unlawful, because this appeal concerns only the limitation issues; however, the unlawfulness of the distribution is contested by the Defendants in the main proceedings.
+The High Court granted summary judgment in favour of the Defendants on the ground that the claim was time barred.
+The Court of Appeal set aside the judges order for summary judgment on the basis that the limitation period did not run against the Claimant, because section 21(1)(b) of the Limitation Act 1980 (section 21(1)(b)) provides that no limitation period applies to an action by a beneficiary under a trust to recover from the trustee trust property or the proceeds of trust property in the possession of the trustee, or previously received by the trustee and converted to his use.
+The Court of Appeal further held that, in any event, there was a triable issue as to whether section 32 of the Limitation Act 1980 (section 32) applied.
+Section 32 provides that where any relevant fact has been deliberately concealed by the Defendant, the period of limitation does not begin to run until the plaintiff has, or could have, discovered the concealment.
+The Defendants appealed to the Supreme Court on the proper construction of section 21(1)(b) (in particular whether company directors are in possession of or have previously received trust property within the meaning of that section), and section 32.2 1 The date of this transaction is in issue in the main proceedings, but for the purposes of this appeal, 12 October 2007 is accepted as the relevant date. 2 Since the Court of Appeal judgment, the Claimant has amended its claim to include an allegation of fraud.
+Under section 21(1)(a) of the Limitation Act, this means there could not now be summary judgment for the Defendants.
+Nonetheless the issue as to the meaning of section 21(1)(b) is of sufficient importance to have made it appropriate for this appeal (for which permission had been obtained prior to the amendment pleading fraud) to proceed.
+The Supreme Court unanimously dismisses the appeal, finding that section 21(1)(b) applies to trustees who are company directors, who are to be treated as being in possession of the trust property from the outset.
+The Court declines to express a final view on section 32.
+Lord Briggs gives the judgment, with which the rest of the Court agrees.
+Section 21 For the purposes of section 21, the Defendants are regarded as trustees, because they are entrusted with the stewardship of the companys property and owe fiduciary duties to the company in respect of that stewardship.
+The company is regarded as the beneficiary of the trust under section 21 [11].
+Contrary to the Defendants submissions, section 21(1)(b) does not become inapplicable merely because the misappropriated property has remained legally and beneficially owned by corporate vehicles, rather than having become vested in law or in equity in the defaulting directors [16].
+The purpose of section 21(1)(b), as laid down in In re Timmis, Nixon v Smith [1902] 1 Ch 176 and JJ Harrison (Properties) Ltd v Harrison [2002] 1 BCLC 162, is to give a trustee the benefit of the lapse of time when, although he had done something legally or technically wrong, he had done nothing morally wrong or dishonest.
+It is not intended to protect him where, if he pleaded the statute, he would come off with something he ought not to have [17].
+Section 21 is primarily aimed at express trustees and is applicable to company directors by a process of analogy.
+An express trustee might or might not from time to time be in possession or receipt of the trust property [18].
+By contrast, in the context of company property, directors are to be treated as being in possession of the trust property from the outset.
+It is precisely because, under the typical constitution of an English company, the directors are the fiduciary stewards of the companys property, that they are trustees within the meaning of section 21.
+If their misappropriation of the companys property amounts to a conversion of it to their own use, they will necessarily have previously received it, by virtue of being the fiduciary stewards of it as directors [19].
+In relation to trustees who are company directors, it may be that the requirement in section 21(1)(b) that the property be previously received by them adds little or nothing to the other conditions for the disapplication of the limitation period.
+However, that requirement is not redundant in relation to trustees generally [20].
+On the assumed facts of the present case, the Defendants converted the companys shareholding in Vital when they procured or participated in the unlawful distribution of it to BHUH.
+By the time of that conversion the defendants had previously received the property because, as directors of the Claimant, they had been its fiduciary stewards from the outset [22].
+Section 32 In depth analysis of the section 32 issue would take the court into a minefield of difficulties.
+It is not necessary to decide this point because of the recent plea of fraud, and because of this courts decision about the meaning of section 21, which mean the issue is unsuitable for summary judgment.
+Accordingly the court expresses no view on the correctness of the Court of Appeals approach to section 32(2) [26].

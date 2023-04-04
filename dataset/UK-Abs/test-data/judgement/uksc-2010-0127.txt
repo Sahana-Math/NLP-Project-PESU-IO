@@ -1,0 +1,238 @@
+This appeal raises a short question of construction of shipbuilders refund guarantees given pursuant to six shipbuilding contracts (the Contracts).
+The Contracts, which were all dated 11 May 2007, were between each of the first to sixth claimants (the Buyers) and Jinse Shipbuilding Co Ltd (the Builder).
+Under the Contracts the Builder agreed to build and sell one vessel to each of the Buyers.
+The price of each vessel was US$33,300,000, payable in five equal instalments of US$6,660,000 due at specified points of time, with the final instalment payable on delivery.1 By Article X.8 of the Contracts it was a condition precedent to payment by the Buyers of the first instalment that the Builder would deliver to the Buyers refund guarantees relating to the first and subsequent instalments in a form acceptable to the Buyers financiers.
+As envisaged by Article X.8, by letter dated 22 August 2007 the respondent, Kookmin Bank (the Bank), issued six materially identical Advance Payment Bonds (the Bonds), one to each of the Buyers.
+The seventh claimant (the Assignee) is the assignee of the benefit of the Bonds.
+On 29 August 2007, the Buyers each paid the first instalment of US$6,660,000 due under the Contracts.
+On 29 September 2007, the first claimant paid the second instalment of US$6,660,000 under the contract to which it is a party.
+In 2008 the Builder experienced financial difficulties and in late January 2009 it entered into and/or became subject to a debt workout procedure under the Korean Corporate Restructuring Promotion Law 2007.
+On 25 February 2009 the Buyers wrote to the Builder notifying it that this development triggered Article XII.3 of the Contracts and demanding an immediate refund of all the instalments paid, together with interest at 7% per annum.
+The Builder refused to make any refund on the ground that Article XII.3 of the Contracts had not been triggered as alleged.
+The dispute between the Buyers and the Builder has been submitted to arbitration pursuant to Article XIV.3 of the Contracts. 1 There was subsequently a small reduction in the overall price and a corresponding reduction in the final instalment for each vessel but that is immaterial to the issues in the appeal.
+On 23 April 2009, the Buyers wrote to the Bank demanding repayment under the Bonds of the instalments paid under the Contracts.
+The Bank refused to pay.
+It did so initially on the ground that it was not obliged to pay pending resolution of the dispute between the Buyers and the Builder.
+That argument was subsequently rejected by Simon J (the Judge) and there was no appeal to the Court of Appeal against that part of his order: [2009] EWHC Civ 2624 (Comm).
+The Bank subsequently raised a separate, and logically prior, argument that, on their true construction, the Bonds did not cover refunds to which the Buyers were entitled pursuant to Article XII.3 of the Contracts.
+That argument was also rejected by the Judge, who gave summary judgment for the Assignee, but succeeded in the Court of Appeal, which gave summary judgment for the Bank against the Buyers and the Assignee.
+In the Court of Appeal Sir Simon Tuckey agreed with the Judge but the majority, comprising Thorpe and Patten LJJ, held the Banks argument to be correct: [2010] EWCA Civ 582.
+The orders of the Judge and the Court of Appeal were made on 29 October 2009 and 27 May 2010 respectively.
+The Court of Appeal refused permission to appeal.
+The Buyers appeal to this Court pursuant to permission granted by the Court.
+The issue is whether, on the true construction of paragraph 3 of the Bonds, the Buyers are entitled to payment under the Bonds in respect of refunds to which they are entitled under Article XII.3 of the Contracts.
+No one suggested that the successful parties should not have summary judgment in their favour.
+The Bonds
+I begin with the Bonds because it was common ground that all depends upon the true construction of the Bonds and that the terms and meaning of the Contracts are only relevant to the extent that they inform the true construction of the Bonds.
+The paragraphs in the letter comprising the Bonds were not numbered but both the Judge and the Court of Appeal referred to them by number for convenience of reference and I will do the same.
+As so numbered the relevant parts of each Bond were these: [1] We refer to the Contract entered into between the Builder and yourselves for the construction and delivery of the Vessel to be delivered before [31 July 2009].
+Other terms and expressions used in this Bond shall have the same meaning as in the Contract, a copy of which has been provided to us. [2] Pursuant to the terms of the Contract, you are entitled, upon your rejection of the Vessel in accordance with the terms of the Contract, your termination, cancellation or rescission of the Contract or upon a Total Loss of the Vessel, to repayment of the pre delivery instalments of the Contract Price paid by you prior to such termination or a Total Loss of the Vessel (as the case may be) and the value of the Buyer's Supplies delivered to the Shipyard (if any) together with interest thereon at the rate of . (7%) per annum (or . (10%) per annum in the case of a Total Loss of the Vessel) from the respective dates of payment by you of such instalments to the date of remittance by telegraphic transfer of such refund. [3] In consideration of your agreement to make the pre delivery instalments under the Contract and for other good and valuable consideration (the receipt and adequacy of which is hereby acknowledged), we hereby, as primary obligor, irrevocably and unconditionally undertake to pay to you, your successors and assigns, on your first written demand, all such sums due to you under the Contract (or such sums which would have been due to you but for any irregularity, illegality, invalidity or unenforceability in whole or in part of the Contract) PROVIDED THAT the total amount recoverable by you under this Bond shall not exceed US $[26,640,000] . plus interest thereon at the rate of . (7%) per annum (or . (10%) per annum in the case of a Total Loss of the Vessel) from the respective dates of payment by you of such instalments to the date of remittance by telegraphic transfer of such refund. [4] Payment by us under this Bond shall be made without any deduction or withholding, and promptly on receipt by us of a written demand (substantially in the form attached) signed by two of your directors stating that the Builder has failed to fulfil the terms and conditions of the Contract and as a result of such failure, the amount claimed is due to you and specifying in what respects the Builder has so failed and the amount claimed.
+Such claim and statement shall be accepted by us as evidence for the purposes of this Bond alone that this amount claimed is due to you under this Bond. [5] Our liability under this Bond shall not be affected by (v) any insolvency, re organisation or dissolution of the Builder, or (vi) any other matter or thing which may operate to discharge or reduce our liability hereunder.
+The Bonds further provided that they were assignable, that they were governed by English law and that all disputes arising out of them were to be determined by the Commercial Court.
+The resolution of the issue between the parties depends upon the true construction of paragraph [3].
+The Bank promised to pay on demand all such sums due to you under the Contract.
+The question is what was meant by such sums.
+Only two possibilities were suggested.
+The Buyers said (and the Judge and Sir Simon Tuckey held) that the expression such sums referred back to the pre delivery instalments in the first line.
+They said that the purpose of the Bond was to guarantee the refund of pre delivery instalments and that the promise was therefore to refund pre delivery instalments.
+By contrast the Bank said (and Thorpe and Patten LJJ held) that the expression such sums was a reference back to the sums referred to in paragraph [2], namely the repayment of the pre delivery instalments paid prior to a termination of the Contract or a Total Loss of the vessel and the value of the Buyers Supplies in the case of a Total Loss.
+On the Buyers analysis the Bond guaranteed pre delivery instalments which were repayable under Article XII.3 in the case of any insolvency event, whereas on the Banks analysis it did not.
+The Contracts
+It is common ground that the terms of the Contracts are relevant to the true construction of the Bonds.
+They are referred to in the Bonds and provide the immediate context in which the Bonds were entered into.
+They are thus plainly an important aid to the meaning of the Bonds.
+Article X of the Contracts provided, so far as material as follows: ARTICLE X: PAYMENT 5.
+REFUND BY THE BUILDER The payments made by the Buyer to the Builder prior to delivery of the Vessel shall constitute advances to the Builder.
+If the Vessel is rejected by the Buyer in accordance with the terms of this Contract, or if the Buyer terminates, cancels or rescinds this Contract pursuant to any of the provisions of this Contract specifically permitting the Buyer to do so, the Builder shall forthwith refund to the Buyer in US dollars, the full amount of total sums paid by the Buyer to the Builder in advance of delivery together with interest thereon as herein provided within thirty (30) banking days of acceptance of rejection.
+The interest rate of the refund shall be seven per cent (7%) per annum If the Builder is required to refund to the Buyer the installments paid by the Buyer to the Builder as provided in this Paragraph, the Builder shall return to the Buyer all of the Buyer's Supplies as stipulated in Article XIII which were not incorporated into the Vessel and pay to the Buyer an amount equal to the cost to the Buyer of those Buyer's Supplies incorporated into the Vessel. 6.
+TOTAL LOSS If there is a total loss or a constructive total loss of the Vessel prior to delivery thereof, the Builder shall proceed according to the mutual agreement of the parties hereto either: (a) to build another vessel in place of the Vessel so lost . provided that the parties hereto shall have agreed in writing to a reasonable cost and time for the construction or (b) to refund to the Buyer the full amount of the total sums paid by the Buyer to the Builder under the provisions of Paragraph 2 of this Article and the value of Buyer's Supplies delivered to the Shipyard, if any, together with interest thereon at the rate of ten percent (10%) per annum .
+If the parties hereto fail to reach such agreement within two (2) months after the Vessel is determined to be a total loss or constructive total loss, the provisions of (b) hereinabove shall be applied. 8.
+The Builder shall as a condition precedent to payment by the Buyer of the first installment deliver to the Buyer an assignable letter of guarantee issued by a first class Korean Bank . to Buyer's Financiers for the refund of the first installment, and at the same time, together with the letter of guarantee relating to the first installment, Builder shall also deliver to the Buyer an assignable letter of guarantee issued by a first class Korean Bank . for the refund of the respective installments following the way of the payment stipulated in this Article.
+The refund guarantees by the Builder to the Buyer shall be indicated pre delivery installments plus interest as aforesaid to the Buyer under or pursuant to paragraph 5 above in the form annexed hereto as Exhibit A which is yet to be agreed In the event that the Refund Guarantees, for all installments, have not been provided to the Buyer in a form acceptable to the Buyers financiers and have not been issued by an entity acceptable to REFUND GUARANTEE Buyers financiers, by the 31st of August 2007 then the Buyer may cancel this Contract without penalty on either side.
+It is common ground that no form of guarantee was in fact annexed to the Contracts.
+Article XII provided, so far as relevant: ARTICLE XII: BUILDERS DEFAULT 3.
+If the Builder shall apply for or consent to the appointment of a receiver, trustee or liquidator, shall be adjudicated insolvent, shall apply to the courts for protection from its creditors, file a voluntary petition in bankruptcy or take advantage of any insolvency law, or any action shall be taken by the Builder having an effect similar to any of the foregoing or the equivalent thereof in any jurisdiction, the Buyer may by notice in writing to the Builder require the Builder to refund immediately to the Buyer the full amount of all sums paid by the Buyer to the Builder on account of the Vessel and interest thereon at seven percent (7%) per annum on the amount to be refunded to the Buyer, computed from the respective date such sums were paid by the Buyer to the date of remittance of the refundable amount to the Buyer and immediately upon receipt of such notice the Builder shall refund such amount to the Buyer.
+Following such refund the Builder may, but shall not be obliged to, by notice in writing to the Buyer given within ten (10) business days terminate this contract.
+If the Builder does not so terminate the Contract the Buyer's obligation to pay further installments prior to delivery of the Vessel under Article X 2(a),(b),(c) and (d) shall be suspended and the full Contract price shall be paid to the Builder upon delivery of the Vessel in the manner contemplated by Article X paragraph 2(e).
+The Contracts contained a number of provisions which entitled the Buyer to cancel the contract, namely Articles III.1 and XII.1 (delay) and Article III.2(b), 3(c), 4(d) and 5(d) (insufficient speed, excessive fuel consumption, deficient deadweight or cargo capacity).
+Some of those provisions specifically entitled the Buyer to a refund of all advance payments following cancellation.
+Others did not, although in such cases Article X.5 would apply and have the same effect.
+The Contracts also contained in Article XIII further detailed provisions relating to Buyers Supplies.
+The correct approach to construction
+For the most part, the correct approach to construction of the Bonds, as in the case of any contract, was not in dispute.
+The principles have been discussed in many cases, notably of course, as Lord Neuberger MR said in Pink Floyd Music Ltd v EMI Records Ltd [2010] EWCA Civ 1429; [2011] 1 WLR 770 at para 17, by Lord Hoffmann in Mannai Investment Co Ltd v Eagle Star Life Assurance Co Ltd [1997] AC 749, passim, in Investors Compensation Scheme Ltd v West Bromwich Building Society [1998] 1 WLR 896, 912F 913G and in Chartbrook Ltd v Persimmon Homes Ltd [2009] 1 AC 1101, paras 21 26.
+I agree with Lord Neuberger (also at para 17) that those cases show that the ultimate aim of interpreting a provision in a contract, especially a commercial contract, is to determine what the parties meant by the language used, which involves ascertaining what a reasonable person would have understood the parties to have meant.
+As Lord Hoffmann made clear in the first of the principles he summarised in the Investors Compensation Scheme case at page 912H, the relevant reasonable person is one who has all the background knowledge which would reasonably have been available to the parties in the situation in which they were at the time of the contract.
+The issue between the parties in this appeal is the role to be played by considerations of business common sense in determining what the parties meant.
+Sir Simon Tuckey said at para 19 of his judgment that there was no dispute about the principles of construction and the Bank so submitted in its skeleton argument.
+However, I do not think that is quite correct.
+At para 18 Sir Simon identified the question of construction substantially as set out in para 9 above and said at para 19: There is no dispute about the principles of construction to be applied in order to answer this question.
+The court must first look at the words which the parties have used in the bond itself.
+The shipbuilding contract is of course the context and cause for the bond but is nevertheless a separate contract between different parties.
+If the language of the bond leads clearly to a conclusion that one or other of the constructions contended for is the correct one, the Court must give effect to it, however surprising or unreasonable the result might be.
+But if there are two possible constructions, the Court is entitled to reject the one which is unreasonable and, in a commercial context, the one which flouts business common sense.
+This follows from the House of Lords decisions in Wickman Machine Tools Sales Limited v Schuler AG [1974] AC 235, where at 251 Lord Reid said: The fact that a particular construction leads to a very unreasonable result must be a relevant consideration.
+The more unreasonable the result, the more unlikely it is that the parties can have intended it, and if they do intend it the more necessary it is that they shall make that intention abundantly clear. and The Antaios [1984] AC 191, where at 201 Lord Diplock said: If detailed and syntactical analysis of words in a commercial contract is going to lead to a conclusion that flouts business common sense it must yield to business common sense.
+As I read his judgment, Patten LJ did not put the question in quite the same way.
+This can be seen from paras 35 to 44 of his judgment.
+At para 35 he referred to Sir Simon Tuckeys approach at para 19 (as quoted above).
+He also referred to para 18(iii) of the Judges judgment, where the Judge described the Banks construction of the Bond as having the surprising and uncommercial result of the guarantee not being available to meet the Builders repayment obligations in the event of insolvency.
+Patten LJ noted that the Judge appeared to have taken that into account as a factor in favour of the Buyers construction of paragraph [3] of the Bonds.
+Patten LJ added that the Judges approach was the same as that of Sir Simon Tuckey.
+Patten LJ then referred to the cases mentioned above and expressed his conclusion in principle thus at para 42: In this case (as in most others) the Court is not privy to the negotiations between the parties or to the commercial and other pressures which may have dictated the balance of interests which the contract strikes.
+Unless the most natural meaning of the words produces a result which is so extreme as to suggest that it was unintended, the Court has no alternative but to give effect it its terms.
+To do otherwise would be to risk imposing obligations on one or other party which they were never willing to assume and in circumstances which amount to no more than guesswork on the part of the Court.
+Finally, at paras 43 and 44, Patten LJ quoted from the speeches of Lord Wilberforce in Prenn v Simmonds [1971] 1 WLR 1381, 1384 5 and of Lord Hoffmann in Chartbrook at para 20, where they discussed the reason for the rule excluding evidence of pre contractual negotiations.
+In particular they stressed the irrelevance of the parties subjective intentions and noted that the mere fact that a term in the contract appears to be particularly unfavourable to one party or the other is irrelevant.
+As Lord Hoffmann put it, the term may have been agreed in exchange for some concession made elsewhere in the transaction or it may simply have been a bad bargain.
+I entirely accept those caveats.
+However, it seems to me to be clear that the principle stated by Patten LJ in para 42 is different from that stated by the Judge in his para 18(iii) and by Sir Simon Tuckey in para 19.
+It is not in my judgment necessary to conclude that, unless the most natural meaning of the words produces a result so extreme as to suggest that it was unintended, the court must give effect to that meaning.
+The language used by the parties will often have more than one potential meaning.
+I would accept the submission made on behalf of the appellants that the exercise of construction is essentially one unitary exercise in which the court must consider the language used and ascertain what a reasonable person, that is a person who has all the background knowledge which would reasonably have been available to the parties in the situation in which they were at the time of the contract, would have understood the parties to have meant.
+In doing so, the court must have regard to all the relevant surrounding circumstances.
+If there are two possible constructions, the court is entitled to prefer the construction which is consistent with business common sense and to reject the other.
+This conclusion appears to me to be supported by Lord Reids approach in Wickman quoted by Sir Simon Tuckey and set out above.
+I am of course aware that, in considering statements of general principle in a particular case, the court must have regard to the fact that the precise formulation of the proposition may be affected by the facts of the case.
+Nevertheless, there is a consistent body of opinion, largely collated by the Buyers in an appendix to their case, which supports the approach of the Judge and Sir Simon Tuckey.
+Where the parties have used unambiguous language, the court must apply it.
+This can be seen from the decision of the Court of Appeal in Co operative Wholesale Society Ltd vs National Westminster Bank plc [1995] 1 EGLR 97.
+The court was considering the true construction of rent review clauses in a number of different cases.
+The underlying result which the landlords sought in each case was the same.
+The court regarded it as a most improbable commercial result.
+Where the result, though improbable, flowed from the unambiguous language of the clause, the landlords succeeded, whereas where it did not, they failed.
+The court held that ordinary principles of construction applied to rent review clauses and applied the principles in The Antaios (Antaios Compania Naviera SA v Salen Rederierna AB) [1985] AC 191.
+After quoting the passage from the speech of Lord Diplock cited above, Hoffmann LJ said, at p 98: This robust declaration does not, however, mean that one can rewrite the language which the parties have used in order to make the contract conform to business common sense.
+But language is a very flexible instrument and, if it is capable of more than one construction, one chooses that which seems most likely to give effect to the commercial purpose of the agreement.
+The court also comprised Leggatt and Simon Brown LJJ.
+Simon Brown LJ at p 101 said that, having regard to the improbable result for which the landlords contended, only the most unambiguous of such clauses could properly be found to bear the landlords construction and that in the case of only one of the leases did the clause unambiguously achieve the improbable result for which the landlords contend.
+The case is of interest because Simon Brown LJ considered that, of the other three cases, one unambiguously failed to achieve the result sought by the landlords, whereas, of the other two, he said this at p 102: For my part, I would accept that the more obvious reading of both favours the landlords construction.
+I am persuaded, however, that they are capable of being, and therefore, for the reasons already given, should be, construed differently.
+That case is therefore an example of the adoption and application of the principle endorsed by the Judge and by Sir Simon Tuckey.
+See also International Fina Services AG v Katrina Shipping Ltd, The Fina Samco [1995] 2 Lloyd's Rep. 344, where Neill LJ said at page 350 it was necessary when construing a commercial document to strive to attribute to it a meaning which accords with business common sense.
+In 1997, writing extra judicially (Contract Law: Fulfilling the reasonable expectations of honest men) in 113 LQR 433, 441 Lord Steyn expressed the principle thus: Often there is no obvious or ordinary meaning of the language under consideration.
+There are competing interpretations to be considered.
+In choosing between alternatives a court should primarily be guided by the contextual scene in which the stipulation in question appears.
+And speaking generally commercially minded judges would regard the commercial purpose of the contract as more important than niceties of language.
+And, in the event of doubt, the working assumption will be that a fair construction best matches the reasonable expectations of the parties.
+I agree.
+He said much the same judicially in Society of Lloyds v Robinson [1999] 1 All ER (Comm) 545, 551: Loyalty to the text of a commercial contract, instrument, or document read in its contextual setting is the paramount principle of interpretation.
+But in the process of interpreting the meaning of the language of a commercial document the court ought generally to favour a commercially sensible construction.
+The reason for this approach is that a commercial construction is likely to give effect to the intention of the parties.
+Words ought therefore to be interpreted in the way in which a reasonable commercial person would construe them.
+And the reasonable commercial person can safely be assumed to be unimpressed with technical interpretations and undue emphasis on niceties of language.
+Similar assistance is at hand nearer at home.
+In Gan Insurance Co Ltd v Tai Ping Insurance Co Ltd [2001] CLC 1103, 1118 1119; [2011] EWCA Civ 1047; [2001] 2 All ER (Comm) 299, Mance LJ said: 13.
+Construction, as Sir Thomas Bingham MR said in Arbuthnott v Fagan [1995] CLC 1396 at p 1400 is thus a composite exercise, neither uncompromisingly literal nor unswervingly purposive.
+To para (5), one may add as a coda words of Lord Bridge in Mitsui Construction Co Ltd v A G of Hong Kong (1986) 33 BLR 14, cited in my judgment in Sinochem International Oil (London) Ltd v Mobil Sales and Supply Corp [2000] CLC 878 at p 885.
+Speaking of a poorly drafted and ambiguous contract, Lord Bridge said that poor drafting itself provides: no reason to depart from the fundamental rule of construction of contractual documents that the intention of the parties must be ascertained from the language that they have used interpreted in the light of the relevant factual situation in which the contract was made.
+But the poorer the quality of the drafting, the less willing the court should be to be driven by semantic niceties to attribute to the parties an improbable and unbusinesslike intention, if the language used, whatever it may lack in precision, is reasonably capable of an interpretation which attributes to the parties an intention to make provision for contingencies inherent in the work contracted for on a sensible and businesslike basis. 16 . in my judgment the subclause has no very natural meaning and is, at the least, open to two possible meanings or interpretations one the judge's, the other that it addresses two separate subject matters.
+In these circumstances, it is especially important to undertake the exercise on which the judge declined to embark, that is to consider the implications of each interpretation.
+In my opinion, a court when construing any document should always have an eye to the consequences of a particular construction, even if they often only serve as a check on an obvious meaning or a restraint upon adoption of a conceivable but unbusinesslike meaning.
+In intermediate situations, as Professor Guest wisely observes in Chitty on Contracts (28th edn) vol 1, para. 12 049, a balance has to be struck through the exercise of sound judicial discretion.
+More generally, in Homburg Houtimport BV v Agrosin Private Ltd: The Starsin [2004] 1 AC 715, para 10 Lord Bingham referred to the rule to which Lord Halsbury LC alluded in Glynn v Margetson & Co [1893] AC 351, 359, that a business sense will be given to business documents.
+The business sense is that which businessmen, in the course of their ordinary dealings, would give the document.
+Three other cases merit brief reference.
+The same approach was adopted by Arden LJ in In the Matter of Golden Key Ltd (In Receivership) [2009] EWCA Civ 636, paras 29 and 42 and by this Court in In Re Sigma Finance Corporation (in administrative receivership) [2009] UKSC 2; [2010] 1 All ER 571, where Lord Mance said at para 12 that the resolution of an issue of interpretation in a case like the present was an iterative process, involving checking each of the rival meanings against other provisions of the document and investigating its commercial consequences.
+Finally, it is worth setting out two extracts from the judgment of Longmore LJ in Barclays Bank plc v HHY Luxembourg SARL [2010] EWCA Civ 1248; [2011] 1 BCLC 336, paras 25 and 26: 25.
+The matter does not of course rest there because when alternative constructions are available one has to consider which is the more commercially sensible.
+On this aspect of the matter Mr Zacaroli has all the cards. 26.
+The judge said that it did not flout common sense to say that the clause provided for a very limited level of release, but that, with respect, is not quite the way to look at the matter.
+If a clause is capable of two meanings, as on any view this clause is, it is quite possible that neither meaning will flout common sense.
+In such circumstances, it is much more appropriate to adopt the more, rather than the less, commercial construction.
+In my opinion Longmore LJ has there neatly summarised the correct approach to the problem.
+That approach is now supported by a significant body of authority.
+As stated in a little more detail in para 21 above, it is in essence that, where a term of a contract is open to more than one interpretation, it is generally appropriate to adopt the interpretation which is most consistent with business common sense.
+For these reasons I prefer the approach of the Judge and Sir Simon Tuckey to that of Patten LJ, which is to my mind significantly different on this point.
+Application to the facts
+As indicated above, two possible interpretations of paragraph [3] of the Bonds were advanced.
+It was conceded on behalf of the Bank in the Court of Appeal that both constructions were arguable.
+I did not understand Mr Guy Philipps QC to resile from that position on behalf of the Bank in this Court.
+In any event, in my judgment there are indeed two possible interpretations.
+The strength of the Banks interpretation is that it is not easy to see the point of paragraph [2] of the Bonds if the Buyers interpretation of paragraph [3] is correct.
+On the other hand, the Buyers interpretation is straightforward.
+It is that, reduced to its essentials, the Banks promise in paragraph [3] was that in consideration of your [ie the Buyers] agreement to make the pre delivery instalments we hereby, as primary obligor, promise to pay to you, your successors and assigns, on your first written demand, all such sums due to you under the Contract .
+In the absence of paragraph [2] there could be no doubt that the reference to such sums was a reference to the pre delivery instalments at the beginning of paragraph [3].
+That makes perfect sense because one would naturally expect the parties to agree (and the Buyers financiers to insist) that, in the event, for example, of the insolvency of the Builders, the Buyers should have security for the repayment of the pre delivery instalments which they had paid.
+The question is whether the presence of paragraph [2] leads to a different conclusion.
+It was submitted with force by Mr Philipps on behalf of the Bank that it did.
+He correctly submitted that paragraph [3] must be construed in its context and that part of the context was paragraph [2], which was of course the immediately preceding paragraph.
+He submitted that the only purpose there can have been for including paragraph [2] in the Bonds was to identify the scope of paragraph [3].
+He further submitted that no other sensible explanation for the inclusion of paragraph [2] had been advanced on behalf of the Buyers.
+I accept the submission that no very good reason was advanced on behalf of the Buyers for the inclusion of paragraph [2] in the Bonds.
+The best they could do was to say that it was a preamble to the operative provision in paragraph [3], that it simply set out some of the Buyers rights under the Contracts and that it was not intended to identify the scope of the Banks liability under the Bonds.
+Patten LJ accepted at para 50 that the Buyers construction was arguable but said that, in his view, it was not the meaning that the document would convey to a reasonable person reading it with knowledge of the terms of the Contracts.
+This must I think mean that he took the view that, although it was arguable that it had that effect, it did not in fact do so.
+Otherwise the Buyers construction could not in any relevant sense have been said to be arguable and Patten LJ would surely not have described it as such.
+Patten LJ made this clear in para 51 (quoted below), where he described the alternative constructions as not being in any way evenly balanced.
+The position is thus that, although he regarded both constructions as arguable in the sense that the Bonds might convey either construction to a reasonable person reading the Bonds with knowledge of the terms of the Contracts, in his view the Banks construction was plainly to be preferred.
+If Patten LJ went further later in para 51, where he said that the fact that cover for the insolvency of the Builder was desirable did not justify a departure from what would otherwise be the natural and obvious construction of the bond, I respectfully disagree because I do not regard the Banks construction as being the natural and ordinary meaning of the Bonds.
+I have considered the competing arguments for myself and have concluded that they are much more finely balanced than suggested by Patten LJ and the Bank.
+In para 48 Patten LJ expressed the view that paragraph [2] of the Bonds reproduced the terms of Article X.5 and Article X.6 of the Contracts and therefore complied with Article X.8.
+In para 49 he concluded that the obvious purpose of paragraph [2] was to give the addressee of the Bonds a clear statement of the Builders obligations under the Contracts which are to be covered by the guarantee and one which is consistent with the terms of the Builders obligations to provide the bond under Article X.8 of the contract.
+For my part, I would not entirely accept that analysis.
+Paragraph [2] of the Bonds did reproduce the terms of Article X.5 and Article X.6 of the Contracts but it does not seem to me that it complied with the requirements of Article X.8.
+As I see it, Article X.8 did not provide for the terms in which the Bonds were to be issued.
+It provided that two letters of guarantee were to be provided, the first by a first class Korean Bank or Guarantee Insurance Company for the refund of the first instalment and the second issued by a first class Korean Bank or Guarantee Insurance Company acceptable to the Buyers financiers for the refund of the respective installments following the way of the payment stipulated in this Article.
+The first paragraph of Article X.8 included this: The refund guarantees by the Builder to the Buyer shall be indicated pre delivery instalments plus interest as aforesaid to the Buyer under or pursuant to paragraph 5 above in the form annexed hereto as Exhibit A which is yet to be agreed.
+In fact there was no form annexed to the Contracts, so it is far from clear what was meant by the sentence of the first paragraph of Article X.8 just quoted.
+As I see it, it was left that the parties would agree the final form of the Bonds referable to the second and subsequent instalments.
+Moreover both the identity of the issuer of the Bonds and the form of the Bonds were to be acceptable to the Buyers financiers.
+That was made clear by the second paragraph of Article X.8 which is quoted in para 11 above.
+I would accept the submission made on behalf of the Buyers that it is clear that neither Article X.5 nor Article X.8 was intended to set out all the circumstances in which the refund guarantees should operate.
+For example, there was no cross reference in Article X.8 to the Builders obligation under Article X.6 of the Contracts to refund the instalments paid in the event of actual or constructive total loss, although it is common ground that the Bonds did cover that obligation.
+In short, Article X.8 did not purport to dictate the final scope of the Bonds.
+In particular, it did not require that the guarantees should cover refund obligations only under Article X.5 and Article X.6 of the Contracts.
+There is a further curiosity in paragraph [2] of the Bonds.
+In describing the Buyers rights under the Contracts, it did not limit their rights to a refund of the pre delivery instalments of the price.
+It extended them to the case where the Buyers were entitled to the value of the Buyers Supplies delivered to the Shipyard (if any), although in so doing it failed accurately to reflect the contractual position in relation to termination as opposed to total loss, since under Article X.5 of the Contracts the obligation on termination was to return the Supplies, and only to (re)pay their value insofar as already incorporated into the Vessel.
+It would seem to follow from the Banks submission that para [2] defined the scope of the Banks obligations under para [3] that the expression all such sums due to you under the Contract included both the obligations to refund identified in para [2] and the obligation to pay the value of the Buyers Supplies (whatever that might cover).
+That was indeed the submission advanced in the Banks skeleton argument in the Court of Appeal.
+It is however a submission that is no longer advanced by either party.
+That is no doubt because the difficulty with it is that the Bonds were described as Advance Payment Bonds and the amount of each bond was US$26,640,000, which was the total amount of the second and subsequent instalments of the price, and because interest was only payable under para [3] of the Bonds from the respective dates of payment by [the Buyers] of such instalments, thus leaving no room for a right to payment of the value of Buyers Supplies under the Bonds.
+Sir Simon Tuckey took a different view of the construction of the critical clauses of the Bonds from that of Patten and Thorpe LJJ.
+He did so in para 28, where he was considering whether in the particular circumstances of the case the Judge should have had regard to considerations of commercial and business common sense.
+He said this: But should the judge's approach in this case have been more restricted as Mr Philipps contends? I do not think so.
+The title to Article X as a whole is "Payment" but it contains an assortment of different terms.
+Article X.8 is drafted on the basis that the form of guarantee which the parties contemplated would be annexed to the agreement.
+That would be the document to look at if one was trying to discover from the contract what the Buyer was looking for, not the reference back to Article X.5.
+This reference back is poorly drafted and quite capable of referring simply to the opening sentence of paragraph 5.
+It is difficult to construe it in a way which restricts the refund obligations which the bond was to cover, not least because there is no reference to the Article X.6 obligation to a refund following total or constructive loss of the vessel which both parties agree was to be covered by the bond.
+By the same token, no significance should be attached to the omission of the Article XII.3 refund obligation.
+Nor do I think there is anything in Mr Philipps' further point.
+On the happening of an Article XII.3 event the Buyer was entitled to a refund of its advance payments immediately.
+If that did not happen the contract was in a state of limbo: neither party could terminate at that stage.
+If the Builder did not proceed with the construction of the vessel, as would be extremely likely if it was insolvent, the Buyer could terminate for delay under Article XII.l but, under the terms of this article, only after 90 days plus 14 days notice.
+Only then could it call on the Bond.
+I cannot see how any Buyer (or its financiers) could possibly be satisfied with this as a remedy in the situation where the Builder was insolvent or nearly so.
+I agree with Sir Simon Tuckey and prefer his approach to that of the majority in the Court of Appeal.
+In all these circumstances, because of the difficulties in construing para [2] as setting out the sums due under the Bond, if I were focusing only on the language of the clause, I would be inclined to prefer the Buyers construction to that of the Bank.
+I note in passing in this regard that the construction advanced by the Bank was something of an afterthought.
+However, I recognize that, on the Buyers construction, it is not easy to see why paragraph [2] was included in the Bond at all, and that the Banks construction is arguable.
+This case is therefore a good example of the kind of case referred to in the authorities to which I have referred.
+Since the language of paragraph [3] is capable of two meanings it is appropriate for the court to have regard to considerations of commercial common sense in resolving the question what a reasonable person would have understood the parties to have meant.
+As noted at para 17 above, at his para 18(iii) the Judge described the Banks construction of the Bonds as having what he called the surprising and uncommercial result that the Buyers would not be able to call on the Bonds on the happening of the event, namely insolvency of the Builder, which would be most likely to require the first class security.
+I agree with Sir Simon Tuckey that an appellate court is entitled to take account of the fact that an experienced judge of the Commercial Court reached that conclusion.
+In any event, Sir Simon Tuckey expressed essentially the same view in strong terms at para 30: On the Bank's construction the Bonds covered each of the situations in which the Buyers were entitled to a return or refund of the advance payments which they had made under the contracts apart from the insolvency of the Builder.
+No credible commercial reason has been advanced as to why the parties (or the Buyers' financiers) should have agreed to this.
+On the contrary, it makes no commercial sense.
+As the judge said, insolvency of the Builder was the situation for which the security of an advance payment bond was most likely to be needed.
+The importance attached in these contracts to the obligation to refund in the event of insolvency can be seen from the fact that they required the refund to be made immediately.
+It defies commercial common sense to think that this, among all other such obligations, was the only one which the parties intended should not be secured.
+Had the parties intended this surprising result I would have expected the contracts and the bonds to have spelt this out clearly but they do not do so.
+I agree.
+Patten LJs view to the contrary is summarised at para 51: For the reasons which I have given, I do not regard the alternative constructions of paragraph (3) advanced on this appeal as being in any way evenly balanced.
+I also agree with Mr Philipps that it is impermissible to speculate on the reasons for omitting repayments in the event of insolvency from the bond.
+Although the judge is right to say that cover for such event was, objectively speaking, desirable, that is not sufficient in itself to justify a departure from what would otherwise be the natural and obvious construction of the bond.
+There may be any number of reasons why the Builder was unable or unwilling to provide bank cover in the event of its insolvency and why the Buyer was prepared to take the risk.
+This is not a case in which the construction contended for would produce an absurd or irrational result in the sense described in the cases I have referred to and merely to say that no credible commercial reason has been advanced for the limited scope of the bond does, in my view, put us in real danger of substituting our own judgment of the commerciality of the transaction for that of those who were actually party to it.
+As Hoffmann LJ put it, after quoting from Lord Diplocks speech in The Antaios [1985] AC 191, if the language is capable of more than one construction, it is not necessary to conclude that a particular construction would produce an absurd or irrational result before having regard to the commercial purpose of the agreement.
+See, for example, per Hoffmann LJ quoted at para 23 above, where he said: But language is a very flexible instrument and, if it is capable of more than one construction, one chooses that which seems most likely to give effect to the commercial purpose of the agreement.
+See also the quotation from Longmore LJ at para 29 above, where he said that, if a clause is capable of two meanings, it is quite possible that neither meaning will flout common sense, but that, in such a case, it is much more appropriate to adopt the more, rather than the less, commercial construction.
+In para 51 Patten LJ appears to have accepted that no credible commercial reasons were advanced for the limited scope of the Bonds being advanced by the Bank.
+Mr Philipps submitted that it was not necessary for the Bank to address the question but I have no doubt that if he or the Bank had been able to think of a credible reason for excluding repayments in the event of the Builders insolvency, such a reason would have been at the forefront of the Banks case.
+In these circumstances I would, if necessary, go so far as to say that the omission of the obligation to make such re payments from the Bonds would flout common sense but it is not necessary to go so far.
+I agree with the Judge and Sir Simon Tuckey that, of the two arguable constructions of paragraph [3] of the Bonds, the Buyers construction is to be preferred because it is consistent with the commercial purpose of the Bonds in a way in which the Banks construction is not.
+I note that Thorpe LJ was initially inclined to agree with the conclusions of the Judge but, in the event, agreed with Patten LJ without giving any independent reasons of his own.
+CONCLUSION
+For these reasons I would allow the appeal and restore the order of the Judge.

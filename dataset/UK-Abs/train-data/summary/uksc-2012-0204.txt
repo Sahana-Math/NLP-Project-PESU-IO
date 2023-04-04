@@ -1,0 +1,37 @@
+These appeals arise out of a dispute between British Telecommunications Plc (BT), and four mobile network operators.
+The dispute is about the termination charges which BT is entitled to charge to mobile network operators for putting calls from the latters networks through to BT fixed lines with associated non geographic numbers beginning in 08.
+In 2009 BT notified mobile network operators of a proposal of a revised scheme of termination charges for 08 numbers.
+The defining feature of the new scheme was that mobile network operators would be charged at a rate which varied according to the amount which the originating network charged the caller.
+The higher the charges to the caller, the greater the termination charge.
+The new scheme was rejected by the four mobile net operators party to these appeals.
+The issue was submitted to the Office of Communications (Ofcom) under a statutory dispute resolution procedure.
+A decision of Ofcom can be appealed to the Competition Appeal Tribunal (CAT).
+Appeals from the CAT to the Court of Appeal can be brought on points of law only.
+Ofcom decided that BT should not be allowed to introduce the new charging scheme because the charges were not fair and reasonable.
+This conclusion was based on Ofcoms view that the proposed changes were not sufficiently likely to provide benefits to consumers (the welfare test).
+The CAT overturned Ofcoms decision and decided that BT should be able to introduce the new regime.
+The Court of Appeal restored the original decision of Ofcom.
+The Supreme Court unanimously allows the appeal and restores the order of the CAT.
+Lord Sumption gives the judgment of the court.
+The Court of Appeal, finding that it was for BT to justify its charges, had rejected the CATs determination for three reasons, each of which the Supreme Court addresses in its judgment.
+First, the Court of Appeal held that the CAT had been wrong to treat BT as having a prima facie right to change its charges, which needed to be displaced.
+It found that BT had no more than a right to do so subject to the determination of Ofcom if another party objected [30].
+The Supreme Court notes that where, as in this case, Ofcom is resolving a dispute about a proposed variation of charges under an existing interconnection agreement, it is performing a mixture of adjudicatory and regulatory functions.
+The terms of the interconnection agreement are the necessary starting point for this process.
+Where the terms of the contract permit variation, Ofcom should give effect to that variation unless it would be inconsistent with its regulatory objectives, including under the welfare test [31 34].
+Clause 12 of BTs Standard Interconnect Agreement confers a discretion on BT to unilaterally fix or vary its charges, but only within the limits fixed by the objectives of the regulatory environment imposed on it [3637].
+BTs power to set its own charges is subject to any order, direction, determination or consent of Ofcom.
+However, Ofcom could not just do what it liked.
+Its function was to determine whether BT had exceeded the limits of its contractual discretion [38].
+In this case, Ofcom has not found that the variation to the charges was inconsistent with the regulatory objectives, including the welfare test.
+Ofcom cannot reject the proposed charges simply because they might have adverse consequences for consumers, in the absence of any reason to think that they would [4244].
+Secondly, the Court of Appeal held that the CAT had been wrong to attach weight to their view that a restraint on BTs freedom to set its own charges would itself distort competition.
+The Supreme Court disagrees with the Court of Appeal for three reasons.
+First, Ofcom was not exercising a regulatory function, but resolving a dispute under the unchallenged terms of an existing agreement.
+Secondly, the CAT was entitled to attach weight to the value of innovative charging structures as a form of competition.
+Thirdly, the CATs conclusion about the anti competitive effects of restricting price changes was a factual judgment.
+Since appeal lay to the Court of Appeal only on points of law, the CATs findings on the distortion of competition liable to result from the rejection of the new charging structure were not open to appeal [4647].
+The Court of Appeal held that the CAT had been wrong to attach weight to the fact that BT, not having significant market power in a relevant market, was not subject to ex ante control of its prices on competition grounds.
+Given the reasoning on the other points, the Supreme Court considers it unnecessary to address this point in detail.
+It does however note that the fact that BT does not have significant market power in a relevant market does not mean that the promotion of competition is irrelevant to a dispute about charges.
+It only means that Ofcom may not exercise its regulatory power to control prices [4849].

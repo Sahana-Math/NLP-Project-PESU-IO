@@ -1,0 +1,129 @@
+Under section 37 of the Solicitors Act 1974 the Law Society may make rules requiring solicitors to maintain professional indemnity insurance with authorised insurers and specifying the terms on which indemnity is to be available.
+As the House of Lords explained in Swain v Law Society [1983] AC 598, the power is intended to be for the protection of the public as well as the premium paying solicitor.
+The rules made by the Law Society require such insurance to satisfy certain Minimum Terms and Conditions (MTC).
+There is a prescribed minimum figure for which solicitors must be insured for any one claim, but clause 2.5 of the MTC permits the aggregation of claims in the following circumstances: The insurance may provide that, when considering what may be regarded as one Claim (a) one act or omission; all Claims against any one or more Insured arising from: (i) (ii) one series of related acts or omissions; (iii) matters or transactions; (iv) similar acts or omissions in a series of related matters or transactions the same act or omission in a series of related will be regarded as one Claim.
+Sub clauses (iii) and (iv) were added in 2005 in circumstances to which I will refer.
+The dispute in this appeal arises from sub clause (iv).
+More specifically, it is about the meaning of the expression related matters or transactions.
+The claims against the solicitors
+In 2013 two actions were begun in the Chancery Division (EWHC 13E01675 and EWHC 13C02077) against two now defunct firms of solicitors.
+One of the firms, the International Law Partnership LLP, was the successor in practice of the other, John Howell & Co. It is unnecessary for present purposes to distinguish between the two firms, and I will refer to them as the solicitors.
+The actions were brought by a total of 214 claimants.
+The claimants in 13E01675 were all investors in a project to develop holiday resorts on a plot near Izmir, Turkey, referred to as Peninsula Village.
+The claimants in 13C02077 were all investors in a similar project at Marrakech, Morocco.
+A certain number of investors in the Peninsula Village development subsequently transferred their investment to the Marrakech development because of planning delays.
+They have been referred to as the crossover investors.
+I will refer to the investors collectively as the investors or, where appropriate, as the Peninsula Village investors, the Marrakech investors or the crossover investors.
+The developers were a UK property company called Midas International Property Development Plc, which operated through subsidiary Midas companies for each development.
+The precise details of the companies interrelationship do not matter and I will refer to them as the developers.
+In 2004 they instructed the solicitors to devise a legal mechanism for the financing of foreign developments by private investors who would have security over the development land.
+The investments would take the form either of loans, at an attractive rate of interest, or of purchase of holiday properties.
+A trust was created for each development with the object of providing security for the investors.
+The solicitors were the initial trustees.
+The trust would either own or hold a charge over the development land as security for the amounts invested.
+The beneficiaries were the investors.
+The funds advanced by the investors would initially be held by the solicitors in an escrow account.
+They were not to be released to the developer unless and until the value of the assets held by the trust was sufficient to cover the investment to be protected, applying a cover test set out in the trust deed.
+As well as devising the scheme, the solicitors acted for the developers in relation to the individual investments.
+For each investment the solicitors would open a file, which would include a loan or purchase agreement between the investor and the developer and an escrow agreement between the investor, the developer and the solicitors.
+The developers signed an agreement for the purchase of the Peninsula Village site in April 2007.
+They did not enter into a similar agreement for the Marrakech site, but instead they entered into an agreement in November 2007 to buy the shares in the local company which owned it.
+The solicitors released tranches of Peninsula Village investment funds to the developers in April 2007 and October 2008.
+They released tranches of Marrakech investment funds on five occasions between November 2007 and March 2008.
+In May 2008 the Financial Services Authority prohibited the developers from receiving any further investment in relation to the developments.
+The developers were unable to complete either the purchase of the Peninsula Village site or the purchase of the shares in the company which owned the Marrakech site, and in November 2009 the developers were wound up.
+All the money in the escrow accounts had been paid out.
+The investors claims against the solicitors were put in various ways, alleging breach of contract, breach of trust, breach of fiduciary duty, misrepresentation and negligence, but the essence was that the solicitors failed properly to apply the cover test before releasing funds to the developers, with the result that the funds were released without adequate security.
+The claims were due to be tried in the next few months.
+The insurance action
+The solicitors had professional indemnity insurance with the appellant (the insurers) on terms corresponding with the MTC.
+The insurers liability is limited to 3m in respect of each claim.
+The investors claims in total amount to over 10m.
+In March 2014 the insurers issued proceedings against the solicitors in the Commercial Court for a declaration that the investors claims in the two Chancery Division actions are to be considered as a single claim under the MTC.
+The present trustees of the Peninsula Village and Marrakech trusts (the trustees) applied successfully to be joined in the proceedings as representatives of all the beneficiaries under each trust.
+The insurers case is that the investors claims against the solicitors all arise from similar acts or omissions in a series of related matters or transactions within the meaning of clause 2.5(a)(iv) and therefore there is an overall limit of indemnity of 3m.
+The trustees primary case is that none of the investors claims fall to be aggregated with those of any other investor.
+If that argument fails, their secondary case is that the Peninsula Village claims and the Marrakech claims cannot be aggregated with one another and so there are two available pots of indemnity.
+It was also the insurers alternative case that the claims could be aggregated by reference to the two developments.
+The case was tried by Teare J, whose judgment is reported at [2016] Lloyds Rep IR 147.
+He accepted that all the claims arose from similar acts or omissions, and that finding is not challenged in this court, but he rejected the argument that they were in a series of related matters or transactions.
+He interpreted those words as referring to transactions which were related in the sense that, by reason of their terms, they were conditional or dependent on each other.
+Since the transactions entered into between the developers and each investor were not mutually dependent, the claims of each investor did not fall to be aggregated with one another.
+The action was therefore dismissed.
+Teare J gave permission to appeal.
+The Court of Appeal ordered an expedited hearing, confined to issues of principle.
+The parties agreed a list of issues, the first of which was what is the true construction of the words in a series of related matters or transactions? The judgment of the Court of Appeal (Longmore, Kitchin and Vos LJJ) is reported at [2016] Lloyds Rep IR 289; [2017] 1 All ER 143.
+The court concluded that Teare J went too far in saying that the transactions had to be dependent on each other.
+It accepted a submission made by Mr David Edwards QC, appearing for the Law Society as an intervener, that there must be an intrinsic relationship between the transactions rather than a relationship with some outside connecting factor, even if that factor was common to the transactions.
+If the relevant transaction was the payment of money out of an escrow account, which should not have been paid out of that account, what would be intrinsic would depend on the circumstances of that payment.
+The court summarised its interpretation, at para 33, by saying that the true construction of the words in a series of matters or transactions is that the matters or transactions have to have an intrinsic relationship with each other, not an extrinsic relationship with a third factor.
+It allowed the appeal and remitted the action to the Commercial Court to determine in accordance with the guidance in its judgment.
+The insurers criticise the Court of Appeal for introducing an unwarranted qualification into the concept of related matters or transactions.
+Those words, they say, are unspecific as to the nature of the relationship, because the clause may fall to be applied in a huge variety of factual situations not capable of prediction; that its application requires an exercise of judgment tailored to assessing whether on the particular facts there is a substantial connection; and that it is wrong for the court to try to create a greater degree of certainty than the natural meaning of the words allows.
+The trustees and the Law Society support the Court of Appeals interpretation.
+Analysis
+Aggregation clauses have been a long standing feature of professional indemnity policies, and there have been many variants.
+Because such clauses have the capacity in some cases to operate in favour of the insurer (by capping the total sum insured), and in other cases to operate in favour of the insured (by capping the amount deductible per claim), they are not to be approached with a predisposition towards either a broad or a narrow interpretation.
+There is a further reason for adopting a neutral approach in the interpretation of the MTC.
+The Law Society is not in a position comparable to an insurer proffering an insurance policy.
+It is a regulator, setting the minimum terms of cover which firms of solicitors must maintain.
+In doing so it has to balance the need for reasonable protection of the public with considerations of the cost and availability of obtaining professional indemnity insurance.
+Clause 2.5 of the MTC authorises the aggregation of more than one claim when each claim arises from acts or omissions falling within any one of sub clauses (a)(i) to (iv).
+Sub clause (i) (one act or omission) requires no further explanation.
+Sub clause (ii) (one series of related acts or omissions) was interpreted in Lloyds TSB General Insurance Holdings Ltd v Lloyds Bank Group Insurance Co Ltd [2003] 4 All ER 43 by Lord Hoffmann as confined to acts or omissions which together resulted in each of the claims (para 27).
+Lord Hobhouse was prepared to go somewhat further by including the scenario of the misselling of a pension scheme, by means of the same misleading document, to a succession of people who brought a series of claims.
+The other three judges expressed no view on the point of difference between Lords Hoffmann and Hobhouse.
+In the light of that decision, and in response to market pressures by professional indemnity insurers, the Law Society amended clause 2.5 by adding sub clauses (iii) and (iv).
+But the point of difference between Lords Hoffmann and Hobhouse may not have been rendered academic, as I will explain.
+The additional sub clauses cover multiple claims arising from the same act or omission (sub clause (iii)), or similar acts or omissions (sub clause (iv)), subject to the important limitation that the setting of the act(s) or omission(s) giving rise to the claims was a series of related matters or transactions.
+Looking at the matter broadly, it is easy to see the reason for such a limitation.
+If insurers were permitted to aggregate all claims arising from repeated similar negligent acts or omissions arising in different settings, the scope for aggregation would be so wide as to be almost limitless.
+By requiring that the acts or omissions should have been in a series of related transactions, the scope for aggregation is confined to circumstances in which there is a real connection between the transactions in which they occurred, rather than merely a similarity in the type of act or omission.
+In the Lloyds TSB case emphasis was put on the importance of the particular language used in any aggregation clause to specify the factors permitting different claims to be treated as one.
+Individual words or phrases may not carry the same meaning in different clauses of different policies.
+Longmore LJ rightly said in the present case, at para 27, that the word related in the phrase a series of related matters or transactions (with which we are presently concerned) does not bear the same connotation as in the phrase related series of acts or omissions (with which the House of Lords was concerned in the Lloyds TSB case).
+Mr Edelman QC for the insurers accepted that for matters or transactions fairly to be described as related, there must be some identifiable substantive link or connection between them beyond mere similarity.
+But he criticised the Court of Appeals interpretation of the words a series of related matters or transactions as additionally requiring the matters or transactions to have an intrinsic relationship with each other, not an extrinsic relationship with a third factor.
+With respect to the Court of Appeal, I do not consider its formulation to be necessary or satisfactory.
+My difficulty is with the word intrinsic itself and what it means in this context.
+It is possible to describe things or people as having certain intrinsic qualities or characteristics, but it is a more elusive term when used as a descriptor of a relationship between two transactions.
+Take Lord Hobhouses example of a pension scheme missold to a group of investors in the same venture by use of the same document.
+On one interpretation of the Court of Appeals formula it could be said that there was no intrinsic relationship between the matters giving rise to the investors claims, because their only connection was an extrinsic relationship with the third party who sold the pension to all of them.
+If so, the addition of sub clauses (iii) and (iv) will not have helped to resolve the point of difference between Lords Hoffmann and Hobhouse; and if Lord Hoffmanns view is to be preferred, there would be no right to aggregate in such a case.
+It is hard to suppose that the Law Society so intended when it introduced the new sub clauses.
+Sub clause (iv) separates the requirement that the acts or omissions giving rise to the claims should be similar and the requirement that they were in a series of matters or transactions which were related.
+Each limb must be satisfied for the sub clause to apply.
+Use of the word related implies that there must be some inter connection between the matters or transactions, or in other words that they must in some way fit together, but the Law Society saw fit after market negotiation not to circumscribe the phrase a series of related matters or transactions by any particular criterion or set of criteria.
+The absence of further prescription is not particularly surprising, considering the very wide range of transactions which may involve solicitors providing professional services.
+Determining whether transactions are related is therefore an acutely fact sensitive exercise.
+To borrow the language of Rix LJ in Scott v Copenhagen Reinsurance Co (UK) Ltd [2003] Lloyds Rep IR 696, para 81, it involves an exercise of judgment, not a reformulation of the clause to be construed and applied.
+In considering the application of the phrase a series of related matters or transactions it is necessary to begin by identifying the (matters or) transactions.
+The Court of Appeal appears to have taken a narrow view of the transactions when it spoke, at para 19, of the relevant transaction being the payment of money out of an escrow account which should not have been paid out of that account.
+That was an act giving rise to a claim, but the act occurred in the course of a wider transaction.
+The transaction involved an investment in a particular development scheme under a contractual arrangement, of which the trust deed and escrow agreement were part and parcel, being the means designed to provide the investor with security for his investment.
+The transaction was principally bilateral, but it had an important trilateral component by reason of the solicitors role both as escrow agents and as trustees, and the trust deed created a multilateral element by reason of the investors being co beneficiaries.
+The transactions entered into by the Peninsula Village investors were connected in significant ways, and likewise the transactions entered into by the Marrakech investors.
+The members of each group were investing in a common development, for which the monies advanced by them were intended, in combination, to provide the developers with the necessary capital.
+Notwithstanding individual variations, they were all participants in what was in overall terms a standard scheme.
+They were co beneficiaries under a common trust.
+There was some debate about whether the question of the application of the aggregation clause was to be viewed from the perspective of the investors or the solicitors.
+The answer is that the application of the clause is to be judged not by looking at the transactions exclusively from the viewpoint of one party or another party, but objectively taking the transactions in the round.
+Viewed objectively, the connecting factors identified above drive me to the firm conclusion that the claims of each group of investors arise from acts or omissions in a series of related transactions.
+The transactions fitted together in that they shared the common underlying objective of the execution of a particular development project, and they also fitted together legally through the trusts under which the investors were co beneficiaries.
+The case for aggregating the claims of the Peninsula Village investors with those of the Marrakech investors is much weaker.
+They bear a striking similarity, but that is not enough.
+Once again, the proper starting point is to identify the relevant matters or transactions: see para 23 above.
+On the basis of that characterisation of the transactions, it is difficult to see in what way the transactions entered into by the members of the Peninsula Village group of investors were related to the transactions entered into by the members of the Marrakech group of investors, leaving aside for the moment the particular position of the crossover investors.
+Although the development companies were related, being members of the Midas group, and the legal structure of the development projects was similar, the development projects were separate and unconnected.
+They related to different sites, and the different groups of investors were protected by different deeds of trust over different assets.
+Accordingly, on the facts as they currently appear, the insurers have no right to aggregate the claims of the Peninsula Village investors with those of the Marrakech investors.
+In saying on the facts as they currently appear, I am conscious that although I have taken the facts from the agreed statement of facts and issues and the factual description in Teare Js judgment, which has not been challenged, the parties did not address the court fully on the facts and wished to reserve the opportunity of analysing them in greater detail if the case is remitted to the Commercial Court, as the Court of Appeal ordered.
+If any party wishes to argue that on fuller analysis of the facts, the characterisation of the transactions in this judgment is somehow defective, they should have that opportunity.
+Understandably, the parties did not go into detail about the position of the crossover investors, but each crossover investor entered into a new Marrakesh loan agreement and a new escrow agreement.
+I do not presently see that the fact that some investors agreed to switch their funds from one investment to the other has any bearing on the position of those who did not, but I do see that entering into one investment and then switching to another would obviously be related transactions.
+On the facts as they currently appear, the logical analysis would seem to be that any claim made by crossover investors in respect of the first transaction will fall to be aggregated with the claims of other members of that group of investors, and that any claim made by them in respect of the second transaction will fall to be aggregated with their first claim, but we heard no argument on the point.
+Disposal
+I would allow the appeal and either remit the case to the Commercial Court to determine in accordance with this judgment or order its transfer to the Chancery Division so that any outstanding matters can be dealt with by the judge who tries the investors claims against the solicitors.
+I see practical advantages in the second course but would invite the parties written submissions within 28 days.
+The trustees had a cross appeal against the Court of Appeals order on costs, but that is no longer relevant.
+The parties submissions on costs should also be made within 28 days.

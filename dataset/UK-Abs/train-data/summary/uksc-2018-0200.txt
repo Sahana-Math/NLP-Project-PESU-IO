@@ -1,0 +1,60 @@
+This appeal concerns the defence of illegality.
+The Supreme Court is asked to decide whether the appellant, Ms Henderson, can claim damages for loss she has suffered as a result of her conviction for her mothers manslaughter from the respondent, Dorset Healthcare University NHS Foundation Trust (Dorset Healthcare).
+Ms Henderson suffers from paranoid schizophrenia or schizoaffective disorder.
+In August 2010, she was under the care of the Southbourne community mental health team, which was managed and operated by Dorset Healthcare.
+On or around 13 August 2010, Ms Hendersons condition began to deteriorate.
+On 25 August 2010, she stabbed her mother to death whilst experiencing a serious psychotic episode.
+Ms Henderson was convicted of manslaughter by reason of diminished responsibility.
+In her criminal trial, the judge said that there was no suggestion that Ms Henderson should be seen as bearing a significant degree of responsibility for what she had done.
+The judge sentenced Ms Henderson to a hospital order under section 37 and an unlimited restriction order under section 41 of the Mental Health Act 1983.
+She has remained in hospital ever since, and is not expected to be released for some time.
+Ms Henderson brought a negligence claim against Dorset Healthcare, seeking damages for personal injury and other loss and damage.
+Dorset Healthcare admitted liability for its negligent failure to return Ms Henderson to hospital when her psychiatric condition deteriorated.
+It accepted that, if it had done this, the tragic killing of Ms Hendersons mother would not have taken place.
+However, it argued that Ms Hendersons claim is barred for illegality, because the damages she claims result from: (i) the sentence imposed on her by the criminal court; and/or (ii) her own criminal act of manslaughter.
+Similar claims for damages to those made by Ms Henderson were held to be irrecoverable by the House of Lords in Gray v Thames Trains Ltd [2009] UKHL 33; [2009] AC 1339 (Gray).
+The recoverability of the damages claimed was, therefore, ordered to be tried as a preliminary issue.
+The High Court judge determined the preliminary issue in favour of Dorset Healthcare, and the Court of Appeal dismissed Ms Hendersons appeal.
+Both the High Court and the Court of Appeal held that the facts of Ms Hendersons claim are materially identical to those in Gray, which was binding upon them.
+Ms Henderson appealed to the Supreme Court.
+The appeal raises the question of whether Gray can be distinguished and, if not, whether it should be departed from, in particular in the light of the more recent Supreme Court decision concerning illegality in Patel v Mirza [2016] UKSC 42; [2017] AC 467 (Patel).
+The Supreme Court unanimously dismisses Ms Hendersons appeal, and holds that her claim against Dorset Healthcare is barred by the illegality defence.
+Lord Hamblen gives the judgment, with which all members of the Court agree.
+Ms Hendersons appeal raises three main issues [32].
+Issue 1: Can Gray be distinguished? In Gray, the House of Lords held that Mr Grays negligence claim was barred by the defence of illegality because the damages he sought resulted from: (i) the sentence imposed on him by the criminal court; and/or (ii) his own criminal act of manslaughter [36].
+The courts below held that the facts of Ms Hendersons and Mr Grays claims are materially identical, so Ms Hendersons claim is barred for illegality for the same reasons as Mr Grays [30 31].
+However, Ms Henderson argues that the reasoning in Gray does not apply or can be distinguished, because Gray concerned a claimant with significant personal responsibility for his crime.
+In contrast, in Ms Hendersons criminal trial, the judge said that there was no suggestion that Ms Henderson should be seen as bearing a significant degree of responsibility for what she had done [82].
+The Court rejects Ms Hendersons argument and finds that Gray cannot be distinguished.
+The crucial consideration in Gray was that the claimant had been found to be criminally responsible for his conduct, not the degree of personal responsibility which that reflected [83 86].
+Lord Phillips reserved judgment in Gray on whether the illegality defence would apply to a case where the claimant did not bear significant personal responsibility for their crime, but this was not the view of the majority [79 81].
+Issue 2: Should the Court depart from Gray? In Patel, the Supreme Court held that the proper approach to the illegality defence at common law was one based on a balancing of public policy considerations rather than a reliance based approach [61].
+The majority held the underlying policy question to be whether allowing recovery for something which is illegal would produce inconsistency and disharmony in the law and so cause damage to the integrity of the legal system.
+In assessing whether the public interest would be harmed in that way, the court should consider a trio of considerations, namely: stage (a) the underlying purpose of the illegality in question, and whether that purpose would be enhanced by denying the claim; stage (b) any other relevant public policy on which denying the claim may have an impact; and stage (c) whether denying the claim would be a proportionate response to the illegality [66 68, 113].
+With regard to the application of Patel, the Court confirms, first, that it concerned common law illegality rather than statutory illegality [74]; secondly, that although it concerned a claim in unjust enrichment, the Courts decision provides guidance on the proper approach to the common law illegality defence across civil law generally [76]; and thirdly that the principles identified in Patel are derived from the pre existing case law and earlier decisions on the illegality defence remain of precedential value, unless they are incompatible with the Courts reasoning in Patel [77].
+Ms Henderson contends that the Court should depart from Gray on three grounds.
+The first ground is that the reasoning in Gray is incompatible with the approach to illegality adopted by the Supreme Court in Patel.
+The Court finds, however, that the essential reasoning in Gray is consistent with Patel, and so remains good law [89 96].
+The second ground is that Gray should not apply where the claimant has no significant personal responsibility for the criminal act and/or there is no penal element in the sentence imposed on them by the criminal court [97 103].
+The Court rejects this argument because allowing a claimant to recover damages for loss that results from: (i) the sentence imposed by the criminal court; and/or (ii) an intentional criminal act for which the claimant has been held to be criminally responsible would give rise to inconsistency that is damaging to the integrity of the legal system.
+The criminal under the criminal law would become the victim under the civil
+law [106].
+Requiring the civil court to assess whether or not a civil claimant has a significant degree of personal responsibility for their crime would create a clear risk of inconsistent decisions being reached in the criminal and civil courts [108].
+In any case, it is unclear why significant personal responsibility is the appropriate threshold, and how the civil courts should decide whether a claimant meets that threshold [110 111].
+There may be some exceptional trivial or strict liability offences which do not engage the illegality defence.
+However, the serious criminal offence of manslaughter by reason of diminished responsibility is not one of those exceptions [112].
+The third ground is that Ms Hendersons claim would be allowed under the trio of considerations approach in Patel [113 116].
+With regard to the trio of considerations, the Court confirms first that they should usually be capable of being addressed as a matter of argument and at a level of generality that does not make evidence necessary [115]; secondly, that they involve a balancing between policy considerations arising under stages (a) and (b) and that stage (c) relates to proportionality and factors specific to the case rather than general policy considerations [116 120]; thirdly, that, where they arise, it is appropriate to give great weight to the policy considerations that a person should not be allowed to profit from his own wrongdoing and that the law should be coherent [121 122]; fourthly, that where the policy considerations come down firmly against denial of the claim it will not be necessary to consider stage (c) and proportionality [123]; and fifthly, that in relation to proportionality, centrality and the closeness of the causal link between the illegality and the claim will often be factors of particular importance [124].
+In relation to stage (a), the policy reasons which support denial of Ms Hendersons claim include the consistency and public confidence principles identified in Gray [119, 125 126].
+They also include: (i) the gravity of her criminal offence; (ii) the public interest in the proper allocation of NHS resources; (iii) the very close connection between her claim and her offence; and (iv) the public interest in deterring, protecting the public from and condemning unlawful killing [127 129].
+Although a claimant in Ms Hendersons position may not be deterred from unlawful killing by being deprived of a civil right to compensation, there may well be a broader deterrent effect in a clear rule that unlawful killing never pays.
+Any such effect is important given the fundamental importance of the right to life.
+To have such a rule also supports the public interest in public condemnation and due punishment [130 131].
+In relation to stage (b), the policy reasons relied upon for allowing Ms Hendersons negligence claim do not begin to outweigh those which support the denial of the claim.
+In particular, as Gray makes clear, the resulting inconsistency in the law is such as to affect the integrity of the legal system and the underlying policy question identified in Patel is accordingly engaged [137].
+In relation to stage (c), the four factors relevant to proportionality identified in Patel do not show that denial of the claim would be disproportionate [138 143].
+It follows that the trio of considerations approach in Patel does not lead to a different outcome in Ms Hendersons case [144].
+Gray should therefore be affirmed as being Patel compliant and should be applied and followed in similar cases [145].
+Issue 3: Can Ms Henderson recover damages for any of the heads of loss she has claimed? The Court answers this question no. Ms Henderson cannot claim damages for loss of liberty or for loss of amenity during her detention in hospital because these heads of loss result from the sentence imposed on her by the criminal court.
+The other heads of loss cannot be recovered because they result from Ms Hendersons unlawful killing of her mother [148].
+It would be inappropriate for the Court to subvert the operation of the Forfeiture Act 1982, which prevents Ms Henderson from recovering her full share of her mothers estate [149].

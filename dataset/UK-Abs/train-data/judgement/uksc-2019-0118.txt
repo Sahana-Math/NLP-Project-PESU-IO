@@ -1,0 +1,809 @@
+This appeal concerns the procedure for collective proceedings introduced by amendment to the Competition Act 1998 (the Act) for the purpose of enabling small businesses and consumers more easily to bring claims for what may loosely be described as anti competitive conduct in breach of the provisions of the Act.
+Where the harmful impact of such conduct affects consumers, it may typically cause damage to very large classes of claimants.
+Proof of breach, causation and loss is likely to involve very difficult and expensive forensic work, both in terms of the assembly of evidence and the analysis of its economic effect.
+Viewed from the perspective of an individual consumer, the likely disparity between the cost and effort involved in bringing such a claim and the monetary amount of the consumers individual loss, coupled with the much greater litigation resources likely to be available to the alleged wrongdoer, means that it will rarely, if ever, be a wise or proportionate use of limited resources for the consumer to litigate alone.
+The procedure for collective proceedings introduced by the Act applies to claims by two or more persons for damages, money or an injunction in respect of a breach of specified provisions of statutory competition law: see sections 47A(2) and 47B(1) of the Act.
+It enables whole classes of consumers to vindicate their rights to compensation and the large cost of the necessary litigation to be funded, before an expert tribunal, the Competition Appeal Tribunal (CAT), which is given exclusive jurisdiction over collective proceedings.
+The prospect that the rights of consumers can be vindicated in that way also serves to act as a disincentive to unlawful anti competitive behaviour of a type likely to harm consumers generally.
+But collective proceedings may not proceed beyond the issue and service of a claim form without the permission of the CAT in the form of certification by a Collective Proceedings Order (CPO) under section 47B of the Act.
+At issue in the appeal are the legal requirements for certification.
+There are (at least for present purposes) three key features of collective proceedings.
+The first is that claims by any number of claimants may be pursued on their behalf by a single representative who may, but need not, be a member of the class.
+The claims need not be identical, and they need not all be against all the defendants, but they must all raise the same, similar or related issues of fact or law.
+Secondly, the remedy sought may, but need not always, be the award of what are called aggregate damages.
+This type of damages provides just compensation for the loss suffered by the claimant class as a whole, but the amount need not be computed by reference to an assessment of the amount of damages recoverable by each member of the class individually.
+Thirdly, the CAT has a discretion as to how aggregate damages (if recovered) are to be distributed among members of the class.
+Any unclaimed residue of an aggregate award is to be given to a charity specified by the Lord Chancellor, or used to meet the litigation costs and expenses of the representative.
+The CAT is given an important screening or gatekeeping role over the pursuit of collective proceedings.
+First, collective proceedings may not be pursued beyond the issue and service of a claim form without the CATs permission, in the form of a CPO, for which the representative must apply.
+The obtaining of a CPO is called certification.
+Secondly, collective proceedings may be terminated by the CAT at any stage by the revocation of that CPO.
+Thirdly, the CAT may accede to an application by one or more defendants to strike out collective proceedings if they disclose no reasonable cause of action (or are otherwise abusive) or to an application for defendants summary judgment, just as in any ordinary civil proceedings.
+The process of certification requires the CAT to be satisfied as to two main criteria, in relation to any particular collective proceedings.
+First, it must be just and reasonable for the person seeking to act as representative to be authorised to do so.
+Secondly, the claims must be eligible for inclusion in collective proceedings.
+This means that they must all raise the same, similar or related issues of fact or law and be suitable to be brought in collective proceedings.
+In the present case the CAT decided that the claims were not suitable to be brought in collective proceedings and therefore refused a CPO.
+The representative, Mr Walter Merricks, appealed successfully to the Court of Appeal.
+The defendants, companies in the Mastercard group, appeal to this court, seeking to reinstate the decision of the CAT.
+This is the first collective proceedings case of this kind to reach this court, or the Court of Appeal, and it raises important questions about the legal framework within which the CAT should exercise its undoubted expertise in granting or refusing certification.
+The Facts
+The appellant defendants (collectively Mastercard) are three members of the Mastercard group of companies, the first two of which are registered in Delaware, USA, and the third in Belgium.
+At the relevant time Mastercard operated the well known Mastercard payment card scheme, by the use of which consumers with banking facilities are able to purchase goods and services from retailers otherwise than by the use of cash or cheques.
+The scheme includes both credit and debit cards and operates as a four party scheme in accordance with the diagram shown below.
+The consumer is the card holder.
+The retailer is called the merchant.
+The consumers bank issues the card used by the consumer to make payment and is therefore called the issuer.
+The retailers bank is called the acquirer.
+The scheme rules, laid down by Mastercard, require both the issuer and the acquirer to pay fees to Mastercard for being licensed to use the scheme.
+But the rules also provide for an interchange fee (IF) to be paid by the acquirer to the issuer for each transaction paid by the use of a Mastercard, which is debited from the payment made by the issuer to the acquirer on the card holders behalf.
+The acquirer then credits the net amount, less its own fee, to the account of the merchant.
+The combined deduction of the IF and the acquirers own fee is called the merchant service charge (MSC).
+Thus it is common ground that the acquirer passes on the whole of the IF to the merchant.
+This may be illustrated by a notional sale of goods (or services) by the merchant to the card holder for 100, where the IF is 1% and the MSC is 1.2% (ie the IF of 1% and the acquirers own fee of 0.2%).
+The card holder pays 100, which the issuer deducts from his account.
+The issuer pays 99 to the Acquirer and the acquirer pays 98.80 to the merchant.
+The IF may be bilaterally agreed between the issuer and the acquirer, or they may both be the same bank.
+But otherwise the IF is paid at a default rate set by the scheme rules, known as the multilateral interchange fee (MIF).
+There are various different rates of MIF, depending on the type of card used (eg debit or credit) and the places where respectively the card is issued and the merchant carries on business.
+Thus there was a domestic UK MIF where the card was issued in the UK and the merchant carried on business there.
+There was also an Intra EEA MIF where the two respective places were in different member states of the EEA.
+Following an investigation, the European Commission decided in December 2007 that the default level set by Mastercard since May 1992 for its Intra EEA MIF amounted to a restriction of competition by effect, contrary to article 81 EC (now article 101 TFEU) and article 53 of the EEA Agreement.
+It is common ground that this was a form of unlawful anti competitive behaviour sounding in damages for breach of statutory duty under section 47A of the Act.
+The Intra EEA MIF applied to a large number of purchase transactions by UK card holders, using cards issued in the UK to make purchases from merchants in other EEA states, and to purchases from UK merchants where the card holders were using cards issued in other EEA states.
+A very much larger series of transactions by UK card holders during the same period attracted the domestic UK MIF.
+It is alleged in the present proceedings, but it is not common ground, that the level of the UK MIF was affected by the level of the infringing Intra EEA MIF, so that the loss said to result from the UK MIF was therefore caused by the infringement.
+The Commissions decision (the EC Decision) stated at recital 411 that: A further consequence of this restriction of price competition is that customers making purchases at merchants who accept payment cards are likely to have to bear some part of the cost of Mastercards MIF irrespective of the form of payment the customers use.
+This is because depending on the competitive situation merchants may increase the price for all goods sold by a small margin rather than internalising the cost imposed on them by a MIF.
+Mastercard challenged the Commissions decision in the European courts, but without success, and now accepts that it is bound by the finding of breach, for the whole of the period from May 1992 until December 2007 (the Infringement Period).
+The Proceedings
+In September 2016 the respondent Mr Walter Merricks CBE issued a collective proceedings claim form against Mastercard, seeking to represent claims by all UK resident adult consumers of goods and services purchased in the UK during the almost 16 year Infringement Period from merchants accepting Mastercard.
+The size of the represented class was estimated in the claim form to be 46.2m people.
+It was not a condition of class membership that members either had owned or used a Mastercard for their purchases.
+It was alleged that any price increases by which merchants passed on the cost of the MIF was applied to all purchasers, not just purchasers using cards.
+Business customers of merchants using the Mastercard scheme are not included in the claimant class.
+The essential structure of the claim was as follows: a.
+The infringing Intra EEA MIF set an unlawfully high minimum level of IF.
+But for the infringement identified by the EC Decision, IFs both for cross border and domestic transactions would have been charged at a lower level, the difference between that lower level and both the Intra EEA MIF and the domestic UK MIF representing an unlawful element of overcharge. b.
+That unlawful overcharge was passed on by acquirers to their merchants in full, via the MSC. c.
+All or a substantial part of the unlawful overcharge was then passed on by merchants operating the Mastercard scheme to their consumer customers, by way of higher prices than would otherwise have been charged for goods and services, thereby causing loss to consumers as a class, equivalent to the amount of the unlawful overcharge passed on.
+This is a follow on claim which is sought to be brought on an opt out basis.
+A follow on claim is one which is based upon an existing decision establishing breach, here the EC Decision, which is binding on the domestic tribunal: see section 58A of the Act.
+Section 47B of the Act makes provision for collective proceedings to be brought on an opt in or opt out basis.
+Leaving aside non domiciled claimants, an opt out basis means that the proceedings are brought on behalf of every person within the class definition who does not opt out from membership of the class: see section 47B(11).
+Mr Merricks seeks an award of aggregate damages under section 47C of the Act and proposes that the proceeds of any award should be distributed broadly equally among members of the class on a per capita basis for each separate year of the Infringement Period.
+He justifies this on the ground that any attempt to differentiate between members on the basis of individual loss would be disproportionate having regard to the modest amounts at stake for each individual, and the forensic difficulties in any reliable basis for discrimination, after the passage of time, within such a huge class.
+Save that Mastercard admits, as it must, the breach of statutory duty identified by the EC Decision in relation to the Intra EEA MIF and accepts that the whole of any relevant MIF was passed on in full by acquirers to merchants, Mastercard challenges every aspect of the claim.
+It denies that its excessive Intra EEA MIF caused any unlawful increase in domestic UK MIFs (which dominated the relevant transactions during the Infringement Period), or that IFs would have been any lower than in fact they were, but for the infringement.
+Thus it denies unlawful overcharge: (the overcharge issue).
+More importantly for present purposes Mastercard does not accept that merchants passed on all or any part of any overcharge to their customers: (the merchant pass on issue).
+I use the phrase does not accept rather than deny advisedly.
+There are now pending some hundreds of claims by merchants against Mastercard, alleging loss by reason of having incurred the cost of the overcharge as part of the MSC passed on by their acquirer banks, without having passed it, or at least all of it, on to their customers.
+In at least some of those cases Mastercard has sought to defend by alleging that the merchants did pass on all or part of any overcharge to their customers, and therefore, or at least to that extent, suffered no loss.
+Mr Merricks sought to support his case that the claims were eligible for collective proceedings by describing both the overcharge issue and the merchant pass on issue as common issues affecting all the claims.
+Mastercard persuaded the CAT that the merchant pass on issue was not a common issue.
+But the Court of Appeal held that it was, and their conclusion has not been challenged in this court.
+The potential quantum of the claims, on the basis of full success on the main issues, was provisionally estimated in written evidence by Mr Merricks expert team at more than 14 billion for the class as a whole.
+But the likely average individual recovery after a distribution on the basis proposed has been very roughly estimated at only 300 each, even on a full success basis.
+It became reasonably clear during the hearing before the CAT that the aggregate damages figure was very likely to prove to be a considerable over estimate, with the consequence that the likely individual recoveries would also be reduced.
+On any view however the proceedings involve a disparity in size between collective and individual recovery on a scale which is, in the current experience of the UK courts and tribunals, completely unique.
+Mastercard objected to certification on both the main criteria, submitting that Mr Merricks could show neither that it was reasonable for him to be authorised to act as representative nor that the claims were eligible for collective proceedings.
+The CAT rejected the first of those objections, but upheld the second, and Mastercard did not pursue its objection to Mr Merricks as representative in the Court of Appeal.
+The result is that this appeal concerns solely the legal requirements for eligibility.
+Before considering the CATs analysis and the Court of Appeals reasons for finding that it was wrong in law, it is convenient to set out the relevant provisions in the Act, the relevant rules and the CATs published guidance.
+The statutory framework for certification
+The structure for collective proceedings of this type is an entirely statutory creation.
+Its relative novelty means that it has yet to attract a body of authoritative UK case law about its operation, although there is significant Canadian jurisprudence about pre existing similar (although not identical) statutory schemes there which has been much relied upon in these proceedings.
+As will appear it will be necessary to set the bones of the statutory structure in its context as a part (albeit specialised) of the UKs civil and tribunal procedure.
+Although now forming part of the Competition Act 1998, the statutory part of the structure for collective proceedings was introduced, by amendment, in two stages.
+The first was in the Enterprise Act 2002, but it only permitted opt in proceedings and was unsuccessful.
+The second was in the Consumer Rights Act 2015.
+This followed a public consultation by the Department for Business, Innovation and Skills.
+In its paper published in April 2012, it was announced that the government wished to bring forward proposals to improve the regime for bringing private actions for redress for anti competitive behaviour.
+At paragraph 3.6 under the heading Aims the paper stated: The aim of these proposals is therefore two fold: Increase growth, by empowering small businesses to tackle anti competitive behaviour that is stifling their business.
+Promote fairness, by enabling consumers and businesses who have suffered loss due to anti competitive behaviour to obtain redress.
+Under the heading Why is reform needed? the paper recognised, at paragraph 3.11, the widespread view that private actions were the least satisfactory aspect of the competition regime, so that there was wide recognition of the need to improve access to redress and dispute resolution.
+At paragraph 3.12 it stated: Currently it is rare for consumers and SMEs to obtain redress from those who have breached competition law, and it can be difficult and expensive for them to go to court to halt anti competitive behaviour.
+At paragraph 3.13 it continued: A further difficulty is that competition cases may involve large sums but be divided across many businesses or consumers, each of whom has lost only a small amount.
+This means that a major case, with aggregate losses in the millions or tens of millions of pounds, can nevertheless lack any one individual for whom pursuing costs makes economic sense.
+Paragraph 3.14 contained a brief review of the shortcomings of the then current procedural frameworks, including the representative action under the English and Welsh Civil Procedural Rules.
+Under the heading Proposals the paper proposed both the establishment of the CAT as a major venue for competition actions across the UK and to: Introduce an opt out collective actions regime for competition law to allow consumers and businesses to collectively bring a case to obtain redress for their losses.
+Section 47A of the Act (introduced by the Enterprise Act 2002 and amended by the Consumer Rights Act 2015) identifies the types of claim which, under section 47B(1), may now be brought as collective proceedings.
+The present claims are included at section 47A(2) and (6)(c), because they are based upon a decision of the Commission that there has been an infringement of the prohibition in article 101(1).
+But collective proceedings are not the only type of proceedings which may be brought, even before the CAT, and the CAT does not have exclusive jurisdiction for claims falling within section 47A.
+As section 47A(2) recognises, such claims may in theory at least be brought by means of any available type of civil proceedings within the UK.
+Collective proceedings are however within the exclusive jurisdiction of the CAT, and subject to the Competition Appeal Tribunal Rules 2015 (SI 2015/1648) (the Rules).
+Section 47B provides as follows: (1) Subject to the provisions of this Act and Tribunal rules, proceedings may be brought before the Tribunal combining two or more claims to which section 47A applies (collective proceedings). (2) Collective proceedings must be commenced by a person who proposes to be the representative in those proceedings. (3) The following points apply in relation to claims in collective proceedings (a) it is not a requirement that all of the claims should be against all of the defendants to the proceedings, (b) the proceedings may combine claims which have been made in proceedings under section 47A and claims which have not, and (c) a claim which has been made in proceedings under section 47A may be continued in collective proceedings only with the consent of the person who made that claim. (4) Collective proceedings may be continued only if the Tribunal makes a collective proceedings order. (5) The Tribunal may make a collective proceedings order only (a) if it considers that the person who brought the proceedings is a person who, if the order were made, the Tribunal could authorise to act as the representative in those proceedings in accordance with subsection (8), and (b) inclusion in collective proceedings. in respect of claims which are eligible for (6) Claims are eligible for inclusion in collective proceedings only if the Tribunal considers that they raise the same, similar or related issues of fact or law and are suitable to be brought in collective proceedings. (7) A collective proceedings order must include the following matters (a) authorisation of the person who brought the proceedings to act as the representative in those proceedings, (b) description of a class of persons whose claims are eligible for inclusion in the proceedings, and (c) specification of the proceedings as opt in collective proceedings or opt out collective proceedings (see subsections (10) and (11)). (8) The Tribunal may authorise a person to act as the representative in collective proceedings (a) whether or not that person is a person falling within the class of persons described in the collective proceedings order for those proceedings (a class member), but (b) only if the Tribunal considers that it is just and reasonable for that person to act as a representative in those proceedings. (9) The Tribunal may vary or revoke a collective proceedings order at any time. (10) Opt in collective proceedings are collective proceedings which are brought on behalf of each class member who opts in by notifying the representative, in a manner and by a time specified, that the claim should be included in the collective proceedings. (11) Opt out collective proceedings are collective proceedings which are brought on behalf of each class member except any class member who opts out by notifying the (a) representative, in a manner and by a time specified, that the claim should not be included in the collective proceedings, and (b) any class member who
+Section 47C deals with damages and costs in collective proceedings.
+It provides, so far as is relevant: is not domiciled in the United Kingdom at (i) a time specified, and (ii) does not, in a manner and by a time specified, opt in by notifying the representative that the claim should be included in the collective proceedings. (12) Where the Tribunal gives a judgment or makes an order in collective proceedings, the judgment or order is binding on all represented persons, except as otherwise specified. (13) The right to make a claim in collective proceedings does not affect the right to bring any other proceedings in respect of the claim. (14) In this section and in section 47C, specified means specified in a direction made by the Tribunal. (2) The Tribunal may make an award of damages in collective proceedings without undertaking an assessment of the amount of damages recoverable in respect of the claim of each represented person. (3) Where the Tribunal makes an award of damages in opt out collective proceedings, the Tribunal must make an order providing for the damages to be paid on behalf of the represented persons to the representative, or such person other than a represented person as (a) (b) the Tribunal thinks fit. (4) Where the Tribunal makes an award of damages in opt in collective proceedings, the Tribunal may make an order as described in subsection (3).
+Subsections (5) and following provide for the distribution of unclaimed collective damages to charity or to meet the representatives costs and expenses, as already mentioned.
+Section 49 makes provision for appeals from the CAT in relation to (inter alia) collective proceedings.
+It is common ground in this court that an appeal from a certification decision of the CAT lies only on a point of law.
+Section 47B(1) expressly makes the right to bring collective proceedings subject to the Rules.
+They provide, at rule 2(2), that the Rules are to be applied and interpreted in accordance with the governing principles in rule 4.
+Rule 4(1) (2) states that cases are to be decided justly and at proportionate cost.
+This is a modified version of the well known overriding objective enshrined in the Civil Procedure Rules of England and Wales and with parallels in most modern codes of civil procedure both in the UK and around the common law world, including Canada.
+Rules 41 and 43 provide for the CAT, on the application of a party or of its own initiative, to have power to strike out all or part of a claim or to give summary judgment in relation to a claim or an issue in a claim against a claimant or defendant.
+These powers are fully applicable to collective proceedings, both generally and at the time of the hearing of an application for a CPO: see rule 79(4).
+They enable the CAT to prevent collective proceedings going to a (probably very expensive) trial in cases where they, or parts of them, disclose no reasonable cause of action, are abusive or do not raise triable issues.
+In short, they enable the CAT to exercise a merits based control over collective proceedings on lines similar to those available in civil proceedings generally.
+Rules 75 to 81 make detailed provision for the commencement and certification of collective proceedings.
+For present purposes rule 77, headed Determination of the application for a collective proceedings order and rule 79, headed Certification of the claims as eligible for inclusion in collective proceedings, are of primary importance.
+They provide as follows: 77(1) The Tribunal may make a collective proceedings order, after hearing the parties, only (a) if it considers that the proposed class representative is a person who, if the order were made, the Tribunal could authorise to act as the class representative in those proceedings in accordance with rule 78; and (b) in respect of claims or specified parts of claims which are eligible for inclusion in collective proceedings in accordance with rule 79. (2) If the Tribunal makes a collective proceedings order it may attach such conditions to the order or give such directions as it thinks fit, including (a) directions for filing and service of the order, pleadings and any other document in relation to the collective proceedings; and (b) directions regarding any class member who is a child or person who lacks capacity. 79(1) The Tribunal may certify claims as eligible for inclusion in collective proceedings where, having regard to all the circumstances, it is satisfied by the proposed class representative that the claims sought to be included in the collective proceedings are brought on behalf of an identifiable class of raise common issues; and are suitable to be brought in collective (a) persons; (b) (c) proceedings.
+In determining whether the claims are suitable to be (2) brought in collective proceedings for the purposes of paragraph (1)(c), the Tribunal shall take into account all matters it thinks fit, including the costs and the benefits of continuing the (a) whether collective proceedings are an appropriate means for the fair and efficient resolution of the common issues; (b) collective proceedings; (c) whether any separate proceedings making claims of the same or a similar nature have already been commenced by members of the class; (d) the size and the nature of the class; (e) whether it is possible to determine in respect of any person whether that person is or is not a member of the class; (f) whether the claims are suitable for an aggregate award of damages; and the availability of alternative dispute resolution (g) and any other means of resolving the dispute, including the availability of redress through voluntary schemes whether approved by the CMA under section 49C of the 1998 Act or otherwise.
+In determining whether collective proceedings should (3) be opt in or opt out proceedings, the Tribunal may take into account all matters it thinks fit, including the following matters additional to those set out in paragraph (2) the strength of the claims; and (a) (b) whether it is practicable for the proceedings to be brought as opt in collective proceedings, having regard to all the circumstances, including the estimated amount of damages that individual class members may recover. (4) At the hearing of the application for a collective proceedings order, the Tribunal may hear any application by the defendant (a) under rule 41(1), to strike out in whole or part any or all of the claims sought to be included in the collective proceedings; or (b) under rule 43(1), for summary judgment. (5) Any member of the proposed class may apply to make submissions either in writing or orally at the hearing of the application for a collective proceedings order.
+A CPO is not either the beginning or the end of the measures whereby the CAT may case manage collective proceedings.
+Under rule 76(9) the CAT must convene a case management conference for the management of the application for a CPO.
+Rule 85 contains wide powers for the CAT to stay collective proceedings or to vary or revoke a CPO, including power to add, remove or substitute parties and power to order the amendment of the claim form.
+Rule 88 confers wide powers of case management, exercisable at any time, while rule 89 confers power to order disclosure, in the widest possible form.
+Finally, rule 115(3) empowers the president of the CAT to issue practice directions.
+The current Guidance (published by the CAT in 2015) has the force of a practice direction.
+Paragraph 6.13 provides that: The proposed class representative should send with the collective proceedings claim form any evidence relied on in support of the application for a CPO.
+That may include, for example, a witness statement by or on behalf of the proposed class representative addressing the considerations raised by rules 78 and 79; and an experts report regarding the way in which the common issues identified in the claim form may suitably be determined on a collective basis.
+Paragraph 6.39 deals with the requirement in rule 79(3)(a) to consider the strength of the claims when deciding whether collective proceedings should be opt in or opt out.
+It provides: Strength of the claims (rule 79(3)(a)) Given the greater complexity, cost and risks of opt out proceedings, the Tribunal will usually expect the strength of the claims to be more immediately perceptible in an opt out than an opt in case, since in the latter case, the class members have chosen to be part of the proceedings and may be presumed to have conducted their own assessment of the strength of their claim.
+However, the reference to the strength of the claims does not require the Tribunal to conduct a full merits assessment, and the Tribunal does not expect the parties to make detailed submissions as if that were the case.
+Rather, the Tribunal will form a high level view of the strength of the claims based on the collective proceedings claim form.
+For example, where the claims seek damages for the consequence of an infringement which is covered by a decision of a competition authority (follow on claims), they will generally be of sufficient strength for the purpose of this criterion.
+Paragraph 6.43 of the Guidance provides that defendants applications to strike out or for summary judgment made before the certification hearing will generally be dealt with at that hearing, together with any application for security for costs.
+The decision of the CAT to refuse certification
+In a reserved judgment the CAT refused Mr Merricks a CPO upon two
+distinct but related grounds, both relating to the eligibility criterion under section 47B(5)(b) and (6) of the Act: [2017] CAT 16; [2018] Comp AR 1.
+This was not because the claims failed to raise the same, similar or related issues, even though the CAT held that the merchant pass on issue was not a common issue in that sense.
+The overcharge issue was a common issue, so their conclusion that the merchant pass on issue was not common was not fatal to the application.
+Rather the refusal of a CPO was because the claims were not suitable to be brought in collective proceedings.
+The first reason was that the claims were not suitable for an aggregate award of damages, within rule 79(2)(f).
+This was sufficient on its own to require refusal of a CPO.
+The second reason was that Mr Merricks proposals for distribution of any aggregate award did not respond in any way to the compensatory principle which the CAT regarded, on common law principles, as an essential requirement of any distributive scheme.
+This was not a requirement mentioned in the Act, the Rules or the Guidance, but it was regarded by the CAT as a relevant matter under rule 79(2), also sufficient on its own to require a CPO to be refused.
+The first reason requires some unpacking.
+Mr Merricks supported his application by an expert report from Dr Veljanovski, an economist, and Mr Dearman, a forensic accountant, which sought to explain (inter alia) the methodology by which it was proposed to support an award of aggregate damages for the losses cumulatively suffered by an enormous class over the Infringement Period.
+That methodology included dividing the retail goods and services market into some 11 sectors, seeking to establish the degree of merchant pass on in each and then deriving a weighted average across the retail market as a whole.
+Expressed as a fraction or percentage, that average could be used to estimate the amount of the overcharge (separately identified) passed on to consumers, and therefore the amount of the overcharge which represented the aggregate loss of the consumers, as opposed to the merchants, as a separate class.
+After a hearing which included questioning of the experts by the members of the CAT and some cross examination by counsel for Mastercard, the CAT concluded that the experts had not demonstrated a sufficient likelihood of there being available at trial sufficient data for all those sectors across the whole of the Infringement Period to enable that methodology to generate a sufficiently reliable result.
+The CAT did not by this conclusion mean that they regarded it as impossible, or even unlikely, for Mr Merricks to be able to prove at trial that the class had suffered some loss.
+Rather, their concern was as to the probable unreliability of the quantification of that loss, on a class wide basis as permitted by the procedure for an award of aggregate damages.
+Their conclusion is encapsulated in this extract from para 78 of the judgment: . we are unpersuaded on the material before us that there is sufficient data available for this methodology to be applied on a sufficiently sound basis.
+It follows that we are not satisfied, and indeed very much doubt, that the claims are suitable for an aggregate award of damages: see rule 79(2)(f).
+The CATs second reason is, in a sense, self explanatory.
+When a class is constituted by all consumers who, during a 16 year period, purchased goods and services from one or more of the half million or so merchants which operated the Mastercard scheme, it is obvious that there will be wide divergences in the impact of any overcharge upon each one of them, viewed individually, even if all of them will probably have suffered some loss, because of the virtual impossibility of a consumer entirely avoiding a merchant operating Mastercards scheme for any of their purchases.
+These divergences will only be partly mitigated by adoption of the proposed annual basis of per capita distribution.
+Even within a single year, the effect of an overcharge upon individual consumers will depend upon sectoral variations in merchant pass on, the particular focus of the consumers spending, and the relative wealth of each consumer.
+The CAT regarded it as axiomatic, in accordance with the basic common law principle that damages had to be compensation for loss, that if an estimation of aggregate damages was adopted which was not itself based in any way upon an assessment of individual loss, then: Such an approach can only be permissible, in our view, if there is then a reasonable and practicable means of getting back to the calculation of individual compensation. (para 79) In the CATs view, a per capita per annum basis of distribution of aggregate damages entirely failed to satisfy that requirement.
+At para 84 they said: The problem in the present case is that there is no plausible way of reaching even a very rough and ready approximation of the loss suffered by each individual claimant from the aggregate loss calculated according to the applicants proposed method.
+At para 88 the CAT concluded that a method of distribution which did not serve the compensatory principle could not be a reasonable basis for the distribution of aggregate damages.
+The Court of Appeal
+On Mr Merricks appeal the Court of Appeal (Patten, Hamblen and Coulson LJJ) concluded, in a judgment of the court, that the CATs decision to refuse a CPO had been vitiated by five errors of law: [2019] EWCA Civ 674; [2019] Bus LR 3025.
+First, as already noted, the CAT had wrongly regarded the merchant pass on issue as not being a common issue.
+Secondly, the CAT had in its approach to the issue as to the likely availability of data for the quantification of merchant pass on set an illegitimately high merits threshold at the certification stage.
+Thirdly, for that purpose the CAT conducted in effect a mini trial, involving the cross examination of experts, whereas they should have confined themselves to the question whether, on the documents, the claim form disclosed a real prospect of success.
+Fourthly the CAT had been wrong to conclude that aggregate damages could not be distributed by a method which paid no regard to differing levels of individual loss.
+Finally, it had been premature for the CAT to reach a final, and adverse, conclusion about the proposed method of distribution at the certification stage, and to use that conclusion as a self standing reason for refusing certification at all.
+Both the CAT and the Court of Appeal treated as highly persuasive some dicta in the leading Canadian case on certification, Pro Sys Consultants Ltd v Microsoft Corpn [2013] SCC 57.
+The CAT purported to rely upon them as the basis for their conclusion that the claims were unsuitable for aggregate damages.
+The Court of Appeal treated the same (and other) Canadian dicta as the foundation for their decision that the merits threshold for certification was lower than the hurdle which the CAT had applied.
+It is convenient at this stage to summarise the Canadian jurisprudence, and to set it in its own statutory and procedural context.
+The Canadian Jurisprudence on Certification of Collective Proceedings
+Many Canadian provinces and territories developed a statutory structure for collective proceedings (there called class proceedings) both earlier, and comprehending a more general range of potential claims, than in the UK.
+For present purposes it is sufficient to consider the regime enacted in British Columbia.
+By its Class Proceedings Act 1996 (the CPA) opt out class proceedings for civil claims generally were introduced subject to a certification procedure, with provision for the award of aggregate damages.
+Ontario had adopted a similar structure in 1992.
+The Canadian structures were regarded by the UK government as the best model for the collective proceedings regime introduced in 2015 (see para 194 of the Departments Final Impact Assessment published in January 2013, following the consultation referred to above).
+There are many similarities and some differences between the Canadian and UK statutory structures.
+Both operate within a civil procedural framework based upon common law principles and which is guided by a similar form of overriding objective: see eg rule 1 3 of British Columbias Supreme Court Civil Rules, BC Regulation 168/2009.
+Both may be said to serve broadly the same statutory purpose of providing effective access to justice for claimants for whom the pursuit of individual claims would be impracticable or disproportionate.
+In Hollick v Toronto (City) 2001 SCC 68; [2001] 3 SCR 158, Chief Justice McLachlin described the beneficial purposes of class action procedure in these terms, at para 15, speaking of the Ontario Class Proceedings Act 1992: The Act reflects an increasing recognition of the important advantages that the class action offers as a procedural tool class actions provide three important advantages over a multiplicity of individual suits.
+First, by aggregating similar individual actions, class actions serve judicial economy by avoiding unnecessary duplication in fact finding and legal analysis.
+Second, by distributing fixed litigation costs amongst a large number of class members, class actions improve access to justice by making economical the prosecution of claims that any one class member would find too costly to prosecute on his or her own.
+Third, class actions serve efficiency and justice by ensuring that actual and potential wrongdoers modify their behaviour to take full account of the harm they are causing, or might cause, to the public.
+In proposing that Ontario adopt class action legislation, the Ontario Law Reform Commission identified each of these advantages In my view, it is essential therefore that courts not take an overly restrictive approach to the legislation, but rather interpret the Act in a way that gives full effect to the benefits foreseen by the drafters.
+Section 4(1) of the British Columbia CPA requires the court to certify claims as class proceedings where all the following requirements are met: a.
+The pleadings disclose a cause of action, b. There is an identifiable class, c.
+The claims raise common issues, d. A class proceeding would be the preferable procedure for the fair and efficient resolution of the common issues, and e. There is a suitable representative plaintiff.
+Section 4(2) requires the court to address the question whether a class proceeding would be preferable by reference to all relevant matters, including a list of five which are loosely similar to those in the CATs rule 79(2).
+Power to award aggregate damages in class proceedings is conferred by section 29, but the suitability of the case for an award of aggregate damages is not one of the relevant factors listed in section 4(2).
+The leading case on the certification of class proceedings in Canada is the decision of the Canadian Supreme Court in Pro Sys Consultants Ltd v Microsoft Corpn [2013] SCC 57 in 2013, on appeal from British Columbia.
+The Supreme Court restored an order for the certification of class proceedings made at first instance, which had been set aside by the BC Court of Appeal.
+The claims were brought on behalf of the ultimate consumers of computer software after an alleged unlawful overcharge by Microsoft which it was claimed had been passed on by the intermediate merchants.
+For present purposes there were two relevant conclusions.
+The first was that the threshold test for establishing that the pleadings disclosed a cause of action was the equivalent of the strike out test in English civil procedure.
+The second was that the threshold for the establishment of the other conditions for certification was that there should be some basis in fact for a conclusion that the requirement was met.
+This low threshold, derived from the Supreme Courts earlier decision in the Hollick case, was not a merits test, applied to the claim itself.
+Rather the question was whether the applicant could show that there was some factual basis for thinking that the procedural requirements for a class action were satisfied, so that the action was not doomed to failure at the merits stage by reason of a failure of one or more of those requirements: see per Rothstein J at paras 99 to 105.
+The standard of proof at the certification stage came nowhere near a balance of probabilities.
+One of the many issues in the Microsoft case was whether the requirement for common issues was satisfied.
+In a passage which has come to assume a central place in the submissions in this case, at all levels, Rothstein J said this, at para 118, about the expert methodology put forward in support of the claim: In my view, the expert methodology must be sufficiently credible or plausible to establish some basis in fact for the commonality requirement.
+This means that the methodology must offer a realistic prospect of establishing loss on a class wide basis so that, if the overcharge is eventually established at the trial of the common issues, there is a means by which to demonstrate that it is common to the class (ie that passing on has occurred).
+The methodology cannot be purely theoretical or hypothetical but must be grounded in the facts of the particular case in question.
+There must be some evidence of the availability of the data to which the methodology is to be applied.
+Subsequent reported decisions in Canada have fortified this low threshold approach to meeting the conditions for certification.
+In Ewert v Nippon Yusen Kabushiki Kaisha [2019] BCCA 187, paras 105 to 109 the BC Court of Appeal warned against imposing an excessive burden on the provision of expert evidence about the likely availability of data at the certification stage, in particular because it necessarily preceded the processes of disclosure which would become available after certification.
+The some basis in fact test required only a minimum evidentiary basis and was not an onerous one.
+As recently as September 2019 the Supreme Court of Canada affirmed the approach taken to certification in the Microsoft case, in Pioneer Corpn v Godfrey [2019] SCC 42, paras 106 to 108.
+I regard the Canadian jurisprudence as persuasive in the UK not only because of the greater experience of their courts in the conduct of class actions but also because of the substantial similarity of purpose underlying both their legislation and ours.
+Nonetheless in the analysis which follows I base myself firmly on the true construction of the UK legislation, set against the background of the common law and civil procedure against which it falls to be construed.
+The Parties Submissions
+The main submissions of counsel for Mastercard were that the CATs judgment disclosed no error of law, that its treatment of the issue as to the suitability of the claims for aggregate damages was both expressly and in substance based upon the Microsoft criteria, and that the CAT was entitled to take into account at the certification stage the fact that Mr Merricks distribution method did nothing to implement the compensatory principle in its application to individual consumers.
+In particular the CAT was entitled to identify each of the two particular factors (suitability for aggregate damages and distribution method) as sufficient on its own to require certification to be refused.
+Further the CAT was entitled to ask questions of Mr Merricks experts and to permit limited cross examination for the purpose of clarifying their proposed methodology in this very large and complex case.
+For their part counsel for Mr Merricks broadly supported the criticisms made of the CATs judgment by the Court of Appeal.
+In addition they sought to rely upon supplementary expert evidence, served after the hearing before the CAT, which the Court of Appeal had found it unnecessary to consider.
+This court looked at the material de bene esse but I have not found it necessary to consider it either.
+Analysis
+An appreciation of the legal requirements of the certification process, and in particular their level of severity, needs to be derived from setting the express statutory provisions of the Act and the Rules in their context as a special part of UK civil procedure, with due regard paid to their purpose.
+Collective proceedings are a special form of civil procedure for the vindication of private rights, designed to provide access to justice for that purpose where the ordinary forms of individual civil claim have proved inadequate for the purpose.
+The claims which are enabled to be pursued collectively could all, at least in theory, be individually pursued by ordinary claim, in England and Wales under the CPR, under the protection of the Overriding Objective.
+It follows that it should not lightly be assumed that the collective process imposes restrictions upon claimants as a class which the law and rules of procedure for individual claims would not impose.
+The issues which gave rise to the forensic difficulties which led to the CATs refusal of certification in the present case all relate to the quantification of damages, both at the class level (where the claims were held to be unsuitable for aggregate damages) and at the individual level (where the method of distribution was found to pay insufficient respect to the compensatory principle).
+In this follow on claim Mr Merricks and the class he seeks to represent already have a finding of breach of statutory duty in their favour.
+All they would need as individual claimants to establish a cause of action would be to prove that the breach caused them some more than purely nominal loss.
+In order to be entitled to a trial of that claim they would (again individually) need only to be able to pass the strike out and (if necessary) summary judgment test: ie to show that the claim as pleaded raises a triable issue that they have suffered some loss from the breach of duty.
+Where in ordinary civil proceedings a claimant establishes an entitlement to trial in that sense, the court does not then deprive the claimant of a trial merely because of forensic difficulties in quantifying damages, once there is a sufficient basis to demonstrate a triable issue whether some more than nominal loss has been suffered.
+Once that hurdle is passed, the claimant is entitled to have the court quantify their loss, almost ex debito justitiae.
+There are cases where the court has to do the best it can upon the basis of exiguous evidence.
+There are cases, such as general damages for pain and suffering in personal injury claims, where quantification defies scientific analysis, where the court has to apply general tariffs developed over many years by the common law, and now enshrined in the Judicial College Guidelines for the Assessment of General Damages in Personal Injury.
+In many cases the court unashamedly resorts to an element of guesswork: see generally McGregor on Damages, 20th ed (2017), paras 10 001 to 10 007.
+A resort to informed guesswork rather than (or in aid of) scientific calculation is of particular importance when (as here) the court has to proceed by reference to a hypothetical or counterfactual state of affairs.
+The loss may have to be measured by reference to what the court thinks a claimant would have done if the defendant had not committed the wrong complained of.
+Sometimes the quantification depends upon what a third party would have done, and the court has to evaluate the claimants loss of a chance.
+Chaplin v Hicks [1911] 2 KB 786 is a famous example.
+At p 792 Vaughan Williams LJ said this: In early days when it was necessary to assess damages, no rules were laid down by the courts to guide juries in the assessment of damages for breach of contract; it was left to the jury absolutely.
+But in course of time judges began to give advice to juries; as the stress of commerce increased, let us say between the reigns of Queen Elizabeth and Queen Victoria, rule after rule was suggested by way of advice to juries by the judges when damages for breach of contract had to be assessed.
+But from first to last there were, as there are now, many cases in which it was difficult to apply definite rules.
+In the case of a breach of a contract for the delivery of goods the damages are usually supplied by the fact of there being a market in which similar goods can be immediately bought, and the difference between the contract price and the price given for the substituted goods in the open market is the measure of damages; that rule has been always recognized.
+Sometimes, however, there is no market for the particular class of goods; but no one has ever suggested that, because there is no market, there are no damages.
+In such a case the jury must do the best they can, and it may be that the amount of their verdict will really be a matter of guesswork.
+But the fact that damages cannot be assessed with certainty does not relieve the wrong doer of the necessity of paying damages for his breach of contract Fletcher Moulton LJ emphasised the entitlement of the claimant to an assessment, at p 796: The present case is a typical one.
+From a body of 6,000, who sent in their photographs, a smaller body of 50 was formed, of which the plaintiff was one, and among that smaller body 12 prizes were allotted for distribution; by reason of the defendants breach of contract she has lost all the advantage of being in the limited competition, and she is entitled to have her loss estimated.
+I cannot lay down any rule as to the measure of damages in such a case; this must be left to the good sense of the jury.
+This principle of entitlement to quantification notwithstanding forensic difficulty has stood the test of time and outlasted the involvement of civil juries in the assessment of damages.
+In Davies v Taylor [1974] AC 207, 212, Lord Reid said: There can be no question of proving as a fact that she would have received a certain amount of benefit.
+No one can know what might have happened had he not been killed.
+But the value of the prospect, chance or probability of support can be estimated by taking all significant factors into account.
+But, perhaps on an application of the de minimis principle, speculative possibilities would be ignored.
+I think that must apply equally whether the contention is that for some reason or reasons the support might have increased, decreased or ceased altogether.
+The court or jury must do its best to evaluate all the chances large or small, favourable or unfavourable.
+For a practical example of the application of this principle in the context of infringement of intellectual property rights see Experience Hendrix LLC v Times Newspapers Ltd [2010] EWHC 1986 (Ch), paras 204 205 per Blackburne J.
+This unavoidable requirement for quantification in order to do justice is not limited to damages.
+There are occasions where the court has to quantify or value some right or species of property and does not allow itself to be put off by forensic difficulties, however severe.
+For example a rateable value may have to be assessed in relation to property, such as a stately home, where there are no real comparables at all, and it has never been let.
+Or a market rent may have to be assessed as at a date when there are no remotely contemporaneous comparables.
+Assisted by experts, the court makes use of the best evidence available, often by making quite broad assumptions about market movements over a long period of time.
+See generally Dennard v PricewaterhouseCoopers [2010] EWHC 812 (Ch), para 182 per Vos J and Capita Alternative Fund Services (Guernsey) Ltd v Drivers Jonas (A Firm) [2012] EWCA Civ 1417, para 43 per Gross LJ.
+Sometimes the court has to determine the beneficial shares of cohabitees in co owned residential property, where there is no reliable evidence of the parties intentions.
+In such cases the court now broadly applies the maxim that equality is equity: see Stack v Dowden [2007] UKHL 17; [2007] 2 AC 432.
+In none of these cases does the court throw up its hands and bring the proceedings to an end before trial because the necessary evidence is exiguous, difficult to interpret or of questionable reliability.
+In relation to damages, this fundamental requirement of justice that the court must do its best on the evidence available is often labelled the broad axe or broad brush principle: see Watson Laidlaw & Co Ltd v Pott Cassels & Williamson (A Firm) 1914 SC (HL) 18, 29 30 per Lord Shaw.
+It is fully applicable in competition cases.
+ASDA Stores Ltd v Mastercard Inc [2017] EWHC 93 (Comm) was a claim by an individual merchant arising out of (inter alia) the same breach as in these proceedings.
+After citing the Watson Laidlaw case Popplewell J said, at para 306: The broad axe metaphor appears to originate in Scotland in the 19th century.
+The more creative painting metaphor of a broad brush is sometimes used.
+In either event the sense is clear.
+The court will not allow an unreasonable insistence on precision to defeat the justice of compensating a claimant for infringement of his rights.
+There is European guidance to the same effect.
+In a Commission Staff Working Document entitled Practical Guide on Quantifying Harm in Actions for Damages based on articles 101 and 102, C (2013) 3440, the Commission said: 16.
+It is impossible to know with certainty how a market would have exactly evolved in the absence of the infringement of article 101 or 102 TFEU.
+Prices, sales volumes, and profit margins depend on a range of factors and complex, often strategic interactions between market participants that are not easily estimated.
+Estimation of the hypothetical non infringement scenario will thus by definition rely on a number of assumptions.
+In practice, the unavailability or inaccessibility of data will often add to this intrinsic limitation. 17.
+For these reasons, quantification of harm in competition cases is, by its very nature, subject to considerable limits as to the degree of certainty and precision that can be expected.
+There cannot be a single true value of the harm suffered that could be determined, but only best estimates relying on assumptions and approximations.
+Applicable national legal rules and their interpretation should reflect these inherent limits in the quantification of harm in damages actions for breaches of articles 101 and 102 TFEU in accordance with the EU law principle of effectiveness so that the exercise of the right to damages guaranteed by the Treaty is not made practically impossible or excessively difficult.
+There is an unresolved question, when there remains uncertainty which cannot be fully resolved, whether the benefit of the doubt should be given to the claimant or to the defendant.
+It is unnecessary to deal with it on this appeal, and the court did not seek, or have, the parties submissions on it.
+But it is clear from the above citations that justice requires that the damages be quantified for the twin reasons of vindicating the claimants rights and exacting appropriate payment by the defendant to reflect the wrong done.
+In the present context that second reason is fortified by the perception that anti competitive conduct may never be effectively restrained in the future if wrongdoers cannot be brought to book by the masses of individual consumers who may bear the ultimate loss from misconduct which has already occurred.
+There is nothing in the statutory scheme for collective proceedings which suggests, expressly or by implication, that this principle of justice, that claimants who have suffered more than nominal loss by reason of the defendants breach should have their damages quantified by the court doing the best it can on the available evidence, is in any way watered down in collective proceedings.
+Nor that the gatekeeping function of the CAT at the certification stage should be an occasion when a case which has not failed the strike out or summary judgment tests should nonetheless not go to trial because of difficulties in the quantification of damages.
+On the contrary, as the Court of Appeal observed at para 59, a refusal of certification of a case like the present is likely to make it certain that the rights of consumers arising out of a proven infringement will never be vindicated, because individual claims are likely to be a practical impossibility.
+The evident purpose of the statutory scheme was to facilitate rather than to impede the vindication of those rights.
+As Mr Paul Harris QC for Mr Merricks submitted, it is useful to ask whether the forensic difficulties which the CAT considered made the class claim unsuitable for aggregate damages, would have been any easier for an individual claimant to surmount.
+His answer, with which I would agree, was they would not be.
+The particular difficulties identified by the CAT lay in establishing the overall proportion of any overcharge passed on by merchants to consumers, by means of a weighted average of merchant pass on in each sector of the retail market for goods or services, due to the probable dearth of relevant data for some sectors of the market.
+That overall amount is equivalent to the loss suffered by consumers as a class.
+But an individual consumer would still have to address the same issue, at least for the years in which he or she was making purchases from merchants, in every sector of the retail market in which that consumer was active.
+If that is right why, one asks, should a forensic difficulty in quantifying loss which would not stop an individual consumers claim going to trial (assuming it disclosed a triable issue) stop a class claim at the certification stage?
+The answer depends to some extent upon the meaning of suitable as descriptive of claims both generally under section 47B in the phrase suitable to be brought in collective proceedings and under rule 79(2)(f) in the phrase suitable for an aggregate award of damages.
+It might mean (i) suitable in the abstract, or (ii) suitable in a relative sense: ie suitable to be brought in collective proceedings rather than individual proceedings, and suitable for an award of aggregate rather than individual damages.
+The British Columbia CPA solves this conundrum by using the word preferable instead of suitable, a word plainly asking the question preferable to what?.
+The different words used, as between BC and the UK, are at first sight striking.
+But a reflection upon the central purpose of the collective proceedings structure, which has substantially the same purpose in the UK as in BC, suggests that suitable to be brought in collective proceedings has the second of those two meanings.
+This is because collective proceedings have been made available as an alternative to individual claims, where their procedure may be supposed to deal adequately with, or replace, aspects of the individual claim procedure which have been shown to make it unsuitable for the obtaining of redress at the individual consumer level for unlawful anti competitive behaviour.
+The same analysis leads to the same conclusion about the meaning of suitable for an award of aggregate damages under rule 79(2)(f).
+The pursuit of a multitude of individually assessed claims for damages, which is all that is possible in individual claims under the ordinary civil procedure, is both burdensome for the court and usually disproportionate for the parties.
+Individually assessed damages may also be pursued in collective proceedings, but the alternative aggregate basis radically dissolves those disadvantages, both for the court and for all the parties.
+In general, although there may be exceptions, defendants are only interested in the quantification of their overall (ie aggregate) liability.
+For the claimants the choice between individual or aggregate assessment will usually be a question of proportionality.
+Another basic feature of the law and procedure for the determination of civil claims for damages is of course the compensatory principle, as the CAT recognised.
+It is another important element of the background against which the statutory scheme for collective proceedings and aggregate awards of damages has to be understood.
+But in sharp contrast with the principle that justice requires the court to do what it can with the evidence when quantifying damages, which is unaffected by the new structure, the compensatory principle is expressly, and radically, modified.
+Where aggregate damages are to be awarded, section 47C of the Act removes the ordinary requirement for the separate assessment of each claimants loss in the plainest terms.
+Nothing in the provisions of the Act or the Rules in relation to the distribution of a collective award among the class puts it back again.
+The only requirement, implied because distribution is judicially supervised, is that it should be just, in the sense of being fair and reasonable.
+Moving away from the general background of the law and procedure for civil claims, the following points need emphasis about the statutory structure itself.
+First, the Act and Rules make it clear that, subject to two exceptions, the certification process is not about, and does not involve, a merits test.
+This is because the power of the CAT, on application by a party or of its own motion, to strike out or grant summary judgment is dealt with separately from certification.
+The Rules make separate provision for strike out and summary judgment in rules 41 and 43 respectively, which applies to collective proceedings as to other proceedings before the CAT.
+There is no requirement at the certification stage for the CAT to assess whether the collective claim form, or the underlying claims, would pass any other merits test, or survive a strike out or summary judgment application, save that the CAT may, as a matter of discretion, hear such an application at the same time as it hears the application for a CPO: see rule 89(4).
+This is the first exception, but inapplicable in the present case because no such application was made.
+The second exception is that rule 79(3)(a) makes express reference to the strength of the claims, but only in the context of the choice between opt in and opt out proceedings.
+It does so in terms which, by the use of the words the following matters additional to the matters set out in paragraph (2), confirm that the factors relevant to whether the claims are suitable to be brought in collective proceedings do not include a review of the merits.
+By contrast with the conditions for certification in British Columbia, which do require that the pleadings disclose a cause of action, not even this basic merits threshold is prescribed in the UK by the Act or the Rules.
+Secondly, the listing of a number of factors potentially relevant to the question whether the claims are suitable to be brought in collective proceedings in rule 79(2), within the general rubric all matters it thinks fit shows that the CAT is expected to conduct a value judgment about suitability in which the listed and other factors are weighed in the balance.
+The listed factors are not separate suitability hurdles, each of which the applicant for a CPO must surmount.
+The hurdles (ie preconditions to eligibility under section 47B(5)(b) and (6)) are only that the claims are brought on behalf of an identifiable class, that they raise common issues and that they are suitable to be brought in collective proceedings: see also rule 79(1).
+In particular it is not a condition that the claims are suitable for an award of aggregate damages.
+That is only one of many relevant factors in the suitability assessment under rule 79(2).
+Thirdly, although the existence of common issues is a hurdle under section 47B(6) and rule 79(1)(b), in the sense that if none is raised the CAT may not make a CPO, it is also a factor relevant to suitability under rule 79(2).
+There the question is not whether there are common issues but whether collective proceedings are an appropriate means for the fair and efficient resolution of such common issues as are identified.
+At first sight this second inclusion of the common issues question under rule 79(2)(a) seems a little odd.
+It may contemplate a situation where a common issue may more fairly and economically be resolved by a procedure other than collective proceedings, perhaps by an individual test case.
+But it may also be a potential plus factor in the balance, where a common issue is ideal for determination in collective proceedings, or where all the big issues in a particular dispute are common issues.
+However that may be, it must certainly require the CAT first to determine, as it tried to do, what are the main issues in a particular case, and whether or not they are common issues.
+Unfortunately, the CAT got the common issue question wrong in relation to one of the two main issues in the present dispute, namely the merchant pass on issue, finding that it was not a common issue at all.
+That was the very issue about which the forensic difficulties identified by the CAT led it to refuse certification.
+Thus, both the two main issues in the present dispute are common issues, whereas the CAT considered that only one of them was.
+Error of law
+With the assistance of that analysis I turn to the question whether the refusal of a CPO in the present case by the CAT was vitiated by an error of law.
+I do so bearing well in mind that the CAT has unique expertise in making sophisticated economic analysis of a wide variety of data in competition cases, that it is an expert tribunal constituted for that purpose, with economists as well as lawyers on its panels of judges, and that it is the tribunal to which Parliament has entrusted both the exclusive jurisdiction over collective proceedings and, in particular, the conduct of the task of certification, with wide discretionary power for that purpose.
+In my judgment the CATs decision was vitiated by error of law.
+My reasons largely but not entirely concur with those of the Court of Appeal, but it is appropriate that I set out my own reasoning in full.
+I will do so mainly by separate treatment of the CATs two reasons for refusing certification (aggregate damages and distribution method), but I regard the question of certification as involving a single, albeit multi factorial, balancing exercise in which too much compartmentalisation may obscure the true task.
+In summary: a. The CAT got the common issue question wrong in relation to the merchant pass on issue, and therefore inevitably failed to include, as an important plus factor in the balance, the fact that this issue, and indeed both the main issues in the case, were common issues.
+That was an issue of law. b.
+The CAT treated the suitability of the claims for aggregate damages as if it were a hurdle rather than merely a factor to be weighed in the balance.
+That was wrong in law, because it misconstrued rule 79(2). c.
+In any event the CAT failed to construe suitability (in both of the respects in which it played a part in the process) in the relative sense, and thereby failed to take into account the need to consider whether individual proceedings were a relevant alternative, which they plainly were not, and whether the same difficulties as affected quantification in a collective claim would in any event afflict an individual claimant. d.
+The CAT did not take into account the general principle that the court must do what it can with the evidence available when quantifying damages, and therefore allowed undoubted forensic difficulties and shortcomings in the likely availability of data to lead it to a conclusion that claimants with a real prospect of (some) success should be denied a trial by the only procedure available to them in practice. e.
+The CAT was wrong in law to regard respect for the compensatory principle as an essential element in the distribution of aggregate damages. f.
+By contrast I would not criticise the CAT, as did the Court of Appeal, for having conducted a trial within a trial at the certification stage. g.
+Nor do I regard it as inevitably premature for the CAT to have regard to a proposed distribution method at the certification stage.
+Common Issues
+Having decided that the merchant pass on issue was not a common issue, the CAT continued, at para 67: However, that in itself does not mean that this case is unsuitable for a CPO.
+There is no requirement that all the significant issues in the claims should be common issues, or indeed and by contrast with the position under the Federal Rules of Civil Procedure in the United States that the common issues should predominate over the individual issues.
+What is required, in the words of section 47(6) CA, is that the claims are nonetheless suitable to be brought in collective proceedings.
+Here, the applicant seeks to address the problem of pass through by submitting that the Tribunal can arrive at an aggregate award of damages, which would then be distributed to the class members.
+At the beginning of this passage the CAT correctly addresses the common issues requirement as a certification hurdle (under section 47B(6)).
+It had already correctly concluded that there was nonetheless another common issue (the overcharge issue), sufficient to surmount the common issues hurdle.
+But it then treated the assertion (which it later rejected) that the case was suitable for aggregate damages as a sort of substitute for Mr Merricks failure to show that the merchant pass on issue was a common issue.
+Had the CAT concluded (as the Court of Appeal held and which is not appealed) that the merchant pass on issue was a common issue, then this would, or should, have been a powerful factor in favour of certification, under rule 79(2)(a).
+As already noted it meant that both the main issues in the case were common issues.
+In my view the remainder of the balancing exercise conducted by the CAT never recovered from a starting point in which, far from being treated as a major plus factor, the presence of common issues was regarded as being at the low level sufficient only to surmount the eligibility hurdle.
+On any view, it was a sufficiently important error to require the assessment of suitability to be carried out again.
+Suitability for Aggregate Damages Not a Hurdle
+The CAT concluded its review of the suitability of the case for aggregate damages at para 78.
+There follows a section on Distribution on which Mr Merricks also failed (paras 79 to 91) and a section on Authorisation of the Class Representative on which he succeeded (paras 92 to 104).
+There is then the stark conclusion at para 141(a) that certification should be refused.
+There is no express balancing of factors for or against certification, and the reader is, as the parties both agreed, left to assume that the CAT regarded both the unsuitability of the case for aggregate damages and the failure of the distribution proposal to accord with the compensatory principle as each being, separately, enough to require certification to be refused.
+Mr Mark Hoskins QC for Mastercard submitted, correctly, that a tribunal charged with a multi factorial balancing exercise may perfectly properly regard one factor among many as sufficient to compel a particular outcome.
+But in such a case, and in particular where some factors are statutory hurdles and others are not, I consider it incumbent upon a tribunal which regards a factor which is not a statutory hurdle but is nonetheless decisive to make that clear in express terms.
+Suitability of a case for aggregate damages is plainly not a hurdle.
+It is just one of many factors relevant to suitability of the claims for collective proceedings under rule 79(2).
+It may well be that it was the CATs failure to recognise that the merchant pass on issue was a common issue that led to it treating the aggregate damages question as being of decisive importance.
+The two factors are closely linked because it was the forensic difficulties attending the resolution of the extent of merchant pass on which led the CAT to the conclusion that the case was unsuitable for aggregate damages.
+Relative Suitability
+I have set out at length why I regard the suitability test as being best understood in a relative rather than abstract sense.
+It is clear that the CAT did not make any comparison between collective and individual proceedings when assessing the forensic difficulties lying in the path of the resolution of the merchant pass on issue.
+In my view it is clear that they would have been equally formidable to a typical individual claimant, seeking compensation for increased retail prices over the sectors of the market in which he or she was accustomed to make purchases.
+That was Mr Harriss submission, and Mr Hoskins had no cogent answer to it.
+If those difficulties would have been insufficient to deny a trial to an individual claimant who could show an arguable case to have suffered some loss, they should not, in principle, have been sufficient to lead to a denial of certification for collective proceedings.
+Quantifying Damages the Tribunal must do what it can with the available
+evidence
+I regard the CATs failure to give effect to this basic principle of civil procedure as the most serious of the errors of law discernible in its judgment.
+I start by acknowledging the expertise of the CATs factual review of the difficulties.
+At the risk of over simplification it may be summarised in this way.
+Mr Merricks expert team proposed to deal with the merchant pass on issue by deriving a weighted average pass on percentage from a review of each relevant market sector during the whole of the Infringement Period.
+For that purpose they proposed to divide the retail market into some 11 sectors.
+But the CAT reviewed a report from RBB Economics entitled Cost pass through: theory, measurement, and potential policy implications prepared for the Office of Fair Trading in 2014, which concluded that, although in some sectors there was reliable data, in many others the data was incomplete and difficult to interpret.
+Further, although it might be that litigation between retailers and Mastercard might yield further data by way of disclosure in these proceedings, that would be unlikely to cover the earlier part of the Infringement Period and would involve a very burdensome and hugely expensive exercise.
+But the CATs assessment fell well short of suggesting that Mr Merricks would be unable at trial to deploy data sufficient to have a reasonable prospect of showing that the represented class had suffered any significant loss.
+The fact that data is likely to turn out to be incomplete and difficult to interpret, and that its assembly may involve burdensome and expensive processes of disclosure are not good reasons for a court or tribunal refusing a trial to an individual or to a large class who have a reasonable prospect of showing they have suffered some loss from an already established breach of statutory duty.
+In the context of suitability for collective proceedings or aggregate damages, it is no answer to say that members of the class can bring individual claims.
+They would face the same forensic difficulties in establishing merchant pass on, and insuperable funding obstacles on their own, litigating for small sums for which the cost of recovery would be disproportionately large.
+The incompleteness of data and the difficulties of interpreting what survives are frequent problems with which the civil courts and tribunals wrestle on a daily basis.
+The likely cost and burden of disclosure may well require skilled case management.
+But neither justifies the denial of practicable access to justice to a litigant or class of litigants who have a triable cause of action, merely because it will make quantification of their loss very difficult and expensive.
+The present case may well present difficulties of those kinds on a grand scale, but they are difficulties which the CAT is probably uniquely qualified to surmount.
+It may be that gaps in the data will in some instances be able to be bridged by techniques of extrapolation or interpolation, and that some gaps will be unbridgeable, so that nothing is recovered in relation to particular market sectors or for parts of the Infringement Period.
+Nonetheless it is a task which the CAT owes a duty to the represented class to carry out, as best it can with the evidence that eventually proves to be available.
+Nor can it be ignored that ADR may help, either in relation to narrowing the issues, or towards an overall settlement.
+The Court of Appeal responded to the same aspect of the CATs reasoning by concluding that it amounted to the imposition of an inappropriately high merits threshold at the certification stage.
+While I would agree that such a merits threshold should not be applied, beyond the strike out or summary judgment levels, I would prefer to regard this part of the CATs analysis as more directed to the issue about suitability for collective proceedings.
+But the boundary between issues as to the likely availability of data at trial and issues as to the merits is by no means easy to define, or to identify in practice.
+That is why I have described my reasons for concluding that the CAT erred in law as closely allied with those of the Court of Appeal.
+Compensatory principle not essential in distribution of aggregate damages
+I have already noted that section 47C of the Act radically alters the established common law compensatory principle by removing the requirement to assess individual loss in an aggregate damages case, and that nothing in the Act or the Rules puts it back again, for the purposes of distribution.
+The CAT took the opposite view.
+At para 79 it said that in a case where the quantification of aggregate damages takes no account of individual loss, then the process of distribution must, in some way, put it back.
+Speaking of aggregate damages determined in that way, the CAT said: Such an approach can only be permissible, in our view, if there is then a reasonable and practicable means of getting back to the calculation of individual compensation.
+At para 88 the CAT continued: . even if it were possible to determine with some broad degree of accuracy the weighted average for pass through and thus to estimate the aggregate loss for the class each year, it is the significance of the individual issues remaining which mean that it is impossible in this case to see how the payments to individuals could be determined on any reasonable basis. this application for over 46m claims to be pursued by collective proceedings would not result in damages being paid to those claimants in accordance with that governing principle at all.
+For reasons already given, I consider that this approach discloses a clear error in law.
+A central purpose of the power to award aggregate damages in collective proceedings is to avoid the need for individual assessment of loss.
+While there may be many cases in which some approximation towards individual loss may be achieved by a proposed distribution method, there will be some where the mechanics will be likely to be so difficult and disproportionate, eg because of the modest amounts likely to be recovered by individuals in a large class, that some other method may be more reasonable, fair and therefore more just.
+For that purpose the statutory scheme provides scope for members within the class to be heard about the proposed distribution method.
+In many cases the selection of the fairest method will best be left until the size of the class and the amount of the aggregate damages are known.
+Trial within a trial
+The Court of Appeal regarded the questioning and cross examination of Mr Merricks experts at the certification hearing as an inappropriate trial within a trial, indicative of the imposition of an overly high merits threshold.
+I would not criticise the CAT on that account.
+The CATs own questioning of the experts achieved both greater clarity and a considerable improvement in the quantification methodology then being proposed on Mr Merricks behalf, in a case of unprecedented size and complexity.
+It was by no means hostile or adversarial, and the limited cross examination by counsel for Mastercard was closely supervised by the CAT.
+It may well be that questioning and cross examination of experts both should and will be a rare occurrence at certification hearings.
+But the present case is in my view one where an exception was justified.
+Prematurity
+Finally, the Court of Appeal regarded any consideration of distribution proposals at, and for the purposes of, the certification stage as premature.
+I agree that this will generally be true, not least because issues about distribution mainly engage the interests of the represented class inter se, rather than those of the proposed defendant.
+But there may be cases where the issues as to suitability of the claims for collective proceedings will be better addressed when the whole of the representatives proposed scheme, including distribution proposals, are looked at in the round.
+In the present case there was nothing in the proposals for distribution I would therefore dismiss the appeal.
+I agree with the Court of Appeal that which militated against certification, and an inappropriate element in the distribution proposals would normally be better dealt with at a later stage.
+Disposition
+the application for a CPO should be remitted to the CAT.
+Lord Kerr presided at the hearing of this appeal, participated fully in the deliberations which followed the hearing and oversaw the preparation and discussion of the judgments.
+He agreed that the appeal should be dismissed for the reasons set out in this judgment prior to his retirement on 30 September 2020.
+There was a delay between the completion of the judgments and their being handed down to allow, in accordance with the Courts practice, the law reporters and counsel an opportunity to check the judgments for typographical errors and minor inaccuracies, and to enable a press summary of the judgments to be prepared.
+The judgments were accordingly circulated in draft to the parties legal advisers, with Lord Kerr and Lord Thomas recorded as agreeing with this judgment, and a consequent majority of three to two in favour of dismissing the appeal.
+After those administrative steps had been completed, and three days before judgment was due to be handed down, Lord Kerr sadly died.
+Following his death Lord Reed as President of the Supreme Court directed under section 43(4) of the Constitutional Reform Act 2005 that the panel for this appeal be re constituted as consisting of myself, Lord Sales, Lord Leggatt and Lord Thomas.
+Lord Sales and Lord Leggatt explain in their joint judgment why they agree that, in these circumstances, this appeal should be dismissed, notwithstanding their disagreement with the reasoning in this judgment.
+LORD SALES AND LORD LEGGATT:
+The Competition Appeal Tribunal (CAT) declined to certify these proceedings as a class action (or collective proceedings, in the language of the applicable legislation) for two distinct reasons: first, because in the CATs assessment the class of claims was not suitable for an aggregate award of damages and in those circumstances not suitable to be brought in collective proceedings; and second, because the class representative, Mr Merricks, did not propose to distribute any damages awarded in a way which would reflect the individual losses suffered by the members of the class.
+We agree with Lord Briggs and the Court of Appeal that the CATs second reason was unsound.
+However, in our view its first reason was legitimate.
+We consider that the CATs assessment that the claims were not suitable for an aggregate award of damages, and on that account not suitable to be brought in collective proceedings, was lawful and the Court of Appeal should not have interfered with it.
+We recognise, however, that ours is the minority view.
+Lord Kerr, well before his untimely death on 1 December 2020, had expressed his agreement with the final version of the judgment of Lord Briggs and would have been recorded as agreeing with it.
+Were the result of his death now to be that the court is left evenly divided, the case would have to be re argued before a different constitution.
+As well as being hugely wasteful of resources, this would not be a just outcome.
+It would be a consequence simply of the happenstance of Lord Kerrs death occurring during the interval between the completion of the judgments and the date when they were formally handed down: a circumstance which has no bearing on the just decision of this appeal.
+We therefore agree that the appeal should be dismissed.
+We nevertheless explain the reasons why, had our view been shared by the other members of the court, we would have allowed Mastercards appeal.
+Class actions
+A new class action regime was introduced in the United Kingdom in 2015 as part of a wider set of reforms of private actions for breaches of competition law.
+The central rationale for any class action regime is that it enables claimants to benefit from the same economies of scale as are already naturally enjoyed by the defendant as a single litigant.
+It does so by allowing numerous individual claims to be combined into a single claim brought on behalf of a class of persons.
+Such a procedural device is especially valuable where a defendants wrongful conduct has caused harm to many people but each individual claim is too small to justify the expense of a separate lawsuit.
+Without such a device what may in aggregate be very substantial harm is likely to go unredressed.
+As Judge Posner put it in Carnegie v Household International Inc (2004) 376 F 3d 656, 661, a decision of the US Seventh Circuit Court of Appeals: The realistic alternative to a class action is not 17m individual suits, but zero individual suits, as only a lunatic or a fanatic sues for $30.
+This problem has historically impeded the bringing of private actions to seek redress for breaches of competition law in the UK.
+As the Government observed in explaining its decision to introduce a class action regime in this field: Breaches of competition law, such as price fixing, often involve very large numbers of people each losing a small amount, meaning it is not cost effective for any individual to bring a case to court.
+Allowing actions to be brought collectively would overcome this problem, allowing consumers and businesses to get back the money that is rightfully theirs as well as acting as a further deterrent to anyone thinking of breaking the law.
+See Private Actions in Competition Law: A consultation on options for reform government response (January 2013), p 6, para 2.
+Experience in other jurisdictions, however, has also shown that a class action regime presents risks.
+In particular, there is a risk that speculative actions may be brought claiming large amounts of damages even where there is no realistic prospect of recovering such damages, but where the size of the claims and the heavy costs of defending the action may be used as a threat to induce defendants to settle.
+In introducing the new regime in the UK, the Government was alert to this risk.
+Immediately after the passage quoted above, its response to the consultation on options for reform continued: Recognising the concerns raised that this could lead to frivolous or unmeritorious litigation, the Government is introducing a set of strong safeguards These strong safeguards were said to include strict judicial certification of cases so that only meritorious cases are taken forward.
+This appeal concerns the proper test for such certification and the nature and degree of the scrutiny which it is permissible for the CAT to undertake in operating this safeguard in the collective proceedings regime.
+Key features of the collective proceedings regime
+The regime was established by the Consumer Rights Act 2015, which made amendments to the Competition Act 1998 (the Act), and by new rules applicable to proceedings before the CAT: the Competition Appeal Tribunal Rules 2015 (SI 2015/1648).
+The amendments to the Act and the new rules (the CAT Rules) came into force at the same time on 1 October 2015.
+The regime is limited in scope to claims to which section 47A of the Act applies.
+These are, broadly speaking, claims for redress for loss or damage caused by an infringement or alleged infringement of competition law.
+Section 47B makes provision for collective proceedings whereby two or more such claims may be combined in one action brought before the CAT.
+Although claims to which section 47A applies can be brought in the CAT or in the courts, collective proceedings can only be brought in the CAT.
+It is clear from the terms of the Act and the CAT Rules that Parliament intended that the CAT should have a substantive role to play in deciding whether claims seeking redress for breaches of competition law may be pursued as collective proceedings and in actively managing such claims.
+The CAT is a specialist tribunal which is particularly well suited for this role.
+Each panel includes an economist and its legal members have extensive experience in the field.
+The CAT has considerable experience and expertise in assessing matters such as evidence from expert economists, economic data and the likely impact and practical workability of economic theories in addressing claims alleging anti competitive conduct.
+Group actions which enable a (potentially large) number of claimants to litigate common issues together, allowing them to share costs and obtain one judgment which is binding in relation to all their claims, have long been possible in England and Wales.
+Collective proceedings brought under section 47B of the Act, however, have two notable potential advantages for claimants compared to such group actions.
+They allow the legal rights of a class of people to be determined without the express consent of the members of the class; and they enable liability to be established and damages recovered without the need to prove that individual members of the class have suffered loss it being sufficient to show that loss has been suffered by the class viewed as a whole.
+Each of these features requires some amplification.
+Opt out collective proceedings
+Generally, legal proceedings may only be brought with the authority of the persons whose rights are sought to be enforced.
+Proceedings brought without such authority may be struck out and the person responsible for commencing them held liable to the defendant in damages.
+A significant innovation of the collective proceedings regime is the provision in section 47B(11) of the Act for opt out collective proceedings.
+These are proceedings brought by a representative on behalf of all the members of a class except any member who opts out by notifying the representative, in a manner and by a time specified, that his or her claim should not be included in the collective proceedings.
+This means that a person may become a claimant in collective proceedings without taking any affirmative step and, potentially, without even knowing of the existence of the proceedings and the fact that he or she is a claimant in them.
+This arrangement (which applies only to class members domiciled in the UK) is designed to facilitate access to legal redress for those who lack the awareness, capability or resolve required to take the positive step of opting in to legal proceedings.
+Aggregate damages
+A second major innovation (in terms of UK law) is effected by section 47C(2) of the Act, which provides: The tribunal may make an award of damages in collective proceedings without undertaking an assessment of the amount of damages recoverable in respect of the claim of each represented person.
+Such an award of damages is referred to in the CAT Rules as an aggregate award of damages: see rule 73(2).
+As pointed out by Professor Rachel Mulheron in an illuminating discussion of the present proceedings, there are two functions which a provision allowing damages to be awarded on an aggregate basis may in principle fulfil: see R Mulheron, Revisiting the Class Action Certification Matrix in Merricks v Mastercard Inc (2019) 30 Kings LJ 396, 412 417.
+The first concerns the quantification of loss.
+Where the liability of the defendant to the members of a class has been established, such a provision enables damages to be assessed by quantifying the loss suffered by the class as a whole, without the need to determine what loss each individual member of the class has suffered.
+This involves a departure from the normal compensatory principle, whereby the object of an award of damages for a civil wrong is to put the claimant (as an individual) in the same financial position as if the wrong had not occurred.
+It is clear that section 47C(2) is intended to serve this purpose.
+A provision for aggregate damages may, however, go further and serve an additional purpose.
+It may also permit liability to be established on a class wide basis without the need for individual members of the class to prove that they have suffered loss, even though this would otherwise be an essential element of their claim.
+As Professor Mulheron notes, the nature of a claim for a breach of competition law is that it constitutes a claim in tort for a breach of statutory duty.
+Under the general law such a claim is not actionable without proof of loss.
+In other words, a defendant commits no wrong and incurs no liability towards a claimant unless its anti competitive behaviour causes that claimant to suffer financial harm.
+An aggregate damages provision may dispense with this requirement by permitting liability towards all the members of a class to be established by proof that the class as a whole has suffered loss without the need to show that any individual member of the class has done so.
+The Canadian legislation referred to by Lord Briggs has not been interpreted as allowing liability, as well as the quantum of loss, to be established on a class wide basis.
+The British Columbia Class Proceedings Act 1996, section 29(1), provides that a court may make an aggregate monetary award if (amongst other requirements) no questions of fact or law other than those relating to the assessment of monetary relief remain to be determined .
+In Pro Sys Consultants Ltd v Microsoft Corpn [2013] SCC 57 (Microsoft), paras 128 134, the Supreme Court of Canada held that this provision could not be used to establish proof of loss where this is an essential element of proving liability.
+Rothstein J said (at para 133): The [British Columbia legislation] was not intended to allow a group to prove a claim that no individual could.
+Rather, an important objective of the [legislation] is to allow individuals who have provable individual claims to band together to make it more feasible to pursue their claims.
+The UK legislation is not limited in this way.
+Section 47C(2) of the Act contains no wording comparable to that of section 29(1)(b) of the British Columbia Class Proceedings Act, quoted above.
+Section 47C(2) is phrased in broad terms and is properly read as dispensing with the requirement to undertake an assessment of the amount of damages recoverable in respect of the claim of each represented person for all purposes antecedent to an award of damages, including proof of liability as well as the quantification of loss.
+Such an interpretation better accords both with the language used and with the statutory objective of facilitating the recovery of loss caused to consumers by anti competitive behaviour.
+Certification
+A class action procedure which has these features provides a potent means of achieving access to justice for consumers.
+But it is also capable of being misused.
+The ability to bring proceedings on behalf of what may be a very large class of persons without obtaining their active consent and to recover damages without the need to show individual loss presents risks of the kind already mentioned, as well as giving rise to substantial administrative burdens and litigation costs.
+The risk that the enormous leveraging effect which such a class action device creates may be used oppressively or unfairly is exacerbated by the opportunities that it provides for profit.
+As the Court of Appeal observed in the present case, the power to bring collective proceedings was obviously intended to facilitate a means of redress which could attract and be facilitated by litigation funding: [2019] EWCA Civ 674; [2019] Bus LR 3025, para 60.
+Those who fund litigation are, for the most part, commercial investors whose dominant interest is naturally to make money on their investment from the fruits of the litigation.
+As noted earlier, to ensure that the substantive legal advantages afforded by the collective proceedings regime are conferred only in appropriate cases, the regime contains a control mechanism of requiring collective proceedings to be certified by the CAT.
+Collective proceedings cannot be brought as of right and the CAT is given a broad discretion in deciding whether, and if so in what form, collective proceedings may be pursued.
+Thus, section 47B(4) of the Act provides that collective proceedings may be continued only if the CAT makes a collective proceedings order (CPO).
+Section 47B(5) lays down two necessary conditions for making a CPO: (i) the person who brings the proceedings must be a person who could be authorised by the CAT to act as the representative claimant in those proceedings, and (ii) the CPO is in respect of claims which are eligible for inclusion in collective proceedings.
+Pursuant to section 47B(6), claims are eligible for inclusion in collective proceedings only if two conditions are fulfilled.
+These are that the CAT considers that the claims (i) raise the same, similar or related issues of fact or law (the common issues requirement), and (ii) are suitable to be brought in collective proceedings (the suitability requirement).
+The meaning and scope of the suitability requirement is central to this appeal.
+The CAT rules
+Section 47B(1) provides that collective proceedings may be brought [s]ubject to the provisions of this Act and Tribunal rules.
+Rule 2(2) of the CAT Rules requires that the rules to be applied by the CAT are interpreted in accordance with the governing principles set out in rule 4.
+Rule 4 is in similar terms to Part 1 of the Civil Procedure Rules 1998, which requires courts to seek to give effect to the overriding objective of dealing with cases justly and at proportionate cost and also requires the active management of cases.
+Rule 4(2) provides that dealing with a case justly and at proportionate cost includes, so far as is practicable: ensuring that it is dealt with expeditiously and fairly; (d) (e) allotting to it an appropriate share of the Tribunals resources, while taking into account the need to allot resources to other cases;
+By virtue of section 47B(1) and the co ordinated introduction of the CAT Rules in tandem with the collective proceedings provisions in the Act, it is clear that the provisions in the Act and the rules are to be read together and as subject to the same general principles.
+In applying and exercising its powers under the collective proceedings provisions in the Act, the CAT must therefore seek to ensure that claims are dealt with justly and at proportionate cost, reading that objective in the light of the particular reforms effected by the primary legislation to which we have referred.
+Part 5 of the CAT Rules is concerned specifically with collective proceedings and collective settlements.
+Rule 75 deals with the contents of a collective proceedings claim form and provides that it shall contain, among other things, a summary of the basis on which it is contended that the criteria for certification and approval in rule 79 are satisfied (rule 75(3)(e)) and a statement of the relief sought including where applicable, an estimate of the amount claimed in damages, including whether an aggregate award of damages is sought, supported by an explanation of how that amount has been calculated (rule 75(3)(i)(i)).
+Rule 76(9) provides that as soon as practicable the CAT will hold a case management conference to give directions in relation to the application for a CPO.
+This recognises that collective proceedings are an unusual form of litigation which are likely to require careful management by the CAT and indicates that the CAT has a substantive role above and beyond being a mere rubber stamp for the issuing of collective proceedings.
+This is also recognised by the requirement in rule 77(1) to hear the parties before a CPO may be made.
+Rule 77(1) tracks section 47B(5) of the Act in specifying the two conditions which must be satisfied before the CAT may make a CPO the first being that the CAT considers that the proposed class representative is a person who could be authorised to act in that capacity in accordance with rule 78, and the second that the order is in respect of claims or parts of claims which are eligible for inclusion in collective proceedings in accordance with rule 79.
+Authorisation of the class representative
+Rule 78 deals with authorisation of the class representative.
+An applicant may be authorised to act as the class representative only if the CAT considers this to be just and reasonable (rule 78(1)).
+This is to be assessed by reference to a number of factors, including whether that person would fairly and adequately act in the interests of the class members (rule 78(2)(a)); if there is more than one applicant seeking authorisation to act as class representative, which of them would be the most suitable (rule 78(2)(c)); and whether the applicant will be able to pay the defendants recoverable costs if ordered to do so (rule 78(2)(d)).
+In determining whether the applicant would act fairly and adequately in the interests of the class members, the CAT is required to take into account all the circumstances, including whether the proposed class representative is a member of the class, and if so, its suitability to manage the proceedings (rule 78(3)(a)).
+It is clear that in these sub rules, the word suitable or suitability means suitable to fulfil the purpose which a class representative is intended to fulfil in the context of the collective proceedings regime.
+This is consistent with the meaning of the suitability requirement in rule 79, to which we now come.
+Eligibility of claims
+Rule 79 deals with the certification of claims as eligible for inclusion in collective proceedings.
+Lord Briggs has set out the full text.
+For present purposes, the following parts of it are relevant.
+Rule 79(1) states that the CAT may certify claims as eligible for inclusion in collective proceedings where, having regard to all the circumstances, it is satisfied that three conditions are fulfilled, namely that the proceedings are (a) brought on behalf of an identifiable class of persons; (b) raise common issues; and (c) are suitable to be brought in collective proceedings.
+Three points arise from this.
+First, the rule makes clear that the question of suitability is distinct from the question whether the claims raise common issues.
+Second, by using the phrase where it is satisfied rather than simply stating the three conditions, the rule emphasises that deciding whether the conditions are fulfilled is a matter for the judgment of the CAT.
+Third, the rule requires the CAT in making that decision to adopt a very wide frame of reference, in that it is to have regard to all the circumstances.
+Rule 79(2) reinforces these points.
+It is central to this appeal.
+It provides as follows: (2) In determining whether the claims are suitable to be brought in collective proceedings for the purposes of paragraph (1)(c), the Tribunal shall take into account all matters it thinks fit, including (a) whether collective proceedings are an appropriate means for the fair and efficient resolution of the common issues; (b) collective proceedings; the costs and the benefits of continuing the (c) whether any separate proceedings making claims of the same or a similar nature have already been commenced by members of the class; the size and the nature of the class; (d) (e) whether it is possible to determine in respect of any person whether that person is or is not a member of the class; (f) whether the claims are suitable for an aggregate award of damages; and (g) the availability of alternative dispute resolution and any other means of resolving the dispute, including the availability of redress through voluntary schemes whether approved by the [Competition and Markets Authority] under section 49C of the 1998 Act or otherwise.
+This provision focuses on the suitability requirement as a distinct condition for the making of a CPO.
+It again emphasises the substantive rather than merely checking role for the CAT in making the relevant judgment whether claims are suitable to be brought in collective proceedings and again emphasises the wide frame of reference to be adopted, by saying that the CAT shall take into account all matters it thinks fit, and providing a non exhaustive list of matters which the CAT might think fit to consider and place weight upon.
+The width of the frame of reference in itself shows that the CATs judgment as to suitability is central, since the very wide range of matters to which the CAT might have regard, the disparity in their nature and their incommensurability means that there may often be wide scope for reasonable differences of view about what relevance or weight should be given to what factors and what overall conclusion should be drawn on the suitability issue.
+The Act and the CAT Rules identify the CAT as the body whose judgment matters for this purpose.
+Rule 79(3) identifies additional factors to those set out in rule 79(2) which the CAT may take into account if it thinks fit in deciding whether collective proceedings should be opt in or opt out proceedings, including the strength of the claims.
+This indicates that the strength of the claims is likely to be a matter of particular significance in determining whether proceedings are suitable to be brought as opt out proceedings, but it does not give rise to an inference that the strength of the claims can never be relevant for the purposes of rule 79(2).
+The explicit language used in rule 79(2) that the CAT should take into account all matters it thinks fit allows it to do so in an appropriate case.
+Clearly, if the CAT thinks it relevant when deciding on suitability to have regard in any way to the strength of the claims, it has to bear in mind that it would be wholly inappropriate at the preliminary stage of deciding whether claims may proceed by way of collective proceedings to hold a mini trial.
+Furthermore, since the object of the collective proceedings regime is to facilitate access to justice for those with small but potentially meritorious claims, it would also be wrong in principle to make any consideration of the merits of the claims at the CPO stage excessively demanding, thereby preventing claimants from having enhanced access to the judicial process under the collective proceedings regime without a sufficiently good reason.
+This point is further underlined by rule 79(4), which provides that a strike out application under rule 41 or a summary judgment application under rule 43 may be heard at the hearing of an application for a CPO.
+The CAT has the usual powers to strike out a claim, including if it considers that there are no reasonable grounds for making it (rule 41), and to give summary judgment for a claimant or a defendant if it considers that either of them has no real prospect of success (rule 43).
+Given these powers, the suitability requirement should not be interpreted as involving a test of the substantive merits of the claims which is comparable to but higher than the test that would be applicable under these rules.
+The suitability requirement
+A critical issue on this appeal is: what is the suitability requirement concerned with? What makes claims suitable to be brought in collective proceedings, over and above the fact that they raise common issues?
+In our view, the word suitable in this context means suitable to be grouped together and determined collectively in accordance with the regime established by the Act and the CAT Rules.
+Applying this criterion requires the tribunal to focus on the special features of this regime and the objects which collective proceedings under the regime are intended to fulfil.
+This includes consideration of whether collective proceedings offer a reasonable prospect of achieving a just outcome.
+It also calls for an assessment of proportionality: is combining these claims and determining them collectively in accordance with the collective proceedings regime likely to achieve the fair determination of the claims at proportionate cost?
+If other forms of proceeding are in contemplation, either by way of a group action or some different collective proceeding, it may be relevant to assess which form of proceeding is better suited to securing justice at proportionate cost when deciding whether, overall, the proceedings for which certification is sought are suitable.
+We cannot agree with Lord Briggs, however, that the suitability requirement is relative and solely a question of whether claims are suitable to be brought in collective proceedings rather than individual proceedings.
+First of all, this is not what the Act says.
+If the intention had been to make the test inherently comparative, it would have been easy to do so by using language such as that used in the British Columbia Class Proceedings Act, section 4(1)(d), which imposes a test of whether a class proceeding would be the preferable procedure.
+As Lord Briggs observes, the use of that term implicitly poses the question preferable to what?.
+By contrast, the UK legislature has not chosen to formulate the criterion as one of comparative merit or suitability.
+Second, it does not follow that, because collective proceedings are an alternative to conventional proceedings brought by or on behalf of individuals, they are intended to be available in any case where they would be less unsatisfactory than such individual proceedings.
+As we have noted, collective proceedings confer substantial legal advantages on claimants and burdens on defendants which are capable of being exploited opportunistically.
+In the absence of wording which says so, we cannot accept that demonstrating that the members of the proposed class would face greater difficulties pursuing their claims individually must be regarded as sufficient to justify allowing their claims to be brought as a collective proceeding, with the advantages that this confers.
+Such an approach would very significantly diminish the role and utility of the certification safeguard.
+Third, in so far as comparisons are relevant, the choice is not in any case a binary one.
+The question is not whether some form of collective proceeding is preferable to individual proceedings; it is whether the claims sought to be included in the collective proceedings which the tribunal is asked to certify are suitable to be combined in such proceedings.
+Answering that question in the negative does not mean that there is no other class of claims which is suitable to be brought as collective proceedings.
+There may well be.
+Suitability for aggregate damages
+In determining whether the claims sought to be combined in collective proceedings are suitable to be brought in such proceedings, one of the matters specifically identified in rule 79(2) is whether the claims are suitable for an aggregate award of damages.
+In some cases this is likely to be a critical consideration.
+As we noted earlier, the potential for an aggregate award of damages is a major innovative feature of the collective proceedings regime which, in cases where it is available, has substantive legal effects.
+Such an award dispenses not only with the legal requirement to calculate damages on an individual basis but also with the legal requirement for a claimant to prove individual loss in order to establish liability.
+Contrary to the position spelled out by Rothstein J in the Microsoft case (quoted earlier), it allows a group to prove a claim even though individuals within the group might well not be able to do so.
+In our view, suitable has a similar meaning in considering whether the claims are suitable for an aggregate award of damages to its meaning in considering the more general question of whether the claims are suitable to be brought in collective proceedings.
+In determining whether a class of claims is suitable for an aggregate award of damages, the focus is on whether the claims are suitable to be grouped together as a unit for the purpose of proving and assessing loss, justly and at proportionate cost.
+This calls for an assessment of whether there is, or is likely to be if the proceedings are authorised to continue as collective proceedings, a method available which can be used to assess loss suffered by the class as a whole with a reasonable degree of accuracy.
+In making this judgment, the CAT will naturally have in mind the broad axe principle emphasised by Lord Briggs.
+The common law recognises that, even where the loss suffered by a claimant is purely financial and is in principle a precise sum of money, determining this sum accurately may be practically impossible or achievable only at disproportionate cost.
+The law does not require unreasonable precision from the claimant: see eg Sainsburys Supermarkets Ltd v Visa Europe Services Llc [2020] UKSC 24; [2020] Bus LR 1196, paras 217 223.
+At the same time, justice to a defendant requires that it should not be ordered to pay damages which are not based on a reasonable estimate of loss (all the more so if what may be a very large sum of damages is being awarded without requiring the proof of individual loss which is normally a condition of liability).
+The object at the certification stage is not of course to quantify the loss suffered by the proposed class.
+But in order to be satisfied that the proposed class of claims is suitable for an aggregate award of damages, the CAT is entitled to require the class representative to demonstrate that there is a method which is capable of establishing loss in a reasonable and just way, and at proportionate cost, on a class wide basis.
+Again, we do not accept that the test of suitability is relative.
+Showing that claims would be difficult or impossible to prove or quantify if pursued individually does not by itself make them suitable for an award of aggregate damages, let alone establish whether the class of claims for which certification is sought is suitable for such an award.
+These proceedings
+The number of claims sought to be included in these proceedings is by any standard vast.
+Mr Merricks (the applicant) applied to the CAT to make a CPO in respect of the following class: Individuals who between 22 May 1992 and 21 June 2008 purchased goods and/or services from businesses selling in the UK that accepted Mastercard cards, at a time at which those individuals were both (1) resident in the UK for a continuous period of at least three months, and (2) aged 16 years or over.
+It is to be noted that the class is not limited to individuals who, at any time during the specified 16 year period, possessed or used a Mastercard credit or debit card: it includes anyone (resident in the UK for at least three months and aged 16 or over at any relevant time) who purchased any goods or services from any business selling in the UK that accepted Mastercard cards during this entire period.
+The number of such businesses rose from about 500,000 at the start of the period to about 800,000 at the end.
+These businesses (the merchants) spanned the whole of the UK economy and operated in very disparate markets.
+In consequence, the class in respect of which the CPO was sought was, in substance, the whole of the adult consumer population of the UK during the 16 year claim period, which was about 46.2m people.
+As described in more detail by Lord Briggs, the proposed claim relies on a decision of the European Commission in December 2007 as a basis for contending that the merchant service charge paid on transactions by the merchants who participated in the Mastercard payment card scheme was, throughout the claim period, higher than it should have been as a result of a breach by Mastercard of competition law.
+The breach involved fixing a default fee called the multilateral interchange fee (MIF) charged (unless otherwise agreed) by the cardholders bank to the merchants bank on payments made using the card.
+This fee was included in the merchant service charge deducted from payments by the merchants bank.
+It typically accounted for the vast majority of the service charge (eg 1% out of a total charge of 1.3% of a credit card payment).
+The allegation made by the applicant was that the merchants had passed on the element of unlawful overcharge included in the merchant service charge to all their customers (whether those customers used a Mastercard card or not) by charging higher prices for goods or services than they would otherwise have done.
+The present proceedings were brought on an opt out basis and claimed (as the only relief sought) an aggregate award of damages in a sum estimated in the collective proceedings claim form at around 14 billion.
+The proposed method of establishing loss
+At the hearing of the application for a CPO, the applicant adduced expert evidence to explain the basis for the class action and how he proposed to establish that the class as a whole had suffered loss and the amount of such loss if the action was allowed to proceed.
+The experts methodology involved three steps.
+The first step was to calculate the total value of payments made by customers using Mastercard cards in the UK in each year of the claim period.
+This has been referred to as the volume of commerce.
+It should be possible to calculate the volume of commerce using Mastercards own records.
+The second step would be to estimate the amount by which the merchant service charge paid by merchants on the volume of commerce was higher than it would otherwise have been because of the overcharge resulting from the MIF.
+There were in fact a number of different MIFs and these changed over the 16 years of the claim period.
+It was not in dispute, however, that the amount of the overcharge was capable of assessment, as the MIFs which applied at different times were known and it was common ground that 100% of the MIFs was passed on to the merchants through the merchant service charge.
+The third step in the experts proposed method was to estimate the extent to which the overcharge was passed on by merchants to their customers in the form of increased retail prices.
+It was in relation to this step that problems arose.
+The extent to which merchants might have passed on the overcharge to their customers rather than absorbing it themselves will depend on the markets in which they operated and on their own business strategies: see Sainsburys Supermarkets Ltd v Visa Europe Services Llc; Sainsburys Supermarkets Ltd v Mastercard Inc [2020] UKSC 24; [2020] Bus LR 1196, para 205.
+Thus, the experts instructed by the applicant recognised that there will not have been one common rate of pass on which was applied by merchants across the board.
+Their proposed approach was to arrive at a global figure by calculating weighted average rates of pass on over time for different sectors of the economy.
+They produced a table which broke down the UK economy into 11 broad sectors: food and drink, mixed business, clothing, household, other retailers, motoring, entertainment, hotels, travel, financial and other services.
+As the experts accepted, however, when questioned by the tribunal, and as the CAT found, within each of these broad sectors there is a wide variety of businesses which may have had quite different rates of pass on.
+For example, the motoring sector covered fuel, new vehicle sales, car rental, and garage repair.
+In food and drink, the extent of pass on by major supermarket chains may be significantly different from the rate for local greengrocers, butchers etc.
+It was also accepted that rates of pass on may have varied geographically across the UK, as well as over time during the 16 year claim period.
+The antiquity of the claim period beginning over 25 years ago and ending in 2008 exacerbated the difficulties, particularly in relation to the availability of data.
+The CATs decision
+At para 57 of its judgment the CAT correctly observed that an application for a CPO is not a mini trial and that the applicant does not have to establish his case in anything like the way he would at trial.
+However, it noted that the applicant had to do more than show that he had an arguable case on the pleadings, meaning that he had also to satisfy the requirement that the claims of all the enormous class of persons whom the applicant was seeking to represent were suitable to be brought as a collective proceeding.
+The CAT observed that, although collective proceedings on an opt out basis can bring great benefits for the class members which could not otherwise be achieved, like other substantial competition damages claims such proceedings can be very burdensome and expensive for defendants and under section 47B(6) it is the CATs role to scrutinise an application for a CPO to ensure that only appropriate cases proceed.
+In considering the expert evidence relied on by the applicant to seek to satisfy the CAT that the claims were suitable for determination in collective proceedings, the CAT decided that the approach it should adopt could appropriately be drawn from the following passage in the judgment of Rothstein J in the Supreme Court of Canada in the Microsoft case (at para 118): the expert methodology must be sufficiently credible or plausible to establish some basis in fact for the commonality requirement.
+This means that the methodology must offer a realistic prospect of establishing loss on a class wide basis so that, if the overcharge is eventually established at the trial of the common issues, there is a means by which to demonstrate that it is common to the class (ie that passing on has occurred).
+The methodology cannot be purely theoretical or hypothetical, but must be grounded in the facts of the particular case in question.
+There must be some evidence of the availability of the data to which the methodology is to be applied.
+Neither party sought to argue before the CAT that this was not an appropriate approach for the CAT to adopt (see paras 58 59 of the CATs judgment).
+It was not in dispute that the methodology identified by the applicants experts was a valid theoretical approach to estimating loss on a class wide basis for the class of over 46m people represented by the applicant.
+The argument before the CAT turned on the availability of the data which would be required to enable the methodology to be applied in practice.
+As mentioned, the method proposed by the experts relied on being able to estimate a weighted average rate of pass on of the relevant overcharge by merchants to their customers for each sector of the economy during each of the 16 years of the claim period.
+The experts expressed the view that it should be possible to acquire the data necessary for this analysis from a combination of three sources: (a) information derived from claims which have been brought against Mastercard by retailers in a variety of sectors; (b) disclosure from third parties; and (c) publicly available data.
+The CAT considered each of these proposed sources and found that they could not realistically be expected to yield sufficient data to enable the claimants methodology to be applied on a sufficiently sound basis to calculate the loss sustained by the class as a whole (paras 69 78).
+The first potential source of data was information derived from claims brought by retailers against Mastercard.
+However, these claims relate to periods commencing in 2006, so there is minimal overlap with the claim period in the present proceedings.
+The CAT found that [i]t would be impossible to extrapolate back from any findings or expert analyses of pass through in around 2006 to derive meaningful figures for much of the claims period in the present action (para 73).
+The CAT was clearly entitled to make this assessment on the evidence before it.
+We would add that still less could it be thought that such information could provide a basis for extrapolation to allow any meaningful or reliable assessment to be made regarding the rate of pass on in the many sectors and sub sectors of the UK economy which are not represented in the retailer claims brought against Mastercard.
+As regards the second potential source, the CAT noted that in theory requests could be made for disclosure of evidence from third party retailers in the various different sectors of the economy to gather data to calculate their various rates of pass on at relevant times.
+But it observed that in view of the number of markets to be considered, the long period involved, and the wide range of data required to arrive at a meaningful estimate, this would be a very burdensome and hugely expensive exercise; merchants could be expected to resist providing such information; the costs budget filed with the application for the CPO made no provision for the cost of this exercise; and in sum, in the CATs view, such extensive third party disclosure is wholly impractical as a way forward (para 74).
+Again, the CAT was clearly entitled to make this assessment on the evidence before it.
+As to published data, a report by RBB Economics relied on by the experts itself made clear that the publicly available data were incomplete and difficult to interpret.
+Apart from that report, the CAT noted that no real attempt appears to have been made to consider what data are available for each of the broad sectors over the relevant period (para 75).
+Again, on the material before it, the CAT was clearly entitled to conclude that it was not satisfied that there were sufficient publicly available data to allow the proposed methodology to be implemented.
+The CAT stated its conclusion on the question whether the claims were suitable for an award of aggregate damages at paras 77 78 of its judgment: 77.
+We accept that in theory calculation of global loss through a weighted average pass through, as explained in the evidence and as summarised above, is methodologically sound.
+But making every allowance for the need to estimate, extrapolate and adopt reasonable assumptions, to apply that method across virtually the entire UK retail sector over a period of 16 years is a hugely complex exercise requiring access to a wide range of data.
+We certainly would not expect that analysis to be carried out for the purpose of a CPO application, but a proper effort would have had to be made to determine whether it is practicable by ascertaining what data is reasonably available.
+Given the massive size of the claim, a difference of even 10% in the average pass through rate makes a very substantial difference in financial terms. 78.
+Accordingly, applying the Microsoft test we are unpersuaded on the material before us that there is sufficient data available for this methodology to be applied on a sufficiently sound basis.
+It follows that we are not satisfied, and indeed very much doubt, that the claims are suitable for an aggregate award of damages: see rule 79(2)(f).
+The CAT also gave a second and separate reason for concluding that the claims were not suitable to be brought in collective proceedings.
+This was that, even if the total loss to the whole class was capable of calculation in the manner proposed, there was no reasonable and practicable means of estimating the loss suffered by each individual claimant.
+The experts accepted that this was so.
+The method put forward by the applicant for distributing any award of aggregate damages was to divide any damages awarded in respect of each year of the claim period equally between each member of the class for that year.
+The CAT did not consider this approach acceptable, stating (at para 88): The governing principle of damages for breach of competition law is restoration of the claimants to the position they would have been in but for the breach.
+The restoration will often be imprecise and may have to be based on broad estimates.
+But this application for over 46m claims to be pursued by collective proceedings would not result in damages being paid to those claimants in accordance with that governing principle at all.
+The CAT went on to consider whether the applicant met the requirements for authorisation to act as the class representative and concluded that he did.
+However, since, in the CATs view, the claims were not suitable to be brought in collective proceedings, the application for a CPO was dismissed.
+The Court of Appeals decision
+When the applicant sought to appeal from the CATs decision, a preliminary issue arose as to whether the Court of Appeal had jurisdiction to entertain an appeal.
+Under section 49(1A)(a) of the Act an appeal lies on a point of law from a decision of the CAT in collective proceedings as to the award of damages.
+The Court of Appeal held that the decision of the CAT to refuse to make a CPO fell within this provision because it had the effect of barring the claim to an award of aggregate damages under section 47C(2), which was the only type of relief sought in the collective proceedings and is a unique remedy not otherwise obtainable: see [2018] EWCA Civ 2527; [2019] Bus LR 1287, paras 20, 27, 28.
+On the substantive appeal, the Court of Appeal decided that both reasons given by the CAT for refusing to make a CPO involved errors of law.
+On the question whether the claims were suitable to be brought in collective proceedings (and, in particular, for an aggregate award of damages), the Court of Appeal considered that the approach taken by the CAT to the expert evidence was based on a misdirection as to the correct test to be applied.
+In the Court of Appeals view, in assessing the availability of data to establish a claim for aggregate damages, the CAT had demanded too much of the applicant at the certification stage: [2019] EWCA Civ 674; [2019] Bus LR 3025, paras 48 54.
+On the question of distribution, the Court of Appeal considered both that it was premature for the CAT to take account of the proposed method of distributing any aggregate award of damages at all at the certification stage and that the CAT was wrong to regard it as a requirement that any award must be distributed in a way which corresponds, even if only approximately, to individual loss: see paras 56 62.
+Mastercard on this further appeal contests the conclusion reached by the Court of Appeal on each of these two issues.
+The distribution issue
+It is convenient to deal with the distribution issue first.
+We can do so briefly, as we agree with Lord Briggs on this issue.
+The dispute is a narrow one, as Mastercard accepts that there is no legal requirement that an award of aggregate damages must be distributed to class members in a way which attempts to compensate them for their individual losses; and the applicant accepts that the CAT is entitled to treat the way in which it is proposed that an award of aggregate damages should be distributed as a relevant factor when considering whether the suitability requirement is satisfied in order for a CPO to be made.
+But the applicant objects that the CAT went further than this and treated the existence of a significant degree of correspondence between the proposed distribution and losses suffered by individuals as a mandatory legal requirement which must be met before a CPO can be made.
+In our view, Mastercard was right to accept the first point.
+We think it clear that, under the legislative scheme, where an aggregate award of damages is made, that award is the means by which compensation is achieved: that is to say, by providing compensation for loss suffered by the class of represented persons as a whole.
+As discussed earlier, section 47C of the Act dispenses with the requirement that would ordinarily apply to undertake an assessment of the losses suffered by individual members of the class.
+How such an award of damages is distributed is a further and separate question.
+There is no necessity at that stage to try to estimate loss: only to adopt a method of distribution which is fair.
+Other things being equal, a fair method will no doubt be one which gives a larger share of the award of damages to someone who can be shown to have suffered a greater individual loss.
+But it may be impractical or disproportionate to adopt such a method of distribution, particularly where the size of the class is large and the amount of damages awarded small, considered on a per capita basis.
+We can see nothing wrong in principle with a conclusion that the fairest method of distribution is, in the circumstances of a particular case, an equal division among all the members of the class (or, as proposed by the applicant in this case, an equal division among all the relevant class members of the damages referable to each year of the claim period).
+Like Lord Briggs, we do not think it is necessarily premature to have regard at the certification stage to any proposal made by the applicant provisional though it would necessarily be as to how an aggregate award of damages would be distributed among the class of persons represented.
+However, the fact that it is not practicable and reasonable, and therefore not proposed, to adopt a method of distribution which reflects individual loss is not a reason which requires the CAT to refuse to make a CPO as a matter of law.
+Contrary to Mastercards submission, we think it clear that the CAT did consider that it is only permissible to make an award of aggregate damages if there is a reasonable and practicable means of distributing the damages to the members of the class in a way which seeks to compensate them for their individual losses.
+That was an error of law on the part of the CAT.
+There was nothing legally objectionable about the approach to the distribution of damages proposed by the applicant.
+This ground of the CATs decision to decline to make a CPO therefore cannot be sustained.
+That error does not, however, affect the separate reason given by the CAT for its decision: namely, that it was not satisfied that the claims sought to be included in the proceedings were suitable for an aggregate award of damages.
+In relation to that conclusion, two questions arise: (i) did the CAT err in law in reaching that conclusion; and (ii) if not, was the CAT entitled on that basis to decide that the claims were not suitable to be brought in collective proceedings?
+Suitability for aggregate damages
+As noted, in determining whether the class of claims sought to be brought in these proceedings is suitable for an award of aggregate damages, the CAT adopted a test articulated by the Supreme Court of Canada in the Microsoft case (quoted at para 135 above).
+In the relevant passage (at para 118 of the judgment) Rothstein J was not addressing the question of the suitability of claims for an aggregate award of damages (which is not a criterion under the applicable Canadian legislation), but whether the issue of loss was capable of being resolved on a common basis and was therefore appropriate for certification as a common issue.
+For this purpose, it was not necessary for the class representative at the certification stage to quantify the damages in question; it was sufficient to demonstrate that there was a method capable of doing so on a class wide basis.
+What this requirement meant was elaborated in para 118 of the judgment.
+Although it was formulated in a different legislative context, the CAT was in our view entitled to treat the Microsoft test as providing an appropriate standard to apply for the purpose of determining the suitability of a class of claims for an aggregate award of damages under section 47C(2) of the Act.
+Not only did the Court of Appeal endorse that approach (at para 40), but it has been common ground between the parties at all levels in the CAT, in the Court of Appeal and in this court that it was appropriate for the CAT to apply this test.
+In any event, it seems to us to provide sensible guidance as to how to approach the question whether a class of claims is suitable to be grouped together for the purpose of estimating loss.
+The approach stated by Rothstein J reflects the broad axe principle, and adoption of it in the present context gives appropriate recognition to that principle in the context of the collective proceedings regime in the Act.
+The principle cannot be invoked as a way of circumventing the suitability requirement in the Act and the CAT Rules.
+If the applicant could not show that there was a realistic prospect that his experts proposed methodology would be capable of application in a reasonable and fair manner across the whole width of the proposed class, then (i) there would be a significant risk that a claim of this magnitude could unfairly be held over Mastercards head in terrorem to extract a substantial settlement payment without a proper basis for it; (ii) there would be a significant risk that, if carried forward towards trial, the collective proceeding, as framed by the CPO obtained at the outset, would at some stage run into the sand and be found not to be viable, so that it would have given rise to a great waste of expense and resources for no good effect; (iii) the risk referred to in (ii) would not just relate to potential waste of the resources of the defendant, but also to waste of the resources of the CAT, which could be better allocated elsewhere (see rule 4(2)(e)); and (iv) there would be a significant risk that, if the methodology were applied to the class at trial on the basis of inadequate data and unjustified extrapolations from available data sets, the outcome would be unjust and one in which one could have no confidence, because of the margin for error in calculating pass through rates for all sectors of the economy over a 16 year period and the potentially very substantial effects of such errors being made, by reason of the large sums being claimed (the point made in para 77 of the CATs judgment).
+We accordingly consider that the Court of Appeal, in agreement with the parties and the CAT, was correct to hold that what the applicant in this case had to do was to satisfy the CAT that the expert methodology was capable of assessing the level of pass on to the represented class and that there was, or was likely to be, data available to operate that methodology (para 44).
+The Court of Appeals criticisms
+We disagree, however, with the Court of Appeals view that the CAT did not in fact apply this test.
+There seem to us in the Court of Appeals judgment to be three particular criticisms made of the CATs approach.
+One is that the CAT wrongly required the applicant to establish more than a reasonably arguable case (para 52) or to be satisfied that the collective claim has more than a real prospect of success (paras 44 and 54).
+In our view, this criticism is misplaced in that it treats the assessment of whether the claims in question are suitable for an aggregate award of damages as if it were an assessment of whether the claims are of sufficient merit to survive a strike out application.
+However, as we have emphasised (and understand to be common ground between the parties on this appeal), the eligibility requirements including the question of suitability for aggregate damages are directed to ascertaining whether it is appropriate to combine individual claims into collective proceedings and not to the question whether the claims are sufficiently arguable as a matter of their substantive merits to be allowed to proceed.
+In particular, in relation to aggregate damages, the question for the CAT was not whether the claims had a real prospect of success; it was whether the proposed methodology offered a realistic prospect of establishing loss on a class wide basis.
+This turned, in the context of this case, on whether there was, or was likely to be, data available to operate that methodology (as the Court of Appeal had itself recognised at para 44).
+That was the question which the CAT addressed.
+We therefore think it clear that the CAT asked itself, and answered, the correct question and that the CAT was right to say (at para 57 of its judgment) that the applicant had to do more than simply show that he has an arguable case on the pleadings, as if, for example, he was facing an application to strike out.
+The second criticism made by the Court of Appeal was that the CAT had, in effect, carried out a form of mini trial, which involved cross examination of the applicants experts at a pre disclosure stage in the proceedings about their ability to prove the claim at trial by reference to sources of evidence which they had identified but had not yet been able fully to analyse or assess (para 52).
+It was said that the certification hearing therefore exposed the claim to a more vigorous process of examination than would have taken place at a strike out application (para 53).
+We have already explained why we consider the comparison with a strike out application to have been misplaced.
+We nevertheless agree with the Court of Appeal that an application for a CPO should not involve a mini trial.
+The CAT expressly recognised this at para 57 of its judgment and we do not accept that it failed to follow the direction that it expressly gave itself.
+In particular, we can see nothing wrong in principle, where the credibility or capability of expert methodology is of importance as it was here, with asking questions of the experts in order to clarify and better understand their proposed approach.
+That does not amount to anything approaching a mini trial.
+That is what occurred at the hearing before the CAT in this case.
+The consideration of the experts evidence by the CAT was not adversarial.
+The questioning was led by the tribunal, not Mastercard.
+To the extent that counsel for Mastercard was permitted to ask questions, it was only by way of clarification rather than by way of challenge to their evidence.
+Mastercard did not submit any expert evidence.
+The CAT was not engaged in weighing up competing expert evidence nor in seeking to resolve any disputed points of fact or expert opinion; it merely sought to understand and clarify the methodology proposed by the experts and the availability of the data necessary to apply that methodology.
+The tribunals questions gave the experts the opportunity to explain and expand on their proposed method.
+Providing this opportunity was an advantage, not a disadvantage, to the applicant, as is apparent from para 76 of the CATs judgment where the CAT observed that the methodology put forward by the experts in their oral evidence, in response to the tribunals questioning, is considerably more sophisticated and nuanced than that set out, rather briefly, in their experts report.
+Indeed, for the purposes of his submissions before the CAT, the Court of Appeal and in this court, the applicant positively sought to rely on the contents of the evidence given by his experts as amplified by their oral explanations in answers given at the hearing before the CAT.
+There was in these circumstances no procedural impropriety or error of law in the CATs approach.
+The third criticism made by the Court of Appeal was that the CAT demanded too much in terms of the availability of data at what was still an early stage of the proceedings.
+It is said that the experts had identified expected sources of data and it was not appropriate at the certification stage to require the proposed representative and his experts to specify in detail what data would be available for each of the relevant retail sectors in respect of the infringement period (para 51).
+In our view, this criticism is also misplaced.
+The CAT did not require the applicant or his experts to specify in detail what data would be available for each of the relevant retail sectors in respect of the infringement period.
+It applied an appropriately low threshold of whether there was evidence that data were available which could offer a realistic prospect of the applicant being able to apply his proposed economic methodology across the whole range, or substantially the whole range, of the class claim.
+On the evidence before it, the CAT was entitled to make the assessment at paras 69 75 of its judgment that the applicant had failed to show that appropriate data were or were likely to be available across that range such as would mean that his proposed methodology could be applied in a meaningful or reasonable way to make an aggregate award of damages assessed on a class wide basis: see paras 138 141 above.
+The Court of Appeal also suggested that, if it later transpired that the applicant was unable to access sufficient data to enable the experts method of calculating the rate of pass on to be performed, the CPO could be revoked; and that a decision of that kind is much more appropriate to be taken once the pleadings, disclosure and expert evidence are complete and the court is dealing with reality rather than conjecture (para 53).
+We do not consider this a permissible approach.
+The fact that there is a power to vary or revoke a CPO at any time under section 47B(9) of the Act does not relieve the CAT of the obligation only to make a CPO if it considers that the statutory conditions are satisfied and not otherwise.
+The CAT may not make a CPO on a speculative basis, in the hope that the claims might later become suitable to be brought as collective proceedings but that, if they do not, the order can be revoked, no doubt after a great deal of resources have been expended on the litigation.
+The applicant applied in this court for permission to adduce additional evidence regarding the availability of data to that adduced before the CAT.
+We would refuse that application.
+Any such evidence is not capable of disclosing a legal error on the part of the CAT, which was obliged to make its decision on the basis of the evidence before it.
+In any case, having looked at the additional material as we were invited to do by Mr Harris QC on behalf of the applicant, we are not persuaded that it shows a realistic possibility of filling the large gaps in the available data that were identified by the CAT.
+In our view, the CATs decision that it was not satisfied that the claims sought to be brought as collective proceedings were suitable for an aggregate award of damages cannot be impugned as unlawful.
+Suitability for collective proceedings
+If, as we consider, that decision was not wrong in law, then, in the circumstances of this case, it follows that the CAT was also entitled to conclude that the claims were not suitable to be brought in collective proceedings.
+As mentioned earlier, an aggregate award of damages under section 47C(2) of the Act was the only type of relief sought in these proceedings.
+The applicant has not suggested that it would be feasible or practicable to estimate the losses suffered by members of the proposed class individually.
+Indeed, the proposed method of distributing any damages recovered was founded on the premise that there is no reasonable or practicable means of establishing loss on an individual basis (see eg para 91 of the CATs judgment).
+In these circumstances, if the claims are not suitable for an aggregate award of damages, it is common ground that they are not suitable for any award of damages (or other relief).
+There is accordingly no basis on which the proceedings as they have been framed could properly be continued.
+Lord Briggs has emphasised that whether the claims are suitable for an aggregate award of damages is only one factor in the list of matters identified in rule 79(2) as potentially relevant to the issue of overall suitability.
+He criticises the CAT for treating this particular factor as if it were a hurdle rather than merely one factor to be weighed in the balance along with others in determining whether the claims are suitable to be brought in collective proceedings.
+This is not an argument which the applicant has made and we are not able to agree with it.
+It was not incumbent on the CAT to treat the factors in rule 79(2) (or for that matter the factors in rule 4) as a check list which it had to work through and address one by one.
+The position is the same as where a court makes a procedural decision under the Civil Procedure Rules and has to comply with the overriding objective in CPR Part 1: see Khrapunov v JSC BTA Bank [2018] EWCA Civ 819, para 46.
+Furthermore, while the structure of rule 79 makes it clear that satisfying the CAT that the claims are suitable for an aggregate award of damages is not a separate hurdle or pre condition for certifying claims as eligible for inclusion in collective proceedings, that does not prevent this factor from being in practice decisive in the circumstances of a particular case, given the way in which the proceedings have been framed.
+For the reasons indicated, that was the case here.
+For the same reasons, the CATs error (as we agree that it was) in failing to recognise that whether or to what extent merchants passed on the MIFs to their customers was a common issue did not affect its analysis of suitability.
+The reasons given by the CAT for remaining unpersuaded that the claims of the proposed class members were suitable for an aggregate award of damages did not depend in any way on whether the extent of merchant pass on is regarded as a common issue.
+Since an aggregate award of damages was the only relief sought by the applicant and said by the applicant to be appropriate, it followed from the conclusion that the claims were not suitable for such relief that the claims were not suitable to be brought in collective proceedings.
+Whether the extent of merchant pass on is a common issue has no bearing on that.
+Mr Harris for the applicant emphasised that the difficulties in establishing the extent of any merchant pass on would have been equally formidable for a typical individual claimant, seeking compensation for increased retail prices over the sectors of the market in which he or she was accustomed to make purchases.
+He submitted that, if those difficulties would have been insufficient to deny a trial to an individual claimant, they should not, in principle, have been sufficient to lead to a denial of certification for collective proceedings.
+This argument seems to us to make the error already discussed of confusing the requirements for certification of claims as eligible for inclusion in collective proceedings with a summary judgment or strike out test.
+Whether an individual claimant has a claim that is sufficiently strong to go to trial is a different question, involving a different test, from whether a class of claims is eligible to be brought as a collective proceeding.
+It does not follow that, just because claims are capable of being pursued individually without being struck out, they must also be suitable to be brought in collective proceedings.
+Nor does it follow that, because a group of claimants would have greater difficulties (practical or legal) in pursuing their claims individually than they would if the claims are brought in collective proceedings, that of itself makes the claims suitable to be brought in collective proceedings.
+For the reasons stated earlier, the suitability requirement is not relative in this way.
+Conclusion
+For the reasons given, the CAT was in our opinion entitled to take the view that the claims which the applicant was seeking to bring as a class action were not suitable to be brought in collective proceedings when the CAT was not satisfied that there was a realistic prospect of the applicant being able to apply its proposed economic methodology across the whole width, or substantially the whole width, of the proposed class.
+This is not to say that none of the claims which the applicant was seeking to combine had a real prospect of success.
+The CAT was right to treat the issue of suitability as distinct from the question whether the class action might be struck out on the merits under rule 41 or rule 43.
+We think it would not have been possible for the CAT to strike out or give summary judgment on the claims covered by the proposed CPO because some of them are very likely to have merit.
+But it was a separate question whether it was suitable for them to proceed as a collective proceeding, with the substantive legal advantages that this would give to the claimants, where the applicant could not show that data existed or were likely to exist which would make the action viable across the whole width of the class.
+Finally, it should be emphasised that the CATs approach does not undermine the efficacy of the collective proceedings regime.
+The test which the CAT applied in looking to see whether the relevant data were or might become available was a low one.
+It was open to the applicant to seek a CPO in relation to a class of claims which was framed less ambitiously for example, in relation to particular sectors of the economy where the relevant data needed to make the applicants economic methodology workable in a meaningful and fair way could be shown to be available or likely to be available.
+However, the applicant did not put forward any alternative proposal.
+The only application made was to certify as suitable to be brought in collective proceedings a massive class of claims brought on behalf of more than 46m people everyone domiciled in the UK who when over the age of 16 had been resident in the UK for more than three months at any time during a 16 year period between 1992 and 2008.
+The fact that this gargantuan class action was found unsuitable to proceed did not rule out the possibility of pursuing in collective proceedings a more focused class of claims.

@@ -1,0 +1,53 @@
+The Investigatory Powers Tribunal (IPT) is a specialist tribunal established under the Regulation of Investigatory Powers Act 2000 (RIPA).
+It has jurisdiction to examine, among other things, the conduct of the Security Service, the Secret Intelligence Service and the Government Communications Headquarters.
+Section 67(8) of RIPA provides: Except to such extent as the Secretary of State may by order otherwise provide, determinations, awards and other decisions of the Tribunal (including decisions as to whether they have jurisdiction) shall not be subject to appeal or be liable to be questioned in any court.
+On a preliminary issue in a claim brought by the appellant, the IPT ruled that section 5(2) of the Intelligence Services Act 1994 (the 1994 Act), which empowers the Secretary of State to issue a warrant authorising the taking of such action as is specified in the warrant in respect of any property so specified, extends to warrants authorising a class of activity in respect of a class of property so called thematic warrants.
+The appellants applied for judicial review, but the High Court ruled that section 67(8) of RIPA prohibits judicial review of that decision.
+The Court of Appeal dismissed the appellants appeal against that ruling.
+The two issues before the Supreme Court are: i) Whether section 67(8) of RIPA ousts the supervisory jurisdiction of the High Court to quash a judgment of the IPT for error of law. ii) Whether, and, if so, in accordance with what principles, Parliament may by statute oust the supervisory jurisdiction of the High Court to quash the decision of an inferior court or tribunal of limited statutory jurisdiction.
+The Supreme Court allows the appeal by a majority.
+Lord Carnwath gives the lead judgment, with which Lady Hale and Lord Kerr agree.
+Lord Lloyd Jones gives a separate concurring judgment.
+The majority allow the appeal on the first issue, as they conclude that section 67(8) does not oust the supervisory jurisdiction of the High Court for errors of law.
+Lord Sumption (with whom Lord Reed agrees) and Lord Wilson give dissenting judgments.
+(i) Whether section 67(8) of RIPA ousts the supervisory jurisdiction of the High Court Lord Carnwath holds that the interpretation of section 67(8) must be informed by the close parallel with the provision under review by the House of Lords in Anisminic v Foreign Compensation Commission [1969] 2 AC 14.
+By the time the predecessor to RIPA was drafted in 1985, following Lord Diplocks explanation in OReilly v Mackman [1983] 2 AC 237, the drafter can have had no doubt that a determination vitiated by any error of law, jurisdictional or not, was to be treated as no determination at all.
+The reference to a determination was to be read as a reference only to a legally valid determination [105].
+The exercise is not one of ordinary statutory interpretation, as there is a common law presumption against ousting the jurisdiction of the High Court.
+The plain words of the subsection must yield to the principle that such a clause will not protect a decision that is legally invalid.
+Therefore the exclusion in section 67(8) of RIPA applies only to determinations, awards or other decisions that are not erroneous in law [107].
+The relevant decision in this case raised a short point of law, which on no ordinary view could be regarded as a decision as to whether [the IPT] had jurisdiction [108].
+If read in the context of Anisminic, those words in parenthesis in section 67(8) apply only to a legally valid decision relating to jurisdiction [109].
+This does not mean the words in parenthesis are otiose, as some decisions as to jurisdiction will involve issues of fact to which the exclusion could be said to apply without engaging the presumption against ouster [110].
+Moreover, judicial review can only be excluded by the most clear and explicit words.
+A more explicit formula might have excluded challenges to any determination or purported determination [111].
+The features of the IPT regime, on which the Court of Appeal relied, do not change the interpretation of section 67(8).
+As this case shows, the IPT can organise its procedures to ensure that a material point of law can be considered without threatening any security interests.
+Further, the potential for overlap with legal issues considered by ordinary courts makes it important that the IPT is not able to develop its own local law without scope for further review [112].
+Lord Lloyd Jones agrees with Lord Carnwath.
+He adds that it is a necessary corollary of the sovereignty of Parliament that there should exist an authoritative and independent body which can interpret and mediate legislation made by Parliament.
+Central to the appeal is whether it was the intention of Parliament to modify the procedures by which statute law is mediated [160].
+He finds it a striking feature of section 67(8) and its predecessor that it failed to exclude purported determinations, awards and other decisions, in light of the judgment of Lord Diplock in OReilly v Mackman [164].
+The words in parenthesis do not extend the exclusion of the jurisdiction of the High Court to what purport to be decisions but in law are not to be so regarded [165].
+Lord Sumption, dissenting, concludes that the effect of section 67(8) is to exclude the jurisdiction of the High Court to entertain a challenge to the IPTs decisions on the merits.
+The rule of law is sufficiently vindicated by the judicial character of the IPT and it does not require a right of appeal from the decisions of a judicial body of this kind [172].
+If the IPTs construction of section 5(2) of the 1994 Act was an error, then it was an error within the permitted field of interpretive power which Parliament has conferred on the IPT.
+Therefore, the effect of section 67(8) is that the High Court had no jurisdiction to entertain a challenge to the IPTs decision in the present case [206].
+Lord Wilson, dissenting, concludes that the meaning of the words in parenthesis in section 67(8) encompass within the exclusion of judicial supervision all the decisions of the IPT in relation to its jurisdiction.
+He ascribes to that word the strained extension of its effect adopted in Anisminic, such
+that the exclusion in section 67(8) covers both ordinary errors of law as well as errors of jurisdiction in the proper sense of the word.
+The presumption that Parliament did not intend such an exclusion has to yield to the only reasonable meaning of its words [224]. (ii) Whether Parliament may by statute oust the supervisory jurisdiction of the High Court Lord Carnwath states that his conclusion on the first issue makes it strictly unnecessary to consider the second issue [113].
+He nonetheless comments that it is ultimately for the courts, not the legislature, to determine the limits set by the rule of law to the power to exclude review [131].
+This proposition is a natural application of the constitutional principle of the rule of law and an essential counterpart to the power of Parliament to make law.
+The question in any case is the level of scrutiny required by the rule of law [132].
+Some forms of ouster clause may readily satisfy such a test, as in the six week time limit for planning cases [133].
+Lord Carnwath sees a strong case for holding that binding effect cannot be given to a clause which purports wholly to exclude the supervisory jurisdiction of the High Court to review a decision of an inferior court or tribunal, whether for excess or abuse of jurisdiction, or error of law.
+It should remain a matter for the court to determine the extent to which such a clause should be upheld, having regard to its purpose and statutory context, and the nature and importance of the legal issue in question [144].
+Lord Sumption does not think it would be appropriate or wise to answer the second issue in wholly general terms.
+It should be addressed in the context of the statute in this case, and of the assumption that section 67(8) excludes judicial review of the IPTs decisions on merits [207].
+He accepts that Parliaments intention that there should be legal limits to a tribunals jurisdiction is not consistent with the courts lacking the capacity to enforce those limits [210].
+The question here, however, is how to reconcile the limited character of the IPTs jurisdiction with the language of section 67(8).
+The reconciliation is that section 67(8) does no more than exclude review by the High Court of the merits of decisions made by a tribunal performing the same functions as the High Court.
+It is in substance an exclusion of appeals on the merits and other proceedings tantamount to an appeal on the merits [211].
+Lord Wilson recasts the second issue to address only Parliaments exclusion of judicial review of an ordinary error of law [237].
+He concludes that Parliament has conferred both independence and authority upon the IPT and, in those circumstances, Parliament does have the power to exclude judicial review of any ordinary errors of law made by it [252 253].

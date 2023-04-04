@@ -1,0 +1,43 @@
+The primary question in this appeal is when a person should be considered to be a de facto director of a company so that he can be held responsible for the payment of unlawful dividends as if he had been formally appointed as a director.
+When a company is wound up, section 212 of the Insolvency Act 1986, as amended, allows a creditor to request a court to compel an officer of the company to pay sums in respect of misuse of a power or breach of fiduciary duty.
+It was accepted that the definition of officer includes a director, whether he is formally appointed or not.
+Mr and Mrs Holland ran a business administering the business and tax affairs of contractors, especially those working in the IT sector, who did not want to go to the trouble of setting up and running their own companies.
+In February 1999 a complicated corporate structure was established to run the business.
+Under the new structure, 42 trading companies were created, referred to in these proceedings as the composite companies.
+Two further companies called Paycheck (Directors Services) Ltd and Paycheck (Secretarial Services) Ltd were created to act respectively as the sole director and secretary of each composite company.
+Mr and Mrs Holland were the directors of Paycheck Directors and Paycheck Services and owned each company via another company.
+The business model involved the composite companies contracting out the services of the contractors to their clients.
+The contractors became both employees and (non voting) shareholders of the composite companies.
+The aim of the structure was to seek to ensure that the annual taxable profits of each composite company did not exceed 300,000, in order to get the benefit of the small companies rate of corporation tax.
+From the income the composite companies received from the contractors clients, they paid a salary to each employee/shareholder and also declared dividends to each shareholder/employee (after making provision for the payment of corporation tax at the small companies rate).
+Dividends were paid regularly on the basis of timesheets submitted by shareholders/ employees for the work they performed as contractors.
+Paycheck Services used a software programme which calculated the dividends due and generated a document purporting to be a minute of a directors meeting of the relevant composite company.
+The programme generated onto the minute a copy of Mr Hollands signature authorising the dividend, beneath which appeared the words for and on behalf of Paycheck (Director Services) Ltd. Paycheck Services received a fee for its administrative services.
+No allegation was made that this structure was a sham and there was never any pleading of dishonesty against Mr or Mrs Holland.
+However, HMRC did challenge the structure.
+The structure failed because Mr Holland was the settlor of the one voting share in each composite company, with the result that the composite companies were treated as associated for tax purposes thus exceeding the 300,000 threshold.
+The resultant increased tax liability meant that the composite companies were insolvent,
+with HMRC being the only creditor.
+HMRC alleged that Mr and Mrs Holland were de facto directors of the insolvent companies and responsible under section 212 for causing the payment of dividends to the companies shareholders (the contractors) when the companies had insufficient distributable reserves.
+HMRC sought orders requiring Mr and Mrs Holland to pay amounts in excess of 13m to compensate the insolvent companies.
+The High Court dismissed the claims against Mrs Holland and that decision was not appealed.
+However, the High Court held that Mr Holland was a de facto director of each composite company and so in principle answerable to HMRCs claims.
+The Court of Appeal unanimously allowed Mr Hollands appeal and held that he was not a de facto director of the composite companies.
+The Supreme Court (by a majority of 3 to 2) dismisses the appeal.
+Lords Hope, Collins and Saville gave the majority judgments.
+Lords Walker and Clarke gave dissenting judgments.
+Lord Hope considered that the question of whether Mr Holland was acting as a de facto director of the composite companies must be approached on the basis that Paycheck Directors (the sole corporate director of each of the composite companies) and Mr Holland were in law separate persons, each with their own separate legal personality: [25].
+The mere fact of acting as a director of a corporate director will not be enough for an individual to become a de facto director of the subject company: [29].
+One must look at what a person actually did to see whether he assumed the responsibilities of the office of director: [39].
+Everything Mr Holland did was under the umbrella of being the director of a sole corporate director: [40].
+Until Parliament provides otherwise, if acts are entirely within the ambit of the duties and responsibilities of a director of the corporate director, it is to that capacity that acts are attributed: [42].
+Lord Collins agreed with Lord Hope.
+Lord Collins held that whether a person is a de facto director is not simply a question of fact: the question was whether all of his acts can be attributed in law solely to the activities of the corporate director: [95].
+It did not follow from the fact that Mr Holland took all the relevant decisions that he was a de facto director of the composite companies; if that were so, the guiding mind of every sole corporate director would find themselves the de facto director of another company: [96].
+The basis of liability for a de facto director is an assumption of responsibility and being part of the governing structure.
+Parliament has already intervened in the Companies Act 2006 to ensure that there is a natural person to whom responsibility is attributed.
+The further extension of the concept of de facto director contended for by HMRC is a matter for the legislature and not for the Supreme Court: [96] Lord Saville agreed with Lord Hope and Lord Collins.
+Lord Walker considered that if a person takes all the important decisions affecting a company and sees that they are carried out, then he is acting as a director of that company.
+Lord Walker considered that to attribute acts on the basis of capacity in a corporate structure was the most arid formalism: [115].
+Lord Clarke agreed with Lord Walker and held that capacity should be irrelevant to the question of whether an individual is a de facto director: [132].
+Lord Clarke thought it artificial and wrong to hold that Mr Holland was doing no more than merely discharging his duties as a de jure director of Paycheck Directors: [142].

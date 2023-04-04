@@ -1,0 +1,198 @@
+Modern litigation rarely raises truly fundamental issues in the law of contract.
+This appeal is exceptional.
+It raises two of them.
+The first is whether a contractual term prescribing that an agreement may not be amended save in writing signed on behalf of the parties (commonly called a No Oral Modification clause) is legally effective.
+The second is whether an agreement whose sole effect is to vary a contract to pay money by substituting an obligation to pay less money or the same money later, is supported by consideration.
+MWB Business Exchange Centres Ltd operates serviced offices in central London.
+On 12 August 2011, Rock Advertising Ltd entered into a contractual licence with MWB to occupy office space at Marble Arch Tower in Bryanston Street, London W1, for a fixed term of 12 months commencing on 1 November 2011.
+The licence fee was 3,500 per month for the first three months and 4,333.34 per month for the rest of the term.
+Clause 7.6 of the agreement provided: This Licence sets out all of the terms as agreed between MWB and Licensee.
+No other representations or terms shall apply or form part of this Licence.
+All variations to this Licence must be agreed, set out in writing and signed on behalf of both parties before they take effect.
+On 27 February 2012, Rock Advertising had accumulated arrears of licence fees amounting to more than 12,000.
+Mr Idehen, the companys sole director, proposed a revised schedule of payments to Natasha Evans, a credit controller employed by MWB.
+The effect of the revised schedule was to defer part of the February and March payments, and to spread the accumulated arrears over the remainder of the licence term.
+Account being taken of the implicit interest cost of the deferral, Rocks covenant to pay would be worth slightly less to MWB under Mr Idehens proposal.
+There was then a discussion between them on the telephone, in the course of which Mr Idehen contended that Ms Evans had agreed to vary the licence agreement in accordance with the revised schedule.
+Ms Evans denied this.
+She proceeded to treat the revised schedule as a proposal in a continuing negotiation, and took it to her boss.
+He rejected it.
+On 30 March 2012, MWB locked Rock Advertising out of the premises on account of its failure to pay the arrears, and terminated the licence with effect from 4 May 2012.
+They then sued for the arrears.
+Rock Advertising counterclaimed damages for wrongful exclusion from the premises.
+The fate of the counterclaim, and therefore of the claim, turned on whether the variation agreement was effective in law.
+The case came before Judge Moloney QC, in the Central London County Court, who decided it in favour of MWB.
+He found that an oral agreement had been made with Ms Evans to vary the licence in accordance with the revised schedule, and that she had ostensible authority to make such an agreement.
+He held (i) that the variation agreement was supported by consideration, because it brought practical advantages to MWB, in that the prospect of being paid eventually was enhanced; but (ii) that the variation was ineffective because it was not recorded in writing signed on behalf of both parties, as required by clause 7.6.
+MWB were therefore entitled to claim the arrears without regard to it.
+The Court of Appeal (Arden, Kitchin and McCombe LJJ) overturned him: [2017] QB 604.
+They agreed that the variation was supported by consideration, but they considered that the oral agreement to revise the schedule of payments also amounted to an agreement to dispense with clause 7.6.
+It followed that MWB were bound by the variation and were not entitled to claim the arrears at the time when they did.
+disagreed, namely the legal effect of clause 7.6.
+At common law there are no formal requirements for the validity of a simple contract.
+The only exception was the rule that a corporation could bind itself only under seal, and what remained of that rule was abolished by the Corporate Bodies Contracts Act 1960.
+The other exceptions are all statutory, and none of them applies to the variation in issue here.
+The reasons which are almost invariably given for treating No Oral Modification clauses as ineffective are (i) that a variation of an existing contract is itself a contract; (ii) that precisely because the common law imposes no requirements of form on the making of contracts, the parties may agree informally to dispense with an existing clause which imposes requirements of form; and (iii) they must be taken to have intended to do this by the mere act of agreeing a variation informally when the principal agreement required writing.
+All of these points were made by Cardozo J in a well known passage from his judgment in the New York Court of Appeals in Beatty v Guggenheim Exploration Co (1919) 225 NY 380, 387 388: It is convenient to start with the question on which the courts below Those who make a contract, may unmake it.
+The clause which forbids a change, may be changed like any other.
+The prohibition of oral waiver, may itself be waived.
+Every such agreement is ended by the new one which contradicts it (Westchester F Ins Co v Earle 33 Mich 143, 153).
+What is excluded by one act, is restored by another.
+You may put it out by the door; it is back through the window.
+Whenever two men contract, no limitation self imposed can destroy their power to contract again .
+Part 2 of the United States Uniform Commercial Code introduced a general requirement of writing for contracts of sale above a specified value, coupled with a conditional provision giving effect to No Oral Modification clauses: see sections 2 201, 2 209.
+But before that there was long standing authority in support of the rule stated by Cardozo J in New York and other jurisdictions of the United States.
+It has also been applied in Australia: Liebe v Molloy (1906) 4 CLR 347 (High Court); Commonwealth v Crothall Hospital Services (Aust) Ltd (1981) 54 FLR 439, 447 et seq; GEC Marconi Systems Pty Ltd v BHP Information Technology Pty Ltd (2003) 128 FCR 1.
+And in Canada: Shelanu Inc v Print Three Franchising Corpn (2003) 226 DLR (4th) 577, para 54 per Weiler JA, citing Colautti Construction Ltd v City of Ottawa (1984) 9 DLR (4th) 265 (CA) per Cory JA.
+A corresponding principle is applied in Germany: A Mller, Protecting the Integrity of a Written Agreement (2013), 300 305.
+The English cases are more recent, and more equivocal.
+In United Bank Ltd v Asif (CA, unreported, 11 Feb 2000), Sedley LJ refused leave to appeal from a summary judgment on the ground that it was incontestably right that in the face of a No Oral Modification clause no oral variation of the written terms could have any legal effect.
+The Court of Appeal at an inter partes hearing cited his view and endorsed it.
+Two years later, in World Online Telecom Ltd v I Way Ltd [2002] EWCA Civ 413, Sedley LJs view had softened.
+He held (para 12) that it was a sufficient reason for refusing summary judgment that the law on the topic is not settled.
+In Energy Venture Partners Ltd v Malabu Oil and Gas Ltd [2013] EWHC 2118 (Comm), para 273 Gloster LJ declined to decide the point but incline[d] to the view that such clauses were ineffective.
+The same view was expressed, more firmly, but obiter, by Beatson LJ in Globe Motors Inc v TRW Lucas Varity Electric Steering Ltd [2016] 1 CLC 712, paras 101 107, with the support of Moore Bick and Underhill LJJ.
+On the other side of this debate, there is a substantial body of recent academic writing in support of a rule which would give effect to No Oral Modification clauses according to their terms: see Jonathan Morgan, Contracting for self denial: on enforcing No oral modification clauses (2017) 76 CLJ 589; E McKendrick, The legal effect of an Anti oral Variation Clause, (2017) 32 Journal of International Banking Law and Regulation, 439; Janet OSullivan, Unconsidered Modifications (2017) 133 LQR 191.
+requiring specified formalities to be observed for a variation.
+In my opinion the law should and does give effect to a contractual provision
+The starting point is that the effect of the rule applied by the Court of Appeal in the present case is to override the parties intentions.
+They cannot validly bind themselves as to the manner in which future changes in their legal relations are to be achieved, however clearly they express their intention to do so.
+In the Court of Appeal, Kitchin LJ observed that the most powerful consideration in favour of this view is party autonomy: para 34.
+I think that this is a fallacy.
+Party autonomy operates up to the point when the contract is made, but thereafter only to the extent that the contract allows.
+Nearly all contracts bind the parties to some course of action, and to that extent restrict their autonomy.
+The real offence against party autonomy is the suggestion that they cannot bind themselves as to the form of any variation, even if that is what they have agreed.
+There are many cases in which a particular form of agreement is prescribed by statute: contracts for the sale of land, certain regulated consumer contracts, and so on.
+There is no principled reason why the parties should not adopt the same principle by agreement.
+The advantages of the common laws flexibility about formal validity are that it enables agreements to be made quickly, informally and without the intervention of lawyers or legally drafted documents.
+Nevertheless, No Oral Modification clauses like clause 7.6 are very commonly included in written agreements.
+This suggests that the common laws flexibility has been found a mixed blessing by businessmen and is not always welcome.
+There are at least three reasons for including such clauses.
+The first is that it prevents attempts to undermine written agreements by informal means, a possibility which is open to abuse, for example in raising defences to summary judgment.
+Secondly, in circumstances where oral discussions can easily give rise to misunderstandings and crossed purposes, it avoids disputes not just about whether a variation was intended but also about its exact terms.
+Thirdly, a measure of formality in recording variations makes it easier for corporations to police internal rules restricting the authority to agree them.
+These are all legitimate commercial reasons for agreeing a clause like clause 7.6.
+I make these points because the law of contract does not normally obstruct the legitimate intentions of businessmen, except for overriding reasons of public policy.
+Yet there is no mischief in No Oral Modification clauses, nor do they frustrate or contravene any policy of the law.
+The reasons advanced in the case law for disregarding them are entirely conceptual.
+The argument is that it is conceptually impossible for the parties to agree not to vary their contract by word of mouth because any such agreement would automatically be destroyed upon their doing so.
+The difficulty about this is that if it is conceptually impossible, then it cannot be done, short of an overriding rule of law (presumably statutory) requiring writing as a condition of formal validity.
+Yet it is plain that it can.
+There are legal systems which have squared this particular circle.
+They impose no formal requirements for the validity of a commercial contract, and yet give effect to No Oral Modification clauses.
+The Vienna Convention on Contracts for the International Sale of Goods (1980) has been ratified by 89 states, not including the United Kingdom.
+It provides by article 11 that a contract of sale need not be concluded in or evidenced by writing and is not subject to any other requirement as to form.
+Nonetheless, article 29(2) provides: A contract in writing which contains a provision requiring any modification or termination by agreement to be in writing may not be otherwise modified or terminated by agreement.
+However, a party may be precluded by his conduct from asserting such a provision to the extent that the other party has relied on that conduct.
+Similarly, article 1.2 of the UNIDROIT Principles of International Commercial Contracts, 4th ed (2016), provides that nothing in these Principles requires a contract, statement or any other act to be made in or evidenced by a particular form.
+Yet article 2.1.18 provides that A contract in writing which contains a clause requiring any modification or termination by agreement to be in a particular form may not be otherwise modified or terminated.
+However, a party may be precluded by its conduct from asserting such a clause to the extent that the other party has reasonably acted in reliance on that conduct.
+These widely used codes suggest that there is no conceptual inconsistency between a general rule allowing contracts to be made informally and a specific rule that effect will be given to a contract requiring writing for a variation.
+The same point may be made in a purely English context by reference to the treatment of entire agreement clauses, which give rise to very similar issues.
+Entire agreement clauses generally provide that they set out the entire agreement between the parties and supersede all proposals and prior agreements, arrangements and understandings between the parties.
+An abbreviated form of the clause is contained in the first two sentences of clause 7.6 of the agreement in issue in this case.
+Such clauses are commonly coupled (as they are here) with No Oral Modification clauses addressing the position after the contract is made.
+Both are intended to achieve contractual certainty about the terms agreed, in the case of entire agreement clauses by nullifying prior collateral agreements relating to the same subject matter.
+As Lightman J put it in Inntrepreneur Pub Co (GL) v East Crown Ltd [2000] 2 Lloyds Rep 611, para 7: The purpose of an entire agreement clause is to preclude a party to a written agreement from threshing through the undergrowth and finding in the course of negotiations some (chance) remark or statement (often long forgotten or difficult to recall or explain) on which to found a claim such as the present to the existence of a collateral warranty.
+The entire agreement clause obviates the occasion for any such search and the peril to the contracting parties posed by the need which may arise in its absence to conduct such a search.
+For such a clause constitutes a binding agreement between the parties that the full contractual terms are to be found in the document containing the clause and not elsewhere, and that accordingly any promises or assurances made in the course of the negotiations (which in the absence of such a clause might have effect as a collateral warranty) shall have no contractual force, save insofar as they are reflected and given effect in that document.
+The operation of the clause is not to render evidence of the collateral warranty inadmissible in evidence as is suggested in Chitty on Contract 28th ed Vol 1 para 12 102: it is to denude what would otherwise constitute a collateral warranty of legal effect.
+But what if the parties make a collateral agreement anyway, and it would otherwise have bound them? In Brikom Investments Ltd v Carr [1979] QB 467, 480, Lord Denning MR brushed aside an entire agreement clause, observing that the cases are legion in which such a clause is of no effect in the face of an express promise or representation on which the other side has relied.
+In fact there were at that time no cases in which the courts had declined to give effect to such clauses, and the one case which Lord Denning cited (J Evans & Son (Portsmouth) Ltd v Andrea Merzario Ltd [1976] 1 WLR 1078) was really a case of estoppel and concerned a different sort of clause altogether.
+In Ryanair Ltd v SR Technics Ireland Ltd [2007] EWHC 3089 (QB), at paras 137 143, Gray J treated Lord Dennings dictum as a general statement of the law.
+But in my view it cannot be supported save possibly in relation to estoppel.
+The true position is that if the collateral agreement is capable of operating as an independent agreement, and is supported by its own consideration, then most standard forms of entire agreement clause will not prevent its enforcement: see Business Environment Bow Lane Ltd v Deanwater Estates Ltd [2007] L & TR 26 (CA), at para 43, and North Eastern Properties Ltd v Coleman [2010] 1 WLR 2715 at paras 57 (Briggs J), 82 83 (Longmore LJ).
+But if the clause is relied upon as modifying what would otherwise be the effect of the agreement which contains it, the courts will apply it according to its terms and decline to give effect to the collateral agreement.
+As Longmore LJ observed in the North Eastern Properties Ltd case, at para 82: if the parties agree that the written contract is to be the entire contract, it is no business of the courts to tell them that they do not mean what they have said.
+Thus in McGrath v Shah (1989) 57 P & CR 452, 459, John Chadwick QC (sitting as a Deputy Judge of the Chancery Division) applied an entire agreement clause in a contract for the sale of land, where the clause served the important function of ensuring that the contract was not avoided under section 2 of the Law of Property (Miscellaneous Provisions) Act 1989 on the ground that the terms were not all contained on one document.
+Outside the domain, in some ways rather special, of contracts for the sale of land, in Deepak Fertilisers and Petrochemical Corpn v ICI Chemicals & Polymers Ltd [1998] 2 Lloyds Rep 139, 168 (Rix J) and (1999) 1 Lloyds Rep 387, para 34 (CA), both Rix J and the Court of Appeal treated the question as one of construction and gave effect to the clause according to its terms.
+Lightman J did the same in the Inntrepreneur case.
+Since then, entire agreement clauses have been routinely applied: see Matchbet Ltd v Openbet Retail Ltd [2013] EWHC 3067 (Ch), para 112; Mileform Ltd v Interserve Security Ltd [2013] EWHC 3386 (QB), paras 93 101; Moran Yacht & Ship Inc v Pisarev [2016] 1 Lloyds Rep 625 (CA), para 18; First Tower Trustees Ltd v CDS (Superstores International) Ltd [2017] 4 WLR 73, paras 17, 26; Adibe v National Westminster Bank Plc [2017] EWHC 1655 (Ch), para 29; Triple Point Technology Inc v PTT Public Co Ltd [2017] EWHC 2178 (TCC), para 68; ZCCM Investments Holdings Plc v Konkola Copper Mines Plc [2017] EWHC 3288 (Comm), para 21.
+If, as I conclude, there is no conceptual inconsistency between a general rule allowing contracts to be made informally and a specific rule that effect will be given to a contract requiring writing for a variation, then what of the theory that parties who agree an oral variation in spite of a No Oral Modification clause must have intended to dispense with the clause? This does not seem to me to follow.
+What the parties to such a clause have agreed is not that oral variations are forbidden, but that they will be invalid.
+The mere fact of agreeing to an oral variation is not therefore a contravention of the clause.
+It is simply the situation to which the clause applies.
+It is not difficult to record a variation in writing, except perhaps in cases where the variation is so complex that no sensible businessman would do anything else.
+The natural inference from the parties failure to observe the formal requirements of a No Oral Modification clause is not that they intended to dispense with it but that they overlooked it.
+If, on the other hand, they had it in mind, then they were courting invalidity with their eyes open.
+The enforcement of No Oral Modification clauses carries with it the risk that a party may act on the contract as varied, for example by performing it, and then find itself unable to enforce it.
+It will be recalled that both the Vienna Convention and the UNIDROIT model code qualify the principle that effect is given to No Oral Modification clauses, by stating that a party may be precluded by his conduct from relying on such a provision to the extent that the other party has relied (or reasonably relied) on that conduct.
+In some legal systems this result would follow from the concepts of contractual good faith or abuse of rights.
+In England, the safeguard against injustice lies in the various doctrines of estoppel.
+This is not the place to explore the circumstances in which a person can be estopped from relying on a contractual provision laying down conditions for the formal validity of a variation.
+The courts below rightly held that the minimal steps taken by Rock Advertising were not enough to support any estoppel defences.
+I would merely point out that the scope of estoppel cannot be so broad as to destroy the whole advantage of certainty for which the parties stipulated when they agreed upon terms including the No Oral Modification clause.
+At the very least, (i) there would have to be some words or conduct unequivocally representing that the variation was valid notwithstanding its informality; and (ii) something more would be required for this purpose than the informal promise itself: see Actionstrength Ltd v International Glass Engineering In Gl En SpA [2003] 2 AC 541, paras 9 (Lord Bingham), 51 (Lord Walker).
+I conclude that the oral variation which Judge Moloney found to have been agreed in the present case was invalid for the reason that he gave, namely want of the writing and signatures prescribed by clause 7.6 of the licence agreement.
+That makes it unnecessary to deal with consideration.
+It is also, I think, undesirable to do so.
+The issue is a difficult one.
+The only consideration which MWB can be said to have been given for accepting a less advantageous schedule of payments was (i) the prospect that the payments were more likely to be made if they were loaded onto the back end of the contract term, and (ii) the fact that MWB would be less likely to have the premises left vacant on its hands while it sought a new licensee.
+These were both expectations of practical value, but neither was a contractual entitlement.
+In Williams v Roffey Bros & Nicholls (Contractors) Ltd [1991] 1 QB 1, the Court of Appeal held that an expectation of commercial advantage was good consideration.
+The problem about this was that practical expectation of benefit was the very thing which the House of Lords held not to be adequate consideration in Foakes v Beer (1884) 9 App Cas 605: see in particular p 622 per Lord Blackburn.
+There are arguable points of distinction, although the arguments are somewhat forced.
+A differently constituted Court of Appeal made these points in In re Selectmove Ltd [1995] 1 WLR 474, and declined to follow Williams v Roffey.
+The reality is that any decision on this point is likely to involve a re examination of the decision in Foakes v Beer.
+It is probably ripe for re examination.
+But if it is to be overruled or its effect substantially modified, it should be before an enlarged panel of the court and in a case where the decision would be more than obiter dictum.
+I would allow the present appeal and restore the order of Judge Moloney.
+LORD BRIGGS:
+I agree with Lord Sumption that this appeal should be allowed, on the ground that the No Oral Modification (NOM) provision in clause 7.6 of the Licence Agreement deprived the alleged oral agreement asserted by Rock Advertising of any binding force as a contractual variation.
+I also agree that, in those circumstances, it would not be desirable for this court to address the issue of consideration, for the reasons which he gives.
+I have however reached my conclusion about the NOM issue on different and rather narrower grounds than his, although I do not think that our differences in reasoning would have any significant consequences for the application of the common law, save perhaps on very unlikely facts.
+The starting point, as Lord Sumption says, is that NOM clauses are a frequently encountered, sensible provision in business agreements, which are recognised as effective in many legal codes around the world, such that the common law should give effect to them if it can.
+I need say nothing more than he does about their advantages.
+I also agree that the obstacle which has thus far stood in the way of their recognition in this and many other common law jurisdictions is mainly conceptual.
+Two (or more) persons may of course bind themselves contractually as to their future conduct, and that will prevail for as long as one of them desires that this regime should remain in place.
+But if they both (or all) agree, in some form recognised by the law, that they should no longer be bound, why should their previous agreement to the contrary stand in their way? While statute may, in the public interest, require certain formalities for the making of certain types of contract, the common law leaves the parties to choose their own, so long as the essential elements of offer, acceptance and consideration are observed.
+These matters are as applicable to the variation of an existing contract as they are to the making of a contract in the first place.
+This basic concept, that parties to a contract have complete freedom by further agreement to unbind themselves as to their future conduct, is in principle applicable not merely to their substantive mutual obligations, but also to any procedural restraints upon which they may agree, including restraints as to how they may vary their existing contractual relationship.
+It is therefore fully applicable to the constraint upon their future conduct imposed by a NOM clause.
+No one doubts that parties to a contract containing a NOM clause are at liberty thereafter to remove it from their bargain, temporarily or permanently, by a compliant written variation, following which it will not inhibit them from agreeing further variations purely orally.
+The critical questions for present purposes are, first: whether the parties can agree to remove a NOM clause from their bargain orally and, second: whether, if so, such an agreement will be implied where they agree orally upon a variation of the substance of their relationship (which the NOM clause would require to be in writing) without saying anything at all about the NOM clause.
+Must they be taken so to have agreed by the very fact that they have made the substantive variation orally? Lord Sumption would answer the first question in the negative, so that, for him, the second question would not arise.
+For the reasons which follow, I would answer the first question in the affirmative, but not (generally at least) the second.
+The outcome on the present facts is the same.
+In this case the alleged oral agreement to vary the Licence said nothing whatsoever about the NOM clause (of which both Mr Idehen and Ms Evans were probably entirely unaware), and I would not treat it as having been done away with by necessary implication.
+The result is that their alleged agreement as to the terms of a variation had no immediately binding force, any more than an agreement made subject to contract.
+This will probably be the outcome on any comparable or likely fact set since, leaving aside emergencies, once the parties focus on the obstacle presented by the NOM clause, they would almost certainly remove it by a simple written variation, or indeed make the whole of the substantive variation itself in writing.
+I must start by explaining why I have not been persuaded by Lord Sumptions analysis that I can surmount the conceptual problem that has thus far proved insuperable in most common law jurisdictions, as enunciated in the celebrated dictum of Cardozo J in Beatty v Guggenheim which Lord Sumption cites at para 7.
+His starting point is that to refuse to recognise the effect of a NOM clause is to override the parties intentions, so as to make it impossible for them validly to bind themselves as to the manner in which a change in their legal relations is to be achieved in the future.
+I respectfully disagree.
+For as long as either (or any) party to a contract containing a NOM clause wishes the NOM clause to remain in force, that party may so insist, and nothing less than a written variation of the substance will suffice to vary the rest of the contract (leaving aside estoppel).
+The NOM clause will remain in force until they both (or all) agree to do away with it.
+In particular it will deprive any oral terms for a variation of the substance of their obligations of any immediately binding force, unless and until they are reduced to writing, or the NOM clause is itself removed or suspended by agreement.
+That fully reflects the autonomy of parties to bind themselves as to their future conduct, while preserving their autonomy to agree to release themselves from that inhibition.
+There are of course statutes which require particular formalities for the making of certain types of contract, but they are binding because they are imposed by the legislature as part of the law of the land, and may only be released by the legislature.
+Of course private parties may agree upon a scheme of local law by which they (and even their successors in title) are in future to be bound, as in the case of certain types of covenants affecting the use of land, but that scheme of local law may be varied or abandoned by the same parties, by agreement.
+What is to my mind conceptually impossible is for the parties to a contract to impose upon themselves such a scheme, but not to be free, by unanimous further agreement, to vary or abandon it by any method, whether writing, spoken words or conduct, permitted by the general law.
+I recognise that there are a number of widely used codes of law, by which parties may be, or agree to be, bound, that do recognise NOM clauses as effective to deny any legal effect from subsequent oral variations of the contract incorporating such a code.
+If they form part of a national law, then they bind parties to a contract governed by that law in the same way as would an English statute.
+If they are simply part of a code chosen by the parties to govern their contractual relationship, they do not prevent the parties from expressly agreeing to depart from those codal restrictions, either generally or for a specific purpose.
+But such an agreed departure will not lightly be inferred, where the parties merely conduct themselves in a non compliant manner, for example by discussing and even reaching a consensus about a variation of the substance of their obligations purely orally, without express reference to the NOM clause.
+The effect of contracting in terms which incorporate such a code, where the code includes or recognises the effect of a NOM clause, is at least at the conceptual level no more or less effective than simply including a NOM clause in the contract.
+Nor have I found the entire agreement clause a useful analogy.
+It may well serve the same objective of promoting legal certainty as to what the agreement is but, as Lord Sumption explains, these clauses do not purport to bind the parties as to their future conduct.
+They leave the scope and the procedure for subsequent variation entirely unaffected.
+They therefore give rise to no conceptual difficulty of the type which affects a NOM clause.
+By contrast I fully agree with Lord Sumptions proposition that parties who orally agree the terms of a variation of the substance of their contractual relationship do not thereby (and without more) impliedly agree to dispense with the NOM clause.
+There is to my mind a powerful analogy with the way in which the law treats negotiations subject to contract.
+Where parties agree to negotiate (or declare that they are negotiating) under the subject to contract umbrella and, at the end of those negotiations, reach consensus ad idem supported by consideration sufficient (but for the umbrella) to give rise to a contract, no binding obligations thereby ensue unless or until they have made a formal written contract, or expressly agreed to dispense with that umbrella.
+Its abandonment will not be implied merely because they have reached full agreement, unless such an implication was necessary.
+Cumming Bruce LJ provides a concise summary of this principle in Cohen v Nessdale Ltd [1982] 2 All ER 97, 103 104 by reference (via a citation from Sherbrooke v Dipple (1980) 41 P & CR 173) to embedded dicta of Brightman J in Tevanon v Norman Brett (Builders) Ltd (1972) 223 EG 1945, 1947 in the following terms: Brightman J said that parties could get rid of the qualification of subject to contract only if they both expressly agreed that it should be expunged or if such an agreement was to be necessarily implied. [W]hen parties started their negotiations under the umbrella of the subject to contract formula, or some similar expression of intention, it was really hopeless for one side or the other to say that a contract came into existence because the parties became of one mind notwithstanding that no formal contracts had been exchanged.
+Where formal contracts were exchanged, it was true that the parties were inevitably of one mind at the moment before the exchange was made.
+But they were only of one mind on the footing that all the terms and conditions of the sale and purchase had been settled between them, and even then the original intention still remained intact that there should be no formal contract in existence until the written contracts had been exchanged.
+Cumming Bruce LJ then quoted Templeman LJ in Sherbrooke as saying: Brightman J thought parties could get rid of the qualification of subject to contract only if they both expressly agreed that it should be expunged or if such an agreement was to be necessarily implied.
+Necessity is in this context a strict test.
+It will, perhaps unfortunately, commonly be the case that the persons charged with the day to day performance of a business contract will, with full authority to do so, agree some variation in the manner in which it is to be performed, blissfully unaware that the governing contract has, buried away in the small print of standard terms, a NOM clause inserted by diligent lawyers anxious to minimise the risk of litigation about its terms.
+That will be arid ground for an implied term that the NOM clause, of which they were unaware, was agreed to be treated as done away with.
+Where however the orally agreed variation called for immediately different performance from that originally contracted for, before any written record of the variation could be made and signed, then necessity may lead to the implication of an agreed departure from the NOM clause, but the same facts would be equally likely to give rise to an estoppel, even if not.
+But that is far from the facts of this case, where there was no such urgency.
+In my view this more cautious recognition of the effect of a NOM clause, namely that it continues to bind until the parties have expressly (or by strictly necessary implication) agreed to do away with it, would give the parties most of the commercial benefits of certainty and the avoidance of abusive litigation about alleged oral variation for which its proponents contend.
+It would certainly do so in the present case.
+It would probably leave only those cases where the subject matter of the variation was to be, and was, immediately implemented, where estoppel and release of the NOM clause by necessary implication are likely to go hand in hand.
+While it might in theory also leave open the case where it is alleged that the parties did have the NOM clause in mind, and then agreed to do away with it orally, that seems to me to be so unlikely a story that a judge would usually have little difficulty in treating it as incredible (if denied), and therefore as presenting no obstacle to summary judgment on the contract in its unvaried form.
+In proposing this perhaps cautious solution to the problem thrown up by this case I am comforted by the perception that it represents an incremental development of the common law which accords more closely with the conceptual analysis adopted in most other common law jurisdictions, as Lord Sumption has described.
+By contrast the more radical solution which he proposes would involve a clean break with something approaching an international common law consensus, unsupported by any societal or other considerations peculiar to England and Wales.
+There may be cases where a pressing need to modernise the common law justifies such a break, perhaps in the expectation that other common law jurisdictions will in due course follow, but this case is not, in my opinion, one of them.

@@ -1,0 +1,331 @@
+This appeal is about the defence of illegality: ex turpi causa non oritur actio.
+The first claimant Les Laboratoires Servier is a French pharmaceutical company which originated the perindopril erbumine compound, an ACE inhibitor used for treating hypertension and cardiac insufficiency.
+The respondents are companies of the Apotex Group, a Canadian pharmaceuticals group specialising in the manufacture and marketing of generic pharmaceutical products.
+The parties have agreed that for the purpose of resolving the issues on this appeal, both groups can be treated as one entity without regard to the distinct corporate personality of the companies comprising them. 4.
+A number of patents for the perindopril erbumine compound have been granted to Servier and its associated companies.
+In Europe, patent protection for the compound itself expired in June 2003.
+However, the corresponding Canadian patent for the compound will not expire until 2018.
+The present dispute relates to a United Kingdom patent not for the compound but for a specific crystalline form of the compound, which was granted to Servier.
+Its UK subsidiary Servier Laboratories Ltd was the exclusive licensee.
+In March 2006 Apotex wrote to Servier to notify them that they intended to market generic perindopril in the UK, and at the end of July 2006, upon obtaining marketing authorisation, they began to do so.
+On 1 August 2006, Servier began proceedings against Apotex for infringement of the UK patent.
+On 7 August, Mann J granted an interlocutory injunction restraining the importation and sale by the Apotex companies of generic perindopril erbumine in the United Kingdom.
+The injunction was obtained upon Servier giving the ordinary undertaking to comply with any order that the court might make if it should later find that the order had caused loss to Apotex for which it should be compensated.
+Pumfrey J gave judgment on the claim on 11 July 2007 [2007] EWHC 1538.
+He held that the patent had been infringed but that it was invalid, and discharged the injunction.
+Serviers appeal was dismissed by the Court of Appeal on 28 April 2008 [2008] EWCA Civ 445. 6. 5.
+Meanwhile, separate proceedings were in progress in Canada for infringement of the Canadian patent for the compound itself.
+An interlocutory injunction had been refused in those proceedings.
+But on 2 July 2008, Snider J held that the Canadian patent was valid and infringed, and granted a final injunction.
+The Canadian Federal Court of Appeal dismissed Apotexs appeal on 30 June 2009, and leave to appeal to the Supreme Court of Canada was refused on 25 March 2010.
+A separate trial of damages is expected in November 2014.
+It is agreed that damages under the undertaking in the English proceedings fall to be assessed on the basis that but for the injunction Apotex would have sold in the United Kingdom an additional 3.6 million packs of perindopril erbumine tablets.
+The active ingredient would have been manufactured by Apotex Pharmachem Inc in Canada and sold at a 30% mark up to Apotex Inc. Apotex Inc would have formulated it into tablets, also in Canada, and sold the tablets to Apotex UK Ltd which would then have sold them on the UK market.
+Under the terms of the sale to Apotex UK Ltd, Apotex Inc would have received 90% of the profits arising from UK sales.
+The assessment was heard before Norris J in June 2008, and judgment was reserved.
+In July 2008, after Snider J had given judgment in Canada but before Norris J had given judgment on the assessment in England, Servier applied to Norris J to re amend their defence to plead two points arising out of Snider Js judgment.
+The first, which I shall call the illegality point was that it was contrary to public policy for Apotex to recover damages for being prevented from selling a product whose manufacture in Canada would have been illegal there as an infringement of Serviers Canadian patent.
+The second, which I shall call the cost of manufacture point was that in assessing Apotexs loss of profit the damages for infringement to which they would be entitled in the Canadian proceedings should be treated as an additional cost of manufacture, thereby reducing or eliminating the profit.
+On 9 October 2008, Norris J gave judgment on the assessment: [2009] FSR 220.
+He refused permission to amend, on the ground that the application came too late and would cause undue prejudice to Apotex.
+He then awarded Apotex 17.5 million damages plus interest of approximately 2.1 million, to be split 90/10 between Apotex Inc and Apotex UK.
+However, on 12 February 2010, the Court of Appeal allowed an appeal from the refusal of the amendment, and directed that Norris Js award of damages should be treated as an interim order pending determination of the new issues: [2010] EWCA Civ 279.
+Subsequently, Lewison J made an order staying the second of the new issues (the cost of manufacture issue) until damages had been assessed in Canada. 8. 7.
+The judgments below 9.
+The illegality point turns in this case on three issues: (1) Does the infringement of a foreign patent rights constitute a relevant illegality (turpitude) for the purpose of the defence? If so, is Apotex seeking to found its claim on it? Is Servier entitled to take the public policy point having given an undertaking in damages? (2) (3) 10. Arnold J gave judgment on these questions on 29 March 2011: [2011] RPC 574.
+He decided all three points in favour of Servier.
+On the first point, he held that a relevant illegality was one which was sufficiently serious in all the circumstances of the case, including in particular whether the illegal act was done with knowledge or deliberately.
+On the second point, he held that the claim was barred because Apotex could not make good its claim for damages without affirming that it would have manufactured the product in Canada, where it was illegal to do so.
+On the third point, he held that it was not inconsistent with the undertaking as to damages for Servier to raise the illegality defence.
+In the result, Arnold J held that the whole of Apotexs claim on the undertaking was barred, and ordered the repayment of the amount which they had received in satisfaction of Norris Js judgment. 11.
+Apotex appealed to the Court of Appeal.
+Shortly before the hearing of the appeal they conceded that any damages awarded in the Canadian proceedings should be deducted from Norris Js award irrespective of the fate of the public policy point.
+The Court of Appeal gave judgment on 3 May 2012 allowing the appeal: [2013] Bus LR 80.
+The leading judgment was given by Etherton LJ, with whom Laws LJ and Kitchin LJ agreed.
+The essential point on which he differed from the judge was issue (1).
+In his view, the infringement of Serviers Canadian patent was not a relevant illegality for the purposes of the defence.
+This was because (para. 73) in dealing with the illegality defence, the court was entitled, to take into account a wide range of considerations in order to ensure that the defence only applies where it is a just and proportionate response to the illegality involved in the light of the policy considerations underlying it.
+Etherton LJ considered that this test was not satisfied because (i) Apotex honestly and reasonably believed the Canadian patent to be invalid; (ii) it was important as a matter of principle that Servier, having enjoyed a monopoly by virtue of the injunction, should have to pay when it was found not to be entitled to it; (iii) the sale of the tablets in the United Kingdom was not an infringement of the Canadian patent, whose effect was limited to Canada; (iv) the Canadian court had refused to grant an interlocutory injunction restraining the manufacture of the active ingredient or its formulation into tablets in Canada; and (v) any public policy arising from the illegality of the manufacture and formulation of the product in Canada was sufficiently addressed by Apotexs concession that credit had to be given for the damages payable in the Canadian proceedings for the infringements committed there.
+If Etherton LJ had been satisfied that the infringement of the Canadian patent was a relevant illegality, he would have upheld the illegality defence.
+This was because like the judge he considered that there was a sufficiently close causal relationship between the patent infringement and the loss suffered by virtue of the injunction; and because, like the judge again, he was not impressed by the suggestion that the taking of the illegality defence was inconsistent with the undertaking in damages. 12.
+The Court of Appeal approved the concession made by Apotex about the credit to be given for the damages for infringement payable in Canada.
+It followed that the financial consequences of its decision must depend on what happens on the assessment of damages in Canada.
+The illegality defence: a rule of law 13.
+English law has a long standing repugnance for claims which are founded on the claimant's own illegal or immoral acts.
+The law on this point was already well established when Lord Mansfield CJ articulated it in his celebrated statement of principle in Holman vs Johnson (1775) 1 Cowp. 34l, 343: No court will lend its aid to a man who founds his cause of action on an immoral or an illegal act.
+If, from the plaintiffs own stating or otherwise, the cause of action appears to arise ex turpi causa, or the transgression of a positive law of this country, there the court says that he has no right to be assisted.
+It is upon that ground the court goes; not for the sake of the defendant, but because they will not lend their aid to such a plaintiff.
+So if the plaintiff and defendant were to change sides, and the defendant was to bring his action against the plaintiff, the latter would then have the advantage of it; for where both are equally in fault, potior est condition defendentis.
+The doctrine necessarily operates harshly in some cases, for it is relevant only to bar claims which would otherwise have succeeded.
+For this reason it is in the nature of things bound to confer capricious benefits on defendants some of whom have little to be said for them in the way of merits, legal or otherwise.
+Lord Mansfield acknowledged this when he pointed out: The objection, that a contract is immoral or illegal as between plaintiff and defendant, sounds at all times very ill in the mouth of the defendant.
+It is not for his sake, however, that the objection is ever allowed; but it is founded in general principles of policy, which the defendant has the advantage of, contrary to the real justice, as between him and the plaintiff .
+Lord Mansfields formulation begs many questions.
+But as these citations show, two features of this area of law have been characteristic of it from the outset.
+First, it is a rule of law and not a mere discretionary power.
+Secondly, it is based on public policy, and not on the perceived balance of merits between the parties to any particular dispute. 14.
+The question what is involved in founding on an immoral or illegal act has given rise to a large body of inconsistent authority which rarely rises to the level of general principle.
+The main reason for the disordered state of the case law is the distaste of the courts for the consequences of applying their own rules, consequences which Lord Mansfield had pointed out two centuries ago.
+The only rational way of addressing this problem, if these consequences are regarded as intolerable, is to transform the rule into a mere power whose actual exercise would depend on the perceived equities of each case.
+The most notable modern attempt to achieve this transformation was made by the Court of Appeal in Euro Diam v Bathurst Ltd [1990] 1 QB 1, in which the illegality defence was invoked in response to a claim on a property insurance.
+The Court of Appeal placed the reported cases in a number of distinct factual categories, united by a common principle.
+Kerr LJ, delivering the only reasoned judgment, expressed that principle at p 35 by saying that the test was whether in all the circumstances it would be an affront to the public conscience to grant the plaintiff the relief which he seeks because the court would thereby appear to assist or encourage the plaintiff in his illegal conduct or to encourage others in similar acts.
+That question, he suggested, needed to be approached pragmatically and with caution, depending on the circumstances.
+Under this public conscience test, the application of the illegality defence was not discretionary in law.
+But it was clearly discretionary in nature.
+In substance it called for a value judgment about the significance of the illegality and the injustice of barring the claimants claim on account of it. 15.
+This development had been foreshadowed by some earlier decisions of the Court of Appeal.
+But it was decisively rejected by the House of Lords in Tinsley v Milligan [1994] 1 AC 240.
+That appeal arose out of an agreement under which two ladies bought a house to live in out of jointly owned funds.
+They agreed to vest it in one of them alone so that the other could claim social security benefits on the fraudulent basis that she did not own her home and was paying rent.
+In the ordinary course, the joint purchase of property by two people in the name of one of them would give rise to an equitable proprietary interest in the other.
+The question was whether the assertion of this interest in a court of law was debarred by the dishonesty of the parties purpose.
+The Court of Appeal, by a majority, had applied the public conscience test.
+Ralph Gibson LJ dissented [1992] Ch. 310, observing in his judgment, at p 334, that in so far as the basis of the ex turpi causa defence, as founded on public policy, is directed at deterrence it seems to me that the force of the deterrent effect is in the existence of the known rule and in its stern application.
+Lawyers have long known of the rule and must have advised many people of its existence. 16.
+In the House of Lords, the committee was divided on the correct test as well as on the correct result.
+But it was unanimous in rejecting the public conscience test, on the ground that it was unprincipled.
+The leading speech on this point was that of Lord Goff.
+Like almost every court which has reviewed the question, he took as his starting point the statement of Lord Mansfield in Holman v Johnson.
+At p 355, he observed: That principle has been applied again and again, for over 200 years.
+It is applicable in courts of equity as well as courts of law: see, e.g., the notes to Roberts vs Roberts (1818) Dan. 143, 150 151 and Ayerst vs Jenkins (1873) L.R. 16 Eq. 275, 283, per Lord Selborne L.C.
+In 1869 Mellor J. said that the maxim in pari delicto potior est conditio possidentis is as thoroughly settled as any proposition of law can be: see Taylor vs Chester (1869) L.R. 4 Q.B. 309, 313.
+It is important to observe that, as Lord Mansfield made clear, the principle is not a principle of justice; it is a principle of policy, whose application is indiscriminate and so can lead to unfair consequences as between the parties to litigation.
+Moreover the principle allows no room for the exercise of any discretion by the court in favour of one party or the other.
+Lord Goff acknowledged (at p 364 D E) that [t]he real criticism of the present rules is not that they are unprincipled, but rather that they are indiscriminate in their effect, and are capable therefore of producing injustice.
+Indeed, in the case before him, he regarded the claimants misconduct as relatively minor and pointed out that she had already made amends for it by repaying the sums dishonestly obtained in social security benefits.
+However, he considered that the illegality defence was governed by established rules of law (p 364F).
+Endorsing the view of Ralph Gibson LJ in the passage from which I have cited above, he rejected the public conscience test as contrary to 200 years of authority, because it required the court to weigh, or balance, the adverse consequences of respectively granting or refusing relief.
+This is little different, if at all, from stating that the court has a discretion whether to grant or refuse relief.
+It is very difficult to reconcile such a test with the principle of policy stated by Lord Mansfield CJ in Holman v Johnson . or with the established principles to which I have referred. (p 358 E F).
+Its adoption, he said, would constitute a revolution in this branch of the law, under which what is in effect a discretion would become vested in the court to deal with the matter by the process of a balancing operation, in place of a system of rules ultimately derived from the principle of public policy enunciated by Lord Mansfield CJ in Holman v Johnson. (p 363B).
+As he pointed out (at p 362 G H), short of treating the application of the rule as discretionary, it is difficult to make a principled distinction between degrees of iniquity. 17.
+Lord Browne Wilkinson (p 369B) agreed with Lord Goff on this point, observing that the consequences of being a party to an illegal transaction cannot depend, as the majority in the Court of Appeal held, on such an imponderable factor as the extent to which the public conscience would be affronted by recognising rights created by illegal transactions.
+The other members of the committee all agreed with the speeches of Lord Goff and Lord Browne Wilkinson on this point. 18.
+The House was divided on the question what should be substituted for the public conscience test.
+Lord Keith and Lord Goff favoured a rule which would bar any claim tainted by a sufficiently close factual connection with the illegal purpose, and would have dismissed the claim to an equitable interest in the house on that ground.
+Lord Browne Wilkinson, with whom Lord Jauncey and Lord Lowry agreed, preferred the reliance test derived from the decision of the Court of Appeal in Bowmakers Ltd v Barnet Instruments Ltd [1945] KB 65 and of the Privy Council in Palaniappa Chettiar v Arunasalam Chettiar [1962] AC 294.
+The effect of this test was that the claim was barred only if the claimant needed to rely on (i.e. to assert, whether by way of pleading or evidence) facts which disclosed the illegality: see Lord Browne Wilkinson at pp 370C D, 375 376; cf.
+Lord Jauncy at p 366C G. Both are intended to exclude those consequences of an illegal act which are merely collateral to the claim.
+Neither makes the application of the illegality defence dependent on a value judgment about the significance of the illegality or the consequences for the parties of barring the claim.
+For present purposes, it is enough to point out that neither test is discretionary in nature.
+Neither of them is based on achieving proportionality between the claimants misconduct and his loss, a concept derived from public law which is not easily transposed into the law of obligations.
+On the contrary, Lord Goff recognised, as Lord Mansfield had before him, that the practical operation of the law in this field will often produce disproportionately harsh consequences. 19.
+The Court of Appeal was bound by Tinsley v Milligan, and we have not been invited to depart from it on this appeal.
+It was, however, suggested and accepted by Etherton LJ, that a wider view of the law was open to the courts in the light of Lord Hoffmanns observation in Gray v Thames Trains Ltd [2009] 1 AC 1339, para 30 that the maxim ex turpi causa expresses not so much a principle as a policy.
+Furthermore, that policy is not based upon a single justification but on a group of reasons, which vary in different situations.
+I do not think that this dictum will bear the weight that has been placed on it.
+A court will commonly examine the policy rationale of a rule of law in order to discover what the rule is.
+This is what Lord Hoffmann was doing in the passage cited, which introduces an extended discussion of the various rules which the courts had evolved to deal with the dilemma that the denial of relief to one party would confer an unjustified benefit on the other.
+These rules did not seek to deal with the dilemma by leaving the court to make a value judgment about the seriousness of the illegality and the impact on the parties of allowing the defence.
+As Lord Hoffmann explained them, they dealt with it by defining as a matter of law when the illegality defence applied and when it did not.
+In Lord Hoffmanns view two rules were relevant where the illegality defence was raised in answer to a claim for compensation.
+There was a narrower rule that you cannot recover damage which is the consequence of a sentence imposed upon you for a criminal act; and a wider rule that you cannot recover compensation for loss which you have suffered in consequence of your own criminal act.
+The former test operated automatically, once it was ascertained that the loss claimed was a penalty imposed by a criminal court or the necessary consequence of the sentence, such as loss of earnings during a period of imprisonment.
+The latter test was simply a question of causation.
+Neither the narrower nor the wider rule depended on the courts assessment of the significance of the illegality, the proportionality of its application or the merits of the particular case.
+Nor does anything else in the speeches justify a test which would include such an assessment. 20.
+Tinsley v Milligan has had its critics.
+The Law Commission in successive reports on the illegality defence made little secret of its preference for the approach of the Court of Appeal in Euro Diam.
+The Commission initially proposed the introduction of a statutory scheme adopting a discretionary approach to the application of the illegality defence, on the ground that the House of Lords decision in Tinsley v Milligan had ruled out the development of judge made law in that direction.
+They later withdrew that proposal, because recent decisions of judges at first instance and in the Court of Appeal suggested to them that the effect of that decision was being eroded by lower courts: see The Illegality Defence: A Consultative Report (2009) (Consultation Paper 189), at paras 3.104 3.105, 3.123 3.124.
+At para 3.140 of the latter report, the Commission observed that the public conscience test, although rejected in Tinsley v Milligan, was nevertheless useful in suggesting that the present rules should be regarded as no more than guidance that help the court to focus its attention on particular features of the case before it.
+What lies behind these rules is a set of policies.
+This is why the courts are sometimes required to bend the rules (if possible) to give better effect to the underlying policies as they apply to the facts of the case before them.
+I confess that I find this difficult to justify as an approach to authority or the proper development of the law.
+It is directly inconsistent with the decision of the House of Lords in Tinsley v Milligan and the whole of the reasoning which underlies it.
+It makes the law uncertain, by inviting the courts to depart from existing rules of law in circumstances where it is difficult for them to acknowledge openly what they are doing or to substitute a coherent alternative structure.
+The present position was to my mind accurately stated by Lord Walker of Gestingthorpe when commenting on the Commissions original proposals in Stone & Rolls Ltd v Moore Stephens (a firm) [2009] AC 1391 paras 130 and 131: These proposals, if enacted by Parliament, would introduce more flexibility into this area of the law (although without reintroducing a general public conscience discretion) .
+The present state of the law is as laid down by the majority of the House in Tinsley v Milligan [1994] 1 AC 340.
+Any legislative change is likely to widen the test, not to narrow it. 21.
+It follows that the disposition of this case by the Court of Appeal cannot possibly be justified by the considerations put forward by Etherton LJ.
+Etherton LJ rejected the illegality defence on the ground that the infringement of Serviers Canadian patent was not turpitude for the purpose of the illegality defence.
+However, he did not address the question in what, as a matter of principle, turpitude consisted.
+He rejected the argument of Servier that patent infringement was necessarily turpitude and also the argument of Apotex that it never was.
+Instead, he held (para 76) that it all depends on the precise circumstances.
+The circumstances to which he attached importance were the five factors to which I have referred above: see para 11.
+Of these factors the first (Apotexs honest belief in the invalidity of the Canadian patent) was an assessment of the moral culpability of Apotexs infringement.
+The other four were all part of a complex inquiry into how far the infringement of the Canadian patent could be said to matter in the particular circumstances of this case.
+Arnold J had adopted much the same approach, although by reference to a narrower range of factors.
+The difference between them was essentially that Arnold J took a graver view of the infringements than Etherton LJ, partly because he was less impressed by the argument that Apotex genuinely believed that the Canadian patent was invalid, and partly because he attached more weight to the importance of respecting the Canadian patents.
+This difference encapsulates the vice of the test that they both applied.
+The answer depended not on the character of the illegality but on largely subjective judgments about how badly Apotex had behaved and how much it mattered.
+This was a process, discretionary in all but name, whose outcome would have been exceptionally difficult for either partys advisers to predict in advance.
+In my opinion, it was contrary to established legal principle. 22.
+However, it does not follow that the courts should be insensitive to the draconian consequences which the ex turpi causa principle can have if it is applied too widely.
+The starting point in any review of the modern law must be that we are concerned with a principle based on the application of general rules of law and not on fact based evaluations of the effect of applying them in each individual case.
+However, the content of the rules must recognise that within the vast and disparate category of cases where a party in some sense founds his claim upon an immoral or illegal act there are important differences of principle.
+The application of the ex turpi causa principle commonly raises three questions: (i) what acts constitute turpitude for the purpose of the defence? (ii) what relationship must the turpitude have to the claim? (iii) on what principles should the turpitude of an agent be attributed to his principal, especially when the principal is a corporation? Each of these questions requires a principled distinction to be made between different kinds of immoral or illegal act and different ways in which they may give rise to claims.
+For present purposes, we are concerned only with the question what constitutes turpitude for the purposes of the defence.
+The question what relationship it must have to the claim arises only if that question is answered in favour of Servier, and no question of attribution arises in this case at all.
+What is turpitude? 23.
+The paradigm case of an illegal act engaging the defence is a criminal offence.
+So much so, that much modern judicial analysis deals with the question as if nothing else was relevant.
+Yet in his famous statement of principle in Holman v Johnson Lord Mansfield spoke not only of criminal acts but of immoral or illegal ones.
+What did he mean by this? I think that what he meant is clear from the characteristics of the rule as he described it, and as judges have always applied it.
+He meant acts which engage the interests of the state or, as we would put it today, the public interest.
+The illegality defence, where it arises, arises in the public interest, irrespective of the interests or rights of the parties.
+It is because the public has its own interest in conduct giving rise to the illegality defence that the judge may be bound 24. to take the point of his own motion, contrary to the ordinary principle in adversarial litigation.
+In some contexts, notably the invalidity of contracts prohibited by law, the ex turpi causa principle can be analysed as part of the substantive law governing the parties rights.
+The contract is void, and any right derived from it is non existent.
+But in general, although described as a defence, it is in reality a rule of judicial abstention.
+It means that rather than regulating the consequences of an illegal act (for example by restoring the parties to the status quo ante, in the same way as upon the rescission of a contract) the courts withhold judicial remedies, leaving the loss to lie where it falls.
+This is so even in a contractual context, when the court is invited to determine the financial consequence of a contracts voidness for illegality.
+The ex turpi causa principle precludes the judge from performing his ordinary adjudicative function in a case where that would lend the authority of the state to the enforcement of an illegal transaction or to the determination of the legal consequences of an illegal act.
+In Lord Mansfields day, and for some time thereafter, this rule of abstention was sometimes expressed as a principle protecting the innocence or dignity of the court against defilement.
+In the notorious Highwaymens Case, Everet vs Williams (1725) (noted at (1893) 9 LQR 197), in which the court was invited to take an account between two highwaymen, it not only dismissed the claim as scandalous and impertinent but ordered the arrest of the plaintiffs solicitor and fined him.
+Two centuries later, in Parkinson v College of Ambulance Ltd and Harrison [1925] 2 KB 1, 13, Lush J said of a contract to procure an honour, that [n]o Court could try such an action and allow such damages to be awarded with any propriety or decency.
+Today, the same concept would be expressed in less self indulgent terms as a principle of consistency.
+This was the point made by McLachlin J in her much admired judgment in Hall v Hebert (1993) 101 DLR (4th) 129, 165: To allow recovery in these cases would be to allow recovery for what is illegal.
+It would put the courts in the position of saying that the same conduct is both legal, in the sense of being capable of rectification by the court, and illegal.
+It would, in short, introduce an inconsistency in the law.
+It is particularly important in this context that we bear in mind that the law must aspire to be a unified institution, the parts of which contract, tort, the criminal law must be in essential harmony.
+For the courts to punish conduct with the one hand while rewarding it with the other, would be to create an intolerable fissure in the laws conceptually seamless webWe thus see that the concern, put at its most fundamental, is with the integrity of the legal system. 25.
+The ex turpi causa principle is concerned with claims founded on acts which are contrary to the public law of the state and engage the public interest.
+The paradigm case is, as I have said, a criminal act.
+In addition, it is concerned with a limited category of acts which, while not necessarily criminal, can conveniently be described as quasi criminal because they engage the public interest in the same way.
+Leaving aside the rather special case of contracts prohibited by law, which can give rise to no enforceable rights, this additional category of non criminal acts giving rise to the defence includes cases of dishonesty or corruption, which have always been regarded as engaging the public interest even in the context of purely civil disputes; some anomalous categories of misconduct, such as prostitution, which without itself being criminal are contrary to public policy and involve criminal liability on the part of secondary parties; and the infringement of statutory rules enacted for the protection of the public interest and attracting civil sanctions of a penal character, such as the competition law considered by Flaux J in Safeway Stores Ltd v Twigger [2010] 3 All ER 577. 26.
+There are dicta which suggest that the ex turpi causa principle may be wider than this, that it may be engaged by a purely civil wrong such as a tort or breach of contract.
+The clearest and best known of them is that of Kennedy J in Burrows v Rhodes [1899] 1 QB 816, 828.
+He thought that no claim for damages could be founded on an act if the act is manifestly unlawful or the doer of it knows it to be unlawful as constituting either a civil wrong or a criminal offence.
+However, the only English case which he cited as supporting this proposition so far as it relates to civil wrongs, is Shackell v Rosier (1836) 2 Bing NC 634, which concerned a claim on a contract to indemnify the Plaintiff against damages and costs payable in consequence of having published a criminal libel: see Tindall CJ at 645 646.
+Weld Blundell v Stephens [1920] AC 956 concerned another libel action.
+The plaintiff had been successfully sued for a libel contained in a document which he had supplied to his accountant.
+The majority of the House of Lords held that he could not recover the damages he had had to pay to the defamed party from his accountant, who had negligently left the document about so that it came to the formers attention.
+The difficulty about this case is that its ratio has never been clear.
+Lord Dunedin proposed to dismiss the claim on the ground that the plaintiff was relying on his own wrong, namely the libel by which he had incurred liability.
+Lord Sumner decided the case on causation.
+He thought that the claim should be dismissed on the ground that the plaintiff had had to pay damages because of the libel, not the negligence.
+Lord Wrenbury thought that the claim should be dismissed on both grounds, and specifically approved the dictum of Kennedy J in Burrows v Rhodes.
+Viscount Finlay, who dissented, thought that a civil wrong was not to be equated to a criminal act for the purpose of the ex turpi causa principle: see p 971.
+Lord Parmoor, who also dissented, made the same distinction: pp 995 996. 27.
+In Columbia Picture Industries Inc. v Robinson [1987] Ch. 38, the plaintiff had obtained an Anton Piller order for an improper purpose and without full disclosure, against a defendant whose business consisted almost entirely in the manufacture and sale of pirated videos.
+Scott J declined to order an inquiry into damages under the plaintiffs undertaking because the losses had been incurred in a business which was illicit albeit not criminal under the law as it then stood.
+The point does not seem to have been argued in any detail, if at all, and the reasoning was both brief and cryptic.
+The judge appears to have reached his conclusion on two grounds.
+The first was that under the then law the pirated tapes which were the stock in trade of the defendants business belonged to the copyright owners, so that the defendants inability to sell them caused him no loss.
+The second was that the defendants business was dishonest (the judge thought the case analogous to the Highwaymens Case).
+By this I think that he must have meant that any sales that the defendant would have made but for the Anton Piller order would have been made by dishonestly misleading his customers about the origin of the videos.
+It is I think only on that footing the judges second reason can be justified.
+Scott J was not suggesting that a breach of copyright was in itself a sufficient basis on which to raise the illegality defence. 28.
+Apart from these decisions, the researches of counsel have uncovered no cases in the long and much litigated history of the illegality defence, in which it has been applied to acts which are neither criminal nor quasi criminal but merely tortious or in breach of contract.
+In my opinion the question what constitutes turpitude for the purpose of the defence depends on the legal character of the acts relied on.
+It means criminal acts, and what I have called quasi criminal acts.
+This is because only acts in these categories engage the public interest which is the foundation of the illegality defence.
+Torts (other than those of which dishonesty is an essential element), breaches of contract, statutory and other civil wrongs, offend against interests which are essentially private, not public.
+There is no reason in such a case for the law to withhold its ordinary remedies.
+The public interest is sufficiently served by the availability of a system of corrective justice to regulate their consequences as between the parties affected.
+It is right to add that there may be exceptional cases where even criminal and quasi criminal acts will not constitute turpitude for the purposes of the illegality defence.
+In Gray v Thames Trains Ltd at para 83, Lord Rodger of Earlsferry suggested that some offences might be too trivial to engage the defence.
+In general, however, the exceptional cases are implicit in the rule itself.
+This applies in particular where the act in question was not in reality the claimants at all.
+Leaving aside questions of attribution which arise when an agent is involved, and which are no part of the present appeal, there is a recognised exception to the category of turpitudinous acts for cases of strict 29. liability, generally arising under statute, where the claimant was not privy to the facts making his act unlawful: see Stone & Rolls Ltd v Moore Stephens (a firm) [2009] 1 AC 1391, paras 24, 27 (Lord Phillips of Worth Matravers).
+In such cases, the fact that liability is strict and that the claimant was not aware of the facts making his conduct unlawful may provide a reason for holding that it is not turpitude at all.
+This is the most satisfactory explanation of the decision of the Singapore Court of Appeal in United Project Consultants Pte Ltd v Leong Kwok Ong (trading as Leon Kwok Onn & Co) [2005] 4 SLR 214, where a taxpayer sought to recover from his accountant an administrative penalty under a statutory provision dealing with the innocent submission of an incorrect tax return: see paras. 55, 57.
+More generally, the wrong alleged against the defendant may consist precisely in causing an innocent claimant to commit an offence of strict liability.
+The leading case is Burrows v Rhodes [1899] QB 816, which arose out of the Jameson Raid of 1895.
+The plaintiff was induced to enlist in the raid, contrary to section 11 of the Foreign Enlistment Act 1870, by the defendants fraudulent representation that it had the sanction of the Crown (which would have made it lawful).
+In most cases of this kind the illegality defence would not arise, for there would be no criminal act, the element of mens rea being absent.
+But the pleadings in Burrows required the court to make the rather artificial assumption that the plaintiff would have been convicted under section 11 even without mens rea: see pp 830 832 (Kennedy J).
+The court held that even so, the defence was not available.
+This was because the plaintiff was not aware of the facts making enlistment illegal and on the assumption being made by the court he was criminally liable only because that liability was strict.
+As Kennedy J suggested at p 834, the exception would not necessarily have applied if Burrows had been claiming damages arising directly from the sentence of a criminal court or from some other penal sanction imposed on him by law.
+That situation would have engaged Lord Hoffmanns narrower rule, and in that context it must be assumed that the sentence was what the criminal court regarded as appropriate to reflect the personal responsibility of the accused for the crime that he had committed: Gray v Thames Trains Ltd [2009] 1 AC 1339, para 41 (Lord Hoffmann). Cf.
+Askey v Golden Wine Co Ltd [1948] 2 All ER 35, 38 (Denning LJ); State Railway Authority of New South Wales v Wiegold (1991) 25 NSWLR 500, 514 (Samuels JA).
+The application of the exception for cases of strict liability may require a court to determine whether the claimant was in fact privy to the illegality.
+To that extent, an inquiry into the claimants moral culpability may be necessary in such cases before his act can be characterised in law as turpitude.
+This may be a difficult question, but it is not a question of degree.
+The conclusion will be a finding that the claimant was aware of the illegality or that he was not.
+It is a long way from the kind of value judgment implicit in the search for a proportionate relationship between the illegality and its legal consequences of the claim.
+Conclusion 30.
+In my opinion, the illegality defence is not engaged by the consideration that Apotexs lost profits would have been made by selling product manufactured in Canada in breach of Serviers Canadian patent.
+A patent is of course a public grant of the state.
+But it does not follow that the public interest is engaged by a breach of the patentees rights.
+The effect of the grant is simply to give rise to private rights of a character no different in principle from contractual rights or rights founded on breaches of statutory duty or other torts.
+The only relevant interest affected is that of the patentee, and that is sufficiently vindicated by the availability of damages for the infringements in Canada, which will be deducted from any recovery under Serviers undertaking in England.
+There is no public policy which could justify in addition the forfeiture of Apotexs rights.
+In those circumstances, the second and third issues before the Court of Appeal do not arise.
+I would accordingly dismiss the appeal.
+LORD MANCE 33.
+The Court of Appeal approached the defence of illegality on the basis that it required in each case an intense analysis of the particular facts and of the proper application of the various policy considerations underlying the illegality principle so as to produce a just and proportionate response to the illegality, per Etherton LJ, para 75.
+This and the courts ensuing analysis of a number of the factors on which it relied fit uneasily with the clear cut, if potentially harsh, approach applicable on the basis of Tinsley v Milligan [1994] 1 AC 340.
+Nevertheless, I arrive at the same result as the Court of Appeal, but by different reasoning.
+I agree with Lord Sumption that this appeal should fail on the simple basis that the manufacture and supply of product in breach of the Canadian patent would, for the reasons he gives in paras 23 to 30, not have involved turpitude such as to engage the maxim ex turpi cause action non oritur. 34. 35.
+The second and third issues which Lord Sumption identifies in para 22 do not therefore arise.
+I note only that the second might on the face of it have arisen, 31. 32. 36. 37. had it not been for the parties agreement, noted by Lord Sumption in para 2, that each group should be treated as one entity.
+In fact, the European patent upon which the present proceedings are based was owned by the first appellant, Les Laboratoires Servier, a licence under it being granted to the second appellant, Servier Laboratories Ltd., while the Canadian patent, which would have been infringed by further manufacture but for the English injunction, was owned by another company in the group, ADIR, with a licence under it being granted to Servier Canada Inc. In the Apotex group, as Lord Sumption recounts in para 6, the active ingredient would have been manufactured by Apotex Pharmachem Inc, and then sold at a 30% mark up to Apotex Inc, which would have made it into tablets, which it would then have sold to Apotex UK Ltd for a price equivalent to 90% of Apotex UK Ltds profits on resale in the United Kingdom. 38.
+The English proceedings and the injunction were issued against all these three Apotex companies, as well as another, Apotex Europe Ltd. The injunction ordered that the Defendants must not dispose of, offer to dispose of, or import in the United Kingdom their generic perindopril erbumine product, on the basis of an undertaking that if the court later finds that this order has caused loss to the defendants, which shall include Apotex UK Ltd, and decides that the defendants should be compensated for that loss, the claimants [that is now, the two appellants] will comply with any order the court shall makes. 39.
+In the Canadian proceedings under the Canadian patent, Les Laboratoires Servier and Servier Laboratories were included as plaintiffs, but were struck out at trial as having no cause of action.
+The claim for infringement of the Canadian patent ultimately succeeded in the names of only ADIR and Servier Canada Inc against Apotex Inc and Apotex Pharmachem Inc. 40.
+The basis of the agreement that each group should in the present English proceedings be treated as one entity was not disclosed or explored.
+There may well have been some undisclosed legal basis for treating the individual group members as one entity or as having combined together.
+Subject to that, there might, on the face of it, have been an argument that it was only Apotex Inc and Apotex UK Ltd that would ever have disposed or, offered to dispose of, or imported the product into the United Kingdom or therefore were prevented from so doing by the injunction.
+Equally, there might have been an argument that the only companies which could have had any complaint under the Canadian patent would have been ADIR and Servier Canada Inc (the latter not party to the English proceedings) and that any complaint which they could have had would have been in respect of the products manufacture in and export from Canada, rather than in respect of importation into, or disposition in, England. 41.
+That might then perhaps have meant that (i) the companies with potential claims against Les Laboratoires Servier and Servier Laboratories Ltd under the undertaking were Apotex Inc and Apotex UK Ltd, which would exclude any claim in respect of Apotex Pharmachem Incs loss of profit, while (ii) the only relevant hypothetical cross claim would have been by ADIR against Apotex Pharmachem Inc. and Apotex Inc., for loss of the 30% mark up and the 90% profit that they would have made.
+The appellants liable under the undertaking not being the same as the claimants under the cross claim, no set off could then on the face of it have arisen. 42.
+This is all very tentative, since it was not explored.
+But it highlights a certain distance between the subject matter of the undertaking and the hypothetical cross claim, which could have had some bearing on the answer to the second question, had that arisen. 43.
+As to the third question, if the separate corporate identities of the members of each group had been insisted upon, then it seems not beyond all doubt that some point might have arisen under this question also.
+As it is, however, Lord Sumption correctly observes that no question of attribution arises. 44.
+This is not therefore the case in which to examine the difficult issues of attribution which may arise where a company acts through an agent whether that be an agent who is only capable of binding the company vicariously or whether the agent may, for some purposes at least, also be equated with the company (e.g. because he is its alter ego or its sole controlling owner) and so be capable of binding it personally.
+Such issues were discussed in Stone & Rolls Ltd v Moore Stephens (a firm) [2009] UKHL 30, [2009] 1 AC 1391, but do not require revisiting here. 45.
+Equally, this is not a case in which any question arises as to the correctness or otherwise of a decision such as that of the Court of Appeal in Safeway Stores Ltd v Twigger [2010] EWCA Civ 1492, which held that a company could not recover from directors or employees who had by involving the company in acts contravening the Competition Act 1998 caused it to incur a personal liability for penalties imposed under that Act.
+LORD TOULSON 46.
+In this appeal Servier is attempting to extend the doctrine of illegality beyond any previously reported decision in circumstances where I see no good public policy reason to do so. 48. 47.
+Apotexs claim arises under a cross undertaking in damages.
+The present proceedings were brought in England for alleged infringement of a UK patent.
+On 7 August 2006 Mann J granted Servier an interlocutory injunction restraining Apotex from importing and selling a chemical compound (generic perindopril erbumine) in the UK, upon Servier giving the usual cross undertaking in damages.
+On 11 July 2007 Serviers claim was dismissed and the injunction was discharged.
+In parallel Canadian proceedings Apotex was found liable for infringement of Serviers Canadian patent for the same chemical compound.
+An interlocutory injunction had been refused.
+Damages in the Canadian proceedings remain to be assessed.
+It is accepted that if the English interlocutory injunction had not been granted, Apotex would have imported and sold in the UK an additional 3.6 million packs of tablets.
+Apotex recognises that in calculating its damages under the cross undertaking for loss of profits from the lost UK sales it must offset not only the costs of manufacture but also the amount which it would have had to pay in the Canadian action as damages for manufacturing the tablets in breach of the Canadian patent. 50.
+On an inquiry into damages on a cross undertaking, as a matter of general principle the courts task is to put the party seeking to enforce the undertaking in the same position as if the injunction had not been granted.
+In Hoffmann La Roche & Co AG v Secretary of State for Trade and Industry [1975] AC 295, 361, Lord Diplock said: [The court] retains a discretion not to enforce the undertaking if it considers that the conduct of the defendant in relation to the obtaining or continuing of the injunction or the enforcement of the undertaking makes it inequitable to do so, but if the undertaking is enforced the measure of the damages payable under it is not discretionary.
+It is assessed on an inquiry at which [the] principles to be applied are fixed and clear.
+The assessment is made upon the same basis as that upon which damages for breach of contract would be assessed if the undertaking had been a contract between the plaintiff and the defendant that the plaintiff would not prevent the defendant from doing that which he was restrained from doing by the terms of the injunction. 51.
+There has been no suggestion in this case that the conduct of Apotex in relation to the injunction was such as to make it inequitable for the court to enforce the undertaking.
+Arnold J did not proceed on that basis, nor has Servier argued that the court should refuse to enforce the cross undertaking on discretionary grounds. 52.
+The order made by the Court of Appeal accords with Lord Diplocks method of assessment.
+As Etherton LJ explained in his judgment at para 88, its effect is to place Apotex in precisely the position in which it would have been if there had been no UK interlocutory injunction, and it does not offend comity with Canada.
+Apotex will recover whatever sum may be left after deducting, from the proceeds of the lost sales, both the costs of the sales and the amount for which it would have had to account to Servier in the Canadian proceedings by way of damages for patent infringement.
+The result, Etherton LJ said, would neither be offensive to comity with Canada nor infringe English public policy. 53.
+By contrast, the order sought by Servier would potentially place it in a better position than if it had not obtained the English injunction for which it gave a cross undertaking.
+I use the word potentially, because it remains to be seen how the Canadian court will calculate damages for the infringement which led to UK sales by Apotex.
+It will be a simple matter to apply the same approach to the lost sales as the Canadian court will apply in relation to actual sales made by Apotex.
+The result may be that Apotex will be unable to establish any loss, after deduction of the damages which it would have had to pay in Canada, but that will depend on the outcome of the Canadian proceedings. 54.
+Servier argues that Apotexs claim under the cross undertaking is barred by the doctrine of illegality.
+It does not contend that the contracts for the lost sales would have been unlawful contracts under English law.
+It does not suggest, for example, that at the date when the Canadian court found that there had been a breach of the Canadian patent in the manufacture of the tablets, UK purchasers of the tablets who had not yet paid for them could have refused to make payment on the ground that the contracts of sale were unenforceable by Apotex because of illegality.
+Servier submits, however, that Apotexs claim under the cross undertaking for loss of payments which it would have received under contracts, lawful in themselves, is barred by illegality because performance of the contracts would have involved or resulted from breach of the Canadian patent.
+Etherton LJ said in his judgment, and his statement has not been challenged, that infringement of a Canadian patent constitutes a statutory wrong of strict liability under Canadian law. 55.
+Servier is unable to cite any precedent for saying that a claim for money otherwise payable under English law offends the doctrine of illegality if it arises from a contract involving the commission of a strict liability tort (whether as the object of the contract or in its performance). 56.
+There are very few reported cases in which the doctrine of illegality has been applied to tort.
+In Brown Jenkinson & Co Ltd v Percy Dalton (London) Ltd [1957] 2 QB 621, the Court of Appeal held a contract to be unenforceable which had as its object the commission of the tort of deceit, but in that case Pearce LJ qualified his judgment by saying, at p 640, that in none of the cases cited before the court had a plaintiff failed where he was not fraudulently minded.
+Fraud for the purposes of deceit includes a false statement made in reckless disregard whether it be true or false, but there is no precedent for applying the doctrine of illegality to a tort of strict liability.
+In this case the protagonists are pharmaceutical companies who were involved in a bona fide commercial dispute about the validity of certain patents. 57.
+Servier relies on the often quoted statement of Lord Mansfield in Holman v Johnson in which he said that The principle of public policy is this; ex dolo malo non oritur actio.
+That statement made in 1775 remains a succinct statement of broad principle, but, as the cases over the last 340 years demonstrate, it does not provide a simple measuring rod for determining the boundaries of the principle.
+The case law is notoriously untidy.
+In deciding whether the principle should be applied in circumstances not directly covered by well established authorities, it is right to proceed carefully on a case by case basis, considering the policies which underlie the broad principle.
+This has been said in the past by judges at the highest level. 58.
+In Vita Food Products Inc v Unus Shipping Co Ltd [1939] AC 277, 293, Lord Wright said: Each case has to be considered on its merits.
+Nor must it be forgotten that the rule by which contracts not expressly forbidden by statute or declared to be void are in proper cases nullified for disobedience to a statute is a rule of public policy only, and public policy understood in a wider sense may at times be better served by refusing to nullify a bargain save on serious and sufficient grounds. 59.
+In Gray v Thames Trains Ltd [2009] AC 1339, 1370, para 30, Lord Hoffmann said: The maxim ex turpi causa expresses not so much a principle as a policy.
+Furthermore, that policy is not based upon a single justification but on a group of reasons, which vary in different situations. 60.
+This observation was endorsed by Lord Phillips in Stone & Rolls Ltd v Moore Stephens (a firm) [2009] 1 AC 1391, para 25, where he said that it is necessary to give consideration to the policy underlying ex turpi causa in order to decide whether the defence was bound to defeat a claim.
+In Hounga v Allen [2014] 1 WLR 2889, [2014] UKSC 47, Lord Wilson said in the judgment of the majority, at para 42: 61.
+The defence of illegality rests upon the foundation of public policy.
+The principle of public policy is this said Lord Mansfield by way of preface to his classic exposition of the defence in Holman v Johnson (1775) 1 Cowp 341, 343.
+Rules which rest upon the foundation of public policy, not being rules which belong to the fixed or customary law, are capable, on proper occasion, of expansion or modification: Maxim Nordenfelt Guns and Ammunition Co Nordenfelt [1893] 1 Ch 630, 661 (Bowen LJ).
+So it is necessary, first, to ask What is the aspect of public policy which founds the defence? and, second, to ask But is there another aspect of public policy to which application of the defence would run counter? 62.
+I would therefore make no criticism of the Court of Appeal for considering whether public policy considerations merited applying the doctrine of illegality to the facts of the present case.
+In so doing it adopted a similar approach to that of the majority of this court in Hounga v Allen. 63.
+Cross undertakings are a standard and valuable feature of litigation, particularly but not only in commercial litigation.
+There is a public interest in their enforceability in bona fide disputes.
+It saves the court from having to make a more detailed and therefore time consuming and expensive assessment of the merits at an interlocutory stage than might otherwise be necessary, since the cross undertaking is designed to protect the defendant against the applicant gaining a financial advantage from obtaining an injunction which is later set aside on the claim failing.
+I cannot see a good public policy reason why Servier should be put in a better position than if the English injunction had not been granted, or why Apotex should be required to give greater credit to Servier on account of its breach of the Canadian patent than the amount assessed by the Canadian court as properly reflecting that breach. 64.
+There may come a case where it is necessary for this court to carry out a detailed re analysis of Tinsley v Milligan [1994] 1 AC 340, in the light of subsequent authorities and the consultative and final reports of the Law Commission (LCCP No 189 and Law Com No 320), in which the case has not for the first time been criticised; but nobody invited such a reconsideration in this case.
+The argument in this case was about whether the doctrine of illegality extends to the present case.
+I am satisfied that there is no good reason why it does or should do so, and I agree that the appeal should be dismissed. 49.

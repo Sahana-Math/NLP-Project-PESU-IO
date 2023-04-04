@@ -1,0 +1,316 @@
+This appeal and cross appeal raise important questions about the compatibility of two statutory regimes, namely the adjudication of construction disputes and the operation of insolvency set off.
+In bare outline, section 108 of the Housing Grants, Construction and Regeneration Act 1996 (the 1996 Act) confers a right upon a party to a construction contract to refer a dispute arising under that contract to adjudication.
+Rules made under the Insolvency Act 1986 (now rule 14.25 of the Insolvency (England and Wales) Rules 2016 (SI 2016/1024)) (the IR) make provision for automatic set off of cross claims between a company in liquidation and each of its creditors, giving rise to a single net balance between them, to be ascertained by the taking of an account.
+Rule 14.24 does the same for a company in distributing administration.
+The 1996 Act does not deny the right of a company to refer disputes to adjudication merely because it is in liquidation, but it is argued on this appeal that, if there are cross claims between parties to a construction contract and one of them is in liquidation, then there can be no adjudication of any dispute between them about those cross claims even if, but for the liquidation and the existence of cross claims, one or more of those disputes would fall within the right to refer to adjudication conferred by section 108.
+This objection to the use or availability of adjudication in the context of insolvency set off is put on two grounds, which may be labelled jurisdiction and futility.
+First it is said that since insolvency set off replaces the former cross claims with a single claim for the net balance, there is no longer a claim, or therefore a dispute, under the construction contract, so that the adjudicators jurisdiction under section 108 (or under a bespoke or standard form contractual provision to similar effect) is not engaged.
+There is only a dispute about the net balance arising under the regime for insolvency set off.
+Secondly it is submitted that, even if there is jurisdiction, the conduct of an adjudication in the context of insolvency set off will, generally speaking, not lead to an enforceable award, and will therefore be an exercise in futility which the court can and ordinarily should restrain by injunction, before costs are thrown away upon a process which serves no useful purpose.
+In short, it is said that the two regimes are simply incompatible.
+Both these submissions were endorsed by the trial judge in the present proceedings, but only the futility argument prevailed in the Court of Appeal.
+This court is therefore faced with an appeal against the order made by the Court of Appeal by way of an injunction restraining the pursuit of the adjudication, and a cross appeal seeking to restore the judges ruling that the adjudicator lacked jurisdiction.
+The two objections to the use of adjudication in the context of insolvency set off are conceptually distinct and, as the parties recognised, the question of jurisdiction logically comes first.
+It is a question of construction of section 108 and of the express or implied terms of a construction contract made in accordance with its requirements.
+But the general need to construe and apply both statutes and contracts in context and by reference to their purpose makes it convenient to begin, after a summary of the facts, with an overview of the respective contexts and purposes of both the adjudication and corporate insolvency regimes, set off being only a subordinate part of the latter.
+Furthermore a conclusion that the two regimes really are incompatible might well incline the court to a construction which recognised that reality, rather than forced the two regimes into unprofitable co existence.
+By the same token, the opposite conclusion about compatibility might encourage a more generous approach to the construction of the provisions conferring jurisdiction.
+The Facts
+Both the appellant Bresco Electrical Services Ltd (Bresco) and the respondent Michael J Lonsdale (Electrical) Ltd (Lonsdale) are electrical works contractors.
+By a sub sub contract dated 21 August 2014 (the Contract) Bresco agreed to perform electrical installation works for Lonsdale at a site at 6, St Jamess Square, London SW1.
+The Contract is a construction contract to which section 108 applies, and it included express provision for adjudication of disputes arising under it which complied with the section.
+In December 2014 Bresco ceased to attend the site, alleging much later that it did so by way of acceptance of repudiatory breach of the Contract by Lonsdale.
+In March 2015 Bresco went into creditors voluntary liquidation.
+Thereafter Bresco acted as described below by its liquidator or from time to time by its agent Pythagoras Capital Ltd (Pythagoras) which is funding the claim against Lonsdale in the liquidation.
+In correspondence in late 2017 both Bresco and Lonsdale made claims against each other for breach of the Contract.
+Each accused the other of repudiatory breach.
+Lonsdales claim included 325,000 odd for the cost of having Brescos contracted works done by another contractor.
+Bresco says that those were additional to the works for which it contracted, and claimed for the value of works which it had carried out under the Contract, for which it had not been paid.
+Both parties claimed damages against the other.
+Both Brescos claims and Lonsdales cross claims arose entirely from the Contract.
+Each denied the others claims in their entirety.
+On 18 June 2018 Bresco served on Lonsdale notice of intention to refer a dispute to adjudication, seeking payment of 219,000 odd for the value of work done, and damages for loss of profits under the Contract.
+On 21 June RICS appointed Mr Tony Bingham as adjudicator on Brescos application.
+Bresco served its notice of referral to adjudication on the same date.
+Lonsdales response was, on 22 June, to assert that the Adjudicator was without jurisdiction, for the reason described above relating to insolvency set off and, on 26 June, to issue the present proceedings in the Technology and Construction Court (TCC) under CPR Part 8 for a declaration that the Adjudicator lacked jurisdiction and for an injunction restraining the further conduct of the adjudication.
+Lonsdales claim was tried with commendable speed on 11 July 2018 by Fraser J, who delivered an equally speedy reserved judgment on 31 July, acceding to Lonsdales case on lack of jurisdiction.
+On its appeal to the Court of Appeal (Sir Andrew McFarlane P, King and Coulson LJJ) Bresco succeeded on jurisdiction, but the injunction restraining the further conduct of the adjudication was continued on the basis that, since there could be no enforcement, it would be an exercise in futility and a waste of time and money.
+Accordingly Bresco appeals to this court against the continuation of the injunction, while Lonsdale cross appeals on jurisdiction.
+The Construction Adjudication Regime
+Introduced as a statutory regime by the 1996 Act, adjudication of construction disputes has been a conspicuously successful addition to the range of dispute resolution mechanisms available for use in what used to be an over adversarial, litigious environment.
+It builds upon a purely contractual structure for adjudication which was already by 1996 regarded by many in the industry as best practice.
+Speaking generally, adjudication is one of a spectrum of dispute resolution mechanisms which range from party and party negotiation at one end, through mediation, early neutral evaluation (ENE) and arbitration to litigation at the other end, lying roughly between ENE and arbitration.
+ENE delivers a private non binding opinion on the merits of the dispute from an independent, respected and often expert source.
+Arbitration delivers a (usually) private determination from a similar source which is binding subject to very limited scope for appeal.
+Adjudication shares with ENE the independent, often expert, respected source together with the speed and economy of ENE, with a provisional element of binding decision, unless and until the matter in dispute is later resolved by arbitration, by litigation or by agreement.
+The statutory regime was introduced in response to the report and recommendations of Sir Michael Latham, commissioned in July 1993 to review the procurement and contractual arrangements in the UK construction industry.
+His final report, called Constructing the Team, published in July 1994, contained at chapter 9 a section headed Dispute Resolution.
+Drawing upon experience of the development of alternative dispute resolution (ADR) in the USA, he noted at paragraph 9.2 that debate over adjudication, conciliation/mediation and arbitration had been strong throughout his review, with a growing consensus over the action needed.
+Of those alternatives his main focus was upon adjudication.
+He recommended that adjudication should extend to the widest range of potential disputes under the construction contract, that it should be available immediately, that adjudicators decisions should be swiftly implemented and that litigation or arbitration should be resorted to only after practical completion.
+A very important underlying objective, both of adjudication and of other recommendations which were eventually implemented in the 1996 Act, was the improvement of cash flow to fund ongoing works on construction projects.
+A particular concern was that a dispute between (say) a sub contractor and a sub sub contractor which could only be resolved by litigation or arbitration could in the meantime disrupt the entire project while a refusal of interim payment led to the cessation of significant works.
+The motto which has come to summarise the recommended approach is pay now, argue later.
+Adjudication was one of five reforms introduced by Part II of the 1996 Act designed to facilitate the realisation of the cash flow aspiration behind that motto.
+The way in which adjudication initially emerged as a consensual industry solution to this cash flow problem, before being mandated by the 1996 Act, is graphically described by May LJ in Pegram Shopfitters Ltd v Tally Weijl (UK) Ltd [2003] EWCA Civ 1750; [2004] 1 WLR 2082, paras 1 3.
+It is achieved by rigorous time limits for the conduct of the adjudication, the provisionally binding nature of the adjudicators decision and the readiness of the courts (and in particular the TCC) to grant speedy summary judgment by way of enforcement, leaving any continuing disagreement about the merits of the underlying dispute to be resolved at a later date, by arbitration, litigation or settlement agreement.
+But solving the cash flow problem should not be regarded as the sole objective of adjudication.
+It was designed to be, and more importantly has proved to be, a mainstream dispute resolution mechanism in its own right, producing de facto final resolution of most of the disputes which are referred to an adjudicator.
+Furthermore the availability of adjudication as of right has meant that many disputes are speedily settled between the parties without even the need to invoke the adjudication process.
+This is in part because Parliament chose to confer the right to adjudicate at any time, so that it can be and is used to resolve disputes eg about final accounts between the parties after practical completion, rather than merely at the interim stage: see Connex South Eastern Ltd v MJ Building Services Group plc [2005] EWCA Civ 193; [2005] 1 WLR 3323, paras 34 38 per Dyson LJ, who concluded that in section 108: The phrase at any time means exactly what it says.
+There is a chorus of observations, from experienced TCC judges and textbook writers to the effect that adjudication does, in most cases, achieve a resolution of the underlying dispute which becomes final because it is not thereafter challenged.
+Underlying statistics are hard to find, but judicial confirmation that this is so may be found in Carillion Construction Ltd v Devonport Royal Dockyard [2005] EWHC 778 (TCC), para 78 per Jackson J, Aspect Contracts (Asbestos) Ltd v Higgins Construction plc [2013] EWHC 1322 (TCC); [2013] Bus LR 1199, para 29 per Akenhead J, Severfield (UK) Ltd v Duro Felguera UK Ltd [2015] EWHC 3352 (TCC), para 63 per Coulson J, Meadowside Building Developments Ltd v 12 18 Hill Street Management Co Ltd [2019] EWHC 2651 (TCC), paras 63 64 per Adam Constable QC and Balfour Beatty Civil Engineering Ltd v Astec Projects Ltd [2020] EWHC 796 (TCC), paras 20 21 per Waksman J.
+It is worth quoting Mr Constables observations in full.
+After noting Coulson LJs comment in the present case (in the Court of Appeal) that many adjudication decisions become final either because the parties so agree, or because neither party challenges it, he continued: This plainly reflects the reality across the construction industry.
+Although it may have been a process which had its origins in a desire to maintain cashflow, the lifeblood of the construction industry (and alluded to in para 37 of Bresco, quoted above), it would in my view be wrong to restrict the utility of adjudication, in light of the breadth of the statutory scheme and its practical use within the industry, as being solely about short term cashflow.
+The scheme is, for example, used to determine final account disputes, and professional negligence claims, neither of which are usually primarily (or at all) about cashflow.
+Adjudication is often about achieving a quicker and cheaper resolution to the parties disputes.
+Where one party regards an adjudicators decision as a real miscarriage of justice, it has the right to take the dispute to litigation or arbitration to have that decision effectively overturned; where, as is so often the case, the parties regard the decision as a decent attempt to arrive at a fair resolution of the competing positions, the parties generally treat the decision as binding or negotiate a settlement around it.
+This is good for the overall administration of justice and no doubt many cases which would otherwise end up in the TCC are resolved without burdening public resources as a result of the practical utility of adjudication, notwithstanding its temporary nature.
+Confirmation from leading textbooks may be found in Glover and Elliott, Building Contract Disputes: Practice and Precedents looseleaf ed, paras 5 1 and 5 7, and Keating on Construction Contracts 10th ed (2016), para 18 028.
+In a 2014 article in Building, there is attributed to David Adamson (former Deputy Chair of the Construction Clients Forum) the suggestion that only around 2% of adjudication decisions have since been challenged in the courts (Joey Gardner, Lathams report: Did it change us?, Building, 27 June 2014).
+Statistics do not appear available to confirm this figure, but the overall picture of most adjudication decisions achieving de facto final resolution of the underlying dispute appears clear.
+Turning to the mechanics, section 108 of the 1996 Act was slightly amended (and augmented by section 108A) by the Local Democracy, Economic Development and Construction Act 2009, following a further report by Sir Michael Latham.
+It is convenient for present purposes to refer to section 108 in its amended form.
+It provides, so far as is relevant, as follows (with the 2009 amendments in square brackets): (1) A party to a construction contract has the right to refer a dispute arising under the contract for adjudication under a procedure complying with this section.
+For this purpose dispute includes any difference. (2) The contract shall [include provision in writing so as to] enable a party to give notice at any time of his (a) intention to refer a dispute to adjudication; (b) provide a timetable with the object of securing the appointment of the adjudicator and referral of the dispute to him within seven days of such notice; (c) require the adjudicator to reach a decision within 28 days of referral or such longer period as is agreed by the parties after the dispute has been referred; allow the adjudicator to extend the period of 28 (d) days by up to 14 days, with the consent of the party by whom the dispute was referred; (e) impartially; and impose a duty on the adjudicator to act enable the adjudicator to take the initiative in (f) ascertaining the facts and the law. (3) The contract shall provide [in writing] that the decision of the adjudicator is binding until the dispute is finally determined by legal proceedings, by arbitration (if the contract provides for arbitration or the parties otherwise agree to arbitration) or by agreement.
+The parties may agree to accept the decision of the adjudicator as finally determining the dispute. [(3A) The contract shall include provision in writing permitting the adjudicator to correct his decision so as to remove a clerical or typographical error arising by accident or omission.] (4) The contract shall also provide [in writing] that the adjudicator is not liable for anything done or omitted in the discharge or purported discharge of his functions as adjudicator unless the act or omission is in bad faith, and that any employee or agent of the adjudicator is similarly protected from liability. (5) If the contract does not comply with the requirements of subsections (1) to (4), the adjudication provisions of the Scheme for Construction Contracts apply.
+The Scheme for Construction Contracts (the Scheme) referred to in section 108(5) is contained in the Schedule to the Scheme for Construction Contracts (England and Wales) Regulations 1998 (SI 1998/649).
+Part 1 of the Schedule contains what is, in effect, a default adjudication framework if the parties to a construction contract fail to include one expressly with terms that are compliant with section 108, which operates as a set of statutorily implied terms: see section 114(4) of the 1996 Act.
+The detailed terms of the default framework do not matter for present purposes, save to note that by paragraph 8 the adjudicator may determine more than one dispute, and disputes under more than one relevant contract, if the parties so agree.
+In the present case the Contract contained express provision for adjudication which complied with the requirements of section 108.
+Construction adjudication does not generally allow for party and party costs shifting.
+Paragraph 25 of the default framework only permits adjudicators to determine the amount of their own reasonable fees and expenses and to apportion them between the parties.
+Section 108A (introduced in 2009) significantly limits the ability of the parties to contract otherwise.
+In the present case the Contract provided for joint and several liability for the adjudicators fees.
+Certain aspects of this machinery will need closer review, in particular the one dispute rule and the scope for the respondent to an adjudication reference to rely upon set off (at law or in equity) as a defence.
+But the following features are uncontentious and worthy of note at the outset.
+First, construction adjudication is semi compulsory.
+That is, the parties are not required to adjudicate every dispute.
+Rather each party is given a statutory and contractual right to require an adjudication of any dispute, including difference, which may arise under a construction contract, and to do so at any time, even after the contract has been fully performed or come to an end, whether by effluxion of time or discharge, including discharge by breach.
+Secondly, that right is conferred upon every legal person who or which is, or was, a party to a construction contract (as defined).
+There is no exclusion of particular types of person, such as a company in liquidation, as there is in some comparable jurisdictions such as New South Wales.
+Thirdly, the jurisdiction of the adjudicator is defined in the simplest of terms.
+It extends to every dispute which arises under a qualifying contract which a party entitled to adjudicate chooses to include in their reference.
+Fourthly, adjudication is remarkably speedy, because of the time limits imposed both on the parties and the adjudicator.
+A bespoke adjudication framework which does not include those time limits will not be in accordance with section 108(2), and will be overridden by the time limits in the default framework.
+Fifthly, as a direct corollary of speed, the adjudication process is almost bound to be cheaper, usually very much cheaper, than arbitration or litigation.
+This is mainly because, as lawyers and their clients know, the scope for expenditure on a dispute increases with the time available to argue about it.
+It is also because adjudicators are not confined to a purely passive role, but may investigate both fact and law as they think fit, within the time constraints imposed.
+It is unusual for there to be an oral hearing.
+Sixthly, the adjudicator will be both independent and equipped with the requisite subject matter expertise.
+Though not usually a lawyer, the adjudicator may obtain independent legal advice if necessary.
+Finally, when compared with arbitration and litigation, speed and economy come at an inevitable price in terms of reliability.
+There is no formal avenue of appeal against an adjudicators decision, and the court will in general summarily enforce it, regardless whether it is correct on the merits, provided that the adjudicator acted independently and within their jurisdiction.
+But a dissatisfied party can insist on having the dispute redetermined de novo in court or by arbitration (if available) even though the adjudicators decision will continue to bind in the meantime.
+Insolvency Set off
+The special rules as to set off in the context of insolvency (usually labelled insolvency set off) form a small but important part of the wider statutory insolvency code, which is directed to ensuring that the assets of an insolvent person (individual or company) are first collected in and then distributed mainly pari passu among those with relevant claims of the same priority.
+Speaking generally, those objectives are served by the imposition of substantial restraints upon what creditors might otherwise be able to do by way of enforcing their rights.
+These restraints serve both to optimise the collection and realisation of the insolvent persons assets and to prevent a free for all among the creditors in seeking to get their hands on them.
+By contrast there are, unsurprisingly, few corresponding restraints upon the enforcement of the insolvent persons rights by the relevant office holder.
+In what follows I will concentrate on corporate insolvency, and therefore refer to the insolvent person as the company.
+Although substantially the same scheme governs the insolvency process in both liquidation (voluntary or compulsory) and in a distributing administration, I will refer for present purposes to the office holder as the liquidator.
+The basic scheme whereby an unsecured creditors claims may only be pursued by way of proof and participation in a pari passu distribution of any available surplus after discharge of prior claims, whereas the liquidator may pursue the companys claims in full, and with every available tool for enforcement, risks causing a real injustice where there are cross claims between the company and one of its creditors arising from their mutual dealings.
+Leaving aside the special position of fiduciaries, there is no fairness in a creditor having to accept only a proportion of the debt due, while the company can recover on its cross claim against the same creditor in full.
+The legal and equitable rules for asserting set off as a defence to the companys claim by no means encompass every type of cross claim, in relation to current, contingent and future liabilities.
+But the statutory regime for set off in insolvency, now to be found in IR 14.25 operates upon an altogether more comprehensive and rigorous basis.
+First, it applies to every type of pre liquidation mutual dealing, and also to secured, contingent and future debts: see IR 14.25(1), (2), (6) and (7).
+Secondly, whereas legal or equitable set off is essentially optional, taking effect only if the cross claim is pleaded as a defence to the claim, insolvency set off is mandatory, and takes effect upon the commencement of the insolvency (the cut off date).
+It is said to be self executing, and for some purposes the original cross claims are replaced by a single claim for the balance: see IR 14.25(3) and (4).
+Thus the separate cross claims may no longer be assigned after the cut off date: see Stein v Blake [1996] AC 243.
+But the separate claims may survive for other purposes: see Wight v Eckhardt Marine GmbH [2003] UKPC 37; [2004] 1 AC 147, paras 26 27 per Lord Hoffmann.
+One example is the balance of contingent or prospective claims under IR 14.25(5).
+Within the liquidation, a net balance owing to the creditor must be pursued by proof of debt in the ordinary way.
+The liquidator is entitled to be paid the full amount of any net balance owing by the creditor, and may exercise any available remedies for its quantification and recovery, including litigation, arbitration or ADR: see IR 14.25(4) and (5).
+The identification of the net balance is to be ascertained by the taking of an account: see IR 14.25(2).
+If there is no dispute as to the existence and amount of the claims and cross claims this is in practice a matter of simple arithmetic, the net balance being the difference between the aggregate of the claims and the aggregate of the cross claims.
+But if any of the claims and cross claims are in dispute, then those disputes will need first to be resolved, by reference to the individual merits of each, before the arithmetic resumes: see again Stein v Blake (supra) per Lord Hoffmann at 255E G.
+This schematic portrayal of the way in which insolvency set off works should not mask the reality, namely that set off may, and commonly does, arise both in the ordinary process of proof by a creditor and in the ordinary course of litigation or other dispute resolution processes when the liquidator is seeking to pursue a claim of the company.
+The account is not an essential first step in the process.
+Thus a proof by a creditor must acknowledge an undisputed cross claim by the company (see IR 14.4(1)(d)), or the claim may be allowed in part by the liquidator after reducing the creditors claim by reference to a disputed cross claim of the company.
+In a claim in court by the company the liquidator may acknowledge an undisputed cross claim by the defendant, or be met by the defendant asserting a disputed cross claim against the company by way of set off (and therefore defence) in those proceedings: see Stein v Blake (supra) at p 253 per Lord Hoffmann.
+The process of proof of debt in the insolvency regime shares a number of the essential features of adjudication.
+Once initiated it is designed to operate both speedily and relatively cheaply.
+The liquidator is a professional likely to have some experience or expertise in business of the type being conducted by the company, together with accounting expertise.
+The liquidator is also semi independent.
+Although nominally asserting the companys position against the proving creditor, the liquidator is in substance adjudicating between the creditors as a whole in deciding what share of the available assets each should receive.
+The liquidator holds no brief for any particular creditor.
+The process of proof is (by comparison with litigation or arbitration) relatively light touch and inquisitorial, and the outcome is only provisionally binding, in the sense that both the proving creditor and any other dissatisfied creditor may challenge the liquidators ruling, by proceedings in court in which the issues are addressed de novo.
+It becomes final only if not challenged.
+In practice, as with adjudication, most of the liquidators rulings in the process of proof are not challenged.
+Where there are real disputes between the company and third parties (who may be creditors or debtors) the insolvency code is inherently flexible as to the best means for their resolution.
+A disputed pending claim (in court proceedings or in arbitration) against the company (as at the cut off date) may be allowed to continue by the liquidator or by the court supervising the insolvency process, as the best means of resolving the dispute: see Cosco Bulk Carrier Co Ltd v Armada Shipping SA [2011] EWHC 216 (Ch); [2011] 2 All ER (Comm) 481, para 58.
+New proceedings may be authorised for the same purpose.
+The liquidator may take the initiative by seeking the directions of the court in relation to particular disputes or to legal issues common to a number of disputed claims, and for that purpose join interested parties or representatives of interested classes.
+Within those proceedings the court has almost unlimited procedural flexibility, as the numerous matters referred to court by the administrators of the top Lehman company in London (Lehman Brothers International (Europe)) demonstrated.
+Furthermore there is no rule that, merely because there exists set off between cross claims, and the need to take an account, disputes about all the claims and cross claims need to be adjudicated upon in a single proceeding.
+Again, the Lehman litigation contains numerous examples of the separate resolution, in successive proceedings, of different issues between the same parties within the Lehman group, concerning their mutual dealings.
+More generally liquidators are no strangers to ADR, or to the pursuit of the most cost effective and proportionate means of resolution of disputes.
+Specific provision is made for the expenses incurred by liquidators in the pursuit of other dispute resolution procedures to be treated as liquidation expenses: see IR 7.108(4)(a)(ii).
+The court has expressly approved the inclusion of third party determination procedures similar to adjudication in insolvency schemes of arrangement: see In re Pan Atlantic Insurance Co Ltd [2003] EWHC 1696 (Ch); [2003] 2 BCLC 678, para 32 per Lloyd J.
+The Cross Appeal Jurisdiction
+As already noted the question whether the determination of a matter in dispute falls within the jurisdiction of an adjudicator turns on the true construction of section 108 and the contractual provision for adjudication in the relevant construction contract.
+There is no single, universal, form of words in current use but a form which does not confer a right to refer any dispute arising under the relevant contract will not be compliant with section 108 of the 1996 Act, in which case the form used in the default scheme is statutorily implied.
+Paragraph 1(1) of the Scheme, which was expressly incorporated into the Contract in the present case, provides that: Any party to a construction contract (the referring party) may give written notice (the notice of adjudication) of his intention to refer any dispute arising under the contract to adjudication.
+Thus an adjudicator properly appointed has jurisdiction to determine a dispute if it arises under the construction contract and has been referred to the adjudicator by one of the parties to the contract.
+It is common ground in the present case that the disputed claim of Bresco referred to Mr Bingham would have been within his jurisdiction as a dispute under the Contract, even though Bresco was by then in liquidation and the Contract had ended, if Lonsdale had not had a cross claim qualifying (if well founded) for insolvency set off.
+The main submission for Lonsdale is that because of the automatic operation of insolvency set off (on the cut off date in March 2015) all claims and cross claims under the Contract then ceased to exist, and were replaced by a single claim to the balance (by whichever of the parties turned out to have the larger claim).
+This was not a claim under the Contract but a claim under Brescos insolvency.
+Accordingly any dispute or disputes about that claim for the balance was also a dispute under the insolvency rather than under the Contract.
+Lonsdale advanced a number of subordinate arguments to bolster this central submission.
+First, it was said that the liberal construction afforded to similar provisions in agreements to arbitrate was inappropriate in the present context, mainly because adjudication was imposed upon the parties by the 1996 Act, rather than freely agreed, but also because arbitration was different in kind from adjudication.
+Secondly, a narrow construction of the gateway to jurisdiction was warranted as a simple means of avoiding the various respects in which adjudication was said to be incompatible with the process of accounting required by insolvency set off.
+Thirdly it was submitted that, even if disputes under the Contract survived insolvency set off, the requirement to resolve them all together in a single account could not be accommodated within an adjudication because of the single dispute rule, and the limited scope within adjudication for the determination of cross claims.
+It is convenient to address these subordinate arguments first, even though some of them overlap with the second issue, which is directly about incompatibility.
+There is some reported authority, but little agreement, on the question whether the liberal construction afforded to jurisdiction provisions in arbitration agreements should inform the construction of section 108 of the 1996 Act and paragraph 1 of the Scheme, in relation to the jurisdiction of an adjudicator.
+In the leading arbitration case Fiona Trust and Holding Corpn v Privalov [2007] UKHL 40; [2007] Bus LR 1719, the question was whether an arbitration agreement which conferred jurisdiction in relation to a dispute about repudiation of the contract should extend to the question whether the contract should be rescinded for bribery or misrepresentation in its inception.
+The House of Lords held that it did, and that this did not depend upon fine distinctions about whether the contract required that the dispute arose under or in relation to or in connection with the contract.
+A similar issue arose in relation to adjudication under a construction contract in Hillcrest Homes Ltd v Beresford and Curbishley Ltd [2014] EWHC 280 (TCC).
+At para 50 HHJ Raynor QC saw considerable force in the submission that the reasoning in Fiona Trust was inapplicable to construction adjudication because the provision for adjudication was the consequence of statutory intervention.
+By contrast in J Murphy & Sons Ltd v W Maher & Sons Ltd [2016] EWHC 1148 (TCC); [2017] Bus LR 916 Sir Robert Akenhead reached the opposite conclusion, treating the learning about arbitration in Fiona Trust as a useful analogy at para 23.
+The editors of Hudsons Building and Engineering Contracts 14th ed (2019) prefer Judge Raynors view, at para 11 022, while the editors of Keating on Construction Contracts, Supplement to 10th ed (2019), para 18 077 appear to veer toward recognising the force of Fiona Trust by analogy.
+There is in my view little to be gained by an extensive analysis of the question how close is the analogy between arbitration and adjudication for the purpose of applying or not applying the learning in Fiona Trust.
+There are plainly points to be made on both sides.
+There are obvious differences between arbitration and adjudication, but they are both types of dispute resolution procedures for which provision is made by a contract between the parties, in which recourse to that procedure is conferred by way of contractual right.
+I am not persuaded that the statutory compulsion lying behind the conferral of the contractual right to adjudicate points at all towards giving the phrase a dispute arising under the contract a narrow meaning, by comparison with a similar phrase in a contract freely negotiated.
+The fact that, after due consideration of the Latham Report, Parliament considered that construction adjudication was such a good thing that all parties to such contracts should have the right to go to adjudication points if anything in the opposite direction.
+Indeed, the fact that the right to adjudicate is statutorily guaranteed is a powerful consideration favourable both to its recognition as a matter of construction, and to the caution which the court ought to employ before preventing its exercise by injunction.
+Incompatibility with insolvency set off, as a spur to a narrow construction of the adjudication jurisdiction, is a much deeper question and underlies the whole of these proceedings.
+It is the central question on the issue whether the adjudication should be restrained by injunction.
+I would prefer to address it in a single section of this judgment, below, rather than either to analyse it twice, or split it into inconvenient and arbitrary parts.
+Suffice it to say, for present purposes, that for reasons to follow I do not regard construction adjudication as in any way incompatible with the operation of the insolvency code in general, or with insolvency set off in particular.
+The single dispute rule was deployed as the second prong of a forensic Mortons Fork.
+Either there was a single dispute about the net balance, in which case it did not arise under the contract, or there were multiple disputes (arising under the various cross claims if they survived) which needed to be resolved on the taking of a single account, but which could not fall within the adjudicators jurisdiction because of the single dispute rule.
+I consider this argument to be misconceived.
+The starting point is that nothing in the 1996 Act or in the Scheme expressly creates a single dispute rule, as a matter of jurisdiction.
+The jurisdiction of the adjudicator is, subject to the overriding requirement that the dispute or disputes referred arise under the contract, mainly defined by the terms of the reference in each particular case.
+The only guidance from the Scheme is, in paragraph 8, that the adjudicator may determine more than one dispute, or disputes under more than one contract, if the parties so agree.
+However narrowly the referring party chooses to confine the reference, a claim submitted to adjudication will nonetheless confer jurisdiction to determine everything which may be advanced against it by way of defence, and this will necessarily include every cross claim which amounts to (or is pleaded as) a set off.
+This much was common ground, but it is supported by authority: see Bailey Construction Law 3rd ed (2020), para 24.57 and PC Harrington Contractors Ltd v Multiplex Constructions (UK) Ltd [2007] EWHC 2833 (TCC); [2008] BLR 16, paras 40 41 per Christopher Clarke J.
+The set off may be advanced by way of defence to the exclusion of the claim referred to adjudication, but not as an independent claim for a monetary award in favour of the respondent to the reference.
+To the same effect, in relation to a cross claim in fraud, is Speymill Contracts Ltd v Baskind [2010] EWCA Civ 120; [2010] BLR 257, paras 36 37 per Jackson LJ.
+What is or is not a single dispute within the rule is by no means straightforward.
+The most comprehensive judicial analysis of the rule appears in Witney Town Council v Beam Construction (Cheltenham) Ltd [2011] EWHC 2332 (TCC); [2011] BLR 707, para 38 per Akenhead J, in the following principles: (i) A dispute arises generally when and in circumstances in which a claim or assertion is made by one party and expressly or implicitly challenged or not accepted. (ii) A dispute in existence at one time can in time metamorphose into something different to that which it was originally. (iii) A dispute can comprise a single issue or any number of issues within it.
+However, a dispute between parties does not necessarily comprise everything which is in issue between them at the time that one party initiates adjudication; put another way, everything in issue at that time does not necessarily comprise one dispute, although it may do so. (iv) What a dispute in any given case is will be a question of fact albeit that the facts may require to be interpreted.
+Courts should not adopt an over legalistic analysis of what the dispute between the parties is, bearing in mind that almost every construction contract is a commercial transaction and parties cannot broadly have contemplated that every issue between the parties would necessarily have to attract a separate reference to adjudication. (v) The Notice of Adjudication and the Referral Notice are not necessarily determinative of what the true dispute is or as to whether there is more than one dispute.
+One looks at them but also at the background facts. (vi) Where on a proper analysis, there are two separate and distinct disputes, only one can be referred to one adjudicator unless the parties agree otherwise.
+An adjudicator who has two disputes referred to him or her does not have jurisdiction to deal with the two disputes. (vii) Whether there are one or more disputes again involves a consideration of the facts.
+It may well be that, if there is a clear link between two or more arguably separate claims or assertions, that may well point to there being one dispute.
+A useful if not invariable rule of thumb is that, if disputed claim No 1 cannot be decided without deciding all or parts of disputed claim No 2, that establishes such a clear link and points to there being only one dispute.
+These principles were applied with apparent approval by Coulson J in Deluxe Art & Theme Ltd v Beck Interiors Ltd [2016] EWHC 238 (TCC); [2016] BLR 274, paras 15 16.
+They were not subjected to any sustained challenge in these proceedings.
+Applying Akenhead Js useful rule of thumb, it appears that a dispute about a cross claim relied on as a set off by way of defence to the claim referred will be part of the dispute raised by the reference, because the claim cannot be decided without consideration of the cross claim by way of defence.
+However that may be, the single dispute rule would only assist Lonsdales argument on jurisdiction if the law of insolvency set off compelled the liquidator to bring all disputes about the claims and cross claims qualifying for set off for resolution in a single proceeding.
+But the law and practice of insolvency set off does no such thing.
+The liquidator may, if it appears economical and proportionate to do so, untangle a complex web of disputed issues arising from mutual dealings between the company and a third party by picking some as suitable for adjudication, others for arbitration and others for disposal by an application to the court for directions, or by ordinary action.
+At the same time the liquidator may seek to deploy ADR and negotiation to narrow the issues in the meantime.
+Returning to the main submission, the existence of a cross claim operating by way of insolvency set off does not mean that the underlying disputes about the companys claim under the construction contract and (if disputed) the cross claim simply melt away so as to render them incapable of adjudication.
+The submission that they are replaced by a dispute in the insolvency is wrong for the reasons which follow.
+First, the submission proves too much.
+It is common ground that a disputed claim by the company in liquidation for (say) 300,000 under a construction contract can be referred by the liquidator to adjudication.
+But suppose there is an undisputed cross claim for 25.
+This would trigger insolvency set off and on Lonsdales argument (as Ms Sinclair QC ruefully admitted) deprive the adjudicator of jurisdiction.
+True it is that the liquidator would have to give credit for 25 against the companys claim, but in reality the only dispute would be as to the merits of that claim under the construction contract.
+To treat the existence of the undisputed cross claim for 25 as a basis for depriving the company of its right to adjudication of its disputed claim would be a triumph of technicality over substance.
+Now suppose that there is a disputed cross claim under the same contract for 100,000.
+Again, this dispute would be entirely a dispute or disputes under the contract, and the cross claim would be available by way of insolvency set off, as a defence to one third of the companys claim.
+Using Akenhead Js rule of thumb, there would still be a single dispute under the contract.
+Finally, suppose that the cross claim is alleged to overtop the companys claim (as here).
+It would still be available as a defence to the companys claim, now to the whole of it, and form part of the same dispute.
+The only constraint upon the adjudicators jurisdiction would be that he could not award the balance to the creditor, but he could dismiss the claim and even make a declaration as to the value of the cross claim, as part of his reasons why the companys claim wholly failed, leaving the creditor to prove for it in the liquidation under IR 14.25(3).
+Secondly, the submission assumes, from an over literal reading of the language of Lord Hoffmanns speech in Stein v Blake, that the claims and cross claims which fall within insolvency set off lose their separate identity for all purposes, on the cut off date.
+It is true that they do for the purpose of assignment, but there are important examples of purposes where they do not.
+Lord Hoffmann himself acknowledged this in Stein v Blake at p 255E, when he said that: The cross claims must obviously be considered separately for the purpose of ascertaining the balance.
+For that purpose they are treated as if they continued to exist.
+As already noted a future or contingent claim may survive set off so as to be enforceable as to the balance after the debt becomes due: see IR 14.25(5), which gave effect (by amendment) to part of the reasoning of the Court of Appeal in In re Kaupthing Singer and Friedlander Ltd [2010] EWCA Civ 518; [2011] BCC 555.
+More prosaically, when a liquidator causes a company in liquidation to pursue a contractual claim by litigation or arbitration, the pleaded claim remains one based upon the underlying contract, even if an undisputed set off is acknowledged, or a disputed set off is raised by way of defence.
+Nor does the existence of insolvency set off deprive the owner of the original claim of ancillary rights under the transaction which created it.
+For example, insolvency set off is now considered to apply to secured claims: see In re Lehman Brothers International (Europe) (No 4) [2017] UKSC 38; [2018] AC 465, paras 167 170 per Lord Neuberger of Abbotsbury and MS Fashions Ltd v Bank of Credit and Commerce International SA [1993] Ch 425, 446 per Dillon LJ, impliedly overruling dicta to the contrary by Rose LJ in In re Bank of Credit and Commerce International SA (No 8) [1996] Ch 245, 256 and In re Norman Holding Co Ltd [1991] 1 WLR 10.
+This is because mutual dealings in IR 14.25 are not limited to provable debts.
+Thus where a secured claim for (say) 300,000 is reduced to 200,000 by a set off, the creditor for the balance retains its security rights.
+By analogy the company retains its rights as to dispute resolution, whether to go to court, or a contractual right to arbitrate or adjudicate.
+A main plank in the reasoning of the Court of Appeal that the challenge to jurisdiction was unfounded was that if (as is not in dispute) a liquidator was entitled to pursue the companys claims by arbitration (pursuant to a clause referring disputes under the contract to arbitration) then the same must apply to the right to refer disputes to adjudication: see per Coulson LJ at para 31.
+I agree.
+I can see no reason why the two forms of dispute resolution should be treated differently.
+For all those reasons I would dismiss the cross appeal on jurisdiction.
+The Appeal Futility
+The reasoning of the Court of Appeal that the adjudication triggered by the reference made on Brescos behalf should be restrained by injunction may be captured from the following extracts from the judgment of Coulson LJ: 37.
+I consider that there is a basic incompatibility between adjudication and the regime set out in the Rules.
+The former is a method of obtaining an improved cashflow quickly and cheaply.
+The latter is an abstract accounting exercise, principally designed to assist the liquidators in recovering assets in order to pay a dividend to creditors. 38.
+This incompatibility can be seen in the different processes that each regime entails; in a comparison of the results that may be available; and in a consideration of the wider issues that could arise if companies in insolvent liquidation regularly sought to refer claims to adjudication. 45. a decision of an adjudicator in favour of a company in liquidation, like Bresco, would not ordinarily be enforced by the court. in my view, judgment in favour of a company in insolvent liquidation (and no stay), in circumstances where there is a cross claim, will only be granted in an exceptional case. 46.
+As a result of this . a reference to adjudication of a claim by a contractor in insolvent liquidation, in circumstances where there is a cross claim, would be incapable of enforcement and therefore an exercise in futility.
+The Court of Appeal was encouraged in its view by the following additional considerations.
+First, participation in adjudication would involve the waste of limited financial resources by the liquidator.
+Secondly it would expose the respondent to the reference to wasting costs in a futile process, where there would be no basis of recovering them even if successful.
+Thirdly the respondent would, if the liquidator obtained summary judgment for an excessive amount, have to spend further costs on court proceedings to rectify the position, with doubtful recovery from the company even if successful.
+Finally the pursuit by liquidators of adjudication followed by enforcement would put undue pressure on the TCC, to the detriment of solvent court users.
+In considering that those considerations of futility and incompatibility justified the grant of an injunction, the Court of Appeal relied upon Twintec v Volkerfitzpatrick Ltd [2014] EWHC 10 (TCC); [2014] BLR 150.
+At paras 63 64 Edwards Stuart J said this: By section 37 of the Senior Courts Act 1981, the court may grant an injunction in all cases in which it appears to the court to be just and convenient to do so I am unable to see how it would be either just or convenient to permit an adjudication to continue in circumstances where the decision of the adjudicator will be incapable of enforcement.
+In the present case if the adjudication went ahead and the adjudicator purported to give a decision in Twintecs favour, that decision would not be binding on VFL.
+Precisely the same issue would still have to be resolved in the litigation.
+Accordingly a victory by Twintec in the adjudication would be one that would make no difference to its legal rights.
+On the contrary, Twintec would have diverted valuable resources in order to deal with the issues in the adjudication and to incur substantial irrecoverable expenditure in doing so.
+Conversely, a purported decision in VFLs favour would be unenforceable and would, in itself, achieve nothing.
+It is true that a well reasoned decision by an adjudicator might encourage the parties to settle their dispute, but that, it seems to me, is a fairly nebulous advantage.
+I cannot see how it outweighs the significant and otherwise unproductive expenditure of money and resources by both parties that the adjudication will involve.
+In this court Lonsdale broadly supported the reasoning of the Court of Appeal.
+If a just and convenient test for the grant of an injunction might be thought too broad, Ms Sinclair QC submitted that a useful analogy was to be found in the principles applied by the court when restraining the presentation of a winding up petition for the enforcement of a disputed debt.
+For Bresco Mr Arden QC suggested that the exceptional jurisdiction to grant an anti suit injunction might be more appropriate by way of analogy.
+Trenchant expressions of the futility of adjudication, and its incompatibility with insolvency set off, from two judges with great experience in construction disputes deserve real respect, although the observations by Edwards Stuart J may have arisen from the particular facts of the Twintec case.
+Nonetheless I am unable to accept that they afford any proper basis for the grant of an injunction to restrain the pursuit of adjudication merely because the company making the reference is in an insolvency process and there are cross claims between the company and the respondent to the reference which trigger insolvency set off.
+The starting point, once it is appreciated that there is jurisdiction under section 108 in such circumstances, is that the insolvent company has both a statutory and a contractual right to pursue adjudication as a means of achieving resolution of any dispute arising under a construction contract to which it is a party, even though that dispute relates to a claim which is affected by insolvency set off.
+It follows that it would ordinarily be entirely inappropriate for the court to interfere with the exercise of that statutory and contractual right.
+Injunctive relief may restrain a threatened breach of contract but not, save very exceptionally, an attempt to enforce a contractual right, still less a statutory right.
+That very steep hurdle is not surmounted, either generally (in the context of insolvency set off) or on the particular facts of this case.
+For reasons already explained it is simply wrong to suggest that the only purpose of construction adjudication is to enable a party to obtain summary enforcement of a right to interim payment for the protection of its cash flow, although that is one important purpose.
+In the context of construction disputes adjudication has, as was always intended, become a mainstream method of ADR, leading to the speedy, cost effective and final resolution of most of the many disputes that are referred to adjudication.
+Dispute resolution is therefore an end in its own right, even where summary enforcement may be inappropriate or for some reason unavailable.
+Nor is there any basis for a conclusion that this beneficial means of dispute resolution is incompatible with the insolvency process, or with the requirement to deal with cross claims in insolvency by set off, still less an exercise in futility.
+First, as already described, the process of proof of debt in insolvency shares many of the attractive features of adjudication, in terms of speed, simplicity, proportionality and economy, but adjudication has the added advantage that a construction dispute arising during an insolvency will be more amenable to resolution by a professional construction expert than by many liquidators.
+In many cases, disputed cross claims needing to be resolved as a prelude to
+a final arithmetical set off account will both, or all, arise under the same construction contract, as in the present case, because all the mutual dealings between the parties will have arisen under the aegis of that single contract.
+Even if they arise under more than one construction contract, the adjudicator will be better placed than most liquidators to resolve them.
+The Scheme contains provision whereby that may be achieved by consent, and the need to take cross claims into account as defences (by way of set off) may well mean that there is in reality one single dispute within Akenhead Js helpful rule of thumb in the Witney Town Council case.
+It is true that the effect of insolvency set off may mean that cross claims raise issues wholly outwith the purview of one or more construction contracts, such as the apportionment of liability for personal injuries, or liability under mutual dealings between the same parties in some other commercial field.
+In such a case the adjudicator will need to have regard to them, if they amount to a defence to the disputed construction claim being referred, but may have simply to make a declaration as to the value of the claim, leaving the unrelated cross claim to be resolved by some other means.
+That is a remedy well within the adjudicators powers.
+Nonetheless the adjudicators resolution of the construction dispute referred by the liquidator may be of real utility to the conduct of the process of set off within the insolvency process as a whole.
+Thus it is no answer to the utility (rather than futility) of construction adjudication in the context of insolvency set off to say that the adjudicators decision is unlikely to be summarily enforceable.
+The reasons why summary enforcement will frequently be unavailable are set out in detail in Bouygues (UK) Ltd v Dahl Jensen (UK) Ltd [2001] 1 All ER (Comm) 1041, paras 29 35 per Chadwick LJ.
+As he says, the court is well placed to deal with those difficulties at the summary judgment stage, simply by refusing it in an appropriate case as a matter of discretion, or by granting it, but with a stay of execution.
+There is in those circumstances no need for an injunction, still less a need to prevent the adjudication from running its speedy course, as a potentially useful means of ADR in its own right.
+Furthermore it will not be in every case that summary enforcement will be inappropriate.
+There may be no dispute about the cross claim, and the claim may be found to exist in a larger amount, so that there is no reason not to give summary judgment for the company for the balance in its favour.
+Or the disputed cross claim may be found to be of no substance.
+Or, if the cross claim can be determined by the adjudicator, because the claim and cross claim form part of the same dispute under the contract, the adjudicator may be able to determine the net balance.
+If that is in favour of the company, there is again no reason arising merely from the existence of cross claims why it should not be summarily enforced.
+True it is that the adjudicator may over value the net balance in favour of the company, so that summary enforcement may leave the respondent to the reference having first to establish a true balance in its favour and then to pursue it by proof (or possibly as a liquidation expense) against an under funded liquidation estate.
+But over valuation is a problem that may arise in any liquidation context, even where there is no cross claim.
+There is no suggestion that, absent insolvency set off, adjudication is ordinarily futile merely because the company making the reference is in liquidation or distributing administration.
+The proper answer to all these issues about enforcement is that they can be dealt with, as Chadwick LJ suggested, at the enforcement stage, if there is one.
+In many cases the liquidator will not seek to enforce the adjudicators decision summarily.
+In others the liquidator may offer appropriate undertakings, such as to ring fence any enforcement proceeds: see the discussion of undertakings in the Meadowside case.
+Where there remains a real risk that the summary enforcement of an adjudication decision will deprive the respondent of its right to have recourse to the companys claim as security (pro tanto) for its cross claim, then the court will be astute to refuse summary judgment.
+There remain the issues about costs and the burden on the TCC.
+Taking costs first, Parliament chose to make this form of semi compulsory ADR costs neutral, even when invoked after the completion or other termination of the contract, when issues of cash flow have passed into history.
+Thus the statutory and contractual right with which an injunction would interfere has costs neutrality built into it.
+The very considerable success of construction adjudication since 1996 suggests that costs neutrality was built in for good reason.
+Many forms of ADR, including mediation, are costs neutral, and are none the worse (many would say all the better) for that.
+So are small claims procedures in the County Court, and many other court or tribunal dispute resolution processes.
+So also, in the insolvency context, is the process of proof of debt.
+Similarly it is inherent in the adjudication procedure that a party may be put to expense in having an incorrect decision put right in later litigation (or arbitration), at least part of which will usually be irrecoverable even if the litigation succeeds.
+That cannot of itself be a reason for preventing by injunction the statutory right to adjudication.
+Lonsdale makes the particular point, in the insolvency context, that a joint and several liability to pay the adjudicators costs and expenses (as in the Contract in this case and in the Scheme) may leave the respondent having to pay the whole of those amounts, with no effective recourse against the insolvent company for its half share.
+But that liability of the company will be a liquidation (or administration) expense, rather than a matter of proof: see IR 7.108(4)(a)(ii).
+Although this may not be a complete guarantee of payment by the company, it provides reasonable reassurance, and a joint and several liability of this kind is not generally risk free, for example where insolvency of one party follows the reference to adjudication.
+And it is a point equally applicable to all adjudication in the insolvency context, even where there are no cross claims, so it proves too much.
+In my view, consideration of costs and of burdens on the court militate against, rather than in favour, of admitting applications for injunctions to restrain adjudications before they have run their course.
+The tight time limits and document based investigatory nature of construction adjudication means that, if left to proceed, it would probably be completed before any opposed injunction application could be determined by the court, and at a fraction of the likely cost.
+The outcome of the adjudication may mean that no risks of the respondent losing the benefit of insolvency set off arise, for example if the respondent is successful.
+Opposition to such attempts to enforce as there may be can then, if necessary, be dealt with on their merits, when the outcome of the adjudication is known, rather than having to be guessed at.
+I have therefore reached the opposite conclusion from that of the Court of
+Appeal on the issue of futility.
+Construction adjudication, on the application of the liquidator, is not incompatible with the insolvency process.
+It is not an exercise in futility, either generally or merely because there are cross claims falling within insolvency set off, and there is no reason why the existence of such cross claims can constitute a basis for denying to the company the right to submit disputes to adjudication which Parliament has chosen to confer.
+For those reasons I consider that the appeal should be allowed.

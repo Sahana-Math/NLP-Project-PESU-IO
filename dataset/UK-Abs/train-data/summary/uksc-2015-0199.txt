@@ -1,0 +1,46 @@
+The appellant, Taurus Petroleum Limited (Taurus), contracted with the respondent, State Oil Marketing Company of the Ministry of Oil, Republic of Iraq (SOMO).
+Disputes arose and in 2013 Taurus obtained an arbitral award against SOMO.
+Shell International Eastern Trading Co had purchased two parcels of crude oil from SOMO.
+The price was to be paid under two letters of credit, issued by the London branch of Crdit Agricole S.A. (CA) addressed to Central Bank of Iraq (CBI) instructing it to advise each credit to SOMO.
+Under each letter of credit, SOMO was identified as the beneficiary, but it was provided that payment was to be made in New York to the Iraq Oil Proceeds Account at the Federal Reserve Bank of New York.
+Each contained a promise on the part of CA in favour of CBI to make payment in that way, irrespective of any conflicting instructions which might be given by SOMO.
+The letters stated that the credit was subject to the Uniform Customs and Practice for Documentary Credits (2007 Revision) (UCP).
+SOMO presented conforming documents to CA.
+Taurus obtained an order permitting the award to be enforced as a judgment in England.
+Taurus also obtained a third party debt order (TPDO) in respect of the proceeds due under the credits, with a view thereby to satisfying SOMOs judgment debt to it, together with an associated receivership order.
+SOMO challenged these orders, which the High Court set aside.
+The Court of Appeal upheld that result, albeit for different reasons.
+Taurus appealed to the Supreme Court.
+The issues argued on appeal were: (i) whether SOMO was the sole creditor or a creditor at all of CA under the letters of credit, (ii) whether CAs obligations to CBI under the letters prevented the court from making a TPDO, (iii) the location of the debts and (iv) whether a receivership order was appropriate in the circumstances.
+The Supreme Court allows the appeal by a majority of three to two.
+Lord Clarke gives the lead judgment, and.
+Lord Sumption and Lord Hodge concurring judgments.
+Lord Neuberger and Lord Mance dissent.
+The interpretation of the letters of credit The court could make the TPDO only if CAs debt was owed to SOMO as the sole creditor, notwithstanding CAs obligation to make payment to an account in the name of CBI. [3, 9].
+SOMO was the sole beneficiary of the letters of credit because: (i) the language of the letters expressly identifies SOMO as the beneficiary [18 19, 62 63, 76] and (ii) that conclusion fits with the use of the term beneficiary in articles 2 and 18 of the UCP, which must be considered in interpreting the letters and to which the credit was subject [19 20, 62, 76].
+In the absence of a clear statement to the contrary, CAs primary obligation to make payment was owed to SOMO alone.
+CAs separate obligation, owed jointly to SOMO and CBI under each letter, was collateral to that primary obligation [23, 65, 79].
+Lord Sumption adds that, if the parties had intended CBI to be the debtor, the obvious solution would have been a transfer or assignment of credit to CBI, as permitted by article 38 of the UCP [64].
+Lord Sumption and Lord Hodge each reason that nothing in the terms of the letters shows any such transfer, and the terms expressly exclude that possibility [64, 77].
+The location of the debt Debts have a location for legal purposes.
+If CAs debts were situated outside England and Wales, the court would be unable to make a TPDO in respect of them unless, under the law of the location, payment in compliance with the TPDO would discharge CA from those debts to the extent of CAs payment [29].
+The debts were located in England, because that was where they were recoverable [30 31].
+The Court of Appeal had been bound by its own reasoning in Power Curber v National Bank of Kuwait SAK [1981] 1 WLR 1233, so had instead concluded that the debts were located where they were payable.
+The reasoning in that case was not extensive, has not become well established, and was incorrect [32 41].
+The effect of CAs obligations to CBI There is no independent rule that a TPDO can be made only in respect of property with which the judgment debtor can honestly deal.
+The rule is only that a TPDO cannot be made in respect of property which does not belong to the judgment debtor.
+Unpaid debts under the letters of credit were not CBIs property [45 46].
+Lord Sumption and Lord Hodge each add that the TPDO modified CAs primary obligation, which was owed to SOMO and which was to pay money into CBIs account, so that payment in compliance with the TPDO discharged CA from its debt to SOMO.
+CAs collateral obligation to CBI was to discharge that primary obligation by a particular payment method.
+Once the primary obligation was discharged, that collateral obligation falls away.
+Compliance with the TPDO would consequently discharge CA from its liabilities to the extent of its payment.
+As a result, CAs obligations to CBI could not prevent the court from making the TPDO [70 71, 79].
+The receivership order A receivership order is appropriate because: (i) it was predictable, in all the circumstances, that SOMO would be sued in England, under English law, for the purpose of enforcing the arbitral award if SOMO declined to honour that award; (ii) domestic and international policy favours the efficient recognition and enforcement of arbitration awards; (iii) it would be inconsistent to treat the arbitration award as a judgment of the English courts for enforcement purposes, whilst limiting the available enforcement methods on the basis of an insufficient connection to this jurisdiction [54 55].
+CBIs account in New York is merely the conduit via which monies paid from CA pass onwards into the Iraqi government budget.
+There is no evidence that CA would be prejudiced by the receivership order. [56 58].
+Dissenting judgments Lord Mance and Lord Neuberger give dissenting judgments.
+They each conclude that the letters of credit created debts which were owed to CBI alone [94 101, 126 138].
+Lord Mance further considers that the TPDO would contravene the principle that a TPDO cannot place a judgment creditor (Taurus) in a better position than the judgment debtor (SOMO) in relation to the third party (CA) [90 91, 115].
+There is no basis, in his opinion, for regarding CAs obligations to pay CBI as collateral to, or conditional on, some primary obligation to pay the proceeds to SOMO [112 113, 117].
+Lord Neuberger reasons further that CAs compliance with the TPDO could not discharge any separate obligation owed to CBI, effectively requiring CA to pay the sums due under the credits twice: once pursuant to the TPDO, and once pursuant to its obligations to CBI.
+The TPDO was inappropriate for that reason [141] and/or because it would grant Taurus rights to the sums which prevailed over those of CBI, in circumstances where Taurus knew of CBIs prior rights [143].

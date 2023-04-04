@@ -1,0 +1,510 @@
+In this appeal two men who had been convicted of very serious offences and who would continue to be detained in a penal institution on 18 September 2014 sought to establish a right of convicted prisoners to vote in the Scottish independence referendum on that date.
+As a prompt decision was needed, the court debated the matter and dismissed the appeal on the same day as the hearing.
+This judgment sets out the reasoning of the majority of the court.
+The proceedings giving rise to the appeal were applications for judicial review of the Scottish Independence Referendum (Franchise) Act 2013 (the Franchise Act), an Act of the Scottish Parliament.
+The Franchise Act based the franchise for the referendum on the franchise for local government elections, which is determined by the Representation of the People Act 1983 (the 1983 Act), and extended it to young voters over the age of 16.
+Section 2(1)(b) of the 1983 Act provides that a person who is subject to any legal incapacity to vote is not entitled to vote as an elector at a local government election.
+Section 3(1) of the 1983 Act incapacitates convicted prisoners from voting.
+Such prisoners have lacked the legal capacity to vote since 1969.
+Before then, there were other legal provisions which disenfranchised felons or had the effect of preventing prisoners from being registered to vote.
+The challenges follow on from decisions of the European Court of Human Rights (the Strasbourg Court) concerning the disenfranchisement of convicted prisoners.
+In Hirst v The United Kingdom (No 2) (2005) 42 EHRR 849 the Grand Chamber held that the general and automatic disenfranchisement of convicted prisoners was a violation of article 3 of Protocol No 1 (A3P1) of the European Convention on Human Rights (ECHR).
+In Scoppola v Italy (No 3) (2012) 56 EHRR 663 the Grand Chamber confirmed its judgment in Hirst.
+More recently, this court in McGeoch v Lord President of the Council 2014 SC (UKSC) 25 (R (Chester) v Secretary of State for Justice [2014] AC 271) has applied the principles in Hirst and Scoppola in claims under the Human Rights Act 1998 (HRA 1998).
+The appellants did not claim that, if their appeal were to succeed, they would necessarily have a right to vote in the referendum but asserted that it was important to review the lawfulness of the legislation, which was a matter of general public importance.
+The Lord Advocate and the Advocate General for Scotland did not challenge that assertion.
+Lord Glennie, who heard the applications in the Outer House of the Court of Session, issued his opinion refusing them on 19 December 2013 (2014 SLT 213).
+The First Division of the Inner House of the Court of Session refused a reclaiming motion on 2 July 2014 (2014 SLT 755).
+An expedited appeal was presented to this court on 24 July 2014.
+Mr Aidan ONeill QC for the appellants, submitted that the Franchise Acts blanket disenfranchisement of convicted prisoners in relation to the independence referendum was ultra vires the Scottish Parliament under the following headings: 1. 2. 3. 4. 5.
+because it was incompatible with A3P1 of the ECHR; because it was incompatible with article 10 of the ECHR (article 10); because it was incompatible with the law of the European Union (EU law); because it contravened the substantive requirements of the International Covenant on Civil and Political Rights (ICCPR); because it was incompatible with the basic democratic principles of the common law constitution, namely the principle of universal suffrage and the concomitant fundamental right to vote; and because it contravened the common law requirements of the rule of law. 6.
+The first three challenges are concerned with the effect which the Scotland Act 1998 gives to certain international norms, namely Convention rights incorporated into domestic law by HRA 1998 or EU law (defined in section 126(9) of the Scotland Act) which has precedence within its sphere over domestic law under the European Communities Act 1972, as limitations on the powers of the Scottish Parliament.
+Section 29(1) of the Scotland Act provides that an Act of the Scottish Parliament is not law so far as any provision of the Act is outside the legislative competence of the Parliament.
+Subsection (2)(d) states that a provision is outside that competence so far as it is incompatible with any of the Convention rights or with EU law.
+In relation to those three challenges the issue is whether the appellants or other convicted prisoners have rights which invalidate the relevant provisions of the Franchise Act.
+The fourth challenge raises a separate issue, namely whether the ICCPR has any effect in domestic law.
+The fifth and sixth challenges raise the questions whether the common law recognises a principle of universal suffrage and whether a denial of such a principle would be contrary to the rule of law.
+I consider each challenge in turn.
+(i) A3P1 of the ECHR
+A3P1 is entitled Right to free elections.
+It provides: The High Contracting Parties undertake to hold free elections at reasonable intervals by secret ballot, under conditions which will ensure the free expression of the opinion of the people in the choice of the legislature.
+The article requires the contracting states to hold elections at reasonable intervals and the Strasbourg Court, drawing on the travaux prparatoires, has interpreted it as also conferring a right of participation, both by standing for election and voting, in the election of representatives to the legislature: Mathieu Mohin and Clerfayt v Belgium (1987) 10 EHRR 1, paras 46 51.
+The natural meaning of the article is that the phrase the free expression of the opinion of the people in the choice of the legislature is the product of the free elections at reasonable intervals by secret ballot.
+The article states that the elections are to be held under conditions which will ensure that free expression.
+Article 31(1) of the Vienna Convention on the Law of Treaties (1969) provides, as a general rule of interpretation: A treaty shall be interpreted in good faith in accordance with the ordinary meaning to be given to the terms of the treaty in their context and in the light of its object and purpose.
+In my view the ordinary meaning of the words of A3P1 strongly supports the view that the signatories of the ECHR were undertaking to hold periodic elections to a democratically elected legislature.
+The requirement that the elections are held at reasonable intervals also suggests that the drafters of A3P1 did not have referendums in mind.
+The words in their ordinary meaning do not support a wider view that A3P1 was intended to cover any major political decision which was put to a popular vote, however important that decision might be.
+That the object and purpose of A3P1 is so limited is confirmed by the consistent case law of the European Commission on Human Rights and the Strasbourg Court.
+The Lord Ordinary, Lord Glennie, in para 22 of his opinion referred to X v United Kingdom (Application No 7096/75, 3 October 1975) and 11 subsequent decisions on admissibility which vouched the principle that A3P1 applies to elections to the legislature and has no application to voting in other elections or in a referendum.
+Lady Paton, delivering the succinct opinion of the First Division, agreed in para 24.
+It is not necessary to analyse all of those decisions, which vouch a consistent line of reasoning.
+I therefore examine four to highlight the scope of the reasoning of the Strasbourg Court.
+X v UK concerned the referendum in 1975 on whether the United Kingdom should remain a member of the EEC.
+The Commission decided that A3P1 did not cover the referendum because it was not an election concerning the choice of the legislature.
+In v Latvia (Application No 14755/03, 26 January 2006) the Third Section dealt with a complaint that a prisoner had not been allowed to vote in a referendum on Latvias accession to the EU.
+It rejected the application as inadmissible, reiterating that the obligations imposed on Contracting States by A3P1 were limited to parliamentary elections and do not apply to referendums.
+Niedwied v Poland (2008) 47 EHRR SE6 concerned a prisoner who had been deprived of a right to vote in (i) the presidential election of 2000, (ii) parliamentary elections in 2001 and (iii) the referendum on Polands accession to the European Union in 2003.
+The Strasbourg Court rejected the claims in respect of (i) and (iii) ratione materiae because the A3P1 obligations related to the choice of legislature.
+The fourth decision, McLean and Cole v United Kingdom (2013) 57 EHRR SE95, concerned complaints by convicted prisoners about their disenfranchisement from (i) elections to the European Parliament in 2009, (ii) the United Kingdom parliamentary election of 2010, (iii) elections to the Scottish Parliament in 2007 and 2011, (iv) the nationwide referendum on the alternative vote also in 2011 and (v) local government elections.
+The court held that local authorities in the United Kingdom were not part of the legislature in A3P1 and that complaint (v) was inadmissible.
+In relation to complaint (iv) the court reiterated (in para 32) that A3P1 was limited to elections concerning the choice of the legislature and did not apply to referendums.
+It continued (in para 33): There is nothing in the nature of the referendum at issue in the present case which would lead the court to reach a different conclusion here.
+It follows that complaint concerning the alternative vote referendum is incompatible ratione materiae with the provisions of the Convention and its Protocols and must be rejected pursuant to article 35(4).
+Mr ONeill QC founded on the first sentence of this extract to argue that the Strasbourg Court would apply A3P1 to a particular referendum, such as a referendum transferring powers from one legislature (the UK Parliament) to another (the Scottish Parliament).
+He also pointed out that some of the admissibility decisions did not contain detailed reasoning.
+For the reasons which we set out below we are not persuaded by either point.
+For completeness I also refer to Anchugov and Gladkov v Russia [2013] ECHR 638 in which the First Section of the Strasbourg Court held (in paras 54 and 55) that the obligations which A3P1 imposed on Contracting States did not extend to the election of a Head of State.
+Thus a complaint under A3P1 of exclusion from the important election of the Russian President was declared inadmissible ratione materiae.
+While the Court considered (in paras 38 40) as relevant legal material article 25 of the ICCPR, which I discuss in paras 26 31 below, only the disenfranchisement from the parliamentary elections was held to breach A3P1.
+The courts of the United Kingdom are not bound by the judgments of the Strasbourg Court in interpreting the ECHR.
+In section 2 of HRA 1998 the courts are obliged only to take into account that jurisprudence.
+There is room for disagreement and dialogue between the domestic courts and the Strasbourg Court on the application of provisions of the ECHR to circumstances in the UK.
+Nonetheless, it is consistent with the intention of Parliament in enacting HRA 1998 that our courts should follow a clear and constant line of decisions of the Strasbourg Court, whose effect is not inconsistent with some fundamental substantive or procedural aspect of our law, and whose reasoning does not appear to overlook or misunderstand some argument or point of principle: Manchester City Council v Pinnock (Nos 1 and 2) [2011] 2 AC 104, Lord Neuberger at para 48.
+On occasion our domestic courts may choose to go further in the interpretation and application of the ECHR than Strasbourg has done where they reach a conclusion which flows naturally from Strasbourgs existing case law: Rabone v Pennine Care NHS Trust [2012] 2 AC 72, Lord Brown of Eaton under Heywood para 112; In re G (Adoption: Unmarried Couple) [2009] AC 173.
+As Mr ONeill submitted, the Strasbourg Court has on many occasions emphasised both that democracy is a fundamental feature of the European public order and that the ECHR was designed to promote the ideals and values of a democratic society: see for example Staatkundig Gereformeerde Partij v The Netherlands (Application No 58369/10, 10 July 2012) at para 70.
+Further, it is in the appellants favour that there is no doubt that a vote whether to secede from a 307 year old Union is a momentous and historic decision for a democratic country.
+If the ECHR protected a principle of universal suffrage in all important democratic decisions, the Scottish independence referendum would clearly merit such protection.
+But, in my view, the case law of the Strasbourg Court is unequivocal.
+What A3P1 requires is regular periodic elections to the legislature of a Contracting Party and it also protects the right to vote and stand for election in such elections.
+The legislature is not confined to a national Parliament but includes the European Parliament Matthews v UK (1999) 28 EHRR 361 but it does not include local authorities in the United Kingdom: McLean & Cole v UK.
+There is thus no real support for the appellants position in the Strasbourg jurisprudence.
+There is no clear direction of travel in that jurisprudence to extend A3P1 to referendums.
+On the contrary, between 1975 and 2013 there have been at least 12 applications in which claims under A3P1 concerning a right to vote in referendums have been rejected as inadmissible.
+The fact that in some cases the Strasbourg Court has not set out detailed reasoning does not assist the appellants.
+The applications were treated as manifestly ill founded, avoiding the need for such reasoning.
+At best for the appellants there is the first sentence from the quotation in para 11 above from McLean and Cole, which could suggest that there could be a referendum which would be the equivalent of an election to a legislature.
+But that must be construed against the backdrop that the Strasbourg Court has held that referendums which could have a direct and material effect on the powers and operation of a legislature are not within the ambit of A3P1.
+Thus accession to the European Union, by which the European Parliament is introduced as a new legislature in relation to a Contracting State and the powers of the national legislature are constrained, is outside A3P1: Z v Latvia and Niedwied v Poland.
+So also is a referendum on the way in which the legislature is elected: McLean and Cole.
+In my view there is no material difference between accession and secession in this context.
+In each case the powers of one legislature are reduced in favour of another legislature.
+Nor am I persuaded that the Edinburgh Agreement, by which the United Kingdom Government and the Scottish Government agreed to be bound by the outcome of the Scottish independence referendum, is a point of distinction from other referendums.
+The secession of Scotland from the UK could, in theory at least, have been organised constitutionally without a referendum by legislation of the UK Parliament.
+The fact that the referendum is a very important political decision for both Scotland and the rest of the United Kingdom is not material.
+If the political importance of a democratic decision were the criterion for inclusion within A3P1, it is likely that the election of the executive President of the Russian Federation would have come within that article.
+But it did not: Anchugov and Gladkov v Russia.
+In view of the clear line of case law by the Strasbourg Court, I do not think, for the reasons discussed in para 28 below, that article 25 of the ICCPR affects the proper interpretation of A3P1.
+In Mathieu Mohin and Clerfayt v Belgium the Strasbourg Court stated (at para 53):
+Article 3 (P1 3) applies only to the election of the legislature, or at least of one of its chambers if it has two or more (fn 76: Travaux Prparatoires, vol VIII, pp 46, 50 and 52).
+The word legislature does not necessarily mean only the national parliament, however; it has to be interpreted in the light of the constitutional structure of the State in question.
+The passage of time and the Strasbourg case law since 1988 have not altered the meaning of A3P1.
+There are clearly arguments of legal policy which could suggest that a right to vote in a historic constitutional referendum should be protected in the same way as a right to vote in an election of a national or European legislature.
+In several cases the Strasbourg Court has stated that any general, automatic and indiscriminate departure from the principle of universal suffrage risks undermining the democratic validity of the legislature thus elected and the laws which it promulgates: Hirst at para 62; Sitaropoulos and Giakoumopoulos v Greece (2012) 56 EHRR 320 (Grand Chamber) at para 68; Scoppola v Italy (No 3) (Grand Chamber) at para 84; and Shindler v UK (2013) 58 EHRR 148 (4th Section) at para 103.
+That reasoning could readily be applied to democratic decisions other than elections to the legislature.
+A referendum which results in the creation of a new legislature or the transfer of powers from one legislature to another could have an equal effect on the democratic validity of the resulting Parliament.
+But A3P1, as currently worded, does not protect such a wider right of participation in public life.
+The appellants claim under A3P1 therefore fails.
+(ii) Article 10 of the ECHR
+Article 10 of ECHR provides 1.
+Everyone has the right to freedom of expression.
+This right shall include freedom to hold opinions and to receive and impart information and ideas without interference by public authority and regardless of frontiers.
+This article shall not prevent States from requiring the licensing of broadcasting, television or cinema enterprises. 2.
+The exercise of these freedoms, since it carries with it duties and responsibilities, may be subject to such formalities, conditions, restrictions or penalties as are prescribed by law and are necessary in a democratic society, in the interests of national security, territorial integrity or public safety, for the prevention of disorder or crime, for the protection of health or morals, for the protection of the reputation or rights of others, for preventing the disclosure of information received in confidence, or for maintaining the authority and impartiality of the judiciary.
+The courts below held that article 10 does not confer any wider right to vote than is conferred by A3P1.
+I agree, essentially for the reasons which they gave (the Lord Ordinary at paras 37 and 40 43 and the First Division at para 25).
+The European Commission on Human Rights and the Strasbourg Court have repeatedly held in decisions on admissibility that article 10 did not protect the right to vote or other rights already secured by A3P1 as the lex specialis.
+See, for example, Liberal Party v United Kingdom (1980) 4 EHRR 106, paras 14 16, and the other cases to which the Lord Ordinary referred at para 37 of his opinion.
+This is consistent with the wording of article 10 and with the approach to construction of the ECHR which considers an individual article in the context of the Convention as a whole.
+In any event, there is nothing in the Strasbourg jurisprudence to suggest that a claim under article 10, if admitted as in Hirst v United Kingdom, would confer a wider right of political participation by voting or standing for election than that protected by A3P1: Hirst, para 89; Anchugov and Gladkov, paras 113 116; danoka v Latvia (2006) 45 EHRR 478, para 141.
+The claim under article 10 therefore fails.
+(iii) European Union law
+The appellants asserted that the disenfranchisement of convicted prisoners entailed a breach of EU law.
+The argument ran thus.
+If voters in Scotland
+voted for independence, the appellants as Scottish born British citizens
+would automatically be made citizens of an independent Scotland on the enactment of the Scottish Governments draft Scottish Independence Bill.
+An independent Scottish Government would have to apply to join the EU.
+If the application did not succeed, the appellants new Scottish nationality would not carry with it the rights of EU citizenship, including the rights in the Charter of Fundamental Rights of the EU.
+Because the outcome of the referendum might affect rights conferred and protected by the legal order of the EU, Mr ONeill QC submitted that the legislative conditions for participation in the referendum were amenable to judicial review carried out in the light of EU law.
+The blanket and comprehensive statutory prohibition from voting was, he submitted, contrary to EU law and thus outside the legislative competence of the Scottish Parliament.
+I do not think that the prohibition from voting in the independence referendum involves any breach of EU law for the following two reasons.
+First, it must be borne in mind that a yes vote in the referendum would not itself determine the citizenship of the appellants or other people born in Scotland.
+The Scottish Government and UK Government would have to negotiate the terms of Scotlands secession from the UK and it is not possible at this time to say whether people may be empowered to elect to retain United Kingdom citizenship.
+While the Scottish Independence Bill, if enacted as currently drafted, would end the UK citizenship of a Scottish born citizen, that Bill might be amended in the light of the negotiations.
+It would not have been the independence referendum but legislation that followed those negotiations and also negotiations between the Scottish Government and the governments of European Union Member States which might have given rise to a withdrawal of EU citizenship.
+The judgment of the Court of Justice of the European Union in Rottmann v Freistaat Bayern [2010] QB 761 may be distinguished on the basis that the Scottish Parliament in enacting the Franchise Act to provide for the franchise of the referendum was not exercising powers in the sphere of nationality in a way which affected the rights conferred or protected by the EU legal order.
+Secondly, as the Lord Advocate and the Advocate General for Scotland submitted, this court has recently held that EU law does not incorporate any right to vote, such as that recognised in the Strasbourg Courts case law on the ECHR: McGeoch v Lord President of the Council 2014 SC (UKSC) 25, Lord Mance at paras 56 59.
+The EU law challenge therefore fails. (iv) The International Covenant on Civil and Political Rights (ICCPR)
+Mr ONeill prayed in aid article 25 of the ICCPR for two purposes.
+First, he submitted that this Court should use the article as an aid in the interpretation of the scope of A3P1 of the ECHR.
+Secondly, he argued that the Act was outside the competence of the Scottish Parliament because it was contrary to the UKs obligations in international law contained in that article.
+Article 25 of the ICCPR provides: Every citizen shall have the right and the opportunity, without any of the distinctions mentioned in article 2 and without unreasonable restrictions: (a) To take part in the conduct of public affairs, directly or through freely chosen representatives; (b) To vote and to be elected at genuine periodic elections which shall be by universal and equal suffrage and shall be held by secret ballot, guaranteeing the free expression of the will of the electors; (c) To have access, on general terms of equality, to public service in his country.
+Article 2 involves an undertaking to respect the ICCPR rights without distinction of any kind.
+The United Nations Human Rights Committee, which was established under article 28 of the ICCPR, expressed the view in Gillot v France (Communication No 932/2000) (2002) 10 IHRR 22, that article 25 applied to referendums on self determination in New Caledonia.
+The French government did not contest that view, which can readily be justified by reference to the combination of paras (a) and (b) of article 25 of the ICCPR.
+In the General Comment adopted by the Human Rights Committee under article 40, para 4 of the ICCPR, 27 August 1996, the Committee stated (in para 6): Citizens participate directly in the conduct of public affairs when they exercise power as members of legislative bodies or by holding executive office.
+This right of direct participation is supported by paragraph (b).
+Citizens also participate directly in the conduct of public affairs when they choose or change their constitution or decide public issues through a referendum or other electoral process conducted in accordance with paragraph (b).
+The different wording of article 25 of the ICCPR from that of A3P1 of the ECHR explains the different interpretations of the scope of the provisions.
+Thus in Yevdokimov and Rezanov v Russian Federation (Communication No 1410/2005) the Committee concluded that article 25 of the ICCPR extends to the vote on the election of the Russian President, while in Anchugov and Gladkov the Strasbourg Court, having cited article 25 of the ICCPR, held that A3P1 did not.
+The decisions on article 25 of the ICCPR do not in my view assist the interpretation of A3P1 of the ECHR.
+Mr ONeill QCs submission that the Scottish Parliament lacks the competence to legislate in breach of article 25 of the ICCPR fails to allow for the fundamental separation of powers in our constitution.
+The UK Parliament and the Scottish Parliament make laws; the executive branch of the UK Government makes international treaties; but unless those treaties are incorporated into law, they do not affect domestic rights.
+In J H Rayner (Mincing Lane) Ltd v Department of Trade and Industry [1990] 2 AC 418, Lord Oliver of Aylmerton stated (p 500B C): [A]s a matter of the constitutional law of the UK, the Royal Prerogative, whilst it embraces the making of treaties, does not extend to altering the law or conferring rights upon individuals or depriving individuals of rights which they enjoy in domestic law without the intervention of Parliament.
+Treaties, as it is sometimes expressed, are not self executing.
+There is a clear difference between Convention rights which have been incorporated into the domestic laws of the UK by HRA 1998 and rights arising under the ECHR, which are not part of this countrys law but obligations under international law: In re McKerr [2004] 1 WLR 807, Lord Nicholls at para 25, Lord Hoffmann at paras 62 63; R v Secretary of State for the Home Department, Ex p Brind [1991] 1 AC 696, Lord Bridge of Harwich pp 747G 748F.
+The drafters of the Scotland Act 1998 clearly bore in mind the distinction between international and domestic obligations.
+Section 126(10) excluded from the expression international obligations the obligations to observe and implement EU law and the Convention rights.
+The latter obligations, as part of our domestic law, limit the competence of the Scottish Parliament (section 29(2)(d); para 6 above).
+No such limit is imposed on the Scottish Parliament in relation to the international obligations of the UK, which are not part of our domestic law.
+Instead, section 35(1) empowers the Secretary of State, who is a minister of the UK Government, to make an order prohibiting the Presiding Officer from submitting a Bill for Royal Assent if it contains provisions which he has reasonable grounds to believe would be incompatible with any international obligations.
+That provision do[es] not limit the legislative competence of the Scottish Parliament in a way that can be decided upon by a court: Whaley v Lord Advocate 2008 SC (HL) 107, Lord Hope at paras 8 9.
+The challenge based on international law, and in particular article 25 of the ICCPR, therefore fails.
+(v) The common law right to vote
+In essence Mr ONeill QC argued that because we live in a developed liberal parliamentary democracy the common law had developed to recognise as a fundamental or constitutional right a principle of universal and equal suffrage, subject only to proportionate limitations, such as for a minimum age, which must be provided for by law.
+I have no difficulty in recognising the right to vote as a basic or constitutional right.
+The House of Lords did so in Watkins v Secretary of State for the Home Department [2006] 2 AC 395.
+See for example Lord Bingham (para 25) and Lord Rodger (para 61).
+It is also not in doubt that the judiciary have the constitutional function of adapting and developing the common law through the reasoned application of established common law principles in order to keep it abreast of current social conditions.
+Nor is it controversial to suggest that judges can take into account rules of international law which are binding on the United Kingdom when interpreting statutes and in developing the common law: R v Lyons [2003] 1 AC 976, Lord Bingham at para 13, Lord Hoffmann paras 27 28; R (Osborn) v Parole Board [2013] 3 WLR 1020, Lord Reed para 62.
+In McGeoch v Lord President of the Council Lord Sumption (para 121) stated:
+The courts have for many years interpreted statutes and developed the common law so as to achieve consistency between the domestic law of the United Kingdom and its international obligations, so far as they are free to do so.
+In my view the concluding words are an important limitation.
+Like the courts below I do not think that the common law has been developed so as to recognise a right of universal and equal suffrage from which any derogation must be provided for by law and must be proportionate.
+It is important to bear in mind, as the Lord Ordinary did in para 70 of his opinion, the historical development of the right to vote.
+Parliaments were initially summoned and the franchise created by the Kings writ.
+In the fifteenth century parliamentary legislation in both Scotland and England and Wales sought to regulate the franchise.
+In Scotland the Election of Commissioners Act 1681 established the county franchise which survived until 1832.
+Since then the franchise has been extended by statute.
+It has thus been our constitutional history that for centuries the right to vote has been derived from statute.
+The UK Parliament through its legislation has controlled and controls the modalities of the expression of democracy.
+It is not appropriate for the courts to develop the common law in order to supplement or override the statutory rules which determine our democratic franchise.
+In In re McKerr [2004] 1 WLR 807, Lord Nicholls of Birkenhead stated (para 30): The courts have always been slow to develop the common law by entering, or re entering, a field regulated by legislation.
+Rightly so, because otherwise there would inevitably be the prospect of the common law shaping powers and duties and provisions inconsistent with those prescribed by Parliament.
+R v Lyons [2003] 1 AC 976 is a recent instance where the House rejected a submission having this effect.
+See also the similar statements of Lord Steyn (para 51) and Lord Hoffmann (para 71).
+In my view that consideration is apt in relation to the submission that this court should recognise a common law right of universal and equal suffrage and provides a complete answer to the submission.
+Such a right would contradict sections 2(1)(b) and 3(1) of the 1983 Act.
+Although the impugned Act is an Act of the Scottish Parliament to which the doctrine of parliamentary sovereignty does not apply, the appellants proposition has to be tested against the provisions of the 1983 Act.
+So tested, I am satisfied that there is no common law right of universal and equal suffrage which could require the Scottish Parliament to extend the franchise in the Act to encompass convicted prisoners.
+While the common law cannot extend the franchise beyond that provided by parliamentary legislation, I do not exclude the possibility that in the very unlikely event that a parliamentary majority abusively sought to entrench its power by a curtailment of the franchise or similar device, the common law, informed by principles of democracy and the rule of law and international norms, would be able to declare such legislation unlawful.
+The existence and extent of such a power is a matter of debate, at least in the context of the doctrine of the sovereignty of the United Kingdom Parliament: see AXA General Insurance Co Ltd v Lord Advocate 2012 SC (UKSC) 122, Lord Hope (paras 49 51) and in relation to the Scottish Parliament Lord Reed (paras 153 154).
+But such a circumstance is very far removed from the present case, and there is no need to express any view on that question.
+Finally, I derive little assistance from Sauv v Attorney General of Canada [2002] 3 SCR 519, to which Mr ONeill QC referred.
+In that case the Supreme Court of Canada considered the constitutionality of a statutory disenfranchisement of convicted prisoners serving a sentence of more than two years in the context of sections 3 and 15(1) of the Canadian Charter of Rights and Freedoms.
+The majority of the court held that the right to vote was fundamental to Canadian democracy and the rule of law (McLachlan CJ at paras 9 and 58) and that the disenfranchisement in the election legislation was unconstitutional.
+The judgment has to be understood in the context of the Charter of Rights which in section 3 gives every citizen of Canada the right to vote in the election of members of federal and provincial legislatures and in section 15(1) gives every individual equal benefit of the law.
+Further, in Haig v Canada [1993] 2 SCR 995 the Supreme Court held that section 3 of the Charter of Rights did not extend to a federal referendum on the constitution of Canada: LHeureux Dub J at pp 1030 1033.
+In my view, the Canadian cases provide no support for the appellants position.
+I therefore reject the submission that there is a common law right to vote.
+(vi) The Rule of Law
+In my view there is no separate argument that the rule of law encompasses a universal right to vote.
+Nor can the rule of law be a means of subverting the dualist approach of the laws of the UK towards international treaties: paras 29 and 30 above.
+The Franchise Act has established the franchise for the referendum in accordance with the rule of law.
+The Scotland Act 1998, in Schedule 5, Part I, para 5A, empowered the Scottish Parliament to enact legislation to hold a referendum on Scottish independence, by excluding such a referendum from reserved matters.
+This gave the Scottish Parliament
+Conclusion
+authority to apply the 1983 Act to the referendum franchise as well as to extend the franchise to young people aged 16 or over.
+It is for these reasons that the court dismissed the appeal.
+As the appellants were legally assisted persons and remained in detention, it was agreed that the court should make an order awarding costs against them as assisted persons but modifying their liability to nil.
+LORD NEUBERGER: (with whom Lady Hale, Lord Clarke, Lord Hodge and Lord Reed agree)
+I agree with Lord Hodge that this appeal must be dismissed for the reasons which he gives.
+I add a few words of my own on the issue which divides the Court, namely the applicability of article 3 of the First Protocol to the European Convention on Human Rights (A3P1) to a referendum under the Scottish Independence Referendum (Franchise) Act 2013 (the Referendum).
+A3P1 is in these terms: The High Contracting Parties undertake to hold free elections at reasonable intervals by secret ballot, under conditions which will ensure the free expression of the opinion of the people in the choice of the legislature.
+Given the issue on this appeal, namely whether the Referendum would be or was unlawful because people in prison who would otherwise be entitled to vote are excluded from the franchise, it is important to note the structure of the article.
+The first half of the article imposes a duty, which is to hold free elections at reasonable intervals by secret ballot.
+The second half of the article is directed to what is required of that ballot.
+The phrase on which the appeal rests, namely which will ensure the free expression of the opinion of the people, thus does not apply to every national ballot: it only applies to a ballot in which the expression of opinion can be said to involve the choice of the legislature.
+My agreement with Lord Hodge and the courts below that the respondent is right and that A3P1 does not apply to the Referendum is founded on four reasons based on the language of the article.
+Three of those reasons rely on the natural meaning of the words, and the fourth reason arises from the Strasbourg Courts jurisprudence.
+It is perhaps worth emphasising that, in my view, the second reason is enough on its own to justify this conclusion, and that may well also be true of the third and fourth reasons.
+The first reason, which would probably not be enough on its own, is that the word elections is not a word that naturally covers a referendum which does not involve electing anyone to any post.
+Of course, it might be said (perhaps particularly by a lawyer) that the Referendum required the Scottish people to elect whether to leave the United Kingdom, but that is a pedantic or syntactical point, which avoids addressing the natural meaning of the word election.
+Save in technical contexts (such as English legal terminology), which plainly do not arise here, an election is a ballot where people choose between more than one candidate.
+The second reason is based on the expression at reasonable intervals.
+It is appropriate, indeed necessary, in the present age that every democratic state has a national election to select the members of the national legislature at reasonable intervals.
+And no one can doubt that A3P1 requires what we in the United Kingdom call general elections to be held at reasonable intervals.
+However, it would be little short of absurd to suggest that there can be an obligation on a government to have a referendum, particularly one such as the Referendum the subject of this appeal which is concerned with a classic one off issue, at reasonable intervals.
+There could be no objection under A3P1, for instance, if no further referendum was ever held in relation to Scottish independence.
+At reasonable intervals cannot mean once.
+Thirdly the requirement that people are entitled to vote in the choice of the legislature does not naturally suggest a choice as to which legislature governs or does not govern.
+The definite article before legislature strongly suggests that the legislature to which the article refers is a specific and established entity, and that it is its membership to which the article refers.
+Indeed, there is no doubt that A3P1 refers to general elections, ie to elections for the membership of the legislature, and it is a little difficult to see how the words the choice of the legislature can do double duty, and refer to such elections and to referenda or other ballots which have a different aim.
+Fourthly, decisions of the of the Strasbourg Court indicate that A3P1 only applies to directly effective elections ie to elections which ipso facto result in what the people voted for, and not to ballots which require some further legal step to produce that result.
+Thus, in a general election in the UK, a Member of Parliament is elected as soon as all the votes are cast.
+Nothing else is needed, apart from the pure machinery of counting the votes and announcing the result.
+On the other hand, while the main political parties had committed themselves to accept the result of the Referendum, a yes vote would not of itself have triggered independence for Scotland.
+If there had been a yes vote, Scotland would not have achieved independence unless and until the UK Parliament had voted in favour, and, whatever the main parties had promised, Members of Parliament would have been free, indeed constitutionally bound, to vote as they saw fit.
+The Strasbourg Court appears to have consistently considered that a referendum which was not automatic, and only advisory, in nature was not within the ambit of A3P1.
+It can be traced to the Commissions admissibility decision X v United Kingdom (Application No 7096/75), where it was held that A3P1 did not apply to the 1975 UK referendum on whether to leave the EEC (as it then was), because it was of a purely consultative character.
+That formulation has been impliedly adopted in subsequent decisions of the Commission and the Court, some of which are considered in paras 10 16 of Lord Hodges judgment.
+The 1975 referendum, which was considered in X v UK, would almost certainly have been regarded as committing the UK to leaving the EU in practice, but it could not have been legally binding any more than the Referendum was or would have been.
+I agree with Lord Hodge that article 31(1) of the Vienna Convention on the Law of Treaties (quoted in his para 8 above) takes things no further.
+The travaux prparatoires relating to A3P1 throw no light on the present issue.
+What they do show is an intention not to require elections for the executive or the judiciary, but that is not germane to the issue on this appeal.
+I cannot see how the deletion of the words and government after legislature at the end of the draft A3P1 assists the conclusion that the article does not have the meaning preferred by Lord Hodge and the courts below.
+On the contrary: the retention of those two words would have provided some support for an argument that A3P1 was intended to have a wider meaning than it otherwise would have.
+There is, I accept, some initial attraction in the argument that, if a provision such as A3P1 is meant to apply to the membership of a legislature, then it ought a fortiori to apply to the logically anterior, and arguably more fundamental, issue of the existence or nature of the legislature itself.
+However, quite apart from the fact that the article does not apply to such an issue as a matter of language, I do not consider that this argument can in fact withstand scrutiny.
+The purpose of A3P1 is to ensure that the membership of any national legislature is the subject of elections which must be (i) reasonable in terms of frequency, and (ii) on the basis of universal (or close to universal) suffrage.
+There is no reason in terms of practice or principle why this should apply to a vote on the form of the legislature.
+The effect of the article is that, whatever the form of the legislature and, however that form is determined, it must be a legislature whose membership is elected in accordance with A3P1.
+Thus, the UK Parliament could decide to dissolve itself and to be replaced by a new legislature without a national ballot approving the decision, but election to the membership of the new legislature would have to be effected by a national ballot, as it must comply with A3P1.
+Taken to its logical conclusion, it appears to me that, because its membership of the EU involves the UK being in some way subject to the European Parliament, the appellants argument would mean that leaving the EU would actually require a national ballot and joining the EU in 1973 without a national ballot must have infringed A3P1.
+For these reasons, which are little more than a footnote to Lord Hodges reasons, I would reject this appeal, but, as he points out, there is a further ground for doing so.
+The decisions starting with X v UK and referred to by Lord Hodge in his paras 10 16 above, show that there is a clear and consistent view in Strasbourg that A3P1 does not apply to referenda.
+It is open to us to go further than the Strasbourg Court in deciding on the ambit of a provision in the Convention, but such an unusual course would require sound justification.
+I can see no such justification in the present case.
+LADY HALE:
+This is a difficult case.
+I agree with Lord Hodge and Lord Neuberger that, on a literal interpretation, article 3 of the First Protocol (A3P1) does not apply to the Scottish independence referendum.
+But I also agree with Lord Kerr and Lord Wilson that the evolutive approach to the interpretation of the Convention adopted by the European Court of Human Rights strongly suggests that it might indeed encompass a referendum such as this and that the European Court may well have been hinting just as much in para 33 of its decision in McLean and Cole v United Kingdom (2013) 57 EHRR SE95, quoted by Lord Hodge at para 11.
+I further agree that, if we are confronted with a question which has not yet arisen in the European Court, we have to work out the answer for ourselves, taking into account, not only the principles which have been developed in Strasbourg, but also the principles of our own law and constitution.
+However, while it is clear that A3P1 requires the holding of regular parliamentary elections, it is also clear that it does not require the holding of a referendum, even on such an important issue as Scottish independence.
+Nor would I take it for granted that article 1 of the International Covenant on Civil and Political Rights, quoted by Lord Kerr at para 81, requires there to be such a referendum.
+This depends upon several difficult questions, not only about the interpretation of article 1, but also about the import of the Treaty of Union between Scotland and England, and how that Treaty might lawfully be brought to an end, issues of the highest constitutional importance upon which we have heard no argument at all.
+In the end, therefore, I conclude that, as A3P1 does not require there to be such a referendum, then the requirements (which the Strasbourg Court has implied into that article) as to the right of individuals to participate in the elections which it does require do not apply to such a referendum.
+If this be so, the only source of such a right would be the common law.
+It would be wonderful if the common law had recognised a right of universal suffrage.
+But, as Lord Hodge has pointed out, it has never done so.
+The borough franchise depended upon royal charter.
+The 40 shilling freehold county franchise appears to have been the creation of Parliament.
+Every subsequent expansion of the franchise, from the great Reform Act of 1832 onwards, has been the creation of Parliament.
+It makes no more sense to say that sentenced prisoners have a common law right to vote than it makes to say that women have a common law right to vote, which is clearly absurd. 56.
+For these reasons, I would dismiss this appeal.
+LORD KERR: 58.
+The appellants, Leslie Moohan and Andrew Gillon, challenge the validity of the Act of the Scottish Parliament which authorised the referendum on Scottish independence.
+The referendum took place on 18 September this year.
+The appeal was heard by this court as a matter of urgency in July and, as Lord Hodge has explained, the courts decision was announced on the day of the hearing, with reasons to follow. 59.
+The Act under challenge was the Scottish Independence Referendum (Franchise) Act 2013.
+The appellants challenge was advanced on a number of grounds.
+It was claimed that the Act, in indiscriminately preventing convicted prisoners from voting, was incompatible with the European Convention on Human Rights; was in violation of EU law; and constituted a breach of a fundamental common law right to vote.
+The Convention arguments 60.
+It is clear from the decisions of both the ECtHR and this court that a blanket ban on prisoner voting in elections is incompatible with article 3 of Protocol 1 (A3P1) to the Convention.
+It provides: The High Contracting Parties undertake to hold free elections at reasonable intervals by secret ballot, under conditions which will ensure the free expression of the opinion of the people in the choice of the legislature. 61.
+The critical question to be determined on the Convention arguments, therefore, is whether the independence referendum falls within the scope of that article.
+If it does, the 2013 Act is not law (section 29, Scotland Act 1998), it having been agreed between the parties that it would not be possible for this court to excise the offending provisions and leave the remainder of the Act in place. 62.
+The appellants also claimed that the refusal to allow them to participate in the referendum constituted a violation of article 10 of the ECHR which guarantees freedom of expression.
+For the reasons given by Lord Hodge in paras 19 and 20 of his judgment, with which I agree, this claim must fail.
+Application of the principle expressed in the maxim, lex specialis derogat legi generali, precludes reliance on article 10.
+This applies in domestic and international law contexts.
+Where two provisions are capable of governing the same situation, a law dealing with a specific subject matter overrides a law which only governs general matters.
+A3P1 is specifically concerned with freedom of expression in the choice of legislature.
+Article 10, dealing with freedom of expression generally, cannot provide rights in relation to voting which are greater than those provided for by A3P1.
+The correct approach to interpretation of A3P1 63.
+A3P1 is not to be read as if it were a Westminster or a Holyrood statute.
+It is an instrument of international law, to be interpreted according to that systems markedly distinct canons of interpretation.
+These are encapsulated in articles 31 and 32 of the Vienna Convention on the Law of Treaties (VCLT): see, eg, Genocide (Bosnia and Herzegovina v Serbia and Montenegro) 2007 ICJ Rep 43, 109 110.
+The following provisions of those articles are particularly relevant to this case: Article 31 General rule of interpretation 1.
+A treaty shall be interpreted in good faith in accordance with the ordinary meaning to be given to the terms of the treaty in their context and in the light of its object and purpose. 2.
+The context for the purpose of the interpretation of a treaty shall [include] its preamble and annexes 3.
+There shall be taken into account, together with the context: c.
+Any relevant rules of international law applicable in the relations between the parties.
+Article 32 Supplementary means of interpretation Recourse may be had to supplementary means of interpretation, including the preparatory work of the treaty and the circumstances of its conclusion, in order to confirm the meaning resulting from the application of article 31 64.
+It would be wrong to read article 31 as reflecting something like the so called golden rule of statutory interpretation where one starts with the ordinary meaning of the words and then moves to other considerations only if the ordinary meaning would give rise to absurdity.
+That is not international law.
+The International Law Commission made clear in its Commentary to the draft treaty, at p 219, that, in accordance with the established international law which these provisions of VCLT codified, such a sequential mode of interpretation was not contemplated: 65. 66.
+The Commission, by heading the article General rule of interpretation in the singular and by underlining the connection between paras 1 and 2 and again between para 3 and the two previous paragraphs, intended to indicate that the application of the means of interpretation in the article would be a single combined operation.
+I should say that, even if a golden rule type of interpretation was considered to be appropriate, I do not consider that this would impel the interpretation for which the respondent and the intervener contend.
+They argue that A3P1 does not apply to this referendum because the Strasbourg cases have applied it only to elections to a legislature and, at any rate, not to referendums.
+For reasons that I will give presently, I do not accept that the position is as clear cut as the respondent and the intervener contend.
+In any event, if A3P1 was designed to apply only to elections to legislatures, it would have been most naturally expressed as reading, The High Contracting Parties undertake to hold free elections to the legislature at reasonable intervals by secret ballot.
+Instead the core of the obligation is to hold free elections.
+A corollary of that is that any vote that is held must be held fairly.
+And that obligation is to be performed under conditions which will ensure the free expression of the opinion of the people in the choice of the legislature.
+This phrasing may, on one view, point to a focus on legislative elections, but it by no means justifies an exclusion of other votes.
+Why should it? If voting for a representative in a legislature is deemed sufficiently important that it should be guaranteed to all, why would voting for the form of government be deemed less important? If the interpretation of A3P1 is not free from doubt, recourse to the travaux prparatoires is appropriate article 32 VCLT.
+They suggest that its focus on legislatures is not intended to be a positive restriction of its application only to legislative elections, but rather a right of political participation that did not extend to elections of the executive (elections to the judiciary not having been contemplated to begin with).
+The background to this is that the United Kingdom had proposed that the text of the article should read: Signatory governments undertake to respect the political liberty of their nationals and, in particular, to hold free elections at reasonable intervals by secret ballot, under conditions which will ensure the free expression of the opinion of the people in the choice of legislature and government (emphasis added).
+The delegate of Sweden, a constitutional monarchy, was unable to commit his Government with regard to this proposal.
+That followed the expression of unease by both Sweden and Norway, another constitutional monarchy, about the definition of the right of the people to choose their government. (Preparatory work on article 3 of Protocol No 1 to the ECHR, p 59).
+Such hesitation is understandable, as a provision in those terms might have been interpreted as requiring the end of monarchical government in two countries with so long and proud a tradition of it.
+The reference to choice of government urged by the United Kingdom was accordingly dropped. 67.
+Approaching the problem with the three powers of government in mind, and with no reason to think beyond that, it was therefore logical for the drafters of Protocol No 1 to express a right that excluded elections to the judiciary and executive as a right in positive terms to participate in legislative elections.
+But it does not follow that A3P1 ought not to apply to situations which were not in the contemplation of its original drafters.
+In addition to the imperative to interpret the Convention as a living instrument (see, eg, Tyrer v United Kingdom (1978) 2 EHRR 1), the court has an obligation to interpret A3P1 in light of its object and purpose (VCLT, article 31(1)).
+The object and purpose of A3P1 must be as contributors to the overall purpose of the Convention as expressed in the preamble.
+It envisages the guarantee of an effective political democracy as the foundation for all other rights enjoyed by those within its protection. 68.
+Provided the exclusion of elections to executive and judicial posts from A3P1 is respected, it is difficult to see how that purpose would be other than frustrated by preventing the safeguards applicable to ordinary legislative elections from applying to this most fundamental of votes.
+The fact, if indeed it be the fact, that the framers of A3P1 did not have referendums in mind does not provide a definitive answer.
+Of their nature, referendums are held less frequently and more irregularly than elections to legislatures.
+But a referendum on whether a country should become independent of others with which it has been united for centuries and whether, in consequence, it should have a radically different form of government is surely intimately associated with citizens expression of opinion about the choice of legislature. 69.
+The majoritys reasoning lays emphasis on the requirement to hold elections at regular intervals but, in my view, this is secondary to the primary aim of the provision which is to ensure that citizens should have a full participative role in the selection of those who will govern them.
+Given that a referendum as to whether Scotland should become an independent nation would have made a critical difference to the form of government to which the appellants and other citizens in Scotland would be subject, I consider that the right to vote in this particular referendum should be recognised as an undeniable aspect of the appellants A3P1 right.
+Strasbourgs approach to referendums 70.
+The ECtHR has so far declined to extend the ECHRs protections to referendums.
+The question arises, however, whether that exclusion by the Strasbourg Court is categorical.
+As Lord Hodge has pointed out in para 11 of his judgment, in McLean and Cole v United Kingdom (2013) 57 EHRR SE95, at para 33 the ECtHR, in dismissing the applicants complaint that they had been disenfranchised from the nationwide referendum on the alternative vote, said that there was nothing in the nature of the referendum at issue in that case which warranted a different conclusion from that reached in earlier decisions concerning referendums.
+Lord Hodge was not disposed to attribute to the words, the referendum at issue in the present case the significance which the appellants seek to attach to them.
+At para 16 of his judgment he suggested that the statement must be construed against the backdrop that the Strasbourg Court has held that referendums which could have a direct and material effect on the powers and operation of a legislature are not within the ambit of A3P1.
+But it is noteworthy that in para 32 of the judgment the ECtHR said this: The Convention organs have emphasised on a number of occasions that article 3 of Protocol No 1 is limited to elections concerning the choice of the legislature and does not apply to referendums (see X v United Kingdom (7096/75) 3 October 1975; Bader v Germany (26633/95) 15 May 1996; Castelli v Italy (35790/97 and 38438/97) 14 September 1998; Hilbe v Liechtenstein (31981/96) 9 September 1999; and Borghi v Italy (54767/00) 20 June 2002 (extracts). (emphasis added) 71.
+The ECtHR appears here to draw a contrast between, on the one hand, elections which concern the selection of legislatures and, on the other, referendums which, in their conventional form, are not usually associated with that type of choice.
+A distinction can be drawn between referendums which merely have an effect on the powers and operation of a legislature and those which necessarily determine the type of legislature that citizens of a country will have.
+The latter surely involve the choice of legislature.
+Deciding whether Scotland should be independent is inextricably bound up with the question of what sort of legislature it will have; whether it will be a sovereign Parliament or one which must act within the range of powers devolved to it.
+I do not consider that Strasbourg can be said to have set its face against recognising that A3P1 should cover referendums that, in effect, determine the choice of legislature for a countrys people. 72.
+Another way of approaching the question is to focus on the rationale for, and therefore the proper scope of, the exclusion of referendums from A3 P1.
+Of the cases cited by the ECtHR in McLean and by the Lord Ordinary in the present case, only the admissibility decision of the Commission in X v United Kingdom (Application No 7096/75, 3 October 1975) contains any reasoning.
+All of the others either cite X without further discussion, or cite one or more cases which in turn cite X (or a case citing X), likewise without further discussion.
+It is therefore X that illuminates the reasons why Strasbourg has not subsequently applied A3P1 to referendums, and consequently the scope of such a restriction.
+The Commission held in that case that the referendum on continued British membership of the European Union fell outside A3P1 for two reasons: [I]t was of a purely consultative character and there was no legal obligation to organise such a referendum.
+It did not, therefore, fall within the scope of article 3 of Protocol No 1 to the Convention.
+It follows that a right to participate in the referendum could not be derived from that provision 73.
+The independence referendum meets both criteria which the Commission considered were absent in X. Both the United Kingdom and Scottish governments had agreed that the result of the referendum would be binding and section 1(1) of the Scottish Independence Referendum Act imposed the legal obligation to organise the referendum.
+It is strictly unnecessary to go further but it would be wrong not to observe the serious deficiencies in the Commissions reasoning.
+First, there was a legal obligation to hold the referendum in X: it was imposed by section 1(1) of the Referendum Act 1975.
+Secondly, and more fundamentally, it cannot be correct that the absence of a legal obligation (in domestic law) to hold a particular vote means that that vote does not fall within A3P1.
+If that were so, the obligation to hold free elections would have no effect in a totalitarian country whose laws did not require elections at all.
+That would be absurd.
+The Commission may have meant that the obligation to hold the vote had to be imposed by international law, but that would simply be begging the question.
+X, and consequently all subsequent Strasbourg authorities concerning referendums, must therefore be regarded with some caution.
+Be that as it may, even if one takes X and its progeny as good law, this referendum would fall within A3P1.
+There is not, in the words of Lord Slynn in R (Alconbury Developments Ltd) v Secretary of State for the Environment, Transport and the Regions [2001] UKHL 23; [2003] 2 AC 295, para 26, any clear and constant jurisprudence of the ECHR to contrary effect and at least some indications in Strasbourg case law that a vote which involves the selection of a form of legislature as an incident of a referendum would come within the ambit of A3P1. 74.
+In v Latvia (Application No 14755/03, 26 January 2006) the ban on prisoners voting in the EU accession referendum was said not to breach A3P1 because the obligations imposed by this provision are limited to parliamentary elections and do not apply to referendums.
+In support of this proposition the court relied on Bader v Austria (Application No 26633/95, Commission decision of 15 May 1996).
+In that case the Austrian Constitutional Court, had found that there was a fundamental difference between elections and referendums on the basis that in elections the voter had the opportunity to choose between competing political parties whereas in referendums the voter had to give his opinion on an issue which had already been determined by the legislature.
+The voter did not have to decide on parties and personalities but on the question whether a decision by the legislator should acquire the force of law or not. 75.
+Apart from that contained in X itself, this is the only articulation of the justification for distinguishing between voting in a referendum and voting for a candidate in an election to a legislature.
+But the distinction between the form of referendum involved in the Bader case and the present is not difficult to find.
+Quite apart from the fact that political parties took up markedly different positions on the Scottish referendum and, to that extent, the choice made by the voter reflected his or her predilection for the stance of each, the referendum involved here did not involve the endorsement of a decision already taken by a legislature.
+On the contrary, it concerned the choice of the mode of government for that country.
+The philosophical underpinning for A3P1 must surely be that citizens should be entitled to have influence in how they are to be governed.
+To deny them participation in the stark choice between the two forms of government that the referendum posed must strike at the root of the values which A3P1 are designed to protect. 76.
+Democracy is the only political model contemplated by the ECHR.
+The concept of universal entitlement to participate in the political process is the natural concomitant of the underlying premise of all human rights law, as recognised in article 1 of the Universal Declaration of Human Rights, that All human beings are born free and equal in dignity and rights.
+This spirit informs the Convention and its application.
+In United Communist Party of Turkey v Turkey (1998) 26 EHRR 121, at para 45 the court said: Democracy is without doubt a fundamental feature of the European public order (see the Loizidou judgment cited above, p 27, 75).
+That is apparent, firstly, from the Preamble to the Convention, which establishes a very clear connection between the Convention and democracy by stating that the maintenance and further realisation of human rights and fundamental freedoms are best ensured on the one hand by an effective political democracy and on the other by a common understanding and observance of human rights (see the Klass and Others judgment cited above, p 28, 59).
+The Preamble goes on to affirm that European countries have a common heritage of political tradition, ideals, freedom and the rule of law.
+The court has observed that in that common heritage are to be found the underlying values of the Convention (see the Soering v the United Kingdom judgment of 7 July 1989, Series A no 161, p 35, 88); it has pointed out several times that the Convention was designed to maintain and promote the ideals and values of a democratic society (see the Kjeldsen, Busk Madsen and Pedersen v Denmark judgment of 7 December 1976, Series A No 23, p 27, 53, and the Soering judgment cited above, p 34, 87).
+In addition, articles 8, 9, 10 and 11 of the Convention require that interference with the exercise of the rights they enshrine must be assessed by the yardstick of what is necessary in a democratic society.
+The only type of necessity capable of justifying an interference with any of those rights is, therefore, one which may claim to spring from democratic society.
+Democracy thus appears to be the only political model contemplated by the Convention and, accordingly, the only one compatible with it. 77.
+This is the most extensive analysis by the ECHR of the vital importance of effective political democracy.
+It demonstrates that democracy and democratic principles are indissolubly linked to the society which the Convention seeks to foster.
+To find that the choice of government by which one is to be ruled lies outside the sphere of protection that the Convention provides would be remarkable indeed.
+Self determination 78.
+Although the material relating to other treaties was deployed in the appellants written case principally in support of an argument that the common law must reflect their terms, Mr ONeill QC submitted on their behalf at the hearing that they were also relevant to the interpretation of A3P1 directly.
+In particular, the appellants relied on the International Covenant on Civil and Political Rights (ICCPR), the parties to which include all parties to the ECHR.
+It is therefore, in the terms of article 31(3)(c) VCLT, a relevant rule of international law applicable in the relations between the parties which must be taken into account in interpreting A3P1. 79.
+Two provisions of the ICCPR are relevant.
+Article 25 is the rather more expansively phrased counterpart of A3P1: Every citizen shall have the right and the opportunity, without any of the distinctions mentioned in article 2 and without unreasonable restrictions: (a) To take part in the conduct of public affairs, directly or through freely chosen representatives; (b) To vote and to be elected at genuine periodic elections which shall be by universal and equal suffrage and shall be held by secret ballot, guaranteeing the free expression of the will of the electors; (c) To have access, on general terms of equality, to public service in his country. 80.
+The appellants relied on two decisions of the United Nations Human Rights Committee, Gillot v France (2002) 10 IHRR 22 and Yevdokimov and Rezanov v Russian Federation (21 March 2011, Application No 1410/2005).
+These make it clear that article 25 ICCPR extends to referendums and to the election of a head of state, respectively.
+Given my conclusion about the applicability of A3P1 to referendums of the type involved in this appeal, the decision in Gillot would not present a difficulty in the use of article 25 of ICCPR as an aid to the interpretation of A3P1.
+But in Yevdokimov and Rezanov it was applied to the election of the Russian President.
+In light of ECtHRs decision in Anchugov and Gladkov v Russia (Application Nos 11157/04 and 15162/05) where it was held that A3P1 did not apply to the election of a head of state, despite having considered the Yevdokimov and Rezanov case, the use of article 25 as a freestanding aid to the interpretation of A3P1 is at least problematical. 81.
+The same considerations do not apply to article 1 of the ICCPR.
+It provides: 1.
+All peoples have the right of self determination.
+By virtue of that right they freely determine their political status and freely pursue their economic, social and cultural development. 2.
+All peoples may, for their own ends, freely dispose of their natural wealth and resources without prejudice to any obligations arising out of international economic co operation, based upon the principle of mutual benefit, and international law.
+In no case may a people be deprived of its own means of subsistence. 3.
+The States Parties to the present Covenant, including those having responsibility for the administration of Non Self Governing and Trust Territories, shall promote the realization of the right of self determination, and shall respect that right, in conformity with the provisions of the Charter of the United Nations. 82.
+The Scottish people were exercising their right to self determination when they voted in the referendum.
+They were freely determining their political status.
+The circumstance that they acquired that right by virtue of the 2013 Act does not detract from that argument.
+Not only is the right to self determination guaranteed by the ICCPR; it is also a peremptory norm of international law, also known as ius cogens, with which no other rule of international law may conflict: see, eg, International Law Commission, Conclusions of the work of the Study Group on the Fragmentation of International Law: Difficulties arising from the Diversification and Expansion of International Law (2006), paras 33 and 41. 83.
+Given that under the VCLT the ICCPR must be interpreted as a coherent whole, it is clearly arguable that the protections guaranteed by article 25 ICCPR ought to apply to any vote taken in the exercise of the article 1 right to self determination.
+That is consonant with the conclusion reached above that the corollary of the core obligation in A3P1 is that any election that is held must be held freely ie with every safeguard that has been held necessarily to apply.
+Thus, although article 25 does not, solely on its own account, provide the irrefutable interpretation of A3P1, taken in combination with article 1 of the ICCPR, it sheds light on how the Convention provision should be applied.
+I do not consider that its influence on the proper application of A3P1 can be dismissed on the basis that the wording of article 25 differs from that of A3P1 and that different interpretations of the two provisions are therefore acceptable.
+Conclusion 84.
+In light of my conclusions on the proper interpretation to be given to A3P1 I would have allowed the appeal.
+I agree with Lord Hodge, however, in his rejection of the arguments founded on EU law for the reasons that he has given. 85.
+Since it is unnecessary for me to do so, I would prefer not to express a view on the claim that the appellants enjoyed a common law right to vote beyond agreeing with what Lord Sumption said in McGeoch v Lord President of the Council 2014 SC (UKSC) 25, quoted with approval by Lord Hodge in para 33 of his judgment. 87. 86.
+The common law can certainly evolve alongside statutory developments without necessarily being entirely eclipsed by the latter.
+And democracy is a concept which the common law has sought to protect by the incremental development of a system of safeguarding fundamental rights.
+In this regard, it marches in step with other European states see, for instance, Lautenbach (2013) in European states the protection of human rights, democracy and the rule of law are interwoven and all part of the domestic [and legal] system: The Concept of the Rule of Law and the European Court of Human Rights, p 209.
+It is therefore at least arguable that exclusion of all prisoners from the right to vote is incompatible with the common law.
+I must regard it as a moot point whether the observations of Lords Nicholls, Steyn and Hoffmann in In re McKerr [2004] 1 WLR 807 provide a complete answer to the claim that the common law should, in the absence of any Convention right, now recognise a right to vote.
+I acknowledge, however, the force of the point made by Lord Hodge that, insofar as a claim to a common law right to vote conflicted with sections 2(1)(b) and 3(1) of the Representation of the People Act 1983, it could not succeed.
+I would wish to hear rather fuller argument than was possible on this appeal on the effect of the interaction between the 1983 Act and the 2013 Act (which is, of course, a measure of the Scottish Parliament) before reaching a final conclusion on this issue. 88.
+LORD WILSON: Introduction 89.
+The Lord Advocate acknowledges that the rights under A3P1 of convicted prisoners in Scotland are currently violated by the blanket prohibition, not yet reformed, against their voting in elections to the UK Parliament, to the Scottish Parliament and to the European Parliament.
+Such was the interpretation given to A3P1 by the Grand Chamber of the European Court of Human Rights (the ECtHR) in Hirst v United Kingdom (No 2) (2005) 42 EHRR 849; and in R (Chester) v Secretary of State for Justice [2013] UKSC 63, [2014] AC 271, this court decided to adopt it: see the judgment of Lord Mance at paras 9 and 34.
+Such being part of our law, the Lord Advocate nevertheless invited us, at the hearing on 24 July 2014, to hold that the rights under A3PI of convicted prisoners in Scotland were not violated by the blanket prohibition against their voting in the Scottish referendum on 18 September 2014.
+That seemed to me to suggest so bizarre an anomaly as to demand the closest scrutiny.
+My conclusion was that it did not withstand it.
+I agree with the judgment of Lord Kerr. 90. 91.
+The question in the referendum was whether Scotland should become an independent country.
+Of all the ramifications raised by that question, perhaps the most important was its effect on the identity of the legislature which would both rule and serve the Scottish people.
+Those who voted yes voted that the sovereign legislative power of the UK Parliament should no longer extend to Scotland; that instead sovereignty should reside in the people of Scotland; and that, subject to the proposed written constitution for Scotland, the Scottish Parliament should become the sole repository of legislative power in Scotland.
+I cannot accept the suggestion of Lord Hodge in para 16 above that the effect of secession, like that of accession to the EU, would be no more than to reduce the power of the UK Parliament.
+Had it been necessary (which it was not) to ask whether voters in the referendum were choosing their legislators as well as their legislature, one might have responded that they were choosing whether all those individuals to be elected in constituencies in England, Wales and Northern Ireland to serve as members of the UK Parliament should have any continuing role as legislators for the people of Scotland.
+Lord Kerr points out at para 72 above that in the X case the European Commission of Human Rights laid stress on its understanding (right or wrong) that the UKs referendum in 1975 on continued membership of the EEC was of a purely consultative character.
+On any view the same could not be said of the Scottish referendum.
+By the Edinburgh Agreement dated 15 October 2012, the UK government and the Scottish government agreed that it should deliver a decisive expression of the views of the people in Scotland.
+In his Opinion the Lord Ordinary observed that he had no reason to doubt that the outcome of the referendum will in practice and as a matter of agreement be binding.
+Lord Neubergers hypothesis at para 47 above that a majority of the members of the UK Parliament might nevertheless have refused to enact legislation reflective of a yes vote seems to me, with respect, to be far fetched.
+Interpretation of A3P1 92.
+Lord Kerr suggests at para 63 above that A3P1 falls to be interpreted in accordance with article 31 of the Vienna Convention on the Law of Treaties (the Vienna Convention).
+I agree.
+In Bankovic v Belgium (2001) 11 BHRC 435, the Grand Chamber of the ECtHR said at para 55: The court recalls that the convention must be interpreted in the light of the rules set out in the Vienna Convention So the search is for the ordinary meaning to be given to the terms of [A3P1] in their context and in the light of its object and purpose. 93.
+It is in my view significant, as well as unusual, that the objective of A3P1 has been set out as part of its terms.
+It is to ensure the free expression of the opinion of the people in the choice of the legislature.
+Those words are dominant: the other words of the article are subservient to them.
+I consider both that the drafters of the article did not have in mind a secession referendum but that, had they had it in mind, they would have expressly provided that a right to vote in it fell within its ambit.
+Although neither of those considerations is relevant, what is intriguing is that the drafters alighted upon a phrase choice of the legislature which happens, as I have explained, to be a particularly apt description of the exercise in which Scottish voters were engaged on 18 September.
+Yes, indirectly and generically, they might also be said to have been choosing their legislators but on any view they were choosing their legislature.
+Lord Neuberger suggests at para 46 above that the reference in the article to the legislature strongly suggests an established entity.
+I cannot subscribe to his construction: in my view the reference is to the choice of the legislature which will exercise power over the voters irrespective of whether it is already established.
+In any event, however, both the UK Parliament and the Scottish Parliament were already established entities. 94.
+I turn from the dominant words to the subservient words, in which I must confront the reference to elections at reasonable intervals.
+It is possible that in time to come there will be another secession referendum in Scotland but one cannot say that such referenda might, still less should, take place at reasonable intervals. 95.
+The general rule of interpretation set by article 31 of the Vienna Convention requires that the terms of the articles in the ECHR should be read in their context and in the light of their object and purpose.
+This will sometimes precipitate the need to depart from a literal interpretation.
+Take the case of Pretto v Italy (1983) 6 EHRR 182.
+It was the practice of the Court of Cassation in Italy to disseminate its judgments solely by depositing them in its registry.
+Article 6(1) of the ECHR provides that [j]udgment shall be pronounced publicly .
+The ECtHR accepted at para 28 that the Court of Cassation had not pronounced its judgment publicly.
+Nevertheless it held that the rights of the disappointed litigant under article 6(1) had not been violated.
+It said at para 26: The Court therefore does not feel bound to adopt a literal interpretation.
+It considers that in each case the form of publicity to be given to the judgment must be assessed in the light of the special features of the proceedings in question and by reference to the object and purpose of article 6(1). 96.
+I have already explained that the objective behind A3P1 is set out in the dominant words of the article itself.
+But, at a higher level of generality, what are the object and purpose behind the objective of seeking to ensure the free expression of the opinion of the people in the choice of the legislature? 97.
+Article 31(2) of the Vienna Convention provides that the context of the terms of a treaty includes its preamble.
+Short though the preamble to the ECHR is, the government signatories chose in it to reaffirm their belief that the freedoms which were the foundation of justice and peace in the world would best be maintained on the one hand by an effective political democracy and on the other by a common understanding and observance of the human rights upon which they depend.
+Thus it was that in Zdanoka v Latvia (2006) 45 EHRR 478 the Grand Chamber embarked on its assessment of the ambit of A3P1 by observing at para 98 that it was apparent from the preamble to the ECHR that democracy constituted a fundamental element of the European public order.
+It proceeded at para 103 to reaffirm the words by which, five months earlier in the Hirst case, it had identified the overall object and purpose of A3P1.
+There it had said at para 58: The Court has had frequent occasion to underline the the importance of democratic principles underlying interpretation and application of the Convention and it would use this occasion to emphasise that the rights guaranteed under article 3 of Protocol No 1 are crucial to establishing and maintaining the foundations of an effective and meaningful democracy governed by the rule of law. 98.
+Indeed in the Hirst case it had proceeded in para 82 to describe A3P1 as a vitally important Convention right.
+If, as the Grand Chamber has held and as this court has acknowledged (see R (Barclay) v Lord Chancellor and Secretary of State for Justice [2009] UKSC 9, [2010] 1 AC 464, para 53, Lord Collins of Mapesbury), A3P1 is indeed crucial to establishing and maintaining the foundations of an effective democracy, it follows that its effect will be apt to establishing and maintaining them.
+If the ambit of the article were not to have extended to the referendum about whether Scotland should become an independent country, it would not have been apt to establishing and maintaining the foundations of a democracy in Scotland.
+The object and purpose of the article therefore drive a conclusion that its ambit did extend to it and, were that conclusion to be overridden by the reference in the article to reasonable intervals, then (for a clich can often be the most telling means of making a point) the tail would be wagging the dog. 99.
+But the requisite exercise in interpreting A3P1 is not yet complete.
+For article 31(3)(c) of the Vienna Convention requires account to be taken of any relevant rules of international law.
+In Neulinger v Switzerland (2010) 28 BHRC 706 the ECtHR observed at para 131 that the ECHR should not be interpreted in a vacuum but, in accordance with article 31(3)(c), should be interpreted in harmony with general principles of international law.
+In ZH (Tanzania) v Secretary of State for the Home Department [2011] UKSC 4, [2011] 2 AC 166, Lady Hale at para 21 indorsed that observation.
+In Bayatyan v Armenia (2011) 54 EHRR 467 the ECtHR added at para 102 that account had to be taken not only of the terms of international instruments but also of their interpretation by competent organs. 100.
+It is therefore no surprise to find that, in cases about the effect of A3P1, the ECtHR has regularly had regard to article 25 of the International Covenant on Civil and Political Rights 1966 (the ICCPR) and to its interpretation by the Human Rights Committee which was established under article 28 of it and which reports on its implementation and determines issues arising under it: see the Hirst case, cited at para 89, paras 26 27; Scoppola v Italy (No 3) (2012) 56 EHRR 663, paras 40 42; and Anchugov and Gladkov v Russia (Applications Nos 11157/04 and 15162/05), 4 July 2013, paras 38 40.
+In the last of those cases the court proceeded to observe at para 94 that the rights enshrined in A3P1 were the same as those enshrined in article 25 of the ICCPR.
+In para 28 above Lord Hodge demonstrates, by reference to conflicting determinations about rights to vote in the election of the Russian President, that the ambit of article 25 must be somewhat more extensive than that of A3P1.
+But it is unsurprising that the determination of the Human Rights Committee in that particular regard shed no light on the meaning of the choice of the legislature in A3P1.
+By contrast the approach of the committee in Gillot v France, Communication No 932/2000, (2002) 10 1HRR 22, sheds significant light on it.
+Although it did not uphold the complaint that the rules for qualification to vote in the referenda in New Caledonia about secession from France were such as to violate rights under article 25, France did not even seek to deny, nor did the committee appear to hesitate before accepting, that rules for qualification to vote in referenda about secession had to be consonant with the rights set out in article 25.
+Determinations of the ECtHR about referenda 101.
+Since in my view every aspect of the requisite approach to the construction of A3P1 militates in favour of a conclusion that a secession referendum falls within its ambit, I turn to see whether the ECtHR has determined otherwise and, in either event, how this court should then proceed. 102.
+The Lord Advocate contended that there is a clear and constant line of determinations by the ECtHR that A3P1 does not apply to referenda.
+This is true.
+But it is too glib.
+For the court has never had occasion to consider the application of A3P1 to a secession referendum.
+No doubt the least dissimilar of its determinations are those which hold that the article does not apply to referenda about accession to the EU.
+But there remains a substantial difference between a determination whether to curtail some of the powers of the existing legislature by accession to the EU and whether to eliminate every aspect of the role of the existing legislature by creation of a new state.
+And what about the terms used by the ECtHR in its admissibility decision in the McLean and Cole cases cited by Lord Hodge at para 11 above? One of the complaints, unsurprisingly inadmissible, was of a disentitlement to vote in the UKs referendum in May 2011 on whether to conduct its elections under the alternative vote system.
+What did the court have in mind in choosing to point out that there was nothing in the nature of the referendum at issue in the present case which would lead it to decline to follow its earlier decisions that A3P1 did not apply to referenda? The answer is not hard to find.
+The two applicants were convicted prisoners and at least one of them was imprisoned in Scotland.
+The court gave its decision on 11 June 2013 and less than three months earlier the Scottish government had told the world that the referendum on Scottish independence would take place on 18 September 2014. 103.
+The majority of the court considers that the case law of the ECtHR is, to use the word favoured by Lord Hodge at para 14 above, unequivocal.
+I am driven to say that I totally disagree.
+There is no decision of the ECtHR in point.
+All one can say is that to determine that A3P1 extended to voting in the Scottish referendum would be to go significantly further than the ECtHR has gone.
+In Brown v Stott [2003] 1 AC 681, Lord Bingham of Cornhill, borrowing a phrase devised by another judge in another context, described the ECHR at p 703 as a living tree capable of growth and expansion within its natural limits while adding that its limits often called for careful consideration.
+But three years later Lord Bingham articulated the Ullah principle.
+Does that principle disable this court from going significantly further than has the ECtHR by determining that A3P1 extended to voting in the Scottish referendum? Retreat from the Ullah principle 104.
+I offer this timeline.
+The facts of the decisions to which I refer are irrelevant. (a) 1998: Parliament requires the court to take into account any decision of the ECtHR so far as it is relevant: section 2(1) of the HRA 1998. (b) 2001: Lord Slynn of Hadley observes that in the absence of special circumstances the court should follow any clear and constant jurisprudence of the ECtHR: R (Alconbury Developments Ltd) v Secretary of State for the Environment, Transport and the Regions [2001] UKHL 23, [2003] 2 AC 295, para 26.
+He explains that otherwise the case may proceed to that court, which is likely to follow its own jurisprudence. (c) 2004: Lord Bingham articulates what has become known as the Ullah principle, namely that the court must keep pace with evolving Strasbourg jurisprudence no more, but certainly no less: R (Ullah) v Special Adjudicator [2004] UKHL 26, [2004] 2 AC 323, para 20.
+He cites Lord Slynns observation with approval and (d) explains that it reflects the fact that the ECHR is an international instrument, the correct interpretation of which can be authoritatively expounded only by the ECtHR.
+Equally however, he might have noted that such parts of the ECHR as are scheduled to the HRA 1998 also represent domestic law, the correct interpretation of which can be authoritatively expounded only by this court, as had been held only three months earlier in In re McKerr [2004] UKHL 12, [2004] 1 WLR 807, para 63, Lord Hoffmann.
+June 2007: Lord Brown of Eaton under Heywood observes that the final words of the Ullah principle might equally have been no less, but certainly no more: R (Al Skeini) v Secretary of State for Defence [2007] UKHL 26, [2008] AC 153, para 106 (with which Baroness Hale agrees, para 90).
+Lord Brown explains that, were this court to construe a Convention right too widely, the UK could not apply to ECtHR to have it corrected but that, in the obverse situation, the aggrieved individual could apply to have it corrected.
+In my respectful view, however, the notion that the ECtHR has power to correct a decision of this court is a constitutional aberration. (e) October 2007: Lord Bingham observes that the ECtHR has not been required to determine any case closely comparable with the case before the court, that it is inappropriate to align it with the least dissimilar of the ECtHR cases and that instead the task of the court is to seek to give fair effect to the principles laid down by the ECtHR: Secretary of State for the Home Department v JJ [2007] UKHL 45, [2008] AC 385, para 19. (f) 2008: Lord Hope of Craighead, possibly unaware of what Lord Brown has recently said, stresses that the words of the Ullah principle are certainly no less and not certainly no more and that the jurisprudence of the ECtHR is not to be treated as a straitjacket: In re G (Adoption: Unmarried Couple) [2008] UKHL 38, [2009] AC 173, para 50. (g) 2009: Lord Phillips of Worth Matravers, giving the judgment of the court, holds that it is open to it to decline to follow a decision of the ECtHR if it seems insufficiently to have appreciated aspects of our domestic process: R v Horncastle [2009] UKSC 14, [2010] 2 AC 373, para 11. (h) February 2011: Lord Neuberger, giving the judgment of the court, qualifies Lord Slynns observation by stating that the duty to follow any clear and constant jurisprudence of the ECtHR arises only if its effect is not inconsistent with a fundamental aspect of our law and if its reasoning does not overlook or misunderstand a point of principle: Manchester City Council v Pinnock [2011] UKSC 6, [2011] 2 AC 104, para 48. (j) (i) October 2011: Lord Kerr, in a dissenting judgment, expresses powerful criticism of what he calls Ullah type reticence: Ambrose v Harris [2011] UKSC 43, [2011] 1 WLR 2435, paras 126 130. 2012: Lord Brown suggests that the Ullah principle establishes only that the court should not unwillingly find a violation of Convention rights unless clearly compelled to do so by the law of the ECtHR; that it would be absurd to wait for it to make a decision almost directly in point before finding a violation; and that the court can carry its law a step further if it follows naturally from it: Rabone v Pennine Care NHS Trust [2012] UKSC 2, [2012] 2 AC 72, para 112. (k) 2013: Lord Mance observes that the court could refuse to follow a decision of the Grand Chamber of the ECtHR only in the event of inconsistency with a fundamental principle of our law or of egregious oversight or misunderstanding: the Chester case, cited at para 89 above, para 27. 2013: Lord Sumption points out, that by article 46 of the Convention, the UK has an international obligation to abide by the final judgment of the ECtHR in any case to which it is a party, with the result that it cannot do (l) otherwise save in altogether exceptional cases: the Chester case, cited at para 89 above, para 121. (m) 2014: Lord Neuberger suggests that, where the decisions of the ECtHR are not directly in point, the court should extract and apply the principles which underlie them: Surrey County Council v P [2014] UKSC 19, [2014] AC 896, para 62. (n) 2014: Lord Kerr suggests that the duty of the court under section 6 of HRA 1998 not to act incompatibly with a Convention right requires it to determine whether an alleged right exists even where the jurisprudence of the ECtHR discloses no clear answer: the Surrey County Council case, cited at subpara (m) above, para 86. 105.
+The effect of the above is that protracted consideration over the last six years has led this court substantially to modify the Ullah principle.
+The present case does not require further consideration of the current status of Lord Binghams opinion that our courts must certainly [do] no less than to keep pace with the jurisprudence of the ECtHR.
+For present purposes the relevant part of his opinion was we must do no more, or, as Lord Brown at one time considered, certainly [do] no more, than to keep pace with it.
+At any rate where there is no directly relevant decision of the ECtHR with which it would be possible (even if appropriate) to keep pace, we can and must do more.
+We must determine for ourselves the existence or otherwise of an alleged Convention right.
+And, in doing so, we must take account of all indirectly relevant decisions of the ECtHR and, in particular, of such principles underlying them as might, whether as currently expressed or as subject to the natural development apt to a living instrument, inform our determination. 106.
+Such is the exercise which I believe that I have performed above and it explains the conclusion which I reached on 24 July 2014 that the rights of convicted prisoners in Scotland under A3P1 had been violated by the blanket prohibition against their voting in the referendum.

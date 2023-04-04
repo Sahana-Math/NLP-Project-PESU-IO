@@ -1,0 +1,42 @@
+This appeal is about the burden of proof in actions against a shipowner for loss of or damage to cargo.
+The six claimants, the appellants, were the owners and holders of the bills of lading for nine separate consignments of bagged Colombian green coffee beans.
+Those coffee beans were shipped from Colombia between 14 January and 6 April 2012 on various vessels owned by the defendant shipowners, the respondents, to Bremen in Germany.
+They were stowed in a total of 20 unventilated 20 foot containers (as specified by the cargo owners for these consignments), transhipped in Panama and discharged at Rotterdam, Hamburg or Bremerhaven for oncarriage to Bremen.
+The bill of lading for each consignment covered the entire carriage.
+Bagged coffee beans may be and commonly are carried in either ventilated or unventilated containers.
+Unventilated containers were specified by the shippers of these cargoes.
+They are, however, hygroscopic, so that if carried in unventilated containers from warmer to cooler climates, they are likely to emit moisture which condenses against the roof and sides of the containers.
+To prevent this from causing moisture damage to the cargo, it was common commercial practice in 2012 to line the containers with an absorbent material such as Kraft paper.
+Each bill of lading was governed by English law and subject to English jurisdiction.
+They each also incorporated the Hague Rules of 1924 and LCG/FCL (less than full container load/full container load) terms applied.
+This means that the carrier was contractually responsible for preparing the containers for carriage and loading the bags of coffee into them.
+On outturn at Bremen, condensation damage to the coffee beans was found in 18 out of the 20 containers.
+The cargo owners brought a claim against the carriers for breach of their duties as bailees to deliver the cargoes in the condition recorded on the bill of lading and, alternatively, breach of article III, rule 2 of the Hague Rules for failure to properly and carefully load, handle, stow, carry, keep, care for, and discharge the goods carried.
+They alleged negligence by the carriers for failing to use adequate or sufficient Kraft paper.
+The carriers pleaded inherent vice on the ground that the coffee beans were unable to withstand the ordinary levels of condensation forming on such a voyage.
+In reply, the cargo owners pleaded that any inherent characteristic only led to damage because of the carriers negligence.
+The judge, David Donaldson QC, held that there was no legal burden on the carrier to prove that the damage to the cargo was caused without negligence or due to an inherent vice, only a factual presumption of negligent damage.
+He found that: (i) the evidence did not establish what weight or how many layers of paper were used and (ii) there was no evidence, or generally accepted commercial practice, as to what thickness of paper should be used.
+The Court of Appeal disturbed the factual
+findings as to commercial practice and the lack of evidence on the number of layers of lining paper in the containers, dismissing the claim by the cargo owners.
+The questions on appeal to the Supreme Court were: (i) whether the cargo owners (as claimants) bear the legal burden under article III.2 of the Hague Rules and (ii) how, if at all, is the legal burden altered by the article IV.2(m) inherent vice exception?
+The Supreme Court unanimously allows the appeal, deciding that the legal burden of disproving negligence rests on the carrier, both for the purpose of article III.2 and article IV.2 of the Hague Rules.
+Lord Sumption gives the sole judgment, with which all members of the Court agree.
+The judges factual findings are restored and, given the absence of evidence on the weight of the paper used, the Court decides that the carrier has failed to discharge its legal burden.
+The Hague Rules must be read against the background of the common law rules on bailment [7].
+There are two fundamental principles in the law of bailment: (i) a bailee of goods is only under a limited duty to take reasonable care of the goods, but (ii) the bailee nonetheless bears the legal burden of proving the absence of negligence [8 9].
+A contract of carriage governed by the Hague Rules is a contract of bailment for reward, to which the same principles apply, unless excluded by the Rules [11].
+The Hague Rules do not exclude them.
+They are only a complete code on matters which they cover and thus not exhaustive [15].
+In particular, they do not deal generally with the burden of proof, which in accordance with ordinary principles of private international law are matters for the law of the forum [15].
+As with common law bailment, imposing a duty of care on the carrier by article III.2 of the Hague Rules is consistent with his bearing the burden of disproving negligence [17].
+That conclusion is reinforced by the relationship between articles III and IV.
+Article IV covers negligent acts or omissions of the carrier which would otherwise constitute breaches of article III.2.
+It would be incoherent for the law to impose the burden of proving the same fact on the carrier under article IV, but on the cargo owner under article III.2 [18].
+As to article IV, it is well established that the exceptions cannot be relied upon if they were caused to operate by the negligence of the carrier [28, 37].
+The carrier must prove facts which show not only that an excepted peril existed, but that it was causative of the damage [37].
+This means that the general rule is that the carrier bears the burden of proving that the exception was not caused to operate by the carriers negligence [33, 37].
+The Supreme Court considers that The GLENDARROCH [1894] P 226 (CA) is no longer good law [31 33].
+In the case of the exception in article IV.2(m) for inherent vice, the test is whether the cargo was fit to withstand the ordinary incidents of the specified service, and its application can be decided only by reference to some assumed standard of care [39].
+The mere propensity of the cargo to emit moisture is not inherent vice if reasonable care in lining the containers would have resulted in the cargo being discharged undamaged [39].
+The Supreme Court considers that the Court of Appeal was not justified in overturning the judges two material factual findings, since it was not shown that the judge was plainly wrong [40 42].

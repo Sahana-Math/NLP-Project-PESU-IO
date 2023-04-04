@@ -1,0 +1,48 @@
+This case is about the application of EU food hygiene rules to certain chicken and pork products manufactured by the appellant, Newby Foods Ltd (Newby).
+Specifically, the appeal concerns whether these products should be classified as mechanically separated meat (MSM) within point 1.14 of Annex I to EU Regulation No 853/2004 (the Regulation).
+Newby argues they should not be classified as MSM.
+The Food Standards Agency (FSA) contends that they should be so classified.
+It is now common for the butchering of animal carcases in the food industry across the EU to be carried out by machines.
+These often leave a significant amount of meat on the bone.
+Under the Regulation, there are two types of MSM: (1) high pressure MSM and (2) low pressure MSM.
+The specific hygiene requirements for both are set by paragraphs 3 4, Chapter III, Section V, Annex III in the Regulation.
+Further, MSM cannot count towards food meat content and attracts specific labelling requirements.
+MSM produced from lamb and beef bones is prohibited entirely under EU law.
+Consequently, the commercial value of MSM is much lower than that of other fresh meat products.
+Newby has developed a machine to remove residual meat from carcase bones.
+It uses this to process residual meat on beef, lamb and pork bones after the initial boning of the animal carcases and on chicken carcases after the breasts have first been removed by other mechanical processes.
+The Newby process has two stages: (1) meat bearing bones are forced into contact to remove meat by shearing and (2) meat so removed is then passed through a machine producing a product similar to minced meat.
+Newbys meat product was previously known in the UK as desinewed meat (DSM).
+It was widely regarded as distinct from MSM, including by the FSA.
+DSM is not a category recognised in EU law.
+On 4 April 2012, following criticism by the Commission, the FSA issued a moratorium with the result that DSM could (1) no longer be produced from residual meat on beef and lamb bones and (2) only be produced from residual meat on chicken and pork bones if classified and labelled as MSM.
+Newby brought judicial review proceedings challenging the moratorium.
+On 16 July 2013, Edwards Stuart J in the High Court made a preliminary reference to the Court of Justice of the European Union (CJEU) on the definition of MSM in point 1.14 of Annex I of the Regulation (point 1.14).
+The CJEU made a preliminary ruling on 16 October 2014 (the CJEU judgment).
+After the CJEU judgment, Newby abandoned its challenge to the moratorium as to lamb and beef carcases, but not pork and chicken.
+On 23 March 2016, Edwards Stuart J concluded that the pork and chicken meat products resulting from stage (1) of Newbys process are not MSM.
+He also found that such DSM was not a product derived from bone scrapings.
+The Court of Appeal allowed the appeal and dismissed the challenge to the moratorium, but upheld the judges finding as to bone scrapings.
+Newby now appeals to the Supreme Court on the proper interpretation of point 1.14 in light of the CJEU judgment.
+The Supreme Court unanimously dismisses the appeal.
+Lord Sales gives the lead judgment, with which all members of the Court agree.
+The proper interpretation of point 1.14 requires a correct application of the guidance provided in the CJEU judgment [51].
+In its preliminary ruling, the CJEU identified three cumulative criteria in defining MSM for the purposes of point 1.14: (1) the use of bones from which the intact muscles have already been detached, or of poultry carcases, to which meat remains attached; (2) the use of methods of mechanical separation to recover that meat; and (3) the loss or modification of the muscle fibre structure of the meat recovered through the use of those processes [26].
+The CJEU added that any meat product which satisfies those three criteria must be classified as MSM, irrespective of the degree of loss or modification of the muscle fibre structure, provided the loss or modification is greater than that which is strictly confined to the cutting point (the cutting point qualification) [26].
+In the Supreme Court, it was common ground between the parties that Newbys pork and chicken products meet the first two criteria for categorisation of MSM within point 1.14 [52].
+The appeal thus turns on whether Newbys products meet criterion (3), in light of the cutting point qualification [52].
+As identified in the courts below, there are two main possible readings of what the CJEU meant by cutting point: (1) on a narrower reading, it refers to the cutting of intact muscles, or (2) on a more expansive reading, it refers to the points at which the meat has been severed or separated during the process of recovering it [39].
+Edwards Stuart J favoured the more expansive reading [42 43], while the Court of Appeal preferred the narrower reading [45 46].
+This Court finds that, on the proper interpretation of the CJEU judgment, the narrower reading is correct [51].
+First, the way in which the CJEU formulated criterion (1) reflects the words removing meat from flesh bearing bones after boning or from poultry carcases in point 1.14 [54].
+The CJEUs formulation speaks of meat remaining attached to poultry carcases, rather than simply referring to poultry carcases, which would include all (not merely some of) the meat on the carcase [55].
+Secondly, the CJEU clearly held that the concept of MSM does not depend on it being shown that the process referred to in point 1.14 results in a loss or modification of the muscle fibre structure which is significant, rejecting outright Newbys case [56].
+On the CJEUs approach, the dividing line is much clearer.
+Meat removed from a carcase will not be MSM if it is removed by mechanical means in the first phase of cutting meat from the whole carcase, but will generally be MSM if it is later removed by mechanical means [57].
+This clear distinction avoids the need for microscopic investigation [57].
+Thirdly, the legal analysis is not affected by evidence (1) that chicken carcases will occasionally be subjected to Newbys process without the breasts first being removed or (2) that the wishbone is usually cut out of the breast meat before mechanical removal of whole chicken breasts [61 63].
+Lastly and importantly, the CJEU judgment made it explicit that, applying the definition in point 1.14, Newbys products fall to be categorised as MSM [66].
+The CJEU was entitled to express its view on the application of point 1.14 to this case and there is nothing to call into question its analysis [69 75].
+After the CJEU judgment, the position is acte clair and no further reference to the CJEU is needed [76].
+The Court reaches the above conclusions having seen, but not relied on, further evidence submitted by three of the four interveners [49 50].
+The Court refuses permission to admit this further evidence due to unfairness to the FSA and, in any event, this evidence is not considered to affect the outcome [50].

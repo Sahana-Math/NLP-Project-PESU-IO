@@ -1,0 +1,55 @@
+The dispute which has given rise to this appeal is a product of the failure of Icelands entire banking system in the autumn of 2008.
+The issue is how cross claims between two credit institutions are to be dealt with in insolvency proceedings in two different states in the European Economic Area (the EEA).
+Landsbanki Islands hf (Landsbanki) is an Icelandic company.
+Its wholly owned subsidiary, Heritable Bank plc (Heritable), is a Scottish company.
+Both companies have been in formal insolvency since 7 October 2008.
+On that date, the Court of Session appointed joint administrators to Heritable, and the Financial Services Authority of Iceland took control of Landsbanki.
+The District Court of Reykjavik later appointed a winding up board to Landsbanki [1 3, 38].
+The relevant European legislation is Directive 2001/24/EC of 4 April 2001 on the reorganisation and winding up of credit institutions (the Directive), which applies to EU Member States and non EU countries in the EEA, including Iceland.
+The Directive was implemented in the UK by The Credit Institutions (Reorganisation and Winding up) Regulations 2004 (the Regulations).
+Landsbanki is an EEA credit institution for the purpose of Part 2 of the Regulations.
+Heritable is a UK credit institution for the purposes of Parts 3 and 4.
+Regulation 5 in Part 2 of the Regulations provides in essence that an EEA insolvency measure has effect in the UK in relation to the branches of an EEA credit institution, its property and assets, and its debts and liabilities, as if it were part of the general law of insolvency of the UK [2, 4, 23, 33].
+Landsbanki submitted a total of four claims in Heritables administration in Scotland, but only one, submitted in December 2008 for about 86m in respect of a revolving credit facility governed by English law, is the subject of this appeal.
+Heritables administrators rejected that claim in November 2009, applying the Scots law rule on the balancing of accounts in bankruptcy, on the ground that Heritable had claims against Landsbanki which equalled or exceeded the amount of Landsbankis claim and which served to extinguish it.
+Later in November 2009, Landsbanki appealed to the Court of Session in Scotland against the administrators decision.
+In October 2009 Heritable had submitted four claims in Landsbankis winding up in Iceland.
+In January 2010 Landsbankis winding up board rejected three and accepted the fourth in a reduced amount.
+Heritables administrators formally objected to these decisions in February 2010 [5 10].
+In the Court of Session appeal in Scotland, Landsbanki argued that the rejection of Heritables claims had effect and was binding in the UK in terms of regulation 5 of the Regulations, and that Heritables administrators were therefore bound to hold that Heritable had no claim against Landsbanki which could operate by way of set off.
+Heritable argued that Landsbankis argument was irrelevant.
+In Iceland, Heritables administrators asked that no further steps be taken in relation to their objections until Landsbankis Court of Session appeal in Scotland had been finally determined.
+Landsbankis winding up board declined this request and referred the objections to the District Court of Reykjavik in March 2010.
+Heritables administrators unsuccessfully sought a stay of those proceedings pending a determination of the point before the Court of Session [10, 12].
+Back in Scotland, the Lord Ordinary in the Court of Session found in favour of Landsbanki in July 2010 after a debate.
+Following this decision, Heritables administrators withdrew Heritables claims from Landsbankis winding up in August 2010.
+Landsbanki then issued a counterclaim in the proceedings in the District Court of Reykjavik seeking a declaration that the Heritable claims had been extinguished.
+Heritables administrators
+successfully applied to discontinue the proceedings before the District Court of Reykjavik and the appeal of Landsbankis winding up board to the Icelandic Supreme Court was unsuccessful.
+Back again in Scotland, Heritable appealed against the Lord Ordinarys decision and the Inner House of the Court of Session reversed the Lord Ordinary in September 2011.
+Landsbanki now appeal to the Supreme Court.
+The issue is whether Heritables claims, extinguished as a matter of Icelandic law, are to be treated as extinguished in Heritables administration so that Heritables administrators cannot use them to set off Landsbankis claim [11, 13 16, 22, 43].
+The Supreme Court unanimously dismisses Landsbankis appeal.
+It affirms the decision of the Inner House of the Court of Session.
+The judgment is given by Lord Hope with whom all the other Justices agree [62].
+Heritables administrators may use the Heritable claims by way of set off against Landsbankis claim.
+The key to a proper understanding of regulation 5 lies in an appreciation of the fact that, while it is designed to give effect to the mandatory choice of the law of insolvency of the EEA state in which the foreign credit institution is located, it is not concerned in the least with the effects of the mandatory choice of Scots law for the administration of Heritable in Scotland.
+Those effects are provided for in Parts 3 and 4 of the Regulations, which have nothing to do with the effects of the mandatory choice of the law of Iceland for the winding up of Landsbanki [58].
+Seen in the context of Part 2 of the Regulations (which is concerned with jurisdiction in relation to credit institutions), there is nothing remarkable about what regulation 5 sets out: even if an EEA credit institution has branches in the UK, the entire process of winding up must be conducted in its home state.
+Applied in this case, regulation 5 provides, among other things, that Landsbankis property or assets located in Scotland are not to be disposed of in accordance with Scots law, and that steps by a creditor to enforce a claim against Landsbanki are to be pursued solely in the proceedings in Iceland.
+For the purposes of the winding up, decisions taken by the winding up board are to be given effect in Scotland.
+In this way the integrity of the exclusive jurisdiction that is given to Iceland is preserved.
+But the provisions of regulation 5 are concerned only with the winding up in Iceland in relation to Landsbanki and it is only for that purpose that the winding up is to have effect as if it were part of the general law of insolvency in the UK.
+The provisions do not apply to the administration of Heritable in Scotland.
+The rules which apply to Heritable are set out in Parts 3 and 4 of the Regulations [52 54].
+Regulations in Parts 3 and 4 provide that the general law of insolvency has effect in relation to UK credit institutions and that matters such as the conditions under which set off may be invoked and the rules governing, among other things, the admission and ranking of claims are to be determined in accordance with the general law of insolvency of the UK.
+They also preserve the right of creditors to demand the set off of their claims against the claims of the insolvent credit institution, where set off is permitted by the law applicable to the credit institutions claim.
+Issues of set off are therefore to be determined as the common law of Scotland requires, according to the proper law of the contract.
+That rule is conceived in the interests of creditors in other EEA states, bearing in mind that exclusive jurisdiction is given to the UK as the home state.
+The creditors right to claim set off is put onto the same basis as creditors in the UK [56, 57].
+Although not decisive, Landsbankis argument also produces an arbitrary and unprincipled outcome.
+Its logic is that Heritables claims against Landsbanki would have been extinguished even if Heritable had been a wholly solvent company.
+The only way for Heritable to have avoided the extinguishment of its claim and therefore retained the right to use it by way of set off would have been for it to lodge and maintain it in Landsbankis winding up, even if it would not have been cost effective to do so or the prospects of recovery were nil.
+The effect of Landsbankis argument would also be to give universal priority to the process in which a decision happened to be made first.
+That would encourage forum shopping, especially where there was a prospect of inconsistent findings as to the validity of a claim in different states.
+It is hard to believe that this was intended by the framers of the Directive [59 61].

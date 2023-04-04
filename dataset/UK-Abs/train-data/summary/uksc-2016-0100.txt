@@ -1,0 +1,47 @@
+The Solicitors Act 1974 allows the Law Society to make rules requiring solicitors to maintain professional indemnity insurance.
+The rules made by the Law Society require such insurance to satisfy certain Minimum Terms and Conditions (MTC).
+The MTC prescribes a minimum figure for which solicitors must be insured for any one claim.
+It also permits the aggregation of claims in a number of circumstances including where the claims arise from similar acts or omissions in a series of related matters or transactions (Clause 2.5(a)(iv)) [1].
+Midas International Property Development Plc sought to develop two holiday resorts, one in Turkey known as Peninsula Village and one in Marrakech, Morocco [3].
+These were to be financed by private investors who would be granted security over the development land.
+A trust was set up for each development which either owned, or held a charge over, the development land.
+The developers solicitors were the initial trustees and the investors were the beneficiaries.
+The funds advanced by the investors were initially held by the solicitors in an escrow account.
+They were not to be released to the developers unless and until the value of the assets held by the trust was sufficient to cover the investment to be protected, applying a cover test set out in the trust deed [4].
+For each investment, the developers solicitors opened a file, including a loan or purchase agreement between the investor and developers and an escrow agreement between the investor, developer and the solicitors [5].
+The developers entered an agreement for the purchase of (i) the Peninsula Village site in April 2007 and (ii) shares in a local company which owned the Marrakech site in November 2007.
+The solicitors subsequently released to the developers tranches of the investment funds for each development.
+In May 2008, the Financial Services Authority prohibited the developers from receiving any further investment in relation to the developments and the developers were unable to complete the purchase of either site.
+The developers were wound up in November 2009 [6 7].
+The investors brought two claims against the developers solicitors in the Chancery Division; one relating to each of the development sites.
+They alleged that the solicitors had failed to properly apply the cover test before releasing funds to the developers, resulting in the funds being released without adequate security [3, 8].
+The solicitors had professional indemnity insurance with the appellant.
+The appellants liability is limited to 3m in respect of each claim.
+The investors claims amount to over 10m in total.
+The insurers issued proceedings against the solicitors in the Commercial Court for a declaration that the investors claims in the Chancery Division be considered as one claim under the aggregation provision in clause 2.5(a)(iv) MTC [9].
+The Commercial Court dismissed the claim.
+It accepted that all the claims arose from similar acts or omissions, but rejected that they were in a series of related matters of transactions since the transactions between the developers and each investor where not mutually dependent [11].
+The Court of Appeal did not agree that the transactions had to be dependent on each other.
+In allowing the appeal it held that the matters or transactions had to have an intrinsic relationship with each other, not an extrinsic relationship with a third factor [12].
+The Supreme Court unanimously allows AIGs appeal.
+Lord Toulson, with whom the other justices agree gives the lead judgment.
+Clause 2.5(a)(iv) MTC has two separate limbs, each of which must be satisfied in order for it to apply.
+The first is that the claims arose from similar acts or omissions.
+It is not in dispute that this is satisfied in this case.
+The second is the requirement that the claims were in a series of related matters or transactions.
+This is an important limitation, without which the scope for aggregation would be almost limitless [17, 22].
+However, it is difficult to understand what the Court of Appeal meant by the term intrinsic in the context of a relationship between two transactions [21].
+The use of the word related implies that there must be some interconnection between the matters or transactions, however the Law Society did not see it fit to circumscribe this limb by any particular criteria, such as intrinsic.
+This is unsurprising since determining whether transactions are related is an acutely fact sensitive exercise [22].
+The application of the aggregation clause is not to be viewed from the perspective of any particular party.
+It is to be judged objectively, taking the transactions in the round [25].
+The starting point is to identify the relevant matter or transactions [23, 27].
+The transactions in this case involved an investment in a particular development scheme under a contractual arrangement that was primarily bilateral, but had an important trilateral component by reason of the solicitors role as trustees and escrow agent [23].
+The transactions entered into in respect of each development were connected in significant ways.
+Each set of investors invested in a common development, they were participants in a standard scheme and co beneficiaries under a common trust [24].
+On the facts as they currently appear, the claims of each group of investors arise from acts or omissions in a series of related transactions; the transactions shared a common underlying objective of the execution of a particular development project and also fitted together legally through the trusts [26].
+However, the transactions entered into by the Peninsula Village investors cannot be said to be related to those entered into by the Marrakech investors.
+They related to different sites, had different groups of investors and were protected by different deeds of trust over different assets.
+They should therefore not be aggregated together [27].
+A number of investors transferred their investments from Peninsula Village to the Marrakech development, entering into a new loan agreement and new escrow agreement.
+On the facts as they currently appear, any claim made by such an investor in respect of the Peninsula Village development should be aggregated with the claims made by the other investors in that development and any claim made by that investor in respect of the Marrakech development should be aggregated with their first claim [29].

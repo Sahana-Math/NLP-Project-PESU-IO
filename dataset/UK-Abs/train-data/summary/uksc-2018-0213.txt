@@ -1,0 +1,50 @@
+This appeal concerns the circumstances in which an employer is vicariously liable for wrongs committed by its employees, and also whether vicarious liability may arise for breaches by an employee of duties imposed by the Data Protection Act 1998 (DPA).
+The appellant operates a chain of supermarkets and employed Andrew Skelton on its internal audit team.
+In July 2013, Skelton received a verbal warning after disciplinary proceedings for minor misconduct and bore a grievance against the appellant thereafter.
+In November 2013, Skelton was tasked with transmitting payroll data for the appellants entire workforce to its external auditors, as he had done the previous year.
+Skelton did so, but also made and kept a personal copy of the data.
+In early 2014, he used this to upload a file containing the data to a publicly accessible filesharing website.
+Skelton later also sent the file anonymously to three UK newspapers, purporting to be a concerned member of the public who had found it online.
+The newspapers did not publish the information.
+Instead, one alerted the appellant, which took immediate steps to have the data removed from the internet and to protect its employees, including by alerting police.
+Skelton was soon arrested and has since been prosecuted and imprisoned.
+The respondents, some of the affected employees, brought proceedings against the appellant personally and on the basis of its vicarious liability for Skeltons acts.
+Their claims were for breach of statutory duty under the DPA, misuse of private information, and breach of confidence.
+At trial, the judge concluded that the appellant bore no primary responsibility but was vicariously liable on each basis claimed.
+The judge rejected the appellants argument that vicarious liability was inapplicable given the DPAs content and its foundation in an EU Directive.
+The judge also held that Skelton had acted in the course of his employment, on the basis of Lord Toulsons judgment in Mohamud v WM Morrison Supermarkets plc [2016] UKSC 11 (Mohamud).
+The appellants subsequent appeal to the Court of Appeal was dismissed.
+The Supreme Court unanimously allows the appeal.
+Lord Reed gives the only judgment, with which Lady Hale, Lord Kerr, Lord Hodge and Lord Lloyd Jones agree.
+The primary issue before the Court is whether the appellant is vicariously liable for Skeltons conduct.
+The starting point is Lord Toulsons judgment in Mohamud, which was not intended to change the law of vicarious liability but rather to follow existing precedents [16 21].
+One such authority was the House of Lords decision in Dubai Aluminium Co Ltd v Salaam [2003] 2 AC 366 (Dubai Aluminium), where Lord Nicholls explained the existing close connection test of whether the wrongful conduct was so closely connected with acts the employee was authorised to do that for the purposes of the liability of
+the employer to third parties, it may fairly and properly be regarded as done by the employee while acting in the ordinary course of his employment.
+The test had to be applied having regard to the circumstances of the case and previous court decisions, following Dubai Aluminium [22 23].
+Having explained the close connection test, Lord Toulson summarised the law in the simplest terms.
+The first question was what functions or field of activities the employer had entrusted to the employee.
+Next, the court must decide whether there was sufficient connection between the position in which he was employed and his wrongful conduct to make it right for the employer to be held liable under the principle of social justice which goes back to Holt CJ.
+This had been more fully explained in Dubai Aluminium by Lord Nicholls as set out above [25].
+Lord Toulson was not suggesting any departure from Lord Nicholls approach [26].
+Further, read in context, Lord Toulsons comments that on the facts of Mohamud there was an unbroken sequence of events and a seamless episode referred to the capacity in which the employee had been purporting to act when the wrongful conduct took place, namely about his employers business [28].
+Lord Toulsons comment, in relation to the facts of Mohamud, that motive is irrelevant should not be taken out of context: whether the employee was acting on his employers business or for personal reasons was important, but, on the facts of Mohamud, the reason why he had committed the tort could not make a material difference to the outcome [29 30].
+The Court concludes that the judge and the Court of Appeal misunderstood the principles governing vicarious liability in a number of respects.
+First, the online disclosure of the data was not part of Skeltons field of activities, as it was not an act which he was authorised to do.
+Secondly, the satisfaction of the factors referred to by Lord Phillips in Various Claimants v Catholic Child Welfare Society [2012] UKSC 56 was not to the point: those factors were relevant to whether, where the wrongdoer was not an employee, the relationship between wrongdoer and defendant was sufficiently akin to employment for vicarious liability to subsist.
+They were not concerned with whether employees wrongdoing was so closely connected with their employment that vicarious liability ought to be imposed.
+Thirdly, a temporal or causal connection alone does not satisfy the close connection test.
+Finally, it was highly material whether Skelton was acting on his employers business or for purely personal reasons [31].
+Considering the question afresh, no vicarious liability arises in the present case.
+Skelton was authorised to transmit the payroll data to the auditors.
+His wrongful disclosure of the data was not so closely connected with that task that it can fairly and properly be regarded as made by Skelton while acting in the ordinary course of his employment.
+On long established principles, the fact that his employment gave him the opportunity to commit the wrongful act is not sufficient to warrant the imposition of vicarious liability.
+An employer is not normally vicariously liable where the employee was not engaged in furthering his employers business, but rather was pursuing a personal vendetta.
+The close connection test elucidated by Lord Nicholls in Dubai Aluminium, in light of the cases that have applied it and on the particular facts of the present appeal, is not satisfied [32 47].
+The second major issue before the Court is whether the DPA excludes imposition of vicarious liability for either statutory or common law wrongs.
+It is not strictly necessary to consider this in light of the above conclusion, but as full argument was heard, it is desirable that the Court expresses a view [48].
+Ultimately the Court finds the appellants argument that liability is excluded unpersuasive.
+Imposing statutory liability on a data controller like Skelton is not inconsistent with the co existence of vicarious liability at common law, whether for breach of the DPA or for a common law or equitable wrong, as the DPA says nothing about a data controllers employer.
+It is irrelevant that a data controllers statutory liability under the DPA is based on a lack of reasonable care, while vicarious liability for an employees conduct requires no proof of fault.
+The same contrast exists at common law between, for example, an employees liability in negligence and an employers vicarious liability.
+It makes no difference that an employees liability may arise under statute instead [54 55].
+The appeal is therefore allowed [56].
